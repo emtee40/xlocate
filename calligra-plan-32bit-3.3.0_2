@@ -1,0 +1,44 @@
+/usr/lib32/libkdeinit5_calligraplan.so
+/usr/lib32/libkdeinit5_calligraplanwork.so
+/usr/lib32/libplankernel.so -> /usr/lib32/libplankernel.so.18
+/usr/lib32/libplankernel.so.18 -> /usr/lib32/libplankernel.so.18.0.0
+/usr/lib32/libplankernel.so.18.0.0
+/usr/lib32/libplankundo2.so -> /usr/lib32/libplankundo2.so.18
+/usr/lib32/libplankundo2.so.18 -> /usr/lib32/libplankundo2.so.18.0.0
+/usr/lib32/libplankundo2.so.18.0.0
+/usr/lib32/libplanmain.so -> /usr/lib32/libplanmain.so.18
+/usr/lib32/libplanmain.so.18 -> /usr/lib32/libplanmain.so.18.0.0
+/usr/lib32/libplanmain.so.18.0.0
+/usr/lib32/libplanmodels.so -> /usr/lib32/libplanmodels.so.18
+/usr/lib32/libplanmodels.so.18 -> /usr/lib32/libplanmodels.so.18.0.0
+/usr/lib32/libplanmodels.so.18.0.0
+/usr/lib32/libplanodf.so -> /usr/lib32/libplanodf.so.18
+/usr/lib32/libplanodf.so.18 -> /usr/lib32/libplanodf.so.18.0.0
+/usr/lib32/libplanodf.so.18.0.0
+/usr/lib32/libplanplugin.so -> /usr/lib32/libplanplugin.so.18
+/usr/lib32/libplanplugin.so.18 -> /usr/lib32/libplanplugin.so.18.0.0
+/usr/lib32/libplanplugin.so.18.0.0
+/usr/lib32/libplanprivate.so -> /usr/lib32/libplanprivate.so.18
+/usr/lib32/libplanprivate.so.18 -> /usr/lib32/libplanprivate.so.18.0.0
+/usr/lib32/libplanprivate.so.18.0.0
+/usr/lib32/libplanstore.so -> /usr/lib32/libplanstore.so.18
+/usr/lib32/libplanstore.so.18 -> /usr/lib32/libplanstore.so.18.0.0
+/usr/lib32/libplanstore.so.18.0.0
+/usr/lib32/libplanui.so -> /usr/lib32/libplanui.so.18
+/usr/lib32/libplanui.so.18 -> /usr/lib32/libplanui.so.18.0.0
+/usr/lib32/libplanui.so.18.0.0
+/usr/lib32/libplanwidgets.so -> /usr/lib32/libplanwidgets.so.18
+/usr/lib32/libplanwidgets.so.18 -> /usr/lib32/libplanwidgets.so.18.0.0
+/usr/lib32/libplanwidgets.so.18.0.0
+/usr/lib32/libplanwidgetutils.so -> /usr/lib32/libplanwidgetutils.so.18
+/usr/lib32/libplanwidgetutils.so.18 -> /usr/lib32/libplanwidgetutils.so.18.0.0
+/usr/lib32/libplanwidgetutils.so.18.0.0
+/usr/lib32/libplanworkfactory.so -> /usr/lib32/libplanworkfactory.so.18
+/usr/lib32/libplanworkfactory.so.18 -> /usr/lib32/libplanworkfactory.so.18.0.0
+/usr/lib32/libplanworkfactory.so.18.0.0
+/usr/lib32/qt5/plugins/calligraplan/formatfilters/planicalexport.so
+/usr/lib32/qt5/plugins/calligraplan/formatfilters/plankplatoimport.so
+/usr/lib32/qt5/plugins/calligraplan/formatfilters/planplannerimport.so
+/usr/lib32/qt5/plugins/calligraplan/parts/calligraplanpart.so
+/usr/lib32/qt5/plugins/calligraplan/schedulers/libplantjscheduler.so
+/usr/lib32/qt5/plugins/calligraplanworkpart.so

@@ -1,0 +1,9 @@
+/usr/bin/cert-to-efi-hash-list
+/usr/bin/cert-to-efi-sig-list
+/usr/bin/efi-readvar
+/usr/bin/efi-updatevar
+/usr/bin/efitool-mkusb
+/usr/bin/flash-var
+/usr/bin/hash-to-efi-sig-list
+/usr/bin/sig-list-to-certs
+/usr/bin/sign-efi-sig-list

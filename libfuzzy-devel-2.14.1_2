@@ -1,0 +1,4 @@
+/usr/include/edit_dist.h
+/usr/include/fuzzy.h
+/usr/lib/libfuzzy.a
+/usr/lib/libfuzzy.so -> /usr/lib/libfuzzy.so.2.1.0

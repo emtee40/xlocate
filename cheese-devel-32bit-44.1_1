@@ -1,0 +1,4 @@
+/usr/lib32/libcheese-gtk.so -> /usr/lib32/libcheese-gtk.so.25
+/usr/lib32/libcheese.so -> /usr/lib32/libcheese.so.8
+/usr/lib32/pkgconfig/cheese-gtk.pc
+/usr/lib32/pkgconfig/cheese.pc

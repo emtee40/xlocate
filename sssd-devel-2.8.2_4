@@ -1,0 +1,16 @@
+/usr/include/ipa_hbac.h
+/usr/include/sss_certmap.h
+/usr/include/sss_idmap.h
+/usr/include/sss_nss_idmap.h
+/usr/include/sss_sifp.h
+/usr/include/sss_sifp_dbus.h
+/usr/lib/libipa_hbac.so -> /usr/lib/libipa_hbac.so.0.1.0
+/usr/lib/libsss_certmap.so -> /usr/lib/libsss_certmap.so.0.2.0
+/usr/lib/libsss_idmap.so -> /usr/lib/libsss_idmap.so.0.5.1
+/usr/lib/libsss_nss_idmap.so -> /usr/lib/libsss_nss_idmap.so.0.6.0
+/usr/lib/libsss_simpleifp.so -> /usr/lib/libsss_simpleifp.so.0.1.1
+/usr/lib/pkgconfig/ipa_hbac.pc
+/usr/lib/pkgconfig/sss_certmap.pc
+/usr/lib/pkgconfig/sss_idmap.pc
+/usr/lib/pkgconfig/sss_nss_idmap.pc
+/usr/lib/pkgconfig/sss_simpleifp.pc

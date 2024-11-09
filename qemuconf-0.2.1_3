@@ -1,0 +1,7 @@
+/etc/qemu.d/generic.conf
+/etc/sv/qemu-generic/run
+/etc/sv/qemu-generic/supervise -> /run/runit/supervise.qemu-generic
+/usr/bin/qemuconf
+/usr/bin/qemuconf_import.sh
+/usr/share/licenses/qemuconf/LICENSE
+/usr/share/man/man1/qemuconf.1

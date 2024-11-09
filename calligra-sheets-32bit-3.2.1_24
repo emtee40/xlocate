@@ -1,0 +1,23 @@
+/usr/lib32/libcalligrasheetscommon.so -> /usr/lib32/libcalligrasheetscommon.so.17
+/usr/lib32/libcalligrasheetscommon.so.17 -> /usr/lib32/libcalligrasheetscommon.so.17.0.0
+/usr/lib32/libcalligrasheetscommon.so.17.0.0
+/usr/lib32/libcalligrasheetsodf.so -> /usr/lib32/libcalligrasheetsodf.so.17
+/usr/lib32/libcalligrasheetsodf.so.17 -> /usr/lib32/libcalligrasheetsodf.so.17.0.0
+/usr/lib32/libcalligrasheetsodf.so.17.0.0
+/usr/lib32/libkdeinit5_calligrasheets.so
+/usr/lib32/qt5/plugins/calligra/parts/calligrasheetspart.so
+/usr/lib32/qt5/plugins/calligrasheets/extensions/krossmodulesheets.so
+/usr/lib32/qt5/plugins/calligrasheets/extensions/sheetssolver.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadbitopsmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadconversionmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreaddatabasemodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreaddatetimemodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadengineeringmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadfinancialmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadinformationmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadlogicmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadmathmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadreferencemodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadstatisticalmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadtextmodule.so
+/usr/lib32/qt5/plugins/calligrasheets/functions/kspreadtrigonometrymodule.so

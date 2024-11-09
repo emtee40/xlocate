@@ -1,0 +1,4 @@
+/usr/lib/initcpio/hooks/encryptssh
+/usr/lib/initcpio/install/encryptssh
+/usr/share/licenses/mkinitcpio-utils/LICENSE
+/usr/share/mkinitcpio-utils/utils/shells/cryptsetup_shell

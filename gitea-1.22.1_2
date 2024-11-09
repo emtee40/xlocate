@@ -1,0 +1,7 @@
+/etc/gitea.conf
+/etc/sv/gitea/log/run
+/etc/sv/gitea/log/supervise -> /run/runit/supervise.gitea-log
+/etc/sv/gitea/run
+/etc/sv/gitea/supervise -> /run/runit/supervise.gitea
+/usr/bin/gitea
+/usr/share/licenses/gitea/LICENSE

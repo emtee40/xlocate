@@ -1,0 +1,3 @@
+/usr/libexec/telepathy-haze
+/usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.haze.service
+/usr/share/man/man8/telepathy-haze.8

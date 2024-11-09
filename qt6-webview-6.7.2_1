@@ -1,0 +1,12 @@
+/usr/lib/libQt6WebView.so.6 -> /usr/lib/libQt6WebView.so.6.7.2
+/usr/lib/libQt6WebView.so.6.7.2
+/usr/lib/libQt6WebViewQuick.so.6 -> /usr/lib/libQt6WebViewQuick.so.6.7.2
+/usr/lib/libQt6WebViewQuick.so.6.7.2
+/usr/lib/qt6/metatypes/qt6webview_none_metatypes.json
+/usr/lib/qt6/metatypes/qt6webviewquick_none_metatypes.json
+/usr/lib/qt6/modules/WebView.json
+/usr/lib/qt6/modules/WebViewQuick.json
+/usr/lib/qt6/plugins/webview/libqtwebview_webengine.so
+/usr/lib/qt6/qml/QtWebView/libqtwebviewquickplugin.so
+/usr/lib/qt6/qml/QtWebView/plugins.qmltypes
+/usr/lib/qt6/qml/QtWebView/qmldir

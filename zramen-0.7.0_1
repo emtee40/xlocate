@@ -1,0 +1,7 @@
+/etc/sv/zramen/conf
+/etc/sv/zramen/finish
+/etc/sv/zramen/run
+/etc/sv/zramen/supervise -> /run/runit/supervise.zramen
+/usr/bin/zramen
+/usr/share/doc/zramen/README.md
+/usr/share/licenses/zramen/UNLICENSE

@@ -1,0 +1,13 @@
+/usr/lib32/gallium-pipe/pipe_crocus.so
+/usr/lib32/gallium-pipe/pipe_i915.so
+/usr/lib32/gallium-pipe/pipe_iris.so
+/usr/lib32/gallium-pipe/pipe_nouveau.so
+/usr/lib32/gallium-pipe/pipe_r300.so
+/usr/lib32/gallium-pipe/pipe_r600.so
+/usr/lib32/gallium-pipe/pipe_radeonsi.so
+/usr/lib32/gallium-pipe/pipe_swrast.so
+/usr/lib32/gallium-pipe/pipe_vmwgfx.so
+/usr/lib32/libMesaOpenCL.so.1 -> /usr/lib32/libMesaOpenCL.so.1.0.0
+/usr/lib32/libMesaOpenCL.so.1.0.0
+/usr/lib32/libRusticlOpenCL.so.1 -> /usr/lib32/libRusticlOpenCL.so.1.0.0
+/usr/lib32/libRusticlOpenCL.so.1.0.0

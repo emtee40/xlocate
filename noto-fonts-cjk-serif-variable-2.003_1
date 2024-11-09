@@ -1,0 +1,4 @@
+/etc/fonts/conf.d/70-noto-fonts-cjk-serif-variable.conf -> /usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-serif-variable.conf
+/usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-serif-variable.conf
+/usr/share/fonts/noto/NotoSerifCJK-VF.otf.ttc
+/usr/share/licenses/noto-fonts-cjk-serif-variable/LICENSE

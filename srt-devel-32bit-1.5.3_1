@@ -1,0 +1,4 @@
+/usr/lib32/libsrt.a
+/usr/lib32/libsrt.so -> /usr/lib32/libsrt.so.1.5
+/usr/lib32/pkgconfig/haisrt.pc
+/usr/lib32/pkgconfig/srt.pc

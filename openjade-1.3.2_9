@@ -1,0 +1,65 @@
+/usr/bin/jade -> /usr/bin/openjade
+/usr/bin/openjade
+/usr/lib/libogrove.so -> /usr/lib/libogrove.so.0.0.1
+/usr/lib/libogrove.so.0 -> /usr/lib/libogrove.so.0.0.1
+/usr/lib/libogrove.so.0.0.1
+/usr/lib/libospgrove.so -> /usr/lib/libospgrove.so.0.0.1
+/usr/lib/libospgrove.so.0 -> /usr/lib/libospgrove.so.0.0.1
+/usr/lib/libospgrove.so.0.0.1
+/usr/lib/libostyle.so -> /usr/lib/libostyle.so.0.0.1
+/usr/lib/libostyle.so.0 -> /usr/lib/libostyle.so.0.0.1
+/usr/lib/libostyle.so.0.0.1
+/usr/share/licenses/openjade/copying.txt
+/usr/share/sgml/openjade/README.jadetex
+/usr/share/sgml/openjade/builtins.dsl
+/usr/share/sgml/openjade/catalog
+/usr/share/sgml/openjade/demo.dsl
+/usr/share/sgml/openjade/demo.sgm
+/usr/share/sgml/openjade/doc/archform.htm
+/usr/share/sgml/openjade/doc/build.htm
+/usr/share/sgml/openjade/doc/catalog.htm
+/usr/share/sgml/openjade/doc/charset.htm
+/usr/share/sgml/openjade/doc/features.htm
+/usr/share/sgml/openjade/doc/generic.htm
+/usr/share/sgml/openjade/doc/ideas.htm
+/usr/share/sgml/openjade/doc/index.htm
+/usr/share/sgml/openjade/doc/new.htm
+/usr/share/sgml/openjade/doc/nsgmls.htm
+/usr/share/sgml/openjade/doc/sgmldecl.htm
+/usr/share/sgml/openjade/doc/sgmlnorm.htm
+/usr/share/sgml/openjade/doc/sgmlsout.htm
+/usr/share/sgml/openjade/doc/spam.htm
+/usr/share/sgml/openjade/doc/spent.htm
+/usr/share/sgml/openjade/doc/sx.htm
+/usr/share/sgml/openjade/doc/sysdecl.htm
+/usr/share/sgml/openjade/doc/sysid.htm
+/usr/share/sgml/openjade/doc/xml.htm
+/usr/share/sgml/openjade/dsssl.dtd
+/usr/share/sgml/openjade/extensions.dsl
+/usr/share/sgml/openjade/fot.dtd
+/usr/share/sgml/openjade/jadedoc/images/background.gif
+/usr/share/sgml/openjade/jadedoc/images/dsssltitle.gif
+/usr/share/sgml/openjade/jadedoc/images/space.gif
+/usr/share/sgml/openjade/jadedoc/images/top-of-page.gif
+/usr/share/sgml/openjade/pubtext/HTML32.dcl
+/usr/share/sgml/openjade/pubtext/HTML32.dtd
+/usr/share/sgml/openjade/pubtext/HTML32.soc
+/usr/share/sgml/openjade/pubtext/HTML4-f.dtd
+/usr/share/sgml/openjade/pubtext/HTML4-s.dtd
+/usr/share/sgml/openjade/pubtext/HTML4.dcl
+/usr/share/sgml/openjade/pubtext/HTML4.dtd
+/usr/share/sgml/openjade/pubtext/HTML4.soc
+/usr/share/sgml/openjade/pubtext/HTMLlat1.ent
+/usr/share/sgml/openjade/pubtext/HTMLspec.ent
+/usr/share/sgml/openjade/pubtext/HTMLsym.ent
+/usr/share/sgml/openjade/pubtext/ISOlat1.ent
+/usr/share/sgml/openjade/pubtext/ISOlat1.sgm
+/usr/share/sgml/openjade/pubtext/html-1.dtd
+/usr/share/sgml/openjade/pubtext/html-1s.dtd
+/usr/share/sgml/openjade/pubtext/html-s.dtd
+/usr/share/sgml/openjade/pubtext/html.dcl
+/usr/share/sgml/openjade/pubtext/html.dtd
+/usr/share/sgml/openjade/pubtext/html.soc
+/usr/share/sgml/openjade/pubtext/xml.dcl
+/usr/share/sgml/openjade/pubtext/xml.soc
+/usr/share/sgml/openjade/style-sheet.dtd

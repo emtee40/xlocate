@@ -1,0 +1,8 @@
+/usr/include/cpu_features/cpu_features_cache_info.h
+/usr/include/cpu_features/cpu_features_macros.h
+/usr/include/cpu_features/cpuinfo_x86.h
+/usr/lib/cmake/CpuFeatures/CpuFeaturesConfig.cmake
+/usr/lib/cmake/CpuFeatures/CpuFeaturesConfigVersion.cmake
+/usr/lib/cmake/CpuFeatures/CpuFeaturesTargets-none.cmake
+/usr/lib/cmake/CpuFeatures/CpuFeaturesTargets.cmake
+/usr/lib/libcpu_features.a

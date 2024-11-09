@@ -1,0 +1,9 @@
+/usr/include/luajit-2.1/lauxlib.h
+/usr/include/luajit-2.1/lua.h
+/usr/include/luajit-2.1/lua.hpp
+/usr/include/luajit-2.1/luaconf.h
+/usr/include/luajit-2.1/luajit.h
+/usr/include/luajit-2.1/lualib.h
+/usr/lib/libluajit-5.1.a
+/usr/lib/libluajit-5.1.so -> /usr/lib/libluajit-5.1.so.2.1.1725453128
+/usr/lib/pkgconfig/luajit.pc

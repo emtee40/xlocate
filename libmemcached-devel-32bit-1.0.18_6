@@ -1,0 +1,7 @@
+/usr/lib32/libhashkit.a
+/usr/lib32/libhashkit.so -> /usr/lib32/libhashkit.so.2.0.0
+/usr/lib32/libmemcached.a
+/usr/lib32/libmemcached.so -> /usr/lib32/libmemcached.so.11.0.0
+/usr/lib32/libmemcachedutil.a
+/usr/lib32/libmemcachedutil.so -> /usr/lib32/libmemcachedutil.so.2.0.0
+/usr/lib32/pkgconfig/libmemcached.pc

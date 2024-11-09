@@ -1,0 +1,7 @@
+/usr/include/speech-dispatcher/libspeechd.h
+/usr/include/speech-dispatcher/libspeechd_version.h
+/usr/include/speech-dispatcher/spd_audio_plugin.h
+/usr/include/speech-dispatcher/speechd_defines.h
+/usr/include/speech-dispatcher/speechd_types.h
+/usr/lib/libspeechd.so -> /usr/lib/libspeechd.so.2.6.0
+/usr/lib/pkgconfig/speech-dispatcher.pc

@@ -1,0 +1,30 @@
+/usr/lib32/libtss2-esys.a
+/usr/lib32/libtss2-esys.so -> /usr/lib32/libtss2-esys.so.0.0.0
+/usr/lib32/libtss2-mu.a
+/usr/lib32/libtss2-mu.so -> /usr/lib32/libtss2-mu.so.0.0.0
+/usr/lib32/libtss2-rc.a
+/usr/lib32/libtss2-rc.so -> /usr/lib32/libtss2-rc.so.0.0.0
+/usr/lib32/libtss2-sys.a
+/usr/lib32/libtss2-sys.so -> /usr/lib32/libtss2-sys.so.1.0.0
+/usr/lib32/libtss2-tcti-cmd.a
+/usr/lib32/libtss2-tcti-cmd.so -> /usr/lib32/libtss2-tcti-cmd.so.0.0.0
+/usr/lib32/libtss2-tcti-device.a
+/usr/lib32/libtss2-tcti-device.so -> /usr/lib32/libtss2-tcti-device.so.0.0.0
+/usr/lib32/libtss2-tcti-mssim.a
+/usr/lib32/libtss2-tcti-mssim.so -> /usr/lib32/libtss2-tcti-mssim.so.0.0.0
+/usr/lib32/libtss2-tcti-pcap.a
+/usr/lib32/libtss2-tcti-pcap.so -> /usr/lib32/libtss2-tcti-pcap.so.0.0.0
+/usr/lib32/libtss2-tcti-swtpm.a
+/usr/lib32/libtss2-tcti-swtpm.so -> /usr/lib32/libtss2-tcti-swtpm.so.0.0.0
+/usr/lib32/libtss2-tctildr.a
+/usr/lib32/libtss2-tctildr.so -> /usr/lib32/libtss2-tctildr.so.0.0.0
+/usr/lib32/pkgconfig/tss2-esys.pc
+/usr/lib32/pkgconfig/tss2-mu.pc
+/usr/lib32/pkgconfig/tss2-rc.pc
+/usr/lib32/pkgconfig/tss2-sys.pc
+/usr/lib32/pkgconfig/tss2-tcti-cmd.pc
+/usr/lib32/pkgconfig/tss2-tcti-device.pc
+/usr/lib32/pkgconfig/tss2-tcti-mssim.pc
+/usr/lib32/pkgconfig/tss2-tcti-pcap.pc
+/usr/lib32/pkgconfig/tss2-tcti-swtpm.pc
+/usr/lib32/pkgconfig/tss2-tctildr.pc

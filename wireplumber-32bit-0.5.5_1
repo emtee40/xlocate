@@ -1,0 +1,15 @@
+/usr/lib32/libwireplumber-0.5.so.0 -> /usr/lib32/libwireplumber-0.5.so.0.505.0
+/usr/lib32/libwireplumber-0.5.so.0.505.0
+/usr/lib32/wireplumber-0.5/libwireplumber-module-dbus-connection.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-default-nodes-api.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-file-monitor-api.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-log-settings.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-lua-scripting.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-mixer-api.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-portal-permissionstore.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-reserve-device.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-settings.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-si-audio-adapter.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-si-node.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-si-standard-link.so
+/usr/lib32/wireplumber-0.5/libwireplumber-module-standard-event-source.so

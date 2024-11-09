@@ -1,0 +1,14 @@
+/usr/lib32/libgpsim.a
+/usr/lib32/libgpsim.so -> /usr/lib32/libgpsim.so.0.0.0
+/usr/lib32/libgpsim_dspic.a
+/usr/lib32/libgpsim_dspic.so -> /usr/lib32/libgpsim_dspic.so.0.0.0
+/usr/lib32/libgpsim_eXdbm.a
+/usr/lib32/libgpsim_eXdbm.so -> /usr/lib32/libgpsim_eXdbm.so.0.0.0
+/usr/lib32/libgpsim_extras.a
+/usr/lib32/libgpsim_extras.so -> /usr/lib32/libgpsim_extras.so.0.0.0
+/usr/lib32/libgpsim_modules.a
+/usr/lib32/libgpsim_modules.so -> /usr/lib32/libgpsim_modules.so.0.0.0
+/usr/lib32/libgpsimcli.a
+/usr/lib32/libgpsimcli.so -> /usr/lib32/libgpsimcli.so.0.0.0
+/usr/lib32/libgpsimgui.a
+/usr/lib32/libgpsimgui.so -> /usr/lib32/libgpsimgui.so.0.0.0

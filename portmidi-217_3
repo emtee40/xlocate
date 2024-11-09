@@ -1,0 +1,3 @@
+/usr/lib/libportmidi.so
+/usr/lib/libporttime.so -> /usr/lib/libportmidi.so
+/usr/share/licenses/portmidi/license.txt

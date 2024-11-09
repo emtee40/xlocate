@@ -1,0 +1,9 @@
+/usr/bin/uacme
+/usr/bin/ualpn
+/usr/share/doc/uacme/uacme.html
+/usr/share/doc/uacme/ualpn.html
+/usr/share/man/man1/uacme.1
+/usr/share/man/man1/ualpn.1
+/usr/share/uacme/nsupdate.sh
+/usr/share/uacme/uacme.sh
+/usr/share/uacme/ualpn.sh

@@ -1,0 +1,32 @@
+/usr/include/KF6/Kirigami/Platform/PlatformPluginFactory
+/usr/include/KF6/Kirigami/Platform/PlatformTheme
+/usr/include/KF6/Kirigami/Platform/StyleSelector
+/usr/include/KF6/Kirigami/Platform/TabletModeWatcher
+/usr/include/KF6/Kirigami/Platform/Units
+/usr/include/KF6/Kirigami/Platform/VirtualKeyboardWatcher
+/usr/include/KF6/Kirigami/Platform/kirigamiplatform_export.h
+/usr/include/KF6/Kirigami/Platform/kirigamiplatform_version.h
+/usr/include/KF6/Kirigami/Platform/platformpluginfactory.h
+/usr/include/KF6/Kirigami/Platform/platformtheme.h
+/usr/include/KF6/Kirigami/Platform/styleselector.h
+/usr/include/KF6/Kirigami/Platform/tabletmodewatcher.h
+/usr/include/KF6/Kirigami/Platform/units.h
+/usr/include/KF6/Kirigami/Platform/virtualkeyboardwatcher.h
+/usr/lib/cmake/KF6Kirigami/KF6KirigamiConfig.cmake
+/usr/lib/cmake/KF6Kirigami/KF6KirigamiConfigVersion.cmake
+/usr/lib/cmake/KF6Kirigami/KF6KirigamiMacros.cmake
+/usr/lib/cmake/KF6Kirigami/KF6KirigamiTargets-none.cmake
+/usr/lib/cmake/KF6Kirigami/KF6KirigamiTargets.cmake
+/usr/lib/cmake/KF6Kirigami2/KF6Kirigami2Config.cmake
+/usr/lib/cmake/KF6Kirigami2/KF6Kirigami2ConfigVersion.cmake
+/usr/lib/cmake/KF6KirigamiPlatform/KF6KirigamiPlatformConfig.cmake
+/usr/lib/cmake/KF6KirigamiPlatform/KF6KirigamiPlatformConfigVersion.cmake
+/usr/lib/cmake/KF6KirigamiPlatform/KF6KirigamiPlatformTargets-none.cmake
+/usr/lib/cmake/KF6KirigamiPlatform/KF6KirigamiPlatformTargets.cmake
+/usr/lib/libKirigami.so -> /usr/lib/libKirigami.so.6
+/usr/lib/libKirigamiDelegates.so -> /usr/lib/libKirigamiDelegates.so.6
+/usr/lib/libKirigamiDialogs.so -> /usr/lib/libKirigamiDialogs.so.6
+/usr/lib/libKirigamiLayouts.so -> /usr/lib/libKirigamiLayouts.so.6
+/usr/lib/libKirigamiPlatform.so -> /usr/lib/libKirigamiPlatform.so.6
+/usr/lib/libKirigamiPrimitives.so -> /usr/lib/libKirigamiPrimitives.so.6
+/usr/lib/libKirigamiPrivate.so -> /usr/lib/libKirigamiPrivate.so.6

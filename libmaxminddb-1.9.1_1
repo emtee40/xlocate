@@ -1,0 +1,7 @@
+/usr/bin/mmdblookup
+/usr/lib/libmaxminddb.a
+/usr/lib/libmaxminddb.so -> /usr/lib/libmaxminddb.so.0.0.7
+/usr/lib/libmaxminddb.so.0 -> /usr/lib/libmaxminddb.so.0.0.7
+/usr/lib/libmaxminddb.so.0.0.7
+/usr/lib/pkgconfig/libmaxminddb.pc
+/usr/share/man/man1/mmdblookup.1

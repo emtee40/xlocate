@@ -1,0 +1,10 @@
+/etc/retroarch.cfg
+/usr/bin/retroarch
+/usr/bin/retroarch-cg2glsl
+/usr/share/applications/org.libretro.RetroArch.desktop
+/usr/share/doc/retroarch/COPYING
+/usr/share/doc/retroarch/README.md
+/usr/share/man/man6/retroarch-cg2glsl.6
+/usr/share/man/man6/retroarch.6
+/usr/share/metainfo/com.libretro.RetroArch.appdata.xml
+/usr/share/pixmaps/retroarch.svg

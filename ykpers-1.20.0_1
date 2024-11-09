@@ -1,0 +1,10 @@
+/usr/bin/ykchalresp
+/usr/bin/ykinfo
+/usr/bin/ykpersonalize
+/usr/lib/udev/rules.d/69-yubikey.rules
+/usr/lib/udev/rules.d/70-yubikey.rules
+/usr/share/doc/ykpers/README
+/usr/share/licenses/ykpers/LICENSE
+/usr/share/man/man1/ykchalresp.1
+/usr/share/man/man1/ykinfo.1
+/usr/share/man/man1/ykpersonalize.1

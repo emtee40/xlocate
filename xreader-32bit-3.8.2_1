@@ -1,0 +1,5 @@
+/usr/lib32/xreader/3/backends/libepubdocument.so
+/usr/lib32/xreader/3/backends/libpdfdocument.so
+/usr/lib32/xreader/3/backends/libpsdocument.so
+/usr/lib32/xreader/3/backends/libtiffdocument.so
+/usr/lib32/xreader/3/backends/libxpsdocument.so

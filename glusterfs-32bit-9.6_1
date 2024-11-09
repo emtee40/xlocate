@@ -1,0 +1,65 @@
+/usr/lib32/glusterfs/9.6/auth/addr.so
+/usr/lib32/glusterfs/9.6/auth/login.so
+/usr/lib32/glusterfs/9.6/cloudsync-plugins/cloudsynccvlt.so
+/usr/lib32/glusterfs/9.6/rpc-transport/socket.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/afr.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/dht.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/disperse.so -> /usr/lib32/glusterfs/9.6/xlator/cluster/ec.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/distribute.so -> /usr/lib32/glusterfs/9.6/xlator/cluster/dht.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/ec.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/nufa.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/replicate.so -> /usr/lib32/glusterfs/9.6/xlator/cluster/afr.so
+/usr/lib32/glusterfs/9.6/xlator/cluster/switch.so
+/usr/lib32/glusterfs/9.6/xlator/debug/delay-gen.so
+/usr/lib32/glusterfs/9.6/xlator/debug/error-gen.so
+/usr/lib32/glusterfs/9.6/xlator/debug/io-stats.so
+/usr/lib32/glusterfs/9.6/xlator/debug/sink.so
+/usr/lib32/glusterfs/9.6/xlator/debug/trace.so
+/usr/lib32/glusterfs/9.6/xlator/features/access-control.so -> /usr/lib32/glusterfs/9.6/xlator/system/posix-acl.so
+/usr/lib32/glusterfs/9.6/xlator/features/arbiter.so
+/usr/lib32/glusterfs/9.6/xlator/features/barrier.so
+/usr/lib32/glusterfs/9.6/xlator/features/bit-rot.so
+/usr/lib32/glusterfs/9.6/xlator/features/bitrot-stub.so
+/usr/lib32/glusterfs/9.6/xlator/features/cdc.so
+/usr/lib32/glusterfs/9.6/xlator/features/changelog.so
+/usr/lib32/glusterfs/9.6/xlator/features/cloudsync.so
+/usr/lib32/glusterfs/9.6/xlator/features/gfid-access.so
+/usr/lib32/glusterfs/9.6/xlator/features/index.so
+/usr/lib32/glusterfs/9.6/xlator/features/leases.so
+/usr/lib32/glusterfs/9.6/xlator/features/locks.so
+/usr/lib32/glusterfs/9.6/xlator/features/marker.so
+/usr/lib32/glusterfs/9.6/xlator/features/namespace.so
+/usr/lib32/glusterfs/9.6/xlator/features/posix-locks.so -> /usr/lib32/glusterfs/9.6/xlator/features/locks.so
+/usr/lib32/glusterfs/9.6/xlator/features/quiesce.so
+/usr/lib32/glusterfs/9.6/xlator/features/quota.so
+/usr/lib32/glusterfs/9.6/xlator/features/quotad.so
+/usr/lib32/glusterfs/9.6/xlator/features/read-only.so
+/usr/lib32/glusterfs/9.6/xlator/features/sdfs.so
+/usr/lib32/glusterfs/9.6/xlator/features/selinux.so
+/usr/lib32/glusterfs/9.6/xlator/features/shard.so
+/usr/lib32/glusterfs/9.6/xlator/features/snapview-client.so
+/usr/lib32/glusterfs/9.6/xlator/features/snapview-server.so
+/usr/lib32/glusterfs/9.6/xlator/features/thin-arbiter.so
+/usr/lib32/glusterfs/9.6/xlator/features/trash.so
+/usr/lib32/glusterfs/9.6/xlator/features/upcall.so
+/usr/lib32/glusterfs/9.6/xlator/features/utime.so
+/usr/lib32/glusterfs/9.6/xlator/features/worm.so
+/usr/lib32/glusterfs/9.6/xlator/meta.so
+/usr/lib32/glusterfs/9.6/xlator/mgmt/glusterd.so
+/usr/lib32/glusterfs/9.6/xlator/mount/api.so
+/usr/lib32/glusterfs/9.6/xlator/mount/fuse.so
+/usr/lib32/glusterfs/9.6/xlator/performance/io-cache.so
+/usr/lib32/glusterfs/9.6/xlator/performance/io-threads.so
+/usr/lib32/glusterfs/9.6/xlator/performance/md-cache.so
+/usr/lib32/glusterfs/9.6/xlator/performance/nl-cache.so
+/usr/lib32/glusterfs/9.6/xlator/performance/open-behind.so
+/usr/lib32/glusterfs/9.6/xlator/performance/quick-read.so
+/usr/lib32/glusterfs/9.6/xlator/performance/read-ahead.so
+/usr/lib32/glusterfs/9.6/xlator/performance/readdir-ahead.so
+/usr/lib32/glusterfs/9.6/xlator/performance/stat-prefetch.so -> /usr/lib32/glusterfs/9.6/xlator/performance/md-cache.so
+/usr/lib32/glusterfs/9.6/xlator/performance/write-behind.so
+/usr/lib32/glusterfs/9.6/xlator/playground/template.so
+/usr/lib32/glusterfs/9.6/xlator/protocol/client.so
+/usr/lib32/glusterfs/9.6/xlator/protocol/server.so
+/usr/lib32/glusterfs/9.6/xlator/storage/posix.so
+/usr/lib32/glusterfs/9.6/xlator/system/posix-acl.so

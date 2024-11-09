@@ -1,0 +1,7 @@
+/usr/lib32/libgtk-4.so -> /usr/lib32/libgtk-4.so.1
+/usr/lib32/pkgconfig/gtk4-atspi.pc
+/usr/lib32/pkgconfig/gtk4-broadway.pc
+/usr/lib32/pkgconfig/gtk4-unix-print.pc
+/usr/lib32/pkgconfig/gtk4-wayland.pc
+/usr/lib32/pkgconfig/gtk4-x11.pc
+/usr/lib32/pkgconfig/gtk4.pc

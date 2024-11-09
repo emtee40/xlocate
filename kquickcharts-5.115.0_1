@@ -1,0 +1,14 @@
+/usr/lib/cmake/KF5QuickCharts/KF5QuickChartsConfig.cmake
+/usr/lib/cmake/KF5QuickCharts/KF5QuickChartsConfigVersion.cmake
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/Legend.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/LegendDelegate.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/LineChartControl.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/Logging.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/PieChartControl.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/Theme.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/libQuickChartsControls.so
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/qmldir
+/usr/lib/qt5/qml/org/kde/quickcharts/controls/styles/org.kde.desktop/Theme.qml
+/usr/lib/qt5/qml/org/kde/quickcharts/libQuickCharts.so
+/usr/lib/qt5/qml/org/kde/quickcharts/qmldir
+/usr/share/qlogging-categories5/kquickcharts.categories

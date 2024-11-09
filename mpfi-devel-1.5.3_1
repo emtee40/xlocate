@@ -1,0 +1,5 @@
+/usr/include/mpfi.h
+/usr/include/mpfi_io.h
+/usr/lib/libmpfi.a
+/usr/lib/libmpfi.so -> /usr/lib/libmpfi.so.0.0.0
+/usr/share/info/mpfi.info.gz

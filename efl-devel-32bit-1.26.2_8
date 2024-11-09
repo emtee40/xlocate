@@ -1,0 +1,88 @@
+/usr/lib32/libecore.so -> /usr/lib32/libecore.so.1
+/usr/lib32/libecore_audio.so -> /usr/lib32/libecore_audio.so.1
+/usr/lib32/libecore_con.so -> /usr/lib32/libecore_con.so.1
+/usr/lib32/libecore_drm2.so -> /usr/lib32/libecore_drm2.so.1
+/usr/lib32/libecore_evas.so -> /usr/lib32/libecore_evas.so.1
+/usr/lib32/libecore_file.so -> /usr/lib32/libecore_file.so.1
+/usr/lib32/libecore_imf.so -> /usr/lib32/libecore_imf.so.1
+/usr/lib32/libecore_imf_evas.so -> /usr/lib32/libecore_imf_evas.so.1
+/usr/lib32/libecore_input.so -> /usr/lib32/libecore_input.so.1
+/usr/lib32/libecore_input_evas.so -> /usr/lib32/libecore_input_evas.so.1
+/usr/lib32/libecore_ipc.so -> /usr/lib32/libecore_ipc.so.1
+/usr/lib32/libecore_wl2.so -> /usr/lib32/libecore_wl2.so.1
+/usr/lib32/libecore_x.so -> /usr/lib32/libecore_x.so.1
+/usr/lib32/libector.so -> /usr/lib32/libector.so.1
+/usr/lib32/libedje.so -> /usr/lib32/libedje.so.1
+/usr/lib32/libeet.so -> /usr/lib32/libeet.so.1
+/usr/lib32/libeeze.so -> /usr/lib32/libeeze.so.1
+/usr/lib32/libefl.so -> /usr/lib32/libefl.so.1
+/usr/lib32/libefl_canvas_wl.so -> /usr/lib32/libefl_canvas_wl.so.1
+/usr/lib32/libefreet.so -> /usr/lib32/libefreet.so.1
+/usr/lib32/libefreet_mime.so -> /usr/lib32/libefreet_mime.so.1
+/usr/lib32/libefreet_trash.so -> /usr/lib32/libefreet_trash.so.1
+/usr/lib32/libeina.so -> /usr/lib32/libeina.so.1
+/usr/lib32/libeio.so -> /usr/lib32/libeio.so.1
+/usr/lib32/libeldbus.so -> /usr/lib32/libeldbus.so.1
+/usr/lib32/libelementary.so -> /usr/lib32/libelementary.so.1
+/usr/lib32/libelput.so -> /usr/lib32/libelput.so.1
+/usr/lib32/libembryo.so -> /usr/lib32/libembryo.so.1
+/usr/lib32/libemile.so -> /usr/lib32/libemile.so.1
+/usr/lib32/libemotion.so -> /usr/lib32/libemotion.so.1
+/usr/lib32/libeo.so -> /usr/lib32/libeo.so.1
+/usr/lib32/libeo_dbg.so -> /usr/lib32/libeo_dbg.so.1
+/usr/lib32/libeolian.so -> /usr/lib32/libeolian.so.1
+/usr/lib32/libethumb.so -> /usr/lib32/libethumb.so.1
+/usr/lib32/libethumb_client.so -> /usr/lib32/libethumb_client.so.1
+/usr/lib32/libevas.so -> /usr/lib32/libevas.so.1
+/usr/lib32/libexactness_play.so -> /usr/lib32/libexactness_play.so.1
+/usr/lib32/libexactness_record.so -> /usr/lib32/libexactness_record.so.1
+/usr/lib32/pkgconfig/ecore-audio.pc
+/usr/lib32/pkgconfig/ecore-con.pc
+/usr/lib32/pkgconfig/ecore-cxx.pc
+/usr/lib32/pkgconfig/ecore-drm2.pc
+/usr/lib32/pkgconfig/ecore-evas.pc
+/usr/lib32/pkgconfig/ecore-file.pc
+/usr/lib32/pkgconfig/ecore-imf-evas.pc
+/usr/lib32/pkgconfig/ecore-imf.pc
+/usr/lib32/pkgconfig/ecore-input-evas.pc
+/usr/lib32/pkgconfig/ecore-input.pc
+/usr/lib32/pkgconfig/ecore-ipc.pc
+/usr/lib32/pkgconfig/ecore-wl2.pc
+/usr/lib32/pkgconfig/ecore-x.pc
+/usr/lib32/pkgconfig/ecore.pc
+/usr/lib32/pkgconfig/ector.pc
+/usr/lib32/pkgconfig/edje-cxx.pc
+/usr/lib32/pkgconfig/edje.pc
+/usr/lib32/pkgconfig/eet-cxx.pc
+/usr/lib32/pkgconfig/eet.pc
+/usr/lib32/pkgconfig/eeze.pc
+/usr/lib32/pkgconfig/efl-canvas-wl.pc
+/usr/lib32/pkgconfig/efl-core.pc
+/usr/lib32/pkgconfig/efl-cxx.pc
+/usr/lib32/pkgconfig/efl-net.pc
+/usr/lib32/pkgconfig/efl-ui.pc
+/usr/lib32/pkgconfig/efl.pc
+/usr/lib32/pkgconfig/efreet-mime.pc
+/usr/lib32/pkgconfig/efreet-trash.pc
+/usr/lib32/pkgconfig/efreet.pc
+/usr/lib32/pkgconfig/eina-cxx.pc
+/usr/lib32/pkgconfig/eina.pc
+/usr/lib32/pkgconfig/eio-cxx.pc
+/usr/lib32/pkgconfig/eio.pc
+/usr/lib32/pkgconfig/eldbus-cxx.pc
+/usr/lib32/pkgconfig/eldbus.pc
+/usr/lib32/pkgconfig/elementary-cxx.pc
+/usr/lib32/pkgconfig/elementary.pc
+/usr/lib32/pkgconfig/elput.pc
+/usr/lib32/pkgconfig/embryo.pc
+/usr/lib32/pkgconfig/emile.pc
+/usr/lib32/pkgconfig/emotion.pc
+/usr/lib32/pkgconfig/eo-cxx.pc
+/usr/lib32/pkgconfig/eo.pc
+/usr/lib32/pkgconfig/eolian-cxx.pc
+/usr/lib32/pkgconfig/eolian.pc
+/usr/lib32/pkgconfig/ethumb-client.pc
+/usr/lib32/pkgconfig/ethumb.pc
+/usr/lib32/pkgconfig/ethumb_client.pc
+/usr/lib32/pkgconfig/evas-cxx.pc
+/usr/lib32/pkgconfig/evas.pc

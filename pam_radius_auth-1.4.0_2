@@ -1,0 +1,2 @@
+/etc/raddb/server
+/usr/lib/security/pam_radius_auth.so

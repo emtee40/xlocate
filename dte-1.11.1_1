@@ -1,0 +1,7 @@
+/usr/bin/dte
+/usr/share/applications/dte.desktop
+/usr/share/bash-completion/completions/dte
+/usr/share/man/man1/dte.1
+/usr/share/man/man5/dte-syntax.5
+/usr/share/man/man5/dterc.5
+/usr/share/metainfo/dte.appdata.xml

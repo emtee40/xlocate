@@ -1,0 +1,10 @@
+/usr/lib32/libIrcCore.so.3 -> /usr/lib32/libIrcCore.so.3.5.0
+/usr/lib32/libIrcCore.so.3.5 -> /usr/lib32/libIrcCore.so.3.5.0
+/usr/lib32/libIrcCore.so.3.5.0
+/usr/lib32/libIrcModel.so.3 -> /usr/lib32/libIrcModel.so.3.5.0
+/usr/lib32/libIrcModel.so.3.5 -> /usr/lib32/libIrcModel.so.3.5.0
+/usr/lib32/libIrcModel.so.3.5.0
+/usr/lib32/libIrcUtil.so.3 -> /usr/lib32/libIrcUtil.so.3.5.0
+/usr/lib32/libIrcUtil.so.3.5 -> /usr/lib32/libIrcUtil.so.3.5.0
+/usr/lib32/libIrcUtil.so.3.5.0
+/usr/lib32/qt5/qml/Communi/libcommuniplugin.so

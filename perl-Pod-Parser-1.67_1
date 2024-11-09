@@ -1,0 +1,14 @@
+/usr/bin/podselect
+/usr/share/man/man1/podselect.1p
+/usr/share/man/man3/Pod::Find.3p
+/usr/share/man/man3/Pod::InputObjects.3p
+/usr/share/man/man3/Pod::ParseUtils.3p
+/usr/share/man/man3/Pod::Parser.3p
+/usr/share/man/man3/Pod::PlainText.3p
+/usr/share/man/man3/Pod::Select.3p
+/usr/share/perl5/vendor_perl/Pod/Find.pm
+/usr/share/perl5/vendor_perl/Pod/InputObjects.pm
+/usr/share/perl5/vendor_perl/Pod/ParseUtils.pm
+/usr/share/perl5/vendor_perl/Pod/Parser.pm
+/usr/share/perl5/vendor_perl/Pod/PlainText.pm
+/usr/share/perl5/vendor_perl/Pod/Select.pm

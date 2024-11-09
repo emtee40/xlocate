@@ -1,0 +1,6 @@
+/usr/include/libdockapp/dockapp.h
+/usr/include/libdockapp/list.h
+/usr/include/libdockapp/misc.h
+/usr/include/libdockapp/wmgeneral.h
+/usr/lib/libdockapp.so -> /usr/lib/libdockapp.so.3.0.0
+/usr/lib/pkgconfig/dockapp.pc

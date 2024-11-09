@@ -1,0 +1,17 @@
+/usr/lib32/pkgconfig/libecpg.pc
+/usr/lib32/pkgconfig/libecpg_compat.pc
+/usr/lib32/pkgconfig/libpgtypes.pc
+/usr/lib32/pkgconfig/libpq.pc
+/usr/lib32/psql16/lib/libecpg.a
+/usr/lib32/psql16/lib/libecpg.so -> ../../libecpg.so
+/usr/lib32/psql16/lib/libecpg_compat.a
+/usr/lib32/psql16/lib/libecpg_compat.so -> ../../libecpg_compat.so
+/usr/lib32/psql16/lib/libpgcommon.a
+/usr/lib32/psql16/lib/libpgcommon_shlib.a
+/usr/lib32/psql16/lib/libpgfeutils.a
+/usr/lib32/psql16/lib/libpgport.a
+/usr/lib32/psql16/lib/libpgport_shlib.a
+/usr/lib32/psql16/lib/libpgtypes.a
+/usr/lib32/psql16/lib/libpgtypes.so -> ../../libpgtypes.so
+/usr/lib32/psql16/lib/libpq.a
+/usr/lib32/psql16/lib/libpq.so -> ../../libpq.so

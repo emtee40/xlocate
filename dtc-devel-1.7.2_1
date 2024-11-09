@@ -1,0 +1,5 @@
+/usr/include/fdt.h
+/usr/include/libfdt.h
+/usr/include/libfdt_env.h
+/usr/lib/libfdt.a
+/usr/lib/libfdt.so -> /usr/lib/libfdt.so.1

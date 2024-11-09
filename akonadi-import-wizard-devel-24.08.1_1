@@ -1,0 +1,21 @@
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractAddressBook
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractBase
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractCalendar
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractDisplayInfo
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractImporter
+/usr/include/KPim6/ImportWizard/ImportWizard/AbstractSettings
+/usr/include/KPim6/ImportWizard/ImportWizard/ImportWizardUtil
+/usr/include/KPim6/ImportWizard/importwizard/abstractaddressbook.h
+/usr/include/KPim6/ImportWizard/importwizard/abstractbase.h
+/usr/include/KPim6/ImportWizard/importwizard/abstractcalendar.h
+/usr/include/KPim6/ImportWizard/importwizard/abstractdisplayinfo.h
+/usr/include/KPim6/ImportWizard/importwizard/abstractimporter.h
+/usr/include/KPim6/ImportWizard/importwizard/abstractsettings.h
+/usr/include/KPim6/ImportWizard/importwizard/importwizardutil.h
+/usr/include/KPim6/ImportWizard/importwizard/libimportwizard_export.h
+/usr/include/KPim6/ImportWizard/importwizard_version.h
+/usr/lib/cmake/KPim6ImportWizard/KPim6ImportWizardConfig.cmake
+/usr/lib/cmake/KPim6ImportWizard/KPim6ImportWizardConfigVersion.cmake
+/usr/lib/cmake/KPim6ImportWizard/KPim6ImportWizardTargets-none.cmake
+/usr/lib/cmake/KPim6ImportWizard/KPim6ImportWizardTargets.cmake
+/usr/lib/libKPim6ImportWizard.so -> /usr/lib/libKPim6ImportWizard.so.6

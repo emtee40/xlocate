@@ -1,0 +1,6 @@
+/usr/lib32/libbinpac.so.0 -> /usr/lib32/libbinpac.so.0.61
+/usr/lib32/libbinpac.so.0.61
+/usr/lib32/libbroker.so.2.8
+/usr/lib32/libbroker.so.4 -> /usr/lib32/libbroker.so.2.8
+/usr/lib32/zeek/python/_SubnetTree.so
+/usr/lib32/zeek/python/broker/_broker.so

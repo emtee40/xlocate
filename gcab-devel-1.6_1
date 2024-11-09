@@ -1,0 +1,10 @@
+/usr/include/libgcab-1.0/libgcab.h
+/usr/include/libgcab-1.0/libgcab/gcab-cabinet.h
+/usr/include/libgcab-1.0/libgcab/gcab-enums.h
+/usr/include/libgcab-1.0/libgcab/gcab-file.h
+/usr/include/libgcab-1.0/libgcab/gcab-folder.h
+/usr/lib/libgcab-1.0.so -> /usr/lib/libgcab-1.0.so.0
+/usr/lib/pkgconfig/libgcab-1.0.pc
+/usr/share/gir-1.0/GCab-1.0.gir
+/usr/share/vala/vapi/libgcab-1.0.deps
+/usr/share/vala/vapi/libgcab-1.0.vapi

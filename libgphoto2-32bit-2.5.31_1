@@ -1,0 +1,29 @@
+/usr/lib32/libgphoto2.so.6 -> /usr/lib32/libgphoto2.so.6.3.0
+/usr/lib32/libgphoto2.so.6.3.0
+/usr/lib32/libgphoto2/2.5.31/ax203.so
+/usr/lib32/libgphoto2/2.5.31/canon.so
+/usr/lib32/libgphoto2/2.5.31/digigr8.so
+/usr/lib32/libgphoto2/2.5.31/dimagev.so
+/usr/lib32/libgphoto2/2.5.31/directory.so
+/usr/lib32/libgphoto2/2.5.31/docupen.so
+/usr/lib32/libgphoto2/2.5.31/jl2005a.so
+/usr/lib32/libgphoto2/2.5.31/jl2005c.so
+/usr/lib32/libgphoto2/2.5.31/kodak_dc240.so
+/usr/lib32/libgphoto2/2.5.31/mars.so
+/usr/lib32/libgphoto2/2.5.31/pentax.so
+/usr/lib32/libgphoto2/2.5.31/ptp2.so
+/usr/lib32/libgphoto2/2.5.31/ricoh_g3.so
+/usr/lib32/libgphoto2/2.5.31/sierra.so
+/usr/lib32/libgphoto2/2.5.31/sonix.so
+/usr/lib32/libgphoto2/2.5.31/sq905.so
+/usr/lib32/libgphoto2/2.5.31/st2205.so
+/usr/lib32/libgphoto2/2.5.31/topfield.so
+/usr/lib32/libgphoto2/2.5.31/tp6801.so
+/usr/lib32/libgphoto2_port.so.12 -> /usr/lib32/libgphoto2_port.so.12.2.0
+/usr/lib32/libgphoto2_port.so.12.2.0
+/usr/lib32/libgphoto2_port/0.12.2/disk.so
+/usr/lib32/libgphoto2_port/0.12.2/ptpip.so
+/usr/lib32/libgphoto2_port/0.12.2/serial.so
+/usr/lib32/libgphoto2_port/0.12.2/usb1.so
+/usr/lib32/libgphoto2_port/0.12.2/usbdiskdirect.so
+/usr/lib32/libgphoto2_port/0.12.2/usbscsi.so

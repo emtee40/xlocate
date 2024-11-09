@@ -1,0 +1,16 @@
+/etc/nss_mdns.conf
+/etc/sv/dnsextd/run
+/etc/sv/dnsextd/supervise -> /run/runit/supervise.dnsextd
+/etc/sv/mdnsd/run
+/etc/sv/mdnsd/supervise -> /run/runit/supervise.mdnsd
+/usr/bin/dns-sd
+/usr/bin/dnsextd
+/usr/bin/mdnsd
+/usr/lib/libdns_sd.so
+/usr/lib/libnss_mdns-0.2.so
+/usr/lib/libnss_mdns.so.2 -> /usr/lib/libnss_mdns-0.2.so
+/usr/share/licenses/mDNSResponder/LICENSE
+/usr/share/man/man1/dns-sd.1
+/usr/share/man/man5/nss_mdns.conf.5
+/usr/share/man/man8/dnsextd.8
+/usr/share/man/man8/libnss_mdns.8

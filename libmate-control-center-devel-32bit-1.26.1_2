@@ -1,0 +1,6 @@
+/usr/lib32/libmate-slab.so -> /usr/lib32/libmate-slab.so.0.0.0
+/usr/lib32/libmate-window-settings.so -> /usr/lib32/libmate-window-settings.so.1.0.0
+/usr/lib32/pkgconfig/mate-default-applications.pc
+/usr/lib32/pkgconfig/mate-keybindings.pc
+/usr/lib32/pkgconfig/mate-slab.pc
+/usr/lib32/pkgconfig/mate-window-settings-2.0.pc

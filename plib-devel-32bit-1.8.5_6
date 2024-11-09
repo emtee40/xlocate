@@ -1,0 +1,13 @@
+/usr/lib32/libplibfnt.so -> /usr/lib32/libplibfnt.so.1.8.5
+/usr/lib32/libplibjs.so -> /usr/lib32/libplibjs.so.1.8.5
+/usr/lib32/libplibnet.so -> /usr/lib32/libplibnet.so.1.8.5
+/usr/lib32/libplibpsl.so -> /usr/lib32/libplibpsl.so.1.8.5
+/usr/lib32/libplibpu.so -> /usr/lib32/libplibpu.so.1.8.5
+/usr/lib32/libplibpuaux.so -> /usr/lib32/libplibpuaux.so.1.8.5
+/usr/lib32/libplibpw.so -> /usr/lib32/libplibpw.so.1.8.5
+/usr/lib32/libplibsg.so -> /usr/lib32/libplibsg.so.1.8.5
+/usr/lib32/libplibsl.so -> /usr/lib32/libplibsl.so.1.8.5
+/usr/lib32/libplibsm.so -> /usr/lib32/libplibsm.so.1.8.5
+/usr/lib32/libplibssg.so -> /usr/lib32/libplibssg.so.1.8.5
+/usr/lib32/libplibssgaux.so -> /usr/lib32/libplibssgaux.so.1.8.5
+/usr/lib32/libplibul.so -> /usr/lib32/libplibul.so.1.8.5

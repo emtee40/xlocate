@@ -1,0 +1,4 @@
+/usr/include/nxml.h
+/usr/lib/libnxml.a
+/usr/lib/libnxml.so -> /usr/lib/libnxml.so.0.18.3
+/usr/lib/pkgconfig/nxml.pc

@@ -1,0 +1,8 @@
+/usr/include/zathura/document.h
+/usr/include/zathura/links.h
+/usr/include/zathura/macros.h
+/usr/include/zathura/page.h
+/usr/include/zathura/plugin-api.h
+/usr/include/zathura/types.h
+/usr/include/zathura/zathura-version.h
+/usr/lib/pkgconfig/zathura.pc

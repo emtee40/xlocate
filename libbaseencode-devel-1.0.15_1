@@ -1,0 +1,3 @@
+/usr/include/baseencode.h
+/usr/lib/libbaseencode.so -> /usr/lib/libbaseencode.so.1
+/usr/lib/pkgconfig/baseencode.pc

@@ -1,0 +1,26 @@
+/usr/include/arcan/a12.h
+/usr/include/arcan/arcan_tui.h
+/usr/include/arcan/arcan_tui_bufferwnd.h
+/usr/include/arcan/arcan_tui_linewnd.h
+/usr/include/arcan/arcan_tui_listwnd.h
+/usr/include/arcan/arcan_tui_readline.h
+/usr/include/arcan/arcan_tuidefs.h
+/usr/include/arcan/arcan_tuisym.h
+/usr/include/arcan/shmif/arcan_shmif.h
+/usr/include/arcan/shmif/arcan_shmif_control.h
+/usr/include/arcan/shmif/arcan_shmif_defs.h
+/usr/include/arcan/shmif/arcan_shmif_event.h
+/usr/include/arcan/shmif/arcan_shmif_interop.h
+/usr/include/arcan/shmif/arcan_shmif_server.h
+/usr/include/arcan/shmif/arcan_shmif_sub.h
+/usr/lib/libarcan_a12.so -> /usr/lib/libarcan_a12.so.0.1
+/usr/lib/libarcan_shmif.a
+/usr/lib/libarcan_shmif.so -> /usr/lib/libarcan_shmif.so.0.16
+/usr/lib/libarcan_shmif_ext.so -> /usr/lib/libarcan_shmif_ext.so.0.16
+/usr/lib/libarcan_shmif_intext.so -> /usr/lib/libarcan_shmif_intext.so.0.16
+/usr/lib/libarcan_shmif_server.so -> /usr/lib/libarcan_shmif_server.so.0.16
+/usr/lib/libarcan_tui.so -> /usr/lib/libarcan_tui.so.0.16
+/usr/lib/pkgconfig/arcan-shmif-ext.pc
+/usr/lib/pkgconfig/arcan-shmif-srv.pc
+/usr/lib/pkgconfig/arcan-shmif-tui.pc
+/usr/lib/pkgconfig/arcan-shmif.pc

@@ -1,0 +1,12 @@
+/usr/bin/hashdeep
+/usr/bin/md5deep
+/usr/bin/sha1deep
+/usr/bin/sha256deep
+/usr/bin/tigerdeep
+/usr/bin/whirlpooldeep
+/usr/share/man/man1/hashdeep.1
+/usr/share/man/man1/md5deep.1
+/usr/share/man/man1/sha1deep.1
+/usr/share/man/man1/sha256deep.1
+/usr/share/man/man1/tigerdeep.1
+/usr/share/man/man1/whirlpooldeep.1

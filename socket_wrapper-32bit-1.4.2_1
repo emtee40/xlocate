@@ -1,0 +1,8 @@
+/usr/lib32/libsocket_wrapper.so -> /usr/lib32/libsocket_wrapper.so.0
+/usr/lib32/libsocket_wrapper.so.0 -> /usr/lib32/libsocket_wrapper.so.0.4.1
+/usr/lib32/libsocket_wrapper.so.0.4.1
+/usr/lib32/libsocket_wrapper_noop.so -> /usr/lib32/libsocket_wrapper_noop.so.0
+/usr/lib32/libsocket_wrapper_noop.so.0 -> /usr/lib32/libsocket_wrapper_noop.so.0.0.1
+/usr/lib32/libsocket_wrapper_noop.so.0.0.1
+/usr/lib32/pkgconfig/socket_wrapper.pc
+/usr/lib32/pkgconfig/socket_wrapper_noop.pc

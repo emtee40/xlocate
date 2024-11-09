@@ -1,0 +1,4 @@
+/usr/bin/steamguard
+/usr/share/bash-completion/completions/steamguard
+/usr/share/fish/vendor_completions.d/steamguard.fish
+/usr/share/zsh/site-functions/_steamguard

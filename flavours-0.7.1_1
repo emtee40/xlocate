@@ -1,0 +1,7 @@
+/usr/bin/flavours
+/usr/share/bash-completion/completions/flavours
+/usr/share/doc/flavours/README.md
+/usr/share/examples/flavours/example.toml
+/usr/share/fish/vendor_completions.d/flavours.fish
+/usr/share/licenses/flavours/LICENSE
+/usr/share/zsh/site-functions/_flavours

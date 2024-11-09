@@ -1,0 +1,4 @@
+/usr/lib32/libframe.a
+/usr/lib32/libframe.so -> /usr/lib32/libframe.so.6.0.0
+/usr/lib32/pkgconfig/frame-x11.pc
+/usr/lib32/pkgconfig/frame.pc

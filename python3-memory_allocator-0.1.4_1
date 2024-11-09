@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/AUTHORS
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/METADATA
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/RECORD
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/memory_allocator-0.1.4.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/memory_allocator/__init__.pxd
+/usr/lib/python3.12/site-packages/memory_allocator/__init__.py
+/usr/lib/python3.12/site-packages/memory_allocator/memory.pxd
+/usr/lib/python3.12/site-packages/memory_allocator/memory_allocator.pxd
+/usr/lib/python3.12/site-packages/memory_allocator/memory_allocator.pyx
+/usr/lib/python3.12/site-packages/memory_allocator/memory_allocator.so
+/usr/lib/python3.12/site-packages/memory_allocator/signals.pxd
+/usr/lib/python3.12/site-packages/memory_allocator/test.pyx
+/usr/lib/python3.12/site-packages/memory_allocator/test.so

@@ -1,0 +1,6 @@
+/usr/bin/cl
+/usr/lib/libcliquer.so.1 -> /usr/lib/libcliquer.so.1.0.21
+/usr/lib/libcliquer.so.1.0.21
+/usr/share/cliquer/testcase-large-w.b
+/usr/share/cliquer/testcase-large.b
+/usr/share/cliquer/testcase-small.a

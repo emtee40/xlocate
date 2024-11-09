@@ -1,0 +1,3 @@
+/usr/lib32/libdbustest.a
+/usr/lib32/libdbustest.so -> /usr/lib32/libdbustest.so.1.0.0
+/usr/lib32/pkgconfig/dbustest-1.pc

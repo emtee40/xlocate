@@ -1,0 +1,5 @@
+/usr/include/xorg/Xwacom.h
+/usr/include/xorg/isdv4.h
+/usr/include/xorg/wacom-properties.h
+/usr/include/xorg/wacom-util.h
+/usr/lib/pkgconfig/xorg-wacom.pc

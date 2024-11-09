@@ -1,0 +1,10 @@
+/usr/lib/ladspa/ladspa-rubberband.cat
+/usr/lib/ladspa/ladspa-rubberband.so
+/usr/lib/librubberband.so.2 -> /usr/lib/librubberband.so.2.3.0
+/usr/lib/librubberband.so.2.3.0
+/usr/lib/lv2/rubberband.lv2/lv2-rubberband.so
+/usr/lib/lv2/rubberband.lv2/lv2-rubberband.ttl
+/usr/lib/lv2/rubberband.lv2/manifest.ttl
+/usr/lib/vamp/vamp-rubberband.cat
+/usr/lib/vamp/vamp-rubberband.so
+/usr/share/ladspa/rdf/ladspa-rubberband.rdf

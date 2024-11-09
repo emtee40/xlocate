@@ -1,0 +1,12 @@
+/usr/include/fstrm.h
+/usr/include/fstrm/control.h
+/usr/include/fstrm/file.h
+/usr/include/fstrm/iothr.h
+/usr/include/fstrm/rdwr.h
+/usr/include/fstrm/reader.h
+/usr/include/fstrm/tcp_writer.h
+/usr/include/fstrm/unix_writer.h
+/usr/include/fstrm/writer.h
+/usr/lib/libfstrm.a
+/usr/lib/libfstrm.so -> /usr/lib/libfstrm.so.0.1.0
+/usr/lib/pkgconfig/libfstrm.pc

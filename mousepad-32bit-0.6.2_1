@@ -1,0 +1,4 @@
+/usr/lib32/libmousepad.so -> /usr/lib32/libmousepad.so.0.0.0
+/usr/lib32/libmousepad.so.0 -> /usr/lib32/libmousepad.so.0.0.0
+/usr/lib32/libmousepad.so.0.0.0
+/usr/lib32/mousepad/plugins/libmousepad-plugin-gspell.so

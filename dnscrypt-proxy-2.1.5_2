@@ -1,0 +1,19 @@
+/etc/dnscrypt-proxy/dnscrypt-proxy.toml
+/etc/sv/dnscrypt-proxy/log/run
+/etc/sv/dnscrypt-proxy/log/supervise -> /run/runit/supervise.dnscrypt-proxy-log
+/etc/sv/dnscrypt-proxy/run
+/etc/sv/dnscrypt-proxy/supervise -> /run/runit/supervise.dnscrypt-proxy
+/usr/bin/dnscrypt-proxy
+/usr/bin/generate-domains-blocklist.py
+/usr/share/dnscrypt-proxy/domains-allowlist.txt
+/usr/share/dnscrypt-proxy/domains-blocklist-local-additions.txt
+/usr/share/dnscrypt-proxy/domains-blocklist.conf
+/usr/share/dnscrypt-proxy/domains-time-restricted.txt
+/usr/share/examples/dnscrypt-proxy/example-allowed-ips.txt
+/usr/share/examples/dnscrypt-proxy/example-allowed-names.txt
+/usr/share/examples/dnscrypt-proxy/example-blocked-ips.txt
+/usr/share/examples/dnscrypt-proxy/example-blocked-names.txt
+/usr/share/examples/dnscrypt-proxy/example-captive-portals.txt
+/usr/share/examples/dnscrypt-proxy/example-cloaking-rules.txt
+/usr/share/examples/dnscrypt-proxy/example-forwarding-rules.txt
+/usr/share/licenses/dnscrypt-proxy/LICENSE

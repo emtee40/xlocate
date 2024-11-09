@@ -1,0 +1,9 @@
+/etc/sv/rpcbind/log/run
+/etc/sv/rpcbind/log/supervise -> /run/runit/supervise.rpcbind-log
+/etc/sv/rpcbind/run
+/etc/sv/rpcbind/supervise -> /run/runit/supervise.rpcbind
+/usr/bin/rpcbind
+/usr/bin/rpcinfo
+/usr/share/licenses/rpcbind/COPYING
+/usr/share/man/man8/rpcbind.8
+/usr/share/man/man8/rpcinfo.8

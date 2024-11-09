@@ -1,0 +1,8 @@
+/usr/bin/qscxmlc-qt5 -> /usr/lib/qt5/bin/qscxmlc
+/usr/lib/libQt5Scxml.so.5 -> /usr/lib/libQt5Scxml.so.5.15.11
+/usr/lib/libQt5Scxml.so.5.15 -> /usr/lib/libQt5Scxml.so.5.15.11
+/usr/lib/libQt5Scxml.so.5.15.11
+/usr/lib/qt5/bin/qscxmlc
+/usr/lib/qt5/qml/QtScxml/libdeclarative_scxml.so
+/usr/lib/qt5/qml/QtScxml/plugins.qmltypes
+/usr/lib/qt5/qml/QtScxml/qmldir

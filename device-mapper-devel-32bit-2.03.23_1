@@ -1,0 +1,6 @@
+/usr/lib32/libdevmapper-event-lvm2.so -> ../lib32/libdevmapper-event-lvm2.so.2.03
+/usr/lib32/libdevmapper-event.so -> ../lib32/libdevmapper-event.so.1.02
+/usr/lib32/libdevmapper.so -> ../lib32/libdevmapper.so.1.02
+/usr/lib32/liblvm2cmd.so -> ../lib32/liblvm2cmd.so.2.03
+/usr/lib32/pkgconfig/devmapper-event.pc
+/usr/lib32/pkgconfig/devmapper.pc

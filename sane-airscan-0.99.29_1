@@ -1,0 +1,6 @@
+/etc/sane.d/airscan.conf
+/etc/sane.d/dll.d/airscan
+/usr/bin/airscan-discover
+/usr/lib/sane/libsane-airscan.so.1
+/usr/share/man/man1/airscan-discover.1
+/usr/share/man/man5/sane-airscan.5

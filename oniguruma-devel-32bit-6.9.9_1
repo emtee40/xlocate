@@ -1,0 +1,3 @@
+/usr/lib32/libonig.a
+/usr/lib32/libonig.so -> /usr/lib32/libonig.so.5.4.0
+/usr/lib32/pkgconfig/oniguruma.pc

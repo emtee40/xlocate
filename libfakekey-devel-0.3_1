@@ -1,0 +1,4 @@
+/usr/include/fakekey/fakekey.h
+/usr/lib/libfakekey.a
+/usr/lib/libfakekey.so -> /usr/lib/libfakekey.so.0.0.1
+/usr/lib/pkgconfig/libfakekey.pc

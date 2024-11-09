@@ -1,0 +1,14 @@
+/usr/lib32/libktcore.so.16 -> /usr/lib32/libktcore.so.16.0.0
+/usr/lib32/libktcore.so.16.0.0
+/usr/lib32/qt6/plugins/ktorrent_plugins/BandwidthSchedulerPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/DownloadOrderPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/IPFilterPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/InfoWidgetPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/LogViewerPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/MagnetGeneratorPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/ScanFolderPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/ScanForLostFilesPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/ShutdownPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/StatsPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/UPnPPlugin.so
+/usr/lib32/qt6/plugins/ktorrent_plugins/ZeroconfPlugin.so

@@ -1,0 +1,3 @@
+/usr/lib32/libglut.a
+/usr/lib32/libglut.so -> /usr/lib32/libglut.so.3
+/usr/lib32/pkgconfig/glut.pc

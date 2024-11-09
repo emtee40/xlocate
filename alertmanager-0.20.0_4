@@ -1,0 +1,7 @@
+/etc/alertmanager.yml
+/etc/sv/alertmanager/log/run
+/etc/sv/alertmanager/log/supervise -> /run/runit/supervise.alertmanager-log
+/etc/sv/alertmanager/run
+/etc/sv/alertmanager/supervise -> /run/runit/supervise.alertmanager
+/usr/bin/alertmanager
+/usr/bin/amtool

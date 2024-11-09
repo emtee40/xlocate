@@ -1,0 +1,13 @@
+/usr/include/OpenColorIO/OpenColorABI.h
+/usr/include/OpenColorIO/OpenColorAppHelpers.h
+/usr/include/OpenColorIO/OpenColorIO.h
+/usr/include/OpenColorIO/OpenColorTransforms.h
+/usr/include/OpenColorIO/OpenColorTypes.h
+/usr/include/OpenColorIO/oglapphelpers/glsl.h
+/usr/include/OpenColorIO/oglapphelpers/oglapp.h
+/usr/lib/cmake/OpenColorIO/OpenColorIOConfig.cmake
+/usr/lib/cmake/OpenColorIO/OpenColorIOConfigVersion.cmake
+/usr/lib/cmake/OpenColorIO/OpenColorIOTargets-none.cmake
+/usr/lib/cmake/OpenColorIO/OpenColorIOTargets.cmake
+/usr/lib/libOpenColorIO.so -> /usr/lib/libOpenColorIO.so.2.1
+/usr/lib/pkgconfig/OpenColorIO.pc

@@ -1,0 +1,3 @@
+/usr/bin/qemu-or1k
+/usr/bin/qemu-or1k-static -> /usr/bin/qemu-or1k
+/usr/share/binfmts/qemu-or1k

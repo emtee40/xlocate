@@ -1,0 +1,5 @@
+/usr/lib32/libjavascriptcoregtk-4.1.so -> /usr/lib32/libjavascriptcoregtk-4.1.so.0
+/usr/lib32/libwebkit2gtk-4.1.so -> /usr/lib32/libwebkit2gtk-4.1.so.0
+/usr/lib32/pkgconfig/javascriptcoregtk-4.1.pc
+/usr/lib32/pkgconfig/webkit2gtk-4.1.pc
+/usr/lib32/pkgconfig/webkit2gtk-web-extension-4.1.pc

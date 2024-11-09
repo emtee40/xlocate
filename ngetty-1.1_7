@@ -1,0 +1,12 @@
+/etc/ngetty/Conf
+/etc/ngetty/Version
+/etc/ngetty/setup
+/etc/sv/ngetty/run
+/etc/sv/ngetty/supervise -> /run/runit/supervise.ngetty
+/usr/bin/ngetty
+/usr/bin/ngetty-argv
+/usr/bin/ngetty-helper
+/usr/share/examples/ngetty/sample.Conf
+/usr/share/man/man8/ngetty-argv.8
+/usr/share/man/man8/ngetty-helper.8
+/usr/share/man/man8/ngetty.8

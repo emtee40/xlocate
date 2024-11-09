@@ -1,0 +1,3 @@
+/usr/lib32/libexpat.a
+/usr/lib32/libexpat.so -> /usr/lib32/libexpat.so.1.10.0
+/usr/lib32/pkgconfig/expat.pc

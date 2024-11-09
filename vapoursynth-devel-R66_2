@@ -1,0 +1,11 @@
+/usr/include/vapoursynth/VSConstants4.h
+/usr/include/vapoursynth/VSHelper.h
+/usr/include/vapoursynth/VSHelper4.h
+/usr/include/vapoursynth/VSScript.h
+/usr/include/vapoursynth/VSScript4.h
+/usr/include/vapoursynth/VapourSynth.h
+/usr/include/vapoursynth/VapourSynth4.h
+/usr/lib/libvapoursynth-script.a
+/usr/lib/libvapoursynth.a
+/usr/lib/pkgconfig/vapoursynth-script.pc
+/usr/lib/pkgconfig/vapoursynth.pc

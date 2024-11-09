@@ -1,0 +1,8 @@
+/etc/sv/tincd/log/run
+/etc/sv/tincd/log/supervise -> /run/runit/supervise.tincd-log
+/etc/sv/tincd/run
+/etc/sv/tincd/supervise -> /run/runit/supervise.tincd
+/usr/bin/tincd
+/usr/share/info/tinc.info
+/usr/share/man/man5/tinc.conf.5
+/usr/share/man/man8/tincd.8

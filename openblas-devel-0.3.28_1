@@ -1,0 +1,14 @@
+/usr/include/openblas/cblas.h
+/usr/include/openblas/f77blas.h
+/usr/include/openblas/lapack.h
+/usr/include/openblas/lapacke.h
+/usr/include/openblas/lapacke_config.h
+/usr/include/openblas/lapacke_mangling.h
+/usr/include/openblas/lapacke_utils.h
+/usr/include/openblas/openblas_config.h
+/usr/lib/cmake/openblas/OpenBLASConfig.cmake
+/usr/lib/cmake/openblas/OpenBLASConfigVersion.cmake
+/usr/lib/libopenblas.a -> /usr/lib/libopenblasp-r0.3.28.a
+/usr/lib/libopenblas.so -> /usr/lib/libopenblasp-r0.3.28.so
+/usr/lib/libopenblasp-r0.3.28.a
+/usr/lib/pkgconfig/openblas.pc

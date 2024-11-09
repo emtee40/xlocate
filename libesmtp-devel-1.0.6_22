@@ -1,0 +1,5 @@
+/usr/bin/libesmtp-config
+/usr/include/auth-client.h
+/usr/include/auth-plugin.h
+/usr/include/libesmtp.h
+/usr/lib/libesmtp.so -> /usr/lib/libesmtp.so.6.1.6

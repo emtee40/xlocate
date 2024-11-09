@@ -1,0 +1,8 @@
+/usr/bin/zellij
+/usr/share/applications/zellij.desktop
+/usr/share/bash-completion/completions/zellij
+/usr/share/doc/zellij/README.md
+/usr/share/fish/vendor_completions.d/zellij.fish
+/usr/share/licenses/zellij/LICENSE.md
+/usr/share/man/man1/zellij.1
+/usr/share/zsh/site-functions/_zellij

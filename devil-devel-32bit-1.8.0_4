@@ -1,0 +1,6 @@
+/usr/lib32/libIL.so -> /usr/lib32/libIL.so.1
+/usr/lib32/libILU.so -> /usr/lib32/libILU.so.1
+/usr/lib32/libILUT.so -> /usr/lib32/libILUT.so.1
+/usr/lib32/pkgconfig/IL.pc
+/usr/lib32/pkgconfig/ILU.pc
+/usr/lib32/pkgconfig/ILUT.pc

@@ -1,0 +1,16 @@
+/usr/bin/gdown
+/usr/lib/python3.12/site-packages/gdown-5.2.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/gdown-5.2.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/gdown-5.2.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/gdown-5.2.0.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/gdown-5.2.0.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/gdown/__init__.py
+/usr/lib/python3.12/site-packages/gdown/__main__.py
+/usr/lib/python3.12/site-packages/gdown/_indent.py
+/usr/lib/python3.12/site-packages/gdown/cached_download.py
+/usr/lib/python3.12/site-packages/gdown/download.py
+/usr/lib/python3.12/site-packages/gdown/download_folder.py
+/usr/lib/python3.12/site-packages/gdown/exceptions.py
+/usr/lib/python3.12/site-packages/gdown/extractall.py
+/usr/lib/python3.12/site-packages/gdown/parse_url.py
+/usr/share/licenses/gdown/LICENSE

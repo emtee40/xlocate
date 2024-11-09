@@ -1,0 +1,17 @@
+/usr/include/slu_Cnames.h
+/usr/include/slu_cdefs.h
+/usr/include/slu_dcomplex.h
+/usr/include/slu_ddefs.h
+/usr/include/slu_scomplex.h
+/usr/include/slu_sdefs.h
+/usr/include/slu_util.h
+/usr/include/slu_zdefs.h
+/usr/include/superlu_config.h
+/usr/include/superlu_enum_consts.h
+/usr/include/supermatrix.h
+/usr/lib/cmake/superlu/superluConfig.cmake
+/usr/lib/cmake/superlu/superluConfigVersion.cmake
+/usr/lib/cmake/superlu/superluTargets-none.cmake
+/usr/lib/cmake/superlu/superluTargets.cmake
+/usr/lib/libsuperlu.so -> /usr/lib/libsuperlu.so.6
+/usr/lib/pkgconfig/superlu.pc

@@ -1,0 +1,53 @@
+/usr/lib32/libchoqok.so -> /usr/lib32/libchoqok.so.1
+/usr/lib32/libchoqok.so.1 -> /usr/lib32/libchoqok.so.1.3.0
+/usr/lib32/libchoqok.so.1.3.0
+/usr/lib32/libgnusocialapihelper.so -> /usr/lib32/libgnusocialapihelper.so.1
+/usr/lib32/libgnusocialapihelper.so.1 -> /usr/lib32/libgnusocialapihelper.so.1.3.0
+/usr/lib32/libgnusocialapihelper.so.1.3.0
+/usr/lib32/libtwitterapihelper.so -> /usr/lib32/libtwitterapihelper.so.1
+/usr/lib32/libtwitterapihelper.so.1 -> /usr/lib32/libtwitterapihelper.so.1.3.0
+/usr/lib32/libtwitterapihelper.so.1.3.0
+/usr/lib32/qt5/plugins/choqok_betternotify.so
+/usr/lib32/qt5/plugins/choqok_bit_ly.so
+/usr/lib32/qt5/plugins/choqok_filter.so
+/usr/lib32/qt5/plugins/choqok_flickr.so
+/usr/lib32/qt5/plugins/choqok_friendica.so
+/usr/lib32/qt5/plugins/choqok_goo_gl.so
+/usr/lib32/qt5/plugins/choqok_imagepreview.so
+/usr/lib32/qt5/plugins/choqok_imageshack.so
+/usr/lib32/qt5/plugins/choqok_imstatus.so
+/usr/lib32/qt5/plugins/choqok_is_gd.so
+/usr/lib32/qt5/plugins/choqok_laconica.so
+/usr/lib32/qt5/plugins/choqok_mastodon.so
+/usr/lib32/qt5/plugins/choqok_mobypicture.so
+/usr/lib32/qt5/plugins/choqok_nowlistening.so
+/usr/lib32/qt5/plugins/choqok_ocs.so
+/usr/lib32/qt5/plugins/choqok_posterous.so
+/usr/lib32/qt5/plugins/choqok_pumpio.so
+/usr/lib32/qt5/plugins/choqok_quickfilter.so
+/usr/lib32/qt5/plugins/choqok_searchaction.so
+/usr/lib32/qt5/plugins/choqok_tighturl.so
+/usr/lib32/qt5/plugins/choqok_tinyarro_ws.so
+/usr/lib32/qt5/plugins/choqok_twitgoo.so
+/usr/lib32/qt5/plugins/choqok_twitter.so
+/usr/lib32/qt5/plugins/choqok_untiny.so
+/usr/lib32/qt5/plugins/choqok_ur1_ca.so
+/usr/lib32/qt5/plugins/choqok_videopreview.so
+/usr/lib32/qt5/plugins/choqok_yourls.so
+/usr/lib32/qt5/plugins/kcm_choqok_accountsconfig.so
+/usr/lib32/qt5/plugins/kcm_choqok_appearanceconfig.so
+/usr/lib32/qt5/plugins/kcm_choqok_behaviorconfig.so
+/usr/lib32/qt5/plugins/kcm_choqok_betternotify.so
+/usr/lib32/qt5/plugins/kcm_choqok_bit_ly.so
+/usr/lib32/qt5/plugins/kcm_choqok_flickr.so
+/usr/lib32/qt5/plugins/kcm_choqok_imstatus.so
+/usr/lib32/qt5/plugins/kcm_choqok_is_gd.so
+/usr/lib32/qt5/plugins/kcm_choqok_mobypicture.so
+/usr/lib32/qt5/plugins/kcm_choqok_nowlistening.so
+/usr/lib32/qt5/plugins/kcm_choqok_pluginconfig.so
+/usr/lib32/qt5/plugins/kcm_choqok_posterous.so
+/usr/lib32/qt5/plugins/kcm_choqok_tinyarro_ws.so
+/usr/lib32/qt5/plugins/kcm_choqok_twitgoo.so
+/usr/lib32/qt5/plugins/kcm_choqok_yourls.so
+/usr/lib32/qt5/plugins/kf5/parts/konqchoqokplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/purposeplugin.so

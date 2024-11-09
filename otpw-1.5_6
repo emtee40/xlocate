@@ -1,0 +1,5 @@
+/etc/pam.d/ssh-otpw
+/usr/bin/otpw-gen
+/usr/lib/security/pam_otpw.so
+/usr/share/man/man1/otpw-gen.1
+/usr/share/man/man8/pam_otpw.8

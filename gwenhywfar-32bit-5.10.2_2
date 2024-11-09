@@ -1,0 +1,15 @@
+/usr/lib32/gwenhywfar/plugins/79/configmgr/dir.so
+/usr/lib32/gwenhywfar/plugins/79/ct/ohbci.so
+/usr/lib32/gwenhywfar/plugins/79/dbio/csv.so -> /usr/lib32/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/csv.so.0 -> /usr/lib32/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/olddb.so -> /usr/lib32/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/olddb.so.0 -> /usr/lib32/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/xmldb.so -> /usr/lib32/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/xmldb.so.0 -> /usr/lib32/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib32/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib32/libgwengui-cpp.so.79 -> /usr/lib32/libgwengui-cpp.so.79.10.2
+/usr/lib32/libgwengui-cpp.so.79.10.2
+/usr/lib32/libgwenhywfar.so.79 -> /usr/lib32/libgwenhywfar.so.79.10.2
+/usr/lib32/libgwenhywfar.so.79.10.2

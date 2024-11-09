@@ -1,0 +1,41 @@
+/usr/lib/fcitx5/libhangul.so
+/usr/share/fcitx5/addon/hangul.conf
+/usr/share/fcitx5/hangul/symbol.txt
+/usr/share/fcitx5/inputmethod/hangul.conf
+/usr/share/icons/hicolor/16x16/apps/fcitx-hangul.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/16x16/apps/fcitx-hanja-active.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/16x16/apps/fcitx-hanja-inactive.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-hangul.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-hanja-active.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-hanja-inactive.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-hangul.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-hanja-active.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-hanja-inactive.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-hangul.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-hanja-active.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-hanja-inactive.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hanja-active.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-hanja-inactive.png
+/usr/share/icons/hicolor/64x64/apps/fcitx-hangul.png -> /usr/share/icons/hicolor/64x64/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/icons/hicolor/64x64/apps/org.fcitx.Fcitx5.fcitx-hangul.png
+/usr/share/locale/ca/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/he/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-hangul.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.Hangul.metainfo.xml

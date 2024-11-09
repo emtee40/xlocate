@@ -1,0 +1,10 @@
+/etc/sv/uptimed/run
+/etc/sv/uptimed/supervise -> /run/runit/supervise.uptimed
+/etc/uptimed.conf
+/usr/bin/uprecords
+/usr/bin/uptimed
+/usr/lib/libuptimed.so -> /usr/lib/libuptimed.so.0.0.0
+/usr/lib/libuptimed.so.0 -> /usr/lib/libuptimed.so.0.0.0
+/usr/lib/libuptimed.so.0.0.0
+/usr/share/man/man1/uprecords.1
+/usr/share/man/man8/uptimed.8

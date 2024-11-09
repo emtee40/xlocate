@@ -1,0 +1,7 @@
+/etc/sv/blackbox_exporter/log/run
+/etc/sv/blackbox_exporter/log/supervise -> /run/runit/supervise.blackbox_exporter-log
+/etc/sv/blackbox_exporter/run
+/etc/sv/blackbox_exporter/supervise -> /run/runit/supervise.blackbox_exporter
+/usr/bin/blackbox_exporter
+/usr/share/doc/blackbox_exporter/CONFIGURATION.md
+/usr/share/examples/blackbox_exporter/example.yml

@@ -1,0 +1,4 @@
+/usr/lib32/gio/modules/libgioremote-volume-monitor.so
+/usr/lib32/gio/modules/libgvfsdbus.so
+/usr/lib32/gvfs/libgvfscommon.so
+/usr/lib32/gvfs/libgvfsdaemon.so

@@ -1,0 +1,15 @@
+/usr/include/nuspell/aff_data.hxx
+/usr/include/nuspell/checker.hxx
+/usr/include/nuspell/defines.hxx
+/usr/include/nuspell/dictionary.hxx
+/usr/include/nuspell/finder.hxx
+/usr/include/nuspell/nuspell_export.h
+/usr/include/nuspell/structures.hxx
+/usr/include/nuspell/suggester.hxx
+/usr/include/nuspell/unicode.hxx
+/usr/lib/cmake/nuspell/NuspellConfig.cmake
+/usr/lib/cmake/nuspell/NuspellConfigVersion.cmake
+/usr/lib/cmake/nuspell/NuspellTargets-none.cmake
+/usr/lib/cmake/nuspell/NuspellTargets.cmake
+/usr/lib/libnuspell.so -> /usr/lib/libnuspell.so.5
+/usr/lib/pkgconfig/nuspell.pc

@@ -1,0 +1,6 @@
+/usr/lib32/vagrant/extensions/x86-linux/3.1.0/bcrypt_pbkdf-1.1.0/bcrypt_pbkdf_ext.so
+/usr/lib32/vagrant/extensions/x86-linux/3.1.0/ed25519-1.2.4/ed25519_ref10.so
+/usr/lib32/vagrant/extensions/x86-linux/3.1.0/ffi-1.15.5/ffi_c.so
+/usr/lib32/vagrant/gems/bcrypt_pbkdf-1.1.0/lib/bcrypt_pbkdf_ext.so
+/usr/lib32/vagrant/gems/ed25519-1.2.4/lib/ed25519_ref10.so
+/usr/lib32/vagrant/gems/ffi-1.15.5/lib/ffi_c.so

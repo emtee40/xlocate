@@ -1,0 +1,5 @@
+/etc/xinetd.d/rsh
+/usr/bin/rsh
+/usr/bin/rshd
+/usr/share/man/man1/rsh.1
+/usr/share/man/man8/rshd.8

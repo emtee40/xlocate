@@ -1,0 +1,4 @@
+/usr/include/libuecc-7/libuecc/ecc.h
+/usr/lib/libuecc.a
+/usr/lib/libuecc.so -> /usr/lib/libuecc.so.0
+/usr/lib/pkgconfig/libuecc.pc

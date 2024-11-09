@@ -1,0 +1,35 @@
+/usr/lib/X11/bindings/acorn
+/usr/lib/X11/bindings/apollo
+/usr/lib/X11/bindings/dec
+/usr/lib/X11/bindings/dg_AViiON
+/usr/lib/X11/bindings/doubleclick
+/usr/lib/X11/bindings/hal
+/usr/lib/X11/bindings/hitachi
+/usr/lib/X11/bindings/hp
+/usr/lib/X11/bindings/ibm
+/usr/lib/X11/bindings/intergraph
+/usr/lib/X11/bindings/intergraph17
+/usr/lib/X11/bindings/megatek
+/usr/lib/X11/bindings/motorola
+/usr/lib/X11/bindings/ncr_at
+/usr/lib/X11/bindings/ncr_vt
+/usr/lib/X11/bindings/pc
+/usr/lib/X11/bindings/sgi
+/usr/lib/X11/bindings/siemens_9733
+/usr/lib/X11/bindings/siemens_wx200
+/usr/lib/X11/bindings/sni
+/usr/lib/X11/bindings/sni_97801
+/usr/lib/X11/bindings/sony
+/usr/lib/X11/bindings/sun
+/usr/lib/X11/bindings/sun_at
+/usr/lib/X11/bindings/tek
+/usr/lib/X11/bindings/xmbind.alias
+/usr/lib/libMrm.a
+/usr/lib/libMrm.so.4 -> /usr/lib/libMrm.so.4.0.4
+/usr/lib/libMrm.so.4.0.4
+/usr/lib/libUil.a
+/usr/lib/libUil.so.4 -> /usr/lib/libUil.so.4.0.4
+/usr/lib/libUil.so.4.0.4
+/usr/lib/libXm.a
+/usr/lib/libXm.so.4 -> /usr/lib/libXm.so.4.0.4
+/usr/lib/libXm.so.4.0.4

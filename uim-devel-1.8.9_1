@@ -1,0 +1,15 @@
+/usr/include/uim/dynlib.h
+/usr/include/uim/uim-custom.h
+/usr/include/uim/uim-helper.h
+/usr/include/uim/uim-im-switcher.h
+/usr/include/uim/uim-notify.h
+/usr/include/uim/uim-posix.h
+/usr/include/uim/uim-scm-abbrev.h
+/usr/include/uim/uim-scm.h
+/usr/include/uim/uim-util.h
+/usr/include/uim/uim.h
+/usr/include/uim/version.h
+/usr/lib/libuim-custom.so -> /usr/lib/libuim-custom.so.2.1.0
+/usr/lib/libuim-scm.so -> /usr/lib/libuim-scm.so.0.1.0
+/usr/lib/libuim.so -> /usr/lib/libuim.so.8.0.0
+/usr/lib/pkgconfig/uim.pc

@@ -1,0 +1,8 @@
+/usr/lib/perl5/vendor_perl/Crypt/OpenSSL/RSA.pm
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/RSA.so
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/autosplit.ix
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/get_key_parameters.al
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/import_random_seed.al
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/new_key_from_parameters.al
+/usr/lib/perl5/vendor_perl/auto/Crypt/OpenSSL/RSA/new_public_key.al
+/usr/share/man/man3/Crypt::OpenSSL::RSA.3p

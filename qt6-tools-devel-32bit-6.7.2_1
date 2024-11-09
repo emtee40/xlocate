@@ -1,0 +1,9 @@
+/usr/lib32/libQt6Designer.so -> /usr/lib32/libQt6Designer.so.6
+/usr/lib32/libQt6DesignerComponents.so -> /usr/lib32/libQt6DesignerComponents.so.6
+/usr/lib32/libQt6Help.so -> /usr/lib32/libQt6Help.so.6
+/usr/lib32/libQt6UiTools.so -> /usr/lib32/libQt6UiTools.so.6
+/usr/lib32/pkgconfig/Qt6Designer.pc
+/usr/lib32/pkgconfig/Qt6Help.pc
+/usr/lib32/pkgconfig/Qt6Linguist.pc
+/usr/lib32/pkgconfig/Qt6UiPlugin.pc
+/usr/lib32/pkgconfig/Qt6UiTools.pc

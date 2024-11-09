@@ -1,0 +1,8 @@
+/usr/lib/modprobe.d/xpadneo.conf
+/usr/lib/udev/rules.d/60-xpadneo.rules
+/usr/src/hid-xpadneo-0.9.6/dkms.conf
+/usr/src/hid-xpadneo-0.9.6/src/.editorconfig
+/usr/src/hid-xpadneo-0.9.6/src/Makefile
+/usr/src/hid-xpadneo-0.9.6/src/hid-ids.h
+/usr/src/hid-xpadneo-0.9.6/src/hid-xpadneo.c
+/usr/src/hid-xpadneo-0.9.6/src/xpadneo.h

@@ -1,0 +1,3 @@
+/etc/edac/labels.db
+/usr/lib/libedac.so.1 -> /usr/lib/libedac.so.1.1.1
+/usr/lib/libedac.so.1.1.1

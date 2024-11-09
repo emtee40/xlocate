@@ -1,0 +1,6 @@
+/etc/sv/mouseemu/conf
+/etc/sv/mouseemu/run
+/etc/sv/mouseemu/supervise -> /run/runit/supervise.mouseemu
+/usr/bin/mouseemu
+/usr/lib/udev/rules.d/99-mouseemu.rules
+/usr/share/man/man8/mouseemu.8

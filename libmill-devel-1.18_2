@@ -1,0 +1,4 @@
+/usr/include/libmill.h
+/usr/lib/libmill.a
+/usr/lib/libmill.so -> /usr/lib/libmill.so.18.1.1
+/usr/lib/pkgconfig/libmill.pc

@@ -1,0 +1,12 @@
+/etc/passwdqc.conf
+/usr/bin/pwqcheck
+/usr/bin/pwqfilter
+/usr/bin/pwqgen
+/usr/lib/libpasswdqc.so.1
+/usr/lib/security/pam_passwdqc.so
+/usr/share/licenses/passwdqc/LICENSE
+/usr/share/man/man1/pwqcheck.1
+/usr/share/man/man1/pwqfilter.1
+/usr/share/man/man1/pwqgen.1
+/usr/share/man/man5/passwdqc.conf.5
+/usr/share/man/man8/pam_passwdqc.8

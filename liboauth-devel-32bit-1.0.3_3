@@ -1,0 +1,3 @@
+/usr/lib32/liboauth.a
+/usr/lib32/liboauth.so -> /usr/lib32/liboauth.so.0.8.7
+/usr/lib32/pkgconfig/oauth.pc

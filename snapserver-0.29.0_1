@@ -1,0 +1,25 @@
+/etc/snapserver.conf
+/etc/sv/snapserver/log/run
+/etc/sv/snapserver/log/supervise -> /run/runit/supervise.snapserver-log
+/etc/sv/snapserver/run
+/etc/sv/snapserver/supervise -> /run/runit/supervise.snapserver
+/usr/bin/snapserver
+/usr/share/man/man1/snapserver.1
+/usr/share/snapserver/snapweb/apple-touch-icon-180x180.png
+/usr/share/snapserver/snapweb/assets/10-seconds-of-silence-j39Pm5R-.mp3
+/usr/share/snapserver/snapweb/assets/index-BDBx6C_I.css
+/usr/share/snapserver/snapweb/assets/index-BYMjFABP.js
+/usr/share/snapserver/snapweb/assets/logo192-wKJb_L8G.png
+/usr/share/snapserver/snapweb/assets/snapcast-512-B1PzHP_P.png
+/usr/share/snapserver/snapweb/favicon.ico
+/usr/share/snapserver/snapweb/index.html
+/usr/share/snapserver/snapweb/logo.svg
+/usr/share/snapserver/snapweb/manifest.webmanifest
+/usr/share/snapserver/snapweb/maskable-icon-512x512.png
+/usr/share/snapserver/snapweb/pwa-192x192.png
+/usr/share/snapserver/snapweb/pwa-512x512.png
+/usr/share/snapserver/snapweb/pwa-64x64.png
+/usr/share/snapserver/snapweb/registerSW.js
+/usr/share/snapserver/snapweb/robots.txt
+/usr/share/snapserver/snapweb/sw.js
+/usr/share/snapserver/snapweb/workbox-3e911b1d.js

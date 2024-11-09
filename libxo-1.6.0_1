@@ -1,0 +1,15 @@
+/usr/lib/libxo.so.0 -> /usr/lib/libxo.so.0.0.0
+/usr/lib/libxo.so.0.0.0
+/usr/lib/libxo/encoder/cbor.enc -> /usr/lib/libxo/encoder/libenc_cbor.so.0
+/usr/lib/libxo/encoder/csv.enc -> /usr/lib/libxo/encoder/libenc_csv.so.0
+/usr/lib/libxo/encoder/libenc_cbor.so.0 -> /usr/lib/libxo/encoder/libenc_cbor.so.0.0.0
+/usr/lib/libxo/encoder/libenc_cbor.so.0.0.0
+/usr/lib/libxo/encoder/libenc_csv.so.0 -> /usr/lib/libxo/encoder/libenc_csv.so.0.0.0
+/usr/lib/libxo/encoder/libenc_csv.so.0.0.0
+/usr/lib/libxo/encoder/libenc_test.so.0 -> /usr/lib/libxo/encoder/libenc_test.so.0.0.0
+/usr/lib/libxo/encoder/libenc_test.so.0.0.0
+/usr/lib/libxo/encoder/test.enc -> /usr/lib/libxo/encoder/libenc_test.so.0
+/usr/share/licenses/libxo/Copyright
+/usr/share/man/man5/xo_format.5
+/usr/share/man/man7/libxo-csv.7
+/usr/share/man/man7/xo_options.7

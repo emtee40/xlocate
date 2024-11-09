@@ -1,0 +1,3 @@
+/usr/lib32/libquvi.a
+/usr/lib32/libquvi.so -> /usr/lib32/libquvi.so.7.0.1
+/usr/lib32/pkgconfig/libquvi.pc

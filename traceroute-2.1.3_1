@@ -1,0 +1,4 @@
+/usr/bin/linux-traceroute
+/usr/bin/traceroute6 -> /usr/bin/linux-traceroute
+/usr/share/man/man8/linux-traceroute.8
+/usr/share/man/man8/traceroute6.8 -> /usr/share/man/man8/linux-traceroute.8

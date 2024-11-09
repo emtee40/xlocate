@@ -1,0 +1,3 @@
+/usr/lib32/libmsgpack-c.a
+/usr/lib32/libmsgpack-c.so -> /usr/lib32/libmsgpack-c.so.2
+/usr/lib32/pkgconfig/msgpack-c.pc

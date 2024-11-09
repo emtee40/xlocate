@@ -1,0 +1,6 @@
+/usr/bin/kcov
+/usr/bin/kcov-system-daemon
+/usr/share/doc/kcov/COPYING
+/usr/share/doc/kcov/COPYING.externals
+/usr/share/doc/kcov/ChangeLog
+/usr/share/man/man1/kcov.1

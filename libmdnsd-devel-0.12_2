@@ -1,0 +1,6 @@
+/usr/include/libmdnsd/1035.h
+/usr/include/libmdnsd/mdnsd.h
+/usr/include/libmdnsd/sdtxt.h
+/usr/include/libmdnsd/xht.h
+/usr/lib/libmdnsd.a
+/usr/lib/libmdnsd.so -> /usr/lib/libmdnsd.so.1.0.0

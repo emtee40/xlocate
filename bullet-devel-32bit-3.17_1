@@ -1,0 +1,21 @@
+/usr/lib32/libBullet2FileLoader.so -> /usr/lib32/libBullet2FileLoader.so.3.17
+/usr/lib32/libBullet3Collision.so -> /usr/lib32/libBullet3Collision.so.3.17
+/usr/lib32/libBullet3Common.so -> /usr/lib32/libBullet3Common.so.3.17
+/usr/lib32/libBullet3Dynamics.so -> /usr/lib32/libBullet3Dynamics.so.3.17
+/usr/lib32/libBullet3Geometry.so -> /usr/lib32/libBullet3Geometry.so.3.17
+/usr/lib32/libBullet3OpenCL_clew.so -> /usr/lib32/libBullet3OpenCL_clew.so.3.17
+/usr/lib32/libBulletCollision.so -> /usr/lib32/libBulletCollision.so.3.17
+/usr/lib32/libBulletDynamics.so -> /usr/lib32/libBulletDynamics.so.3.17
+/usr/lib32/libBulletExampleBrowserLib.so -> /usr/lib32/libBulletExampleBrowserLib.so.3.17
+/usr/lib32/libBulletFileLoader.so -> /usr/lib32/libBulletFileLoader.so.3.17
+/usr/lib32/libBulletInverseDynamics.so -> /usr/lib32/libBulletInverseDynamics.so.3.17
+/usr/lib32/libBulletInverseDynamicsUtils.so -> /usr/lib32/libBulletInverseDynamicsUtils.so.3.17
+/usr/lib32/libBulletRobotics.so -> /usr/lib32/libBulletRobotics.so.3.17
+/usr/lib32/libBulletRoboticsGUI.so -> /usr/lib32/libBulletRoboticsGUI.so.3.17
+/usr/lib32/libBulletSoftBody.so -> /usr/lib32/libBulletSoftBody.so.3.17
+/usr/lib32/libBulletWorldImporter.so -> /usr/lib32/libBulletWorldImporter.so.3.17
+/usr/lib32/libBulletXmlWorldImporter.so -> /usr/lib32/libBulletXmlWorldImporter.so.3.17
+/usr/lib32/libclsocket.a
+/usr/lib32/pkgconfig/bullet.pc
+/usr/lib32/pkgconfig/bullet_robotics.pc
+/usr/lib32/pkgconfig/bullet_robotics_gui.pc

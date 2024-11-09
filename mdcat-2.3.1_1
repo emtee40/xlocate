@@ -1,0 +1,10 @@
+/usr/bin/mdcat
+/usr/bin/mdless -> /usr/bin/mdcat
+/usr/share/bash-completion/completions/mdcat
+/usr/share/bash-completion/completions/mdless
+/usr/share/fish/vendor_completions.d/mdcat.fish
+/usr/share/fish/vendor_completions.d/mdless.fish
+/usr/share/man/man1/mdcat.1
+/usr/share/man/man1/mdless.1 -> /usr/share/man/man1/mdcat.1
+/usr/share/zsh/site-functions/_mdcat
+/usr/share/zsh/site-functions/_mdless

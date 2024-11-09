@@ -1,0 +1,7 @@
+/usr/include/KGlobalAccelD/kglobalaccel_interface.h
+/usr/include/KGlobalAccelD/kglobalacceld.h
+/usr/include/KGlobalAccelD/kglobalacceld_export.h
+/usr/lib/cmake/KGlobalAccelD/KGlobalAccelDConfig.cmake
+/usr/lib/cmake/KGlobalAccelD/KGlobalAccelDConfigVersion.cmake
+/usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets-none.cmake
+/usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets.cmake

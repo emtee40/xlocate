@@ -1,0 +1,11 @@
+/usr/bin/compose -> /usr/bin/run-mailcap
+/usr/bin/edit -> /usr/bin/run-mailcap
+/usr/bin/print -> /usr/bin/run-mailcap
+/usr/bin/run-mailcap
+/usr/bin/see -> /usr/bin/run-mailcap
+/usr/share/licenses/run-mailcap/copyright
+/usr/share/man/man1/compose.1 -> /usr/share/man/man1/run-mailcap.1
+/usr/share/man/man1/edit.1 -> /usr/share/man/man1/run-mailcap.1
+/usr/share/man/man1/print.1 -> /usr/share/man/man1/run-mailcap.1
+/usr/share/man/man1/run-mailcap.1
+/usr/share/man/man1/see.1 -> /usr/share/man/man1/run-mailcap.1

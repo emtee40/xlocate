@@ -1,0 +1,5 @@
+/usr/lib32/qt6/plugins/kf6/kded/bluedevil.so
+/usr/lib32/qt6/plugins/kf6/kio/kio_bluetooth.so
+/usr/lib32/qt6/plugins/kf6/kio/kio_obexftp.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_bluetooth.so
+/usr/lib32/qt6/qml/org/kde/plasma/private/bluetooth/libbluetoothplugin.so

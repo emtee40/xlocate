@@ -1,0 +1,10 @@
+/usr/lib32/libKF5Baloo.so.5 -> /usr/lib32/libKF5Baloo.so.5.115.0
+/usr/lib32/libKF5Baloo.so.5.115.0
+/usr/lib32/libKF5BalooEngine.so.5 -> /usr/lib32/libKF5BalooEngine.so.5.115.0
+/usr/lib32/libKF5BalooEngine.so.5.115.0
+/usr/lib32/qt5/plugins/kf5/kded/baloosearchmodule.so
+/usr/lib32/qt5/plugins/kf5/kio/baloosearch.so
+/usr/lib32/qt5/plugins/kf5/kio/tags.so
+/usr/lib32/qt5/plugins/kf5/kio/timeline.so
+/usr/lib32/qt5/qml/org/kde/baloo/experimental/libbaloomonitorplugin.so
+/usr/lib32/qt5/qml/org/kde/baloo/libbalooplugin.so

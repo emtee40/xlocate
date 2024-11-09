@@ -1,0 +1,13 @@
+/usr/bin/patchmatrix
+/usr/bin/patchmatrix_mixer
+/usr/bin/patchmatrix_monitor
+/usr/share/applications/patchmatrix.desktop
+/usr/share/icons/hicolor/256x256/apps/patchmatrix.png
+/usr/share/man/man1/patchmatrix.1
+/usr/share/man/man1/patchmatrix_mixer.1
+/usr/share/man/man1/patchmatrix_monitor.1
+/usr/share/patchmatrix/Cousine-Regular.ttf
+/usr/share/patchmatrix/audio.png
+/usr/share/patchmatrix/cv.png
+/usr/share/patchmatrix/midi.png
+/usr/share/patchmatrix/osc.png

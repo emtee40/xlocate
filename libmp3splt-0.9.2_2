@@ -1,0 +1,19 @@
+/usr/lib/libmp3splt.so.0 -> /usr/lib/libmp3splt.so.0.0.9
+/usr/lib/libmp3splt.so.0.0.9
+/usr/lib/libmp3splt0/libsplt_flac.a
+/usr/lib/libmp3splt0/libsplt_flac.so -> /usr/lib/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_flac.so.0 -> /usr/lib/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_mp3.a
+/usr/lib/libmp3splt0/libsplt_mp3.so -> /usr/lib/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_mp3.so.0 -> /usr/lib/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_ogg.a
+/usr/lib/libmp3splt0/libsplt_ogg.so -> /usr/lib/libmp3splt0/libsplt_ogg.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_ogg.so.0 -> /usr/lib/libmp3splt0/libsplt_ogg.so.0.0.0
+/usr/lib/libmp3splt0/libsplt_ogg.so.0.0.0
+/usr/share/locale/cs/LC_MESSAGES/libmp3splt0.mo
+/usr/share/locale/de_DE/LC_MESSAGES/libmp3splt0.mo
+/usr/share/locale/es/LC_MESSAGES/libmp3splt0.mo
+/usr/share/locale/fr_FR/LC_MESSAGES/libmp3splt0.mo
+/usr/share/locale/hr/LC_MESSAGES/libmp3splt0.mo

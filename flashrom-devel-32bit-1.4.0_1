@@ -1,0 +1,3 @@
+/usr/lib32/libflashrom.a
+/usr/lib32/libflashrom.so -> /usr/lib32/libflashrom.so.1
+/usr/lib32/pkgconfig/flashrom.pc

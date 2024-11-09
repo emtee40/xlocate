@@ -1,0 +1,4 @@
+/usr/lib32/Plugin_StrangeButton.so
+/usr/lib32/libMyGUI.DummyPlatform.a
+/usr/lib32/libMyGUIEngine.so -> /usr/lib32/libMyGUIEngine.so.3.4.2
+/usr/lib32/pkgconfig/MYGUI.pc

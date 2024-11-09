@@ -1,0 +1,10 @@
+/usr/share/man/man3/CPAN::Common::Index.3p
+/usr/share/man/man3/CPAN::Common::Index::LocalPackage.3p
+/usr/share/man/man3/CPAN::Common::Index::MetaDB.3p
+/usr/share/man/man3/CPAN::Common::Index::Mirror.3p
+/usr/share/man/man3/CPAN::Common::Index::Mux::Ordered.3p
+/usr/share/perl5/vendor_perl/CPAN/Common/Index.pm
+/usr/share/perl5/vendor_perl/CPAN/Common/Index/LocalPackage.pm
+/usr/share/perl5/vendor_perl/CPAN/Common/Index/MetaDB.pm
+/usr/share/perl5/vendor_perl/CPAN/Common/Index/Mirror.pm
+/usr/share/perl5/vendor_perl/CPAN/Common/Index/Mux/Ordered.pm

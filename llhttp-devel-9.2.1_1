@@ -1,0 +1,5 @@
+/usr/include/llhttp.h
+/usr/lib/cmake/llhttp/llhttp-config-none.cmake
+/usr/lib/cmake/llhttp/llhttp-config.cmake
+/usr/lib/libllhttp.so -> /usr/lib/libllhttp.so.9.2
+/usr/lib/pkgconfig/libllhttp.pc

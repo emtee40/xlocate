@@ -1,0 +1,9 @@
+/usr/include/chewing/chewing-compat.h
+/usr/include/chewing/chewing.h
+/usr/include/chewing/chewingio.h
+/usr/include/chewing/global.h
+/usr/include/chewing/mod_aux.h
+/usr/lib/libchewing.a
+/usr/lib/libchewing.so -> /usr/lib/libchewing.so.3
+/usr/lib/pkgconfig/chewing.pc
+/usr/share/info/libchewing.info

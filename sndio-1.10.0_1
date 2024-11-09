@@ -1,0 +1,13 @@
+/etc/sv/sndiod/log/run
+/etc/sv/sndiod/log/supervise -> /run/runit/supervise.sndiod-log
+/etc/sv/sndiod/run
+/etc/sv/sndiod/supervise -> /run/runit/supervise.sndiod
+/usr/bin/aucat
+/usr/bin/midicat
+/usr/bin/sndioctl
+/usr/bin/sndiod
+/usr/share/man/man1/aucat.1
+/usr/share/man/man1/midicat.1
+/usr/share/man/man1/sndioctl.1
+/usr/share/man/man7/sndio.7
+/usr/share/man/man8/sndiod.8

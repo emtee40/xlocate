@@ -1,0 +1,8 @@
+/usr/bin/espeak -> /usr/bin/espeak-ng
+/usr/bin/espeak-ng
+/usr/bin/speak -> /usr/bin/speak-ng
+/usr/bin/speak-ng
+/usr/share/vim/addons/ftdetect/espeakfiletype.vim
+/usr/share/vim/addons/syntax/espeaklist.vim
+/usr/share/vim/addons/syntax/espeakrules.vim
+/usr/share/vim/registry/espeak.yaml

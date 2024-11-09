@@ -1,0 +1,17 @@
+/usr/lib/modules-load.d/igb_uio.conf
+/usr/lib/modules-load.d/rte_kni.conf
+/usr/src/dpdk-igb-uio-19.08/Kbuild
+/usr/src/dpdk-igb-uio-19.08/Makefile
+/usr/src/dpdk-igb-uio-19.08/compat.h
+/usr/src/dpdk-igb-uio-19.08/dkms.conf
+/usr/src/dpdk-igb-uio-19.08/igb_uio.c
+/usr/src/dpdk-igb-uio-19.08/meson.build
+/usr/src/dpdk-rte-kni-19.08/Kbuild
+/usr/src/dpdk-rte-kni-19.08/Makefile
+/usr/src/dpdk-rte-kni-19.08/compat.h
+/usr/src/dpdk-rte-kni-19.08/dkms.conf
+/usr/src/dpdk-rte-kni-19.08/kni_dev.h
+/usr/src/dpdk-rte-kni-19.08/kni_fifo.h
+/usr/src/dpdk-rte-kni-19.08/kni_misc.c
+/usr/src/dpdk-rte-kni-19.08/kni_net.c
+/usr/src/dpdk-rte-kni-19.08/meson.build

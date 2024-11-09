@@ -1,0 +1,3 @@
+/usr/lib32/librocksdb.a
+/usr/lib32/librocksdb.so -> /usr/lib32/librocksdb.so.7
+/usr/lib32/pkgconfig/rocksdb.pc

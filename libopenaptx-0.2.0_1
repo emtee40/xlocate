@@ -1,0 +1,5 @@
+/usr/bin/openaptxdec
+/usr/bin/openaptxenc
+/usr/lib/libopenaptx.a
+/usr/lib/libopenaptx.so.0 -> /usr/lib/libopenaptx.so.0.2.0
+/usr/lib/libopenaptx.so.0.2.0

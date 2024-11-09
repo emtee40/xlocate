@@ -1,0 +1,7 @@
+/usr/lib32/libPlasma5Support.so.6 -> /usr/lib32/libPlasma5Support.so.6.2.0
+/usr/lib32/libPlasma5Support.so.6.2.0
+/usr/lib32/qt6/plugins/plasma5support/dataengine/plasma_engine_devicenotifications.so
+/usr/lib32/qt6/plugins/plasma5support/dataengine/plasma_engine_hotplug.so
+/usr/lib32/qt6/plugins/plasma5support/dataengine/plasma_engine_keystate.so
+/usr/lib32/qt6/plugins/plasma5support/dataengine/plasma_engine_soliddevice.so
+/usr/lib32/qt6/qml/org/kde/plasma/plasma5support/libplasma5supportplugin.so

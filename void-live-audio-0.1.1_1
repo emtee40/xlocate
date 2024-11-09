@@ -1,0 +1,5 @@
+/etc/runit/core-services/99-live-audio.sh
+/usr/bin/live-audio
+/usr/share/live-audio/asound.conf.in
+/usr/share/live-audio/beep.wav
+/usr/share/live-audio/pick-a-card.wav

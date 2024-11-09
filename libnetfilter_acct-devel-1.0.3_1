@@ -1,0 +1,3 @@
+/usr/include/libnetfilter_acct/libnetfilter_acct.h
+/usr/lib/libnetfilter_acct.so -> /usr/lib/libnetfilter_acct.so.1.0.0
+/usr/lib/pkgconfig/libnetfilter_acct.pc

@@ -1,0 +1,13 @@
+/etc/mdns.d/ssh.service
+/etc/sv/mdnsd/log/run
+/etc/sv/mdnsd/log/supervise -> /run/runit/supervise.mdnsd-log
+/etc/sv/mdnsd/run
+/etc/sv/mdnsd/supervise -> /run/runit/supervise.mdnsd
+/usr/bin/mdnsd
+/usr/bin/mquery
+/usr/share/doc/mdnsd/ChangeLog.md
+/usr/share/doc/mdnsd/README.md
+/usr/share/licenses/mdnsd/LICENSE
+/usr/share/man/man1/mquery.1
+/usr/share/man/man5/mdnsd.service.5
+/usr/share/man/man8/mdnsd.8

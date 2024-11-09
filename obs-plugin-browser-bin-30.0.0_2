@@ -1,0 +1,11 @@
+/usr/lib/obs-plugins/chrome-sandbox
+/usr/lib/obs-plugins/chrome_100_percent.pak
+/usr/lib/obs-plugins/chrome_200_percent.pak
+/usr/lib/obs-plugins/icudtl.dat
+/usr/lib/obs-plugins/libcef.so
+/usr/lib/obs-plugins/libvk_swiftshader.so
+/usr/lib/obs-plugins/obs-browser-page
+/usr/lib/obs-plugins/obs-browser.so
+/usr/lib/obs-plugins/resources.pak
+/usr/lib/obs-plugins/v8_context_snapshot.bin
+/usr/lib/obs-plugins/vk_swiftshader_icd.json

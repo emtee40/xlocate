@@ -1,0 +1,428 @@
+/etc/gnunet/gnunet.conf
+/etc/sv/gnunet/log/run
+/etc/sv/gnunet/log/supervise -> /run/runit/supervise.gnunet-log
+/etc/sv/gnunet/run
+/etc/sv/gnunet/supervise -> /run/runit/supervise.gnunet
+/usr/bin/gnunet-arm
+/usr/bin/gnunet-ats
+/usr/bin/gnunet-auto-share
+/usr/bin/gnunet-bcd
+/usr/bin/gnunet-bugreport
+/usr/bin/gnunet-cadet
+/usr/bin/gnunet-consensus-profiler
+/usr/bin/gnunet-conversation
+/usr/bin/gnunet-conversation-test
+/usr/bin/gnunet-core
+/usr/bin/gnunet-datastore
+/usr/bin/gnunet-dht-get
+/usr/bin/gnunet-dht-monitor
+/usr/bin/gnunet-dht-put
+/usr/bin/gnunet-directory
+/usr/bin/gnunet-download
+/usr/bin/gnunet-ecc
+/usr/bin/gnunet-fs
+/usr/bin/gnunet-gns
+/usr/bin/gnunet-gns-proxy-setup-ca
+/usr/bin/gnunet-identity
+/usr/bin/gnunet-namecache
+/usr/bin/gnunet-namestore
+/usr/bin/gnunet-nat
+/usr/bin/gnunet-nat-auto
+/usr/bin/gnunet-nat-server
+/usr/bin/gnunet-nse
+/usr/bin/gnunet-peerinfo
+/usr/bin/gnunet-peerstore
+/usr/bin/gnunet-publish
+/usr/bin/gnunet-qr
+/usr/bin/gnunet-reclaim
+/usr/bin/gnunet-resolver
+/usr/bin/gnunet-revocation
+/usr/bin/gnunet-scalarproduct
+/usr/bin/gnunet-scrypt
+/usr/bin/gnunet-search
+/usr/bin/gnunet-secretsharing-profiler
+/usr/bin/gnunet-set-profiler
+/usr/bin/gnunet-statistics
+/usr/bin/gnunet-suidfix
+/usr/bin/gnunet-testbed-profiler
+/usr/bin/gnunet-testing
+/usr/bin/gnunet-transport
+/usr/bin/gnunet-transport-certificate-creation
+/usr/bin/gnunet-unindex
+/usr/bin/gnunet-uri
+/usr/bin/gnunet-vpn
+/usr/bin/gnunet-zoneimport
+/usr/lib/gnunet/libexec/gnunet-communicator-tcp
+/usr/lib/gnunet/libexec/gnunet-communicator-udp
+/usr/lib/gnunet/libexec/gnunet-communicator-unix
+/usr/lib/gnunet/libexec/gnunet-daemon-exit
+/usr/lib/gnunet/libexec/gnunet-daemon-latency-logger
+/usr/lib/gnunet/libexec/gnunet-daemon-pt
+/usr/lib/gnunet/libexec/gnunet-daemon-regexprofiler
+/usr/lib/gnunet/libexec/gnunet-daemon-testbed-blacklist
+/usr/lib/gnunet/libexec/gnunet-daemon-testbed-underlay
+/usr/lib/gnunet/libexec/gnunet-daemon-topology
+/usr/lib/gnunet/libexec/gnunet-dns2gns
+/usr/lib/gnunet/libexec/gnunet-helper-audio-playback
+/usr/lib/gnunet/libexec/gnunet-helper-audio-record
+/usr/lib/gnunet/libexec/gnunet-helper-dns
+/usr/lib/gnunet/libexec/gnunet-helper-exit
+/usr/lib/gnunet/libexec/gnunet-helper-fs-publish
+/usr/lib/gnunet/libexec/gnunet-helper-nat-client
+/usr/lib/gnunet/libexec/gnunet-helper-nat-server
+/usr/lib/gnunet/libexec/gnunet-helper-testbed
+/usr/lib/gnunet/libexec/gnunet-helper-vpn
+/usr/lib/gnunet/libexec/gnunet-namestore-fcfsd
+/usr/lib/gnunet/libexec/gnunet-rest-server
+/usr/lib/gnunet/libexec/gnunet-service-arm
+/usr/lib/gnunet/libexec/gnunet-service-ats
+/usr/lib/gnunet/libexec/gnunet-service-cadet
+/usr/lib/gnunet/libexec/gnunet-service-consensus
+/usr/lib/gnunet/libexec/gnunet-service-conversation
+/usr/lib/gnunet/libexec/gnunet-service-core
+/usr/lib/gnunet/libexec/gnunet-service-datastore
+/usr/lib/gnunet/libexec/gnunet-service-dht
+/usr/lib/gnunet/libexec/gnunet-service-dns
+/usr/lib/gnunet/libexec/gnunet-service-evil-consensus
+/usr/lib/gnunet/libexec/gnunet-service-fs
+/usr/lib/gnunet/libexec/gnunet-service-gns
+/usr/lib/gnunet/libexec/gnunet-service-identity
+/usr/lib/gnunet/libexec/gnunet-service-namecache
+/usr/lib/gnunet/libexec/gnunet-service-namestore
+/usr/lib/gnunet/libexec/gnunet-service-nat
+/usr/lib/gnunet/libexec/gnunet-service-nat-auto
+/usr/lib/gnunet/libexec/gnunet-service-nse
+/usr/lib/gnunet/libexec/gnunet-service-peerinfo
+/usr/lib/gnunet/libexec/gnunet-service-peerstore
+/usr/lib/gnunet/libexec/gnunet-service-reclaim
+/usr/lib/gnunet/libexec/gnunet-service-regex
+/usr/lib/gnunet/libexec/gnunet-service-resolver
+/usr/lib/gnunet/libexec/gnunet-service-revocation
+/usr/lib/gnunet/libexec/gnunet-service-scalarproduct-alice
+/usr/lib/gnunet/libexec/gnunet-service-scalarproduct-bob
+/usr/lib/gnunet/libexec/gnunet-service-scalarproduct-ecc-alice
+/usr/lib/gnunet/libexec/gnunet-service-scalarproduct-ecc-bob
+/usr/lib/gnunet/libexec/gnunet-service-secretsharing
+/usr/lib/gnunet/libexec/gnunet-service-set
+/usr/lib/gnunet/libexec/gnunet-service-statistics
+/usr/lib/gnunet/libexec/gnunet-service-testbed
+/usr/lib/gnunet/libexec/gnunet-service-testbed-logger
+/usr/lib/gnunet/libexec/gnunet-service-transport
+/usr/lib/gnunet/libexec/gnunet-service-vpn
+/usr/lib/gnunet/libexec/gnunet-service-zonemaster
+/usr/lib/gnunet/libexec/gnunet-service-zonemaster-monitor
+/usr/lib/gnunet/libexec/gnunet-timeout
+/usr/lib/gnunet/libgnunet_plugin_ats_proportional.so
+/usr/lib/gnunet/libgnunet_plugin_block_consensus.so
+/usr/lib/gnunet/libgnunet_plugin_block_dht.so
+/usr/lib/gnunet/libgnunet_plugin_block_dns.so
+/usr/lib/gnunet/libgnunet_plugin_block_fs.so
+/usr/lib/gnunet/libgnunet_plugin_block_gns.so
+/usr/lib/gnunet/libgnunet_plugin_block_regex.so
+/usr/lib/gnunet/libgnunet_plugin_block_revocation.so
+/usr/lib/gnunet/libgnunet_plugin_block_set_test.so
+/usr/lib/gnunet/libgnunet_plugin_block_test.so
+/usr/lib/gnunet/libgnunet_plugin_datacache_heap.so
+/usr/lib/gnunet/libgnunet_plugin_datacache_postgres.so
+/usr/lib/gnunet/libgnunet_plugin_datacache_sqlite.so
+/usr/lib/gnunet/libgnunet_plugin_datastore_heap.so
+/usr/lib/gnunet/libgnunet_plugin_datastore_mysql.so
+/usr/lib/gnunet/libgnunet_plugin_datastore_postgres.so
+/usr/lib/gnunet/libgnunet_plugin_datastore_sqlite.so
+/usr/lib/gnunet/libgnunet_plugin_gnsrecord_conversation.so
+/usr/lib/gnunet/libgnunet_plugin_gnsrecord_dns.so
+/usr/lib/gnunet/libgnunet_plugin_gnsrecord_gns.so
+/usr/lib/gnunet/libgnunet_plugin_gnsrecord_reclaim.so
+/usr/lib/gnunet/libgnunet_plugin_namecache_postgres.so
+/usr/lib/gnunet/libgnunet_plugin_namecache_sqlite.so
+/usr/lib/gnunet/libgnunet_plugin_namestore_flat.so
+/usr/lib/gnunet/libgnunet_plugin_namestore_postgres.so
+/usr/lib/gnunet/libgnunet_plugin_namestore_sqlite.so
+/usr/lib/gnunet/libgnunet_plugin_peerstore_sqlite.so
+/usr/lib/gnunet/libgnunet_plugin_reclaim_attribute_gnuid.so
+/usr/lib/gnunet/libgnunet_plugin_rest_config.so
+/usr/lib/gnunet/libgnunet_plugin_rest_copying.so
+/usr/lib/gnunet/libgnunet_plugin_rest_gns.so
+/usr/lib/gnunet/libgnunet_plugin_rest_identity.so
+/usr/lib/gnunet/libgnunet_plugin_rest_namestore.so
+/usr/lib/gnunet/libgnunet_plugin_rest_openid_connect.so
+/usr/lib/gnunet/libgnunet_plugin_rest_peerinfo.so
+/usr/lib/gnunet/libgnunet_plugin_rest_reclaim.so
+/usr/lib/gnunet/libgnunet_plugin_test.so
+/usr/lib/gnunet/libgnunet_plugin_transport_http_server.so
+/usr/lib/gnunet/libgnunet_plugin_transport_https_server.so
+/usr/lib/gnunet/libgnunet_plugin_transport_tcp.so
+/usr/lib/gnunet/libgnunet_plugin_transport_unix.so
+/usr/lib/gnunet/nss/libnss_gns.so.2
+/usr/lib/gnunet/nss/libnss_gns4.so.2
+/usr/lib/gnunet/nss/libnss_gns6.so.2
+/usr/lib/libgnunetarm.so.2 -> /usr/lib/libgnunetarm.so.2.0.0
+/usr/lib/libgnunetarm.so.2.0.0
+/usr/lib/libgnunetats.so.4 -> /usr/lib/libgnunetats.so.4.0.0
+/usr/lib/libgnunetats.so.4.0.0
+/usr/lib/libgnunetatstesting.so.0 -> /usr/lib/libgnunetatstesting.so.0.0.0
+/usr/lib/libgnunetatstesting.so.0.0.0
+/usr/lib/libgnunetblock.so.0 -> /usr/lib/libgnunetblock.so.0.0.0
+/usr/lib/libgnunetblock.so.0.0.0
+/usr/lib/libgnunetblockgroup.so.0 -> /usr/lib/libgnunetblockgroup.so.0.0.0
+/usr/lib/libgnunetblockgroup.so.0.0.0
+/usr/lib/libgnunetcadet.so.7 -> /usr/lib/libgnunetcadet.so.7.0.0
+/usr/lib/libgnunetcadet.so.7.0.0
+/usr/lib/libgnunetconsensus.so.0 -> /usr/lib/libgnunetconsensus.so.0.0.0
+/usr/lib/libgnunetconsensus.so.0.0.0
+/usr/lib/libgnunetconversation.so.0 -> /usr/lib/libgnunetconversation.so.0.0.0
+/usr/lib/libgnunetconversation.so.0.0.0
+/usr/lib/libgnunetcore.so.0 -> /usr/lib/libgnunetcore.so.0.0.1
+/usr/lib/libgnunetcore.so.0.0.1
+/usr/lib/libgnunetdatacache.so.0 -> /usr/lib/libgnunetdatacache.so.0.0.1
+/usr/lib/libgnunetdatacache.so.0.0.1
+/usr/lib/libgnunetdatastore.so.1 -> /usr/lib/libgnunetdatastore.so.1.0.0
+/usr/lib/libgnunetdatastore.so.1.0.0
+/usr/lib/libgnunetdht.so.3 -> /usr/lib/libgnunetdht.so.3.0.0
+/usr/lib/libgnunetdht.so.3.0.0
+/usr/lib/libgnunetdns.so.0 -> /usr/lib/libgnunetdns.so.0.0.0
+/usr/lib/libgnunetdns.so.0.0.0
+/usr/lib/libgnunetfragmentation.so.2 -> /usr/lib/libgnunetfragmentation.so.2.0.0
+/usr/lib/libgnunetfragmentation.so.2.0.0
+/usr/lib/libgnunetfriends.so.0 -> /usr/lib/libgnunetfriends.so.0.0.0
+/usr/lib/libgnunetfriends.so.0.0.0
+/usr/lib/libgnunetfs.so.2 -> /usr/lib/libgnunetfs.so.2.1.1
+/usr/lib/libgnunetfs.so.2.1.1
+/usr/lib/libgnunetgns.so.0 -> /usr/lib/libgnunetgns.so.0.0.0
+/usr/lib/libgnunetgns.so.0.0.0
+/usr/lib/libgnunetgnsrecord.so.0 -> /usr/lib/libgnunetgnsrecord.so.0.0.0
+/usr/lib/libgnunetgnsrecord.so.0.0.0
+/usr/lib/libgnunethello.so.0 -> /usr/lib/libgnunethello.so.0.1.0
+/usr/lib/libgnunethello.so.0.1.0
+/usr/lib/libgnunetidentity.so.1 -> /usr/lib/libgnunetidentity.so.1.0.0
+/usr/lib/libgnunetidentity.so.1.0.0
+/usr/lib/libgnunetjson.so.0 -> /usr/lib/libgnunetjson.so.0.0.0
+/usr/lib/libgnunetjson.so.0.0.0
+/usr/lib/libgnunetmicrophone.so.0 -> /usr/lib/libgnunetmicrophone.so.0.0.0
+/usr/lib/libgnunetmicrophone.so.0.0.0
+/usr/lib/libgnunetmy.so.0 -> /usr/lib/libgnunetmy.so.0.0.0
+/usr/lib/libgnunetmy.so.0.0.0
+/usr/lib/libgnunetmysql.so.0 -> /usr/lib/libgnunetmysql.so.0.0.0
+/usr/lib/libgnunetmysql.so.0.0.0
+/usr/lib/libgnunetnamecache.so.0 -> /usr/lib/libgnunetnamecache.so.0.0.0
+/usr/lib/libgnunetnamecache.so.0.0.0
+/usr/lib/libgnunetnamestore.so.0 -> /usr/lib/libgnunetnamestore.so.0.0.1
+/usr/lib/libgnunetnamestore.so.0.0.1
+/usr/lib/libgnunetnatauto.so.0 -> /usr/lib/libgnunetnatauto.so.0.0.0
+/usr/lib/libgnunetnatauto.so.0.0.0
+/usr/lib/libgnunetnatnew.so.2 -> /usr/lib/libgnunetnatnew.so.2.0.0
+/usr/lib/libgnunetnatnew.so.2.0.0
+/usr/lib/libgnunetnse.so.0 -> /usr/lib/libgnunetnse.so.0.0.0
+/usr/lib/libgnunetnse.so.0.0.0
+/usr/lib/libgnunetnt.so.0 -> /usr/lib/libgnunetnt.so.0.0.0
+/usr/lib/libgnunetnt.so.0.0.0
+/usr/lib/libgnunetpeerinfo.so.0 -> /usr/lib/libgnunetpeerinfo.so.0.0.0
+/usr/lib/libgnunetpeerinfo.so.0.0.0
+/usr/lib/libgnunetpeerstore.so.0 -> /usr/lib/libgnunetpeerstore.so.0.0.0
+/usr/lib/libgnunetpeerstore.so.0.0.0
+/usr/lib/libgnunetpq.so.1 -> /usr/lib/libgnunetpq.so.1.0.0
+/usr/lib/libgnunetpq.so.1.0.0
+/usr/lib/libgnunetreclaim.so.0 -> /usr/lib/libgnunetreclaim.so.0.0.0
+/usr/lib/libgnunetreclaim.so.0.0.0
+/usr/lib/libgnunetreclaimattribute.so.0 -> /usr/lib/libgnunetreclaimattribute.so.0.0.0
+/usr/lib/libgnunetreclaimattribute.so.0.0.0
+/usr/lib/libgnunetregex.so.3 -> /usr/lib/libgnunetregex.so.3.0.1
+/usr/lib/libgnunetregex.so.3.0.1
+/usr/lib/libgnunetregexblock.so.1 -> /usr/lib/libgnunetregexblock.so.1.0.0
+/usr/lib/libgnunetregexblock.so.1.0.0
+/usr/lib/libgnunetrest.so.0 -> /usr/lib/libgnunetrest.so.0.0.0
+/usr/lib/libgnunetrest.so.0.0.0
+/usr/lib/libgnunetrevocation.so.0 -> /usr/lib/libgnunetrevocation.so.0.0.0
+/usr/lib/libgnunetrevocation.so.0.0.0
+/usr/lib/libgnunetscalarproduct.so.0 -> /usr/lib/libgnunetscalarproduct.so.0.0.0
+/usr/lib/libgnunetscalarproduct.so.0.0.0
+/usr/lib/libgnunetsecretsharing.so.0 -> /usr/lib/libgnunetsecretsharing.so.0.0.0
+/usr/lib/libgnunetsecretsharing.so.0.0.0
+/usr/lib/libgnunetset.so.0 -> /usr/lib/libgnunetset.so.0.0.0
+/usr/lib/libgnunetset.so.0.0.0
+/usr/lib/libgnunetspeaker.so.0 -> /usr/lib/libgnunetspeaker.so.0.0.0
+/usr/lib/libgnunetspeaker.so.0.0.0
+/usr/lib/libgnunetsq.so.0 -> /usr/lib/libgnunetsq.so.0.0.0
+/usr/lib/libgnunetsq.so.0.0.0
+/usr/lib/libgnunetstatistics.so.2 -> /usr/lib/libgnunetstatistics.so.2.0.0
+/usr/lib/libgnunetstatistics.so.2.0.0
+/usr/lib/libgnunettestbed.so.0 -> /usr/lib/libgnunettestbed.so.0.0.0
+/usr/lib/libgnunettestbed.so.0.0.0
+/usr/lib/libgnunettestbedlogger.so.0 -> /usr/lib/libgnunettestbedlogger.so.0.0.0
+/usr/lib/libgnunettestbedlogger.so.0.0.0
+/usr/lib/libgnunettesting.so.1 -> /usr/lib/libgnunettesting.so.1.1.0
+/usr/lib/libgnunettesting.so.1.1.0
+/usr/lib/libgnunettransport.so.2 -> /usr/lib/libgnunettransport.so.2.2.0
+/usr/lib/libgnunettransport.so.2.2.0
+/usr/lib/libgnunettransportapplication.so.0 -> /usr/lib/libgnunettransportapplication.so.0.0.0
+/usr/lib/libgnunettransportapplication.so.0.0.0
+/usr/lib/libgnunettransportcommunicator.so.0 -> /usr/lib/libgnunettransportcommunicator.so.0.0.0
+/usr/lib/libgnunettransportcommunicator.so.0.0.0
+/usr/lib/libgnunettransportcore.so.0 -> /usr/lib/libgnunettransportcore.so.0.0.0
+/usr/lib/libgnunettransportcore.so.0.0.0
+/usr/lib/libgnunettransportmonitor.so.0 -> /usr/lib/libgnunettransportmonitor.so.0.0.0
+/usr/lib/libgnunettransportmonitor.so.0.0.0
+/usr/lib/libgnunettransporttesting.so.0 -> /usr/lib/libgnunettransporttesting.so.0.0.0
+/usr/lib/libgnunettransporttesting.so.0.0.0
+/usr/lib/libgnunettransporttesting2.so.0 -> /usr/lib/libgnunettransporttesting2.so.0.0.0
+/usr/lib/libgnunettransporttesting2.so.0.0.0
+/usr/lib/libgnunetutil.so.13 -> /usr/lib/libgnunetutil.so.13.0.2
+/usr/lib/libgnunetutil.so.13.0.2
+/usr/lib/libgnunetvpn.so.0 -> /usr/lib/libgnunetvpn.so.0.0.0
+/usr/lib/libgnunetvpn.so.0.0.0
+/usr/share/doc/gnunet/COPYING
+/usr/share/doc/gnunet/README
+/usr/share/gnunet/LICENSE
+/usr/share/gnunet/config.d/arm.conf
+/usr/share/gnunet/config.d/ats.conf
+/usr/share/gnunet/config.d/cadet.conf
+/usr/share/gnunet/config.d/communicator-unix.conf
+/usr/share/gnunet/config.d/consensus.conf
+/usr/share/gnunet/config.d/conversation.conf
+/usr/share/gnunet/config.d/core.conf
+/usr/share/gnunet/config.d/datacache.conf
+/usr/share/gnunet/config.d/datastore.conf
+/usr/share/gnunet/config.d/dht.conf
+/usr/share/gnunet/config.d/dns.conf
+/usr/share/gnunet/config.d/exit.conf
+/usr/share/gnunet/config.d/fs.conf
+/usr/share/gnunet/config.d/gns.conf
+/usr/share/gnunet/config.d/identity.conf
+/usr/share/gnunet/config.d/namecache.conf
+/usr/share/gnunet/config.d/namestore.conf
+/usr/share/gnunet/config.d/nat-auto.conf
+/usr/share/gnunet/config.d/nat.conf
+/usr/share/gnunet/config.d/nse.conf
+/usr/share/gnunet/config.d/peerinfo.conf
+/usr/share/gnunet/config.d/peerstore.conf
+/usr/share/gnunet/config.d/pt.conf
+/usr/share/gnunet/config.d/reclaim.conf
+/usr/share/gnunet/config.d/regex.conf
+/usr/share/gnunet/config.d/resolver.conf
+/usr/share/gnunet/config.d/rest.conf
+/usr/share/gnunet/config.d/revocation.conf
+/usr/share/gnunet/config.d/scalarproduct.conf
+/usr/share/gnunet/config.d/secretsharing.conf
+/usr/share/gnunet/config.d/set.conf
+/usr/share/gnunet/config.d/statistics.conf
+/usr/share/gnunet/config.d/template.conf
+/usr/share/gnunet/config.d/testbed-logger.conf
+/usr/share/gnunet/config.d/testbed.conf
+/usr/share/gnunet/config.d/testing.conf
+/usr/share/gnunet/config.d/topology.conf
+/usr/share/gnunet/config.d/transport.conf
+/usr/share/gnunet/config.d/util.conf
+/usr/share/gnunet/config.d/vpn.conf
+/usr/share/gnunet/config.d/zonemaster.conf
+/usr/share/gnunet/def.tex
+/usr/share/gnunet/existence.sh
+/usr/share/gnunet/existence_python.sh
+/usr/share/gnunet/gns-bcd.html
+/usr/share/gnunet/gns-bcd.tex
+/usr/share/gnunet/gns-form-fields.xml
+/usr/share/gnunet/gns-form.xslt
+/usr/share/gnunet/gnunet-gns-proxy-ca.template
+/usr/share/gnunet/gnunet-logo-color.png
+/usr/share/gnunet/gnunet-logo.pdf
+/usr/share/gnunet/gnunet-logo.png
+/usr/share/gnunet/hellos/Y924NSHMMZ1N1SQCE5TXF93ED6S6JY311K0QT86G9WJC68F6XVZ0
+/usr/share/gnunet/msg.sh
+/usr/share/gnunet/progname.sh
+/usr/share/gnunet/python.sh
+/usr/share/gnunet/services/openrc/gnunet.initd
+/usr/share/gnunet/services/systemd/gnunet.service
+/usr/share/gnunet/testing_hostkeys.ecc
+/usr/share/gnunet/version_gnunet.sh
+/usr/share/info/gnunet-tutorial.info.gz
+/usr/share/info/gnunet.info-1.gz
+/usr/share/info/gnunet.info-2.gz
+/usr/share/info/gnunet.info-3.gz
+/usr/share/info/gnunet.info.gz
+/usr/share/info/images/daemon_lego_block.png
+/usr/share/info/images/daemon_lego_block.svg
+/usr/share/info/images/gns.dot
+/usr/share/info/images/gns.jpg
+/usr/share/info/images/gnunet-0-10-peerinfo.png
+/usr/share/info/images/gnunet-fs-gtk-0-10-star-tab.png
+/usr/share/info/images/gnunet-gtk-0-10-download-area.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-menu.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-publish-editing.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-publish-select.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-publish-with-file.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-publish-with-file_0.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-publish.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-published.png
+/usr/share/info/images/gnunet-gtk-0-10-fs-search.png
+/usr/share/info/images/gnunet-gtk-0-10-fs.png
+/usr/share/info/images/gnunet-gtk-0-10-gns-a-done.png
+/usr/share/info/images/gnunet-gtk-0-10-gns-a.png
+/usr/share/info/images/gnunet-gtk-0-10-gns.png
+/usr/share/info/images/gnunet-gtk-0-10-identity.png
+/usr/share/info/images/gnunet-gtk-0-10-search-selected.png
+/usr/share/info/images/gnunet-gtk-0-10-traffic.png
+/usr/share/info/images/gnunet-namestore-gtk-phone.png
+/usr/share/info/images/gnunet-namestore-gtk-vpn.png
+/usr/share/info/images/gnunet-setup-exit.png
+/usr/share/info/images/gnunet-tutorial-service.png
+/usr/share/info/images/gnunet-tutorial-system.png
+/usr/share/info/images/iceweasel-preferences.png
+/usr/share/info/images/iceweasel-proxy.png
+/usr/share/info/images/lego_stack.svg
+/usr/share/info/images/service_lego_block.png
+/usr/share/info/images/service_lego_block.svg
+/usr/share/info/images/service_stack.png
+/usr/share/info/images/structure.dot
+/usr/share/locale/de/LC_MESSAGES/gnunet.mo
+/usr/share/locale/es/LC_MESSAGES/gnunet.mo
+/usr/share/locale/fr/LC_MESSAGES/gnunet.mo
+/usr/share/locale/it/LC_MESSAGES/gnunet.mo
+/usr/share/locale/sv/LC_MESSAGES/gnunet.mo
+/usr/share/locale/vi/LC_MESSAGES/gnunet.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/gnunet.mo
+/usr/share/man/man1/gnunet-arm.1
+/usr/share/man/man1/gnunet-ats.1
+/usr/share/man/man1/gnunet-auto-share.1
+/usr/share/man/man1/gnunet-bcd.1
+/usr/share/man/man1/gnunet-bugreport.1
+/usr/share/man/man1/gnunet-cadet.1
+/usr/share/man/man1/gnunet-config.1
+/usr/share/man/man1/gnunet-conversation-test.1
+/usr/share/man/man1/gnunet-conversation.1
+/usr/share/man/man1/gnunet-core.1
+/usr/share/man/man1/gnunet-datastore.1
+/usr/share/man/man1/gnunet-directory.1
+/usr/share/man/man1/gnunet-dns2gns.1
+/usr/share/man/man1/gnunet-download.1
+/usr/share/man/man1/gnunet-ecc.1
+/usr/share/man/man1/gnunet-fs.1
+/usr/share/man/man1/gnunet-gns-proxy-setup-ca.1
+/usr/share/man/man1/gnunet-gns-proxy.1
+/usr/share/man/man1/gnunet-gns.1
+/usr/share/man/man1/gnunet-identity.1
+/usr/share/man/man1/gnunet-namecache.1
+/usr/share/man/man1/gnunet-namestore-fcfsd.1
+/usr/share/man/man1/gnunet-namestore.1
+/usr/share/man/man1/gnunet-nat-auto.1
+/usr/share/man/man1/gnunet-nat-server.1
+/usr/share/man/man1/gnunet-nat.1
+/usr/share/man/man1/gnunet-nse.1
+/usr/share/man/man1/gnunet-peerinfo.1
+/usr/share/man/man1/gnunet-publish.1
+/usr/share/man/man1/gnunet-qr.1
+/usr/share/man/man1/gnunet-reclaim.1
+/usr/share/man/man1/gnunet-resolver.1
+/usr/share/man/man1/gnunet-revocation.1
+/usr/share/man/man1/gnunet-scalarproduct.1
+/usr/share/man/man1/gnunet-scrypt.1
+/usr/share/man/man1/gnunet-search.1
+/usr/share/man/man1/gnunet-statistics.1
+/usr/share/man/man1/gnunet-testbed-profiler.1
+/usr/share/man/man1/gnunet-testing-run-service.1
+/usr/share/man/man1/gnunet-timeout.1
+/usr/share/man/man1/gnunet-transport-certificate-creation.1
+/usr/share/man/man1/gnunet-transport.1
+/usr/share/man/man1/gnunet-unindex.1
+/usr/share/man/man1/gnunet-uri.1
+/usr/share/man/man1/gnunet-vpn.1
+/usr/share/man/man1/gnunet-zoneimport.1
+/usr/share/man/man5/gnunet.conf.5

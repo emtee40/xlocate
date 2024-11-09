@@ -1,0 +1,4 @@
+/etc/skel/.zshrc
+/etc/zsh/keephack
+/etc/zsh/zshrc
+/usr/share/man/man5/grmlzshrc.5

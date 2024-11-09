@@ -1,0 +1,17 @@
+/usr/lib32/actiona/actions/libActionPackData.so
+/usr/lib32/actiona/actions/libActionPackDevice.so
+/usr/lib32/actiona/actions/libActionPackInternal.so
+/usr/lib32/actiona/actions/libActionPackSystem.so
+/usr/lib32/actiona/actions/libActionPackWindows.so
+/usr/lib32/actiona/libactiontools.so -> /usr/lib32/actiona/libactiontools.so.1.0.0
+/usr/lib32/actiona/libactiontools.so.1 -> /usr/lib32/actiona/libactiontools.so.1.0.0
+/usr/lib32/actiona/libactiontools.so.1.0 -> /usr/lib32/actiona/libactiontools.so.1.0.0
+/usr/lib32/actiona/libactiontools.so.1.0.0
+/usr/lib32/actiona/libexecuter.so -> /usr/lib32/actiona/libexecuter.so.1.0.0
+/usr/lib32/actiona/libexecuter.so.1 -> /usr/lib32/actiona/libexecuter.so.1.0.0
+/usr/lib32/actiona/libexecuter.so.1.0 -> /usr/lib32/actiona/libexecuter.so.1.0.0
+/usr/lib32/actiona/libexecuter.so.1.0.0
+/usr/lib32/actiona/libtools.so -> /usr/lib32/actiona/libtools.so.1.0.0
+/usr/lib32/actiona/libtools.so.1 -> /usr/lib32/actiona/libtools.so.1.0.0
+/usr/lib32/actiona/libtools.so.1.0 -> /usr/lib32/actiona/libtools.so.1.0.0
+/usr/lib32/actiona/libtools.so.1.0.0

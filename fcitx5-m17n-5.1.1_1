@@ -1,0 +1,15 @@
+/usr/lib/fcitx5/m17n.so
+/usr/share/fcitx5/addon/m17n.conf
+/usr/share/fcitx5/m17n/default
+/usr/share/locale/ca/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/he/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/vi/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-m17n.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.M17N.metainfo.xml

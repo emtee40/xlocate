@@ -1,0 +1,16 @@
+/usr/include/cppdb/atomic_counter.h
+/usr/include/cppdb/backend.h
+/usr/include/cppdb/conn_manager.h
+/usr/include/cppdb/connection_specific.h
+/usr/include/cppdb/defs.h
+/usr/include/cppdb/driver_manager.h
+/usr/include/cppdb/errors.h
+/usr/include/cppdb/frontend.h
+/usr/include/cppdb/mutex.h
+/usr/include/cppdb/numeric_util.h
+/usr/include/cppdb/pool.h
+/usr/include/cppdb/ref_ptr.h
+/usr/include/cppdb/shared_object.h
+/usr/include/cppdb/utils.h
+/usr/lib/libcppdb.a
+/usr/lib/libcppdb.so -> /usr/lib/libcppdb.so.0

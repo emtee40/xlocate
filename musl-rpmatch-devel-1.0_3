@@ -1,0 +1,4 @@
+/usr/include/rpmatch.h
+/usr/lib/librpmatch.a
+/usr/lib/librpmatch.so -> /usr/lib/librpmatch.so.0.0.0
+/usr/lib/pkgconfig/musl-rpmatch.pc

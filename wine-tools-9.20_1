@@ -1,0 +1,10 @@
+/usr/bin/function_grep.pl
+/usr/bin/widl
+/usr/bin/winebuild
+/usr/bin/winecpp -> /usr/bin/winegcc
+/usr/bin/winedump
+/usr/bin/wineg++ -> /usr/bin/winegcc
+/usr/bin/winegcc
+/usr/bin/winemaker
+/usr/bin/wmc
+/usr/bin/wrc

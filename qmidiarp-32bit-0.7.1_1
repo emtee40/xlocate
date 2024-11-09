@@ -1,0 +1,6 @@
+/usr/lib32/lv2/qmidiarp_arp.lv2/qmidiarp_arp.so
+/usr/lib32/lv2/qmidiarp_arp.lv2/qmidiarp_arp_ui.so
+/usr/lib32/lv2/qmidiarp_lfo.lv2/qmidiarp_lfo.so
+/usr/lib32/lv2/qmidiarp_lfo.lv2/qmidiarp_lfo_ui.so
+/usr/lib32/lv2/qmidiarp_seq.lv2/qmidiarp_seq.so
+/usr/lib32/lv2/qmidiarp_seq.lv2/qmidiarp_seq_ui.so

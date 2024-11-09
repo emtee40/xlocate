@@ -1,0 +1,4 @@
+/usr/include/i2c/smbus.h
+/usr/lib/libi2c.a
+/usr/lib/libi2c.so -> /usr/lib/libi2c.so.0
+/usr/share/man/man3/libi2c.3

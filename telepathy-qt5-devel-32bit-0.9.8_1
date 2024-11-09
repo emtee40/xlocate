@@ -1,0 +1,6 @@
+/usr/lib32/libtelepathy-qt5-farstream.so -> /usr/lib32/libtelepathy-qt5-farstream.so.0
+/usr/lib32/libtelepathy-qt5-service.so -> /usr/lib32/libtelepathy-qt5-service.so.1
+/usr/lib32/libtelepathy-qt5.so -> /usr/lib32/libtelepathy-qt5.so.0
+/usr/lib32/pkgconfig/TelepathyQt5.pc
+/usr/lib32/pkgconfig/TelepathyQt5Farstream.pc
+/usr/lib32/pkgconfig/TelepathyQt5Service.pc

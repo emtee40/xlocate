@@ -1,0 +1,13 @@
+/usr/bin/texworks
+/usr/lib/texworks/libTWLuaPlugin.so
+/usr/lib/texworks/libTWPythonPlugin.so
+/usr/share/applications/texworks.desktop
+/usr/share/doc/texworks/COPYING
+/usr/share/doc/texworks/NEWS
+/usr/share/doc/texworks/README.md
+/usr/share/icons/hicolor/128x128/apps/TeXworks.png
+/usr/share/icons/hicolor/48x48/apps/TeXworks.png
+/usr/share/icons/hicolor/512x512/apps/TeXworks.png
+/usr/share/icons/hicolor/64x64/apps/TeXworks.png
+/usr/share/man/man1/texworks.1
+/usr/share/metainfo/texworks.appdata.xml

@@ -1,0 +1,4 @@
+/usr/lib/libpcap.so.1 -> /usr/lib/libpcap.so.1.10.4
+/usr/lib/libpcap.so.1.10.4
+/usr/share/licenses/libpcap/LICENSE
+/usr/share/man/man7/pcap-filter.7

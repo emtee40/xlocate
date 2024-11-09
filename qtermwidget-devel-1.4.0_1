@@ -1,0 +1,13 @@
+/usr/include/qtermwidget5/Emulation.h
+/usr/include/qtermwidget5/Filter.h
+/usr/include/qtermwidget5/KeyboardTranslator.h
+/usr/include/qtermwidget5/qtermwidget.h
+/usr/include/qtermwidget5/qtermwidget_export.h
+/usr/include/qtermwidget5/qtermwidget_interface.h
+/usr/include/qtermwidget5/qtermwidget_version.h
+/usr/lib/cmake/qtermwidget5/qtermwidget5-config-version.cmake
+/usr/lib/cmake/qtermwidget5/qtermwidget5-config.cmake
+/usr/lib/cmake/qtermwidget5/qtermwidget5-targets-none.cmake
+/usr/lib/cmake/qtermwidget5/qtermwidget5-targets.cmake
+/usr/lib/libqtermwidget5.so -> /usr/lib/libqtermwidget5.so.1
+/usr/lib/pkgconfig/qtermwidget5.pc

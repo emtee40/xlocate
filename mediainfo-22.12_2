@@ -1,0 +1,10 @@
+/usr/bin/mediainfo-gui
+/usr/share/applications/mediainfo-gui.desktop
+/usr/share/apps/konqueror/servicemenus/mediainfo-gui.desktop
+/usr/share/icons/hicolor/256x256/apps/mediainfo.png
+/usr/share/icons/hicolor/scalable/apps/mediainfo.svg
+/usr/share/kde4/services/ServiceMenus/mediainfo-gui.desktop
+/usr/share/kservices5/ServiceMenus/mediainfo-gui.desktop
+/usr/share/metainfo/mediainfo-gui.metainfo.xml
+/usr/share/pixmaps/mediainfo-gui.png
+/usr/share/pixmaps/mediainfo.xpm

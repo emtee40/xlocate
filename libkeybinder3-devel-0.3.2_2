@@ -1,0 +1,4 @@
+/usr/include/keybinder-3.0/keybinder.h
+/usr/lib/libkeybinder-3.0.so -> /usr/lib/libkeybinder-3.0.so.0.0.0
+/usr/lib/pkgconfig/keybinder-3.0.pc
+/usr/share/gir-1.0/Keybinder-3.0.gir

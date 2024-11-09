@@ -1,0 +1,3 @@
+/usr/include/avahi-qt5/qt-watch.h
+/usr/lib/libavahi-qt5.so -> /usr/lib/libavahi-qt5.so.1.0.2
+/usr/lib/pkgconfig/avahi-qt5.pc

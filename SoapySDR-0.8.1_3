@@ -1,0 +1,6 @@
+/usr/bin/SoapySDRUtil
+/usr/lib/libSoapySDR.so.0.8 -> /usr/lib/libSoapySDR.so.0.8.1
+/usr/lib/libSoapySDR.so.0.8.1
+/usr/lib/python3.12/site-packages/SoapySDR.py
+/usr/lib/python3.12/site-packages/_SoapySDR.so
+/usr/share/man/man1/SoapySDRUtil.1

@@ -1,0 +1,6 @@
+/usr/lib32/libcmis-0.6.a
+/usr/lib32/libcmis-0.6.so -> /usr/lib32/libcmis-0.6.so.6.1.1
+/usr/lib32/libcmis-c-0.6.a
+/usr/lib32/libcmis-c-0.6.so -> /usr/lib32/libcmis-c-0.6.so.6.0.0
+/usr/lib32/pkgconfig/libcmis-0.6.pc
+/usr/lib32/pkgconfig/libcmis-c-0.6.pc

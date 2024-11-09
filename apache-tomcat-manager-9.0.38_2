@@ -1,0 +1,16 @@
+/usr/share/apache-tomcat/webapps/manager/META-INF/context.xml
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/401.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/403.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/404.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/connectorCerts.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/connectorTrustedCerts.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/sessionDetail.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/jsp/sessionsList.jsp
+/usr/share/apache-tomcat/webapps/manager/WEB-INF/web.xml
+/usr/share/apache-tomcat/webapps/manager/css/manager.css
+/usr/share/apache-tomcat/webapps/manager/images/asf-logo.svg
+/usr/share/apache-tomcat/webapps/manager/images/tomcat.svg
+/usr/share/apache-tomcat/webapps/manager/index.jsp
+/usr/share/apache-tomcat/webapps/manager/status.xsd
+/usr/share/apache-tomcat/webapps/manager/xform.xsl

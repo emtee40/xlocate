@@ -1,0 +1,16 @@
+/usr/lib/ocaml/Z3/META
+/usr/lib/ocaml/Z3/libz3ml.a
+/usr/lib/ocaml/Z3/stublibs/dllz3ml.so
+/usr/lib/ocaml/Z3/z3.cmi
+/usr/lib/ocaml/Z3/z3.cmx
+/usr/lib/ocaml/Z3/z3.mli
+/usr/lib/ocaml/Z3/z3enums.cmi
+/usr/lib/ocaml/Z3/z3enums.cmx
+/usr/lib/ocaml/Z3/z3enums.mli
+/usr/lib/ocaml/Z3/z3ml.a
+/usr/lib/ocaml/Z3/z3ml.cma
+/usr/lib/ocaml/Z3/z3ml.cmxa
+/usr/lib/ocaml/Z3/z3ml.cmxs
+/usr/lib/ocaml/Z3/z3native.cmi
+/usr/lib/ocaml/Z3/z3native.cmx
+/usr/lib/ocaml/Z3/z3native.mli

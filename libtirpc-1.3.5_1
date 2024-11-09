@@ -1,0 +1,6 @@
+/etc/bindresvport.blacklist
+/etc/netconfig
+/usr/lib/libtirpc.so.3 -> /usr/lib/libtirpc.so.3.0.0
+/usr/lib/libtirpc.so.3.0.0
+/usr/share/licenses/libtirpc/COPYING
+/usr/share/man/man5/netconfig.5

@@ -1,0 +1,19 @@
+/usr/lib32/libply-boot-client.so.5 -> /usr/lib32/libply-boot-client.so.5.0.0
+/usr/lib32/libply-boot-client.so.5.0.0
+/usr/lib32/libply-splash-core.so.5 -> /usr/lib32/libply-splash-core.so.5.0.0
+/usr/lib32/libply-splash-core.so.5.0.0
+/usr/lib32/libply-splash-graphics.so.5 -> /usr/lib32/libply-splash-graphics.so.5.0.0
+/usr/lib32/libply-splash-graphics.so.5.0.0
+/usr/lib32/libply.so.5 -> /usr/lib32/libply.so.5.0.0
+/usr/lib32/libply.so.5.0.0
+/usr/lib32/plymouth/details.so
+/usr/lib32/plymouth/fade-throbber.so
+/usr/lib32/plymouth/label.so
+/usr/lib32/plymouth/renderers/drm.so
+/usr/lib32/plymouth/renderers/frame-buffer.so
+/usr/lib32/plymouth/renderers/x11.so
+/usr/lib32/plymouth/script.so
+/usr/lib32/plymouth/space-flares.so
+/usr/lib32/plymouth/text.so
+/usr/lib32/plymouth/tribar.so
+/usr/lib32/plymouth/two-step.so

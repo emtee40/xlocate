@@ -1,0 +1,6 @@
+/usr/include/lxc/attach_options.h
+/usr/include/lxc/lxccontainer.h
+/usr/include/lxc/version.h
+/usr/lib/liblxc.so -> /usr/lib/liblxc.so.1
+/usr/lib/liblxc_static.a
+/usr/lib/pkgconfig/lxc.pc

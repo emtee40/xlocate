@@ -1,0 +1,12 @@
+/etc/tor/torsocks.conf
+/usr/bin/torsocks
+/usr/lib/torsocks/libtorsocks.so -> /usr/lib/torsocks/libtorsocks.so.0.0.0
+/usr/lib/torsocks/libtorsocks.so.0 -> /usr/lib/torsocks/libtorsocks.so.0.0.0
+/usr/lib/torsocks/libtorsocks.so.0.0.0
+/usr/share/doc/torsocks/ChangeLog
+/usr/share/doc/torsocks/DEBUG
+/usr/share/doc/torsocks/SOCKS5
+/usr/share/doc/torsocks/socks-extensions.txt
+/usr/share/man/man1/torsocks.1
+/usr/share/man/man5/torsocks.conf.5
+/usr/share/man/man8/torsocks.8

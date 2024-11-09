@@ -1,0 +1,56 @@
+/usr/lib32/gloobus/audio.a
+/usr/lib32/gloobus/audio.so -> /usr/lib32/gloobus/audio.so.0.0.0
+/usr/lib32/gloobus/audio.so.0 -> /usr/lib32/gloobus/audio.so.0.0.0
+/usr/lib32/gloobus/audio.so.0.0.0
+/usr/lib32/gloobus/comic.a
+/usr/lib32/gloobus/comic.so -> /usr/lib32/gloobus/comic.so.0.0.0
+/usr/lib32/gloobus/comic.so.0 -> /usr/lib32/gloobus/comic.so.0.0.0
+/usr/lib32/gloobus/comic.so.0.0.0
+/usr/lib32/gloobus/compressed.a
+/usr/lib32/gloobus/compressed.so -> /usr/lib32/gloobus/compressed.so.0.0.0
+/usr/lib32/gloobus/compressed.so.0 -> /usr/lib32/gloobus/compressed.so.0.0.0
+/usr/lib32/gloobus/compressed.so.0.0.0
+/usr/lib32/gloobus/djvu.a
+/usr/lib32/gloobus/djvu.so -> /usr/lib32/gloobus/djvu.so.0.0.0
+/usr/lib32/gloobus/djvu.so.0 -> /usr/lib32/gloobus/djvu.so.0.0.0
+/usr/lib32/gloobus/djvu.so.0.0.0
+/usr/lib32/gloobus/folder.a
+/usr/lib32/gloobus/folder.so -> /usr/lib32/gloobus/folder.so.0.0.0
+/usr/lib32/gloobus/folder.so.0 -> /usr/lib32/gloobus/folder.so.0.0.0
+/usr/lib32/gloobus/folder.so.0.0.0
+/usr/lib32/gloobus/imagemagick.a
+/usr/lib32/gloobus/imagemagick.so -> /usr/lib32/gloobus/imagemagick.so.0.0.0
+/usr/lib32/gloobus/imagemagick.so.0 -> /usr/lib32/gloobus/imagemagick.so.0.0.0
+/usr/lib32/gloobus/imagemagick.so.0.0.0
+/usr/lib32/gloobus/office.a
+/usr/lib32/gloobus/office.so -> /usr/lib32/gloobus/office.so.0.0.0
+/usr/lib32/gloobus/office.so.0 -> /usr/lib32/gloobus/office.so.0.0.0
+/usr/lib32/gloobus/office.so.0.0.0
+/usr/lib32/gloobus/pdf.a
+/usr/lib32/gloobus/pdf.so -> /usr/lib32/gloobus/pdf.so.0.0.0
+/usr/lib32/gloobus/pdf.so.0 -> /usr/lib32/gloobus/pdf.so.0.0.0
+/usr/lib32/gloobus/pdf.so.0.0.0
+/usr/lib32/gloobus/pixbuf.a
+/usr/lib32/gloobus/pixbuf.so -> /usr/lib32/gloobus/pixbuf.so.0.0.0
+/usr/lib32/gloobus/pixbuf.so.0 -> /usr/lib32/gloobus/pixbuf.so.0.0.0
+/usr/lib32/gloobus/pixbuf.so.0.0.0
+/usr/lib32/gloobus/ps.a
+/usr/lib32/gloobus/ps.so -> /usr/lib32/gloobus/ps.so.0.0.0
+/usr/lib32/gloobus/ps.so.0 -> /usr/lib32/gloobus/ps.so.0.0.0
+/usr/lib32/gloobus/ps.so.0.0.0
+/usr/lib32/gloobus/text.a
+/usr/lib32/gloobus/text.so -> /usr/lib32/gloobus/text.so.0.0.0
+/usr/lib32/gloobus/text.so.0 -> /usr/lib32/gloobus/text.so.0.0.0
+/usr/lib32/gloobus/text.so.0.0.0
+/usr/lib32/gloobus/ttf.a
+/usr/lib32/gloobus/ttf.so -> /usr/lib32/gloobus/ttf.so.0.0.0
+/usr/lib32/gloobus/ttf.so.0 -> /usr/lib32/gloobus/ttf.so.0.0.0
+/usr/lib32/gloobus/ttf.so.0.0.0
+/usr/lib32/gloobus/video.a
+/usr/lib32/gloobus/video.so -> /usr/lib32/gloobus/video.so.0.0.0
+/usr/lib32/gloobus/video.so.0 -> /usr/lib32/gloobus/video.so.0.0.0
+/usr/lib32/gloobus/video.so.0.0.0
+/usr/lib32/gloobus/xps.a
+/usr/lib32/gloobus/xps.so -> /usr/lib32/gloobus/xps.so.0.0.0
+/usr/lib32/gloobus/xps.so.0 -> /usr/lib32/gloobus/xps.so.0.0.0
+/usr/lib32/gloobus/xps.so.0.0.0

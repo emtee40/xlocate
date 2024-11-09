@@ -1,0 +1,8 @@
+/usr/include/usbip/list.h
+/usr/include/usbip/sysfs_utils.h
+/usr/include/usbip/usbip_common.h
+/usr/include/usbip/usbip_host_common.h
+/usr/include/usbip/usbip_host_driver.h
+/usr/include/usbip/vhci_driver.h
+/usr/lib/libusbip.a
+/usr/lib/libusbip.so -> /usr/lib/libusbip.so.0.0.1

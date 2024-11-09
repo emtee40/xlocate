@@ -1,0 +1,12 @@
+/usr/include/pano13/PTcommon.h
+/usr/include/pano13/file.h
+/usr/include/pano13/filter.h
+/usr/include/pano13/panorama.h
+/usr/include/pano13/panotypes.h
+/usr/include/pano13/pt_stdint.h
+/usr/include/pano13/pteditor.h
+/usr/include/pano13/ptutils.h
+/usr/include/pano13/queryfeature.h
+/usr/include/pano13/version.h
+/usr/lib/libpano13.so -> /usr/lib/libpano13.so.3.0.0
+/usr/lib/pkgconfig/libpano13.pc

@@ -1,0 +1,8 @@
+/usr/lib32/libfcitx-config.so -> /usr/lib32/libfcitx-config.so.4
+/usr/lib32/libfcitx-core.so -> /usr/lib32/libfcitx-core.so.0
+/usr/lib32/libfcitx-gclient.so -> /usr/lib32/libfcitx-gclient.so.1
+/usr/lib32/libfcitx-utils.so -> /usr/lib32/libfcitx-utils.so.0
+/usr/lib32/pkgconfig/fcitx-config.pc
+/usr/lib32/pkgconfig/fcitx-gclient.pc
+/usr/lib32/pkgconfig/fcitx-utils.pc
+/usr/lib32/pkgconfig/fcitx.pc

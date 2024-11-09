@@ -1,0 +1,16 @@
+/usr/bin/e2cp -> /usr/bin/e2tools
+/usr/bin/e2ln -> /usr/bin/e2tools
+/usr/bin/e2ls -> /usr/bin/e2tools
+/usr/bin/e2mkdir -> /usr/bin/e2tools
+/usr/bin/e2mv -> /usr/bin/e2tools
+/usr/bin/e2rm -> /usr/bin/e2tools
+/usr/bin/e2tail -> /usr/bin/e2tools
+/usr/bin/e2tools
+/usr/share/man/man1/e2cp.1
+/usr/share/man/man1/e2ln.1
+/usr/share/man/man1/e2ls.1
+/usr/share/man/man1/e2mkdir.1
+/usr/share/man/man1/e2mv.1
+/usr/share/man/man1/e2rm.1
+/usr/share/man/man1/e2tail.1
+/usr/share/man/man7/e2tools.7

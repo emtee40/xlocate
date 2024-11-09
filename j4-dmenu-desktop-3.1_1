@@ -1,0 +1,5 @@
+/usr/bin/j4-dmenu-desktop
+/usr/share/bash-completion/completions/j4-dmenu-desktop
+/usr/share/fish/vendor_completions.d/j4-dmenu-desktop.fish
+/usr/share/man/man1/j4-dmenu-desktop.1
+/usr/share/zsh/site-functions/_j4-dmenu-desktop

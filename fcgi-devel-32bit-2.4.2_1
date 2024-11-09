@@ -1,0 +1,4 @@
+/usr/lib32/libfcgi++.a
+/usr/lib32/libfcgi++.so -> /usr/lib32/libfcgi++.so.0.0.0
+/usr/lib32/libfcgi.a
+/usr/lib32/libfcgi.so -> /usr/lib32/libfcgi.so.0.0.0

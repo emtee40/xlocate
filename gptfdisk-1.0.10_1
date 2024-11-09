@@ -1,0 +1,8 @@
+/usr/bin/cgdisk
+/usr/bin/fixparts
+/usr/bin/gdisk
+/usr/bin/sgdisk
+/usr/share/man/man8/cgdisk.8
+/usr/share/man/man8/fixparts.8
+/usr/share/man/man8/gdisk.8
+/usr/share/man/man8/sgdisk.8

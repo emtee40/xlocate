@@ -1,0 +1,5 @@
+/usr/bin/external-ip
+/usr/bin/upnp-listdevices
+/usr/bin/upnpc
+/usr/lib/libminiupnpc.so.17
+/usr/share/licenses/miniupnpc/LICENSE

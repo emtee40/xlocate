@@ -1,0 +1,2 @@
+/etc/apache/extra/php8.3_module.conf
+/usr/libexec/httpd/modules/libphp8.3.so

@@ -1,0 +1,17 @@
+/usr/include/nemo/libnemo-extension/nemo-column-provider.h
+/usr/include/nemo/libnemo-extension/nemo-column.h
+/usr/include/nemo/libnemo-extension/nemo-desktop-preferences.h
+/usr/include/nemo/libnemo-extension/nemo-extension-types.h
+/usr/include/nemo/libnemo-extension/nemo-file-info.h
+/usr/include/nemo/libnemo-extension/nemo-info-provider.h
+/usr/include/nemo/libnemo-extension/nemo-location-widget-provider.h
+/usr/include/nemo/libnemo-extension/nemo-menu-item.h
+/usr/include/nemo/libnemo-extension/nemo-menu-provider.h
+/usr/include/nemo/libnemo-extension/nemo-menu.h
+/usr/include/nemo/libnemo-extension/nemo-name-and-desc-provider.h
+/usr/include/nemo/libnemo-extension/nemo-property-page-provider.h
+/usr/include/nemo/libnemo-extension/nemo-property-page.h
+/usr/include/nemo/libnemo-extension/nemo-simple-button.h
+/usr/lib/libnemo-extension.so -> /usr/lib/libnemo-extension.so.1
+/usr/lib/pkgconfig/libnemo-extension.pc
+/usr/share/gir-1.0/Nemo-3.0.gir

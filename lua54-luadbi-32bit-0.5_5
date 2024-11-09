@@ -1,0 +1,3 @@
+/usr/lib32/lua/5.4/dbdmysql.so
+/usr/lib32/lua/5.4/dbdpostgresql.so
+/usr/lib32/lua/5.4/dbdsqlite3.so

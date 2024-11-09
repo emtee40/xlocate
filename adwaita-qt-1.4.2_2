@@ -1,0 +1,17 @@
+/usr/include/AdwaitaQt/adwaita.h
+/usr/include/AdwaitaQt/adwaitacolors.h
+/usr/include/AdwaitaQt/adwaitaqt_export.h
+/usr/include/AdwaitaQt/adwaitarenderer.h
+/usr/lib/cmake/AdwaitaQt/AdwaitaQtConfig.cmake
+/usr/lib/cmake/AdwaitaQt/AdwaitaQtConfigVersion.cmake
+/usr/lib/cmake/AdwaitaQt/AdwaitaQtTargets-none.cmake
+/usr/lib/cmake/AdwaitaQt/AdwaitaQtTargets.cmake
+/usr/lib/libadwaitaqt.so -> /usr/lib/libadwaitaqt.so.1
+/usr/lib/libadwaitaqt.so.1 -> /usr/lib/libadwaitaqt.so.1.4.2
+/usr/lib/libadwaitaqt.so.1.4.2
+/usr/lib/libadwaitaqtpriv.so -> /usr/lib/libadwaitaqtpriv.so.1
+/usr/lib/libadwaitaqtpriv.so.1 -> /usr/lib/libadwaitaqtpriv.so.1.4.2
+/usr/lib/libadwaitaqtpriv.so.1.4.2
+/usr/lib/pkgconfig/adwaita-qt.pc
+/usr/lib/qt5/plugins/styles/adwaita.so
+/usr/share/doc/adwaita-qt/README.md

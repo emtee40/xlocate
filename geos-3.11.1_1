@@ -1,0 +1,4 @@
+/usr/bin/geosop
+/usr/lib/libgeos.so.3.11.1
+/usr/lib/libgeos_c.so.1 -> /usr/lib/libgeos_c.so.1.17.1
+/usr/lib/libgeos_c.so.1.17.1

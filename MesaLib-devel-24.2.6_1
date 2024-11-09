@@ -1,0 +1,21 @@
+/usr/include/EGL/eglext_angle.h
+/usr/include/EGL/eglmesaext.h
+/usr/include/GL/internal/dri_interface.h
+/usr/include/GL/osmesa.h
+/usr/include/d3dadapter/d3dadapter9.h
+/usr/include/d3dadapter/drm.h
+/usr/include/d3dadapter/present.h
+/usr/include/xa_composite.h
+/usr/include/xa_context.h
+/usr/include/xa_tracker.h
+/usr/lib/libEGL_mesa.so -> /usr/lib/libEGL_mesa.so.0
+/usr/lib/libGLX_mesa.so -> /usr/lib/libGLX_mesa.so.0
+/usr/lib/libMesaOpenCL.so -> /usr/lib/libMesaOpenCL.so.1
+/usr/lib/libOSMesa.so -> /usr/lib/libOSMesa.so.8
+/usr/lib/libRusticlOpenCL.so -> /usr/lib/libRusticlOpenCL.so.1
+/usr/lib/libglapi.so -> /usr/lib/libglapi.so.0
+/usr/lib/libxatracker.so -> /usr/lib/libxatracker.so.2
+/usr/lib/pkgconfig/d3d.pc
+/usr/lib/pkgconfig/dri.pc
+/usr/lib/pkgconfig/osmesa.pc
+/usr/lib/pkgconfig/xatracker.pc

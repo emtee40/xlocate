@@ -1,0 +1,35 @@
+/usr/lib32/libOpenThreads.so -> /usr/lib32/libOpenThreads.so.21
+/usr/lib32/libosg.so -> /usr/lib32/libosg.so.161
+/usr/lib32/libosgAnimation.so -> /usr/lib32/libosgAnimation.so.161
+/usr/lib32/libosgDB.so -> /usr/lib32/libosgDB.so.161
+/usr/lib32/libosgFX.so -> /usr/lib32/libosgFX.so.161
+/usr/lib32/libosgGA.so -> /usr/lib32/libosgGA.so.161
+/usr/lib32/libosgManipulator.so -> /usr/lib32/libosgManipulator.so.161
+/usr/lib32/libosgParticle.so -> /usr/lib32/libosgParticle.so.161
+/usr/lib32/libosgPresentation.so -> /usr/lib32/libosgPresentation.so.161
+/usr/lib32/libosgShadow.so -> /usr/lib32/libosgShadow.so.161
+/usr/lib32/libosgSim.so -> /usr/lib32/libosgSim.so.161
+/usr/lib32/libosgTerrain.so -> /usr/lib32/libosgTerrain.so.161
+/usr/lib32/libosgText.so -> /usr/lib32/libosgText.so.161
+/usr/lib32/libosgUI.so -> /usr/lib32/libosgUI.so.161
+/usr/lib32/libosgUtil.so -> /usr/lib32/libosgUtil.so.161
+/usr/lib32/libosgViewer.so -> /usr/lib32/libosgViewer.so.161
+/usr/lib32/libosgVolume.so -> /usr/lib32/libosgVolume.so.161
+/usr/lib32/libosgWidget.so -> /usr/lib32/libosgWidget.so.161
+/usr/lib32/pkgconfig/openscenegraph-osg.pc
+/usr/lib32/pkgconfig/openscenegraph-osgAnimation.pc
+/usr/lib32/pkgconfig/openscenegraph-osgDB.pc
+/usr/lib32/pkgconfig/openscenegraph-osgFX.pc
+/usr/lib32/pkgconfig/openscenegraph-osgGA.pc
+/usr/lib32/pkgconfig/openscenegraph-osgManipulator.pc
+/usr/lib32/pkgconfig/openscenegraph-osgParticle.pc
+/usr/lib32/pkgconfig/openscenegraph-osgShadow.pc
+/usr/lib32/pkgconfig/openscenegraph-osgSim.pc
+/usr/lib32/pkgconfig/openscenegraph-osgTerrain.pc
+/usr/lib32/pkgconfig/openscenegraph-osgText.pc
+/usr/lib32/pkgconfig/openscenegraph-osgUtil.pc
+/usr/lib32/pkgconfig/openscenegraph-osgViewer.pc
+/usr/lib32/pkgconfig/openscenegraph-osgVolume.pc
+/usr/lib32/pkgconfig/openscenegraph-osgWidget.pc
+/usr/lib32/pkgconfig/openscenegraph.pc
+/usr/lib32/pkgconfig/openthreads.pc

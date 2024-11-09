@@ -1,0 +1,6 @@
+/usr/lib/ladspa/inv_compressor.so
+/usr/lib/ladspa/inv_erreverb.so
+/usr/lib/ladspa/inv_filter.so
+/usr/lib/ladspa/inv_input.so
+/usr/lib/ladspa/inv_tube.so
+/usr/share/ladspa/rdf/inv_plugins.rdf

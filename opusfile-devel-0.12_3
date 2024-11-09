@@ -1,0 +1,7 @@
+/usr/include/opus/opusfile.h
+/usr/lib/libopusfile.a
+/usr/lib/libopusfile.so -> /usr/lib/libopusfile.so.0.4.5
+/usr/lib/libopusurl.a
+/usr/lib/libopusurl.so -> /usr/lib/libopusurl.so.0.4.5
+/usr/lib/pkgconfig/opusfile.pc
+/usr/lib/pkgconfig/opusurl.pc

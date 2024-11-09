@@ -1,0 +1,11 @@
+/usr/lib/libgettextlib-0.21.so
+/usr/lib/libgettextlib.so -> /usr/lib/libgettextlib-0.21.so
+/usr/lib/libgettextpo.so -> /usr/lib/libgettextpo.so.0.5.7
+/usr/lib/libgettextpo.so.0 -> /usr/lib/libgettextpo.so.0.5.7
+/usr/lib/libgettextpo.so.0.5.7
+/usr/lib/libgettextsrc-0.21.so
+/usr/lib/libgettextsrc.so -> /usr/lib/libgettextsrc-0.21.so
+/usr/lib/libtextstyle.so -> /usr/lib/libtextstyle.so.0.1.1
+/usr/lib/libtextstyle.so.0 -> /usr/lib/libtextstyle.so.0.1.1
+/usr/lib/libtextstyle.so.0.1.1
+/usr/lib/preloadable_libintl.so

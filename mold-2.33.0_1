@@ -1,0 +1,8 @@
+/usr/bin/ld.mold -> /usr/bin/mold
+/usr/bin/mold
+/usr/lib/mold/mold-wrapper.so
+/usr/libexec/mold/ld -> /usr/bin/mold
+/usr/share/doc/mold/LICENSE.third-party
+/usr/share/licenses/mold/LICENSE
+/usr/share/man/man1/ld.mold.1 -> /usr/share/man/man1/mold.1
+/usr/share/man/man1/mold.1

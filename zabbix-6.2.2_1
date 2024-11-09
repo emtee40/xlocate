@@ -1,0 +1,9 @@
+/etc/sv/zabbix-server/run
+/etc/sv/zabbix-server/supervise -> /run/runit/supervise.zabbix-server
+/etc/zabbix_server.conf
+/usr/bin/zabbix_js
+/usr/bin/zabbix_server
+/usr/share/man/man8/zabbix_server.8
+/usr/share/zabbix/mysql/data.sql
+/usr/share/zabbix/mysql/images.sql
+/usr/share/zabbix/mysql/schema.sql

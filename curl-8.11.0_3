@@ -1,0 +1,4 @@
+/usr/bin/curl
+/usr/share/fish/vendor_completions.d/curl.fish
+/usr/share/man/man1/curl.1
+/usr/share/zsh/site-functions/_curl

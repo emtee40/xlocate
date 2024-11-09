@@ -1,0 +1,4 @@
+/usr/bin/syft
+/usr/share/bash-completion/completions/syft
+/usr/share/fish/vendor_completions.d/syft.fish
+/usr/share/zsh/site-functions/_syft

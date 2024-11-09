@@ -1,0 +1,432 @@
+/etc/xdg/autostart/roccateventhandler.desktop
+/usr/bin/roccatarvoconfig
+/usr/bin/roccatarvocontrol
+/usr/bin/roccateventhandler
+/usr/bin/roccatiskuconfig
+/usr/bin/roccatiskucontrol
+/usr/bin/roccatiskufxconfig
+/usr/bin/roccatiskufxcontrol
+/usr/bin/roccatkiroconfig
+/usr/bin/roccatkirocontrol
+/usr/bin/roccatkoneconfig
+/usr/bin/roccatkonecontrol
+/usr/bin/roccatkoneplusconfig
+/usr/bin/roccatkonepluscontrol
+/usr/bin/roccatkonepureconfig
+/usr/bin/roccatkonepurecontrol
+/usr/bin/roccatkonepuremilitaryconfig
+/usr/bin/roccatkonepuremilitarycontrol
+/usr/bin/roccatkonepureopticalconfig
+/usr/bin/roccatkonepureopticalcontrol
+/usr/bin/roccatkonextdconfig
+/usr/bin/roccatkonextdcontrol
+/usr/bin/roccatkonextdopticalconfig
+/usr/bin/roccatkonextdopticalcontrol
+/usr/bin/roccatkova2016config
+/usr/bin/roccatkova2016control
+/usr/bin/roccatkovaplusconfig
+/usr/bin/roccatkovapluscontrol
+/usr/bin/roccatluaconfig
+/usr/bin/roccatluacontrol
+/usr/bin/roccatnythconfig
+/usr/bin/roccatnythcontrol
+/usr/bin/roccatpyraconfig
+/usr/bin/roccatpyracontrol
+/usr/bin/roccatryosmkconfig
+/usr/bin/roccatryosmkcontrol
+/usr/bin/roccatryosmkfxconfig
+/usr/bin/roccatryosmkfxcontrol
+/usr/bin/roccatryostklconfig
+/usr/bin/roccatryostklcontrol
+/usr/bin/roccatsavuconfig
+/usr/bin/roccatsavucontrol
+/usr/bin/roccatskeltrconfig
+/usr/bin/roccatskeltrcontrol
+/usr/bin/roccatsovaconfig
+/usr/bin/roccatsovacontrol
+/usr/bin/roccatsuoraconfig
+/usr/bin/roccatsuoracontrol
+/usr/bin/roccattyonconfig
+/usr/bin/roccattyoncontrol
+/usr/lib/gaminggear_plugins/libiskufxgfxplugin.so
+/usr/lib/gaminggear_plugins/libkirogfxplugin.so
+/usr/lib/gaminggear_plugins/libkoneplusgfxplugin.so
+/usr/lib/gaminggear_plugins/libkonepuregfxplugin.so
+/usr/lib/gaminggear_plugins/libkonepuremilitarygfxplugin.so
+/usr/lib/gaminggear_plugins/libkonepureopticalgfxplugin.so
+/usr/lib/gaminggear_plugins/libkonextdgfxplugin.so
+/usr/lib/gaminggear_plugins/libkonextdopticalgfxplugin.so
+/usr/lib/gaminggear_plugins/libkova2016gfxplugin.so
+/usr/lib/gaminggear_plugins/libnythgfxplugin.so
+/usr/lib/gaminggear_plugins/libryosmkfxgfxplugin.so
+/usr/lib/gaminggear_plugins/libskeltrgfxplugin.so
+/usr/lib/gaminggear_plugins/libtyongfxplugin.so
+/usr/lib/libroccat.so -> /usr/lib/libroccat.so.5
+/usr/lib/libroccat.so.5 -> /usr/lib/libroccat.so.5.8.0
+/usr/lib/libroccat.so.5.8.0
+/usr/lib/libroccatarvo.so -> /usr/lib/libroccatarvo.so.5
+/usr/lib/libroccatarvo.so.5 -> /usr/lib/libroccatarvo.so.5.8.0
+/usr/lib/libroccatarvo.so.5.8.0
+/usr/lib/libroccatisku.so -> /usr/lib/libroccatisku.so.5
+/usr/lib/libroccatisku.so.5 -> /usr/lib/libroccatisku.so.5.8.0
+/usr/lib/libroccatisku.so.5.8.0
+/usr/lib/libroccatiskufx.so -> /usr/lib/libroccatiskufx.so.5
+/usr/lib/libroccatiskufx.so.5 -> /usr/lib/libroccatiskufx.so.5.8.0
+/usr/lib/libroccatiskufx.so.5.8.0
+/usr/lib/libroccatiskuwidget.so -> /usr/lib/libroccatiskuwidget.so.5
+/usr/lib/libroccatiskuwidget.so.5 -> /usr/lib/libroccatiskuwidget.so.5.8.0
+/usr/lib/libroccatiskuwidget.so.5.8.0
+/usr/lib/libroccatkiro.so -> /usr/lib/libroccatkiro.so.5
+/usr/lib/libroccatkiro.so.5 -> /usr/lib/libroccatkiro.so.5.8.0
+/usr/lib/libroccatkiro.so.5.8.0
+/usr/lib/libroccatkone.so -> /usr/lib/libroccatkone.so.5
+/usr/lib/libroccatkone.so.5 -> /usr/lib/libroccatkone.so.5.8.0
+/usr/lib/libroccatkone.so.5.8.0
+/usr/lib/libroccatkoneplus.so -> /usr/lib/libroccatkoneplus.so.5
+/usr/lib/libroccatkoneplus.so.5 -> /usr/lib/libroccatkoneplus.so.5.8.0
+/usr/lib/libroccatkoneplus.so.5.8.0
+/usr/lib/libroccatkonepluswidget.so -> /usr/lib/libroccatkonepluswidget.so.5
+/usr/lib/libroccatkonepluswidget.so.5 -> /usr/lib/libroccatkonepluswidget.so.5.8.0
+/usr/lib/libroccatkonepluswidget.so.5.8.0
+/usr/lib/libroccatkonepure.so -> /usr/lib/libroccatkonepure.so.5
+/usr/lib/libroccatkonepure.so.5 -> /usr/lib/libroccatkonepure.so.5.8.0
+/usr/lib/libroccatkonepure.so.5.8.0
+/usr/lib/libroccatkonepuremilitary.so -> /usr/lib/libroccatkonepuremilitary.so.5
+/usr/lib/libroccatkonepuremilitary.so.5 -> /usr/lib/libroccatkonepuremilitary.so.5.8.0
+/usr/lib/libroccatkonepuremilitary.so.5.8.0
+/usr/lib/libroccatkonepuremilitarywidget.so -> /usr/lib/libroccatkonepuremilitarywidget.so.5
+/usr/lib/libroccatkonepuremilitarywidget.so.5 -> /usr/lib/libroccatkonepuremilitarywidget.so.5.8.0
+/usr/lib/libroccatkonepuremilitarywidget.so.5.8.0
+/usr/lib/libroccatkonepureoptical.so -> /usr/lib/libroccatkonepureoptical.so.5
+/usr/lib/libroccatkonepureoptical.so.5 -> /usr/lib/libroccatkonepureoptical.so.5.8.0
+/usr/lib/libroccatkonepureoptical.so.5.8.0
+/usr/lib/libroccatkonepurewidget.so -> /usr/lib/libroccatkonepurewidget.so.5
+/usr/lib/libroccatkonepurewidget.so.5 -> /usr/lib/libroccatkonepurewidget.so.5.8.0
+/usr/lib/libroccatkonepurewidget.so.5.8.0
+/usr/lib/libroccatkonextd.so -> /usr/lib/libroccatkonextd.so.5
+/usr/lib/libroccatkonextd.so.5 -> /usr/lib/libroccatkonextd.so.5.8.0
+/usr/lib/libroccatkonextd.so.5.8.0
+/usr/lib/libroccatkonextdoptical.so -> /usr/lib/libroccatkonextdoptical.so.5
+/usr/lib/libroccatkonextdoptical.so.5 -> /usr/lib/libroccatkonextdoptical.so.5.8.0
+/usr/lib/libroccatkonextdoptical.so.5.8.0
+/usr/lib/libroccatkonextdwidget.so -> /usr/lib/libroccatkonextdwidget.so.5
+/usr/lib/libroccatkonextdwidget.so.5 -> /usr/lib/libroccatkonextdwidget.so.5.8.0
+/usr/lib/libroccatkonextdwidget.so.5.8.0
+/usr/lib/libroccatkova2016.so -> /usr/lib/libroccatkova2016.so.5
+/usr/lib/libroccatkova2016.so.5 -> /usr/lib/libroccatkova2016.so.5.8.0
+/usr/lib/libroccatkova2016.so.5.8.0
+/usr/lib/libroccatkovaplus.so -> /usr/lib/libroccatkovaplus.so.5
+/usr/lib/libroccatkovaplus.so.5 -> /usr/lib/libroccatkovaplus.so.5.8.0
+/usr/lib/libroccatkovaplus.so.5.8.0
+/usr/lib/libroccatlua.so -> /usr/lib/libroccatlua.so.5
+/usr/lib/libroccatlua.so.5 -> /usr/lib/libroccatlua.so.5.8.0
+/usr/lib/libroccatlua.so.5.8.0
+/usr/lib/libroccatnyth.so -> /usr/lib/libroccatnyth.so.5
+/usr/lib/libroccatnyth.so.5 -> /usr/lib/libroccatnyth.so.5.8.0
+/usr/lib/libroccatnyth.so.5.8.0
+/usr/lib/libroccatpyra.so -> /usr/lib/libroccatpyra.so.5
+/usr/lib/libroccatpyra.so.5 -> /usr/lib/libroccatpyra.so.5.8.0
+/usr/lib/libroccatpyra.so.5.8.0
+/usr/lib/libroccatryosmk.so -> /usr/lib/libroccatryosmk.so.5
+/usr/lib/libroccatryosmk.so.5 -> /usr/lib/libroccatryosmk.so.5.8.0
+/usr/lib/libroccatryosmk.so.5.8.0
+/usr/lib/libroccatryosmkfx.so -> /usr/lib/libroccatryosmkfx.so.5
+/usr/lib/libroccatryosmkfx.so.5 -> /usr/lib/libroccatryosmkfx.so.5.8.0
+/usr/lib/libroccatryosmkfx.so.5.8.0
+/usr/lib/libroccatryosmkwidget.so -> /usr/lib/libroccatryosmkwidget.so.5
+/usr/lib/libroccatryosmkwidget.so.5 -> /usr/lib/libroccatryosmkwidget.so.5.8.0
+/usr/lib/libroccatryosmkwidget.so.5.8.0
+/usr/lib/libroccatryostkl.so -> /usr/lib/libroccatryostkl.so.5
+/usr/lib/libroccatryostkl.so.5 -> /usr/lib/libroccatryostkl.so.5.8.0
+/usr/lib/libroccatryostkl.so.5.8.0
+/usr/lib/libroccatsavu.so -> /usr/lib/libroccatsavu.so.5
+/usr/lib/libroccatsavu.so.5 -> /usr/lib/libroccatsavu.so.5.8.0
+/usr/lib/libroccatsavu.so.5.8.0
+/usr/lib/libroccatskeltr.so -> /usr/lib/libroccatskeltr.so.5
+/usr/lib/libroccatskeltr.so.5 -> /usr/lib/libroccatskeltr.so.5.8.0
+/usr/lib/libroccatskeltr.so.5.8.0
+/usr/lib/libroccatsova.so -> /usr/lib/libroccatsova.so.5
+/usr/lib/libroccatsova.so.5 -> /usr/lib/libroccatsova.so.5.8.0
+/usr/lib/libroccatsova.so.5.8.0
+/usr/lib/libroccatsuora.so -> /usr/lib/libroccatsuora.so.5
+/usr/lib/libroccatsuora.so.5 -> /usr/lib/libroccatsuora.so.5.8.0
+/usr/lib/libroccatsuora.so.5.8.0
+/usr/lib/libroccattyon.so -> /usr/lib/libroccattyon.so.5
+/usr/lib/libroccattyon.so.5 -> /usr/lib/libroccattyon.so.5.8.0
+/usr/lib/libroccattyon.so.5.8.0
+/usr/lib/libroccatwidget.so -> /usr/lib/libroccatwidget.so.5
+/usr/lib/libroccatwidget.so.5 -> /usr/lib/libroccatwidget.so.5.8.0
+/usr/lib/libroccatwidget.so.5.8.0
+/usr/lib/roccat/libarvoeventhandler.so
+/usr/lib/roccat/libiskueventhandler.so
+/usr/lib/roccat/libiskufxeventhandler.so
+/usr/lib/roccat/libkiroeventhandler.so
+/usr/lib/roccat/libkoneeventhandler.so
+/usr/lib/roccat/libkonepluseventhandler.so
+/usr/lib/roccat/libkonepureeventhandler.so
+/usr/lib/roccat/libkonepuremilitaryeventhandler.so
+/usr/lib/roccat/libkonepureopticaleventhandler.so
+/usr/lib/roccat/libkonextdeventhandler.so
+/usr/lib/roccat/libkonextdopticaleventhandler.so
+/usr/lib/roccat/libkova2016eventhandler.so
+/usr/lib/roccat/libkovapluseventhandler.so
+/usr/lib/roccat/libluaeventhandler.so
+/usr/lib/roccat/libnytheventhandler.so
+/usr/lib/roccat/libpyraeventhandler.so
+/usr/lib/roccat/libryosmkeventhandler.so
+/usr/lib/roccat/libryosmkfxeventhandler.so
+/usr/lib/roccat/libryostkleventhandler.so
+/usr/lib/roccat/libsavueventhandler.so
+/usr/lib/roccat/libskeltreventhandler.so
+/usr/lib/roccat/libsovaeventhandler.so
+/usr/lib/roccat/libsuoraeventhandler.so
+/usr/lib/roccat/libtyoneventhandler.so
+/usr/lib/udev/rules.d/90-roccat-arvo.rules
+/usr/lib/udev/rules.d/90-roccat-isku.rules
+/usr/lib/udev/rules.d/90-roccat-iskufx.rules
+/usr/lib/udev/rules.d/90-roccat-kiro.rules
+/usr/lib/udev/rules.d/90-roccat-kone.rules
+/usr/lib/udev/rules.d/90-roccat-koneplus.rules
+/usr/lib/udev/rules.d/90-roccat-konepure.rules
+/usr/lib/udev/rules.d/90-roccat-konepuremilitary.rules
+/usr/lib/udev/rules.d/90-roccat-konepureoptical.rules
+/usr/lib/udev/rules.d/90-roccat-konextd.rules
+/usr/lib/udev/rules.d/90-roccat-konextdoptical.rules
+/usr/lib/udev/rules.d/90-roccat-kova2016.rules
+/usr/lib/udev/rules.d/90-roccat-kovaplus.rules
+/usr/lib/udev/rules.d/90-roccat-lua.rules
+/usr/lib/udev/rules.d/90-roccat-nyth.rules
+/usr/lib/udev/rules.d/90-roccat-pyra.rules
+/usr/lib/udev/rules.d/90-roccat-ryosmk.rules
+/usr/lib/udev/rules.d/90-roccat-ryosmkfx.rules
+/usr/lib/udev/rules.d/90-roccat-ryostkl.rules
+/usr/lib/udev/rules.d/90-roccat-savu.rules
+/usr/lib/udev/rules.d/90-roccat-skeltr.rules
+/usr/lib/udev/rules.d/90-roccat-sova.rules
+/usr/lib/udev/rules.d/90-roccat-suora.rules
+/usr/lib/udev/rules.d/90-roccat-tyon.rules
+/usr/share/applications/roccatarvoconfig.desktop
+/usr/share/applications/roccatiskuconfig.desktop
+/usr/share/applications/roccatiskufxconfig.desktop
+/usr/share/applications/roccatkiroconfig.desktop
+/usr/share/applications/roccatkoneconfig.desktop
+/usr/share/applications/roccatkoneplusconfig.desktop
+/usr/share/applications/roccatkonepureconfig.desktop
+/usr/share/applications/roccatkonepuremilitaryconfig.desktop
+/usr/share/applications/roccatkonepureopticalconfig.desktop
+/usr/share/applications/roccatkonextdconfig.desktop
+/usr/share/applications/roccatkonextdopticalconfig.desktop
+/usr/share/applications/roccatkova2016config.desktop
+/usr/share/applications/roccatkovaplusconfig.desktop
+/usr/share/applications/roccatluaconfig.desktop
+/usr/share/applications/roccatnythconfig.desktop
+/usr/share/applications/roccatpyraconfig.desktop
+/usr/share/applications/roccatryosmkconfig.desktop
+/usr/share/applications/roccatryosmkfxconfig.desktop
+/usr/share/applications/roccatryostklconfig.desktop
+/usr/share/applications/roccatsavuconfig.desktop
+/usr/share/applications/roccatskeltrconfig.desktop
+/usr/share/applications/roccatsovaconfig.desktop
+/usr/share/applications/roccatsuoraconfig.desktop
+/usr/share/applications/roccattyonconfig.desktop
+/usr/share/icons/hicolor/128x128/apps/roccat.png
+/usr/share/icons/hicolor/16x16/apps/roccat.png
+/usr/share/icons/hicolor/24x24/apps/roccat.png
+/usr/share/icons/hicolor/32x32/apps/roccat.png
+/usr/share/icons/hicolor/48x48/apps/roccat.png
+/usr/share/icons/hicolor/64x64/apps/roccat.png
+/usr/share/icons/hicolor/72x72/apps/roccat.png
+/usr/share/icons/hicolor/96x96/apps/roccat.png
+/usr/share/locale/de/LC_MESSAGES/roccat-tools.mo
+/usr/share/locale/en/LC_MESSAGES/roccat-tools.mo
+/usr/share/man/de/man1/roccatarvocontrol.1
+/usr/share/man/de/man1/roccatiskucontrol.1
+/usr/share/man/de/man1/roccatiskufxcontrol.1
+/usr/share/man/de/man1/roccatkirocontrol.1
+/usr/share/man/de/man1/roccatkonecontrol.1
+/usr/share/man/de/man1/roccatkonepluscontrol.1
+/usr/share/man/de/man1/roccatkonepurecontrol.1
+/usr/share/man/de/man1/roccatkonepuremilitarycontrol.1
+/usr/share/man/de/man1/roccatkonepureopticalcontrol.1
+/usr/share/man/de/man1/roccatkonextdcontrol.1
+/usr/share/man/de/man1/roccatkonextdopticalcontrol.1
+/usr/share/man/de/man1/roccatkova2016control.1
+/usr/share/man/de/man1/roccatkovapluscontrol.1
+/usr/share/man/de/man1/roccatluacontrol.1
+/usr/share/man/de/man1/roccatnythcontrol.1
+/usr/share/man/de/man1/roccatpyracontrol.1
+/usr/share/man/de/man1/roccatryosmkcontrol.1
+/usr/share/man/de/man1/roccatryosmkfxcontrol.1
+/usr/share/man/de/man1/roccatryostklcontrol.1
+/usr/share/man/de/man1/roccatsavucontrol.1
+/usr/share/man/de/man1/roccatskeltrcontrol.1
+/usr/share/man/de/man1/roccatsovacontrol.1
+/usr/share/man/de/man1/roccatsuoracontrol.1
+/usr/share/man/de/man1/roccattyoncontrol.1
+/usr/share/man/en/man1/roccatarvocontrol.1
+/usr/share/man/en/man1/roccatiskucontrol.1
+/usr/share/man/en/man1/roccatiskufxcontrol.1
+/usr/share/man/en/man1/roccatkirocontrol.1
+/usr/share/man/en/man1/roccatkonecontrol.1
+/usr/share/man/en/man1/roccatkonepluscontrol.1
+/usr/share/man/en/man1/roccatkonepurecontrol.1
+/usr/share/man/en/man1/roccatkonepuremilitarycontrol.1
+/usr/share/man/en/man1/roccatkonepureopticalcontrol.1
+/usr/share/man/en/man1/roccatkonextdcontrol.1
+/usr/share/man/en/man1/roccatkonextdopticalcontrol.1
+/usr/share/man/en/man1/roccatkova2016control.1
+/usr/share/man/en/man1/roccatkovapluscontrol.1
+/usr/share/man/en/man1/roccatluacontrol.1
+/usr/share/man/en/man1/roccatnythcontrol.1
+/usr/share/man/en/man1/roccatpyracontrol.1
+/usr/share/man/en/man1/roccatryosmkcontrol.1
+/usr/share/man/en/man1/roccatryosmkfxcontrol.1
+/usr/share/man/en/man1/roccatryostklcontrol.1
+/usr/share/man/en/man1/roccatsavucontrol.1
+/usr/share/man/en/man1/roccatskeltrcontrol.1
+/usr/share/man/en/man1/roccatsovacontrol.1
+/usr/share/man/en/man1/roccatsuoracontrol.1
+/usr/share/man/en/man1/roccattyoncontrol.1
+/usr/share/roccat/ryos_effect_modules/fire.lua
+/usr/share/roccat/ryos_effect_modules/plasma.lua
+/usr/share/roccat/ryos_effect_modules/ripple.lua
+/usr/share/roccat/ryos_effect_modules/test.lua
+/usr/share/roccat/sounds/cpi/cpi-100.oga
+/usr/share/roccat/sounds/cpi/cpi-1000.oga
+/usr/share/roccat/sounds/cpi/cpi-10000.oga
+/usr/share/roccat/sounds/cpi/cpi-10200.oga
+/usr/share/roccat/sounds/cpi/cpi-10400.oga
+/usr/share/roccat/sounds/cpi/cpi-10600.oga
+/usr/share/roccat/sounds/cpi/cpi-10800.oga
+/usr/share/roccat/sounds/cpi/cpi-1100.oga
+/usr/share/roccat/sounds/cpi/cpi-11000.oga
+/usr/share/roccat/sounds/cpi/cpi-11200.oga
+/usr/share/roccat/sounds/cpi/cpi-11400.oga
+/usr/share/roccat/sounds/cpi/cpi-11600.oga
+/usr/share/roccat/sounds/cpi/cpi-11800.oga
+/usr/share/roccat/sounds/cpi/cpi-1200.oga
+/usr/share/roccat/sounds/cpi/cpi-12000.oga
+/usr/share/roccat/sounds/cpi/cpi-12200.oga
+/usr/share/roccat/sounds/cpi/cpi-12400.oga
+/usr/share/roccat/sounds/cpi/cpi-12600.oga
+/usr/share/roccat/sounds/cpi/cpi-12800.oga
+/usr/share/roccat/sounds/cpi/cpi-1300.oga
+/usr/share/roccat/sounds/cpi/cpi-13000.oga
+/usr/share/roccat/sounds/cpi/cpi-13200.oga
+/usr/share/roccat/sounds/cpi/cpi-13400.oga
+/usr/share/roccat/sounds/cpi/cpi-13600.oga
+/usr/share/roccat/sounds/cpi/cpi-13800.oga
+/usr/share/roccat/sounds/cpi/cpi-1400.oga
+/usr/share/roccat/sounds/cpi/cpi-14000.oga
+/usr/share/roccat/sounds/cpi/cpi-14200.oga
+/usr/share/roccat/sounds/cpi/cpi-14400.oga
+/usr/share/roccat/sounds/cpi/cpi-14600.oga
+/usr/share/roccat/sounds/cpi/cpi-14800.oga
+/usr/share/roccat/sounds/cpi/cpi-1500.oga
+/usr/share/roccat/sounds/cpi/cpi-15000.oga
+/usr/share/roccat/sounds/cpi/cpi-15200.oga
+/usr/share/roccat/sounds/cpi/cpi-15400.oga
+/usr/share/roccat/sounds/cpi/cpi-15600.oga
+/usr/share/roccat/sounds/cpi/cpi-15800.oga
+/usr/share/roccat/sounds/cpi/cpi-1600.oga
+/usr/share/roccat/sounds/cpi/cpi-16000.oga
+/usr/share/roccat/sounds/cpi/cpi-1700.oga
+/usr/share/roccat/sounds/cpi/cpi-1800.oga
+/usr/share/roccat/sounds/cpi/cpi-1900.oga
+/usr/share/roccat/sounds/cpi/cpi-200.oga
+/usr/share/roccat/sounds/cpi/cpi-2000.oga
+/usr/share/roccat/sounds/cpi/cpi-2100.oga
+/usr/share/roccat/sounds/cpi/cpi-2200.oga
+/usr/share/roccat/sounds/cpi/cpi-2300.oga
+/usr/share/roccat/sounds/cpi/cpi-2400.oga
+/usr/share/roccat/sounds/cpi/cpi-2500.oga
+/usr/share/roccat/sounds/cpi/cpi-2600.oga
+/usr/share/roccat/sounds/cpi/cpi-2700.oga
+/usr/share/roccat/sounds/cpi/cpi-2800.oga
+/usr/share/roccat/sounds/cpi/cpi-2900.oga
+/usr/share/roccat/sounds/cpi/cpi-300.oga
+/usr/share/roccat/sounds/cpi/cpi-3000.oga
+/usr/share/roccat/sounds/cpi/cpi-3100.oga
+/usr/share/roccat/sounds/cpi/cpi-3200.oga
+/usr/share/roccat/sounds/cpi/cpi-3300.oga
+/usr/share/roccat/sounds/cpi/cpi-3400.oga
+/usr/share/roccat/sounds/cpi/cpi-3500.oga
+/usr/share/roccat/sounds/cpi/cpi-3600.oga
+/usr/share/roccat/sounds/cpi/cpi-3700.oga
+/usr/share/roccat/sounds/cpi/cpi-3800.oga
+/usr/share/roccat/sounds/cpi/cpi-3900.oga
+/usr/share/roccat/sounds/cpi/cpi-400.oga
+/usr/share/roccat/sounds/cpi/cpi-4000.oga
+/usr/share/roccat/sounds/cpi/cpi-4100.oga
+/usr/share/roccat/sounds/cpi/cpi-4200.oga
+/usr/share/roccat/sounds/cpi/cpi-4300.oga
+/usr/share/roccat/sounds/cpi/cpi-4400.oga
+/usr/share/roccat/sounds/cpi/cpi-4500.oga
+/usr/share/roccat/sounds/cpi/cpi-4600.oga
+/usr/share/roccat/sounds/cpi/cpi-4700.oga
+/usr/share/roccat/sounds/cpi/cpi-4800.oga
+/usr/share/roccat/sounds/cpi/cpi-4900.oga
+/usr/share/roccat/sounds/cpi/cpi-500.oga
+/usr/share/roccat/sounds/cpi/cpi-5000.oga
+/usr/share/roccat/sounds/cpi/cpi-5100.oga
+/usr/share/roccat/sounds/cpi/cpi-5200.oga
+/usr/share/roccat/sounds/cpi/cpi-5300.oga
+/usr/share/roccat/sounds/cpi/cpi-5400.oga
+/usr/share/roccat/sounds/cpi/cpi-5500.oga
+/usr/share/roccat/sounds/cpi/cpi-5600.oga
+/usr/share/roccat/sounds/cpi/cpi-5700.oga
+/usr/share/roccat/sounds/cpi/cpi-5800.oga
+/usr/share/roccat/sounds/cpi/cpi-5900.oga
+/usr/share/roccat/sounds/cpi/cpi-600.oga
+/usr/share/roccat/sounds/cpi/cpi-6000.oga
+/usr/share/roccat/sounds/cpi/cpi-6200.oga
+/usr/share/roccat/sounds/cpi/cpi-6400.oga
+/usr/share/roccat/sounds/cpi/cpi-6600.oga
+/usr/share/roccat/sounds/cpi/cpi-6800.oga
+/usr/share/roccat/sounds/cpi/cpi-700.oga
+/usr/share/roccat/sounds/cpi/cpi-7000.oga
+/usr/share/roccat/sounds/cpi/cpi-7200.oga
+/usr/share/roccat/sounds/cpi/cpi-7400.oga
+/usr/share/roccat/sounds/cpi/cpi-7600.oga
+/usr/share/roccat/sounds/cpi/cpi-7800.oga
+/usr/share/roccat/sounds/cpi/cpi-800.oga
+/usr/share/roccat/sounds/cpi/cpi-8000.oga
+/usr/share/roccat/sounds/cpi/cpi-8200.oga
+/usr/share/roccat/sounds/cpi/cpi-8400.oga
+/usr/share/roccat/sounds/cpi/cpi-8600.oga
+/usr/share/roccat/sounds/cpi/cpi-8800.oga
+/usr/share/roccat/sounds/cpi/cpi-900.oga
+/usr/share/roccat/sounds/cpi/cpi-9000.oga
+/usr/share/roccat/sounds/cpi/cpi-9200.oga
+/usr/share/roccat/sounds/cpi/cpi-9400.oga
+/usr/share/roccat/sounds/cpi/cpi-9600.oga
+/usr/share/roccat/sounds/cpi/cpi-9800.oga
+/usr/share/roccat/sounds/cpi/cpi-down.oga
+/usr/share/roccat/sounds/cpi/cpi-up.oga
+/usr/share/roccat/sounds/live_recording/end-abort.oga
+/usr/share/roccat/sounds/live_recording/end-success.oga
+/usr/share/roccat/sounds/live_recording/invalid-key.oga
+/usr/share/roccat/sounds/live_recording/record-macro.oga
+/usr/share/roccat/sounds/live_recording/select-macro-key.oga
+/usr/share/roccat/sounds/profile/profile-1.oga
+/usr/share/roccat/sounds/profile/profile-2.oga
+/usr/share/roccat/sounds/profile/profile-3.oga
+/usr/share/roccat/sounds/profile/profile-4.oga
+/usr/share/roccat/sounds/profile/profile-5.oga
+/usr/share/roccat/sounds/sensitivity/sensitivity-down.oga
+/usr/share/roccat/sounds/sensitivity/sensitivity-up.oga
+/usr/share/roccat/sounds/sleep.oga
+/usr/share/roccat/sounds/timer/timer-0.oga
+/usr/share/roccat/sounds/timer/timer-1.oga
+/usr/share/roccat/sounds/timer/timer-10.oga
+/usr/share/roccat/sounds/timer/timer-2.oga
+/usr/share/roccat/sounds/timer/timer-3.oga
+/usr/share/roccat/sounds/timer/timer-4.oga
+/usr/share/roccat/sounds/timer/timer-5.oga
+/usr/share/roccat/sounds/timer/timer-activated.oga
+/usr/share/roccat/sounds/timer/timer-stopped.oga
+/usr/share/roccat/sounds/typing/click.oga
+/usr/share/roccat/sounds/typing/laser-beam.oga
+/usr/share/roccat/sounds/typing/sci-fi.oga
+/usr/share/roccat/sounds/typing/typewriter.oga
+/usr/share/roccat/sounds/wakeup.oga

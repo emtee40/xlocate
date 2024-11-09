@@ -1,0 +1,6 @@
+/usr/lib32/libgtk-vnc-2.0.so -> /usr/lib32/libgtk-vnc-2.0.so.0
+/usr/lib32/libgvnc-1.0.so -> /usr/lib32/libgvnc-1.0.so.0
+/usr/lib32/libgvncpulse-1.0.so -> /usr/lib32/libgvncpulse-1.0.so.0
+/usr/lib32/pkgconfig/gtk-vnc-2.0.pc
+/usr/lib32/pkgconfig/gvnc-1.0.pc
+/usr/lib32/pkgconfig/gvncpulse-1.0.pc

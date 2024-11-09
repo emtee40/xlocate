@@ -1,0 +1,4 @@
+/usr/bin/playsound
+/usr/bin/playsound_simple
+/usr/lib/libSDL_sound-1.0.so.1 -> /usr/lib/libSDL_sound-1.0.so.1.0.2
+/usr/lib/libSDL_sound-1.0.so.1.0.2

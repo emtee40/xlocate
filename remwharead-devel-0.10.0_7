@@ -1,0 +1,21 @@
+/usr/include/remwharead/export/adoc.hpp
+/usr/include/remwharead/export/bookmarks.hpp
+/usr/include/remwharead/export/csv.hpp
+/usr/include/remwharead/export/export.hpp
+/usr/include/remwharead/export/json.hpp
+/usr/include/remwharead/export/link.hpp
+/usr/include/remwharead/export/rofi.hpp
+/usr/include/remwharead/export/rss.hpp
+/usr/include/remwharead/export/simple.hpp
+/usr/include/remwharead/remwharead.hpp
+/usr/include/remwharead/search.hpp
+/usr/include/remwharead/sqlite.hpp
+/usr/include/remwharead/time.hpp
+/usr/include/remwharead/types.hpp
+/usr/include/remwharead/uri.hpp
+/usr/lib/cmake/remwharead/remwhareadConfig.cmake
+/usr/lib/cmake/remwharead/remwhareadConfigVersion.cmake
+/usr/lib/cmake/remwharead/remwhareadTargets-none.cmake
+/usr/lib/cmake/remwharead/remwhareadTargets.cmake
+/usr/lib/libremwharead.so -> /usr/lib/libremwharead.so.0
+/usr/lib/pkgconfig/remwharead.pc

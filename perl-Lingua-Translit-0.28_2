@@ -1,0 +1,6 @@
+/usr/bin/translit
+/usr/share/man/man1/translit.1p
+/usr/share/man/man3/Lingua::Translit.3p
+/usr/share/man/man3/Lingua::Translit::Tables.3p
+/usr/share/perl5/vendor_perl/Lingua/Translit.pm
+/usr/share/perl5/vendor_perl/Lingua/Translit/Tables.pm

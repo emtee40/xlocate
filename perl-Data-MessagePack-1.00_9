@@ -1,0 +1,8 @@
+/usr/lib/perl5/vendor_perl/Data/MessagePack.pm
+/usr/lib/perl5/vendor_perl/Data/MessagePack/Boolean.pm
+/usr/lib/perl5/vendor_perl/Data/MessagePack/PP.pm
+/usr/lib/perl5/vendor_perl/Data/MessagePack/Unpacker.pod
+/usr/lib/perl5/vendor_perl/auto/Data/MessagePack/MessagePack.so
+/usr/share/man/man3/Data::MessagePack.3p
+/usr/share/man/man3/Data::MessagePack::PP.3p
+/usr/share/man/man3/Data::MessagePack::Unpacker.3p

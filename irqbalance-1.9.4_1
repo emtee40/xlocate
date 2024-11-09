@@ -1,0 +1,8 @@
+/etc/sv/irqbalance/log/run
+/etc/sv/irqbalance/log/supervise -> /run/runit/supervise.irqbalance-log
+/etc/sv/irqbalance/run
+/etc/sv/irqbalance/supervise -> /run/runit/supervise.irqbalance
+/usr/bin/irqbalance
+/usr/bin/irqbalance-ui
+/usr/share/man/man1/irqbalance-ui.1
+/usr/share/man/man1/irqbalance.1

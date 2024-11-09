@@ -1,0 +1,15 @@
+/usr/include/KF6/KDBusAddons/KDBusService
+/usr/include/KF6/KDBusAddons/KDEDModule
+/usr/include/KF6/KDBusAddons/KUpdateLaunchEnvironmentJob
+/usr/include/KF6/KDBusAddons/kdbusaddons_export.h
+/usr/include/KF6/KDBusAddons/kdbusaddons_version.h
+/usr/include/KF6/KDBusAddons/kdbusservice.h
+/usr/include/KF6/KDBusAddons/kdedmodule.h
+/usr/include/KF6/KDBusAddons/kupdatelaunchenvironmentjob.h
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfig.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfigVersion.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsMacros.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets-none.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6dbus.service.in
+/usr/lib/libKF6DBusAddons.so -> /usr/lib/libKF6DBusAddons.so.6

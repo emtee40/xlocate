@@ -1,0 +1,3 @@
+/usr/lib32/libnsgif.a
+/usr/lib32/libnsgif.so -> /usr/lib32/libnsgif.so.1.0.0
+/usr/lib32/pkgconfig/libnsgif.pc

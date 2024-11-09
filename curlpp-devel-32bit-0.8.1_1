@@ -1,0 +1,3 @@
+/usr/lib32/libcurlpp.a
+/usr/lib32/libcurlpp.so -> /usr/lib32/libcurlpp.so.1
+/usr/lib32/pkgconfig/curlpp.pc

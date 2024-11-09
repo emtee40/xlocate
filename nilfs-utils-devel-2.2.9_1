@@ -1,0 +1,9 @@
+/usr/include/nilfs.h
+/usr/include/nilfs2_fs.h
+/usr/include/nilfs_cleaner.h
+/usr/lib/libnilfs.a
+/usr/lib/libnilfs.so -> /usr/lib/libnilfs.so.0.2.4
+/usr/lib/libnilfscleaner.a
+/usr/lib/libnilfscleaner.so -> /usr/lib/libnilfscleaner.so.0.1.0
+/usr/lib/libnilfsgc.a
+/usr/lib/libnilfsgc.so -> /usr/lib/libnilfsgc.so.0.2.1

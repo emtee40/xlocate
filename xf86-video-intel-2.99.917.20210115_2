@@ -1,0 +1,11 @@
+/usr/lib/libI810XvMC.so -> /usr/lib/libI810XvMC.so.1.0.0
+/usr/lib/libI810XvMC.so.1 -> /usr/lib/libI810XvMC.so.1.0.0
+/usr/lib/libI810XvMC.so.1.0.0
+/usr/lib/libIntelXvMC.so -> /usr/lib/libIntelXvMC.so.1.0.0
+/usr/lib/libIntelXvMC.so.1 -> /usr/lib/libIntelXvMC.so.1.0.0
+/usr/lib/libIntelXvMC.so.1.0.0
+/usr/lib/xorg/modules/drivers/intel_drv.so
+/usr/libexec/xf86-video-intel-backlight-helper
+/usr/share/licenses/xf86-video-intel/COPYING
+/usr/share/man/man4/intel.4
+/usr/share/polkit-1/actions/org.x.xf86-video-intel.backlight-helper.policy

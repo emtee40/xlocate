@@ -1,0 +1,4 @@
+/usr/lib32/libsispmctl.a
+/usr/lib32/libsispmctl.so -> /usr/lib32/libsispmctl.so.0.2.1
+/usr/lib32/libsispmctl.so.0 -> /usr/lib32/libsispmctl.so.0.2.1
+/usr/lib32/libsispmctl.so.0.2.1

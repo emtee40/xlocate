@@ -1,0 +1,15 @@
+/usr/lib32/qt6/plugins/kf6/parts/okularpart.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_comicbook.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_djvu.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_dvi.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_epub.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_fax.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_fb.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_ghostview.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_kimgio.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_md.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_mobi.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_poppler.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_tiff.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_txt.so
+/usr/lib32/qt6/plugins/okular_generators/okularGenerator_xps.so

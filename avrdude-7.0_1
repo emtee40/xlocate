@@ -1,0 +1,8 @@
+/etc/avrdude.conf
+/usr/bin/avrdude
+/usr/include/libavrdude.h
+/usr/lib/libavrdude.a
+/usr/lib/libavrdude.so -> /usr/lib/libavrdude.so.1.0.0
+/usr/lib/libavrdude.so.1 -> /usr/lib/libavrdude.so.1.0.0
+/usr/lib/libavrdude.so.1.0.0
+/usr/share/man/man1/avrdude.1

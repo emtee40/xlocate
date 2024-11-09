@@ -1,0 +1,13 @@
+/usr/include/jconfig.h
+/usr/include/jerror.h
+/usr/include/jmorecfg.h
+/usr/include/jpegint.h
+/usr/include/jpeglib.h
+/usr/include/transupp.h
+/usr/include/turbojpeg.h
+/usr/lib/libjpeg.a
+/usr/lib/libjpeg.so -> /usr/lib/libjpeg.so.8
+/usr/lib/libturbojpeg.a
+/usr/lib/libturbojpeg.so -> /usr/lib/libturbojpeg.so.0
+/usr/lib/pkgconfig/libjpeg.pc
+/usr/lib/pkgconfig/libturbojpeg.pc

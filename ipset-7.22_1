@@ -1,0 +1,4 @@
+/usr/bin/ipset
+/usr/bin/ipset-translate -> /usr/bin/ipset
+/usr/share/man/man8/ipset-translate.8
+/usr/share/man/man8/ipset.8

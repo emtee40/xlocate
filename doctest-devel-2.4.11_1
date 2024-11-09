@@ -1,0 +1,10 @@
+/usr/include/doctest/doctest.h
+/usr/include/doctest/extensions/doctest_mpi.h
+/usr/include/doctest/extensions/doctest_util.h
+/usr/include/doctest/extensions/mpi_reporter.h
+/usr/include/doctest/extensions/mpi_sub_comm.h
+/usr/lib/cmake/doctest/doctest.cmake
+/usr/lib/cmake/doctest/doctestAddTests.cmake
+/usr/lib/cmake/doctest/doctestConfig.cmake
+/usr/lib/cmake/doctest/doctestConfigVersion.cmake
+/usr/lib/cmake/doctest/doctestTargets.cmake

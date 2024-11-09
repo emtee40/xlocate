@@ -1,0 +1,25 @@
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-audio-information.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-container-information.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-g-values.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-gst-utils.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-image-information.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-information.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-profile-guesser.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-profile.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-restriction.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-value-list.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-values.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna-video-information.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/gupnp-dlna.h
+/usr/include/gupnp-dlna-2.0/libgupnp-dlna/metadata/gupnp-dlna-metadata-extractor.h
+/usr/lib/libgupnp-dlna-2.0.so -> /usr/lib/libgupnp-dlna-2.0.so.4
+/usr/lib/libgupnp-dlna-gst-2.0.so -> /usr/lib/libgupnp-dlna-gst-2.0.so.4
+/usr/lib/pkgconfig/gupnp-dlna-2.0.pc
+/usr/lib/pkgconfig/gupnp-dlna-gst-2.0.pc
+/usr/lib/pkgconfig/gupnp-dlna-metadata-2.0.pc
+/usr/share/gir-1.0/GUPnPDLNA-2.0.gir
+/usr/share/gir-1.0/GUPnPDLNAGst-2.0.gir
+/usr/share/vala/vapi/gupnp-dlna-2.0.deps
+/usr/share/vala/vapi/gupnp-dlna-2.0.vapi
+/usr/share/vala/vapi/gupnp-dlna-gst-2.0.deps
+/usr/share/vala/vapi/gupnp-dlna-gst-2.0.vapi

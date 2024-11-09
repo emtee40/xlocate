@@ -1,0 +1,15 @@
+/usr/lib/perl5/vendor_perl/DateTime.pm
+/usr/lib/perl5/vendor_perl/DateTime/Conflicts.pm
+/usr/lib/perl5/vendor_perl/DateTime/Duration.pm
+/usr/lib/perl5/vendor_perl/DateTime/Helpers.pm
+/usr/lib/perl5/vendor_perl/DateTime/Infinite.pm
+/usr/lib/perl5/vendor_perl/DateTime/LeapSecond.pm
+/usr/lib/perl5/vendor_perl/DateTime/PP.pm
+/usr/lib/perl5/vendor_perl/DateTime/PPExtra.pm
+/usr/lib/perl5/vendor_perl/DateTime/Types.pm
+/usr/lib/perl5/vendor_perl/auto/DateTime/DateTime.so
+/usr/share/man/man3/DateTime.3p
+/usr/share/man/man3/DateTime::Duration.3p
+/usr/share/man/man3/DateTime::Infinite.3p
+/usr/share/man/man3/DateTime::LeapSecond.3p
+/usr/share/man/man3/DateTime::Types.3p

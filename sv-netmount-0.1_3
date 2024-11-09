@@ -1,0 +1,4 @@
+/etc/sv/netmount/conf
+/etc/sv/netmount/finish
+/etc/sv/netmount/run
+/etc/sv/netmount/supervise -> /run/runit/supervise.netmount

@@ -1,0 +1,9 @@
+/etc/conky/conky.conf
+/etc/conky/conky_no_x11.conf
+/usr/bin/conky
+/usr/lib/libconky_core.a
+/usr/lib/libtcp-portmon.a
+/usr/share/applications/conky.desktop
+/usr/share/icons/hicolor/scalable/apps/conky-logomark-violet.svg
+/usr/share/licenses/conky-cli/COPYING
+/usr/share/man/man1/conky.1

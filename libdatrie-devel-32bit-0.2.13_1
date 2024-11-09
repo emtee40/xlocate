@@ -1,0 +1,3 @@
+/usr/lib32/libdatrie.a
+/usr/lib32/libdatrie.so -> /usr/lib32/libdatrie.so.1.4.0
+/usr/lib32/pkgconfig/datrie-0.2.pc

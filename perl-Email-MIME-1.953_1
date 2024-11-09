@@ -1,0 +1,12 @@
+/usr/share/man/man3/Email::MIME.3p
+/usr/share/man/man3/Email::MIME::Creator.3p
+/usr/share/man/man3/Email::MIME::Encode.3p
+/usr/share/man/man3/Email::MIME::Header.3p
+/usr/share/man/man3/Email::MIME::Header::AddressList.3p
+/usr/share/man/man3/Email::MIME::Modifier.3p
+/usr/share/perl5/vendor_perl/Email/MIME.pm
+/usr/share/perl5/vendor_perl/Email/MIME/Creator.pm
+/usr/share/perl5/vendor_perl/Email/MIME/Encode.pm
+/usr/share/perl5/vendor_perl/Email/MIME/Header.pm
+/usr/share/perl5/vendor_perl/Email/MIME/Header/AddressList.pm
+/usr/share/perl5/vendor_perl/Email/MIME/Modifier.pm

@@ -1,0 +1,3 @@
+/usr/include/lsmash.h
+/usr/lib/liblsmash.so -> /usr/lib/liblsmash.so.2
+/usr/lib/pkgconfig/liblsmash.pc

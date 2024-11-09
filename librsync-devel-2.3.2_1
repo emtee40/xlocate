@@ -1,0 +1,4 @@
+/usr/include/librsync.h
+/usr/include/librsync_export.h
+/usr/lib/librsync.so -> /usr/lib/librsync.so.2
+/usr/share/man/man3/librsync.3

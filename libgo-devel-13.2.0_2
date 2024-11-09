@@ -1,0 +1,4 @@
+/usr/lib/libgo.a
+/usr/lib/libgo.so -> /usr/lib/libgo.so.22.0.0
+/usr/lib/libgobegin.a
+/usr/lib/libgolibbegin.a

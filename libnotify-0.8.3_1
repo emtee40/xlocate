@@ -1,0 +1,5 @@
+/usr/bin/notify-send
+/usr/lib/girepository-1.0/Notify-0.7.typelib
+/usr/lib/libnotify.so.4 -> /usr/lib/libnotify.so.4.0.0
+/usr/lib/libnotify.so.4.0.0
+/usr/share/man/man1/notify-send.1

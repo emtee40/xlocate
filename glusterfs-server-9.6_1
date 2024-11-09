@@ -1,0 +1,24 @@
+/etc/glusterfs/eventsconfig.json
+/etc/glusterfs/gluster-rsyslog-5.8.conf
+/etc/glusterfs/gluster-rsyslog-7.2.conf
+/etc/glusterfs/glusterd.vol
+/etc/glusterfs/glusterfs-georep-logrotate
+/etc/glusterfs/glusterfs-logrotate
+/etc/glusterfs/group-db-workload
+/etc/glusterfs/group-distributed-virt
+/etc/glusterfs/group-gluster-block
+/etc/glusterfs/group-metadata-cache
+/etc/glusterfs/group-nl-cache
+/etc/glusterfs/group-samba
+/etc/glusterfs/group-virt.example
+/etc/glusterfs/gsyncd.conf
+/etc/glusterfs/logger.conf.example
+/etc/glusterfs/thin-arbiter.vol
+/etc/sv/glusterd/log/run
+/etc/sv/glusterd/log/supervise -> /run/runit/supervise.glusterd-log
+/etc/sv/glusterd/run
+/etc/sv/glusterd/supervise -> /run/runit/supervise.glusterd
+/usr/bin/gluster
+/usr/bin/glusterd -> /usr/bin/glusterfsd
+/usr/share/man/man8/gluster.8
+/usr/share/man/man8/glusterd.8

@@ -1,0 +1,6 @@
+/etc/sv/snooze-daily/run
+/etc/sv/snooze-hourly/run
+/etc/sv/snooze-monthly/run
+/etc/sv/snooze-weekly/run
+/usr/bin/snooze
+/usr/share/man/man1/snooze.1

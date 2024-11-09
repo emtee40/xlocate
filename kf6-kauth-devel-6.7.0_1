@@ -1,0 +1,16 @@
+/usr/include/KF6/KAuth/kauth_version.h
+/usr/include/KF6/KAuthCore/KAuth/Action
+/usr/include/KF6/KAuthCore/KAuth/ActionReply
+/usr/include/KF6/KAuthCore/KAuth/ExecuteJob
+/usr/include/KF6/KAuthCore/KAuth/HelperSupport
+/usr/include/KF6/KAuthCore/kauth/action.h
+/usr/include/KF6/KAuthCore/kauth/actionreply.h
+/usr/include/KF6/KAuthCore/kauth/executejob.h
+/usr/include/KF6/KAuthCore/kauth/helpersupport.h
+/usr/include/KF6/KAuthCore/kauth/kauthcore_export.h
+/usr/lib/cmake/KF6Auth/KF6AuthConfig.cmake
+/usr/lib/cmake/KF6Auth/KF6AuthConfigVersion.cmake
+/usr/lib/cmake/KF6Auth/KF6AuthMacros.cmake
+/usr/lib/cmake/KF6Auth/KF6AuthTargets-none.cmake
+/usr/lib/cmake/KF6Auth/KF6AuthTargets.cmake
+/usr/lib/libKF6AuthCore.so -> /usr/lib/libKF6AuthCore.so.6

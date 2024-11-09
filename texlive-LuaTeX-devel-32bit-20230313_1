@@ -1,0 +1,6 @@
+/usr/lib32/libtexlua53.a
+/usr/lib32/libtexlua53.so -> /usr/lib32/libtexlua53.so.5.3.6
+/usr/lib32/libtexluajit.a
+/usr/lib32/libtexluajit.so -> /usr/lib32/libtexluajit.so.2.1.0
+/usr/lib32/pkgconfig/texlua53.pc
+/usr/lib32/pkgconfig/texluajit.pc

@@ -1,0 +1,3 @@
+/usr/include/chromaprint.h
+/usr/lib/libchromaprint.so -> /usr/lib/libchromaprint.so.1
+/usr/lib/pkgconfig/libchromaprint.pc

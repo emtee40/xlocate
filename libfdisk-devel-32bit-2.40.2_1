@@ -1,0 +1,3 @@
+/usr/lib32/libfdisk.a
+/usr/lib32/libfdisk.so -> /usr/lib32/libfdisk.so.1.1.0
+/usr/lib32/pkgconfig/fdisk.pc

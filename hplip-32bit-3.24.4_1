@@ -1,0 +1,19 @@
+/usr/lib32/libhpdiscovery.so -> /usr/lib32/libhpdiscovery.so.0.0.1
+/usr/lib32/libhpdiscovery.so.0 -> /usr/lib32/libhpdiscovery.so.0.0.1
+/usr/lib32/libhpdiscovery.so.0.0.1
+/usr/lib32/libhpip.so -> /usr/lib32/libhpip.so.0.0.1
+/usr/lib32/libhpip.so.0 -> /usr/lib32/libhpip.so.0.0.1
+/usr/lib32/libhpip.so.0.0.1
+/usr/lib32/libhpipp.so -> /usr/lib32/libhpipp.so.0.0.1
+/usr/lib32/libhpipp.so.0 -> /usr/lib32/libhpipp.so.0.0.1
+/usr/lib32/libhpipp.so.0.0.1
+/usr/lib32/libhpmud.so -> /usr/lib32/libhpmud.so.0.0.6
+/usr/lib32/libhpmud.so.0 -> /usr/lib32/libhpmud.so.0.0.6
+/usr/lib32/libhpmud.so.0.0.6
+/usr/lib32/python3.12/site-packages/cupsext.so
+/usr/lib32/python3.12/site-packages/hpmudext.so
+/usr/lib32/python3.12/site-packages/pcardext.so
+/usr/lib32/python3.12/site-packages/scanext.so
+/usr/lib32/sane/libsane-hpaio.so -> /usr/lib32/sane/libsane-hpaio.so.1.0.0
+/usr/lib32/sane/libsane-hpaio.so.1 -> /usr/lib32/sane/libsane-hpaio.so.1.0.0
+/usr/lib32/sane/libsane-hpaio.so.1.0.0

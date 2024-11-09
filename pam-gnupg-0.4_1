@@ -1,0 +1,2 @@
+/usr/lib/security/pam_gnupg.so
+/usr/libexec/pam_gnupg_helper

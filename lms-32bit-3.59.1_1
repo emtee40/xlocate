@@ -1,0 +1,13 @@
+/usr/lib32/liblmsartwork.so
+/usr/lib32/liblmsauth.so
+/usr/lib32/liblmsav.so
+/usr/lib32/liblmscore.so
+/usr/lib32/liblmsdatabase.so
+/usr/lib32/liblmsfeedback.so
+/usr/lib32/liblmsimage.so
+/usr/lib32/liblmsmetadata.so
+/usr/lib32/liblmsrecommendation.so
+/usr/lib32/liblmsscanner.so
+/usr/lib32/liblmsscrobbling.so
+/usr/lib32/liblmssom.so
+/usr/lib32/liblmssubsonic.so

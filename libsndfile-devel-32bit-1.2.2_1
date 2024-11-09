@@ -1,0 +1,3 @@
+/usr/lib32/libsndfile.a
+/usr/lib32/libsndfile.so -> /usr/lib32/libsndfile.so.1.0.37
+/usr/lib32/pkgconfig/sndfile.pc

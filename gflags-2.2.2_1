@@ -1,0 +1,8 @@
+/usr/bin/gflags_completions.sh
+/usr/lib/libgflags.so.2.2 -> /usr/lib/libgflags.so.2.2.2
+/usr/lib/libgflags.so.2.2.2
+/usr/lib/libgflags_nothreads.so.2.2 -> /usr/lib/libgflags_nothreads.so.2.2.2
+/usr/lib/libgflags_nothreads.so.2.2.2
+/usr/share/doc/gflags/ChangeLog.txt
+/usr/share/doc/gflags/README.md
+/usr/share/licenses/gflags/COPYING.txt

@@ -1,0 +1,6 @@
+/usr/bin/jsonnet
+/usr/bin/jsonnetfmt
+/usr/lib/libjsonnet++.so.0 -> /usr/lib/libjsonnet++.so.0.20.0
+/usr/lib/libjsonnet++.so.0.20.0
+/usr/lib/libjsonnet.so.0 -> /usr/lib/libjsonnet.so.0.20.0
+/usr/lib/libjsonnet.so.0.20.0

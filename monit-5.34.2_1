@@ -1,0 +1,8 @@
+/etc/monitrc
+/etc/sv/monit/log/run
+/etc/sv/monit/log/supervise -> /run/runit/supervise.monit-log
+/etc/sv/monit/run
+/etc/sv/monit/supervise -> /run/runit/supervise.monit
+/usr/bin/monit
+/usr/share/licenses/monit/COPYING
+/usr/share/man/man1/monit.1

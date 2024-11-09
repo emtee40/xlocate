@@ -1,0 +1,18 @@
+/etc/sv/thttpd/log/run
+/etc/sv/thttpd/log/supervise -> /run/runit/supervise.thttpd-log
+/etc/sv/thttpd/run
+/etc/sv/thttpd/supervise -> /run/runit/supervise.thttpd
+/usr/bin/makeweb
+/usr/bin/syslogtocern
+/usr/bin/thttpd
+/usr/bin/thttpd-htpasswd
+/usr/libexec/thttpd/cgi-bin/phf
+/usr/libexec/thttpd/cgi-bin/redirect
+/usr/libexec/thttpd/cgi-bin/ssi
+/usr/share/licenses/thttpd/LICENSE
+/usr/share/man/man1/makeweb.1
+/usr/share/man/man1/thttpd-htpasswd.1
+/usr/share/man/man8/redirect.8
+/usr/share/man/man8/ssi.8
+/usr/share/man/man8/syslogtocern.8
+/usr/share/man/man8/thttpd.8

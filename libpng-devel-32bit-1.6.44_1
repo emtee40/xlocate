@@ -1,0 +1,6 @@
+/usr/lib32/libpng.a -> /usr/lib32/libpng16.a
+/usr/lib32/libpng.so -> /usr/lib32/libpng16.so
+/usr/lib32/libpng16.a
+/usr/lib32/libpng16.so -> /usr/lib32/libpng16.so.16.44.0
+/usr/lib32/pkgconfig/libpng.pc
+/usr/lib32/pkgconfig/libpng16.pc

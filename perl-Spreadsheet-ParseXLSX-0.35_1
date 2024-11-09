@@ -1,0 +1,13 @@
+/usr/share/licenses/perl-Spreadsheet-ParseXLSX/LICENSE
+/usr/share/man/man3/Spreadsheet::ParseXLSX.3p
+/usr/share/man/man3/Spreadsheet::ParseXLSX::Cell.3p
+/usr/share/man/man3/Spreadsheet::ParseXLSX::Decryptor.3p
+/usr/share/man/man3/Spreadsheet::ParseXLSX::Decryptor::Agile.3p
+/usr/share/man/man3/Spreadsheet::ParseXLSX::Decryptor::Standard.3p
+/usr/share/man/man3/Spreadsheet::ParseXLSX::Worksheet.3p
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX.pm
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX/Cell.pm
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX/Decryptor.pm
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX/Decryptor/Agile.pm
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX/Decryptor/Standard.pm
+/usr/share/perl5/vendor_perl/Spreadsheet/ParseXLSX/Worksheet.pm

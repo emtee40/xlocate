@@ -1,0 +1,6 @@
+/boot/xen-4.14.1.config
+/boot/xen-4.14.1.gz
+/usr/lib/efi/xen-4.14.1.efi
+/usr/lib/efi/xen-4.14.efi -> /usr/lib/efi/xen-4.14.1.efi
+/usr/lib/efi/xen-4.efi -> /usr/lib/efi/xen-4.14.1.efi
+/usr/lib/efi/xen.efi -> /usr/lib/efi/xen-4.14.1.efi

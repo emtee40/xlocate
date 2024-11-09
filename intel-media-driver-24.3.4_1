@@ -1,0 +1,4 @@
+/usr/lib/dri/iHD_drv_video.so
+/usr/lib/libigfxcmrt.so.7 -> /usr/lib/libigfxcmrt.so.7.2.0
+/usr/lib/libigfxcmrt.so.7.2.0
+/usr/share/licenses/intel-media-driver/LICENSE.md

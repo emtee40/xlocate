@@ -1,0 +1,4 @@
+/usr/include/libxcvt/libxcvt.h
+/usr/include/libxcvt/libxcvt_mode.h
+/usr/lib/libxcvt.so -> /usr/lib/libxcvt.so.0
+/usr/lib/pkgconfig/libxcvt.pc

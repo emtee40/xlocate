@@ -1,0 +1,22 @@
+/etc/minidlna.conf
+/etc/sv/minidlnad/log/run
+/etc/sv/minidlnad/log/supervise -> /run/runit/supervise.minidlnad-log
+/etc/sv/minidlnad/run
+/etc/sv/minidlnad/supervise -> /run/runit/supervise.minidlnad
+/usr/bin/minidlnad
+/usr/share/licenses/minidlna/LICENCE.miniupnpd
+/usr/share/locale/da/LC_MESSAGES/minidlna.mo
+/usr/share/locale/de/LC_MESSAGES/minidlna.mo
+/usr/share/locale/es/LC_MESSAGES/minidlna.mo
+/usr/share/locale/fr/LC_MESSAGES/minidlna.mo
+/usr/share/locale/it/LC_MESSAGES/minidlna.mo
+/usr/share/locale/ja/LC_MESSAGES/minidlna.mo
+/usr/share/locale/ko/LC_MESSAGES/minidlna.mo
+/usr/share/locale/nb/LC_MESSAGES/minidlna.mo
+/usr/share/locale/nl/LC_MESSAGES/minidlna.mo
+/usr/share/locale/pl/LC_MESSAGES/minidlna.mo
+/usr/share/locale/ru/LC_MESSAGES/minidlna.mo
+/usr/share/locale/sl/LC_MESSAGES/minidlna.mo
+/usr/share/locale/sv/LC_MESSAGES/minidlna.mo
+/usr/share/man/man5/minidlna.conf.5
+/usr/share/man/man8/minidlnad.8

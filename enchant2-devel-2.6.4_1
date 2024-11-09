@@ -1,0 +1,10 @@
+/usr/include/enchant-2/enchant++.h
+/usr/include/enchant-2/enchant-provider.h
+/usr/include/enchant-2/enchant.h
+/usr/lib/enchant-2/enchant_aspell.a
+/usr/lib/enchant-2/enchant_hunspell.a
+/usr/lib/enchant-2/enchant_nuspell.a
+/usr/lib/enchant-2/enchant_voikko.a
+/usr/lib/libenchant-2.a
+/usr/lib/libenchant-2.so -> /usr/lib/libenchant-2.so.2.6.4
+/usr/lib/pkgconfig/enchant-2.pc

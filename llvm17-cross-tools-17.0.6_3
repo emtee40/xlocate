@@ -1,0 +1,3 @@
+/usr/bin/clang-pseudo-gen
+/usr/bin/clang-tidy-confusable-chars-gen
+/usr/bin/lldb-tblgen

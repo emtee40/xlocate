@@ -1,0 +1,3 @@
+/etc/sv/quasselcore/run
+/etc/sv/quasselcore/supervise -> /run/runit/supervise.quasselcore
+/usr/bin/quasselcore

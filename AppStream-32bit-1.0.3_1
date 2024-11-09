@@ -1,0 +1,2 @@
+/usr/lib32/libappstream.so.1.0.3
+/usr/lib32/libappstream.so.5 -> /usr/lib32/libappstream.so.1.0.3

@@ -1,0 +1,6 @@
+/usr/include/uev/private.h
+/usr/include/uev/uev.h
+/usr/lib/libuev.a
+/usr/lib/libuev.so -> /usr/lib/libuev.so.3.0.0
+/usr/lib/pkgconfig/libuev.pc
+/usr/share/doc/libuev/README.md

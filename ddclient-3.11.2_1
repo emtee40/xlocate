@@ -1,0 +1,14 @@
+/etc/ddclient/ddclient.conf
+/etc/sv/ddclient/log/run
+/etc/sv/ddclient/log/supervise -> /run/runit/supervise.ddclient-log
+/etc/sv/ddclient/run
+/etc/sv/ddclient/supervise -> /run/runit/supervise.ddclient
+/usr/bin/ddclient
+/usr/share/doc/ddclient/README.cisco
+/usr/share/doc/ddclient/README.md
+/usr/share/examples/ddclient/ddclient.conf
+/usr/share/examples/ddclient/sample-ddclient-wrapper.sh
+/usr/share/examples/ddclient/sample-etc_cron.d_ddclient
+/usr/share/examples/ddclient/sample-etc_dhclient-exit-hooks
+/usr/share/examples/ddclient/sample-etc_dhcpc_dhcpcd-eth0.exe
+/usr/share/examples/ddclient/sample-etc_ppp_ip-up.local

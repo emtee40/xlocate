@@ -1,0 +1,9 @@
+/usr/bin/auto-auto-complete
+/usr/share/bash-completion/completions/auto-auto-complete
+/usr/share/doc/auto-auto-complete/example
+/usr/share/fish/vendor_completions.d/auto-auto-complete.fish
+/usr/share/info/auto-auto-complete.info
+/usr/share/licenses/auto-auto-complete/COPYING
+/usr/share/licenses/auto-auto-complete/LICENSE
+/usr/share/man/man1/auto-auto-complete.1
+/usr/share/zsh/site-functions/_auto-auto-complete

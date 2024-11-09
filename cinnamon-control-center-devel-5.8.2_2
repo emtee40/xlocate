@@ -1,0 +1,5 @@
+/usr/include/cinnamon-control-center-1/libcinnamon-control-center/cc-editable-entry.h
+/usr/include/cinnamon-control-center-1/libcinnamon-control-center/cc-panel.h
+/usr/include/cinnamon-control-center-1/libcinnamon-control-center/cc-shell.h
+/usr/lib/libcinnamon-control-center.so -> /usr/lib/libcinnamon-control-center.so.1
+/usr/lib/pkgconfig/libcinnamon-control-center.pc

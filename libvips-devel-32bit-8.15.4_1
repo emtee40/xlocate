@@ -1,0 +1,4 @@
+/usr/lib32/libvips-cpp.so -> /usr/lib32/libvips-cpp.so.42.8.15.4
+/usr/lib32/libvips.so -> /usr/lib32/libvips.so.42
+/usr/lib32/pkgconfig/vips-cpp.pc
+/usr/lib32/pkgconfig/vips.pc

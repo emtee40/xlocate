@@ -1,0 +1,4 @@
+/usr/include/bzlib.h
+/usr/lib/libbz2.a
+/usr/lib/libbz2.so -> /usr/lib/libbz2.so.1.0.8
+/usr/lib/pkgconfig/bzip2.pc

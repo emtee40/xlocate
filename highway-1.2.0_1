@@ -1,0 +1,6 @@
+/usr/lib/libhwy.so.1 -> /usr/lib/libhwy.so.1.2.0
+/usr/lib/libhwy.so.1.2.0
+/usr/lib/libhwy_contrib.so.1 -> /usr/lib/libhwy_contrib.so.1.2.0
+/usr/lib/libhwy_contrib.so.1.2.0
+/usr/lib/libhwy_test.so.1 -> /usr/lib/libhwy_test.so.1.2.0
+/usr/lib/libhwy_test.so.1.2.0

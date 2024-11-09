@@ -1,0 +1,5 @@
+/usr/lib32/libQt5PrintSupport.so -> /usr/lib32/libQt5PrintSupport.so.5.15.11
+/usr/lib32/libQt5PrintSupport.so.5 -> /usr/lib32/libQt5PrintSupport.so.5.15.11
+/usr/lib32/libQt5PrintSupport.so.5.15 -> /usr/lib32/libQt5PrintSupport.so.5.15.11
+/usr/lib32/libQt5PrintSupport.so.5.15.11
+/usr/lib32/qt5/plugins/printsupport/libcupsprintersupport.so

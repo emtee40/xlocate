@@ -1,0 +1,14 @@
+/usr/include/oblibs/config.h
+/usr/include/oblibs/directory.h
+/usr/include/oblibs/environ.h
+/usr/include/oblibs/files.h
+/usr/include/oblibs/log.h
+/usr/include/oblibs/memory.h
+/usr/include/oblibs/mill.h
+/usr/include/oblibs/obgetopt.h
+/usr/include/oblibs/oblist.h
+/usr/include/oblibs/sastr.h
+/usr/include/oblibs/string.h
+/usr/include/oblibs/types.h
+/usr/lib/liboblibs.a
+/usr/lib/liboblibs.so -> /usr/lib/liboblibs.so.0.1

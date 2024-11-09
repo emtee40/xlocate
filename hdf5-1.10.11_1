@@ -1,0 +1,33 @@
+/usr/bin/h5c++
+/usr/bin/h5cc
+/usr/bin/h5clear
+/usr/bin/h5copy
+/usr/bin/h5debug
+/usr/bin/h5diff
+/usr/bin/h5dump
+/usr/bin/h5fc
+/usr/bin/h5format_convert
+/usr/bin/h5import
+/usr/bin/h5jam
+/usr/bin/h5ls
+/usr/bin/h5mkgrp
+/usr/bin/h5perf_serial
+/usr/bin/h5redeploy
+/usr/bin/h5repack
+/usr/bin/h5repart
+/usr/bin/h5stat
+/usr/bin/h5unjam
+/usr/bin/h5watch
+/usr/lib/libhdf5.settings
+/usr/lib/libhdf5.so.103 -> /usr/lib/libhdf5.so.103.4.1
+/usr/lib/libhdf5.so.103.4.1
+/usr/lib/libhdf5_cpp.so.103 -> /usr/lib/libhdf5_cpp.so.103.4.3
+/usr/lib/libhdf5_cpp.so.103.4.3
+/usr/lib/libhdf5_fortran.so.102 -> /usr/lib/libhdf5_fortran.so.102.1.4
+/usr/lib/libhdf5_fortran.so.102.1.4
+/usr/lib/libhdf5_hl.so.100 -> /usr/lib/libhdf5_hl.so.100.1.8
+/usr/lib/libhdf5_hl.so.100.1.8
+/usr/lib/libhdf5_hl_cpp.so.100 -> /usr/lib/libhdf5_hl_cpp.so.100.1.9
+/usr/lib/libhdf5_hl_cpp.so.100.1.9
+/usr/lib/libhdf5hl_fortran.so.100 -> /usr/lib/libhdf5hl_fortran.so.100.0.10
+/usr/lib/libhdf5hl_fortran.so.100.0.10

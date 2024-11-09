@@ -1,0 +1,14 @@
+/usr/bin/cgal_create_CMakeLists
+/usr/bin/cgal_make_macosx_app
+/usr/lib/libCGAL.so.13 -> /usr/lib/libCGAL.so.13.0.3
+/usr/lib/libCGAL.so.13.0.3
+/usr/lib/libCGAL_Core.so.13 -> /usr/lib/libCGAL_Core.so.13.0.3
+/usr/lib/libCGAL_Core.so.13.0.3
+/usr/lib/libCGAL_ImageIO.so.14 -> /usr/lib/libCGAL_ImageIO.so.14.0.0
+/usr/lib/libCGAL_ImageIO.so.14.0.0
+/usr/share/doc/CGAL-4.14/AUTHORS
+/usr/share/doc/CGAL-4.14/CHANGES.md
+/usr/share/doc/CGAL-4.14/LICENSE
+/usr/share/doc/CGAL-4.14/LICENSE.FREE_USE
+/usr/share/doc/CGAL-4.14/LICENSE.GPL
+/usr/share/doc/CGAL-4.14/LICENSE.LGPL

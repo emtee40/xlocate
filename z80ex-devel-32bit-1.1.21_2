@@ -1,0 +1,4 @@
+/usr/lib32/libz80ex.a
+/usr/lib32/libz80ex.so -> /usr/lib32/libz80ex.so.1
+/usr/lib32/libz80ex_dasm.a
+/usr/lib32/libz80ex_dasm.so -> /usr/lib32/libz80ex_dasm.so.1

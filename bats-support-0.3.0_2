@@ -1,0 +1,4 @@
+/usr/lib/bats/bats-support/load.bash
+/usr/lib/bats/bats-support/src/error.bash
+/usr/lib/bats/bats-support/src/lang.bash
+/usr/lib/bats/bats-support/src/output.bash

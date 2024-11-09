@@ -1,0 +1,24 @@
+/usr/include/fluidsynth.h
+/usr/include/fluidsynth/audio.h
+/usr/include/fluidsynth/event.h
+/usr/include/fluidsynth/gen.h
+/usr/include/fluidsynth/ladspa.h
+/usr/include/fluidsynth/log.h
+/usr/include/fluidsynth/midi.h
+/usr/include/fluidsynth/misc.h
+/usr/include/fluidsynth/mod.h
+/usr/include/fluidsynth/seq.h
+/usr/include/fluidsynth/seqbind.h
+/usr/include/fluidsynth/settings.h
+/usr/include/fluidsynth/sfont.h
+/usr/include/fluidsynth/shell.h
+/usr/include/fluidsynth/synth.h
+/usr/include/fluidsynth/types.h
+/usr/include/fluidsynth/version.h
+/usr/include/fluidsynth/voice.h
+/usr/lib/cmake/fluidsynth/FluidSynthConfig.cmake
+/usr/lib/cmake/fluidsynth/FluidSynthConfigVersion.cmake
+/usr/lib/cmake/fluidsynth/FluidSynthTargets-none.cmake
+/usr/lib/cmake/fluidsynth/FluidSynthTargets.cmake
+/usr/lib/libfluidsynth.so -> /usr/lib/libfluidsynth.so.3
+/usr/lib/pkgconfig/fluidsynth.pc

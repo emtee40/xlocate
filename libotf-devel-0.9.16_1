@@ -1,0 +1,5 @@
+/usr/bin/libotf-config
+/usr/include/otf.h
+/usr/lib/libotf.a
+/usr/lib/libotf.so -> /usr/lib/libotf.so.1.0.0
+/usr/lib/pkgconfig/libotf.pc

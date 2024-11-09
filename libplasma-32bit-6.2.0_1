@@ -1,0 +1,14 @@
+/usr/lib32/libPlasma.so.6 -> /usr/lib32/libPlasma.so.6.2.0
+/usr/lib32/libPlasma.so.6.2.0
+/usr/lib32/libPlasmaQuick.so.6 -> /usr/lib32/libPlasmaQuick.so.6.2.0
+/usr/lib32/libPlasmaQuick.so.6.2.0
+/usr/lib32/qt6/plugins/kf6/kirigami/platform/KirigamiPlasmaStyle.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_applet.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_containmentactions.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_generic.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_shell.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_theme.so
+/usr/lib32/qt6/plugins/kf6/packagestructure/plasma_wallpaper.so
+/usr/lib32/qt6/qml/org/kde/plasma/components/liborg_kde_plasmacomponents3.so
+/usr/lib32/qt6/qml/org/kde/plasma/core/libcorebindingsplugin.so
+/usr/lib32/qt6/qml/org/kde/plasma/extras/libplasmaextracomponentsplugin.so

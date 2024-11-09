@@ -1,0 +1,679 @@
+/etc/libgda-5.0/config
+/etc/libgda-5.0/sales_test.db
+/usr/lib/girepository-1.0/Gda-5.0.typelib
+/usr/lib/girepository-1.0/Gdaui-5.0.typelib
+/usr/lib/libgda-5.0.so.4 -> /usr/lib/libgda-5.0.so.4.1.1
+/usr/lib/libgda-5.0.so.4.1.1
+/usr/lib/libgda-5.0/plugins/gdaui-entry-filesel-spec.xml
+/usr/lib/libgda-5.0/plugins/gdaui-entry-format-spec.xml
+/usr/lib/libgda-5.0/plugins/gdaui-entry-password.xml
+/usr/lib/libgda-5.0/plugins/gdaui-entry-pict-spec.xml
+/usr/lib/libgda-5.0/plugins/gdaui-entry-pict-spec_string.xml
+/usr/lib/libgda-5.0/plugins/gdaui-entry-text-spec.xml
+/usr/lib/libgda-5.0/plugins/libgda-ui-plugins.so
+/usr/lib/libgda-5.0/providers/libgda-bdb.so
+/usr/lib/libgda-5.0/providers/libgda-mysql.so
+/usr/lib/libgda-5.0/providers/libgda-sqlcipher.so
+/usr/lib/libgda-5.0/providers/libgda-sqlite.so
+/usr/lib/libgda-report-5.0.so.4 -> /usr/lib/libgda-report-5.0.so.4.1.1
+/usr/lib/libgda-report-5.0.so.4.1.1
+/usr/lib/libgda-ui-5.0.so.4 -> /usr/lib/libgda-ui-5.0.so.4.1.1
+/usr/lib/libgda-ui-5.0.so.4.1.1
+/usr/lib/libgda-xslt-5.0.so.4 -> /usr/lib/libgda-xslt-5.0.so.4.1.1
+/usr/lib/libgda-xslt-5.0.so.4.1.1
+/usr/share/appdata/gda-browser-5.0.appdata.xml
+/usr/share/gir-1.0/Gda-5.0.gir
+/usr/share/gir-1.0/Gdaui-5.0.gir
+/usr/share/help/C/gda-browser/actions.page
+/usr/share/help/C/gda-browser/data-manager-perspective.page
+/usr/share/help/C/gda-browser/data-manager-source-editor.page
+/usr/share/help/C/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/C/gda-browser/declaredfk.page
+/usr/share/help/C/gda-browser/diagram.page
+/usr/share/help/C/gda-browser/features.page
+/usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/C/gda-browser/general-ui.page
+/usr/share/help/C/gda-browser/index.page
+/usr/share/help/C/gda-browser/ldap-browser-perspective.page
+/usr/share/help/C/gda-browser/ldap-connections.page
+/usr/share/help/C/gda-browser/legal.xml
+/usr/share/help/C/gda-browser/query-execution-perspective.page
+/usr/share/help/C/gda-browser/schema-browser-perspective.page
+/usr/share/help/C/gda-browser/table-insert-data.page
+/usr/share/help/C/gda-browser/transactions.page
+/usr/share/help/C/gda-browser/variables.page
+/usr/share/help/C/gda-browser/virtual-connections.page
+/usr/share/help/cs/gda-browser/actions.page
+/usr/share/help/cs/gda-browser/data-manager-perspective.page
+/usr/share/help/cs/gda-browser/data-manager-source-editor.page
+/usr/share/help/cs/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/cs/gda-browser/declaredfk.page
+/usr/share/help/cs/gda-browser/diagram.page
+/usr/share/help/cs/gda-browser/features.page
+/usr/share/help/cs/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/cs/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/cs/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/cs/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/cs/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/cs/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/cs/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/cs/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/cs/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/cs/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/cs/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/cs/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/cs/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/cs/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/cs/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/cs/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/cs/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/cs/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/cs/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/cs/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/cs/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/cs/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/cs/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/cs/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/cs/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/cs/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/cs/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/cs/gda-browser/general-ui.page
+/usr/share/help/cs/gda-browser/index.page
+/usr/share/help/cs/gda-browser/ldap-browser-perspective.page
+/usr/share/help/cs/gda-browser/ldap-connections.page
+/usr/share/help/cs/gda-browser/legal.xml
+/usr/share/help/cs/gda-browser/query-execution-perspective.page
+/usr/share/help/cs/gda-browser/schema-browser-perspective.page
+/usr/share/help/cs/gda-browser/table-insert-data.page
+/usr/share/help/cs/gda-browser/transactions.page
+/usr/share/help/cs/gda-browser/variables.page
+/usr/share/help/cs/gda-browser/virtual-connections.page
+/usr/share/help/de/gda-browser/actions.page
+/usr/share/help/de/gda-browser/data-manager-perspective.page
+/usr/share/help/de/gda-browser/data-manager-source-editor.page
+/usr/share/help/de/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/de/gda-browser/declaredfk.page
+/usr/share/help/de/gda-browser/diagram.page
+/usr/share/help/de/gda-browser/features.page
+/usr/share/help/de/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/de/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/de/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/de/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/de/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/de/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/de/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/de/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/de/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/de/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/de/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/de/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/de/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/de/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/de/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/de/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/de/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/de/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/de/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/de/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/de/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/de/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/de/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/de/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/de/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/de/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/de/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/de/gda-browser/general-ui.page
+/usr/share/help/de/gda-browser/index.page
+/usr/share/help/de/gda-browser/ldap-browser-perspective.page
+/usr/share/help/de/gda-browser/ldap-connections.page
+/usr/share/help/de/gda-browser/legal.xml
+/usr/share/help/de/gda-browser/query-execution-perspective.page
+/usr/share/help/de/gda-browser/schema-browser-perspective.page
+/usr/share/help/de/gda-browser/table-insert-data.page
+/usr/share/help/de/gda-browser/transactions.page
+/usr/share/help/de/gda-browser/variables.page
+/usr/share/help/de/gda-browser/virtual-connections.page
+/usr/share/help/el/gda-browser/actions.page
+/usr/share/help/el/gda-browser/data-manager-perspective.page
+/usr/share/help/el/gda-browser/data-manager-source-editor.page
+/usr/share/help/el/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/el/gda-browser/declaredfk.page
+/usr/share/help/el/gda-browser/diagram.page
+/usr/share/help/el/gda-browser/features.page
+/usr/share/help/el/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/el/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/el/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/el/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/el/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/el/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/el/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/el/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/el/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/el/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/el/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/el/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/el/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/el/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/el/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/el/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/el/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/el/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/el/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/el/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/el/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/el/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/el/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/el/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/el/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/el/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/el/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/el/gda-browser/general-ui.page
+/usr/share/help/el/gda-browser/index.page
+/usr/share/help/el/gda-browser/ldap-browser-perspective.page
+/usr/share/help/el/gda-browser/ldap-connections.page
+/usr/share/help/el/gda-browser/legal.xml
+/usr/share/help/el/gda-browser/query-execution-perspective.page
+/usr/share/help/el/gda-browser/schema-browser-perspective.page
+/usr/share/help/el/gda-browser/table-insert-data.page
+/usr/share/help/el/gda-browser/transactions.page
+/usr/share/help/el/gda-browser/variables.page
+/usr/share/help/el/gda-browser/virtual-connections.page
+/usr/share/help/es/gda-browser/actions.page
+/usr/share/help/es/gda-browser/data-manager-perspective.page
+/usr/share/help/es/gda-browser/data-manager-source-editor.page
+/usr/share/help/es/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/es/gda-browser/declaredfk.page
+/usr/share/help/es/gda-browser/diagram.page
+/usr/share/help/es/gda-browser/features.page
+/usr/share/help/es/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/es/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/es/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/es/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/es/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/es/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/es/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/es/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/es/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/es/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/es/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/es/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/es/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/es/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/es/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/es/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/es/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/es/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/es/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/es/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/es/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/es/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/es/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/es/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/es/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/es/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/es/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/es/gda-browser/general-ui.page
+/usr/share/help/es/gda-browser/index.page
+/usr/share/help/es/gda-browser/ldap-browser-perspective.page
+/usr/share/help/es/gda-browser/ldap-connections.page
+/usr/share/help/es/gda-browser/legal.xml
+/usr/share/help/es/gda-browser/query-execution-perspective.page
+/usr/share/help/es/gda-browser/schema-browser-perspective.page
+/usr/share/help/es/gda-browser/table-insert-data.page
+/usr/share/help/es/gda-browser/transactions.page
+/usr/share/help/es/gda-browser/variables.page
+/usr/share/help/es/gda-browser/virtual-connections.page
+/usr/share/help/gl/gda-browser/actions.page
+/usr/share/help/gl/gda-browser/data-manager-perspective.page
+/usr/share/help/gl/gda-browser/data-manager-source-editor.page
+/usr/share/help/gl/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/gl/gda-browser/declaredfk.page
+/usr/share/help/gl/gda-browser/diagram.page
+/usr/share/help/gl/gda-browser/features.page
+/usr/share/help/gl/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/gl/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/gl/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/gl/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/gl/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/gl/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/gl/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/gl/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/gl/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/gl/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/gl/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/gl/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/gl/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/gl/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/gl/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/gl/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/gl/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/gl/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/gl/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/gl/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/gl/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/gl/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/gl/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/gl/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/gl/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/gl/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/gl/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/gl/gda-browser/general-ui.page
+/usr/share/help/gl/gda-browser/index.page
+/usr/share/help/gl/gda-browser/ldap-browser-perspective.page
+/usr/share/help/gl/gda-browser/ldap-connections.page
+/usr/share/help/gl/gda-browser/legal.xml
+/usr/share/help/gl/gda-browser/query-execution-perspective.page
+/usr/share/help/gl/gda-browser/schema-browser-perspective.page
+/usr/share/help/gl/gda-browser/table-insert-data.page
+/usr/share/help/gl/gda-browser/transactions.page
+/usr/share/help/gl/gda-browser/variables.page
+/usr/share/help/gl/gda-browser/virtual-connections.page
+/usr/share/help/id/gda-browser/actions.page
+/usr/share/help/id/gda-browser/data-manager-perspective.page
+/usr/share/help/id/gda-browser/data-manager-source-editor.page
+/usr/share/help/id/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/id/gda-browser/declaredfk.page
+/usr/share/help/id/gda-browser/diagram.page
+/usr/share/help/id/gda-browser/features.page
+/usr/share/help/id/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/id/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/id/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/id/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/id/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/id/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/id/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/id/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/id/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/id/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/id/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/id/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/id/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/id/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/id/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/id/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/id/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/id/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/id/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/id/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/id/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/id/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/id/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/id/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/id/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/id/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/id/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/id/gda-browser/general-ui.page
+/usr/share/help/id/gda-browser/index.page
+/usr/share/help/id/gda-browser/ldap-browser-perspective.page
+/usr/share/help/id/gda-browser/ldap-connections.page
+/usr/share/help/id/gda-browser/legal.xml
+/usr/share/help/id/gda-browser/query-execution-perspective.page
+/usr/share/help/id/gda-browser/schema-browser-perspective.page
+/usr/share/help/id/gda-browser/table-insert-data.page
+/usr/share/help/id/gda-browser/transactions.page
+/usr/share/help/id/gda-browser/variables.page
+/usr/share/help/id/gda-browser/virtual-connections.page
+/usr/share/help/pt_BR/gda-browser/actions.page
+/usr/share/help/pt_BR/gda-browser/data-manager-perspective.page
+/usr/share/help/pt_BR/gda-browser/data-manager-source-editor.page
+/usr/share/help/pt_BR/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/pt_BR/gda-browser/declaredfk.page
+/usr/share/help/pt_BR/gda-browser/diagram.page
+/usr/share/help/pt_BR/gda-browser/features.page
+/usr/share/help/pt_BR/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/pt_BR/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/pt_BR/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/pt_BR/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/pt_BR/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/pt_BR/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/pt_BR/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/pt_BR/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/pt_BR/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/pt_BR/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/pt_BR/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/pt_BR/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/pt_BR/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/pt_BR/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/pt_BR/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/pt_BR/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/pt_BR/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/pt_BR/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/pt_BR/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/pt_BR/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/pt_BR/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/pt_BR/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/pt_BR/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/pt_BR/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/pt_BR/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/pt_BR/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/pt_BR/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/pt_BR/gda-browser/general-ui.page
+/usr/share/help/pt_BR/gda-browser/index.page
+/usr/share/help/pt_BR/gda-browser/ldap-browser-perspective.page
+/usr/share/help/pt_BR/gda-browser/ldap-connections.page
+/usr/share/help/pt_BR/gda-browser/legal.xml
+/usr/share/help/pt_BR/gda-browser/query-execution-perspective.page
+/usr/share/help/pt_BR/gda-browser/schema-browser-perspective.page
+/usr/share/help/pt_BR/gda-browser/table-insert-data.page
+/usr/share/help/pt_BR/gda-browser/transactions.page
+/usr/share/help/pt_BR/gda-browser/variables.page
+/usr/share/help/pt_BR/gda-browser/virtual-connections.page
+/usr/share/help/sl/gda-browser/actions.page
+/usr/share/help/sl/gda-browser/data-manager-perspective.page
+/usr/share/help/sl/gda-browser/data-manager-source-editor.page
+/usr/share/help/sl/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/sl/gda-browser/declaredfk.page
+/usr/share/help/sl/gda-browser/diagram.page
+/usr/share/help/sl/gda-browser/features.page
+/usr/share/help/sl/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/sl/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/sl/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/sl/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/sl/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/sl/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/sl/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/sl/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/sl/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/sl/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/sl/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/sl/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/sl/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/sl/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/sl/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/sl/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/sl/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/sl/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/sl/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/sl/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/sl/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/sl/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/sl/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/sl/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/sl/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/sl/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/sl/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/sl/gda-browser/general-ui.page
+/usr/share/help/sl/gda-browser/index.page
+/usr/share/help/sl/gda-browser/ldap-browser-perspective.page
+/usr/share/help/sl/gda-browser/ldap-connections.page
+/usr/share/help/sl/gda-browser/legal.xml
+/usr/share/help/sl/gda-browser/query-execution-perspective.page
+/usr/share/help/sl/gda-browser/schema-browser-perspective.page
+/usr/share/help/sl/gda-browser/table-insert-data.page
+/usr/share/help/sl/gda-browser/transactions.page
+/usr/share/help/sl/gda-browser/variables.page
+/usr/share/help/sl/gda-browser/virtual-connections.page
+/usr/share/help/zh_CN/gda-browser/actions.page
+/usr/share/help/zh_CN/gda-browser/data-manager-perspective.page
+/usr/share/help/zh_CN/gda-browser/data-manager-source-editor.page
+/usr/share/help/zh_CN/gda-browser/data-manager-xml-syntax.page
+/usr/share/help/zh_CN/gda-browser/declaredfk.page
+/usr/share/help/zh_CN/gda-browser/diagram.page
+/usr/share/help/zh_CN/gda-browser/features.page
+/usr/share/help/zh_CN/gda-browser/figures/action-1.png -> /usr/share/help/C/gda-browser/figures/action-1.png
+/usr/share/help/zh_CN/gda-browser/figures/action-2.png -> /usr/share/help/C/gda-browser/figures/action-2.png
+/usr/share/help/zh_CN/gda-browser/figures/action-3.png -> /usr/share/help/C/gda-browser/figures/action-3.png
+/usr/share/help/zh_CN/gda-browser/figures/action-4.png -> /usr/share/help/C/gda-browser/figures/action-4.png
+/usr/share/help/zh_CN/gda-browser/figures/cnc_open.png -> /usr/share/help/C/gda-browser/figures/cnc_open.png
+/usr/share/help/zh_CN/gda-browser/figures/data-man-mode.png -> /usr/share/help/C/gda-browser/figures/data-man-mode.png
+/usr/share/help/zh_CN/gda-browser/figures/data-man-persp.png -> /usr/share/help/C/gda-browser/figures/data-man-persp.png
+/usr/share/help/zh_CN/gda-browser/figures/data-man-uicompose.png -> /usr/share/help/C/gda-browser/figures/data-man-uicompose.png
+/usr/share/help/zh_CN/gda-browser/figures/data-man-xmlcompose.png -> /usr/share/help/C/gda-browser/figures/data-man-xmlcompose.png
+/usr/share/help/zh_CN/gda-browser/figures/declaredfk-dialog.png -> /usr/share/help/C/gda-browser/figures/declaredfk-dialog.png
+/usr/share/help/zh_CN/gda-browser/figures/declaredfk.png -> /usr/share/help/C/gda-browser/figures/declaredfk.png
+/usr/share/help/zh_CN/gda-browser/figures/diagram.png -> /usr/share/help/C/gda-browser/figures/diagram.png
+/usr/share/help/zh_CN/gda-browser/figures/ldap-browser-persp.png -> /usr/share/help/C/gda-browser/figures/ldap-browser-persp.png
+/usr/share/help/zh_CN/gda-browser/figures/ldap-classes.png -> /usr/share/help/C/gda-browser/figures/ldap-classes.png
+/usr/share/help/zh_CN/gda-browser/figures/ldap-search.png -> /usr/share/help/C/gda-browser/figures/ldap-search.png
+/usr/share/help/zh_CN/gda-browser/figures/ldap-table-mapping.png -> /usr/share/help/C/gda-browser/figures/ldap-table-mapping.png
+/usr/share/help/zh_CN/gda-browser/figures/mainwin.png -> /usr/share/help/C/gda-browser/figures/mainwin.png
+/usr/share/help/zh_CN/gda-browser/figures/query-exec-persp.png -> /usr/share/help/C/gda-browser/figures/query-exec-persp.png
+/usr/share/help/zh_CN/gda-browser/figures/schema-browser-persp.png -> /usr/share/help/C/gda-browser/figures/schema-browser-persp.png
+/usr/share/help/zh_CN/gda-browser/figures/table-insert-data.png -> /usr/share/help/C/gda-browser/figures/table-insert-data.png
+/usr/share/help/zh_CN/gda-browser/figures/trans-begin.png -> /usr/share/help/C/gda-browser/figures/trans-begin.png
+/usr/share/help/zh_CN/gda-browser/figures/trans-commit.png -> /usr/share/help/C/gda-browser/figures/trans-commit.png
+/usr/share/help/zh_CN/gda-browser/figures/trans-rollback.png -> /usr/share/help/C/gda-browser/figures/trans-rollback.png
+/usr/share/help/zh_CN/gda-browser/figures/virtual-cnc-2.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-2.png
+/usr/share/help/zh_CN/gda-browser/figures/virtual-cnc-4.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-4.png
+/usr/share/help/zh_CN/gda-browser/figures/virtual-cnc-5.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc-5.png
+/usr/share/help/zh_CN/gda-browser/figures/virtual-cnc.png -> /usr/share/help/C/gda-browser/figures/virtual-cnc.png
+/usr/share/help/zh_CN/gda-browser/general-ui.page
+/usr/share/help/zh_CN/gda-browser/index.page
+/usr/share/help/zh_CN/gda-browser/ldap-browser-perspective.page
+/usr/share/help/zh_CN/gda-browser/ldap-connections.page
+/usr/share/help/zh_CN/gda-browser/legal.xml
+/usr/share/help/zh_CN/gda-browser/query-execution-perspective.page
+/usr/share/help/zh_CN/gda-browser/schema-browser-perspective.page
+/usr/share/help/zh_CN/gda-browser/table-insert-data.page
+/usr/share/help/zh_CN/gda-browser/transactions.page
+/usr/share/help/zh_CN/gda-browser/variables.page
+/usr/share/help/zh_CN/gda-browser/virtual-connections.page
+/usr/share/icons/hicolor/16x16/apps/gda-control-center.png
+/usr/share/icons/hicolor/22x22/apps/gda-control-center.png
+/usr/share/icons/hicolor/24x24/apps/gda-control-center.png
+/usr/share/icons/hicolor/256x256/apps/gda-control-center.png
+/usr/share/icons/hicolor/32x32/apps/gda-control-center.png
+/usr/share/icons/hicolor/48x48/apps/gda-control-center.png
+/usr/share/libgda-5.0/bdb_specs_dsn.xml
+/usr/share/libgda-5.0/demo/basic_form.c
+/usr/share/libgda-5.0/demo/cloud.c
+/usr/share/libgda-5.0/demo/combo.c
+/usr/share/libgda-5.0/demo/custom_layout.xml
+/usr/share/libgda-5.0/demo/data_model_dir.c
+/usr/share/libgda-5.0/demo/ddl_queries.c
+/usr/share/libgda-5.0/demo/demo_db.db
+/usr/share/libgda-5.0/demo/form.c
+/usr/share/libgda-5.0/demo/form_data_layout.c
+/usr/share/libgda-5.0/demo/form_model_change.c
+/usr/share/libgda-5.0/demo/form_pict.c
+/usr/share/libgda-5.0/demo/form_rw.c
+/usr/share/libgda-5.0/demo/grid.c
+/usr/share/libgda-5.0/demo/grid_data_layout.c
+/usr/share/libgda-5.0/demo/grid_model_change.c
+/usr/share/libgda-5.0/demo/grid_pict.c
+/usr/share/libgda-5.0/demo/grid_rw.c
+/usr/share/libgda-5.0/demo/linked_grid_form.c
+/usr/share/libgda-5.0/demo/linked_model_param.c
+/usr/share/libgda-5.0/demo/login.c
+/usr/share/libgda-5.0/demo/provider_sel.c
+/usr/share/libgda-5.0/demo/tree.c
+/usr/share/libgda-5.0/dtd/gdaui-layout.dtd
+/usr/share/libgda-5.0/dtd/libgda-array.dtd
+/usr/share/libgda-5.0/dtd/libgda-paramlist.dtd
+/usr/share/libgda-5.0/dtd/libgda-server-operation.dtd
+/usr/share/libgda-5.0/gda_trml2html/__init__.py
+/usr/share/libgda-5.0/gda_trml2html/trml2html.py
+/usr/share/libgda-5.0/gda_trml2html/utils.py
+/usr/share/libgda-5.0/gda_trml2pdf/__init__.py
+/usr/share/libgda-5.0/gda_trml2pdf/color.py
+/usr/share/libgda-5.0/gda_trml2pdf/trml2pdf.py
+/usr/share/libgda-5.0/gda_trml2pdf/utils.py
+/usr/share/libgda-5.0/icons/hicolor/16x16/actions/bookmark-view.png
+/usr/share/libgda-5.0/icons/hicolor/16x16/actions/glade.png
+/usr/share/libgda-5.0/icons/hicolor/16x16/actions/history-view.png
+/usr/share/libgda-5.0/icons/hicolor/22x22/actions/bookmark-view.png
+/usr/share/libgda-5.0/icons/hicolor/22x22/actions/form.png
+/usr/share/libgda-5.0/icons/hicolor/22x22/actions/glade.png
+/usr/share/libgda-5.0/icons/hicolor/22x22/actions/grid.png
+/usr/share/libgda-5.0/icons/hicolor/22x22/actions/history-view.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/bookmark-view.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/glade.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/history-view.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/table-add.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/transaction-begin.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/transaction-commit.png
+/usr/share/libgda-5.0/icons/hicolor/24x24/actions/transaction-rollback.png
+/usr/share/libgda-5.0/icons/hicolor/32x32/actions/bookmark-view.png
+/usr/share/libgda-5.0/icons/hicolor/32x32/actions/glade.png
+/usr/share/libgda-5.0/icons/hicolor/32x32/actions/history-view.png
+/usr/share/libgda-5.0/icons/hicolor/32x32/actions/ldap-entries.png
+/usr/share/libgda-5.0/icons/hicolor/32x32/actions/table-add.png
+/usr/share/libgda-5.0/icons/hicolor/scalable/actions/bookmark-view.svg
+/usr/share/libgda-5.0/icons/hicolor/scalable/actions/glade.svg
+/usr/share/libgda-5.0/icons/hicolor/scalable/actions/history-view.svg
+/usr/share/libgda-5.0/import_encodings.xml
+/usr/share/libgda-5.0/information_schema.xml
+/usr/share/libgda-5.0/language-specs/gda-sql.lang
+/usr/share/libgda-5.0/mysql_specs_add_column.xml
+/usr/share/libgda-5.0/mysql_specs_comment_column.xml
+/usr/share/libgda-5.0/mysql_specs_comment_table.xml
+/usr/share/libgda-5.0/mysql_specs_create_db.xml
+/usr/share/libgda-5.0/mysql_specs_create_index.xml
+/usr/share/libgda-5.0/mysql_specs_create_table.xml
+/usr/share/libgda-5.0/mysql_specs_create_view.xml
+/usr/share/libgda-5.0/mysql_specs_drop_column.xml
+/usr/share/libgda-5.0/mysql_specs_drop_db.xml
+/usr/share/libgda-5.0/mysql_specs_drop_index.xml
+/usr/share/libgda-5.0/mysql_specs_drop_table.xml
+/usr/share/libgda-5.0/mysql_specs_drop_view.xml
+/usr/share/libgda-5.0/mysql_specs_dsn.xml
+/usr/share/libgda-5.0/mysql_specs_rename_table.xml
+/usr/share/libgda-5.0/pixmaps/bin-attachment-16x16.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-action.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-auth-big.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-auth.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-bookmark.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-column-fk.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-column-fknn.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-column-nn.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-column-pk.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-column.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-connected-big.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-connected.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-diagram.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-class-a.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-class-s.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-class-u.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-class-x.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-entry.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-group.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-organization.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-ldap-person.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-menu-ind.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-non-connected-big.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-non-connected.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-query.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-reference.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-schema.png
+/usr/share/libgda-5.0/pixmaps/gda-browser-table.png
+/usr/share/libgda-5.0/pixmaps/gda-browser.png
+/usr/share/libgda-5.0/pixmaps/gda-control-center-newcnc.png
+/usr/share/libgda-5.0/pixmaps/gda-control-center.png
+/usr/share/libgda-5.0/pixmaps/gdaui-generic.png
+/usr/share/libgda-5.0/server_operation.glade
+/usr/share/libgda-5.0/sqlcipher_specs_add_column.xml
+/usr/share/libgda-5.0/sqlcipher_specs_auth.xml
+/usr/share/libgda-5.0/sqlcipher_specs_create_db.xml
+/usr/share/libgda-5.0/sqlcipher_specs_create_index.xml
+/usr/share/libgda-5.0/sqlcipher_specs_create_table.xml
+/usr/share/libgda-5.0/sqlcipher_specs_create_view.xml
+/usr/share/libgda-5.0/sqlcipher_specs_drop_db.xml
+/usr/share/libgda-5.0/sqlcipher_specs_drop_index.xml
+/usr/share/libgda-5.0/sqlcipher_specs_drop_table.xml
+/usr/share/libgda-5.0/sqlcipher_specs_drop_view.xml
+/usr/share/libgda-5.0/sqlcipher_specs_dsn.xml
+/usr/share/libgda-5.0/sqlcipher_specs_rename_table.xml
+/usr/share/libgda-5.0/sqlite_specs_add_column.xml
+/usr/share/libgda-5.0/sqlite_specs_create_db.xml
+/usr/share/libgda-5.0/sqlite_specs_create_index.xml
+/usr/share/libgda-5.0/sqlite_specs_create_table.xml
+/usr/share/libgda-5.0/sqlite_specs_create_view.xml
+/usr/share/libgda-5.0/sqlite_specs_drop_db.xml
+/usr/share/libgda-5.0/sqlite_specs_drop_index.xml
+/usr/share/libgda-5.0/sqlite_specs_drop_table.xml
+/usr/share/libgda-5.0/sqlite_specs_drop_view.xml
+/usr/share/libgda-5.0/sqlite_specs_dsn.xml
+/usr/share/libgda-5.0/sqlite_specs_rename_table.xml
+/usr/share/libgda-5.0/ui/gdaui-entry-number.xml
+/usr/share/libgda-5.0/ui/gdaui-entry-string.xml
+/usr/share/libgda-5.0/web/cnc.js
+/usr/share/libgda-5.0/web/gda-print.css
+/usr/share/libgda-5.0/web/gda.css
+/usr/share/libgda-5.0/web/irb.css
+/usr/share/libgda-5.0/web/irb.js
+/usr/share/libgda-5.0/web/jquery.js
+/usr/share/libgda-5.0/web/md5.js
+/usr/share/libgda-5.0/web/mouseapp_2.js
+/usr/share/libgda-5.0/web/mouseirb_2.js
+/usr/share/locale/ar/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/az/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/bs/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ca/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/cs/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/da/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/de/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/dz/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/el/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/en_CA/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/en_GB/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/eo/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/es/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/eu/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/fa/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/fi/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/fr/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ga/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/gl/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/hr/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/hu/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/id/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/it/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ja/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ko/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/lt/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/lv/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/mk/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ml/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ms/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/nb/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ne/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/nl/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/oc/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/pa/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/pt/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/ru/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/rw/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sk/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sl/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sq/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sr/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/sv/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/tg/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/tr/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/uk/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/vi/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/libgda-5.0.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/libgda-5.0.mo
+/usr/share/man/man1/gda-sql-5.0.1
+/usr/share/man/man1/gda-sql.1 -> /usr/share/man/man1/gda-sql-5.0.1
+/usr/share/pixmaps/gda-browser-5.0.png

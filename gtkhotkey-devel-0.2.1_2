@@ -1,0 +1,23 @@
+/usr/include/gtkhotkey-1.0/gtk-hotkey-error.h
+/usr/include/gtkhotkey-1.0/gtk-hotkey-info.h
+/usr/include/gtkhotkey-1.0/gtk-hotkey-key-file-registry.h
+/usr/include/gtkhotkey-1.0/gtk-hotkey-listener.h
+/usr/include/gtkhotkey-1.0/gtk-hotkey-registry.h
+/usr/include/gtkhotkey-1.0/gtk-hotkey-x11-listener.h
+/usr/include/gtkhotkey-1.0/gtkhotkey.h
+/usr/lib/libgtkhotkey.a
+/usr/lib/libgtkhotkey.so -> /usr/lib/libgtkhotkey.so.1.0.0
+/usr/lib/pkgconfig/gtkhotkey-1.0.pc
+/usr/share/gtk-doc/html/gtkhotkey/GtkHotkeyInfo.html
+/usr/share/gtk-doc/html/gtkhotkey/GtkHotkeyListener.html
+/usr/share/gtk-doc/html/gtkhotkey/GtkHotkeyRegistry.html
+/usr/share/gtk-doc/html/gtkhotkey/ch01.html
+/usr/share/gtk-doc/html/gtkhotkey/gtkhotkey.devhelp
+/usr/share/gtk-doc/html/gtkhotkey/gtkhotkey.devhelp2
+/usr/share/gtk-doc/html/gtkhotkey/home.png
+/usr/share/gtk-doc/html/gtkhotkey/index.html
+/usr/share/gtk-doc/html/gtkhotkey/index.sgml
+/usr/share/gtk-doc/html/gtkhotkey/left.png
+/usr/share/gtk-doc/html/gtkhotkey/right.png
+/usr/share/gtk-doc/html/gtkhotkey/style.css
+/usr/share/gtk-doc/html/gtkhotkey/up.png

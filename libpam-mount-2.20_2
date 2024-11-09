@@ -1,0 +1,3 @@
+/usr/lib/libcryptmount.so.0 -> /usr/lib/libcryptmount.so.0.0.0
+/usr/lib/libcryptmount.so.0.0.0
+/usr/lib/security/pam_mount.so

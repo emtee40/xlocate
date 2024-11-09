@@ -1,0 +1,4 @@
+/usr/include/chicken/chicken-config.h
+/usr/include/chicken/chicken.h
+/usr/lib/libchicken.a
+/usr/lib/libchicken.so -> /usr/lib/libchicken.so.11

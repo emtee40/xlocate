@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/bcc-0.31.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/bcc-0.31.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/bcc-0.31.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/bcc-0.31.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/bcc/__init__.py
+/usr/lib/python3.12/site-packages/bcc/containers.py
+/usr/lib/python3.12/site-packages/bcc/disassembler.py
+/usr/lib/python3.12/site-packages/bcc/libbcc.py
+/usr/lib/python3.12/site-packages/bcc/perf.py
+/usr/lib/python3.12/site-packages/bcc/syscall.py
+/usr/lib/python3.12/site-packages/bcc/table.py
+/usr/lib/python3.12/site-packages/bcc/tcp.py
+/usr/lib/python3.12/site-packages/bcc/usdt.py
+/usr/lib/python3.12/site-packages/bcc/utils.py
+/usr/lib/python3.12/site-packages/bcc/version.py

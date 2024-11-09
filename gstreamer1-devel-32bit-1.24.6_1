@@ -1,0 +1,10 @@
+/usr/lib32/libgstbase-1.0.so -> /usr/lib32/libgstbase-1.0.so.0
+/usr/lib32/libgstcheck-1.0.so -> /usr/lib32/libgstcheck-1.0.so.0
+/usr/lib32/libgstcontroller-1.0.so -> /usr/lib32/libgstcontroller-1.0.so.0
+/usr/lib32/libgstnet-1.0.so -> /usr/lib32/libgstnet-1.0.so.0
+/usr/lib32/libgstreamer-1.0.so -> /usr/lib32/libgstreamer-1.0.so.0
+/usr/lib32/pkgconfig/gstreamer-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-base-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-check-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-controller-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-net-1.0.pc

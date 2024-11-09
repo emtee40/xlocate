@@ -1,0 +1,12 @@
+/usr/include/KF6/BalooWidgets/Baloo/FileMetaDataConfigWidget
+/usr/include/KF6/BalooWidgets/Baloo/FileMetaDataWidget
+/usr/include/KF6/BalooWidgets/Baloo/TagWidget
+/usr/include/KF6/BalooWidgets/baloo/filemetadataconfigwidget.h
+/usr/include/KF6/BalooWidgets/baloo/filemetadatawidget.h
+/usr/include/KF6/BalooWidgets/baloo/tagwidget.h
+/usr/include/KF6/BalooWidgets/baloo/widgets_export.h
+/usr/lib/cmake/KF6BalooWidgets/KF6BalooWidgetsConfig.cmake
+/usr/lib/cmake/KF6BalooWidgets/KF6BalooWidgetsConfigVersion.cmake
+/usr/lib/cmake/KF6BalooWidgets/KF6BalooWidgetsTargets-none.cmake
+/usr/lib/cmake/KF6BalooWidgets/KF6BalooWidgetsTargets.cmake
+/usr/lib/libKF6BalooWidgets.so -> /usr/lib/libKF6BalooWidgets.so.6

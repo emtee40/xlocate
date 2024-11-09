@@ -1,0 +1,7 @@
+/etc/chromium/native-messaging-hosts/com.github.browserpass.native.json
+/etc/chromium/policies/managed/com.github.browserpass.native.json
+/etc/opt/chrome/native-messaging-hosts/com.github.browserpass.native.json
+/etc/opt/chrome/policies/managed/com.github.browserpass.native.json
+/usr/bin/browserpass-native
+/usr/lib/mozilla/native-messaging-hosts/com.github.browserpass.native.json
+/usr/share/licenses/browserpass/LICENSE

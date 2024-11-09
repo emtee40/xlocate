@@ -1,0 +1,14 @@
+/usr/bin/sdpscanner-qt5 -> /usr/lib/qt5/bin/sdpscanner
+/usr/lib/libQt5Bluetooth.so.5 -> /usr/lib/libQt5Bluetooth.so.5.15.11
+/usr/lib/libQt5Bluetooth.so.5.15 -> /usr/lib/libQt5Bluetooth.so.5.15.11
+/usr/lib/libQt5Bluetooth.so.5.15.11
+/usr/lib/libQt5Nfc.so.5 -> /usr/lib/libQt5Nfc.so.5.15.11
+/usr/lib/libQt5Nfc.so.5.15 -> /usr/lib/libQt5Nfc.so.5.15.11
+/usr/lib/libQt5Nfc.so.5.15.11
+/usr/lib/qt5/bin/sdpscanner
+/usr/lib/qt5/qml/QtBluetooth/libdeclarative_bluetooth.so
+/usr/lib/qt5/qml/QtBluetooth/plugins.qmltypes
+/usr/lib/qt5/qml/QtBluetooth/qmldir
+/usr/lib/qt5/qml/QtNfc/libdeclarative_nfc.so
+/usr/lib/qt5/qml/QtNfc/plugins.qmltypes
+/usr/lib/qt5/qml/QtNfc/qmldir

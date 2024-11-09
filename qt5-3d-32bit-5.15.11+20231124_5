@@ -1,0 +1,51 @@
+/usr/lib32/libQt53DAnimation.so.5 -> /usr/lib32/libQt53DAnimation.so.5.15.11
+/usr/lib32/libQt53DAnimation.so.5.15 -> /usr/lib32/libQt53DAnimation.so.5.15.11
+/usr/lib32/libQt53DAnimation.so.5.15.11
+/usr/lib32/libQt53DCore.so.5 -> /usr/lib32/libQt53DCore.so.5.15.11
+/usr/lib32/libQt53DCore.so.5.15 -> /usr/lib32/libQt53DCore.so.5.15.11
+/usr/lib32/libQt53DCore.so.5.15.11
+/usr/lib32/libQt53DExtras.so.5 -> /usr/lib32/libQt53DExtras.so.5.15.11
+/usr/lib32/libQt53DExtras.so.5.15 -> /usr/lib32/libQt53DExtras.so.5.15.11
+/usr/lib32/libQt53DExtras.so.5.15.11
+/usr/lib32/libQt53DInput.so.5 -> /usr/lib32/libQt53DInput.so.5.15.11
+/usr/lib32/libQt53DInput.so.5.15 -> /usr/lib32/libQt53DInput.so.5.15.11
+/usr/lib32/libQt53DInput.so.5.15.11
+/usr/lib32/libQt53DLogic.so.5 -> /usr/lib32/libQt53DLogic.so.5.15.11
+/usr/lib32/libQt53DLogic.so.5.15 -> /usr/lib32/libQt53DLogic.so.5.15.11
+/usr/lib32/libQt53DLogic.so.5.15.11
+/usr/lib32/libQt53DQuick.so.5 -> /usr/lib32/libQt53DQuick.so.5.15.11
+/usr/lib32/libQt53DQuick.so.5.15 -> /usr/lib32/libQt53DQuick.so.5.15.11
+/usr/lib32/libQt53DQuick.so.5.15.11
+/usr/lib32/libQt53DQuickAnimation.so.5 -> /usr/lib32/libQt53DQuickAnimation.so.5.15.11
+/usr/lib32/libQt53DQuickAnimation.so.5.15 -> /usr/lib32/libQt53DQuickAnimation.so.5.15.11
+/usr/lib32/libQt53DQuickAnimation.so.5.15.11
+/usr/lib32/libQt53DQuickExtras.so.5 -> /usr/lib32/libQt53DQuickExtras.so.5.15.11
+/usr/lib32/libQt53DQuickExtras.so.5.15 -> /usr/lib32/libQt53DQuickExtras.so.5.15.11
+/usr/lib32/libQt53DQuickExtras.so.5.15.11
+/usr/lib32/libQt53DQuickInput.so.5 -> /usr/lib32/libQt53DQuickInput.so.5.15.11
+/usr/lib32/libQt53DQuickInput.so.5.15 -> /usr/lib32/libQt53DQuickInput.so.5.15.11
+/usr/lib32/libQt53DQuickInput.so.5.15.11
+/usr/lib32/libQt53DQuickRender.so.5 -> /usr/lib32/libQt53DQuickRender.so.5.15.11
+/usr/lib32/libQt53DQuickRender.so.5.15 -> /usr/lib32/libQt53DQuickRender.so.5.15.11
+/usr/lib32/libQt53DQuickRender.so.5.15.11
+/usr/lib32/libQt53DQuickScene2D.so.5 -> /usr/lib32/libQt53DQuickScene2D.so.5.15.11
+/usr/lib32/libQt53DQuickScene2D.so.5.15 -> /usr/lib32/libQt53DQuickScene2D.so.5.15.11
+/usr/lib32/libQt53DQuickScene2D.so.5.15.11
+/usr/lib32/libQt53DRender.so.5 -> /usr/lib32/libQt53DRender.so.5.15.11
+/usr/lib32/libQt53DRender.so.5.15 -> /usr/lib32/libQt53DRender.so.5.15.11
+/usr/lib32/libQt53DRender.so.5.15.11
+/usr/lib32/qt5/plugins/geometryloaders/libdefaultgeometryloader.so
+/usr/lib32/qt5/plugins/geometryloaders/libgltfgeometryloader.so
+/usr/lib32/qt5/plugins/renderers/libopenglrenderer.so
+/usr/lib32/qt5/plugins/renderplugins/libscene2d.so
+/usr/lib32/qt5/plugins/sceneparsers/libassimpsceneimport.so
+/usr/lib32/qt5/plugins/sceneparsers/libgltfsceneexport.so
+/usr/lib32/qt5/plugins/sceneparsers/libgltfsceneimport.so
+/usr/lib32/qt5/qml/Qt3D/Animation/libquick3danimationplugin.so
+/usr/lib32/qt5/qml/Qt3D/Core/libquick3dcoreplugin.so
+/usr/lib32/qt5/qml/Qt3D/Extras/libquick3dextrasplugin.so
+/usr/lib32/qt5/qml/Qt3D/Input/libquick3dinputplugin.so
+/usr/lib32/qt5/qml/Qt3D/Logic/libquick3dlogicplugin.so
+/usr/lib32/qt5/qml/Qt3D/Render/libquick3drenderplugin.so
+/usr/lib32/qt5/qml/QtQuick/Scene2D/libqtquickscene2dplugin.so
+/usr/lib32/qt5/qml/QtQuick/Scene3D/libqtquickscene3dplugin.so

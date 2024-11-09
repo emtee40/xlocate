@@ -1,0 +1,12 @@
+/usr/include/libgxps/gxps-core-properties.h
+/usr/include/libgxps/gxps-document-structure.h
+/usr/include/libgxps/gxps-document.h
+/usr/include/libgxps/gxps-error.h
+/usr/include/libgxps/gxps-file.h
+/usr/include/libgxps/gxps-links.h
+/usr/include/libgxps/gxps-page.h
+/usr/include/libgxps/gxps-version.h
+/usr/include/libgxps/gxps.h
+/usr/lib/libgxps.so -> /usr/lib/libgxps.so.2
+/usr/lib/pkgconfig/libgxps.pc
+/usr/share/gir-1.0/GXPS-0.1.gir

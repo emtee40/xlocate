@@ -1,0 +1,6 @@
+/usr/src/tp_smapi-0.44/Makefile
+/usr/src/tp_smapi-0.44/dkms.conf
+/usr/src/tp_smapi-0.44/hdaps.c
+/usr/src/tp_smapi-0.44/thinkpad_ec.c
+/usr/src/tp_smapi-0.44/thinkpad_ec.h
+/usr/src/tp_smapi-0.44/tp_smapi.c

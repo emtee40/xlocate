@@ -1,0 +1,23 @@
+/usr/include/KF6/KTextWidgets/KFind
+/usr/include/KF6/KTextWidgets/KFindDialog
+/usr/include/KF6/KTextWidgets/KPluralHandlingSpinBox
+/usr/include/KF6/KTextWidgets/KReplace
+/usr/include/KF6/KTextWidgets/KReplaceDialog
+/usr/include/KF6/KTextWidgets/KRichTextEdit
+/usr/include/KF6/KTextWidgets/KRichTextWidget
+/usr/include/KF6/KTextWidgets/KTextEdit
+/usr/include/KF6/KTextWidgets/kfind.h
+/usr/include/KF6/KTextWidgets/kfinddialog.h
+/usr/include/KF6/KTextWidgets/kpluralhandlingspinbox.h
+/usr/include/KF6/KTextWidgets/kreplace.h
+/usr/include/KF6/KTextWidgets/kreplacedialog.h
+/usr/include/KF6/KTextWidgets/krichtextedit.h
+/usr/include/KF6/KTextWidgets/krichtextwidget.h
+/usr/include/KF6/KTextWidgets/ktextedit.h
+/usr/include/KF6/KTextWidgets/ktextwidgets_export.h
+/usr/include/KF6/KTextWidgets/ktextwidgets_version.h
+/usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsConfig.cmake
+/usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsConfigVersion.cmake
+/usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsTargets-none.cmake
+/usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsTargets.cmake
+/usr/lib/libKF6TextWidgets.so -> /usr/lib/libKF6TextWidgets.so.6

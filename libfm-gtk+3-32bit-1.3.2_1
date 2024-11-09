@@ -1,0 +1,6 @@
+/usr/lib32/libfm-gtk3.so.4 -> /usr/lib32/libfm-gtk3.so.4.1.3
+/usr/lib32/libfm-gtk3.so.4.1.3
+/usr/lib32/libfm/modules/gtk-fileprop-x-desktop.so
+/usr/lib32/libfm/modules/gtk-fileprop-x-shortcut.so
+/usr/lib32/libfm/modules/gtk-menu-actions.so
+/usr/lib32/libfm/modules/gtk-menu-trash.so

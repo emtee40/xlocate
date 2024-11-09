@@ -1,0 +1,5 @@
+/usr/include/rime_api.h
+/usr/include/rime_levers_api.h
+/usr/lib/librime.so -> /usr/lib/librime.so.1
+/usr/lib/pkgconfig/rime.pc
+/usr/share/cmake/rime/RimeConfig.cmake

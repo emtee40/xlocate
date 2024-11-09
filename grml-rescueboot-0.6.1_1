@@ -1,0 +1,6 @@
+/etc/default/grml-rescueboot
+/etc/grub.d/42_grml
+/usr/bin/update-grml-rescueboot
+/usr/share/doc/grml-rescueboot/README
+/usr/share/doc/grml-rescueboot/README.voidlinux
+/usr/share/man/man8/update-grml-rescueboot.8

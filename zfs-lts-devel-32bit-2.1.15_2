@@ -1,0 +1,15 @@
+/usr/lib32/libnvpair.a
+/usr/lib32/libnvpair.so -> /usr/lib32/libnvpair.so.3.0.0
+/usr/lib32/libuutil.a
+/usr/lib32/libuutil.so -> /usr/lib32/libuutil.so.3.0.0
+/usr/lib32/libzfs.a
+/usr/lib32/libzfs.so -> /usr/lib32/libzfs.so.4.1.0
+/usr/lib32/libzfs_core.a
+/usr/lib32/libzfs_core.so -> /usr/lib32/libzfs_core.so.3.0.0
+/usr/lib32/libzfsbootenv.a
+/usr/lib32/libzfsbootenv.so -> /usr/lib32/libzfsbootenv.so.1.0.0
+/usr/lib32/libzpool.a
+/usr/lib32/libzpool.so -> /usr/lib32/libzpool.so.5.0.0
+/usr/lib32/pkgconfig/libzfs.pc
+/usr/lib32/pkgconfig/libzfs_core.pc
+/usr/lib32/pkgconfig/libzfsbootenv.pc

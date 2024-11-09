@@ -1,0 +1,11 @@
+/usr/lib32/libGenericCodeGen.a
+/usr/lib32/libMachineIndependent.a
+/usr/lib32/libOSDependent.a
+/usr/lib32/libSPIRV.a
+/usr/lib32/libSPIRV.so -> /usr/lib32/libSPIRV.so.15
+/usr/lib32/libSPVRemapper.a
+/usr/lib32/libSPVRemapper.so -> /usr/lib32/libSPVRemapper.so.15
+/usr/lib32/libglslang-default-resource-limits.a
+/usr/lib32/libglslang-default-resource-limits.so -> /usr/lib32/libglslang-default-resource-limits.so.15
+/usr/lib32/libglslang.a
+/usr/lib32/libglslang.so -> /usr/lib32/libglslang.so.15

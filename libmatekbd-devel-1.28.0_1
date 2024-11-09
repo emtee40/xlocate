@@ -1,0 +1,12 @@
+/usr/include/libmatekbd/matekbd-desktop-config.h
+/usr/include/libmatekbd/matekbd-indicator-config.h
+/usr/include/libmatekbd/matekbd-indicator.h
+/usr/include/libmatekbd/matekbd-keyboard-config.h
+/usr/include/libmatekbd/matekbd-keyboard-drawing.h
+/usr/include/libmatekbd/matekbd-status.h
+/usr/include/libmatekbd/matekbd-util.h
+/usr/lib/libmatekbd.so -> /usr/lib/libmatekbd.so.6.0.2
+/usr/lib/libmatekbdui.so -> /usr/lib/libmatekbdui.so.6.0.2
+/usr/lib/pkgconfig/libmatekbd.pc
+/usr/lib/pkgconfig/libmatekbdui.pc
+/usr/share/gir-1.0/Matekbd-1.0.gir

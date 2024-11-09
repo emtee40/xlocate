@@ -1,0 +1,1374 @@
+/usr/bin/idea -> /usr/lib/intellij-idea/bin/idea.sh
+/usr/lib/intellij-idea/bin/appletviewer.policy
+/usr/lib/intellij-idea/bin/brokenPlugins.db
+/usr/lib/intellij-idea/bin/format.sh
+/usr/lib/intellij-idea/bin/fsnotifier
+/usr/lib/intellij-idea/bin/idea
+/usr/lib/intellij-idea/bin/idea.png
+/usr/lib/intellij-idea/bin/idea.properties
+/usr/lib/intellij-idea/bin/idea.sh
+/usr/lib/intellij-idea/bin/idea.svg
+/usr/lib/intellij-idea/bin/idea64.vmoptions
+/usr/lib/intellij-idea/bin/inspect.sh
+/usr/lib/intellij-idea/bin/jetbrains_client.sh
+/usr/lib/intellij-idea/bin/jetbrains_client64.vmoptions
+/usr/lib/intellij-idea/bin/libdbm.so
+/usr/lib/intellij-idea/bin/ltedit.sh
+/usr/lib/intellij-idea/bin/repair
+/usr/lib/intellij-idea/bin/restarter
+/usr/lib/intellij-idea/build.txt
+/usr/lib/intellij-idea/jbr/bin/java
+/usr/lib/intellij-idea/jbr/bin/javac
+/usr/lib/intellij-idea/jbr/bin/javadoc
+/usr/lib/intellij-idea/jbr/bin/jcmd
+/usr/lib/intellij-idea/jbr/bin/jdb
+/usr/lib/intellij-idea/jbr/bin/jfr
+/usr/lib/intellij-idea/jbr/bin/jhsdb
+/usr/lib/intellij-idea/jbr/bin/jinfo
+/usr/lib/intellij-idea/jbr/bin/jmap
+/usr/lib/intellij-idea/jbr/bin/jps
+/usr/lib/intellij-idea/jbr/bin/jrunscript
+/usr/lib/intellij-idea/jbr/bin/jstack
+/usr/lib/intellij-idea/jbr/bin/jstat
+/usr/lib/intellij-idea/jbr/bin/jwebserver
+/usr/lib/intellij-idea/jbr/bin/keytool
+/usr/lib/intellij-idea/jbr/bin/rmiregistry
+/usr/lib/intellij-idea/jbr/bin/serialver
+/usr/lib/intellij-idea/jbr/conf/jaxp.properties
+/usr/lib/intellij-idea/jbr/conf/logging.properties
+/usr/lib/intellij-idea/jbr/conf/management/jmxremote.access
+/usr/lib/intellij-idea/jbr/conf/management/jmxremote.password.template
+/usr/lib/intellij-idea/jbr/conf/management/management.properties
+/usr/lib/intellij-idea/jbr/conf/net.properties
+/usr/lib/intellij-idea/jbr/conf/sdp/sdp.conf.template
+/usr/lib/intellij-idea/jbr/conf/security/java.policy
+/usr/lib/intellij-idea/jbr/conf/security/java.security
+/usr/lib/intellij-idea/jbr/conf/security/policy/README.txt
+/usr/lib/intellij-idea/jbr/conf/security/policy/limited/default_US_export.policy
+/usr/lib/intellij-idea/jbr/conf/security/policy/limited/default_local.policy
+/usr/lib/intellij-idea/jbr/conf/security/policy/limited/exempt_local.policy
+/usr/lib/intellij-idea/jbr/conf/security/policy/unlimited/default_US_export.policy
+/usr/lib/intellij-idea/jbr/conf/security/policy/unlimited/default_local.policy
+/usr/lib/intellij-idea/jbr/conf/sound.properties
+/usr/lib/intellij-idea/jbr/include/classfile_constants.h
+/usr/lib/intellij-idea/jbr/include/jawt.h
+/usr/lib/intellij-idea/jbr/include/jdwpTransport.h
+/usr/lib/intellij-idea/jbr/include/jni.h
+/usr/lib/intellij-idea/jbr/include/jvmti.h
+/usr/lib/intellij-idea/jbr/include/jvmticmlr.h
+/usr/lib/intellij-idea/jbr/include/linux/jawt_md.h
+/usr/lib/intellij-idea/jbr/include/linux/jni_md.h
+/usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.base/aes.md
+/usr/lib/intellij-idea/jbr/legal/java.base/asm.md
+/usr/lib/intellij-idea/jbr/legal/java.base/c-libutl.md
+/usr/lib/intellij-idea/jbr/legal/java.base/cldr.md
+/usr/lib/intellij-idea/jbr/legal/java.base/icu.md
+/usr/lib/intellij-idea/jbr/legal/java.base/public_suffix.md
+/usr/lib/intellij-idea/jbr/legal/java.base/unicode.md
+/usr/lib/intellij-idea/jbr/legal/java.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.compiler/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.datatransfer/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.datatransfer/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.desktop/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.desktop/colorimaging.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/giflib.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/harfbuzz.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/jpeg.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/lcms.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/libpng.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/mesa3d.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/pipewire.md
+/usr/lib/intellij-idea/jbr/legal/java.desktop/xwd.md
+/usr/lib/intellij-idea/jbr/legal/java.instrument/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.instrument/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.instrument/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.logging/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.logging/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.logging/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.management.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.management.rmi/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.management/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.management/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.naming/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.naming/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.naming/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.net.http/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.net.http/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.net.http/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.prefs/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.prefs/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.prefs/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.rmi/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.scripting/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.scripting/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.scripting/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.se/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.se/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.se/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.security.jgss/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.security.sasl/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.security.sasl/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.smartcardio/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.smartcardio/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.smartcardio/pcsclite.md
+/usr/lib/intellij-idea/jbr/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.sql.rowset/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.sql.rowset/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.sql/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.sql/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.sql/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.transaction.xa/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.transaction.xa/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.xml.crypto/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.xml.crypto/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.xml.crypto/santuario.md
+/usr/lib/intellij-idea/jbr/legal/java.xml/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/java.xml/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/java.xml/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/java.xml/bcel.md
+/usr/lib/intellij-idea/jbr/legal/java.xml/dom.md
+/usr/lib/intellij-idea/jbr/legal/java.xml/jcup.md
+/usr/lib/intellij-idea/jbr/legal/java.xml/xalan.md
+/usr/lib/intellij-idea/jbr/legal/java.xml/xerces.md
+/usr/lib/intellij-idea/jbr/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.accessibility/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.accessibility/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.attach/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.attach/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.attach/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.charsets/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.charsets/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.compiler/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.cryptoki/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.cryptoki/pkcs11wrapper.md
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.crypto.ec/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.dynalink/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.dynalink/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.dynalink/dynalink.md
+/usr/lib/intellij-idea/jbr/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.hotspot.agent/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.httpserver/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.httpserver/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.ed/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.jvmstat/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.le/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.le/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.le/jline.md
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.opt/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.opt/jopt-simple.md
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.internal.vm.ci/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.javadoc/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.javadoc/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.javadoc/jquery.md
+/usr/lib/intellij-idea/jbr/legal/jdk.javadoc/jqueryUI.md
+/usr/lib/intellij-idea/jbr/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.jcmd/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.jcmd/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.jdi/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.jdi/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.jdwp.agent/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.jfr/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.jsobject/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.jsobject/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.localedata/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.localedata/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.localedata/cldr.md -> /usr/lib/intellij-idea/jbr/legal/java.base/cldr.md
+/usr/lib/intellij-idea/jbr/legal/jdk.localedata/thaidict.md
+/usr/lib/intellij-idea/jbr/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.management.agent/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.management.agent/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.management.jfr/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.management/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.management/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.dns/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.naming.rmi/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.net/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.net/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.net/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.sctp/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.sctp/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.security.auth/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.security.auth/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.security.jgss/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported.desktop/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.unsupported/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.xml.dom/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO -> /usr/lib/intellij-idea/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/intellij-idea/jbr/legal/jdk.zipfs/ASSEMBLY_EXCEPTION -> /usr/lib/intellij-idea/jbr/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/intellij-idea/jbr/legal/jdk.zipfs/LICENSE -> /usr/lib/intellij-idea/jbr/legal/java.base/LICENSE
+/usr/lib/intellij-idea/jbr/lib/cef_server
+/usr/lib/intellij-idea/jbr/lib/chrome-sandbox
+/usr/lib/intellij-idea/jbr/lib/chrome_100_percent.pak
+/usr/lib/intellij-idea/jbr/lib/chrome_200_percent.pak
+/usr/lib/intellij-idea/jbr/lib/classlist
+/usr/lib/intellij-idea/jbr/lib/ct.sym
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSans-Bold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSans.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSansMono.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSansMonoDotted.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSansMonoSlashed.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSerif-Bold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSerif-BoldItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSerif-Italic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/DroidSerif-Regular.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/FiraCode-Bold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/FiraCode-Light.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/FiraCode-Medium.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/FiraCode-Regular.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/FiraCode-Retina.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/Inconsolata.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/Inter-Italic.otf
+/usr/lib/intellij-idea/jbr/lib/fonts/Inter-Regular.otf
+/usr/lib/intellij-idea/jbr/lib/fonts/Inter-SemiBold.otf
+/usr/lib/intellij-idea/jbr/lib/fonts/Inter-SemiBoldItalic.otf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Bold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-BoldItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-ExtraBold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-ExtraBoldItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-ExtraLight.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-ExtraLightItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Italic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Light.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-LightItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Medium.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-MediumItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Regular.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-SemiBold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-SemiBoldItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-Thin.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/JetBrainsMono-ThinItalic.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/Roboto-Light.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/Roboto-Thin.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/SourceCodePro-Bold.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/SourceCodePro-BoldIt.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/SourceCodePro-It.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/SourceCodePro-Regular.ttf
+/usr/lib/intellij-idea/jbr/lib/fonts/font.conf
+/usr/lib/intellij-idea/jbr/lib/fonts/fonts.dir
+/usr/lib/intellij-idea/jbr/lib/icudtl.dat
+/usr/lib/intellij-idea/jbr/lib/jcef_helper
+/usr/lib/intellij-idea/jbr/lib/jexec
+/usr/lib/intellij-idea/jbr/lib/jfr/default.jfc
+/usr/lib/intellij-idea/jbr/lib/jfr/profile.jfc
+/usr/lib/intellij-idea/jbr/lib/jrt-fs.jar
+/usr/lib/intellij-idea/jbr/lib/jspawnhelper
+/usr/lib/intellij-idea/jbr/lib/jvm.cfg
+/usr/lib/intellij-idea/jbr/lib/libEGL.so
+/usr/lib/intellij-idea/jbr/lib/libGLESv2.so
+/usr/lib/intellij-idea/jbr/lib/libattach.so
+/usr/lib/intellij-idea/jbr/lib/libawt.so
+/usr/lib/intellij-idea/jbr/lib/libawt_headless.so
+/usr/lib/intellij-idea/jbr/lib/libawt_wlawt.so
+/usr/lib/intellij-idea/jbr/lib/libawt_xawt.so
+/usr/lib/intellij-idea/jbr/lib/libcef.so
+/usr/lib/intellij-idea/jbr/lib/libdt_socket.so
+/usr/lib/intellij-idea/jbr/lib/libextnet.so
+/usr/lib/intellij-idea/jbr/lib/libfontmanager.so
+/usr/lib/intellij-idea/jbr/lib/libfontmanager_xawt.so
+/usr/lib/intellij-idea/jbr/lib/libgluegen_rt.so
+/usr/lib/intellij-idea/jbr/lib/libinstrument.so
+/usr/lib/intellij-idea/jbr/lib/libj2gss.so
+/usr/lib/intellij-idea/jbr/lib/libj2pcsc.so
+/usr/lib/intellij-idea/jbr/lib/libj2pkcs11.so
+/usr/lib/intellij-idea/jbr/lib/libjaas.so
+/usr/lib/intellij-idea/jbr/lib/libjava.so
+/usr/lib/intellij-idea/jbr/lib/libjavajpeg.so
+/usr/lib/intellij-idea/jbr/lib/libjawt.so
+/usr/lib/intellij-idea/jbr/lib/libjcef.so
+/usr/lib/intellij-idea/jbr/lib/libjdwp.so
+/usr/lib/intellij-idea/jbr/lib/libjimage.so
+/usr/lib/intellij-idea/jbr/lib/libjli.so
+/usr/lib/intellij-idea/jbr/lib/libjogl_desktop.so
+/usr/lib/intellij-idea/jbr/lib/libjogl_mobile.so
+/usr/lib/intellij-idea/jbr/lib/libjsig.so
+/usr/lib/intellij-idea/jbr/lib/libjsound.so
+/usr/lib/intellij-idea/jbr/lib/liblcms.so
+/usr/lib/intellij-idea/jbr/lib/lible.so
+/usr/lib/intellij-idea/jbr/lib/libmanagement.so
+/usr/lib/intellij-idea/jbr/lib/libmanagement_agent.so
+/usr/lib/intellij-idea/jbr/lib/libmanagement_ext.so
+/usr/lib/intellij-idea/jbr/lib/libmlib_image.so
+/usr/lib/intellij-idea/jbr/lib/libnativewindow_awt.so
+/usr/lib/intellij-idea/jbr/lib/libnativewindow_drm.so
+/usr/lib/intellij-idea/jbr/lib/libnativewindow_x11.so
+/usr/lib/intellij-idea/jbr/lib/libnet.so
+/usr/lib/intellij-idea/jbr/lib/libnewt_drm.so
+/usr/lib/intellij-idea/jbr/lib/libnewt_head.so
+/usr/lib/intellij-idea/jbr/lib/libnio.so
+/usr/lib/intellij-idea/jbr/lib/libprefs.so
+/usr/lib/intellij-idea/jbr/lib/librmi.so
+/usr/lib/intellij-idea/jbr/lib/libsaproc.so
+/usr/lib/intellij-idea/jbr/lib/libsctp.so
+/usr/lib/intellij-idea/jbr/lib/libshared_mem_helper.so
+/usr/lib/intellij-idea/jbr/lib/libsplashscreen.so
+/usr/lib/intellij-idea/jbr/lib/libsyslookup.so
+/usr/lib/intellij-idea/jbr/lib/libverify.so
+/usr/lib/intellij-idea/jbr/lib/libvk_swiftshader.so
+/usr/lib/intellij-idea/jbr/lib/libvulkan.so.1
+/usr/lib/intellij-idea/jbr/lib/libwlsplashscreen.so
+/usr/lib/intellij-idea/jbr/lib/libzip.so
+/usr/lib/intellij-idea/jbr/lib/locales/af.pak
+/usr/lib/intellij-idea/jbr/lib/locales/am.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ar.pak
+/usr/lib/intellij-idea/jbr/lib/locales/bg.pak
+/usr/lib/intellij-idea/jbr/lib/locales/bn.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ca.pak
+/usr/lib/intellij-idea/jbr/lib/locales/cs.pak
+/usr/lib/intellij-idea/jbr/lib/locales/da.pak
+/usr/lib/intellij-idea/jbr/lib/locales/de.pak
+/usr/lib/intellij-idea/jbr/lib/locales/el.pak
+/usr/lib/intellij-idea/jbr/lib/locales/en-GB.pak
+/usr/lib/intellij-idea/jbr/lib/locales/en-US.pak
+/usr/lib/intellij-idea/jbr/lib/locales/es-419.pak
+/usr/lib/intellij-idea/jbr/lib/locales/es.pak
+/usr/lib/intellij-idea/jbr/lib/locales/et.pak
+/usr/lib/intellij-idea/jbr/lib/locales/fa.pak
+/usr/lib/intellij-idea/jbr/lib/locales/fi.pak
+/usr/lib/intellij-idea/jbr/lib/locales/fil.pak
+/usr/lib/intellij-idea/jbr/lib/locales/fr.pak
+/usr/lib/intellij-idea/jbr/lib/locales/gu.pak
+/usr/lib/intellij-idea/jbr/lib/locales/he.pak
+/usr/lib/intellij-idea/jbr/lib/locales/hi.pak
+/usr/lib/intellij-idea/jbr/lib/locales/hr.pak
+/usr/lib/intellij-idea/jbr/lib/locales/hu.pak
+/usr/lib/intellij-idea/jbr/lib/locales/id.pak
+/usr/lib/intellij-idea/jbr/lib/locales/it.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ja.pak
+/usr/lib/intellij-idea/jbr/lib/locales/kn.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ko.pak
+/usr/lib/intellij-idea/jbr/lib/locales/lt.pak
+/usr/lib/intellij-idea/jbr/lib/locales/lv.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ml.pak
+/usr/lib/intellij-idea/jbr/lib/locales/mr.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ms.pak
+/usr/lib/intellij-idea/jbr/lib/locales/nb.pak
+/usr/lib/intellij-idea/jbr/lib/locales/nl.pak
+/usr/lib/intellij-idea/jbr/lib/locales/pl.pak
+/usr/lib/intellij-idea/jbr/lib/locales/pt-BR.pak
+/usr/lib/intellij-idea/jbr/lib/locales/pt-PT.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ro.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ru.pak
+/usr/lib/intellij-idea/jbr/lib/locales/sk.pak
+/usr/lib/intellij-idea/jbr/lib/locales/sl.pak
+/usr/lib/intellij-idea/jbr/lib/locales/sr.pak
+/usr/lib/intellij-idea/jbr/lib/locales/sv.pak
+/usr/lib/intellij-idea/jbr/lib/locales/sw.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ta.pak
+/usr/lib/intellij-idea/jbr/lib/locales/te.pak
+/usr/lib/intellij-idea/jbr/lib/locales/th.pak
+/usr/lib/intellij-idea/jbr/lib/locales/tr.pak
+/usr/lib/intellij-idea/jbr/lib/locales/uk.pak
+/usr/lib/intellij-idea/jbr/lib/locales/ur.pak
+/usr/lib/intellij-idea/jbr/lib/locales/vi.pak
+/usr/lib/intellij-idea/jbr/lib/locales/zh-CN.pak
+/usr/lib/intellij-idea/jbr/lib/locales/zh-TW.pak
+/usr/lib/intellij-idea/jbr/lib/modules
+/usr/lib/intellij-idea/jbr/lib/psfont.properties.ja
+/usr/lib/intellij-idea/jbr/lib/psfontj2d.properties
+/usr/lib/intellij-idea/jbr/lib/resources.pak
+/usr/lib/intellij-idea/jbr/lib/security/blocked.certs
+/usr/lib/intellij-idea/jbr/lib/security/cacerts
+/usr/lib/intellij-idea/jbr/lib/security/default.policy
+/usr/lib/intellij-idea/jbr/lib/security/public_suffix_list.dat
+/usr/lib/intellij-idea/jbr/lib/server/libjsig.so
+/usr/lib/intellij-idea/jbr/lib/server/libjvm.so
+/usr/lib/intellij-idea/jbr/lib/snapshot_blob.bin
+/usr/lib/intellij-idea/jbr/lib/tzdb.dat
+/usr/lib/intellij-idea/jbr/lib/v8_context_snapshot.bin
+/usr/lib/intellij-idea/jbr/lib/vk_swiftshader_icd.json
+/usr/lib/intellij-idea/jbr/release
+/usr/lib/intellij-idea/lib/annotations.jar
+/usr/lib/intellij-idea/lib/app-client.jar
+/usr/lib/intellij-idea/lib/app.jar
+/usr/lib/intellij-idea/lib/bouncy-castle.jar
+/usr/lib/intellij-idea/lib/build-marker-IC-242.22855.74
+/usr/lib/intellij-idea/lib/cds/classesLogAgent.jar
+/usr/lib/intellij-idea/lib/external-system-rt.jar
+/usr/lib/intellij-idea/lib/externalProcess-rt.jar
+/usr/lib/intellij-idea/lib/forms_rt.jar
+/usr/lib/intellij-idea/lib/frontend/frontend-customization.jar
+/usr/lib/intellij-idea/lib/frontend/frontend.jar
+/usr/lib/intellij-idea/lib/groovy.jar
+/usr/lib/intellij-idea/lib/idea_rt.jar
+/usr/lib/intellij-idea/lib/intellij-test-discovery.jar
+/usr/lib/intellij-idea/lib/jna/amd64/libjnidispatch.so
+/usr/lib/intellij-idea/lib/jps-model.jar
+/usr/lib/intellij-idea/lib/jsch-agent.jar
+/usr/lib/intellij-idea/lib/junit4.jar
+/usr/lib/intellij-idea/lib/lib-client.jar
+/usr/lib/intellij-idea/lib/lib.jar
+/usr/lib/intellij-idea/lib/modules/intellij.ide.startup.importSettings.jar
+/usr/lib/intellij-idea/lib/modules/intellij.idea.customization.base.jar
+/usr/lib/intellij-idea/lib/modules/intellij.kotlin.onboarding-promoter.jar
+/usr/lib/intellij-idea/lib/modules/intellij.libraries.ktor.client.jar
+/usr/lib/intellij-idea/lib/modules/intellij.libraries.microba.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.clouds.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.collaborationTools.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.coverage.agent.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.coverage.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.execution.dashboard.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.execution.serviceView.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.experiment.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.ide.newUiOnboarding.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.ide.newUsersOnboarding.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.images.backend.svg.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.images.copyright.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.kernel.backend.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.kernel.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.lvcs.impl.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.ml.embeddings.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.navbar.backend.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.navbar.frontend.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.navbar.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.navbar.monolith.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.settings.local.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.smRunner.vcs.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.vcs.dvcs.impl.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.vcs.impl.jar
+/usr/lib/intellij-idea/lib/modules/intellij.platform.vcs.log.impl.jar
+/usr/lib/intellij-idea/lib/modules/intellij.smart.update.jar
+/usr/lib/intellij-idea/lib/modules/intellij.xml.xmlbeans.jar
+/usr/lib/intellij-idea/lib/native/linux-x86_64/libsqliteij.so
+/usr/lib/intellij-idea/lib/nio-fs.jar
+/usr/lib/intellij-idea/lib/opentelemetry.jar
+/usr/lib/intellij-idea/lib/platform-loader.jar
+/usr/lib/intellij-idea/lib/protobuf.jar
+/usr/lib/intellij-idea/lib/pty4j/linux/x86-64/libpty.so
+/usr/lib/intellij-idea/lib/rd.jar
+/usr/lib/intellij-idea/lib/stats.jar
+/usr/lib/intellij-idea/lib/testFramework.jar
+/usr/lib/intellij-idea/lib/trove.jar
+/usr/lib/intellij-idea/lib/util-8.jar
+/usr/lib/intellij-idea/lib/util.jar
+/usr/lib/intellij-idea/lib/util_rt.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/Groovy.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/agent/gragent.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/console.groovy
+/usr/lib/intellij-idea/plugins/Groovy/lib/groovy-constants-rt.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/groovy-jps.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/groovy-rt-class-loader.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/groovy-rt.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/groovy-spock-rt.jar
+/usr/lib/intellij-idea/plugins/Groovy/lib/standardDsls/categoryTransform.gdsl
+/usr/lib/intellij-idea/plugins/Groovy/lib/standardDsls/closuresInMethod.gdsl
+/usr/lib/intellij-idea/plugins/Groovy/lib/standardDsls/defaultMethods.gdsl
+/usr/lib/intellij-idea/plugins/Groovy/lib/standardDsls/gantScript.gdsl
+/usr/lib/intellij-idea/plugins/Groovy/lib/standardDsls/metaDsl.gdsl
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/META-INF/MANIFEST.MF
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kapt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kapt.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlin
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlin-dce-js
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlin-dce-js.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlin.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc-js
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc-js.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc-jvm
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc-jvm.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/bin/kotlinc.bat
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/build.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/allopen-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/android-extensions-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/android-extensions-runtime.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/annotations-13.0.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/assignment-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/js.engines.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/jvm-abi-gen.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-cli.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-runtime.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotations-jvm-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-annotations-jvm.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-ant.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-daemon-client.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-daemon.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-imports-dumper-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-main-kts.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-preloader.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-reflect-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-runner.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-script-runtime-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-script-runtime.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-scripting-common.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler-impl.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-scripting-jvm.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-serialization-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js.klib
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-js-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-js.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-junit-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-junit.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-junit5-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-junit5.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-testng-sources.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test-testng.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlin-test.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlinx-coroutines-core-jvm.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/kotlinx-serialization-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/lombok-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/mutability-annotations-compat.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/noarg-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/parcelize-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/parcelize-runtime.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/sam-with-receiver-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/scripting-compiler.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/lib/trove4j.jar
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/COPYRIGHT_HEADER.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/NOTICE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/README.md
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/aalto_xml_licence.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/aether_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/asmble_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/assemblyscript_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/caffeine_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/fastutil_licence
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/gradle-node-plugin_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/jgit_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/lombok_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/sl4f_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/stax2-api.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/sun_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/jspecify_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt
+/usr/lib/intellij-idea/plugins/Kotlin/lib/jps/kotlin-jps-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlin-base-jps.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlin-gradle-tooling.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlin-plugin-shared.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlin-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.allopen-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.android-extensions-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.assignment-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.compose-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.kotlin-compiler-common.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.kotlin-compiler-fe10.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.kotlin-compiler-ir.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.kotlin-jps-common.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.kotlinx-serialization-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.lombok-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.noarg-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.parcelize-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.sam-with-receiver-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/Kotlin/lib/kotlinc.scripting-compiler-plugin.jar
+/usr/lib/intellij-idea/plugins/android-gradle-dsl/lib/android-gradle-dsl.jar
+/usr/lib/intellij-idea/plugins/android-gradle-dsl/lib/modules/intellij.android.gradle.dsl.declarative.jar
+/usr/lib/intellij-idea/plugins/android-gradle-dsl/lib/modules/intellij.android.gradle.dsl.kotlin.jar
+/usr/lib/intellij-idea/plugins/completionMlRanking/lib/completionMlRanking.jar
+/usr/lib/intellij-idea/plugins/configurationScript/lib/configurationScript.jar
+/usr/lib/intellij-idea/plugins/copyright/lib/copyright.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/jre-build.txt
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/bouncy-castle-pgp.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest-driver.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest-markdown.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest-notebooks.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest-performanceTesting.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest-terminal.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/cwm-guest.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/platform-ssh.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/client/rd-client.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-common.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-host-unattended.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-host.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-model.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin-android.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin-backend.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin-common.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin-java.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin-notebooks.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-plugin.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/cwm-unattended-common.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/grpc-netty-shaded.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/ice4j.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/java-websocket.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/jitsi-utils.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/jnaerator-runtime.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/jstun.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/modules/intellij.platform.execution.frontend.split.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.backend.split.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.split.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/modules/intellij.platform.navbar.backend.split.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/modules/intellij.terminal.backend.split.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/quiche-jna-stubs.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/rd.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/lib/tls-channel.jar
+/usr/lib/intellij-idea/plugins/cwm-plugin/quiche-native/linux-x86-64/libquiche.so
+/usr/lib/intellij-idea/plugins/dev/lib/dev.jar
+/usr/lib/intellij-idea/plugins/eclipse/lib/eclipse-common.jar
+/usr/lib/intellij-idea/plugins/eclipse/lib/eclipse-jps.jar
+/usr/lib/intellij-idea/plugins/eclipse/lib/eclipse.jar
+/usr/lib/intellij-idea/plugins/editorconfig/lib/editorconfig.jar
+/usr/lib/intellij-idea/plugins/emojipicker/lib/emojipicker.jar
+/usr/lib/intellij-idea/plugins/featuresTrainer/lib/featuresTrainer.jar
+/usr/lib/intellij-idea/plugins/gradle-analysis/lib/gradle-analysis.jar
+/usr/lib/intellij-idea/plugins/gradle-dependencyUpdater/lib/gradle-dependencyUpdater.jar
+/usr/lib/intellij-idea/plugins/gradle-java-maven/lib/gradle-java-maven.jar
+/usr/lib/intellij-idea/plugins/gradle-java/lib/gradle-java.jar
+/usr/lib/intellij-idea/plugins/gradle-java/lib/gradle-jps.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-antlr.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-bcel.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-bsf.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-log4j.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-oro.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-regexp.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-resolver.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-apache-xalan2.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-commons-logging.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-commons-net.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-imageio.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-jai.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-jakartamail.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-javamail.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-jdepend.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-jmf.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-jsch.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-junit.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-junit4.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-junitlauncher.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-launcher.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-netrexx.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-swing.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-testutil.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant-xz.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/ant/ant.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/gradle-api-8.8.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/gradle-tooling-extension-api.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/gradle-tooling-extension-impl.jar
+/usr/lib/intellij-idea/plugins/gradle/lib/gradle.jar
+/usr/lib/intellij-idea/plugins/grazie/lib/grazie.jar
+/usr/lib/intellij-idea/plugins/html-tools/lib/html-tools.jar
+/usr/lib/intellij-idea/plugins/indexing-shared/lib/indexing-shared.jar
+/usr/lib/intellij-idea/plugins/java-byteCodeViewer/lib/java-byteCodeViewer.jar
+/usr/lib/intellij-idea/plugins/java-coverage/lib/jacoco.jar
+/usr/lib/intellij-idea/plugins/java-coverage/lib/java-coverage-rt.jar
+/usr/lib/intellij-idea/plugins/java-coverage/lib/java-coverage.jar
+/usr/lib/intellij-idea/plugins/java-debugger-streams/lib/java-debugger-streams.jar
+/usr/lib/intellij-idea/plugins/java-decompiler/lib/java-decompiler.jar
+/usr/lib/intellij-idea/plugins/java-i18n/lib/java-i18n.jar
+/usr/lib/intellij-idea/plugins/java-ide-customization/lib/java-ide-customization.jar
+/usr/lib/intellij-idea/plugins/java/lib/aether-dependency-resolver.jar
+/usr/lib/intellij-idea/plugins/java/lib/client/java-frontend.jar
+/usr/lib/intellij-idea/plugins/java/lib/debugger-memory-agent.jar
+/usr/lib/intellij-idea/plugins/java/lib/ecj/eclipse.jar
+/usr/lib/intellij-idea/plugins/java/lib/java-frontback.jar
+/usr/lib/intellij-idea/plugins/java/lib/java-impl.jar
+/usr/lib/intellij-idea/plugins/java/lib/javac2.jar
+/usr/lib/intellij-idea/plugins/java/lib/jb-jdi.jar
+/usr/lib/intellij-idea/plugins/java/lib/jetbrains.kotlinx.metadata.jvm.jar
+/usr/lib/intellij-idea/plugins/java/lib/jgoodies-common.jar
+/usr/lib/intellij-idea/plugins/java/lib/jps-builders-6.jar
+/usr/lib/intellij-idea/plugins/java/lib/jps-builders.jar
+/usr/lib/intellij-idea/plugins/java/lib/jps-javac-extension.jar
+/usr/lib/intellij-idea/plugins/java/lib/jps-launcher.jar
+/usr/lib/intellij-idea/plugins/java/lib/jps/java-compiler-charts-jps.jar
+/usr/lib/intellij-idea/plugins/java/lib/jshell-frontend.jar
+/usr/lib/intellij-idea/plugins/java/lib/jshell-protocol.jar
+/usr/lib/intellij-idea/plugins/java/lib/maven-resolver-connector-basic.jar
+/usr/lib/intellij-idea/plugins/java/lib/maven-resolver-transport-file.jar
+/usr/lib/intellij-idea/plugins/java/lib/maven-resolver-transport-http.jar
+/usr/lib/intellij-idea/plugins/java/lib/modules/intellij.java.featuresTrainer.jar
+/usr/lib/intellij-idea/plugins/java/lib/modules/intellij.java.structuralSearch.jar
+/usr/lib/intellij-idea/plugins/java/lib/modules/intellij.java.unscramble.jar
+/usr/lib/intellij-idea/plugins/java/lib/modules/intellij.java.vcs.jar
+/usr/lib/intellij-idea/plugins/java/lib/resources/jdkAnnotations.jar
+/usr/lib/intellij-idea/plugins/java/lib/rt/debugger-agent.jar
+/usr/lib/intellij-idea/plugins/java/lib/sa-jdwp.jar
+/usr/lib/intellij-idea/plugins/javaFX/lib/javaFX-common.jar
+/usr/lib/intellij-idea/plugins/javaFX/lib/javaFX-jps.jar
+/usr/lib/intellij-idea/plugins/javaFX/lib/javaFX.jar
+/usr/lib/intellij-idea/plugins/javaFX/lib/modules/intellij.javaFX.jar
+/usr/lib/intellij-idea/plugins/javaFX/lib/rt/sceneBuilderBridge.jar
+/usr/lib/intellij-idea/plugins/junit/lib/junit-rt.jar
+/usr/lib/intellij-idea/plugins/junit/lib/junit.jar
+/usr/lib/intellij-idea/plugins/junit/lib/junit5-rt.jar
+/usr/lib/intellij-idea/plugins/keymap-eclipse/lib/keymap-eclipse.jar
+/usr/lib/intellij-idea/plugins/keymap-netbeans/lib/keymap-netbeans.jar
+/usr/lib/intellij-idea/plugins/keymap-visualStudio/lib/keymap-visualStudio.jar
+/usr/lib/intellij-idea/plugins/llmInstaller/lib/llmInstaller.jar
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/.DS_Store
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/AskAboutCode.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/AskAboutLocalChangesAndCommits.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/AskQuestions.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/CodeGeneration.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/ConvertToAnotherLanguage.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/CraftPromptLibrary.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/ExplainCode.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/ExplainCommit.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/ExplainRuntimeError.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/FindPotentialProblems.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/GenerateCommitMessages.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/InlineCodeCompletion.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/NameSuggestions.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/RefactoringSuggestions.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/ReferenceFiles.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/UnitTestsGeneration.webm
+/usr/lib/intellij-idea/plugins/llmInstaller/video/Idea/WriteDocumentation.webm
+/usr/lib/intellij-idea/plugins/localization-ja/lib/localization-ja.jar
+/usr/lib/intellij-idea/plugins/localization-ko/lib/localization-ko.jar
+/usr/lib/intellij-idea/plugins/localization-zh/lib/localization-zh.jar
+/usr/lib/intellij-idea/plugins/markdown/lib/markdown.jar
+/usr/lib/intellij-idea/plugins/marketplace/lib/boot/marketplace-bootstrap.jar
+/usr/lib/intellij-idea/plugins/marketplace/lib/boot/marketplace-impl.jar
+/usr/lib/intellij-idea/plugins/marketplace/lib/marketplace.jar
+/usr/lib/intellij-idea/plugins/marketplace/platform-build.txt
+/usr/lib/intellij-idea/plugins/marketplaceMl/lib/marketplaceMl.jar
+/usr/lib/intellij-idea/plugins/maven-model/lib/maven-model.jar
+/usr/lib/intellij-idea/plugins/maven-server/lib/maven-server.jar
+/usr/lib/intellij-idea/plugins/maven/lib/artifact-resolver-m31.jar
+/usr/lib/intellij-idea/plugins/maven/lib/intellij.maven.server.indexer/lib/apache.maven.archetype.common-3.2.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/intellij.maven.server.indexer/lib/apache.maven.core-3.8.3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/intellij.maven.server.indexer/lib/apache.maven.wagon.provider.api-3.5.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven-event-listener.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven-jps.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven-server-indexer.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven-server-telemetry.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven-telemetry-lib/jackson-core-2.16.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-common.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/archetype-catalog-2.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/archetype-common-2.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/archetype-descriptor-2.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/lucene-core-2.4.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/maven-dependency-tree-1.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/nexus-indexer-3.0.4.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server-lib/nexus-indexer-artifact-1.0.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3-server.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/LICENSE
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/NOTICE
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/README.txt
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/m2.conf
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/mvn
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/mvn.cmd
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/mvnDebug
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/mvnDebug.cmd
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/bin/mvnyjp
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/boot/plexus-classworlds-2.8.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/boot/plexus-classworlds.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/conf/logging/simplelogger.properties
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/conf/settings.xml
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/conf/toolchains.xml
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/aopalliance-1.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/aopalliance.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/commons-cli-1.8.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/commons-cli.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/commons-codec-1.16.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/commons-codec.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/ext/README.txt
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/ext/hazelcast/README.txt
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/ext/redisson/README.txt
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/failureaccess-1.0.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/failureaccess.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/guava-33.2.1-jre.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/guava.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/guice-5.1.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/guice.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/httpclient-4.5.14.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/httpclient.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/httpcore-4.4.16.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/httpcore.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi-2.4.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi-native/README.txt
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi-native/Windows/arm64/libjansi.so
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi-native/Windows/x86/jansi.dll
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi-native/Windows/x86_64/jansi.dll
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jansi.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/javax.annotation-api-1.3.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/javax.annotation-api.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/javax.inject-1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/javax.inject.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jcl-over-slf4j-1.7.36.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/jcl-over-slf4j.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-artifact-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-builder-support-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-compat-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-core-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-embedder-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-model-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-plugin-api-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-repository-metadata-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-api-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-connector-basic-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-impl-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-named-locks-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-provider-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-spi-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-transport-file-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-transport-http-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-transport-wagon-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-resolver-util-1.9.20.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-settings-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-settings-builder-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-shared-utils-3.4.2.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/maven-slf4j-provider-3.9.8.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/org.eclipse.sisu.inject-0.9.0.M3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/org.eclipse.sisu.inject.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/org.eclipse.sisu.plexus-0.9.0.M3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/org.eclipse.sisu.plexus.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-cipher-2.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-cipher.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-component-annotations-2.1.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-component-annotations.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-interpolation-1.27.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-interpolation.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-sec-dispatcher-2.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-sec-dispatcher.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-utils-3.5.1.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-utils.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-xml-3.0.0.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/plexus-xml.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/slf4j-api-1.7.36.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/slf4j-api.license
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/wagon-file-3.5.3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/wagon-http-3.5.3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/wagon-http-shared-3.5.3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven3/lib/wagon-provider-api-3.5.3.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven36-server.jar
+/usr/lib/intellij-idea/plugins/maven/lib/maven40-server.jar
+/usr/lib/intellij-idea/plugins/ml-inline-completion/lib/ml-inline-completion.jar
+/usr/lib/intellij-idea/plugins/packageChecker/lib/packageChecker.jar
+/usr/lib/intellij-idea/plugins/performanceTesting-async/lib/async-profiler.jar
+/usr/lib/intellij-idea/plugins/performanceTesting-async/lib/modules/intellij.profiler.asyncOne.jar
+/usr/lib/intellij-idea/plugins/performanceTesting-async/lib/performanceTesting-async.jar
+/usr/lib/intellij-idea/plugins/performanceTesting/lib/performanceTesting.jar
+/usr/lib/intellij-idea/plugins/platform-ide-provisioner/lib/platform-ide-provisioner.jar
+/usr/lib/intellij-idea/plugins/platform-ijent-impl/ijent-aarch64-unknown-linux-musl-release
+/usr/lib/intellij-idea/plugins/platform-ijent-impl/ijent-x86_64-unknown-linux-musl-release
+/usr/lib/intellij-idea/plugins/platform-ijent-impl/lib/platform-ijent-impl.jar
+/usr/lib/intellij-idea/plugins/platform-images/lib/platform-images.jar
+/usr/lib/intellij-idea/plugins/platform-langInjection/lib/java-langInjection-jps.jar
+/usr/lib/intellij-idea/plugins/platform-langInjection/lib/platform-langInjection.jar
+/usr/lib/intellij-idea/plugins/platform-tracing-ide/lib/platform-tracing-ide.jar
+/usr/lib/intellij-idea/plugins/plugin-classpath.txt
+/usr/lib/intellij-idea/plugins/properties/lib/properties.jar
+/usr/lib/intellij-idea/plugins/qodana/lib/qodana.jar
+/usr/lib/intellij-idea/plugins/repository-search/lib/repository-search.jar
+/usr/lib/intellij-idea/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.core.jar
+/usr/lib/intellij-idea/plugins/searchEverywhereMl/lib/searchEverywhereMl.jar
+/usr/lib/intellij-idea/plugins/settingsSync/lib/settingsSync.jar
+/usr/lib/intellij-idea/plugins/sh/lib/sh.jar
+/usr/lib/intellij-idea/plugins/tasks/lib/tasks-core.jar
+/usr/lib/intellij-idea/plugins/terminal/lib/terminal.jar
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/bash/bash-fig.bash
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/bash/bash-integration.bash
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/bash/bash-preexec.bash
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/bash/command-block-support.bash
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/fish/command-block-support.fish
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/fish/fish-integration.fish
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/powershell/command-block-support.ps1
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/powershell/powershell-integration.ps1
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/zsh/.zshenv
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/zsh/command-block-support.zsh
+/usr/lib/intellij-idea/plugins/terminal/shell-integrations/zsh/zsh-integration.zsh
+/usr/lib/intellij-idea/plugins/testng/lib/testng-plugin.jar
+/usr/lib/intellij-idea/plugins/testng/lib/testng-rt.jar
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/asciidoc-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/snippets/snippets.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/adoc/syntaxes/Asciidoctor.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/snippets/batchfile.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bat/syntaxes/batchfile.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bicep/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bicep/syntaxes/bicep.codeblock.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bicep/syntaxes/bicep.tmlanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bicep/syntaxes/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/bicepparam/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/clojure/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/clojure/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/clojure/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/clojure/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/clojure/syntaxes/clojure.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cmake/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cmake/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cmake/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cmake/syntaxes/CMake.tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cmake/syntaxes/CMakeCache.tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/snippets/coffeescript.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/coffeescript/syntaxes/coffeescript.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/snippets/c.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/snippets/cpp.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/syntaxes/c.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/syntaxes/cpp.embedded.macro.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/syntaxes/cpp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/syntaxes/cuda-cpp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/cpp/syntaxes/platform.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/snippets/csharp.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/csharp/syntaxes/csharp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/.vscode/launch.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/css/syntaxes/css.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/dart/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/dart/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/dart/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/dart/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/dart/syntaxes/dart.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/diff/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/diff/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/diff/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/diff/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/diff/syntaxes/diff.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/docker/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/docker/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/docker/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/docker/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/docker/syntaxes/docker.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/erlang/grammar/Erlang.plist
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/erlang/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/erlang/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/snippets/fsharp.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/fsharp/syntaxes/fsharp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/languages/git-commit.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/languages/git-rebase.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/languages/ignore.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/syntaxes/git-commit.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/syntaxes/git-rebase.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/syntaxes/ignore.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/git-base/tsconfig.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/go/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/go/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/go/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/go/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/go/syntaxes/go.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/snippets/groovy.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/groovy/syntaxes/groovy.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/handlebars/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/handlebars/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/handlebars/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/handlebars/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/handlebars/syntaxes/Handlebars.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hcl/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hcl/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hcl/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hcl/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hcl/syntaxes/hcl.tmGrammar.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hlsl/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hlsl/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hlsl/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hlsl/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/hlsl/syntaxes/hlsl.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/snippets/html.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/syntaxes/html-derivative.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/html/syntaxes/html.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/ini.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/properties.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ini/syntaxes/ini.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/snippets/java.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/java/syntaxes/java.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/javascript-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/snippets/javascript.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/syntaxes/JavaScript.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/syntaxes/JavaScriptReact.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/syntaxes/Readme.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/javascript/tags-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/syntaxes/JSON.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/syntaxes/JSONC.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/syntaxes/JSONL.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/json/syntaxes/snippets.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/jsp/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/jsp/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/jsp/jsp-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/jsp/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/jsp/syntaxes/jsp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/julia/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/julia/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/julia/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/julia/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/julia/syntaxes/julia.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kconfig/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kconfig/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kconfig/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kconfig/syntaxes/kconfig.tmGrammar.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kotlin/info.plist
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kotlin/snippets/class.tmSnippet
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kotlin/snippets/println.tmSnippet
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/kotlin/syntaxes/Kotlin.tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/cpp-bailout-license.txt
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/latex-cpp-embedded-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/latex-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/markdown-latex-combined-language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/markdown-latex-combined-license.txt
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/syntaxes/Bibtex.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/syntaxes/LaTeX.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/syntaxes/TeX.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/syntaxes/cpp-grammar-bailout.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/latex/syntaxes/markdown-latex-combined.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/less/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/less/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/less/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/less/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/less/syntaxes/less.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/log/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/log/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/log/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/log/syntaxes/log.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/lua/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/lua/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/lua/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/lua/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/lua/syntaxes/lua.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/make/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/make/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/make/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/make/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/make/syntaxes/make.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/snippets/markdown.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-basics/syntaxes/markdown.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/.gitignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/notebook/tsconfig.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/preview-styles/index.css
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/syntaxes/md-math-block.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/syntaxes/md-math-inline.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/syntaxes/md-math.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/markdown-math/tsconfig.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/license
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/syntaxes/mdx.markdown.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/syntaxes/mdx.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/mdx/syntaxes/source.mdx.tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/syntaxes/objective-c++.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/objective-c/syntaxes/objective-c.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/perl.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/perl6.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/syntaxes/perl.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/perl/syntaxes/perl6.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/.vscode/launch.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/.vscode/tasks.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/snippets/php.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/syntaxes/html.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/php/syntaxes/php.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/snippets/powershell.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/powershell/syntaxes/powershell.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/pug/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/pug/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/pug/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/pug/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/pug/syntaxes/pug.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/.vscode/launch.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/.vscode/tasks.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/syntaxes/MagicPython.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/python/syntaxes/MagicRegExp.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/r/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/r/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/r/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/r/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/r/syntaxes/r.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/razor/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/razor/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/razor/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/razor/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/razor/syntaxes/cshtml.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/restructuredtext/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/restructuredtext/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/restructuredtext/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/restructuredtext/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/restructuredtext/syntaxes/rst.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ruby/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ruby/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ruby/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ruby/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/ruby/syntaxes/ruby.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/rust/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/rust/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/rust/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/rust/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/rust/syntaxes/rust.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/syntaxes/sassdoc.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/scss/syntaxes/scss.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/syntaxes/searchResult.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/search-result/tsconfig.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shaderlab/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shaderlab/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shaderlab/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shaderlab/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shaderlab/syntaxes/shaderlab.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shellscript/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shellscript/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shellscript/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shellscript/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/sql/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/sql/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/sql/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/sql/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/sql/syntaxes/sql.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/LICENSE.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/snippets/swift.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/swift/syntaxes/swift.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/LICENSE
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/snippets/terraform.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/terraform/syntaxes/terraform.tmGrammar.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/LICENSE.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/README.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/snippets/snippets.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/extension.js
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/hover/filters.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/hover/functions.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/hover/twig.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/languages/twig.configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/snippets/snippets.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/twig/src/syntaxes/twig.tmLanguage
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/snippets/typescript.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/syntaxes/Readme.md
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/syntaxes/TypeScript.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/syntaxes/TypeScriptReact.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/syntaxes/jsdoc.js.injection.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/typescript-basics/syntaxes/jsdoc.ts.injection.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/snippets/vb.code-snippets
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/vb/syntaxes/asp-vb-net.tmlanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/viml/LICENSE.txt
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/viml/grammars/viml.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/viml/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/syntaxes/xml.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/syntaxes/xsl.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/xml.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/xml/xsl.language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/yaml/.vscodeignore
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/yaml/language-configuration.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/yaml/package.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/yaml/package.nls.json
+/usr/lib/intellij-idea/plugins/textmate/lib/bundles/yaml/syntaxes/yaml.tmLanguage.json
+/usr/lib/intellij-idea/plugins/textmate/lib/textmate.jar
+/usr/lib/intellij-idea/plugins/toml/lib/toml.jar
+/usr/lib/intellij-idea/plugins/turboComplete/lib/modules/intellij.turboComplete.languages.kotlin.jar
+/usr/lib/intellij-idea/plugins/turboComplete/lib/turboComplete.jar
+/usr/lib/intellij-idea/plugins/uiDesigner/lib/jps/java-guiForms-jps.jar
+/usr/lib/intellij-idea/plugins/uiDesigner/lib/uiDesigner.jar
+/usr/lib/intellij-idea/plugins/vcs-git/lib/git4idea-rt.jar
+/usr/lib/intellij-idea/plugins/vcs-git/lib/vcs-git.jar
+/usr/lib/intellij-idea/plugins/vcs-github/lib/vcs-github.jar
+/usr/lib/intellij-idea/plugins/vcs-gitlab/lib/vcs-gitlab.jar
+/usr/lib/intellij-idea/plugins/vcs-hg/lib/vcs-hg.jar
+/usr/lib/intellij-idea/plugins/vcs-perforce/lib/vcs-perforce.jar
+/usr/lib/intellij-idea/plugins/vcs-svn/lib/vcs-svn.jar
+/usr/lib/intellij-idea/plugins/webp/lib/webp.jar
+/usr/lib/intellij-idea/plugins/yaml/lib/yaml-editing.jar
+/usr/lib/intellij-idea/plugins/yaml/lib/yaml.jar
+/usr/lib/intellij-idea/product-info.json
+/usr/share/applications/idea.desktop
+/usr/share/doc/intellij-idea/LICENSE.txt
+/usr/share/doc/intellij-idea/NOTICE.txt
+/usr/share/doc/intellij-idea/license/javahelp_license.txt
+/usr/share/doc/intellij-idea/license/javolution_license.txt
+/usr/share/doc/intellij-idea/license/launcher-third-party-libraries.html
+/usr/share/doc/intellij-idea/license/saxon-conditions.html
+/usr/share/doc/intellij-idea/license/third-party-libraries.html
+/usr/share/doc/intellij-idea/license/third-party-libraries.json
+/usr/share/doc/intellij-idea/license/yourkit-license-redist.txt
+/usr/share/icons/hicolor/scalable/apps/idea.svg -> /usr/lib/intellij-idea/bin/idea.svg
+/usr/share/pixmaps/idea.png -> /usr/lib/intellij-idea/bin/idea.png

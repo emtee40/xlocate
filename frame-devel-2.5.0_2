@@ -1,0 +1,8 @@
+/usr/include/oif/frame.h
+/usr/include/oif/frame_backend.h
+/usr/include/oif/frame_internal.h
+/usr/include/oif/frame_x11.h
+/usr/lib/libframe.a
+/usr/lib/libframe.so -> /usr/lib/libframe.so.6.0.0
+/usr/lib/pkgconfig/frame-x11.pc
+/usr/lib/pkgconfig/frame.pc

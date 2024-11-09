@@ -1,0 +1,5 @@
+/etc/prelink.conf
+/usr/bin/execstack
+/usr/bin/prelink
+/usr/share/man/man8/execstack.8
+/usr/share/man/man8/prelink.8

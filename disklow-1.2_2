@@ -1,0 +1,4 @@
+/etc/disklow.conf
+/usr/bin/disklow
+/usr/share/doc/disklow/sendmail-setup.txt
+/usr/share/man/man1/disklow.1

@@ -1,0 +1,22 @@
+/etc/mosquitto/mosquitto.conf
+/etc/sv/mosquitto/log/run
+/etc/sv/mosquitto/log/supervise -> /run/runit/supervise.mosquitto-log
+/etc/sv/mosquitto/run
+/etc/sv/mosquitto/supervise -> /run/runit/supervise.mosquitto
+/usr/bin/mosquitto
+/usr/bin/mosquitto_ctrl
+/usr/bin/mosquitto_passwd
+/usr/bin/mosquitto_rr
+/usr/lib/mosquitto_dynamic_security.so
+/usr/share/examples/mosquitto/aclfile.example
+/usr/share/examples/mosquitto/pskfile.example
+/usr/share/examples/mosquitto/pwfile.example
+/usr/share/licenses/mosquitto/LICENSE
+/usr/share/man/man1/mosquitto_ctrl.1
+/usr/share/man/man1/mosquitto_ctrl_dynsec.1
+/usr/share/man/man1/mosquitto_passwd.1
+/usr/share/man/man1/mosquitto_rr.1
+/usr/share/man/man5/mosquitto.conf.5
+/usr/share/man/man7/mosquitto-tls.7
+/usr/share/man/man7/mqtt.7
+/usr/share/man/man8/mosquitto.8

@@ -1,0 +1,11 @@
+/usr/lib32/gutenprint/5.3/modules/color-traditional.so
+/usr/lib32/gutenprint/5.3/modules/print-canon.so
+/usr/lib32/gutenprint/5.3/modules/print-dpl.so
+/usr/lib32/gutenprint/5.3/modules/print-dyesub.so
+/usr/lib32/gutenprint/5.3/modules/print-escp2.so
+/usr/lib32/gutenprint/5.3/modules/print-lexmark.so
+/usr/lib32/gutenprint/5.3/modules/print-pcl.so
+/usr/lib32/gutenprint/5.3/modules/print-ps.so
+/usr/lib32/gutenprint/5.3/modules/print-raw.so
+/usr/lib32/libgutenprint.so.9 -> /usr/lib32/libgutenprint.so.9.5.0
+/usr/lib32/libgutenprint.so.9.5.0

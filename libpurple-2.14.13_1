@@ -1,0 +1,37 @@
+/usr/bin/purple-client-example
+/usr/bin/purple-remote
+/usr/bin/purple-send
+/usr/bin/purple-send-async
+/usr/bin/purple-url-handler
+/usr/lib/libpurple-client.so.0 -> /usr/lib/libpurple-client.so.0.14.13
+/usr/lib/libpurple-client.so.0.14.13
+/usr/lib/libpurple.so.0 -> /usr/lib/libpurple.so.0.14.13
+/usr/lib/libpurple.so.0.14.13
+/usr/lib/purple-2/autoaccept.so
+/usr/lib/purple-2/buddynote.so
+/usr/lib/purple-2/dbus-example.so
+/usr/lib/purple-2/idle.so
+/usr/lib/purple-2/joinpart.so
+/usr/lib/purple-2/libbonjour.so
+/usr/lib/purple-2/libgg.so
+/usr/lib/purple-2/libirc.so
+/usr/lib/purple-2/libjabber.so -> /usr/lib/purple-2/libjabber.so.0.0.0
+/usr/lib/purple-2/libjabber.so.0 -> /usr/lib/purple-2/libjabber.so.0.0.0
+/usr/lib/purple-2/libjabber.so.0.0.0
+/usr/lib/purple-2/libnovell.so
+/usr/lib/purple-2/libsimple.so
+/usr/lib/purple-2/libxmpp.so
+/usr/lib/purple-2/libzephyr.so
+/usr/lib/purple-2/log_reader.so
+/usr/lib/purple-2/newline.so
+/usr/lib/purple-2/nss-prefs.so
+/usr/lib/purple-2/offlinemsg.so
+/usr/lib/purple-2/psychic.so
+/usr/lib/purple-2/ssl-nss.so
+/usr/lib/purple-2/ssl.so
+/usr/lib/purple-2/statenotify.so
+/usr/share/sounds/purple/alert.wav
+/usr/share/sounds/purple/login.wav
+/usr/share/sounds/purple/logout.wav
+/usr/share/sounds/purple/receive.wav
+/usr/share/sounds/purple/send.wav

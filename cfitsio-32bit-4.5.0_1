@@ -1,0 +1,4 @@
+/usr/lib32/libcfitsio.a
+/usr/lib32/libcfitsio.so.10 -> /usr/lib32/libcfitsio.so.10.0.0
+/usr/lib32/libcfitsio.so.10.0.0
+/usr/lib32/libcfitsio.so.10.4.5.0 -> /usr/lib32/libcfitsio.so.10.0.0

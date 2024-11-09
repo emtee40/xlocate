@@ -1,0 +1,4 @@
+/etc/sv/jenkins/run
+/etc/sv/jenkins/supervise -> /run/runit/supervise.jenkins
+/opt/jenkins/jenkins.war
+/usr/share/licenses/jenkins/LICENSE

@@ -1,0 +1,6 @@
+/usr/include/google/protobuf-c/protobuf-c.h -> /usr/include/protobuf-c/protobuf-c.h
+/usr/include/protobuf-c/protobuf-c.h
+/usr/include/protobuf-c/protobuf-c.proto
+/usr/lib/libprotobuf-c.a
+/usr/lib/libprotobuf-c.so -> /usr/lib/libprotobuf-c.so.1.0.0
+/usr/lib/pkgconfig/libprotobuf-c.pc

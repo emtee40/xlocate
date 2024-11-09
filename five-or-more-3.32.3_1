@@ -1,0 +1,419 @@
+/usr/bin/five-or-more
+/usr/share/applications/org.gnome.five-or-more.desktop
+/usr/share/five-or-more/five-or-more-preferences.ui
+/usr/share/five-or-more/five-or-more.ui
+/usr/share/five-or-more/themes/balls.svg
+/usr/share/five-or-more/themes/shapes.svg
+/usr/share/five-or-more/themes/tango.svg
+/usr/share/glib-2.0/schemas/org.gnome.five-or-more.gschema.xml
+/usr/share/help/C/five-or-more/bug-filing.page
+/usr/share/help/C/five-or-more/change-board-size.page
+/usr/share/help/C/five-or-more/change-theme.page
+/usr/share/help/C/five-or-more/develop.page
+/usr/share/help/C/five-or-more/documentation.page
+/usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/C/five-or-more/index.page
+/usr/share/help/C/five-or-more/legal.xml
+/usr/share/help/C/five-or-more/license.page
+/usr/share/help/C/five-or-more/play.page
+/usr/share/help/C/five-or-more/rules.page
+/usr/share/help/C/five-or-more/scores.page
+/usr/share/help/C/five-or-more/shortcuts.page
+/usr/share/help/C/five-or-more/strategy.page
+/usr/share/help/C/five-or-more/translate.page
+/usr/share/help/cs/five-or-more/bug-filing.page
+/usr/share/help/cs/five-or-more/change-board-size.page
+/usr/share/help/cs/five-or-more/change-theme.page
+/usr/share/help/cs/five-or-more/develop.page
+/usr/share/help/cs/five-or-more/documentation.page
+/usr/share/help/cs/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/cs/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/cs/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/cs/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/cs/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/cs/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/cs/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/cs/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/cs/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/cs/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/cs/five-or-more/index.page
+/usr/share/help/cs/five-or-more/legal.xml
+/usr/share/help/cs/five-or-more/license.page
+/usr/share/help/cs/five-or-more/play.page
+/usr/share/help/cs/five-or-more/rules.page
+/usr/share/help/cs/five-or-more/scores.page
+/usr/share/help/cs/five-or-more/shortcuts.page
+/usr/share/help/cs/five-or-more/strategy.page
+/usr/share/help/cs/five-or-more/translate.page
+/usr/share/help/de/five-or-more/bug-filing.page
+/usr/share/help/de/five-or-more/change-board-size.page
+/usr/share/help/de/five-or-more/change-theme.page
+/usr/share/help/de/five-or-more/develop.page
+/usr/share/help/de/five-or-more/documentation.page
+/usr/share/help/de/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/de/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/de/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/de/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/de/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/de/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/de/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/de/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/de/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/de/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/de/five-or-more/index.page
+/usr/share/help/de/five-or-more/legal.xml
+/usr/share/help/de/five-or-more/license.page
+/usr/share/help/de/five-or-more/play.page
+/usr/share/help/de/five-or-more/rules.page
+/usr/share/help/de/five-or-more/scores.page
+/usr/share/help/de/five-or-more/shortcuts.page
+/usr/share/help/de/five-or-more/strategy.page
+/usr/share/help/de/five-or-more/translate.page
+/usr/share/help/el/five-or-more/bug-filing.page
+/usr/share/help/el/five-or-more/change-board-size.page
+/usr/share/help/el/five-or-more/change-theme.page
+/usr/share/help/el/five-or-more/develop.page
+/usr/share/help/el/five-or-more/documentation.page
+/usr/share/help/el/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/el/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/el/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/el/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/el/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/el/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/el/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/el/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/el/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/el/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/el/five-or-more/index.page
+/usr/share/help/el/five-or-more/legal.xml
+/usr/share/help/el/five-or-more/license.page
+/usr/share/help/el/five-or-more/play.page
+/usr/share/help/el/five-or-more/rules.page
+/usr/share/help/el/five-or-more/scores.page
+/usr/share/help/el/five-or-more/shortcuts.page
+/usr/share/help/el/five-or-more/strategy.page
+/usr/share/help/el/five-or-more/translate.page
+/usr/share/help/es/five-or-more/bug-filing.page
+/usr/share/help/es/five-or-more/change-board-size.page
+/usr/share/help/es/five-or-more/change-theme.page
+/usr/share/help/es/five-or-more/develop.page
+/usr/share/help/es/five-or-more/documentation.page
+/usr/share/help/es/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/es/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/es/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/es/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/es/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/es/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/es/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/es/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/es/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/es/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/es/five-or-more/index.page
+/usr/share/help/es/five-or-more/legal.xml
+/usr/share/help/es/five-or-more/license.page
+/usr/share/help/es/five-or-more/play.page
+/usr/share/help/es/five-or-more/rules.page
+/usr/share/help/es/five-or-more/scores.page
+/usr/share/help/es/five-or-more/shortcuts.page
+/usr/share/help/es/five-or-more/strategy.page
+/usr/share/help/es/five-or-more/translate.page
+/usr/share/help/fr/five-or-more/bug-filing.page
+/usr/share/help/fr/five-or-more/change-board-size.page
+/usr/share/help/fr/five-or-more/change-theme.page
+/usr/share/help/fr/five-or-more/develop.page
+/usr/share/help/fr/five-or-more/documentation.page
+/usr/share/help/fr/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/fr/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/fr/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/fr/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/fr/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/fr/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/fr/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/fr/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/fr/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/fr/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/fr/five-or-more/index.page
+/usr/share/help/fr/five-or-more/legal.xml
+/usr/share/help/fr/five-or-more/license.page
+/usr/share/help/fr/five-or-more/play.page
+/usr/share/help/fr/five-or-more/rules.page
+/usr/share/help/fr/five-or-more/scores.page
+/usr/share/help/fr/five-or-more/shortcuts.page
+/usr/share/help/fr/five-or-more/strategy.page
+/usr/share/help/fr/five-or-more/translate.page
+/usr/share/help/gl/five-or-more/bug-filing.page
+/usr/share/help/gl/five-or-more/change-board-size.page
+/usr/share/help/gl/five-or-more/change-theme.page
+/usr/share/help/gl/five-or-more/develop.page
+/usr/share/help/gl/five-or-more/documentation.page
+/usr/share/help/gl/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/gl/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/gl/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/gl/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/gl/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/gl/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/gl/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/gl/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/gl/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/gl/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/gl/five-or-more/index.page
+/usr/share/help/gl/five-or-more/legal.xml
+/usr/share/help/gl/five-or-more/license.page
+/usr/share/help/gl/five-or-more/play.page
+/usr/share/help/gl/five-or-more/rules.page
+/usr/share/help/gl/five-or-more/scores.page
+/usr/share/help/gl/five-or-more/shortcuts.page
+/usr/share/help/gl/five-or-more/strategy.page
+/usr/share/help/gl/five-or-more/translate.page
+/usr/share/help/hu/five-or-more/bug-filing.page
+/usr/share/help/hu/five-or-more/change-board-size.page
+/usr/share/help/hu/five-or-more/change-theme.page
+/usr/share/help/hu/five-or-more/develop.page
+/usr/share/help/hu/five-or-more/documentation.page
+/usr/share/help/hu/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/hu/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/hu/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/hu/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/hu/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/hu/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/hu/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/hu/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/hu/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/hu/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/hu/five-or-more/index.page
+/usr/share/help/hu/five-or-more/legal.xml
+/usr/share/help/hu/five-or-more/license.page
+/usr/share/help/hu/five-or-more/play.page
+/usr/share/help/hu/five-or-more/rules.page
+/usr/share/help/hu/five-or-more/scores.page
+/usr/share/help/hu/five-or-more/shortcuts.page
+/usr/share/help/hu/five-or-more/strategy.page
+/usr/share/help/hu/five-or-more/translate.page
+/usr/share/help/ja/five-or-more/bug-filing.page
+/usr/share/help/ja/five-or-more/change-board-size.page
+/usr/share/help/ja/five-or-more/change-theme.page
+/usr/share/help/ja/five-or-more/develop.page
+/usr/share/help/ja/five-or-more/documentation.page
+/usr/share/help/ja/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/ja/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/ja/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/ja/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/ja/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/ja/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/ja/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/ja/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/ja/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/ja/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/ja/five-or-more/index.page
+/usr/share/help/ja/five-or-more/legal.xml
+/usr/share/help/ja/five-or-more/license.page
+/usr/share/help/ja/five-or-more/play.page
+/usr/share/help/ja/five-or-more/rules.page
+/usr/share/help/ja/five-or-more/scores.page
+/usr/share/help/ja/five-or-more/shortcuts.page
+/usr/share/help/ja/five-or-more/strategy.page
+/usr/share/help/ja/five-or-more/translate.page
+/usr/share/help/pl/five-or-more/bug-filing.page
+/usr/share/help/pl/five-or-more/change-board-size.page
+/usr/share/help/pl/five-or-more/change-theme.page
+/usr/share/help/pl/five-or-more/develop.page
+/usr/share/help/pl/five-or-more/documentation.page
+/usr/share/help/pl/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/pl/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/pl/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/pl/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/pl/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/pl/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/pl/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/pl/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/pl/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/pl/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/pl/five-or-more/index.page
+/usr/share/help/pl/five-or-more/legal.xml
+/usr/share/help/pl/five-or-more/license.page
+/usr/share/help/pl/five-or-more/play.page
+/usr/share/help/pl/five-or-more/rules.page
+/usr/share/help/pl/five-or-more/scores.page
+/usr/share/help/pl/five-or-more/shortcuts.page
+/usr/share/help/pl/five-or-more/strategy.page
+/usr/share/help/pl/five-or-more/translate.page
+/usr/share/help/pt_BR/five-or-more/bug-filing.page
+/usr/share/help/pt_BR/five-or-more/change-board-size.page
+/usr/share/help/pt_BR/five-or-more/change-theme.page
+/usr/share/help/pt_BR/five-or-more/develop.page
+/usr/share/help/pt_BR/five-or-more/documentation.page
+/usr/share/help/pt_BR/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/pt_BR/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/pt_BR/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/pt_BR/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/pt_BR/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/pt_BR/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/pt_BR/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/pt_BR/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/pt_BR/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/pt_BR/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/pt_BR/five-or-more/index.page
+/usr/share/help/pt_BR/five-or-more/legal.xml
+/usr/share/help/pt_BR/five-or-more/license.page
+/usr/share/help/pt_BR/five-or-more/play.page
+/usr/share/help/pt_BR/five-or-more/rules.page
+/usr/share/help/pt_BR/five-or-more/scores.page
+/usr/share/help/pt_BR/five-or-more/shortcuts.page
+/usr/share/help/pt_BR/five-or-more/strategy.page
+/usr/share/help/pt_BR/five-or-more/translate.page
+/usr/share/help/sv/five-or-more/bug-filing.page
+/usr/share/help/sv/five-or-more/change-board-size.page
+/usr/share/help/sv/five-or-more/change-theme.page
+/usr/share/help/sv/five-or-more/develop.page
+/usr/share/help/sv/five-or-more/documentation.page
+/usr/share/help/sv/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/sv/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/sv/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/sv/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/sv/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/sv/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/sv/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/sv/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/sv/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/sv/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/sv/five-or-more/index.page
+/usr/share/help/sv/five-or-more/legal.xml
+/usr/share/help/sv/five-or-more/license.page
+/usr/share/help/sv/five-or-more/play.page
+/usr/share/help/sv/five-or-more/rules.page
+/usr/share/help/sv/five-or-more/scores.page
+/usr/share/help/sv/five-or-more/shortcuts.page
+/usr/share/help/sv/five-or-more/strategy.page
+/usr/share/help/sv/five-or-more/translate.page
+/usr/share/help/uk/five-or-more/bug-filing.page
+/usr/share/help/uk/five-or-more/change-board-size.page
+/usr/share/help/uk/five-or-more/change-theme.page
+/usr/share/help/uk/five-or-more/develop.page
+/usr/share/help/uk/five-or-more/documentation.page
+/usr/share/help/uk/five-or-more/figures/diagonal.png -> /usr/share/help/C/five-or-more/figures/diagonal.png
+/usr/share/help/uk/five-or-more/figures/glines-demo.ogv -> /usr/share/help/C/five-or-more/figures/glines-demo.ogv
+/usr/share/help/uk/five-or-more/figures/glines-gameover.png -> /usr/share/help/C/five-or-more/figures/glines-gameover.png
+/usr/share/help/uk/five-or-more/figures/horizontal.png -> /usr/share/help/C/five-or-more/figures/horizontal.png
+/usr/share/help/uk/five-or-more/figures/large.png -> /usr/share/help/C/five-or-more/figures/large.png
+/usr/share/help/uk/five-or-more/figures/logo.png -> /usr/share/help/C/five-or-more/figures/logo.png
+/usr/share/help/uk/five-or-more/figures/logo32.png -> /usr/share/help/C/five-or-more/figures/logo32.png
+/usr/share/help/uk/five-or-more/figures/medium.png -> /usr/share/help/C/five-or-more/figures/medium.png
+/usr/share/help/uk/five-or-more/figures/small.png -> /usr/share/help/C/five-or-more/figures/small.png
+/usr/share/help/uk/five-or-more/figures/vertical.png -> /usr/share/help/C/five-or-more/figures/vertical.png
+/usr/share/help/uk/five-or-more/index.page
+/usr/share/help/uk/five-or-more/legal.xml
+/usr/share/help/uk/five-or-more/license.page
+/usr/share/help/uk/five-or-more/play.page
+/usr/share/help/uk/five-or-more/rules.page
+/usr/share/help/uk/five-or-more/scores.page
+/usr/share/help/uk/five-or-more/shortcuts.page
+/usr/share/help/uk/five-or-more/strategy.page
+/usr/share/help/uk/five-or-more/translate.page
+/usr/share/icons/hicolor/16x16/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/22x22/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/24x24/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/256x256/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/32x32/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/48x48/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/512x512/apps/org.gnome.five-or-more.png
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.five-or-more-symbolic.svg
+/usr/share/locale/af/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/am/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ar/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/as/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ast/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/az/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/be/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/bg/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/bn/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/bn_IN/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/br/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/bs/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ca/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/cs/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/cy/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/da/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/de/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/dz/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/el/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/en@shaw/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/en_CA/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/en_GB/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/eo/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/es/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/et/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/eu/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/fa/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/fi/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/fr/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/fur/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ga/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/gl/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/gu/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/he/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/hi/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/hr/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/hu/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/id/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/is/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/it/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ja/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ka/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/kk/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/km/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/kn/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ko/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ku/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/lt/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/lv/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/mai/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/mk/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ml/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/mn/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/mr/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ms/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/nb/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ne/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/nl/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/nn/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/oc/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/or/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/pa/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/pl/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/pt/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ro/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ru/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/rw/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/si/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sk/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sl/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sq/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sr/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/sv/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ta/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/te/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/tg/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/th/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/tr/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/ug/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/uk/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/vi/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/wa/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/xh/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/five-or-more.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/five-or-more.mo
+/usr/share/man/man6/five-or-more.6
+/usr/share/metainfo/org.gnome.five-or-more.appdata.xml

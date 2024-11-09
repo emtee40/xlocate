@@ -1,0 +1,8 @@
+/usr/bin/sbt -> /usr/lib/sbt/bin/sbt
+/usr/lib/sbt/LICENSE
+/usr/lib/sbt/NOTICE
+/usr/lib/sbt/bin/sbt
+/usr/lib/sbt/bin/sbt-launch.jar
+/usr/lib/sbt/bin/sbtn-x86_64-pc-linux
+/usr/lib/sbt/conf/sbtconfig.txt
+/usr/lib/sbt/conf/sbtopts

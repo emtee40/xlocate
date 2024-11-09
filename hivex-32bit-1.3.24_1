@@ -1,0 +1,8 @@
+/usr/lib32/libhivex.a
+/usr/lib32/libhivex.so -> /usr/lib32/libhivex.so.0.0.0
+/usr/lib32/libhivex.so.0 -> /usr/lib32/libhivex.so.0.0.0
+/usr/lib32/libhivex.so.0.0.0
+/usr/lib32/perl5/site_perl/auto/Win/Hivex/Hivex.so
+/usr/lib32/pkgconfig/hivex.pc
+/usr/lib32/python3.12/site-packages/libhivexmod.so
+/usr/lib32/ruby/site_ruby/3.3.0/i686-linux/_hivex.so

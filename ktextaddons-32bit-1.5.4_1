@@ -1,0 +1,28 @@
+/usr/lib32/libKF6TextAddonsWidgets.so.1 -> /usr/lib32/libKF6TextAddonsWidgets.so.1.5.4
+/usr/lib32/libKF6TextAddonsWidgets.so.1.5.4
+/usr/lib32/libKF6TextAutoCorrectionCore.so.1 -> /usr/lib32/libKF6TextAutoCorrectionCore.so.1.5.4
+/usr/lib32/libKF6TextAutoCorrectionCore.so.1.5.4
+/usr/lib32/libKF6TextAutoCorrectionWidgets.so.1 -> /usr/lib32/libKF6TextAutoCorrectionWidgets.so.1.5.4
+/usr/lib32/libKF6TextAutoCorrectionWidgets.so.1.5.4
+/usr/lib32/libKF6TextCustomEditor.so.1 -> /usr/lib32/libKF6TextCustomEditor.so.1.5.4
+/usr/lib32/libKF6TextCustomEditor.so.1.5.4
+/usr/lib32/libKF6TextEditTextToSpeech.so.1 -> /usr/lib32/libKF6TextEditTextToSpeech.so.1.5.4
+/usr/lib32/libKF6TextEditTextToSpeech.so.1.5.4
+/usr/lib32/libKF6TextEmoticonsCore.so.1 -> /usr/lib32/libKF6TextEmoticonsCore.so.1.5.4
+/usr/lib32/libKF6TextEmoticonsCore.so.1.5.4
+/usr/lib32/libKF6TextEmoticonsWidgets.so.1 -> /usr/lib32/libKF6TextEmoticonsWidgets.so.1.5.4
+/usr/lib32/libKF6TextEmoticonsWidgets.so.1.5.4
+/usr/lib32/libKF6TextGrammarCheck.so.1 -> /usr/lib32/libKF6TextGrammarCheck.so.1.5.4
+/usr/lib32/libKF6TextGrammarCheck.so.1.5.4
+/usr/lib32/libKF6TextTranslator.so.1 -> /usr/lib32/libKF6TextTranslator.so.1.5.4
+/usr/lib32/libKF6TextTranslator.so.1.5.4
+/usr/lib32/libKF6TextUtils.so.1 -> /usr/lib32/libKF6TextUtils.so.1.5.4
+/usr/lib32/libKF6TextUtils.so.1.5.4
+/usr/lib32/qt6/plugins/designer/textcustomeditor.so
+/usr/lib32/qt6/plugins/designer/texttranslatorwidgets6.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_bing.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_deepl.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_google.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_libretranslate.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_lingva.so
+/usr/lib32/qt6/plugins/kf6/translator/translator_yandex.so

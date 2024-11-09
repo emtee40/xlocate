@@ -1,0 +1,3 @@
+/usr/include/libfprint/fprint.h
+/usr/lib/libfprint.so -> /usr/lib/libfprint.so.0
+/usr/lib/pkgconfig/libfprint.pc

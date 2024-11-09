@@ -1,0 +1,5 @@
+/usr/include/uninameslist.h
+/usr/lib/libuninameslist.a
+/usr/lib/libuninameslist.so -> /usr/lib/libuninameslist.so.1.0.15
+/usr/lib/pkgconfig/libuninameslist.pc
+/usr/share/man/man3/libuninameslist.3

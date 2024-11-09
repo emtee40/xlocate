@@ -1,0 +1,3 @@
+/usr/bin/pigz
+/usr/bin/unpigz -> /usr/bin/pigz
+/usr/share/man/man1/pigz.1

@@ -1,0 +1,6 @@
+/etc/sv/goatcounter/log/run
+/etc/sv/goatcounter/log/supervise -> /run/runit/supervise.goatcounter-log
+/etc/sv/goatcounter/run
+/etc/sv/goatcounter/supervise -> /run/runit/supervise.goatcounter
+/usr/bin/goatcounter
+/usr/share/doc/goatcounter/README.voidlinux

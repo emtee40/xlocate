@@ -1,0 +1,15 @@
+/usr/include/gom-1.0/gom/gom-adapter.h
+/usr/include/gom-1.0/gom/gom-autocleanups.h
+/usr/include/gom-1.0/gom/gom-command-builder.h
+/usr/include/gom-1.0/gom/gom-command.h
+/usr/include/gom-1.0/gom/gom-cursor.h
+/usr/include/gom-1.0/gom/gom-error.h
+/usr/include/gom-1.0/gom/gom-filter.h
+/usr/include/gom-1.0/gom/gom-repository.h
+/usr/include/gom-1.0/gom/gom-resource-group.h
+/usr/include/gom-1.0/gom/gom-resource.h
+/usr/include/gom-1.0/gom/gom-sorting.h
+/usr/include/gom-1.0/gom/gom.h
+/usr/lib/libgom-1.0.so -> /usr/lib/libgom-1.0.so.0
+/usr/lib/pkgconfig/gom-1.0.pc
+/usr/share/gir-1.0/Gom-1.0.gir

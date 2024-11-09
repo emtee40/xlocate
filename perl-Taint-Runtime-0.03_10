@@ -1,0 +1,4 @@
+/usr/lib/perl5/vendor_perl/Taint/Runtime.pm
+/usr/lib/perl5/vendor_perl/Taint/is_taint_bench.pl
+/usr/lib/perl5/vendor_perl/auto/Taint/Runtime/Runtime.so
+/usr/share/man/man3/Taint::Runtime.3p

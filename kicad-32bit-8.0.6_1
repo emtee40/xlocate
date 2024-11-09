@@ -1,0 +1,10 @@
+/usr/lib32/kicad/plugins/3d/libs3d_plugin_idf.so
+/usr/lib32/kicad/plugins/3d/libs3d_plugin_oce.so
+/usr/lib32/kicad/plugins/3d/libs3d_plugin_vrml.so
+/usr/lib32/libkicad_3dsg.so -> /usr/lib32/libkicad_3dsg.so.2.0.0
+/usr/lib32/libkicad_3dsg.so.2.0.0
+/usr/lib32/libkicommon.so -> /usr/lib32/libkicommon.so.8.0.6
+/usr/lib32/libkicommon.so.8.0.6
+/usr/lib32/libkigal.so -> /usr/lib32/libkigal.so.8.0.6
+/usr/lib32/libkigal.so.8.0.6
+/usr/lib32/python3.12/site-packages/_pcbnew.so -> ../../../bin/_pcbnew.kiface

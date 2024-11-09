@@ -1,0 +1,8 @@
+/etc/dbus-1/system.d/dbus.conf
+/etc/dnsmasq.conf
+/etc/sv/dnsmasq/log/run
+/etc/sv/dnsmasq/log/supervise -> /run/runit/supervise.dnsmasq-log
+/etc/sv/dnsmasq/run
+/etc/sv/dnsmasq/supervise -> /run/runit/supervise.dnsmasq
+/usr/bin/dnsmasq
+/usr/share/man/man8/dnsmasq.8

@@ -1,0 +1,99 @@
+/usr/lib32/codeblocks/plugins/libAstyle.so
+/usr/lib32/codeblocks/plugins/libAutoVersioning.so
+/usr/lib32/codeblocks/plugins/libBrowseTracker.so
+/usr/lib32/codeblocks/plugins/libCccc.so
+/usr/lib32/codeblocks/plugins/libCppCheck.so
+/usr/lib32/codeblocks/plugins/libCscope.so
+/usr/lib32/codeblocks/plugins/libDoxyBlocks.so
+/usr/lib32/codeblocks/plugins/libEditorConfig.so
+/usr/lib32/codeblocks/plugins/libEditorTweaks.so
+/usr/lib32/codeblocks/plugins/libFileManager.so
+/usr/lib32/codeblocks/plugins/libHexEditor.so
+/usr/lib32/codeblocks/plugins/libIncrementalSearch.so
+/usr/lib32/codeblocks/plugins/libMouseSap.so
+/usr/lib32/codeblocks/plugins/libNassiShneiderman.so
+/usr/lib32/codeblocks/plugins/libProfiler.so
+/usr/lib32/codeblocks/plugins/libProjectOptionsManipulator.so
+/usr/lib32/codeblocks/plugins/libRegExTestbed.so
+/usr/lib32/codeblocks/plugins/libReopenEditor.so
+/usr/lib32/codeblocks/plugins/libSmartIndentCpp.so
+/usr/lib32/codeblocks/plugins/libSmartIndentFortran.so
+/usr/lib32/codeblocks/plugins/libSmartIndentHDL.so
+/usr/lib32/codeblocks/plugins/libSmartIndentLua.so
+/usr/lib32/codeblocks/plugins/libSmartIndentPascal.so
+/usr/lib32/codeblocks/plugins/libSmartIndentPython.so
+/usr/lib32/codeblocks/plugins/libSmartIndentXML.so
+/usr/lib32/codeblocks/plugins/libSpellChecker.so
+/usr/lib32/codeblocks/plugins/libSymTab.so
+/usr/lib32/codeblocks/plugins/libThreadSearch.so
+/usr/lib32/codeblocks/plugins/libToolsPlus.so
+/usr/lib32/codeblocks/plugins/libValgrind.so
+/usr/lib32/codeblocks/plugins/libabbreviations.so
+/usr/lib32/codeblocks/plugins/libautosave.so
+/usr/lib32/codeblocks/plugins/libbyogames.so
+/usr/lib32/codeblocks/plugins/libcb_koders.so
+/usr/lib32/codeblocks/plugins/libclasswizard.so
+/usr/lib32/codeblocks/plugins/libcodecompletion.so
+/usr/lib32/codeblocks/plugins/libcodesnippets.so
+/usr/lib32/codeblocks/plugins/libcodestat.so
+/usr/lib32/codeblocks/plugins/libcompiler.so
+/usr/lib32/codeblocks/plugins/libcopystrings.so
+/usr/lib32/codeblocks/plugins/libdebugger.so
+/usr/lib32/codeblocks/plugins/libdefaultmimehandler.so
+/usr/lib32/codeblocks/plugins/libdragscroll.so
+/usr/lib32/codeblocks/plugins/libenvvars.so
+/usr/lib32/codeblocks/plugins/libexporter.so
+/usr/lib32/codeblocks/plugins/libheaderfixup.so
+/usr/lib32/codeblocks/plugins/libhelp_plugin.so
+/usr/lib32/codeblocks/plugins/libkeybinder.so
+/usr/lib32/codeblocks/plugins/liblib_finder.so
+/usr/lib32/codeblocks/plugins/liboccurrenceshighlighting.so
+/usr/lib32/codeblocks/plugins/libopenfileslist.so
+/usr/lib32/codeblocks/plugins/libprojectsimporter.so
+/usr/lib32/codeblocks/plugins/librndgen.so
+/usr/lib32/codeblocks/plugins/libscriptedwizard.so
+/usr/lib32/codeblocks/plugins/libtodo.so
+/usr/lib32/codeblocks/plugins/libwxSmithAui.so
+/usr/lib32/codeblocks/plugins/libwxsmith.so
+/usr/lib32/codeblocks/plugins/libwxsmithcontribitems.so
+/usr/lib32/codeblocks/wxContribItems/libwxchartctrl.so -> /usr/lib32/codeblocks/wxContribItems/libwxchartctrl.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxchartctrl.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxchartctrl.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxchartctrl.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxcustombutton.so -> /usr/lib32/codeblocks/wxContribItems/libwxcustombutton.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxcustombutton.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxcustombutton.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxcustombutton.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxflatnotebook.so -> /usr/lib32/codeblocks/wxContribItems/libwxflatnotebook.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxflatnotebook.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxflatnotebook.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxflatnotebook.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwximagepanel.so -> /usr/lib32/codeblocks/wxContribItems/libwximagepanel.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwximagepanel.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwximagepanel.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwximagepanel.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxkwic.so -> /usr/lib32/codeblocks/wxContribItems/libwxkwic.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxkwic.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxkwic.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxkwic.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxled.so -> /usr/lib32/codeblocks/wxContribItems/libwxled.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxled.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxled.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxled.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxmathplot.so -> /usr/lib32/codeblocks/wxContribItems/libwxmathplot.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxmathplot.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxmathplot.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxmathplot.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxspeedbutton.so -> /usr/lib32/codeblocks/wxContribItems/libwxspeedbutton.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxspeedbutton.so.0 -> /usr/lib32/codeblocks/wxContribItems/libwxspeedbutton.so.0.0.1
+/usr/lib32/codeblocks/wxContribItems/libwxspeedbutton.so.0.0.1
+/usr/lib32/libcodeblocks.so.0 -> /usr/lib32/libcodeblocks.so.0.0.1
+/usr/lib32/libcodeblocks.so.0.0.1
+/usr/lib32/libwxsmithlib.so.0 -> /usr/lib32/libwxsmithlib.so.0.0.1
+/usr/lib32/libwxsmithlib.so.0.0.1
+/usr/lib32/pkgconfig/cb_wxKWIC.pc
+/usr/lib32/pkgconfig/cb_wxchartctrl.pc
+/usr/lib32/pkgconfig/cb_wxcontrib.pc
+/usr/lib32/pkgconfig/cb_wxcustombutton.pc
+/usr/lib32/pkgconfig/cb_wxflatnotebook.pc
+/usr/lib32/pkgconfig/cb_wximagepanel.pc
+/usr/lib32/pkgconfig/cb_wxled.pc
+/usr/lib32/pkgconfig/cb_wxmathplot.pc
+/usr/lib32/pkgconfig/cb_wxspeedbutton.pc
+/usr/lib32/pkgconfig/codeblocks.pc
+/usr/lib32/pkgconfig/wxsmith-contrib.pc
+/usr/lib32/pkgconfig/wxsmith.pc
+/usr/lib32/pkgconfig/wxsmithaui.pc

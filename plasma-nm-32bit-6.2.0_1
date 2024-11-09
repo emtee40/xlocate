@@ -1,0 +1,15 @@
+/usr/lib32/libplasmanm_editor.so
+/usr/lib32/libplasmanm_internal.so
+/usr/lib32/qt6/plugins/kf6/kded/networkmanagement.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings_qwidgets/kcm_networkmanagement.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_fortisslvpnui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_iodineui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_l2tpui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_libreswanui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_openvpnui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_pptpui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_sshui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_sstpui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_strongswanui.so
+/usr/lib32/qt6/plugins/plasma/network/vpn/plasmanetworkmanagement_vpncui.so
+/usr/lib32/qt6/qml/org/kde/plasma/networkmanagement/libplasmanm_internalplugin.so

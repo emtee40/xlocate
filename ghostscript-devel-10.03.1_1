@@ -1,0 +1,8 @@
+/usr/include/ghostscript/gdevdsp.h
+/usr/include/ghostscript/gserrors.h
+/usr/include/ghostscript/iapi.h
+/usr/include/ghostscript/ierrors.h
+/usr/include/ijs/ijs.h
+/usr/include/ijs/ijs_client.h
+/usr/include/ijs/ijs_server.h
+/usr/lib/pkgconfig/ijs.pc

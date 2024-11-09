@@ -1,0 +1,4 @@
+/usr/include/gmpxx.h
+/usr/lib/libgmpxx.a
+/usr/lib/libgmpxx.so -> /usr/lib/libgmpxx.so.4.7.0
+/usr/lib/pkgconfig/gmpxx.pc

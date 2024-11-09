@@ -1,0 +1,6 @@
+/etc/sv/spampd/run
+/etc/sv/spampd/supervise -> /run/runit/supervise.spampd
+/usr/bin/spampd
+/usr/share/doc/spampd/changelog
+/usr/share/doc/spampd/spampd.html
+/usr/share/man/man8/spampd.8

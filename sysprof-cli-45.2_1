@@ -1,0 +1,7 @@
+/usr/bin/sysprof-agent
+/usr/bin/sysprof-cli
+/usr/lib/systemd/sysprof3.service
+/usr/libexec/sysprofd
+/usr/share/dbus-1/system-services/org.gnome.Sysprof3.service
+/usr/share/dbus-1/system.d/org.gnome.Sysprof3.conf
+/usr/share/polkit-1/actions/org.gnome.sysprof3.policy

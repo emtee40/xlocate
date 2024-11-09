@@ -1,0 +1,3 @@
+/usr/include/avahi-libevent/libevent-watch.h
+/usr/lib/libavahi-libevent.so -> /usr/lib/libavahi-libevent.so.1.0.0
+/usr/lib/pkgconfig/avahi-libevent.pc

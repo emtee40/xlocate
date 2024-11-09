@@ -1,0 +1,2 @@
+/usr/lib32/librabbitmq.so.0.13.0
+/usr/lib32/librabbitmq.so.4 -> /usr/lib32/librabbitmq.so.0.13.0

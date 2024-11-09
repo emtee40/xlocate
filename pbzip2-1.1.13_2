@@ -1,0 +1,5 @@
+/usr/bin/pbunzip2 -> /usr/bin/pbzip2
+/usr/bin/pbzcat -> /usr/bin/pbzip2
+/usr/bin/pbzip2
+/usr/share/licenses/pbzip2/COPYING
+/usr/share/man/man1/pbzip2.1

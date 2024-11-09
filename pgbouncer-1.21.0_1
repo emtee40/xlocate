@@ -1,0 +1,11 @@
+/usr/bin/pgbouncer
+/usr/share/doc/pgbouncer/NEWS.md
+/usr/share/doc/pgbouncer/README.md
+/usr/share/doc/pgbouncer/pgbouncer-minimal.ini
+/usr/share/doc/pgbouncer/pgbouncer.ini
+/usr/share/doc/pgbouncer/pgbouncer.service
+/usr/share/doc/pgbouncer/pgbouncer.socket
+/usr/share/doc/pgbouncer/userlist.txt
+/usr/share/licenses/pgbouncer/COPYRIGHT
+/usr/share/man/man1/pgbouncer.1
+/usr/share/man/man5/pgbouncer.5

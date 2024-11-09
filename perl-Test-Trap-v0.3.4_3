@@ -1,0 +1,10 @@
+/usr/share/man/man3/Test::Trap.3p
+/usr/share/man/man3/Test::Trap::Builder.3p
+/usr/share/man/man3/Test::Trap::Builder::PerlIO.3p
+/usr/share/man/man3/Test::Trap::Builder::SystemSafe.3p
+/usr/share/man/man3/Test::Trap::Builder::TempFile.3p
+/usr/share/perl5/vendor_perl/Test/Trap.pm
+/usr/share/perl5/vendor_perl/Test/Trap/Builder.pm
+/usr/share/perl5/vendor_perl/Test/Trap/Builder/PerlIO.pm
+/usr/share/perl5/vendor_perl/Test/Trap/Builder/SystemSafe.pm
+/usr/share/perl5/vendor_perl/Test/Trap/Builder/TempFile.pm

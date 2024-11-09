@@ -1,0 +1,132 @@
+/usr/lib32/qtcreator/libAdvancedDockingSystem.so.13 -> /usr/lib32/qtcreator/libAdvancedDockingSystem.so.13.0.2
+/usr/lib32/qtcreator/libAdvancedDockingSystem.so.13.0.2
+/usr/lib32/qtcreator/libAggregation.so.13 -> /usr/lib32/qtcreator/libAggregation.so.13.0.2
+/usr/lib32/qtcreator/libAggregation.so.13.0.2
+/usr/lib32/qtcreator/libCPlusPlus.so.13 -> /usr/lib32/qtcreator/libCPlusPlus.so.13.0.2
+/usr/lib32/qtcreator/libCPlusPlus.so.13.0.2
+/usr/lib32/qtcreator/libExtensionSystem.so.13 -> /usr/lib32/qtcreator/libExtensionSystem.so.13.0.2
+/usr/lib32/qtcreator/libExtensionSystem.so.13.0.2
+/usr/lib32/qtcreator/libGLSL.so.13 -> /usr/lib32/qtcreator/libGLSL.so.13.0.2
+/usr/lib32/qtcreator/libGLSL.so.13.0.2
+/usr/lib32/qtcreator/libKSyntaxHighlighting.so.13 -> /usr/lib32/qtcreator/libKSyntaxHighlighting.so.13.0.2
+/usr/lib32/qtcreator/libKSyntaxHighlighting.so.13.0.2
+/usr/lib32/qtcreator/libLanguageServerProtocol.so.13 -> /usr/lib32/qtcreator/libLanguageServerProtocol.so.13.0.2
+/usr/lib32/qtcreator/libLanguageServerProtocol.so.13.0.2
+/usr/lib32/qtcreator/libLanguageUtils.so.13 -> /usr/lib32/qtcreator/libLanguageUtils.so.13.0.2
+/usr/lib32/qtcreator/libLanguageUtils.so.13.0.2
+/usr/lib32/qtcreator/libModeling.so.13 -> /usr/lib32/qtcreator/libModeling.so.13.0.2
+/usr/lib32/qtcreator/libModeling.so.13.0.2
+/usr/lib32/qtcreator/libNanotrace.so.13 -> /usr/lib32/qtcreator/libNanotrace.so.13.0.2
+/usr/lib32/qtcreator/libNanotrace.so.13.0.2
+/usr/lib32/qtcreator/libProParser.so.13 -> /usr/lib32/qtcreator/libProParser.so.13.0.2
+/usr/lib32/qtcreator/libProParser.so.13.0.2
+/usr/lib32/qtcreator/libQmlDebug.so.13 -> /usr/lib32/qtcreator/libQmlDebug.so.13.0.2
+/usr/lib32/qtcreator/libQmlDebug.so.13.0.2
+/usr/lib32/qtcreator/libQmlEditorWidgets.so.13 -> /usr/lib32/qtcreator/libQmlEditorWidgets.so.13.0.2
+/usr/lib32/qtcreator/libQmlEditorWidgets.so.13.0.2
+/usr/lib32/qtcreator/libQmlJS.so.13 -> /usr/lib32/qtcreator/libQmlJS.so.13.0.2
+/usr/lib32/qtcreator/libQmlJS.so.13.0.2
+/usr/lib32/qtcreator/libSqlite.so.13 -> /usr/lib32/qtcreator/libSqlite.so.13.0.2
+/usr/lib32/qtcreator/libSqlite.so.13.0.2
+/usr/lib32/qtcreator/libTerminalLib.so.13 -> /usr/lib32/qtcreator/libTerminalLib.so.13.0.2
+/usr/lib32/qtcreator/libTerminalLib.so.13.0.2
+/usr/lib32/qtcreator/libTracing.so.13 -> /usr/lib32/qtcreator/libTracing.so.13.0.2
+/usr/lib32/qtcreator/libTracing.so.13.0.2
+/usr/lib32/qtcreator/libUtils.so.13 -> /usr/lib32/qtcreator/libUtils.so.13.0.2
+/usr/lib32/qtcreator/libUtils.so.13.0.2
+/usr/lib32/qtcreator/libqlitehtml.so.13 -> /usr/lib32/qtcreator/libqlitehtml.so.13.0.2
+/usr/lib32/qtcreator/libqlitehtml.so.13.0.2
+/usr/lib32/qtcreator/libqtkeychain.so.13 -> /usr/lib32/qtcreator/libqtkeychain.so.13.0.2
+/usr/lib32/qtcreator/libqtkeychain.so.13.0.2
+/usr/lib32/qtcreator/libyaml-cpp.so.13 -> /usr/lib32/qtcreator/libyaml-cpp.so.13.0.2
+/usr/lib32/qtcreator/libyaml-cpp.so.13.0.2
+/usr/lib32/qtcreator/plugins/libAndroid.so
+/usr/lib32/qtcreator/plugins/libAutoTest.so
+/usr/lib32/qtcreator/plugins/libAutotoolsProjectManager.so
+/usr/lib32/qtcreator/plugins/libAxivion.so
+/usr/lib32/qtcreator/plugins/libBareMetal.so
+/usr/lib32/qtcreator/plugins/libBazaar.so
+/usr/lib32/qtcreator/plugins/libBeautifier.so
+/usr/lib32/qtcreator/plugins/libBinEditor.so
+/usr/lib32/qtcreator/plugins/libBoot2Qt.so
+/usr/lib32/qtcreator/plugins/libCMakeProjectManager.so
+/usr/lib32/qtcreator/plugins/libCVS.so
+/usr/lib32/qtcreator/plugins/libClangCodeModel.so
+/usr/lib32/qtcreator/plugins/libClangTools.so
+/usr/lib32/qtcreator/plugins/libClassView.so
+/usr/lib32/qtcreator/plugins/libClearCase.so
+/usr/lib32/qtcreator/plugins/libCoco.so
+/usr/lib32/qtcreator/plugins/libCodePaster.so
+/usr/lib32/qtcreator/plugins/libCompilationDatabaseProjectManager.so
+/usr/lib32/qtcreator/plugins/libCompilerExplorer.so
+/usr/lib32/qtcreator/plugins/libConan.so
+/usr/lib32/qtcreator/plugins/libCopilot.so
+/usr/lib32/qtcreator/plugins/libCore.so
+/usr/lib32/qtcreator/plugins/libCppEditor.so
+/usr/lib32/qtcreator/plugins/libCppcheck.so
+/usr/lib32/qtcreator/plugins/libCtfVisualizer.so
+/usr/lib32/qtcreator/plugins/libDebugger.so
+/usr/lib32/qtcreator/plugins/libDiffEditor.so
+/usr/lib32/qtcreator/plugins/libDocker.so
+/usr/lib32/qtcreator/plugins/libEffectComposer.so
+/usr/lib32/qtcreator/plugins/libEmacsKeys.so
+/usr/lib32/qtcreator/plugins/libExtensionManager.so
+/usr/lib32/qtcreator/plugins/libFakeVim.so
+/usr/lib32/qtcreator/plugins/libFossil.so
+/usr/lib32/qtcreator/plugins/libGLSLEditor.so
+/usr/lib32/qtcreator/plugins/libGenericProjectManager.so
+/usr/lib32/qtcreator/plugins/libGit.so
+/usr/lib32/qtcreator/plugins/libGitLab.so
+/usr/lib32/qtcreator/plugins/libHaskell.so
+/usr/lib32/qtcreator/plugins/libHelloWorld.so
+/usr/lib32/qtcreator/plugins/libImageViewer.so
+/usr/lib32/qtcreator/plugins/libIncrediBuild.so
+/usr/lib32/qtcreator/plugins/libInsight.so
+/usr/lib32/qtcreator/plugins/libIos.so
+/usr/lib32/qtcreator/plugins/libLanguageClient.so
+/usr/lib32/qtcreator/plugins/libMacros.so
+/usr/lib32/qtcreator/plugins/libMarketplace.so
+/usr/lib32/qtcreator/plugins/libMcuSupport.so
+/usr/lib32/qtcreator/plugins/libMercurial.so
+/usr/lib32/qtcreator/plugins/libMesonProjectManager.so
+/usr/lib32/qtcreator/plugins/libModelEditor.so
+/usr/lib32/qtcreator/plugins/libNim.so
+/usr/lib32/qtcreator/plugins/libPerfProfiler.so
+/usr/lib32/qtcreator/plugins/libPerforce.so
+/usr/lib32/qtcreator/plugins/libProjectExplorer.so
+/usr/lib32/qtcreator/plugins/libPython.so
+/usr/lib32/qtcreator/plugins/libQbsProjectManager.so
+/usr/lib32/qtcreator/plugins/libQmakeProjectManager.so
+/usr/lib32/qtcreator/plugins/libQmlDesigner.so
+/usr/lib32/qtcreator/plugins/libQmlDesignerBase.so
+/usr/lib32/qtcreator/plugins/libQmlJSEditor.so
+/usr/lib32/qtcreator/plugins/libQmlJSTools.so
+/usr/lib32/qtcreator/plugins/libQmlPreview.so
+/usr/lib32/qtcreator/plugins/libQmlProfiler.so
+/usr/lib32/qtcreator/plugins/libQmlProjectManager.so
+/usr/lib32/qtcreator/plugins/libQnx.so
+/usr/lib32/qtcreator/plugins/libQtApplicationManagerIntegration.so
+/usr/lib32/qtcreator/plugins/libQtSupport.so
+/usr/lib32/qtcreator/plugins/libRemoteLinux.so
+/usr/lib32/qtcreator/plugins/libResourceEditor.so
+/usr/lib32/qtcreator/plugins/libSafeRenderer.so
+/usr/lib32/qtcreator/plugins/libScreenRecorder.so
+/usr/lib32/qtcreator/plugins/libScxmlEditor.so
+/usr/lib32/qtcreator/plugins/libSerialTerminal.so
+/usr/lib32/qtcreator/plugins/libSilverSearcher.so
+/usr/lib32/qtcreator/plugins/libSquish.so
+/usr/lib32/qtcreator/plugins/libStudioWelcome.so
+/usr/lib32/qtcreator/plugins/libSubversion.so
+/usr/lib32/qtcreator/plugins/libTerminal.so
+/usr/lib32/qtcreator/plugins/libTextEditor.so
+/usr/lib32/qtcreator/plugins/libTodo.so
+/usr/lib32/qtcreator/plugins/libUpdateInfo.so
+/usr/lib32/qtcreator/plugins/libValgrind.so
+/usr/lib32/qtcreator/plugins/libVcpkg.so
+/usr/lib32/qtcreator/plugins/libVcsBase.so
+/usr/lib32/qtcreator/plugins/libWebAssembly.so
+/usr/lib32/qtcreator/plugins/libWelcome.so
+/usr/lib32/qtcreator/plugins/qmldesigner/libassetexporterplugin.so
+/usr/lib32/qtcreator/plugins/qmldesigner/libcomponentsplugin.so
+/usr/lib32/qtcreator/plugins/qmldesigner/libqmlpreviewplugin.so
+/usr/lib32/qtcreator/plugins/qmldesigner/libqtquickplugin.so

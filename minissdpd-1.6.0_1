@@ -1,0 +1,5 @@
+/etc/sv/minissdpd/run
+/etc/sv/minissdpd/supervise -> /run/runit/supervise.minissdpd
+/usr/bin/minissdpd
+/usr/share/licenses/minissdpd/LICENSE
+/usr/share/man/man1/minissdpd.1

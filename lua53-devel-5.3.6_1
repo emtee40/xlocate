@@ -1,0 +1,16 @@
+/usr/include/lua5.3/lauxlib.h
+/usr/include/lua5.3/lua.h
+/usr/include/lua5.3/lua.hpp
+/usr/include/lua5.3/luaconf.h
+/usr/include/lua5.3/lualib.h
+/usr/lib/liblua5.3.a
+/usr/lib/liblua5.3.so -> /usr/lib/liblua5.3.so.5.3.6
+/usr/lib/pkgconfig/lua5.3.pc
+/usr/share/doc/lua5.3/contents.html
+/usr/share/doc/lua5.3/index.css
+/usr/share/doc/lua5.3/logo.gif
+/usr/share/doc/lua5.3/lua.css
+/usr/share/doc/lua5.3/manual.css
+/usr/share/doc/lua5.3/manual.html
+/usr/share/doc/lua5.3/osi-certified-72x60.png
+/usr/share/doc/lua5.3/readme.html

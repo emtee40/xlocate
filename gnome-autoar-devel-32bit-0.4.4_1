@@ -1,0 +1,4 @@
+/usr/lib32/libgnome-autoar-0.so -> /usr/lib32/libgnome-autoar-0.so.0
+/usr/lib32/libgnome-autoar-gtk-0.so -> /usr/lib32/libgnome-autoar-gtk-0.so.0
+/usr/lib32/pkgconfig/gnome-autoar-0.pc
+/usr/lib32/pkgconfig/gnome-autoar-gtk-0.pc

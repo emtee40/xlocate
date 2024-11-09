@@ -1,0 +1,16 @@
+/usr/lib32/libts.so.0 -> /usr/lib32/libts.so.0.10.5
+/usr/lib32/libts.so.0.10.5
+/usr/lib32/ts/debounce.so
+/usr/lib32/ts/dejitter.so
+/usr/lib32/ts/evthres.so
+/usr/lib32/ts/iir.so
+/usr/lib32/ts/input.so
+/usr/lib32/ts/invert.so
+/usr/lib32/ts/linear.so
+/usr/lib32/ts/lowpass.so
+/usr/lib32/ts/median.so
+/usr/lib32/ts/pthres.so
+/usr/lib32/ts/skip.so
+/usr/lib32/ts/touchkit.so
+/usr/lib32/ts/variance.so
+/usr/lib32/ts/waveshare.so

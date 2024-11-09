@@ -1,0 +1,9 @@
+/usr/lib32/simutron/libavrmcuplugin.so
+/usr/lib32/simutron/libavrserialtermplugin.so
+/usr/lib32/simutron/libbincounterplugin.so
+/usr/lib32/simutron/libfulladderplugin.so
+/usr/lib32/simutron/libhd44780plugin.so
+/usr/lib32/simutron/liblfd4155plugin.so
+/usr/lib32/simutron/libpcd8544plugin.so
+/usr/lib32/simutron/libpushbuttonplugin.so
+/usr/lib32/simutron/librencoderplugin.so

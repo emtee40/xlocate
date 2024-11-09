@@ -1,0 +1,3 @@
+/usr/lib32/libexif.a
+/usr/lib32/libexif.so -> /usr/lib32/libexif.so.12.3.4
+/usr/lib32/pkgconfig/libexif.pc

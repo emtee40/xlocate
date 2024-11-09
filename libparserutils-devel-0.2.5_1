@@ -1,0 +1,15 @@
+/usr/include/parserutils/charset/codec.h
+/usr/include/parserutils/charset/mibenum.h
+/usr/include/parserutils/charset/utf16.h
+/usr/include/parserutils/charset/utf8.h
+/usr/include/parserutils/errors.h
+/usr/include/parserutils/functypes.h
+/usr/include/parserutils/input/inputstream.h
+/usr/include/parserutils/parserutils.h
+/usr/include/parserutils/types.h
+/usr/include/parserutils/utils/buffer.h
+/usr/include/parserutils/utils/stack.h
+/usr/include/parserutils/utils/vector.h
+/usr/lib/libparserutils.a
+/usr/lib/libparserutils.so -> /usr/lib/libparserutils.so.0.2.5
+/usr/lib/pkgconfig/libparserutils.pc

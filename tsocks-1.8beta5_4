@@ -1,0 +1,9 @@
+/usr/bin/tsocks
+/usr/lib/libtsocks.so -> /usr/lib/libtsocks.so.1
+/usr/lib/libtsocks.so.1 -> /usr/lib/libtsocks.so.1.8
+/usr/lib/libtsocks.so.1.8
+/usr/share/examples/tsocks/tsocks.conf.complex.example
+/usr/share/examples/tsocks/tsocks.conf.simple.example
+/usr/share/man/man1/tsocks.1
+/usr/share/man/man5/tsocks.conf.5
+/usr/share/man/man8/tsocks.8

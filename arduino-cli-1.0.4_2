@@ -1,0 +1,4 @@
+/usr/bin/arduino-cli
+/usr/share/bash-completion/completions/arduino-cli
+/usr/share/fish/vendor_completions.d/arduino-cli.fish
+/usr/share/zsh/site-functions/_arduino-cli

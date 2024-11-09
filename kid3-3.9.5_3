@@ -1,0 +1,111 @@
+/usr/bin/kid3-cli
+/usr/bin/kid3-qt
+/usr/lib/kid3/libkid3-core.so
+/usr/lib/kid3/libkid3-gui.so
+/usr/lib/kid3/plugins/imports/Kid3/Kid3Script.qml
+/usr/lib/kid3/plugins/imports/Kid3/libkid3qml.so
+/usr/lib/kid3/plugins/imports/Kid3/plugins.qmltypes
+/usr/lib/kid3/plugins/imports/Kid3/qmldir
+/usr/lib/kid3/plugins/libacoustidimport.so
+/usr/lib/kid3/plugins/libamazonimport.so
+/usr/lib/kid3/plugins/libdiscogsimport.so
+/usr/lib/kid3/plugins/libfreedbimport.so
+/usr/lib/kid3/plugins/libid3libmetadata.so
+/usr/lib/kid3/plugins/libmp4v2metadata.so
+/usr/lib/kid3/plugins/libmusicbrainzimport.so
+/usr/lib/kid3/plugins/liboggflacmetadata.so
+/usr/lib/kid3/plugins/libqmlcommand.so
+/usr/lib/kid3/plugins/libtaglibmetadata.so
+/usr/share/applications/org.kde.kid3-qt.desktop
+/usr/share/doc/kid3-qt/kid3_ca.html
+/usr/share/doc/kid3-qt/kid3_de.html
+/usr/share/doc/kid3-qt/kid3_en.html
+/usr/share/doc/kid3-qt/kid3_it.html
+/usr/share/doc/kid3-qt/kid3_nl.html
+/usr/share/doc/kid3-qt/kid3_pt.html
+/usr/share/doc/kid3-qt/kid3_ru.html
+/usr/share/doc/kid3-qt/kid3_sv.html
+/usr/share/doc/kid3-qt/kid3_uk.html
+/usr/share/icons/hicolor/128x128/apps/kid3-qt.png
+/usr/share/icons/hicolor/16x16/apps/kid3-qt.png
+/usr/share/icons/hicolor/32x32/apps/kid3-qt.png
+/usr/share/icons/hicolor/48x48/apps/kid3-qt.png
+/usr/share/icons/hicolor/64x64/apps/kid3-qt.png
+/usr/share/icons/hicolor/scalable/apps/kid3-qt.svg
+/usr/share/kid3/qml/script/EmbedAlbumArt.qml
+/usr/share/kid3/qml/script/EmbedLyrics.qml
+/usr/share/kid3/qml/script/ExportCsv.qml
+/usr/share/kid3/qml/script/ExportHtmlPlayer.qml
+/usr/share/kid3/qml/script/ExportJson.qml
+/usr/share/kid3/qml/script/ExportPlaylist.qml
+/usr/share/kid3/qml/script/ExtractAlbumArt.qml
+/usr/share/kid3/qml/script/FixId3v2StandardViolations.qml
+/usr/share/kid3/qml/script/ImportCsv.qml
+/usr/share/kid3/qml/script/ImportJson.qml
+/usr/share/kid3/qml/script/QmlConsole.qml
+/usr/share/kid3/qml/script/ReplayGain2SoundCheck.qml
+/usr/share/kid3/qml/script/ResizeAlbumArt.qml
+/usr/share/kid3/qml/script/RewriteTags.qml
+/usr/share/kid3/qml/script/ShowTextEncodingV1.qml
+/usr/share/kid3/qml/script/Tag1ToAscii.qml
+/usr/share/kid3/qml/script/TitleCase.qml
+/usr/share/kid3/translations/kid3_ca.qm
+/usr/share/kid3/translations/kid3_ca@valencia.qm
+/usr/share/kid3/translations/kid3_cs.qm
+/usr/share/kid3/translations/kid3_da.qm
+/usr/share/kid3/translations/kid3_de.qm
+/usr/share/kid3/translations/kid3_el.qm
+/usr/share/kid3/translations/kid3_en.qm
+/usr/share/kid3/translations/kid3_en_GB.qm
+/usr/share/kid3/translations/kid3_es.qm
+/usr/share/kid3/translations/kid3_et.qm
+/usr/share/kid3/translations/kid3_eu.qm
+/usr/share/kid3/translations/kid3_fi.qm
+/usr/share/kid3/translations/kid3_fr.qm
+/usr/share/kid3/translations/kid3_is.qm
+/usr/share/kid3/translations/kid3_it.qm
+/usr/share/kid3/translations/kid3_ko.qm
+/usr/share/kid3/translations/kid3_nl.qm
+/usr/share/kid3/translations/kid3_nn.qm
+/usr/share/kid3/translations/kid3_pl.qm
+/usr/share/kid3/translations/kid3_pt.qm
+/usr/share/kid3/translations/kid3_pt_BR.qm
+/usr/share/kid3/translations/kid3_ru.qm
+/usr/share/kid3/translations/kid3_sl.qm
+/usr/share/kid3/translations/kid3_sr.qm
+/usr/share/kid3/translations/kid3_sr@ijekavian.qm
+/usr/share/kid3/translations/kid3_sr@ijekavianlatin.qm
+/usr/share/kid3/translations/kid3_sr@latin.qm
+/usr/share/kid3/translations/kid3_sv.qm
+/usr/share/kid3/translations/kid3_tr.qm
+/usr/share/kid3/translations/kid3_uk.qm
+/usr/share/kid3/translations/kid3_zh_CN.qm
+/usr/share/kid3/translations/kid3_zh_TW.qm
+/usr/share/man/ca/man1/kid3-cli.1 -> /usr/share/man/ca/man1/kid3.1
+/usr/share/man/ca/man1/kid3-qt.1 -> /usr/share/man/ca/man1/kid3.1
+/usr/share/man/ca/man1/kid3.1
+/usr/share/man/de/man1/kid3-cli.1 -> /usr/share/man/de/man1/kid3.1
+/usr/share/man/de/man1/kid3-qt.1 -> /usr/share/man/de/man1/kid3.1
+/usr/share/man/de/man1/kid3.1
+/usr/share/man/it/man1/kid3-cli.1 -> /usr/share/man/it/man1/kid3.1
+/usr/share/man/it/man1/kid3-qt.1 -> /usr/share/man/it/man1/kid3.1
+/usr/share/man/it/man1/kid3.1
+/usr/share/man/man1/kid3-cli.1 -> /usr/share/man/man1/kid3.1
+/usr/share/man/man1/kid3-qt.1 -> /usr/share/man/man1/kid3.1
+/usr/share/man/man1/kid3.1
+/usr/share/man/nl/man1/kid3-cli.1 -> /usr/share/man/nl/man1/kid3.1
+/usr/share/man/nl/man1/kid3-qt.1 -> /usr/share/man/nl/man1/kid3.1
+/usr/share/man/nl/man1/kid3.1
+/usr/share/man/pt/man1/kid3-cli.1 -> /usr/share/man/pt/man1/kid3.1
+/usr/share/man/pt/man1/kid3-qt.1 -> /usr/share/man/pt/man1/kid3.1
+/usr/share/man/pt/man1/kid3.1
+/usr/share/man/ru/man1/kid3-cli.1 -> /usr/share/man/ru/man1/kid3.1
+/usr/share/man/ru/man1/kid3-qt.1 -> /usr/share/man/ru/man1/kid3.1
+/usr/share/man/ru/man1/kid3.1
+/usr/share/man/sv/man1/kid3-cli.1 -> /usr/share/man/sv/man1/kid3.1
+/usr/share/man/sv/man1/kid3-qt.1 -> /usr/share/man/sv/man1/kid3.1
+/usr/share/man/sv/man1/kid3.1
+/usr/share/man/uk/man1/kid3-cli.1 -> /usr/share/man/uk/man1/kid3.1
+/usr/share/man/uk/man1/kid3-qt.1 -> /usr/share/man/uk/man1/kid3.1
+/usr/share/man/uk/man1/kid3.1
+/usr/share/metainfo/org.kde.kid3-qt.appdata.xml

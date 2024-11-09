@@ -1,0 +1,6 @@
+/usr/bin/libmcrypt-config
+/usr/include/mcrypt.h
+/usr/include/mutils/mcrypt.h
+/usr/lib/libmcrypt.so -> /usr/lib/libmcrypt.so.4.4.8
+/usr/share/aclocal/libmcrypt.m4
+/usr/share/man/man3/mcrypt.3

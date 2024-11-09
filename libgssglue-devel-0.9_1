@@ -1,0 +1,3 @@
+/usr/include/gssglue/gssapi/gssapi.h
+/usr/lib/libgssglue.so -> /usr/lib/libgssglue.so.1.0.0
+/usr/lib/pkgconfig/libgssglue.pc

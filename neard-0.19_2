@@ -1,0 +1,17 @@
+/etc/dbus-1/system.d/org.neard.conf
+/etc/dbus-1/system.d/org.neard.se.conf
+/etc/sv/neard/log/run
+/etc/sv/neard/log/supervise -> /run/runit/supervise.neard-log
+/etc/sv/neard/run
+/etc/sv/neard/supervise -> /run/runit/supervise.neard
+/etc/sv/seeld/log/run
+/etc/sv/seeld/log/supervise -> /run/runit/supervise.seeld-log
+/etc/sv/seeld/run
+/etc/sv/seeld/supervise -> /run/runit/supervise.seeld
+/usr/bin/nciattach
+/usr/bin/nfctool
+/usr/libexec/nfc/neard
+/usr/libexec/nfc/seeld
+/usr/share/man/man1/nfctool.1
+/usr/share/man/man5/neard.conf.5
+/usr/share/man/man8/neard.8

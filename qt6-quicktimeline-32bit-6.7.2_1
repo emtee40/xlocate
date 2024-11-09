@@ -1,0 +1,10 @@
+/usr/lib32/libQt6QuickTimeline.so -> /usr/lib32/libQt6QuickTimeline.so.6
+/usr/lib32/libQt6QuickTimeline.so.6 -> /usr/lib32/libQt6QuickTimeline.so.6.7.2
+/usr/lib32/libQt6QuickTimeline.so.6.7.2
+/usr/lib32/libQt6QuickTimelineBlendTrees.so -> /usr/lib32/libQt6QuickTimelineBlendTrees.so.6
+/usr/lib32/libQt6QuickTimelineBlendTrees.so.6 -> /usr/lib32/libQt6QuickTimelineBlendTrees.so.6.7.2
+/usr/lib32/libQt6QuickTimelineBlendTrees.so.6.7.2
+/usr/lib32/pkgconfig/Qt6QuickTimeline.pc
+/usr/lib32/pkgconfig/Qt6QuickTimelineBlendTrees.pc
+/usr/lib32/qt6/qml/QtQuick/Timeline/BlendTrees/libqtquicktimelineblendtreesplugin.so
+/usr/lib32/qt6/qml/QtQuick/Timeline/libqtquicktimelineplugin.so

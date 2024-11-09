@@ -1,0 +1,7 @@
+/usr/bin/mount.tmsu
+/usr/bin/tmsu
+/usr/bin/tmsu-fs-merge
+/usr/bin/tmsu-fs-mv
+/usr/bin/tmsu-fs-rm
+/usr/share/man/man1/tmsu.1
+/usr/share/zsh/site-functions/_tmsu

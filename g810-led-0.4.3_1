@@ -1,0 +1,27 @@
+/usr/bin/g210-led -> /usr/bin/g810-led
+/usr/bin/g410-led -> /usr/bin/g810-led
+/usr/bin/g413-led -> /usr/bin/g810-led
+/usr/bin/g512-led -> /usr/bin/g810-led
+/usr/bin/g513-led -> /usr/bin/g810-led
+/usr/bin/g610-led -> /usr/bin/g810-led
+/usr/bin/g810-led
+/usr/bin/g910-led -> /usr/bin/g810-led
+/usr/bin/gpro-led -> /usr/bin/g810-led
+/usr/lib/libg810-led.so.0.4.3
+/usr/lib/udev/rules.d/70-g810-led.rules
+/usr/share/doc/g810-led/INSTALL.md
+/usr/share/doc/g810-led/README.md
+/usr/share/examples/g810-led/all_blue
+/usr/share/examples/g810-led/all_blue_fxl_breathing_red
+/usr/share/examples/g810-led/all_green
+/usr/share/examples/g810-led/all_off
+/usr/share/examples/g810-led/all_red
+/usr/share/examples/g810-led/colors
+/usr/share/examples/g810-led/fx_breathing_red
+/usr/share/examples/g810-led/fx_color_green
+/usr/share/examples/g810-led/fx_cwave
+/usr/share/examples/g810-led/fx_cycle
+/usr/share/examples/g810-led/fx_hwave
+/usr/share/examples/g810-led/fx_vwave
+/usr/share/examples/g810-led/group_keys
+/usr/share/examples/g810-led/keys_v_gradiant_fr_ch-latin1

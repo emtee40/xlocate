@@ -1,0 +1,5 @@
+/usr/bin/mdbook
+/usr/share/bash-completion/completions/mdBook
+/usr/share/fish/vendor_completions.d/mdBook.fish
+/usr/share/licenses/mdBook/LICENSE
+/usr/share/zsh/site-functions/_mdBook

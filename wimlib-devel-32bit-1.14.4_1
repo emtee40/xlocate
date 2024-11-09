@@ -1,0 +1,3 @@
+/usr/lib32/libwim.a
+/usr/lib32/libwim.so -> /usr/lib32/libwim.so.15.26.0
+/usr/lib32/pkgconfig/wimlib.pc

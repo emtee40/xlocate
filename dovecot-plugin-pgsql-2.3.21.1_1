@@ -1,0 +1,3 @@
+/usr/lib/dovecot/modules/auth/libdriver_pgsql.so -> /usr/lib/dovecot/modules/libdriver_pgsql.so
+/usr/lib/dovecot/modules/dict/libdriver_pgsql.so -> /usr/lib/dovecot/modules/libdriver_pgsql.so
+/usr/lib/dovecot/modules/libdriver_pgsql.so

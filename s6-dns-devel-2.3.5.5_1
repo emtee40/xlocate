@@ -1,0 +1,17 @@
+/usr/include/s6-dns/config.h
+/usr/include/s6-dns/dcache.h
+/usr/include/s6-dns/s6dns-analyze.h
+/usr/include/s6-dns/s6dns-constants.h
+/usr/include/s6-dns/s6dns-debug.h
+/usr/include/s6-dns/s6dns-domain.h
+/usr/include/s6-dns/s6dns-engine.h
+/usr/include/s6-dns/s6dns-fmt.h
+/usr/include/s6-dns/s6dns-ip46.h
+/usr/include/s6-dns/s6dns-message.h
+/usr/include/s6-dns/s6dns-rci.h
+/usr/include/s6-dns/s6dns-resolve.h
+/usr/include/s6-dns/s6dns.h
+/usr/include/s6-dns/skadns.h
+/usr/lib/libdcache.a
+/usr/lib/libs6dns.a
+/usr/lib/libskadns.a

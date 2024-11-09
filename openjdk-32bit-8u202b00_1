@@ -1,0 +1,11 @@
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/compiledMethodLoad/lib/libcompiledMethodLoad.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/gctest/lib/libgctest.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/heapTracker/lib/libheapTracker.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/heapViewer/lib/libheapViewer.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/hprof/lib/libhprof.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/minst/lib/libminst.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/mtrace/lib/libmtrace.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/versionCheck/lib/libversionCheck.so
+/usr/lib32/jvm/openjdk-1.8.0_202/demo/jvmti/waiters/lib/libwaiters.so
+/usr/lib32/jvm/openjdk-1.8.0_202/lib/i386/jli/libjli.so
+/usr/lib32/jvm/openjdk-1.8.0_202/lib/i386/libjawt.so

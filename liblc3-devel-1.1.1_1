@@ -1,0 +1,5 @@
+/usr/include/lc3.h
+/usr/include/lc3_cpp.h
+/usr/include/lc3_private.h
+/usr/lib/liblc3.so -> /usr/lib/liblc3.so.1
+/usr/lib/pkgconfig/lc3.pc

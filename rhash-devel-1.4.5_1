@@ -1,0 +1,3 @@
+/usr/include/rhash.h
+/usr/include/rhash_torrent.h
+/usr/lib/librhash.so -> /usr/lib/librhash.so.1

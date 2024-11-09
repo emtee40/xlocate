@@ -1,0 +1,13 @@
+/usr/lib32/notion/mod/de.so
+/usr/lib32/notion/mod/mod_dock.so
+/usr/lib32/notion/mod/mod_menu.so
+/usr/lib32/notion/mod/mod_mgmtmode.so
+/usr/lib32/notion/mod/mod_notionflux.so
+/usr/lib32/notion/mod/mod_query.so
+/usr/lib32/notion/mod/mod_sm.so
+/usr/lib32/notion/mod/mod_sp.so
+/usr/lib32/notion/mod/mod_statusbar.so
+/usr/lib32/notion/mod/mod_tiling.so
+/usr/lib32/notion/mod/mod_xinerama.so
+/usr/lib32/notion/mod/mod_xkbevents.so
+/usr/lib32/notion/mod/mod_xrandr.so

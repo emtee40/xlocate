@@ -1,0 +1,48 @@
+/usr/include/plymouth-1/ply-boot-client/ply-boot-client.h
+/usr/include/plymouth-1/ply-boot-client/ply-boot-protocol.h
+/usr/include/plymouth-1/ply-splash-core/ply-boot-splash-plugin.h
+/usr/include/plymouth-1/ply-splash-core/ply-boot-splash.h
+/usr/include/plymouth-1/ply-splash-core/ply-device-manager.h
+/usr/include/plymouth-1/ply-splash-core/ply-keyboard.h
+/usr/include/plymouth-1/ply-splash-core/ply-pixel-buffer.h
+/usr/include/plymouth-1/ply-splash-core/ply-pixel-display.h
+/usr/include/plymouth-1/ply-splash-core/ply-renderer-plugin.h
+/usr/include/plymouth-1/ply-splash-core/ply-renderer.h
+/usr/include/plymouth-1/ply-splash-core/ply-terminal.h
+/usr/include/plymouth-1/ply-splash-core/ply-text-display.h
+/usr/include/plymouth-1/ply-splash-core/ply-text-progress-bar.h
+/usr/include/plymouth-1/ply-splash-core/ply-text-step-bar.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-animation.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-capslock-icon.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-entry.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-image.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-keymap-icon.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-keymap-metadata.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-label-plugin.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-label.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-progress-animation.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-progress-bar.h
+/usr/include/plymouth-1/ply-splash-graphics/ply-throbber.h
+/usr/include/plymouth-1/ply/ply-array.h
+/usr/include/plymouth-1/ply/ply-bitarray.h
+/usr/include/plymouth-1/ply/ply-buffer.h
+/usr/include/plymouth-1/ply/ply-command-parser.h
+/usr/include/plymouth-1/ply/ply-event-loop.h
+/usr/include/plymouth-1/ply/ply-hashtable.h
+/usr/include/plymouth-1/ply/ply-i18n.h
+/usr/include/plymouth-1/ply/ply-key-file.h
+/usr/include/plymouth-1/ply/ply-list.h
+/usr/include/plymouth-1/ply/ply-logger.h
+/usr/include/plymouth-1/ply/ply-progress.h
+/usr/include/plymouth-1/ply/ply-rectangle.h
+/usr/include/plymouth-1/ply/ply-region.h
+/usr/include/plymouth-1/ply/ply-terminal-session.h
+/usr/include/plymouth-1/ply/ply-trigger.h
+/usr/include/plymouth-1/ply/ply-utils.h
+/usr/lib/libply-boot-client.so -> /usr/lib/libply-boot-client.so.5.0.0
+/usr/lib/libply-splash-core.so -> /usr/lib/libply-splash-core.so.5.0.0
+/usr/lib/libply-splash-graphics.so -> /usr/lib/libply-splash-graphics.so.5.0.0
+/usr/lib/libply.so -> /usr/lib/libply.so.5.0.0
+/usr/lib/pkgconfig/ply-boot-client.pc
+/usr/lib/pkgconfig/ply-splash-core.pc
+/usr/lib/pkgconfig/ply-splash-graphics.pc

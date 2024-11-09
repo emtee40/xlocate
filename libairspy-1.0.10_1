@@ -1,0 +1,3 @@
+/usr/lib/libairspy.so.0 -> /usr/lib/libairspy.so.1.0.10
+/usr/lib/libairspy.so.1.0.10
+/usr/lib/udev/rules.d/52-airspy.rules

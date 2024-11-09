@@ -1,0 +1,13 @@
+/usr/bin/syncthingctl
+/usr/bin/syncthingtray
+/usr/lib/libsyncthingconnector.so.1.6.3
+/usr/lib/libsyncthingconnector.so.19 -> /usr/lib/libsyncthingconnector.so.1.6.3
+/usr/lib/libsyncthingmodel.so.1.6.3
+/usr/lib/libsyncthingmodel.so.19 -> /usr/lib/libsyncthingmodel.so.1.6.3
+/usr/lib/libsyncthingwidgets.so.1.6.3
+/usr/lib/libsyncthingwidgets.so.19 -> /usr/lib/libsyncthingwidgets.so.1.6.3
+/usr/share/applications/syncthingtray.desktop
+/usr/share/bash-completion/completions/syncthingctl
+/usr/share/bash-completion/completions/syncthingtray
+/usr/share/icons/hicolor/scalable/apps/syncthingtray.svg
+/usr/share/metainfo/syncthingtray.metainfo.xml

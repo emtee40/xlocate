@@ -1,0 +1,3 @@
+/usr/lib32/libproc2.a
+/usr/lib32/libproc2.so -> /usr/lib32/libproc2.so.0.0.2
+/usr/lib32/pkgconfig/libproc2.pc

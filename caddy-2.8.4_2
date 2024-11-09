@@ -1,0 +1,6 @@
+/etc/caddy/Caddyfile
+/etc/sv/caddy/log/run
+/etc/sv/caddy/log/supervise -> /run/runit/supervise.caddy-log
+/etc/sv/caddy/run
+/etc/sv/caddy/supervise -> /run/runit/supervise.caddy
+/usr/bin/caddy

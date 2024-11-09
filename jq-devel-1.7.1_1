@@ -1,0 +1,5 @@
+/usr/include/jq.h
+/usr/include/jv.h
+/usr/lib/libjq.a
+/usr/lib/libjq.so -> /usr/lib/libjq.so.1.0.4
+/usr/lib/pkgconfig/libjq.pc

@@ -1,0 +1,20 @@
+/usr/lib/libppd.so.2 -> /usr/lib/libppd.so.2.0.0
+/usr/lib/libppd.so.2.0.0
+/usr/share/doc/libppd/ABOUT-NLS
+/usr/share/doc/libppd/AUTHORS
+/usr/share/doc/libppd/CHANGES-1.x.md
+/usr/share/doc/libppd/CHANGES.md
+/usr/share/doc/libppd/CONTRIBUTING.md
+/usr/share/doc/libppd/COPYING
+/usr/share/doc/libppd/DEVELOPING.md
+/usr/share/doc/libppd/INSTALL.md
+/usr/share/doc/libppd/LICENSE
+/usr/share/doc/libppd/NOTICE
+/usr/share/doc/libppd/README.md
+/usr/share/licenses/libppd/COPYING
+/usr/share/ppdc/epson.h
+/usr/share/ppdc/font.defs
+/usr/share/ppdc/hp.h
+/usr/share/ppdc/label.h
+/usr/share/ppdc/media.defs
+/usr/share/ppdc/raster.defs

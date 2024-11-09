@@ -1,0 +1,32 @@
+/usr/include/spatialindex/LineSegment.h
+/usr/include/spatialindex/MVRTree.h
+/usr/include/spatialindex/MovingPoint.h
+/usr/include/spatialindex/MovingRegion.h
+/usr/include/spatialindex/Point.h
+/usr/include/spatialindex/RTree.h
+/usr/include/spatialindex/Region.h
+/usr/include/spatialindex/SpatialIndex.h
+/usr/include/spatialindex/TPRTree.h
+/usr/include/spatialindex/TimePoint.h
+/usr/include/spatialindex/TimeRegion.h
+/usr/include/spatialindex/Version.h
+/usr/include/spatialindex/capi/BoundsQuery.h
+/usr/include/spatialindex/capi/CountVisitor.h
+/usr/include/spatialindex/capi/CustomStorage.h
+/usr/include/spatialindex/capi/DataStream.h
+/usr/include/spatialindex/capi/Error.h
+/usr/include/spatialindex/capi/IdVisitor.h
+/usr/include/spatialindex/capi/Index.h
+/usr/include/spatialindex/capi/LeafQuery.h
+/usr/include/spatialindex/capi/ObjVisitor.h
+/usr/include/spatialindex/capi/Utility.h
+/usr/include/spatialindex/capi/sidx_api.h
+/usr/include/spatialindex/capi/sidx_config.h
+/usr/include/spatialindex/capi/sidx_export.h
+/usr/include/spatialindex/capi/sidx_impl.h
+/usr/include/spatialindex/tools/PointerPool.h
+/usr/include/spatialindex/tools/PoolPointer.h
+/usr/include/spatialindex/tools/Tools.h
+/usr/include/spatialindex/tools/rand48.h
+/usr/lib/libspatialindex.so -> /usr/lib/libspatialindex.so.6
+/usr/lib/libspatialindex_c.so -> /usr/lib/libspatialindex_c.so.6

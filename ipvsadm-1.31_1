@@ -1,0 +1,9 @@
+/etc/sv/ipvsadm/finish
+/etc/sv/ipvsadm/run
+/etc/sv/ipvsadm/supervise -> /run/runit/supervise.ipvsadm
+/usr/bin/ipvsadm
+/usr/bin/ipvsadm-restore
+/usr/bin/ipvsadm-save
+/usr/share/man/man8/ipvsadm-restore.8
+/usr/share/man/man8/ipvsadm-save.8
+/usr/share/man/man8/ipvsadm.8

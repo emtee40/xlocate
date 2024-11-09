@@ -1,0 +1,4 @@
+/usr/lib32/libflimage.a
+/usr/lib32/libflimage.so -> /usr/lib32/libflimage.so.2.1.3
+/usr/lib32/libforms.a
+/usr/lib32/libforms.so -> /usr/lib32/libforms.so.2.1.3

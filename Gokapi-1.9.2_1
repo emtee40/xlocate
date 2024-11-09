@@ -1,0 +1,6 @@
+/etc/sv/gokapi/log/run
+/etc/sv/gokapi/log/supervise -> /run/runit/supervise.gokapi-log
+/etc/sv/gokapi/run
+/etc/sv/gokapi/supervise -> /run/runit/supervise.gokapi
+/usr/bin/gokapi
+/usr/share/licenses/Gokapi/LICENSE.md

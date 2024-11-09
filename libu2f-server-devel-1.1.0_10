@@ -1,0 +1,5 @@
+/usr/include/u2f-server/u2f-server-version.h
+/usr/include/u2f-server/u2f-server.h
+/usr/lib/libu2f-server.a
+/usr/lib/libu2f-server.so -> /usr/lib/libu2f-server.so.0.1.0
+/usr/lib/pkgconfig/u2f-server.pc

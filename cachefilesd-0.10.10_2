@@ -1,0 +1,6 @@
+/etc/cachefilesd.conf
+/etc/sv/cachefilesd/run
+/etc/sv/cachefilesd/supervise -> /run/runit/supervise.cachefilesd
+/usr/bin/cachefilesd
+/usr/share/man/man5/cachefilesd.conf.5
+/usr/share/man/man8/cachefilesd.8

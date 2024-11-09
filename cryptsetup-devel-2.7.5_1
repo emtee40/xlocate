@@ -1,0 +1,3 @@
+/usr/include/libcryptsetup.h
+/usr/lib/libcryptsetup.so -> /usr/lib/libcryptsetup.so.12.10.0
+/usr/lib/pkgconfig/libcryptsetup.pc

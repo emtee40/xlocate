@@ -1,0 +1,14 @@
+/usr/bin/geistest
+/usr/bin/geisview
+/usr/lib/libgeis.so.1 -> /usr/lib/libgeis.so.1.3.0
+/usr/lib/libgeis.so.1.3.0
+/usr/share/applications/geisview.desktop
+/usr/share/doc/geis/Doxyfile
+/usr/share/doc/geis/geisspec-1.0.asc
+/usr/share/doc/geis/geisspec-docbook.xml
+/usr/share/geisview/filter_definition.ui
+/usr/share/geisview/filter_list.ui
+/usr/share/geisview/geisview.ui
+/usr/share/man/man1/geistest.1
+/usr/share/man/man1/geisview.1
+/usr/share/pixmaps/geisview32x32.xpm

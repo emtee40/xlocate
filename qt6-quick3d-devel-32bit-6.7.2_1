@@ -1,0 +1,23 @@
+/usr/lib32/libQt6Quick3D.so -> /usr/lib32/libQt6Quick3D.so.6
+/usr/lib32/libQt6Quick3DAssetImport.so -> /usr/lib32/libQt6Quick3DAssetImport.so.6
+/usr/lib32/libQt6Quick3DAssetUtils.so -> /usr/lib32/libQt6Quick3DAssetUtils.so.6
+/usr/lib32/libQt6Quick3DEffects.so -> /usr/lib32/libQt6Quick3DEffects.so.6
+/usr/lib32/libQt6Quick3DGlslParser.so -> /usr/lib32/libQt6Quick3DGlslParser.so.6
+/usr/lib32/libQt6Quick3DHelpers.so -> /usr/lib32/libQt6Quick3DHelpers.so.6
+/usr/lib32/libQt6Quick3DHelpersImpl.so -> /usr/lib32/libQt6Quick3DHelpersImpl.so.6
+/usr/lib32/libQt6Quick3DIblBaker.so -> /usr/lib32/libQt6Quick3DIblBaker.so.6
+/usr/lib32/libQt6Quick3DParticleEffects.so -> /usr/lib32/libQt6Quick3DParticleEffects.so.6
+/usr/lib32/libQt6Quick3DParticles.so -> /usr/lib32/libQt6Quick3DParticles.so.6
+/usr/lib32/libQt6Quick3DRuntimeRender.so -> /usr/lib32/libQt6Quick3DRuntimeRender.so.6
+/usr/lib32/libQt6Quick3DUtils.so -> /usr/lib32/libQt6Quick3DUtils.so.6
+/usr/lib32/pkgconfig/Qt6Quick3D.pc
+/usr/lib32/pkgconfig/Qt6Quick3DAssetImport.pc
+/usr/lib32/pkgconfig/Qt6Quick3DAssetUtils.pc
+/usr/lib32/pkgconfig/Qt6Quick3DEffects.pc
+/usr/lib32/pkgconfig/Qt6Quick3DHelpers.pc
+/usr/lib32/pkgconfig/Qt6Quick3DHelpersImpl.pc
+/usr/lib32/pkgconfig/Qt6Quick3DIblBaker.pc
+/usr/lib32/pkgconfig/Qt6Quick3DParticleEffects.pc
+/usr/lib32/pkgconfig/Qt6Quick3DParticles.pc
+/usr/lib32/pkgconfig/Qt6Quick3DRuntimeRender.pc
+/usr/lib32/pkgconfig/Qt6Quick3DUtils.pc

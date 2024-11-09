@@ -1,0 +1,4 @@
+/usr/lib32/libQt6Bluetooth.so -> /usr/lib32/libQt6Bluetooth.so.6
+/usr/lib32/libQt6Nfc.so -> /usr/lib32/libQt6Nfc.so.6
+/usr/lib32/pkgconfig/Qt6Bluetooth.pc
+/usr/lib32/pkgconfig/Qt6Nfc.pc

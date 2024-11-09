@@ -1,0 +1,6 @@
+/usr/bin/fuidshift-incus
+/usr/bin/incus-benchmark
+/usr/bin/incus-migrate
+/usr/bin/incus-simplestreams
+/usr/bin/lxc-to-incus
+/usr/bin/lxd-to-incus

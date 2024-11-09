@@ -1,0 +1,4 @@
+/usr/bin/sterm
+/usr/share/bash-completion/completions/sterm
+/usr/share/man/man1/sterm.1
+/usr/share/zsh/functions/Completion/Unix/_sterm

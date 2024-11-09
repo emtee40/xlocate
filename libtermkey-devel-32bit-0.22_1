@@ -1,0 +1,3 @@
+/usr/lib32/libtermkey.a
+/usr/lib32/libtermkey.so -> /usr/lib32/libtermkey.so.1.14.2
+/usr/lib32/pkgconfig/termkey.pc

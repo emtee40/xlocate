@@ -1,0 +1,7 @@
+/usr/bin/dbus-test-runner
+/usr/lib/libdbustest.so.1 -> /usr/lib/libdbustest.so.1.0.0
+/usr/lib/libdbustest.so.1.0.0
+/usr/libexec/dbus-test-runner/dbus-test-watchdog
+/usr/share/dbus-test-runner/dbus-test-bustle-handler
+/usr/share/dbus-test-runner/session.conf
+/usr/share/dbus-test-runner/system.conf

@@ -1,0 +1,18 @@
+/usr/bin/applygeo
+/usr/bin/geotifcp
+/usr/bin/listgeo
+/usr/bin/makegeo
+/usr/lib/libgeotiff.so.5 -> /usr/lib/libgeotiff.so.5.2.0
+/usr/lib/libgeotiff.so.5.2.0
+/usr/share/doc/libgeotiff/doc/AUTHORS
+/usr/share/doc/libgeotiff/doc/COPYING
+/usr/share/doc/libgeotiff/doc/ChangeLog
+/usr/share/doc/libgeotiff/doc/INSTALL
+/usr/share/doc/libgeotiff/doc/LICENSE
+/usr/share/doc/libgeotiff/doc/README
+/usr/share/doc/libgeotiff/doc/README.WIN
+/usr/share/doc/libgeotiff/doc/README_BIN
+/usr/share/licenses/libgeotiff/LICENSE
+/usr/share/man/man1/applygeo.1
+/usr/share/man/man1/geotifcp.1
+/usr/share/man/man1/listgeo.1

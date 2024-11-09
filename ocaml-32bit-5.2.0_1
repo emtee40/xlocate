@@ -1,0 +1,13 @@
+/usr/lib32/ocaml/libcamlrun.a
+/usr/lib32/ocaml/libcamlrun_pic.a
+/usr/lib32/ocaml/libcamlrun_shared.so
+/usr/lib32/ocaml/libcamlrund.a
+/usr/lib32/ocaml/libcamlruni.a
+/usr/lib32/ocaml/libcamlruntime_eventsbyt.a
+/usr/lib32/ocaml/libcamlstrbyt.a
+/usr/lib32/ocaml/libthreads.a
+/usr/lib32/ocaml/libunixbyt.a
+/usr/lib32/ocaml/stublibs/dllcamlruntime_eventsbyt.so
+/usr/lib32/ocaml/stublibs/dllcamlstrbyt.so
+/usr/lib32/ocaml/stublibs/dllthreads.so
+/usr/lib32/ocaml/stublibs/dllunixbyt.so

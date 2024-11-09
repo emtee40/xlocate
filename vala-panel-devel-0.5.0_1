@@ -1,0 +1,27 @@
+/usr/include/vala-panel/applet-info.h
+/usr/include/vala-panel/applet-widget-api.h
+/usr/include/vala-panel/applet-widget.h
+/usr/include/vala-panel/boxed-wrapper.h
+/usr/include/vala-panel/client.h
+/usr/include/vala-panel/constants.h
+/usr/include/vala-panel/css.h
+/usr/include/vala-panel/definitions.h
+/usr/include/vala-panel/generic-config-dialog.h
+/usr/include/vala-panel/glistmodel-filter.h
+/usr/include/vala-panel/launcher-gtk.h
+/usr/include/vala-panel/menu-maker.h
+/usr/include/vala-panel/misc-gtk.h
+/usr/include/vala-panel/misc.h
+/usr/include/vala-panel/panel-layout.h
+/usr/include/vala-panel/panel-platform.h
+/usr/include/vala-panel/server.h
+/usr/include/vala-panel/settings-manager.h
+/usr/include/vala-panel/toplevel.h
+/usr/include/vala-panel/util-gtk.h
+/usr/include/vala-panel/util.h
+/usr/include/vala-panel/vala-panel-enums.h
+/usr/include/vala-panel/vala-panel-util-enums.h
+/usr/lib/libvalapanel.so -> /usr/lib/libvalapanel.so.0
+/usr/lib/pkgconfig/vala-panel.pc
+/usr/share/vala/vapi/vala-panel.deps
+/usr/share/vala/vapi/vala-panel.vapi

@@ -1,0 +1,35 @@
+/usr/bin/t3keyc
+/usr/bin/t3learnkeys
+/usr/lib/libt3key.so.1 -> /usr/lib/libt3key.so.1.0.0
+/usr/lib/libt3key.so.1.0.0
+/usr/share/doc/libt3key/COPYING
+/usr/share/doc/libt3key/Changelog
+/usr/share/doc/libt3key/README
+/usr/share/doc/libt3key/format.html
+/usr/share/doc/libt3key/format.txt
+/usr/share/doc/libt3key/supplemental.kmap
+/usr/share/libt3key1/Eterm
+/usr/share/libt3key1/Eterm-256color -> /usr/share/libt3key1/Eterm
+/usr/share/libt3key1/Eterm-88color -> /usr/share/libt3key1/Eterm
+/usr/share/libt3key1/Eterm-color -> /usr/share/libt3key1/Eterm
+/usr/share/libt3key1/kterm
+/usr/share/libt3key1/linux
+/usr/share/libt3key1/mlterm
+/usr/share/libt3key1/mlterm-256color -> /usr/share/libt3key1/mlterm
+/usr/share/libt3key1/putty
+/usr/share/libt3key1/rxvt
+/usr/share/libt3key1/rxvt-16color -> /usr/share/libt3key1/rxvt
+/usr/share/libt3key1/rxvt-256color -> /usr/share/libt3key1/rxvt
+/usr/share/libt3key1/rxvt-88color -> /usr/share/libt3key1/rxvt
+/usr/share/libt3key1/rxvt-color -> /usr/share/libt3key1/rxvt
+/usr/share/libt3key1/rxvt-unicode
+/usr/share/libt3key1/rxvt-unicode-256color
+/usr/share/libt3key1/screen
+/usr/share/libt3key1/st
+/usr/share/libt3key1/xterm
+/usr/share/libt3key1/xterm-16color -> /usr/share/libt3key1/xterm
+/usr/share/libt3key1/xterm-256color -> /usr/share/libt3key1/xterm
+/usr/share/libt3key1/xterm-88color -> /usr/share/libt3key1/xterm
+/usr/share/libt3key1/xterm-color -> /usr/share/libt3key1/xterm
+/usr/share/man/man1/t3keyc.1
+/usr/share/man/man1/t3learnkeys.1

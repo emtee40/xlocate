@@ -1,0 +1,15 @@
+/usr/lib32/libxmlsec1-gcrypt.a
+/usr/lib32/libxmlsec1-gcrypt.so -> /usr/lib32/libxmlsec1-gcrypt.so.1.3.3
+/usr/lib32/libxmlsec1-gnutls.a
+/usr/lib32/libxmlsec1-gnutls.so -> /usr/lib32/libxmlsec1-gnutls.so.1.3.3
+/usr/lib32/libxmlsec1-nss.a
+/usr/lib32/libxmlsec1-nss.so -> /usr/lib32/libxmlsec1-nss.so.1.3.3
+/usr/lib32/libxmlsec1-openssl.a
+/usr/lib32/libxmlsec1-openssl.so -> /usr/lib32/libxmlsec1-openssl.so.1.3.3
+/usr/lib32/libxmlsec1.a
+/usr/lib32/libxmlsec1.so -> /usr/lib32/libxmlsec1.so.1.3.3
+/usr/lib32/pkgconfig/xmlsec1-gcrypt.pc
+/usr/lib32/pkgconfig/xmlsec1-gnutls.pc
+/usr/lib32/pkgconfig/xmlsec1-nss.pc
+/usr/lib32/pkgconfig/xmlsec1-openssl.pc
+/usr/lib32/pkgconfig/xmlsec1.pc

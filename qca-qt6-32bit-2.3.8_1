@@ -1,0 +1,10 @@
+/usr/lib32/libqca-qt6.so.2 -> /usr/lib32/libqca-qt6.so.2.3.8
+/usr/lib32/libqca-qt6.so.2.3.8
+/usr/lib32/qca-qt6/crypto/libqca-botan.so
+/usr/lib32/qca-qt6/crypto/libqca-cyrus-sasl.so
+/usr/lib32/qca-qt6/crypto/libqca-gcrypt.so
+/usr/lib32/qca-qt6/crypto/libqca-gnupg.so
+/usr/lib32/qca-qt6/crypto/libqca-logger.so
+/usr/lib32/qca-qt6/crypto/libqca-nss.so
+/usr/lib32/qca-qt6/crypto/libqca-ossl.so
+/usr/lib32/qca-qt6/crypto/libqca-softstore.so

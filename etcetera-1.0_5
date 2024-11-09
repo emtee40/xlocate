@@ -1,0 +1,8 @@
+/etc/etcetera.conf
+/usr/bin/etcetera
+/usr/lib/etcetera/commands.py
+/usr/lib/etcetera/parser.py
+/usr/lib/etcetera/term_colors.py
+/usr/lib/etcetera/toolbox.py
+/usr/share/etcetera/README.md
+/usr/share/etcetera/etcetera-logo.png

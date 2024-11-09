@@ -1,0 +1,7 @@
+/usr/include/ddcutil_c_api.h
+/usr/include/ddcutil_macros.h
+/usr/include/ddcutil_status_codes.h
+/usr/include/ddcutil_types.h
+/usr/lib/cmake/ddcutil/FindDDCUtil.cmake
+/usr/lib/libddcutil.so -> /usr/lib/libddcutil.so.5.1.2
+/usr/lib/pkgconfig/ddcutil.pc

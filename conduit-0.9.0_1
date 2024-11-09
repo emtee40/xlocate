@@ -1,0 +1,6 @@
+/etc/sv/conduit/log/run
+/etc/sv/conduit/log/supervise -> /run/runit/supervise.conduit-log
+/etc/sv/conduit/run
+/etc/sv/conduit/supervise -> /run/runit/supervise.conduit
+/usr/bin/conduit
+/usr/share/examples/conduit/conduit.toml

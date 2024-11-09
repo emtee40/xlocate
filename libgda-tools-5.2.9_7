@@ -1,0 +1,12 @@
+/usr/bin/gda-browser-5.0
+/usr/bin/gda-control-center-5.0
+/usr/bin/gda-list-config -> /usr/bin/gda-list-config-5.0
+/usr/bin/gda-list-config-5.0
+/usr/bin/gda-list-server-op -> /usr/bin/gda-list-server-op-5.0
+/usr/bin/gda-list-server-op-5.0
+/usr/bin/gda-sql -> /usr/bin/gda-sql-5.0
+/usr/bin/gda-sql-5.0
+/usr/bin/gda-test-connection-5.0
+/usr/bin/gdaui-demo-5.0
+/usr/share/applications/gda-browser-5.0.desktop
+/usr/share/applications/gda-control-center-5.0.desktop

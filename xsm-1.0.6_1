@@ -1,0 +1,5 @@
+/etc/X11/xsm/system.xsm
+/usr/bin/xsm
+/usr/share/X11/app-defaults/XSm
+/usr/share/licenses/xsm/COPYING
+/usr/share/man/man1/xsm.1

@@ -1,0 +1,16 @@
+/usr/bin/shncat -> /usr/bin/shntool
+/usr/bin/shncmp -> /usr/bin/shntool
+/usr/bin/shnconv -> /usr/bin/shntool
+/usr/bin/shncue -> /usr/bin/shntool
+/usr/bin/shnfix -> /usr/bin/shntool
+/usr/bin/shngen -> /usr/bin/shntool
+/usr/bin/shnhash -> /usr/bin/shntool
+/usr/bin/shninfo -> /usr/bin/shntool
+/usr/bin/shnjoin -> /usr/bin/shntool
+/usr/bin/shnlen -> /usr/bin/shntool
+/usr/bin/shnpad -> /usr/bin/shntool
+/usr/bin/shnsplit -> /usr/bin/shntool
+/usr/bin/shnstrip -> /usr/bin/shntool
+/usr/bin/shntool
+/usr/bin/shntrim -> /usr/bin/shntool
+/usr/share/man/man1/shntool.1

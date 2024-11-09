@@ -1,0 +1,10 @@
+/usr/bin/shoutidjc
+/usr/lib/ckport/db/libshout-idjc.ckport
+/usr/lib/libshout-idjc.so.3 -> /usr/lib/libshout-idjc.so.3.2.0
+/usr/lib/libshout-idjc.so.3.2.0
+/usr/share/doc/libshout-idjc/COPYING
+/usr/share/doc/libshout-idjc/NEWS
+/usr/share/doc/libshout-idjc/README
+/usr/share/doc/libshout-idjc/example.c
+/usr/share/doc/libshout-idjc/nonblocking.c
+/usr/share/man/man1/shoutidjc.1

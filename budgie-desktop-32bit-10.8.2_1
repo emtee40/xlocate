@@ -1,0 +1,37 @@
+/usr/lib32/budgie-desktop/libgvc.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.budgie-menu/libbudgiemenuapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.caffeine/libcaffeineapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.clock/libclockapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.icon-tasklist/libicontasklistapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.keyboard-layout/libkeyboardlayoutapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.lock-keys/liblockkeysapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.night-light/libnightlightapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.notifications/libnotificationsapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.places-indicator/libplacesindicator.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.raven-trigger/libraventriggerapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.separator/libseparatorapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.show-desktop/libshowdesktopapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.spacer/libspacerapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.status/libstatusapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.tasklist/libtasklistapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.trash/libtrashapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.tray/libtrayapplet.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.user-indicator/libuserindicator.so
+/usr/lib32/budgie-desktop/plugins/org.budgie-desktop.applet.workspaces/libworkspacesapplet.so
+/usr/lib32/budgie-desktop/raven-plugins/org.buddiesofbudgie.budgie-desktop.raven.widget.Calendar/liborg.buddiesofbudgie.budgie-desktop.raven.widget.Calendar.so
+/usr/lib32/budgie-desktop/raven-plugins/org.buddiesofbudgie.budgie-desktop.raven.widget.MediaControls/liborg.buddiesofbudgie.budgie-desktop.raven.widget.MediaControls.so
+/usr/lib32/budgie-desktop/raven-plugins/org.buddiesofbudgie.budgie-desktop.raven.widget.SoundInput/liborg.buddiesofbudgie.budgie-desktop.raven.widget.SoundInput.so
+/usr/lib32/budgie-desktop/raven-plugins/org.buddiesofbudgie.budgie-desktop.raven.widget.SoundOutput/liborg.buddiesofbudgie.budgie-desktop.raven.widget.SoundOutput.so
+/usr/lib32/budgie-desktop/raven-plugins/org.buddiesofbudgie.budgie-desktop.raven.widget.UsageMonitor/liborg.buddiesofbudgie.budgie-desktop.raven.widget.UsageMonitor.so
+/usr/lib32/libbudgie-appindexer.so.0 -> /usr/lib32/libbudgie-appindexer.so.0.0.0
+/usr/lib32/libbudgie-appindexer.so.0.0.0
+/usr/lib32/libbudgie-plugin.so.0 -> /usr/lib32/libbudgie-plugin.so.0.0.0
+/usr/lib32/libbudgie-plugin.so.0.0.0
+/usr/lib32/libbudgie-private.so.0 -> /usr/lib32/libbudgie-private.so.0.0.0
+/usr/lib32/libbudgie-private.so.0.0.0
+/usr/lib32/libbudgie-raven-plugin.so.0 -> /usr/lib32/libbudgie-raven-plugin.so.0.0.0
+/usr/lib32/libbudgie-raven-plugin.so.0.0.0
+/usr/lib32/libbudgietheme.so.0 -> /usr/lib32/libbudgietheme.so.0.0.0
+/usr/lib32/libbudgietheme.so.0.0.0
+/usr/lib32/libraven.so.0 -> /usr/lib32/libraven.so.0.0.0
+/usr/lib32/libraven.so.0.0.0

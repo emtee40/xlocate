@@ -1,0 +1,14 @@
+/usr/bin/swww
+/usr/bin/swww-daemon
+/usr/share/bash-completion/completions/swww
+/usr/share/fish/vendor_completions.d/swww.fish
+/usr/share/man/man1/swww-clear-cache.1
+/usr/share/man/man1/swww-clear.1
+/usr/share/man/man1/swww-daemon.1
+/usr/share/man/man1/swww-img.1
+/usr/share/man/man1/swww-init.1
+/usr/share/man/man1/swww-kill.1
+/usr/share/man/man1/swww-query.1
+/usr/share/man/man1/swww-restore.1
+/usr/share/man/man1/swww.1
+/usr/share/zsh/site-functions/_swww

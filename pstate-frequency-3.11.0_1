@@ -1,0 +1,10 @@
+/etc/pstate-frequency.d/00-auto.plan
+/etc/pstate-frequency.d/01-powersave.plan
+/etc/pstate-frequency.d/02-balanced.plan
+/etc/pstate-frequency.d/03-performance.plan
+/etc/pstate-frequency.d/04-max.plan
+/usr/bin/pstate-frequency
+/usr/lib/udev/rules.d/99-pstate-frequency.rules
+/usr/share/bash-completion/completions/pstate-frequency
+/usr/share/doc/pstate-frequency/README.md
+/usr/share/zsh/site-functions/_pstate-frequency

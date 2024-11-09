@@ -1,0 +1,12 @@
+/usr/lib32/libecpg.so -> /usr/lib32/libecpg.so.6.8
+/usr/lib32/libecpg.so.6 -> /usr/lib32/libecpg.so.6.8
+/usr/lib32/libecpg.so.6.8
+/usr/lib32/libecpg_compat.so -> /usr/lib32/libecpg_compat.so.3.8
+/usr/lib32/libecpg_compat.so.3 -> /usr/lib32/libecpg_compat.so.3.8
+/usr/lib32/libecpg_compat.so.3.8
+/usr/lib32/libpgtypes.so -> /usr/lib32/libpgtypes.so.3.7
+/usr/lib32/libpgtypes.so.3 -> /usr/lib32/libpgtypes.so.3.7
+/usr/lib32/libpgtypes.so.3.7
+/usr/lib32/libpq.so -> /usr/lib32/libpq.so.5.9
+/usr/lib32/libpq.so.5 -> /usr/lib32/libpq.so.5.9
+/usr/lib32/libpq.so.5.9

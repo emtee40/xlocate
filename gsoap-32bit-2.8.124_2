@@ -1,0 +1,12 @@
+/usr/lib32/libgsoap++-2.8.124.so
+/usr/lib32/libgsoap++.so -> /usr/lib32/libgsoap++-2.8.124.so
+/usr/lib32/libgsoap-2.8.124.so
+/usr/lib32/libgsoap.so -> /usr/lib32/libgsoap-2.8.124.so
+/usr/lib32/libgsoapck++-2.8.124.so
+/usr/lib32/libgsoapck++.so -> /usr/lib32/libgsoapck++-2.8.124.so
+/usr/lib32/libgsoapck-2.8.124.so
+/usr/lib32/libgsoapck.so -> /usr/lib32/libgsoapck-2.8.124.so
+/usr/lib32/libgsoapssl++-2.8.124.so
+/usr/lib32/libgsoapssl++.so -> /usr/lib32/libgsoapssl++-2.8.124.so
+/usr/lib32/libgsoapssl-2.8.124.so
+/usr/lib32/libgsoapssl.so -> /usr/lib32/libgsoapssl-2.8.124.so

@@ -1,0 +1,12 @@
+/etc/polybar/config.ini
+/usr/bin/polybar
+/usr/bin/polybar-msg
+/usr/share/bash-completion/completions/polybar
+/usr/share/doc/polybar/CHANGELOG.md
+/usr/share/doc/polybar/examples/config.ini
+/usr/share/licenses/polybar/LICENSE
+/usr/share/man/man1/polybar-msg.1
+/usr/share/man/man1/polybar.1
+/usr/share/man/man5/polybar.5
+/usr/share/zsh/site-functions/_polybar
+/usr/share/zsh/site-functions/_polybar_msg

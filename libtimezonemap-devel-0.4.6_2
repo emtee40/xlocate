@@ -1,0 +1,7 @@
+/usr/include/timezonemap/timezonemap/cc-timezone-location.h
+/usr/include/timezonemap/timezonemap/cc-timezone-map.h
+/usr/include/timezonemap/timezonemap/timezone-completion.h
+/usr/include/timezonemap/timezonemap/tz.h
+/usr/lib/libtimezonemap.so -> /usr/lib/libtimezonemap.so.1.0.0
+/usr/lib/pkgconfig/timezonemap.pc
+/usr/share/gir-1.0/TimezoneMap-1.0.gir

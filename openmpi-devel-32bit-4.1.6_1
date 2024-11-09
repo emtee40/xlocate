@@ -1,0 +1,19 @@
+/usr/lib32/libmca_common_dstore.so -> /usr/lib32/libmca_common_dstore.so.1.0.2
+/usr/lib32/libmca_common_monitoring.so -> /usr/lib32/libmca_common_monitoring.so.50.20.0
+/usr/lib32/libmca_common_ompio.so -> /usr/lib32/libmca_common_ompio.so.41.29.4
+/usr/lib32/libmca_common_sm.so -> /usr/lib32/libmca_common_sm.so.40.30.0
+/usr/lib32/libmpi.so -> /usr/lib32/libmpi.so.40.30.6
+/usr/lib32/libmpi_mpifh.so -> /usr/lib32/libmpi_mpifh.so.40.30.0
+/usr/lib32/libmpi_usempi_ignore_tkr.so -> /usr/lib32/libmpi_usempi_ignore_tkr.so.40.30.0
+/usr/lib32/libmpi_usempif08.so -> /usr/lib32/libmpi_usempif08.so.40.30.0
+/usr/lib32/libompitrace.so -> /usr/lib32/libompitrace.so.40.30.1
+/usr/lib32/libopen-pal.so -> /usr/lib32/libopen-pal.so.40.30.3
+/usr/lib32/libopen-rte.so -> /usr/lib32/libopen-rte.so.40.30.3
+/usr/lib32/pkgconfig/ompi-c.pc
+/usr/lib32/pkgconfig/ompi-cxx.pc
+/usr/lib32/pkgconfig/ompi-f77.pc
+/usr/lib32/pkgconfig/ompi-f90.pc
+/usr/lib32/pkgconfig/ompi-fort.pc
+/usr/lib32/pkgconfig/ompi.pc
+/usr/lib32/pkgconfig/orte.pc
+/usr/lib32/pkgconfig/pmix.pc

@@ -1,0 +1,9 @@
+/usr/include/KF6/KStatusNotifierItem/KStatusNotifierItem
+/usr/include/KF6/KStatusNotifierItem/kstatusnotifieritem.h
+/usr/include/KF6/KStatusNotifierItem/kstatusnotifieritem_export.h
+/usr/include/KF6/KStatusNotifierItem/kstatusnotifieritem_version.h
+/usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemConfig.cmake
+/usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemConfigVersion.cmake
+/usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemTargets-none.cmake
+/usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemTargets.cmake
+/usr/lib/libKF6StatusNotifierItem.so -> /usr/lib/libKF6StatusNotifierItem.so.6

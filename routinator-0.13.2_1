@@ -1,0 +1,9 @@
+/etc/routinator/routinator.conf
+/etc/sv/routinator/log/run
+/etc/sv/routinator/log/supervise -> /run/runit/supervise.routinator-log
+/etc/sv/routinator/run
+/etc/sv/routinator/supervise -> /run/runit/supervise.routinator
+/usr/bin/routinator
+/usr/share/doc/routinator/README.md
+/usr/share/licenses/routinator/LICENSE
+/usr/share/man/man1/routinator.1

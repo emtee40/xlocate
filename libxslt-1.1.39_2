@@ -1,0 +1,7 @@
+/usr/bin/xsltproc
+/usr/lib/libexslt.so.0 -> /usr/lib/libexslt.so.0.8.21
+/usr/lib/libexslt.so.0.8.21
+/usr/lib/libxslt.so.1 -> /usr/lib/libxslt.so.1.1.39
+/usr/lib/libxslt.so.1.1.39
+/usr/share/licenses/libxslt/COPYING
+/usr/share/man/man1/xsltproc.1

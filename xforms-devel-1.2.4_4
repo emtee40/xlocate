@@ -1,0 +1,10 @@
+/usr/bin/fd2ps
+/usr/bin/fdesign
+/usr/include/flimage.h
+/usr/include/forms.h
+/usr/lib/libflimage.a
+/usr/lib/libflimage.so -> /usr/lib/libflimage.so.2.1.3
+/usr/lib/libforms.a
+/usr/lib/libforms.so -> /usr/lib/libforms.so.2.1.3
+/usr/share/man/man1/fd2ps.1
+/usr/share/man/man1/fdesign.1

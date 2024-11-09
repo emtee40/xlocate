@@ -1,0 +1,5 @@
+/usr/lib/libQt6TextToSpeech.so.6 -> /usr/lib/libQt6TextToSpeech.so.6.7.2
+/usr/lib/libQt6TextToSpeech.so.6.7.2
+/usr/lib/qt6/qml/QtTextToSpeech/libtexttospeechqmlplugin.so
+/usr/lib/qt6/qml/QtTextToSpeech/plugins.qmltypes
+/usr/lib/qt6/qml/QtTextToSpeech/qmldir

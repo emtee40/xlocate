@@ -1,0 +1,6 @@
+/usr/lib32/libxcb-ewmh.a
+/usr/lib32/libxcb-ewmh.so -> /usr/lib32/libxcb-ewmh.so.2.0.0
+/usr/lib32/libxcb-icccm.a
+/usr/lib32/libxcb-icccm.so -> /usr/lib32/libxcb-icccm.so.4.0.0
+/usr/lib32/pkgconfig/xcb-ewmh.pc
+/usr/lib32/pkgconfig/xcb-icccm.pc

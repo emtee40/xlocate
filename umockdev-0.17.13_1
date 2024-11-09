@@ -1,0 +1,4 @@
+/usr/bin/umockdev-record
+/usr/bin/umockdev-run
+/usr/bin/umockdev-wrapper
+/usr/lib/girepository-1.0/UMockdev-1.0.typelib

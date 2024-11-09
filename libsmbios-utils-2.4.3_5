@@ -1,0 +1,17 @@
+/usr/bin/smbios-get-ut-data
+/usr/bin/smbios-state-byte-ctl
+/usr/bin/smbios-sys-info-lite
+/usr/bin/smbios-upflag-ctl
+/usr/share/man/man1/smbios-battery-ctl.1
+/usr/share/man/man1/smbios-get-ut-data.1
+/usr/share/man/man1/smbios-keyboard-ctl.1
+/usr/share/man/man1/smbios-lcd-brightness.1
+/usr/share/man/man1/smbios-passwd.1
+/usr/share/man/man1/smbios-state-byte-ctl.1
+/usr/share/man/man1/smbios-sys-info-lite.1
+/usr/share/man/man1/smbios-sys-info.1
+/usr/share/man/man1/smbios-thermal-ctl.1
+/usr/share/man/man1/smbios-token-ctl.1
+/usr/share/man/man1/smbios-upflag-ctl.1
+/usr/share/man/man1/smbios-wakeup-ctl.1
+/usr/share/man/man1/smbios-wireless-ctl.1

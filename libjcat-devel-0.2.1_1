@@ -1,0 +1,17 @@
+/usr/include/libjcat-1/jcat.h
+/usr/include/libjcat-1/libjcat/jcat-blob.h
+/usr/include/libjcat-1/libjcat/jcat-bt-checkpoint.h
+/usr/include/libjcat-1/libjcat/jcat-bt-verifier.h
+/usr/include/libjcat-1/libjcat/jcat-common.h
+/usr/include/libjcat-1/libjcat/jcat-compile.h
+/usr/include/libjcat-1/libjcat/jcat-context.h
+/usr/include/libjcat-1/libjcat/jcat-engine.h
+/usr/include/libjcat-1/libjcat/jcat-file.h
+/usr/include/libjcat-1/libjcat/jcat-item.h
+/usr/include/libjcat-1/libjcat/jcat-result.h
+/usr/include/libjcat-1/libjcat/jcat-version.h
+/usr/lib/libjcat.so -> /usr/lib/libjcat.so.1
+/usr/lib/pkgconfig/jcat.pc
+/usr/share/gir-1.0/Jcat-1.0.gir
+/usr/share/vala/vapi/jcat.deps
+/usr/share/vala/vapi/jcat.vapi

@@ -1,0 +1,17 @@
+/etc/ntpd-rs/ntp.toml
+/etc/sv/ntpd-rs-metrics/log/run
+/etc/sv/ntpd-rs-metrics/log/supervise -> /run/runit/supervise.ntpd-rs-metrics-log
+/etc/sv/ntpd-rs-metrics/run
+/etc/sv/ntpd-rs-metrics/supervise -> /run/runit/supervise.ntpd-rs-metrics
+/etc/sv/ntpd-rs/log/run
+/etc/sv/ntpd-rs/log/supervise -> /run/runit/supervise.ntpd-rs-log
+/etc/sv/ntpd-rs/run
+/etc/sv/ntpd-rs/supervise -> /run/runit/supervise.ntpd-rs
+/usr/bin/ntp-ctl
+/usr/bin/ntp-daemon
+/usr/bin/ntp-metrics-exporter
+/usr/share/licenses/ntpd-rs/LICENSE-MIT
+/usr/share/man/man5/ntp.toml.5
+/usr/share/man/man8/ntp-ctl.8
+/usr/share/man/man8/ntp-daemon.8
+/usr/share/man/man8/ntp-metrics-exporter.8

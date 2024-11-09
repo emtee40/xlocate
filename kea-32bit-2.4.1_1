@@ -1,0 +1,14 @@
+/usr/lib32/kea/hooks/libdhcp_bootp.a
+/usr/lib32/kea/hooks/libdhcp_bootp.so
+/usr/lib32/kea/hooks/libdhcp_flex_option.a
+/usr/lib32/kea/hooks/libdhcp_flex_option.so
+/usr/lib32/kea/hooks/libdhcp_ha.a
+/usr/lib32/kea/hooks/libdhcp_ha.so
+/usr/lib32/kea/hooks/libdhcp_lease_cmds.a
+/usr/lib32/kea/hooks/libdhcp_lease_cmds.so
+/usr/lib32/kea/hooks/libdhcp_pgsql_cb.a
+/usr/lib32/kea/hooks/libdhcp_pgsql_cb.so
+/usr/lib32/kea/hooks/libdhcp_run_script.a
+/usr/lib32/kea/hooks/libdhcp_run_script.so
+/usr/lib32/kea/hooks/libdhcp_stat_cmds.a
+/usr/lib32/kea/hooks/libdhcp_stat_cmds.so

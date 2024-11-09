@@ -1,0 +1,8 @@
+/usr/include/qt6keychain/keychain.h
+/usr/include/qt6keychain/qkeychain_export.h
+/usr/lib/cmake/Qt6Keychain/Qt6KeychainConfig.cmake
+/usr/lib/cmake/Qt6Keychain/Qt6KeychainConfigVersion.cmake
+/usr/lib/cmake/Qt6Keychain/Qt6KeychainLibraryDepends-none.cmake
+/usr/lib/cmake/Qt6Keychain/Qt6KeychainLibraryDepends.cmake
+/usr/lib/libqt6keychain.so -> /usr/lib/libqt6keychain.so.1
+/usr/lib/qt6/mkspecs/qt_Qt6Keychain.pri

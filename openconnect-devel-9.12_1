@@ -1,0 +1,3 @@
+/usr/include/openconnect.h
+/usr/lib/libopenconnect.so -> /usr/lib/libopenconnect.so.5.9.0
+/usr/lib/pkgconfig/openconnect.pc

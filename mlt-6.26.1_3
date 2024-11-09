@@ -1,0 +1,31 @@
+/usr/bin/melt
+/usr/lib/libmlt++.so.3 -> /usr/lib/libmlt++.so.6.26.1
+/usr/lib/libmlt++.so.6.26.1
+/usr/lib/libmlt.so.6 -> /usr/lib/libmlt.so.6.26.1
+/usr/lib/libmlt.so.6.26.1
+/usr/lib/mlt/libmltavformat.so
+/usr/lib/mlt/libmltcore.so
+/usr/lib/mlt/libmltdecklink.so
+/usr/lib/mlt/libmltfrei0r.so
+/usr/lib/mlt/libmltgdk.so
+/usr/lib/mlt/libmltjackrack.so
+/usr/lib/mlt/libmltkdenlive.so
+/usr/lib/mlt/libmltmotion_est.so
+/usr/lib/mlt/libmltnormalize.so
+/usr/lib/mlt/libmltoldfilm.so
+/usr/lib/mlt/libmltopengl.so
+/usr/lib/mlt/libmltplus.so
+/usr/lib/mlt/libmltplusgpl.so
+/usr/lib/mlt/libmltqt.so
+/usr/lib/mlt/libmltresample.so
+/usr/lib/mlt/libmltrtaudio.so
+/usr/lib/mlt/libmltsdl.so
+/usr/lib/mlt/libmltsdl2.so
+/usr/lib/mlt/libmltsox.so
+/usr/lib/mlt/libmltvideostab.so
+/usr/lib/mlt/libmltvidstab.so
+/usr/lib/mlt/libmltvmfx.so
+/usr/lib/mlt/libmltvorbis.so
+/usr/lib/mlt/libmltxine.so
+/usr/lib/mlt/libmltxml.so
+/usr/share/man/man1/melt.1

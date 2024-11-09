@@ -1,0 +1,25 @@
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ContactFields
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ContactList
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ContactSelectionDialog
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ContactSelectionWidget
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ExportSelectionWidget
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/ImportExportEngine
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/Plugin
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/PluginInterface
+/usr/include/KPim6/KAddressBookImportExport/KAddressBookImportExport/PluginManager
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/contactfields.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/contactlist.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/contactselectiondialog.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/contactselectionwidget.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/exportselectionwidget.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/importexportengine.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/kaddressbook_importexport_export.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/plugin.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/plugininterface.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport/pluginmanager.h
+/usr/include/KPim6/KAddressBookImportExport/kaddressbookimportexport_version.h
+/usr/lib/cmake/KPim6AddressbookImportExport/KPim6AddressbookImportExportConfig.cmake
+/usr/lib/cmake/KPim6AddressbookImportExport/KPim6AddressbookImportExportConfigVersion.cmake
+/usr/lib/cmake/KPim6AddressbookImportExport/KPim6AddressbookImportExportTargets-none.cmake
+/usr/lib/cmake/KPim6AddressbookImportExport/KPim6AddressbookImportExportTargets.cmake
+/usr/lib/libKPim6AddressbookImportExport.so -> /usr/lib/libKPim6AddressbookImportExport.so.6

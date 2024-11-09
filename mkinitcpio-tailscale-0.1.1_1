@@ -1,0 +1,4 @@
+/usr/bin/mkinitcpio-tailscale-setup
+/usr/lib/initcpio/hooks/tailscale
+/usr/lib/initcpio/install/tailscale
+/usr/share/licenses/mkinitcpio-tailscale/LICENSE

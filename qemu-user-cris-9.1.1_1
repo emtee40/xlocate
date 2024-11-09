@@ -1,0 +1,2 @@
+/usr/bin/qemu-cris
+/usr/bin/qemu-cris-static -> /usr/bin/qemu-cris

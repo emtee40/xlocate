@@ -1,0 +1,14 @@
+/usr/share/vosk-models/small-en-us/README
+/usr/share/vosk-models/small-en-us/am/final.mdl
+/usr/share/vosk-models/small-en-us/conf/mfcc.conf
+/usr/share/vosk-models/small-en-us/conf/model.conf
+/usr/share/vosk-models/small-en-us/graph/Gr.fst
+/usr/share/vosk-models/small-en-us/graph/HCLr.fst
+/usr/share/vosk-models/small-en-us/graph/disambig_tid.int
+/usr/share/vosk-models/small-en-us/graph/phones/word_boundary.int
+/usr/share/vosk-models/small-en-us/ivector/final.dubm
+/usr/share/vosk-models/small-en-us/ivector/final.ie
+/usr/share/vosk-models/small-en-us/ivector/final.mat
+/usr/share/vosk-models/small-en-us/ivector/global_cmvn.stats
+/usr/share/vosk-models/small-en-us/ivector/online_cmvn.conf
+/usr/share/vosk-models/small-en-us/ivector/splice.conf

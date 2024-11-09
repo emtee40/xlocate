@@ -1,0 +1,18 @@
+/usr/lib32/libkasten3controllers.so.0.3.0
+/usr/lib32/libkasten3controllers.so.3 -> /usr/lib32/libkasten3controllers.so.0.3.0
+/usr/lib32/libkasten3core.so.0.3.0
+/usr/lib32/libkasten3core.so.3 -> /usr/lib32/libkasten3core.so.0.3.0
+/usr/lib32/libkasten3gui.so.0.3.0
+/usr/lib32/libkasten3gui.so.3 -> /usr/lib32/libkasten3gui.so.0.3.0
+/usr/lib32/libkasten3okteta1controllers.so.0.3.1
+/usr/lib32/libkasten3okteta1controllers.so.1 -> /usr/lib32/libkasten3okteta1controllers.so.0.3.1
+/usr/lib32/libkasten3okteta1core.so.0.3.1
+/usr/lib32/libkasten3okteta1core.so.1 -> /usr/lib32/libkasten3okteta1core.so.0.3.1
+/usr/lib32/libkasten3okteta1gui.so.0.3.1
+/usr/lib32/libkasten3okteta1gui.so.1 -> /usr/lib32/libkasten3okteta1gui.so.0.3.1
+/usr/lib32/libokteta2core.so.0.9.1
+/usr/lib32/libokteta2core.so.2 -> /usr/lib32/libokteta2core.so.0.9.1
+/usr/lib32/libokteta2gui.so.0.9.1
+/usr/lib32/libokteta2gui.so.2 -> /usr/lib32/libokteta2gui.so.0.9.1
+/usr/lib32/qt5/plugins/designer/oktetawidgets.so
+/usr/lib32/qt5/plugins/oktetapart.so

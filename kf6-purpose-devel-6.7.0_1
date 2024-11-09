@@ -1,0 +1,19 @@
+/usr/include/KF6/Purpose/Purpose/AlternativesModel
+/usr/include/KF6/Purpose/Purpose/Configuration
+/usr/include/KF6/Purpose/Purpose/Job
+/usr/include/KF6/Purpose/Purpose/PluginBase
+/usr/include/KF6/Purpose/purpose/alternativesmodel.h
+/usr/include/KF6/Purpose/purpose/configuration.h
+/usr/include/KF6/Purpose/purpose/job.h
+/usr/include/KF6/Purpose/purpose/pluginbase.h
+/usr/include/KF6/Purpose/purpose/purpose_export.h
+/usr/include/KF6/Purpose/purpose_version.h
+/usr/include/KF6/PurposeWidgets/Purpose/Menu
+/usr/include/KF6/PurposeWidgets/purpose/menu.h
+/usr/include/KF6/PurposeWidgets/purpose/purposewidgets_export.h
+/usr/lib/cmake/KF6Purpose/KF6PurposeConfig.cmake
+/usr/lib/cmake/KF6Purpose/KF6PurposeConfigVersion.cmake
+/usr/lib/cmake/KF6Purpose/KF6PurposeTargets-none.cmake
+/usr/lib/cmake/KF6Purpose/KF6PurposeTargets.cmake
+/usr/lib/libKF6Purpose.so -> /usr/lib/libKF6Purpose.so.6
+/usr/lib/libKF6PurposeWidgets.so -> /usr/lib/libKF6PurposeWidgets.so.6

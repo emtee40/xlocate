@@ -1,0 +1,3 @@
+/usr/include/bemenu.h
+/usr/lib/libbemenu.so -> /usr/lib/libbemenu.so.0.6.23
+/usr/lib/pkgconfig/bemenu.pc

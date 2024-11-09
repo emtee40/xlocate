@@ -1,0 +1,4 @@
+/usr/include/glyphy/glyphy-freetype.h
+/usr/include/glyphy/glyphy.h
+/usr/lib/libglyphy.so -> /usr/lib/libglyphy.so.0.0.0
+/usr/lib/pkgconfig/glyphy.pc

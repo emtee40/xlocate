@@ -1,0 +1,9 @@
+/usr/include/libffmpegthumbnailer/ffmpegthumbnailertypes.h
+/usr/include/libffmpegthumbnailer/filmstripfilter.h
+/usr/include/libffmpegthumbnailer/ifilter.h
+/usr/include/libffmpegthumbnailer/imagetypes.h
+/usr/include/libffmpegthumbnailer/videoframe.h
+/usr/include/libffmpegthumbnailer/videothumbnailer.h
+/usr/include/libffmpegthumbnailer/videothumbnailerc.h
+/usr/lib/libffmpegthumbnailer.so -> /usr/lib/libffmpegthumbnailer.so.4
+/usr/lib/pkgconfig/libffmpegthumbnailer.pc

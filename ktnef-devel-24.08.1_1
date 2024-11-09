@@ -1,0 +1,23 @@
+/usr/include/KPim6/KTNEF/KTNEF/Formatter
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFAttach
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFDefs
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFMessage
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFParser
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFProperty
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFPropertySet
+/usr/include/KPim6/KTNEF/KTNEF/KTNEFWriter
+/usr/include/KPim6/KTNEF/ktnef/formatter.h
+/usr/include/KPim6/KTNEF/ktnef/ktnef_export.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefattach.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefdefs.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefmessage.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefparser.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefproperty.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefpropertyset.h
+/usr/include/KPim6/KTNEF/ktnef/ktnefwriter.h
+/usr/include/KPim6/KTNEF/ktnef_version.h
+/usr/lib/cmake/KPim6Tnef/KPim6TnefConfig.cmake
+/usr/lib/cmake/KPim6Tnef/KPim6TnefConfigVersion.cmake
+/usr/lib/cmake/KPim6Tnef/KPim6TnefTargets-none.cmake
+/usr/lib/cmake/KPim6Tnef/KPim6TnefTargets.cmake
+/usr/lib/libKPim6Tnef.so -> /usr/lib/libKPim6Tnef.so.6

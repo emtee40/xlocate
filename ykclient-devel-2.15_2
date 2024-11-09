@@ -1,0 +1,5 @@
+/usr/include/ykclient.h
+/usr/include/ykclient_errors.h
+/usr/include/ykclient_server_response.h
+/usr/include/ykclient_version.h
+/usr/lib/libykclient.so -> /usr/lib/libykclient.so.3.6.0

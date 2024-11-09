@@ -1,0 +1,7 @@
+/usr/include/datrie/alpha-map.h
+/usr/include/datrie/trie.h
+/usr/include/datrie/triedefs.h
+/usr/include/datrie/typedefs.h
+/usr/lib/libdatrie.a
+/usr/lib/libdatrie.so -> /usr/lib/libdatrie.so.1.4.0
+/usr/lib/pkgconfig/datrie-0.2.pc

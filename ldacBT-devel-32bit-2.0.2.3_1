@@ -1,0 +1,4 @@
+/usr/lib32/libldacBT_abr.so -> /usr/lib32/libldacBT_abr.so.2
+/usr/lib32/libldacBT_enc.so -> /usr/lib32/libldacBT_enc.so.2
+/usr/lib32/pkgconfig/ldacBT-abr.pc
+/usr/lib32/pkgconfig/ldacBT-enc.pc

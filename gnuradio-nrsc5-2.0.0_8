@@ -1,0 +1,18 @@
+/usr/lib/libgnuradio-nrsc5.so.2.0.0git -> /usr/lib/libgnuradio-nrsc5.so.v2.0-compat-xxx-xunknown
+/usr/lib/libgnuradio-nrsc5.so.v2.0-compat-xxx-xunknown
+/usr/lib/python3.12/site-packages/nrsc5/__init__.py
+/usr/lib/python3.12/site-packages/nrsc5/nrsc5_python.so
+/usr/share/gnuradio/grc/blocks/nrsc5_hdc_encoder.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_am_encoder_ma1.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_am_encoder_ma3.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp1.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp11.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp2.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp3.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp5.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp5_ms1.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp6.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l1_fm_encoder_mp6_ms1.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_l2_encoder.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_psd_encoder.block.yml
+/usr/share/gnuradio/grc/blocks/nrsc5_sis_encoder.block.yml

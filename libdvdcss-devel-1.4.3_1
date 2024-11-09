@@ -1,0 +1,10 @@
+/usr/include/dvdcss/dvdcss.h
+/usr/include/dvdcss/version.h
+/usr/lib/libdvdcss.a
+/usr/lib/libdvdcss.so -> /usr/lib/libdvdcss.so.2.2.0
+/usr/lib/pkgconfig/libdvdcss.pc
+/usr/share/doc/libdvdcss/AUTHORS
+/usr/share/doc/libdvdcss/COPYING
+/usr/share/doc/libdvdcss/ChangeLog
+/usr/share/doc/libdvdcss/NEWS
+/usr/share/doc/libdvdcss/README

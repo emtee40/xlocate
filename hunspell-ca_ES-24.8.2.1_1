@@ -1,0 +1,24 @@
+/usr/share/hunspell-bdic/ca-valencia.bdic
+/usr/share/hunspell-bdic/ca.bdic
+/usr/share/hunspell-bdic/ca@valencia.bdic -> /usr/share/hunspell-bdic/ca-valencia.bdic
+/usr/share/hunspell-bdic/ca_AD.bdic -> /usr/share/hunspell-bdic/ca.bdic
+/usr/share/hunspell-bdic/ca_ES.bdic -> /usr/share/hunspell-bdic/ca.bdic
+/usr/share/hunspell-bdic/ca_ES@valencia.bdic -> /usr/share/hunspell-bdic/ca-valencia.bdic
+/usr/share/hunspell-bdic/ca_FR.bdic -> /usr/share/hunspell-bdic/ca.bdic
+/usr/share/hunspell-bdic/ca_IT.bdic -> /usr/share/hunspell-bdic/ca.bdic
+/usr/share/hunspell/ca-valencia.aff
+/usr/share/hunspell/ca-valencia.dic
+/usr/share/hunspell/ca.aff
+/usr/share/hunspell/ca.dic
+/usr/share/hunspell/ca@valencia.aff -> /usr/share/hunspell/ca-valencia.aff
+/usr/share/hunspell/ca@valencia.dic -> /usr/share/hunspell/ca-valencia.dic
+/usr/share/hunspell/ca_AD.aff -> /usr/share/hunspell/ca.aff
+/usr/share/hunspell/ca_AD.dic -> /usr/share/hunspell/ca.dic
+/usr/share/hunspell/ca_ES.aff -> /usr/share/hunspell/ca.aff
+/usr/share/hunspell/ca_ES.dic -> /usr/share/hunspell/ca.dic
+/usr/share/hunspell/ca_ES@valencia.aff -> /usr/share/hunspell/ca-valencia.aff
+/usr/share/hunspell/ca_ES@valencia.dic -> /usr/share/hunspell/ca-valencia.dic
+/usr/share/hunspell/ca_FR.aff -> /usr/share/hunspell/ca.aff
+/usr/share/hunspell/ca_FR.dic -> /usr/share/hunspell/ca.dic
+/usr/share/hunspell/ca_IT.aff -> /usr/share/hunspell/ca.aff
+/usr/share/hunspell/ca_IT.dic -> /usr/share/hunspell/ca.dic

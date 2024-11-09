@@ -1,0 +1,4 @@
+/usr/lib32/libmlt++.so -> /usr/lib32/libmlt++.so.6.26.1
+/usr/lib32/libmlt.so -> /usr/lib32/libmlt.so.6.26.1
+/usr/lib32/pkgconfig/mlt++.pc
+/usr/lib32/pkgconfig/mlt-framework.pc

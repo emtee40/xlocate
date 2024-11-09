@@ -1,0 +1,11 @@
+/usr/lib/perl5/vendor_perl/Chipcard/PCSC.pm
+/usr/lib/perl5/vendor_perl/Chipcard/PCSC.pod
+/usr/lib/perl5/vendor_perl/Chipcard/PCSC/Card.pm
+/usr/lib/perl5/vendor_perl/Chipcard/PCSC/Card.pod
+/usr/lib/perl5/vendor_perl/auto/Chipcard/PCSC/PCSC.so
+/usr/share/examples/perl-pcsc/gsm.script
+/usr/share/examples/perl-pcsc/gsm_directory.pl
+/usr/share/examples/perl-pcsc/test.pl
+/usr/share/examples/perl-pcsc/test_iso_error.pl
+/usr/share/man/man3/Chipcard::PCSC.3p
+/usr/share/man/man3/Chipcard::PCSC::Card.3p

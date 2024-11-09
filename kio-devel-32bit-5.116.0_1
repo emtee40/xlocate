@@ -1,0 +1,6 @@
+/usr/lib32/libKF5KIOCore.so -> /usr/lib32/libKF5KIOCore.so.5
+/usr/lib32/libKF5KIOFileWidgets.so -> /usr/lib32/libKF5KIOFileWidgets.so.5
+/usr/lib32/libKF5KIOGui.so -> /usr/lib32/libKF5KIOGui.so.5
+/usr/lib32/libKF5KIONTLM.so -> /usr/lib32/libKF5KIONTLM.so.5
+/usr/lib32/libKF5KIOWidgets.so -> /usr/lib32/libKF5KIOWidgets.so.5
+/usr/lib32/qt5/plugins/designer/kio5widgets.so

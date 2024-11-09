@@ -1,0 +1,67 @@
+/usr/lib32/libKF5Konq.so -> /usr/lib32/libKF5Konq.so.6
+/usr/lib32/libKF5Konq.so.5.97.0
+/usr/lib32/libKF5Konq.so.6 -> /usr/lib32/libKF5Konq.so.5.97.0
+/usr/lib32/libkdeinit5_kfmclient.so
+/usr/lib32/libkdeinit5_konqueror.so
+/usr/lib32/libkonqsidebarplugin.so -> /usr/lib32/libkonqsidebarplugin.so.5
+/usr/lib32/libkonqsidebarplugin.so.23.08.5
+/usr/lib32/libkonqsidebarplugin.so.5 -> /usr/lib32/libkonqsidebarplugin.so.23.08.5
+/usr/lib32/libkonquerorprivate.so.23.08.5
+/usr/lib32/libkonquerorprivate.so.5 -> /usr/lib32/libkonquerorprivate.so.23.08.5
+/usr/lib32/libkwebenginepart.so
+/usr/lib32/qt5/plugins/akregatorkonqfeedicon.so
+/usr/lib32/qt5/plugins/autorefresh.so
+/usr/lib32/qt5/plugins/babelfishplugin.so
+/usr/lib32/qt5/plugins/dolphinpart/kpartplugins/dirfilterplugin.so
+/usr/lib32/qt5/plugins/dolphinpart/kpartplugins/kimgallery.so
+/usr/lib32/qt5/plugins/dolphinpart/kpartplugins/konq_shellcmdplugin.so
+/usr/lib32/qt5/plugins/kf5/kfileitemaction/akregatorplugin.so
+/usr/lib32/qt5/plugins/kf5/parts/fsviewpart.so
+/usr/lib32/qt5/plugins/kf5/parts/konq_sidebar.so
+/usr/lib32/qt5/plugins/kf5/parts/webenginepart.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/akregatorkonqfeediconkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/akregatorkonqfeedicon.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/autorefreshkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/autorefresh.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/babelfishpluginkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/babelfishplugin.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/khtmlsettingspluginkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlsettingsplugin.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/khtmlttspluginkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlttsplugin.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/konqueror_kget_browser_integrationkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/konqueror_kget_browser_integration.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/uachangerpluginkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/uachangerplugin.so
+/usr/lib32/qt5/plugins/khtml/kpartplugins/webarchiverpluginkhtml_kpartplugins.so -> /usr/lib32/qt5/plugins/webarchiverplugin.so
+/usr/lib32/qt5/plugins/khtmlsettingsplugin.so
+/usr/lib32/qt5/plugins/khtmlttsplugin.so
+/usr/lib32/qt5/plugins/konqsidebar_bookmarks.so
+/usr/lib32/qt5/plugins/konqsidebar_history.so
+/usr/lib32/qt5/plugins/konqsidebar_places.so
+/usr/lib32/qt5/plugins/konqsidebar_tree.so
+/usr/lib32/qt5/plugins/konqueror/kpartplugins/searchbarplugin.so
+/usr/lib32/qt5/plugins/konqueror_kcms/kcm_bookmarks.so
+/usr/lib32/qt5/plugins/konqueror_kcms/kcm_history.so
+/usr/lib32/qt5/plugins/konqueror_kcms/kcm_konq.so
+/usr/lib32/qt5/plugins/konqueror_kcms/kcm_performance.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_appearance.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_behavior.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_cache.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_filter.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_general.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_java_js.so
+/usr/lib32/qt5/plugins/konqueror_kcms/khtml_useragent.so
+/usr/lib32/qt5/plugins/konqueror_kget_browser_integration.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/akregatorkonqfeediconkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/akregatorkonqfeedicon.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/autorefreshkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/autorefresh.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/babelfishpluginkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/babelfishplugin.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/khtmlsettingspluginkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlsettingsplugin.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/khtmlttspluginkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlttsplugin.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/konqueror_kget_browser_integrationkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/konqueror_kget_browser_integration.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/uachangerpluginkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/uachangerplugin.so
+/usr/lib32/qt5/plugins/kwebkitpart/kpartplugins/webarchiverpluginkwebkitpart_kpartplugins.so -> /usr/lib32/qt5/plugins/webarchiverplugin.so
+/usr/lib32/qt5/plugins/uachangerplugin.so
+/usr/lib32/qt5/plugins/webarchiverplugin.so
+/usr/lib32/qt5/plugins/webarchivethumbnail.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/akregatorkonqfeediconwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/akregatorkonqfeedicon.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/autorefreshwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/autorefresh.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/babelfishpluginwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/babelfishplugin.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/khtmlsettingspluginwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlsettingsplugin.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/khtmlttspluginwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/khtmlttsplugin.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/konqueror_kget_browser_integrationwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/konqueror_kget_browser_integration.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/uachangerpluginwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/uachangerplugin.so
+/usr/lib32/qt5/plugins/webenginepart/kpartplugins/webarchiverpluginwebenginepart_kpartplugins.so -> /usr/lib32/qt5/plugins/webarchiverplugin.so

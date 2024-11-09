@@ -1,0 +1,8 @@
+/usr/lib32/libadwaitaqt6.so -> /usr/lib32/libadwaitaqt6.so.1
+/usr/lib32/libadwaitaqt6.so.1 -> /usr/lib32/libadwaitaqt6.so.1.4.2
+/usr/lib32/libadwaitaqt6.so.1.4.2
+/usr/lib32/libadwaitaqt6priv.so -> /usr/lib32/libadwaitaqt6priv.so.1
+/usr/lib32/libadwaitaqt6priv.so.1 -> /usr/lib32/libadwaitaqt6priv.so.1.4.2
+/usr/lib32/libadwaitaqt6priv.so.1.4.2
+/usr/lib32/pkgconfig/adwaita-qt6.pc
+/usr/lib32/qt6/plugins/styles/adwaita.so

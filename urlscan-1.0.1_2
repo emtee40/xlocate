@@ -1,0 +1,15 @@
+/usr/bin/urlscan
+/usr/lib/python3.12/site-packages/urlscan-1.0.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/urlscan-1.0.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/urlscan-1.0.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/urlscan-1.0.1.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/urlscan-1.0.1.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/urlscan/__init__.py
+/usr/lib/python3.12/site-packages/urlscan/__main__.py
+/usr/lib/python3.12/site-packages/urlscan/_version.py
+/usr/lib/python3.12/site-packages/urlscan/assets/tlds-alpha-by-domain.txt
+/usr/lib/python3.12/site-packages/urlscan/urlchoose.py
+/usr/lib/python3.12/site-packages/urlscan/urlscan.py
+/usr/share/doc/urlscan/LICENSE
+/usr/share/doc/urlscan/README.md
+/usr/share/man/man1/urlscan.1

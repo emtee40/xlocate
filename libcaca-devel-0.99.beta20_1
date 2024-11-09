@@ -1,0 +1,13 @@
+/usr/bin/caca-config
+/usr/include/caca++.h
+/usr/include/caca.h
+/usr/include/caca0.h
+/usr/include/caca_conio.h
+/usr/include/caca_types.h
+/usr/lib/libcaca++.a
+/usr/lib/libcaca++.so -> /usr/lib/libcaca++.so.0.99.20
+/usr/lib/libcaca.a
+/usr/lib/libcaca.so -> /usr/lib/libcaca.so.0.99.20
+/usr/lib/pkgconfig/caca++.pc
+/usr/lib/pkgconfig/caca.pc
+/usr/share/man/man1/caca-config.1

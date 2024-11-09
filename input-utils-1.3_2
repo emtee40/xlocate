@@ -1,0 +1,8 @@
+/usr/bin/input-events
+/usr/bin/input-kbd
+/usr/bin/input-recv
+/usr/bin/input-send
+/usr/bin/lsinput
+/usr/share/man/man8/input-events.8
+/usr/share/man/man8/input-kbd.8
+/usr/share/man/man8/lsinput.8

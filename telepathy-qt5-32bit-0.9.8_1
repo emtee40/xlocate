@@ -1,0 +1,4 @@
+/usr/lib32/libtelepathy-qt5-service.so.0.0.9.8
+/usr/lib32/libtelepathy-qt5-service.so.1 -> /usr/lib32/libtelepathy-qt5-service.so.0.0.9.8
+/usr/lib32/libtelepathy-qt5.so.0 -> /usr/lib32/libtelepathy-qt5.so.0.0.9.8
+/usr/lib32/libtelepathy-qt5.so.0.0.9.8

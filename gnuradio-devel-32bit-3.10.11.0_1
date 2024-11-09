@@ -1,0 +1,43 @@
+/usr/lib32/libgnuradio-analog.so -> /usr/lib32/libgnuradio-analog.so.3.10.11
+/usr/lib32/libgnuradio-audio.so -> /usr/lib32/libgnuradio-audio.so.3.10.11
+/usr/lib32/libgnuradio-blocks.so -> /usr/lib32/libgnuradio-blocks.so.3.10.11
+/usr/lib32/libgnuradio-channels.so -> /usr/lib32/libgnuradio-channels.so.3.10.11
+/usr/lib32/libgnuradio-digital.so -> /usr/lib32/libgnuradio-digital.so.3.10.11
+/usr/lib32/libgnuradio-dtv.so -> /usr/lib32/libgnuradio-dtv.so.3.10.11
+/usr/lib32/libgnuradio-fec.so -> /usr/lib32/libgnuradio-fec.so.3.10.11
+/usr/lib32/libgnuradio-fft.so -> /usr/lib32/libgnuradio-fft.so.3.10.11
+/usr/lib32/libgnuradio-filter.so -> /usr/lib32/libgnuradio-filter.so.3.10.11
+/usr/lib32/libgnuradio-iio.so -> /usr/lib32/libgnuradio-iio.so.3.10.11
+/usr/lib32/libgnuradio-network.so -> /usr/lib32/libgnuradio-network.so.3.10.11
+/usr/lib32/libgnuradio-pdu.so -> /usr/lib32/libgnuradio-pdu.so.3.10.11
+/usr/lib32/libgnuradio-pmt.so -> /usr/lib32/libgnuradio-pmt.so.3.10.11
+/usr/lib32/libgnuradio-qtgui.so -> /usr/lib32/libgnuradio-qtgui.so.3.10.11
+/usr/lib32/libgnuradio-runtime.so -> /usr/lib32/libgnuradio-runtime.so.3.10.11
+/usr/lib32/libgnuradio-soapy.so -> /usr/lib32/libgnuradio-soapy.so.3.10.11
+/usr/lib32/libgnuradio-trellis.so -> /usr/lib32/libgnuradio-trellis.so.3.10.11
+/usr/lib32/libgnuradio-uhd.so -> /usr/lib32/libgnuradio-uhd.so.3.10.11
+/usr/lib32/libgnuradio-video-sdl.so -> /usr/lib32/libgnuradio-video-sdl.so.3.10.11
+/usr/lib32/libgnuradio-vocoder.so -> /usr/lib32/libgnuradio-vocoder.so.3.10.11
+/usr/lib32/libgnuradio-wavelet.so -> /usr/lib32/libgnuradio-wavelet.so.3.10.11
+/usr/lib32/libgnuradio-zeromq.so -> /usr/lib32/libgnuradio-zeromq.so.3.10.11
+/usr/lib32/pkgconfig/gnuradio-analog.pc
+/usr/lib32/pkgconfig/gnuradio-audio.pc
+/usr/lib32/pkgconfig/gnuradio-blocks.pc
+/usr/lib32/pkgconfig/gnuradio-channels.pc
+/usr/lib32/pkgconfig/gnuradio-digital.pc
+/usr/lib32/pkgconfig/gnuradio-dtv.pc
+/usr/lib32/pkgconfig/gnuradio-fec.pc
+/usr/lib32/pkgconfig/gnuradio-fft.pc
+/usr/lib32/pkgconfig/gnuradio-filter.pc
+/usr/lib32/pkgconfig/gnuradio-iio.pc
+/usr/lib32/pkgconfig/gnuradio-network.pc
+/usr/lib32/pkgconfig/gnuradio-pdu.pc
+/usr/lib32/pkgconfig/gnuradio-qtgui.pc
+/usr/lib32/pkgconfig/gnuradio-runtime.pc
+/usr/lib32/pkgconfig/gnuradio-soapy.pc
+/usr/lib32/pkgconfig/gnuradio-trellis.pc
+/usr/lib32/pkgconfig/gnuradio-uhd.pc
+/usr/lib32/pkgconfig/gnuradio-video-sdl.pc
+/usr/lib32/pkgconfig/gnuradio-vocoder.pc
+/usr/lib32/pkgconfig/gnuradio-wavelet.pc
+/usr/lib32/pkgconfig/gnuradio-zeromq.pc

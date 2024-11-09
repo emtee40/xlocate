@@ -1,0 +1,7 @@
+/usr/lib32/rspamd/libTH.so
+/usr/lib32/rspamd/libTHNN.so
+/usr/lib32/rspamd/libdecisiontree.so
+/usr/lib32/rspamd/libpaths.so
+/usr/lib32/rspamd/librspamd-actrie.so
+/usr/lib32/rspamd/librspamd-server.so
+/usr/lib32/rspamd/libtorch.so

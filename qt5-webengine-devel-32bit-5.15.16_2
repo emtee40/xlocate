@@ -1,0 +1,11 @@
+/usr/lib32/libQt5Pdf.so -> /usr/lib32/libQt5Pdf.so.5.15.2
+/usr/lib32/libQt5PdfWidgets.so -> /usr/lib32/libQt5PdfWidgets.so.5.15.2
+/usr/lib32/libQt5WebEngine.so -> /usr/lib32/libQt5WebEngine.so.5.15.2
+/usr/lib32/libQt5WebEngineCore.so -> /usr/lib32/libQt5WebEngineCore.so.5.15.2
+/usr/lib32/libQt5WebEngineWidgets.so -> /usr/lib32/libQt5WebEngineWidgets.so.5.15.2
+/usr/lib32/pkgconfig/Qt5Pdf.pc
+/usr/lib32/pkgconfig/Qt5PdfWidgets.pc
+/usr/lib32/pkgconfig/Qt5WebEngine.pc
+/usr/lib32/pkgconfig/Qt5WebEngineCore.pc
+/usr/lib32/pkgconfig/Qt5WebEngineWidgets.pc
+/usr/lib32/qt5/plugins/designer/libqwebengineview.so

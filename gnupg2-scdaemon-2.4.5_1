@@ -1,0 +1,4 @@
+/usr/lib/udev/rules.d/60-scdaemon.rules
+/usr/libexec/scdaemon
+/usr/share/doc/gnupg2-scdaemon/README.voidlinux
+/usr/share/man/man1/scdaemon.1

@@ -1,0 +1,5 @@
+/usr/lib32/libmodsecurity.a
+/usr/lib32/libmodsecurity.so -> /usr/lib32/libmodsecurity.so.3.0.4
+/usr/lib32/libmodsecurity.so.3 -> /usr/lib32/libmodsecurity.so.3.0.4
+/usr/lib32/libmodsecurity.so.3.0.4
+/usr/lib32/pkgconfig/modsecurity.pc

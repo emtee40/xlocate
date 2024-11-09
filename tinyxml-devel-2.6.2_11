@@ -1,0 +1,4 @@
+/usr/include/tinystr.h
+/usr/include/tinyxml.h
+/usr/lib/libtinyxml.so -> /usr/lib/libtinyxml.so.0.2.6.2
+/usr/lib/pkgconfig/tinyxml.pc

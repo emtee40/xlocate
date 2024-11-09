@@ -1,0 +1,9 @@
+/usr/libexec/opensmtpd/table-ldap
+/usr/libexec/opensmtpd/table-mysql
+/usr/libexec/opensmtpd/table-passwd
+/usr/libexec/opensmtpd/table-postgres
+/usr/libexec/opensmtpd/table-socketmap
+/usr/libexec/opensmtpd/table-sqlite
+/usr/share/man/man5/table-passwd.5
+/usr/share/man/man5/table-socketmap.5
+/usr/share/man/man5/table-sqlite.5

@@ -1,0 +1,22 @@
+/usr/include/tcadb.h
+/usr/include/tcbdb.h
+/usr/include/tcfdb.h
+/usr/include/tchdb.h
+/usr/include/tctdb.h
+/usr/include/tcutil.h
+/usr/lib/libtokyocabinet.a
+/usr/lib/libtokyocabinet.so -> /usr/lib/libtokyocabinet.so.9.11.0
+/usr/lib/pkgconfig/tokyocabinet.pc
+/usr/share/man/man3/tcadb.3
+/usr/share/man/man3/tcbdb.3
+/usr/share/man/man3/tcfdb.3
+/usr/share/man/man3/tchdb.3
+/usr/share/man/man3/tclist.3
+/usr/share/man/man3/tcmap.3
+/usr/share/man/man3/tcmdb.3
+/usr/share/man/man3/tcmpool.3
+/usr/share/man/man3/tctdb.3
+/usr/share/man/man3/tctree.3
+/usr/share/man/man3/tcutil.3
+/usr/share/man/man3/tcxstr.3
+/usr/share/man/man3/tokyocabinet.3

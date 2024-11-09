@@ -1,0 +1,3 @@
+/usr/lib32/libnewt.a
+/usr/lib32/libnewt.so -> /usr/lib32/libnewt.so.0.52
+/usr/lib32/pkgconfig/libnewt.pc

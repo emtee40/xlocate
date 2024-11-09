@@ -1,0 +1,9 @@
+/etc/bitlbee/bitlbee.conf
+/etc/bitlbee/motd.txt
+/etc/sv/bitlbee/run
+/etc/sv/bitlbee/supervise -> /run/runit/supervise.bitlbee
+/usr/bin/bitlbee
+/usr/lib/bitlbee/otr.so
+/usr/share/bitlbee/help.txt
+/usr/share/man/man5/bitlbee.conf.5
+/usr/share/man/man8/bitlbee.8

@@ -1,0 +1,6 @@
+/usr/include/bzrtp/bzrtp.h
+/usr/lib/cmake/BZRTP/BZRTPConfig.cmake
+/usr/lib/cmake/BZRTP/BZRTPConfigVersion.cmake
+/usr/lib/cmake/BZRTP/BZRTPTargets-none.cmake
+/usr/lib/cmake/BZRTP/BZRTPTargets.cmake
+/usr/lib/libbzrtp.so -> /usr/lib/libbzrtp.so.0

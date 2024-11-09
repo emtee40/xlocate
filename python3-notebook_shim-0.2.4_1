@@ -1,0 +1,17 @@
+/etc/jupyter/jupyter_server_config.d/notebook_shim.json
+/usr/lib/python3.12/site-packages/notebook_shim-0.2.4.dist-info/METADATA
+/usr/lib/python3.12/site-packages/notebook_shim-0.2.4.dist-info/RECORD
+/usr/lib/python3.12/site-packages/notebook_shim-0.2.4.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/notebook_shim-0.2.4.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/notebook_shim/__init__.py
+/usr/lib/python3.12/site-packages/notebook_shim/_version.py
+/usr/lib/python3.12/site-packages/notebook_shim/nbserver.py
+/usr/lib/python3.12/site-packages/notebook_shim/shim.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/__init__.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/confs/jupyter_my_ext_config.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/confs/jupyter_notebook_config.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/confs/jupyter_server_config.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/mockextension.py
+/usr/lib/python3.12/site-packages/notebook_shim/tests/test_extension.py
+/usr/lib/python3.12/site-packages/notebook_shim/traits.py
+/usr/share/licenses/python3-notebook_shim/LICENSE

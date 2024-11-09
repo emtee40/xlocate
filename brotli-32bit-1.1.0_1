@@ -1,0 +1,6 @@
+/usr/lib32/libbrotlicommon.so.1 -> /usr/lib32/libbrotlicommon.so.1.1.0
+/usr/lib32/libbrotlicommon.so.1.1.0
+/usr/lib32/libbrotlidec.so.1 -> /usr/lib32/libbrotlidec.so.1.1.0
+/usr/lib32/libbrotlidec.so.1.1.0
+/usr/lib32/libbrotlienc.so.1 -> /usr/lib32/libbrotlienc.so.1.1.0
+/usr/lib32/libbrotlienc.so.1.1.0

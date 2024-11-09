@@ -1,0 +1,12 @@
+/usr/bin/mdb_copy
+/usr/bin/mdb_dump
+/usr/bin/mdb_load
+/usr/bin/mdb_stat
+/usr/lib/liblmdb.so.0 -> /usr/lib/liblmdb.so.0.9
+/usr/lib/liblmdb.so.0.9
+/usr/share/licenses/lmdb/COPYRIGHT
+/usr/share/licenses/lmdb/LICENSE
+/usr/share/man/man1/mdb_copy.1
+/usr/share/man/man1/mdb_dump.1
+/usr/share/man/man1/mdb_load.1
+/usr/share/man/man1/mdb_stat.1

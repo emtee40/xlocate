@@ -1,0 +1,17 @@
+/usr/bin/dk
+/usr/bin/dkcmd
+/usr/share/doc/dk/dk.png
+/usr/share/doc/dk/dkrc
+/usr/share/doc/dk/scripts/bar.sh
+/usr/share/doc/dk/scripts/dk.conkyrc
+/usr/share/doc/dk/scripts/dzenws.sh
+/usr/share/doc/dk/scripts/gap_alphaborder.sh
+/usr/share/doc/dk/scripts/layouts.sh
+/usr/share/doc/dk/scripts/title.sh
+/usr/share/doc/dk/scripts/workspaces.sh
+/usr/share/doc/dk/scripts/wsborders.sh
+/usr/share/doc/dk/sxhkdrc
+/usr/share/licenses/dk/LICENSE
+/usr/share/man/man1/dk.1
+/usr/share/man/man1/dkcmd.1 -> /usr/share/man/man1/dk.1
+/usr/share/xsessions/dk.desktop

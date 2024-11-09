@@ -1,0 +1,13 @@
+/usr/bin/binlm2arpa
+/usr/bin/evallm
+/usr/bin/idngram2lm
+/usr/bin/idngram2stats
+/usr/bin/lm_combine
+/usr/bin/lm_interpolate
+/usr/bin/mergeidngram
+/usr/bin/ngram2mgram
+/usr/bin/text2idngram
+/usr/bin/text2wfreq
+/usr/bin/text2wngram
+/usr/bin/wfreq2vocab
+/usr/bin/wngram2idngram

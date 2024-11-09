@@ -1,0 +1,3 @@
+/usr/bin/ntp-wait
+/usr/bin/ntptrace
+/usr/share/ntp/lib/NTP/Util.pm

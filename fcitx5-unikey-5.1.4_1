@@ -1,0 +1,26 @@
+/usr/lib/fcitx5/libunikey.so
+/usr/share/fcitx5/addon/unikey.conf
+/usr/share/fcitx5/inputmethod/unikey.conf
+/usr/share/icons/hicolor/128x128/apps/fcitx-unikey.png -> /usr/share/icons/hicolor/128x128/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/128x128/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/16x16/apps/fcitx-unikey.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-unikey.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-unikey.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-unikey.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-unikey.png
+/usr/share/locale/ca/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/fr/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/he/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/vi/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-unikey.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.Unikey.metainfo.xml

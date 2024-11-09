@@ -1,0 +1,17 @@
+/usr/bin/fribidi.pl
+/usr/lib/perl5/vendor_perl/Text/Bidi.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/Array.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/Array/Byte.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/Array/Long.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/Constants.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/Paragraph.pm
+/usr/lib/perl5/vendor_perl/Text/Bidi/private.pm
+/usr/lib/perl5/vendor_perl/auto/Text/Bidi/private/private.so
+/usr/share/man/man1/fribidi.pl.1p
+/usr/share/man/man3/Text::Bidi.3p
+/usr/share/man/man3/Text::Bidi::Array.3p
+/usr/share/man/man3/Text::Bidi::Array::Byte.3p
+/usr/share/man/man3/Text::Bidi::Array::Long.3p
+/usr/share/man/man3/Text::Bidi::Constants.3p
+/usr/share/man/man3/Text::Bidi::Paragraph.3p
+/usr/share/man/man3/Text::Bidi::private.3p

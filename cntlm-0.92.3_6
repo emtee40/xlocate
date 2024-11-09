@@ -1,0 +1,4 @@
+/etc/sv/cntlm/run
+/etc/sv/cntlm/supervise -> /run/runit/supervise.cntlm
+/usr/bin/cntlm
+/usr/share/man/man1/cntlm.1

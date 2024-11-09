@@ -1,0 +1,7 @@
+/usr/bin/pencil2d
+/usr/share/applications/org.pencil2d.Pencil2D.desktop
+/usr/share/bash-completion/completions/pencil2d
+/usr/share/icons/hicolor/256x256/apps/org.pencil2d.Pencil2D.png
+/usr/share/metainfo/org.pencil2d.Pencil2D.metainfo.xml
+/usr/share/mime/packages/org.pencil2d.Pencil2D.xml
+/usr/share/zsh/site-functions/_pencil2d

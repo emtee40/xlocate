@@ -1,0 +1,23 @@
+/etc/rinse/centos-7.packages
+/etc/rinse/centos-8.packages
+/etc/rinse/fedora-36.packages
+/etc/rinse/fedora-37.packages
+/etc/rinse/opensuse-15.2.packages
+/etc/rinse/opensuse-15.4.packages
+/etc/rinse/rinse.conf
+/etc/rinse/rocky-8.packages
+/etc/rinse/rocky-9.packages
+/usr/bin/rinse
+/usr/lib/rinse/centos-7/post-install.sh
+/usr/lib/rinse/centos-8/post-install.sh
+/usr/lib/rinse/common/10-resolv.conf.sh
+/usr/lib/rinse/common/15-mount-proc.sh
+/usr/lib/rinse/common/20-dev-zero.sh
+/usr/lib/rinse/fedora-36/post-install.sh -> /usr/lib/rinse/fedora-37/post-install.sh
+/usr/lib/rinse/fedora-37/post-install.sh
+/usr/lib/rinse/opensuse-15.2/post-install.sh -> /usr/lib/rinse/opensuse-15.4/post-install.sh
+/usr/lib/rinse/opensuse-15.4/post-install.sh
+/usr/lib/rinse/rocky-8/post-install.sh -> /usr/lib/rinse/rocky-9/post-install.sh
+/usr/lib/rinse/rocky-9/post-install.sh
+/usr/share/bash-completion/completions/rinse
+/usr/share/man/man8/rinse.8

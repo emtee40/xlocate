@@ -1,0 +1,5 @@
+/usr/bin/starship
+/usr/share/bash-completion/completions/starship
+/usr/share/fish/vendor_completions.d/starship.fish
+/usr/share/licenses/starship/LICENSE
+/usr/share/zsh/site-functions/_starship

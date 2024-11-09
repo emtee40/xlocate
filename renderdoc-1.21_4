@@ -1,0 +1,17 @@
+/etc/vulkan/implicit_layer.d/renderdoc_capture.json
+/usr/bin/qrenderdoc
+/usr/bin/renderdoccmd
+/usr/include/renderdoc_app.h
+/usr/lib/librenderdoc.so
+/usr/share/applications/renderdoc.desktop
+/usr/share/doc/renderdoc/LICENSE.md
+/usr/share/doc/renderdoc/README
+/usr/share/doc/renderdoc/magic
+/usr/share/icons/hicolor/scalable/mimetypes/application-x-renderdoc-capture.svg
+/usr/share/licenses/renderdoc/LICENSE.md
+/usr/share/licenses/renderdoc/credits_acknowledgements.rst
+/usr/share/menu/renderdoc
+/usr/share/mime/packages/renderdoc-capture.xml
+/usr/share/pixmaps/renderdoc-icon-16x16.xpm
+/usr/share/pixmaps/renderdoc-icon-32x32.xpm
+/usr/share/thumbnailers/renderdoc.thumbnailer

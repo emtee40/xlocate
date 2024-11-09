@@ -1,0 +1,5 @@
+/usr/lib32/libgupnp-dlna-2.0.so -> /usr/lib32/libgupnp-dlna-2.0.so.4
+/usr/lib32/libgupnp-dlna-gst-2.0.so -> /usr/lib32/libgupnp-dlna-gst-2.0.so.4
+/usr/lib32/pkgconfig/gupnp-dlna-2.0.pc
+/usr/lib32/pkgconfig/gupnp-dlna-gst-2.0.pc
+/usr/lib32/pkgconfig/gupnp-dlna-metadata-2.0.pc

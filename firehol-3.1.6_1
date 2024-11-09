@@ -1,0 +1,47 @@
+/etc/firehol/firehol.conf.example
+/etc/firehol/fireqos.conf.example
+/etc/firehol/services/bittorrent.conf.example
+/etc/sv/firehol/finish
+/etc/sv/firehol/run
+/etc/sv/firehol/supervise -> /run/runit/supervise.firehol
+/usr/bin/firehol -> /usr/libexec/firehol/3.1.6/firehol
+/usr/bin/fireqos -> /usr/libexec/firehol/3.1.6/fireqos
+/usr/bin/link-balancer -> /usr/libexec/firehol/3.1.6/link-balancer
+/usr/bin/update-ipsets -> /usr/libexec/firehol/3.1.6/update-ipsets
+/usr/bin/vnetbuild -> /usr/libexec/firehol/3.1.6/vnetbuild
+/usr/libexec/firehol/3.1.6/firehol
+/usr/libexec/firehol/3.1.6/fireqos
+/usr/libexec/firehol/3.1.6/functions.common
+/usr/libexec/firehol/3.1.6/install.config
+/usr/libexec/firehol/3.1.6/link-balancer
+/usr/libexec/firehol/3.1.6/services.common
+/usr/libexec/firehol/3.1.6/services.firehol
+/usr/libexec/firehol/3.1.6/services.fireqos
+/usr/libexec/firehol/3.1.6/update-ipsets
+/usr/libexec/firehol/3.1.6/vnetbuild
+/usr/share/doc/firehol/contrib/README
+/usr/share/doc/firehol/contrib/dnsbl-ipset.sh
+/usr/share/doc/firehol/contrib/firehol.service
+/usr/share/doc/firehol/contrib/fireqos.service
+/usr/share/doc/firehol/contrib/ipset-apply.sh
+/usr/share/doc/firehol/examples/adblock.sh
+/usr/share/doc/firehol/examples/client-all.conf
+/usr/share/doc/firehol/examples/fireqos-multiple-organizations.conf
+/usr/share/doc/firehol/examples/fireqos.conf
+/usr/share/doc/firehol/examples/icmpv6.conf
+/usr/share/doc/firehol/examples/lan-gateway.conf
+/usr/share/doc/firehol/examples/office.conf
+/usr/share/doc/firehol/examples/server-dmz.conf
+/usr/share/doc/firehol/examples/vnetbuild-simple.conf
+/usr/share/doc/firehol/examples/vnetbuild.conf
+/usr/share/update-ipsets/webdir/bogons.html
+/usr/share/update-ipsets/webdir/botscout.html
+/usr/share/update-ipsets/webdir/cta_cryptowall.html
+/usr/share/update-ipsets/webdir/dshield.html
+/usr/share/update-ipsets/webdir/firehol_level1.html
+/usr/share/update-ipsets/webdir/fullbogons.html
+/usr/share/update-ipsets/webdir/index.html
+/usr/share/update-ipsets/webdir/packetmail.html
+/usr/share/update-ipsets/webdir/spamhaus_drop.html
+/usr/share/update-ipsets/webdir/spamhaus_edrop.html
+/usr/share/update-ipsets/webdir/typeahead.css

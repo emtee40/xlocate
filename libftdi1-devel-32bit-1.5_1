@@ -1,0 +1,4 @@
+/usr/lib32/libftdi1.a
+/usr/lib32/libftdi1.so -> /usr/lib32/libftdi1.so.2
+/usr/lib32/pkgconfig/libftdi1.pc
+/usr/lib32/pkgconfig/libftdipp1.pc

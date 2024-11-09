@@ -1,0 +1,5 @@
+/etc/sv/grub-btrfs/conf
+/etc/sv/grub-btrfs/log/run
+/etc/sv/grub-btrfs/log/supervise -> /run/runit/supervise.grub-btrfs-log
+/etc/sv/grub-btrfs/run
+/etc/sv/grub-btrfs/supervise -> /run/runit/supervise.grub-btrfs

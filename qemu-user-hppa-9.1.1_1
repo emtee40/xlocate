@@ -1,0 +1,3 @@
+/usr/bin/qemu-hppa
+/usr/bin/qemu-hppa-static -> /usr/bin/qemu-hppa
+/usr/share/binfmts/qemu-hppa

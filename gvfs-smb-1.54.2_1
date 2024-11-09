@@ -1,0 +1,6 @@
+/usr/libexec/gvfsd-smb
+/usr/libexec/gvfsd-smb-browse
+/usr/share/GConf/gsettings/gvfs-smb.convert
+/usr/share/glib-2.0/schemas/org.gnome.system.smb.gschema.xml
+/usr/share/gvfs/mounts/smb-browse.mount
+/usr/share/gvfs/mounts/smb.mount

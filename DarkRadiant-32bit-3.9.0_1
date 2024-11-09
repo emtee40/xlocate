@@ -1,0 +1,15 @@
+/usr/lib32/darkradiant/libmath.so
+/usr/lib32/darkradiant/libscenegraph.so
+/usr/lib32/darkradiant/libwxutil.so
+/usr/lib32/darkradiant/libxmlutil.so
+/usr/lib32/darkradiant/modules/libradiantcore.so
+/usr/lib32/darkradiant/modules/libscript.so
+/usr/lib32/darkradiant/modules/libsound.so
+/usr/lib32/darkradiant/plugins/libdm_conversation.so
+/usr/lib32/darkradiant/plugins/libdm_difficulty.so
+/usr/lib32/darkradiant/plugins/libdm_editing.so
+/usr/lib32/darkradiant/plugins/libdm_gameconnection.so
+/usr/lib32/darkradiant/plugins/libdm_gui.so
+/usr/lib32/darkradiant/plugins/libdm_objectives.so
+/usr/lib32/darkradiant/plugins/libdm_stimresponse.so
+/usr/lib32/darkradiant/plugins/libvcs.so

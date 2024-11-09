@@ -1,0 +1,37 @@
+/usr/lib32/libDeployPkg.a
+/usr/lib32/libDeployPkg.so -> /usr/lib32/libDeployPkg.so.0.0.0
+/usr/lib32/libDeployPkg.so.0 -> /usr/lib32/libDeployPkg.so.0.0.0
+/usr/lib32/libDeployPkg.so.0.0.0
+/usr/lib32/libguestStoreClient.a
+/usr/lib32/libguestStoreClient.so -> /usr/lib32/libguestStoreClient.so.0.0.0
+/usr/lib32/libguestStoreClient.so.0 -> /usr/lib32/libguestStoreClient.so.0.0.0
+/usr/lib32/libguestStoreClient.so.0.0.0
+/usr/lib32/libguestlib.a
+/usr/lib32/libguestlib.so -> /usr/lib32/libguestlib.so.0.0.0
+/usr/lib32/libguestlib.so.0 -> /usr/lib32/libguestlib.so.0.0.0
+/usr/lib32/libguestlib.so.0.0.0
+/usr/lib32/libhgfs.a
+/usr/lib32/libhgfs.so -> /usr/lib32/libhgfs.so.0.0.0
+/usr/lib32/libhgfs.so.0 -> /usr/lib32/libhgfs.so.0.0.0
+/usr/lib32/libhgfs.so.0.0.0
+/usr/lib32/libvmtools.a
+/usr/lib32/libvmtools.so -> /usr/lib32/libvmtools.so.0.0.0
+/usr/lib32/libvmtools.so.0 -> /usr/lib32/libvmtools.so.0.0.0
+/usr/lib32/libvmtools.so.0.0.0
+/usr/lib32/open-vm-tools/plugins/common/libhgfsServer.so
+/usr/lib32/open-vm-tools/plugins/common/libvix.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libappInfo.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libcomponentMgr.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libdeployPkgPlugin.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libgdp.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libguestInfo.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libguestStore.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libpowerOps.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libresolutionKMS.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libtimeSync.so
+/usr/lib32/open-vm-tools/plugins/vmsvc/libvmbackup.so
+/usr/lib32/open-vm-tools/plugins/vmusr/libdesktopEvents.so
+/usr/lib32/open-vm-tools/plugins/vmusr/libdndcp.so
+/usr/lib32/open-vm-tools/plugins/vmusr/libresolutionSet.so
+/usr/lib32/pkgconfig/libDeployPkg.pc
+/usr/lib32/pkgconfig/vmguestlib.pc

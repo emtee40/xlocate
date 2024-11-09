@@ -1,0 +1,3 @@
+/usr/lib32/libserialport.a
+/usr/lib32/libserialport.so -> /usr/lib32/libserialport.so.0.1.0
+/usr/lib32/pkgconfig/libserialport.pc

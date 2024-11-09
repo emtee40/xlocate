@@ -1,0 +1,16 @@
+/usr/lib32/libKirigamiAddonsStatefulApp.so -> /usr/lib32/libKirigamiAddonsStatefulApp.so.6
+/usr/lib32/libKirigamiAddonsStatefulApp.so.1.4.0
+/usr/lib32/libKirigamiAddonsStatefulApp.so.6 -> /usr/lib32/libKirigamiAddonsStatefulApp.so.1.4.0
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/components/libcomponentsplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/dateandtime/libdateandtimeplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/delegates/libdelegatesplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/formcard/libformcardplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/labs/components/libcomponentslabsplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/settings/libsettingsplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/settings/private/libsettingsprivateplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/sounds/libsoundsplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/statefulapp/labs/libstatefulapplabsplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/statefulapp/libKirigamiAddonsStatefulAppplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/statefulapp/private/libstatefulappprivateplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/tableview/libtableviewplugin.so
+/usr/lib32/qt6/qml/org/kde/kirigamiaddons/treeview/libtreeviewplugin.so

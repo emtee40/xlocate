@@ -1,0 +1,4 @@
+/usr/bin/pam-escalate-helper
+/usr/bin/pam-policycache-import
+/usr/lib/security/pam_escalate.so
+/usr/lib/security/pam_policycache.so

@@ -1,0 +1,9 @@
+/etc/sv/dotoold/log/run
+/etc/sv/dotoold/log/supervise -> /run/runit/supervise.dotoold-log
+/etc/sv/dotoold/run
+/etc/sv/dotoold/supervise -> /run/runit/supervise.dotoold
+/usr/bin/dotool
+/usr/bin/dotoolc
+/usr/bin/dotoold
+/usr/lib/udev/rules.d/80-dotool.rules
+/usr/share/man/man1/dotool.1

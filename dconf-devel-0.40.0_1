@@ -1,0 +1,9 @@
+/usr/include/dconf/client/dconf-client.h
+/usr/include/dconf/common/dconf-changeset.h
+/usr/include/dconf/common/dconf-enums.h
+/usr/include/dconf/common/dconf-paths.h
+/usr/include/dconf/dconf.h
+/usr/lib/libdconf.so -> /usr/lib/libdconf.so.1
+/usr/lib/pkgconfig/dconf.pc
+/usr/share/vala/vapi/dconf.deps
+/usr/share/vala/vapi/dconf.vapi

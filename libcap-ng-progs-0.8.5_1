@@ -1,0 +1,9 @@
+/usr/bin/captest
+/usr/bin/filecap
+/usr/bin/netcap
+/usr/bin/pscap
+/usr/share/man/man7/libdrop_ambient.7
+/usr/share/man/man8/captest.8
+/usr/share/man/man8/filecap.8
+/usr/share/man/man8/netcap.8
+/usr/share/man/man8/pscap.8

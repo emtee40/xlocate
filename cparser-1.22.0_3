@@ -1,0 +1,8 @@
+/usr/bin/cparser
+/usr/lib/cparser/include/float.h
+/usr/lib/cparser/include/iso646.h
+/usr/lib/cparser/include/limits.h
+/usr/lib/cparser/include/stdarg.h
+/usr/lib/cparser/include/stdbool.h
+/usr/lib/cparser/include/stddef.h
+/usr/share/man/man1/cparser.1

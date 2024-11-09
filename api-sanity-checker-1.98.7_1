@@ -1,0 +1,6 @@
+/usr/bin/api-sanity-checker
+/usr/share/api-sanity-checker/modules/Internals/RegTests.pm
+/usr/share/api-sanity-checker/modules/Internals/Scripts/Sections.js
+/usr/share/api-sanity-checker/modules/Internals/Styles/List.css
+/usr/share/api-sanity-checker/modules/Internals/Styles/Report.css
+/usr/share/api-sanity-checker/modules/Internals/Styles/Test.css

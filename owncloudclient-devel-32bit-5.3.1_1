@@ -1,0 +1,3 @@
+/usr/lib32/libowncloudResources.so -> /usr/lib32/libowncloudResources.so.0
+/usr/lib32/libowncloud_csync.so -> /usr/lib32/libowncloud_csync.so.0
+/usr/lib32/libowncloudsync.so -> /usr/lib32/libowncloudsync.so.0

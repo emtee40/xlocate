@@ -1,0 +1,4 @@
+/usr/include/jitterentropy-base-user.h
+/usr/include/jitterentropy.h
+/usr/lib/libjitterentropy.so -> /usr/lib/libjitterentropy.so.3
+/usr/share/man/man3/jitterentropy.3

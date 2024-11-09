@@ -1,0 +1,4 @@
+/usr/lib32/libQt6Charts.so -> /usr/lib32/libQt6Charts.so.6
+/usr/lib32/libQt6ChartsQml.so -> /usr/lib32/libQt6ChartsQml.so.6
+/usr/lib32/pkgconfig/Qt6Charts.pc
+/usr/lib32/pkgconfig/Qt6ChartsQml.pc

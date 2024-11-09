@@ -1,0 +1,6 @@
+/usr/bin/gopass
+/usr/share/bash-completion/completions/gopass
+/usr/share/fish/vendor_completions.d/gopass.fish
+/usr/share/licenses/gopass/LICENSE
+/usr/share/man/man1/gopass.1
+/usr/share/zsh/site-functions/_gopass

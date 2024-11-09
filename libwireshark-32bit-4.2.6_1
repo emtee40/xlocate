@@ -1,0 +1,24 @@
+/usr/lib32/libwireshark.so.17 -> /usr/lib32/libwireshark.so.17.0.6
+/usr/lib32/libwireshark.so.17.0.6
+/usr/lib32/libwiretap.so.14 -> /usr/lib32/libwiretap.so.14.1.6
+/usr/lib32/libwiretap.so.14.1.6
+/usr/lib32/libwsutil.so.15 -> /usr/lib32/libwsutil.so.15.0.0
+/usr/lib32/libwsutil.so.15.0.0
+/usr/lib32/wireshark/plugins/4.2/codecs/g711.so
+/usr/lib32/wireshark/plugins/4.2/codecs/g722.so
+/usr/lib32/wireshark/plugins/4.2/codecs/g726.so
+/usr/lib32/wireshark/plugins/4.2/codecs/l16mono.so
+/usr/lib32/wireshark/plugins/4.2/codecs/sbc.so
+/usr/lib32/wireshark/plugins/4.2/epan/ethercat.so
+/usr/lib32/wireshark/plugins/4.2/epan/gryphon.so
+/usr/lib32/wireshark/plugins/4.2/epan/irda.so
+/usr/lib32/wireshark/plugins/4.2/epan/mate.so
+/usr/lib32/wireshark/plugins/4.2/epan/opcua.so
+/usr/lib32/wireshark/plugins/4.2/epan/profinet.so
+/usr/lib32/wireshark/plugins/4.2/epan/stats_tree.so
+/usr/lib32/wireshark/plugins/4.2/epan/transum.so
+/usr/lib32/wireshark/plugins/4.2/epan/unistim.so
+/usr/lib32/wireshark/plugins/4.2/epan/wimax.so
+/usr/lib32/wireshark/plugins/4.2/epan/wimaxasncp.so
+/usr/lib32/wireshark/plugins/4.2/epan/wimaxmacphy.so
+/usr/lib32/wireshark/plugins/4.2/wiretap/usbdump.so

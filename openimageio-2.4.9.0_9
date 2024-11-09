@@ -1,0 +1,24 @@
+/usr/bin/iconvert
+/usr/bin/idiff
+/usr/bin/igrep
+/usr/bin/iinfo
+/usr/bin/maketx
+/usr/bin/oiiotool
+/usr/bin/testtex
+/usr/lib/libOpenImageIO.so.2.4 -> /usr/lib/libOpenImageIO.so.2.4.9
+/usr/lib/libOpenImageIO.so.2.4.9
+/usr/lib/libOpenImageIO_Util.so.2.4 -> /usr/lib/libOpenImageIO_Util.so.2.4.9
+/usr/lib/libOpenImageIO_Util.so.2.4.9
+/usr/share/doc/OpenImageIO/CHANGES-0.x.md
+/usr/share/doc/OpenImageIO/CHANGES-1.x.md
+/usr/share/doc/OpenImageIO/CHANGES.md
+/usr/share/doc/OpenImageIO/LICENSE.md
+/usr/share/doc/OpenImageIO/THIRD-PARTY.md
+/usr/share/fonts/OpenImageIO/DroidSans-Bold.ttf
+/usr/share/fonts/OpenImageIO/DroidSans.ttf
+/usr/share/fonts/OpenImageIO/DroidSansMono.ttf
+/usr/share/fonts/OpenImageIO/DroidSerif-Bold.ttf
+/usr/share/fonts/OpenImageIO/DroidSerif-BoldItalic.ttf
+/usr/share/fonts/OpenImageIO/DroidSerif-Italic.ttf
+/usr/share/fonts/OpenImageIO/DroidSerif.ttf
+/usr/share/licenses/openimageio/LICENSE

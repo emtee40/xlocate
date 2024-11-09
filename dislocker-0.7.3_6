@@ -1,0 +1,11 @@
+/usr/bin/dislocker -> /usr/bin/dislocker-fuse
+/usr/bin/dislocker-bek
+/usr/bin/dislocker-file
+/usr/bin/dislocker-fuse
+/usr/bin/dislocker-metadata
+/usr/lib/libdislocker.so -> /usr/lib/libdislocker.so.0.7
+/usr/lib/libdislocker.so.0.7 -> /usr/lib/libdislocker.so.0.7.2
+/usr/lib/libdislocker.so.0.7.2
+/usr/share/man/man1/dislocker-file.1
+/usr/share/man/man1/dislocker-fuse.1
+/usr/share/man/man1/dislocker.1 -> /usr/share/man/man1/dislocker-fuse.1

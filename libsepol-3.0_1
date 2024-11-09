@@ -1,0 +1,5 @@
+/usr/bin/chkcon
+/usr/lib/libsepol.so.1
+/usr/share/man/man8/chkcon.8
+/usr/share/man/man8/genpolbools.8
+/usr/share/man/man8/genpolusers.8

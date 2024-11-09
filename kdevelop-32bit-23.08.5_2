@@ -1,0 +1,92 @@
+/usr/lib32/libKDevCMakeCommon.so.512
+/usr/lib32/libKDevClangPrivate.so.512
+/usr/lib32/libKDevCompileAnalyzerCommon.so.512
+/usr/lib32/libKDevPlatformDebugger.so.5.12.230805
+/usr/lib32/libKDevPlatformDebugger.so.512 -> /usr/lib32/libKDevPlatformDebugger.so.5.12.230805
+/usr/lib32/libKDevPlatformDocumentation.so.5.12.230805
+/usr/lib32/libKDevPlatformDocumentation.so.512 -> /usr/lib32/libKDevPlatformDocumentation.so.5.12.230805
+/usr/lib32/libKDevPlatformInterfaces.so.5.12.230805
+/usr/lib32/libKDevPlatformInterfaces.so.512 -> /usr/lib32/libKDevPlatformInterfaces.so.5.12.230805
+/usr/lib32/libKDevPlatformLanguage.so.5.12.230805
+/usr/lib32/libKDevPlatformLanguage.so.512 -> /usr/lib32/libKDevPlatformLanguage.so.5.12.230805
+/usr/lib32/libKDevPlatformOutputView.so.5.12.230805
+/usr/lib32/libKDevPlatformOutputView.so.512 -> /usr/lib32/libKDevPlatformOutputView.so.5.12.230805
+/usr/lib32/libKDevPlatformProject.so.5.12.230805
+/usr/lib32/libKDevPlatformProject.so.512 -> /usr/lib32/libKDevPlatformProject.so.5.12.230805
+/usr/lib32/libKDevPlatformSerialization.so.5.12.230805
+/usr/lib32/libKDevPlatformSerialization.so.512 -> /usr/lib32/libKDevPlatformSerialization.so.5.12.230805
+/usr/lib32/libKDevPlatformShell.so.5.12.230805
+/usr/lib32/libKDevPlatformShell.so.512 -> /usr/lib32/libKDevPlatformShell.so.5.12.230805
+/usr/lib32/libKDevPlatformSublime.so.5.12.230805
+/usr/lib32/libKDevPlatformSublime.so.512 -> /usr/lib32/libKDevPlatformSublime.so.5.12.230805
+/usr/lib32/libKDevPlatformUtil.so.5.12.230805
+/usr/lib32/libKDevPlatformUtil.so.512 -> /usr/lib32/libKDevPlatformUtil.so.5.12.230805
+/usr/lib32/libKDevPlatformVcs.so.5.12.230805
+/usr/lib32/libKDevPlatformVcs.so.512 -> /usr/lib32/libKDevPlatformVcs.so.5.12.230805
+/usr/lib32/libKDevelopSessionsWatch.so
+/usr/lib32/qt5/plugins/grantlee/5.3/kdev_filters.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevandroid.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevappwizard.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevastyle.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevbazaar.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevclangsupport.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevclangtidy.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevclassbrowser.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevclazy.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcmakebuilder.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcmakedocumentation.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcmakemanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcodeutils.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcontextbrowser.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcppcheck.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcraft.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcustombuildsystem.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcustommakemanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevcustomscript.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevdefinesandincludesmanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevdocker.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevdocumentswitcher.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevdocumentview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevexecute.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevexecuteplasmoid.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevexecutescript.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevexternalscript.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevfilemanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevfiletemplates.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevflatpak.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevgdb.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevgenericmanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevghprovider.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevgit.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevgrepview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevheaptrack.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevkonsoleview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevlldb.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevmakebuilder.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevmanpage.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevmesonmanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevninja.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevokteta.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevopenwith.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevoutlineview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevpatchreview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevperforce.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevproblemreporter.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevprojectfilter.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevprojectmanagerview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevqmakebuilder.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevqmakemanager.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevqmljslanguagesupport.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevqthelp.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevquickopen.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevscratchpad.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevsourceformatter.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevstandardoutputview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevsubversion.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevswitchtobuddy.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevtestview.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevvcschangesviewplugin.so
+/usr/lib32/qt5/plugins/kdevplatform/512/kdevwelcomepage.so
+/usr/lib32/qt5/plugins/kf5/krunner/krunner_kdevelopsessions.so
+/usr/lib32/qt5/qml/org/kde/kdevplatform/libkdevelopdashboarddeclarativeplugin.so
+/usr/lib32/qt5/qml/org/kde/plasma/private/kdevelopsessions/libkdevelopsessionsplugin.so

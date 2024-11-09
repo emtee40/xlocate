@@ -1,0 +1,5 @@
+/etc/profile.d/debuginfod.csh
+/etc/profile.d/debuginfod.sh
+/usr/lib/libdebuginfod-0.190.so
+/usr/lib/libdebuginfod.so -> /usr/lib/libdebuginfod-0.190.so
+/usr/lib/libdebuginfod.so.1 -> /usr/lib/libdebuginfod-0.190.so

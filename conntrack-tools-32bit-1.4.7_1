@@ -1,0 +1,10 @@
+/usr/lib32/conntrack-tools/ct_helper_amanda.so
+/usr/lib32/conntrack-tools/ct_helper_dhcpv6.so
+/usr/lib32/conntrack-tools/ct_helper_ftp.so
+/usr/lib32/conntrack-tools/ct_helper_mdns.so
+/usr/lib32/conntrack-tools/ct_helper_rpc.so
+/usr/lib32/conntrack-tools/ct_helper_sane.so
+/usr/lib32/conntrack-tools/ct_helper_slp.so
+/usr/lib32/conntrack-tools/ct_helper_ssdp.so
+/usr/lib32/conntrack-tools/ct_helper_tftp.so
+/usr/lib32/conntrack-tools/ct_helper_tns.so

@@ -1,0 +1,5 @@
+/etc/magic
+/usr/bin/openbsd-file
+/usr/share/licenses/openbsd-file/LICENSE
+/usr/share/man/man1/openbsd-file.1
+/usr/share/man/man5/openbsd-magic.5

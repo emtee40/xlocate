@@ -1,0 +1,13 @@
+/etc/sv/pcscd/log/run
+/etc/sv/pcscd/log/supervise -> /run/runit/supervise.pcscd-log
+/etc/sv/pcscd/run
+/etc/sv/pcscd/supervise -> /run/runit/supervise.pcscd
+/usr/bin/pcsc-spy
+/usr/bin/pcscd
+/usr/share/doc/pcsc-lite/setup_spy.sh
+/usr/share/doc/pcsclite/README.voidlinux
+/usr/share/licenses/pcsclite/COPYING
+/usr/share/man/man1/pcsc-spy.1
+/usr/share/man/man5/reader.conf.5
+/usr/share/man/man8/pcscd.8
+/usr/share/metainfo/fr.apdu.pcsclite.metainfo.xml

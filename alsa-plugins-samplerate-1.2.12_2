@@ -1,0 +1,5 @@
+/usr/lib/alsa-lib/libasound_module_rate_samplerate.so
+/usr/lib/alsa-lib/libasound_module_rate_samplerate_best.so -> /usr/lib/alsa-lib/libasound_module_rate_samplerate.so
+/usr/lib/alsa-lib/libasound_module_rate_samplerate_linear.so -> /usr/lib/alsa-lib/libasound_module_rate_samplerate.so
+/usr/lib/alsa-lib/libasound_module_rate_samplerate_medium.so -> /usr/lib/alsa-lib/libasound_module_rate_samplerate.so
+/usr/lib/alsa-lib/libasound_module_rate_samplerate_order.so -> /usr/lib/alsa-lib/libasound_module_rate_samplerate.so

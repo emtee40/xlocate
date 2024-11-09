@@ -1,0 +1,4 @@
+/etc/snapraid.conf
+/usr/bin/snapraid
+/usr/share/examples/snapraid/snapraid.conf.example
+/usr/share/man/man1/snapraid.1

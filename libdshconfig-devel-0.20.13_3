@@ -1,0 +1,3 @@
+/usr/include/libdshconfig.h
+/usr/lib/libdshconfig.a
+/usr/lib/libdshconfig.so -> /usr/lib/libdshconfig.so.1.0.0

@@ -1,0 +1,4 @@
+/usr/include/yaml.h
+/usr/lib/libyaml.a
+/usr/lib/libyaml.so -> /usr/lib/libyaml-0.so.2.0.9
+/usr/lib/pkgconfig/yaml-0.1.pc

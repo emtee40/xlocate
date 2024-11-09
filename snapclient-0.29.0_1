@@ -1,0 +1,6 @@
+/etc/sv/snapclient/log/run
+/etc/sv/snapclient/log/supervise -> /run/runit/supervise.snapclient-log
+/etc/sv/snapclient/run
+/etc/sv/snapclient/supervise -> /run/runit/supervise.snapclient
+/usr/bin/snapclient
+/usr/share/man/man1/snapclient.1

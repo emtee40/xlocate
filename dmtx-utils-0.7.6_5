@@ -1,0 +1,6 @@
+/usr/bin/dmtxquery
+/usr/bin/dmtxread
+/usr/bin/dmtxwrite
+/usr/share/man/man1/dmtxquery.1
+/usr/share/man/man1/dmtxread.1
+/usr/share/man/man1/dmtxwrite.1

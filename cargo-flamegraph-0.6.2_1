@@ -1,0 +1,6 @@
+/usr/bin/cargo-flamegraph
+/usr/bin/flamegraph
+/usr/share/bash-completion/completions/flamegraph
+/usr/share/fish/vendor_completions.d/flamegraph.fish
+/usr/share/licenses/cargo-flamegraph/LICENSE-MIT
+/usr/share/zsh/site-functions/_flamegraph

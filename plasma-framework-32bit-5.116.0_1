@@ -1,0 +1,16 @@
+/usr/lib32/libKF5Plasma.so.5 -> /usr/lib32/libKF5Plasma.so.5.116.0
+/usr/lib32/libKF5Plasma.so.5.116.0
+/usr/lib32/libKF5PlasmaQuick.so.5 -> /usr/lib32/libKF5PlasmaQuick.so.5.116.0
+/usr/lib32/libKF5PlasmaQuick.so.5.116.0
+/usr/lib32/qt5/plugins/kf5/kirigami/KirigamiPlasmaStyle.so
+/usr/lib32/qt5/plugins/kpackage/packagestructure/plasma_applet.so
+/usr/lib32/qt5/plugins/kpackage/packagestructure/plasma_containmentactions.so
+/usr/lib32/qt5/plugins/kpackage/packagestructure/plasma_dataengine.so
+/usr/lib32/qt5/plugins/kpackage/packagestructure/plasma_generic.so
+/usr/lib32/qt5/plugins/kpackage/packagestructure/plasma_theme.so
+/usr/lib32/qt5/plugins/plasma/scriptengines/plasma_appletscript_declarative.so
+/usr/lib32/qt5/qml/org/kde/plasma/calendar/libcalendarplugin.so
+/usr/lib32/qt5/qml/org/kde/plasma/components/libplasmacomponentsplugin.so
+/usr/lib32/qt5/qml/org/kde/plasma/core/libcorebindingsplugin.so
+/usr/lib32/qt5/qml/org/kde/plasma/extras/libplasmaextracomponentsplugin.so
+/usr/lib32/qt5/qml/org/kde/plasma/platformcomponents/libplatformcomponentsplugin.so

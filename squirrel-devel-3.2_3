@@ -1,0 +1,16 @@
+/usr/include/sqconfig.h
+/usr/include/sqstdaux.h
+/usr/include/sqstdblob.h
+/usr/include/sqstdio.h
+/usr/include/sqstdmath.h
+/usr/include/sqstdstring.h
+/usr/include/sqstdsystem.h
+/usr/include/squirrel.h
+/usr/lib/cmake/squirrel/squirrel-config-version.cmake
+/usr/lib/cmake/squirrel/squirrel-config.cmake
+/usr/lib/cmake/squirrel/squirrel-targets-none.cmake
+/usr/lib/cmake/squirrel/squirrel-targets.cmake
+/usr/lib/libsqstdlib.so -> /usr/lib/libsqstdlib.so.0
+/usr/lib/libsqstdlib_static.a
+/usr/lib/libsquirrel.so -> /usr/lib/libsquirrel.so.0
+/usr/lib/libsquirrel_static.a

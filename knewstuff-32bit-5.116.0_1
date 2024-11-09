@@ -1,0 +1,8 @@
+/usr/lib32/libKF5NewStuff.so.5 -> /usr/lib32/libKF5NewStuff.so.5.116.0
+/usr/lib32/libKF5NewStuff.so.5.116.0
+/usr/lib32/libKF5NewStuffCore.so.5 -> /usr/lib32/libKF5NewStuffCore.so.5.116.0
+/usr/lib32/libKF5NewStuffCore.so.5.116.0
+/usr/lib32/libKF5NewStuffWidgets.so.5 -> /usr/lib32/libKF5NewStuffWidgets.so.5.116.0
+/usr/lib32/libKF5NewStuffWidgets.so.5.116.0
+/usr/lib32/qt5/plugins/designer/knewstuffwidgets.so
+/usr/lib32/qt5/qml/org/kde/newstuff/libnewstuffqmlplugin.so

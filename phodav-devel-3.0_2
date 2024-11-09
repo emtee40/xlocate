@@ -1,0 +1,5 @@
+/usr/include/libphodav-3.0/libphodav/phodav-server.h
+/usr/include/libphodav-3.0/libphodav/phodav-virtual-dir.h
+/usr/include/libphodav-3.0/libphodav/phodav.h
+/usr/lib/libphodav-3.0.so -> /usr/lib/libphodav-3.0.so.0
+/usr/lib/pkgconfig/libphodav-3.0.pc

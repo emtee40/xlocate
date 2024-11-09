@@ -1,0 +1,5 @@
+/usr/bin/tlsh -> /usr/bin/tlsh_unittest
+/usr/bin/tlsh_unittest
+/usr/lib/libtlsh.so.4 -> /usr/lib/libtlsh.so.4.8.2
+/usr/lib/libtlsh.so.4.8.2
+/usr/share/licenses/tlsh/LICENSE

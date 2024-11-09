@@ -1,0 +1,15 @@
+/usr/bin/acat -> /usr/bin/atool
+/usr/bin/adiff -> /usr/bin/atool
+/usr/bin/als -> /usr/bin/atool
+/usr/bin/apack -> /usr/bin/atool
+/usr/bin/arepack -> /usr/bin/atool
+/usr/bin/atool
+/usr/bin/aunpack -> /usr/bin/atool
+/usr/share/bash-completion/completions/atool
+/usr/share/man/man1/acat.1 -> /usr/share/man/man1/atool.1
+/usr/share/man/man1/adiff.1 -> /usr/share/man/man1/atool.1
+/usr/share/man/man1/als.1 -> /usr/share/man/man1/atool.1
+/usr/share/man/man1/apack.1 -> /usr/share/man/man1/atool.1
+/usr/share/man/man1/arepack.1 -> /usr/share/man/man1/atool.1
+/usr/share/man/man1/atool.1
+/usr/share/man/man1/aunpack.1 -> /usr/share/man/man1/atool.1

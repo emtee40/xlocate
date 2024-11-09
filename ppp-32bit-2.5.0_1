@@ -1,0 +1,11 @@
+/usr/lib32/pppd/2.5.0/minconn.so
+/usr/lib32/pppd/2.5.0/openl2tp.so
+/usr/lib32/pppd/2.5.0/passprompt.so
+/usr/lib32/pppd/2.5.0/passwordfd.so
+/usr/lib32/pppd/2.5.0/pppoatm.so
+/usr/lib32/pppd/2.5.0/pppoe.so
+/usr/lib32/pppd/2.5.0/pppol2tp.so
+/usr/lib32/pppd/2.5.0/radattr.so
+/usr/lib32/pppd/2.5.0/radius.so
+/usr/lib32/pppd/2.5.0/radrealms.so
+/usr/lib32/pppd/2.5.0/winbind.so

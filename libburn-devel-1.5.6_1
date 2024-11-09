@@ -1,0 +1,4 @@
+/usr/include/libburn/libburn.h
+/usr/lib/libburn.a
+/usr/lib/libburn.so -> /usr/lib/libburn.so.4.109.0
+/usr/lib/pkgconfig/libburn-1.pc

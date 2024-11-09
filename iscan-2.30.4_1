@@ -1,0 +1,20 @@
+/usr/bin/iscan
+/usr/lib/gimp/2.0/plug-ins/iscan -> /usr/bin/iscan
+/usr/lib/libesmod.so.2 -> /usr/lib/libesmod.so.2.0.0
+/usr/lib/libesmod.so.2.0.0
+/usr/share/applications/iscan.desktop
+/usr/share/licenses/iscan/COPYING.EPSON.en.txt
+/usr/share/locale/ar/LC_MESSAGES/iscan.mo
+/usr/share/locale/de/LC_MESSAGES/iscan.mo
+/usr/share/locale/en@boldquot/LC_MESSAGES/iscan.mo
+/usr/share/locale/en@quot/LC_MESSAGES/iscan.mo
+/usr/share/locale/es/LC_MESSAGES/iscan.mo
+/usr/share/locale/fr/LC_MESSAGES/iscan.mo
+/usr/share/locale/it/LC_MESSAGES/iscan.mo
+/usr/share/locale/ja/LC_MESSAGES/iscan.mo
+/usr/share/locale/ko/LC_MESSAGES/iscan.mo
+/usr/share/locale/nl/LC_MESSAGES/iscan.mo
+/usr/share/locale/pt/LC_MESSAGES/iscan.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/iscan.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/iscan.mo
+/usr/share/man/man1/iscan.1

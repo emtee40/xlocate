@@ -1,0 +1,3 @@
+/usr/include/bfb/bfb.h
+/usr/include/bfb/bfb_io.h
+/usr/lib/libbfb.so -> /usr/lib/libbfb.so.1

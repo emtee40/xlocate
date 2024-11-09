@@ -1,0 +1,4 @@
+/usr/bin/acme-client
+/usr/share/examples/acme-client/acme-client.conf
+/usr/share/man/man1/acme-client.1
+/usr/share/man/man5/acme-client.conf.5

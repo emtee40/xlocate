@@ -1,0 +1,15 @@
+/usr/include/hugetlbfs.h
+/usr/lib/libhugetlbfs.a
+/usr/lib/libhugetlbfs.so -> /usr/lib/libhugetlbfs.so.0
+/usr/share/man/man3/free_huge_pages.3 -> /usr/share/man/man3/get_huge_pages.3
+/usr/share/man/man3/free_hugepage_region.3 -> /usr/share/man/man3/get_hugepage_region.3
+/usr/share/man/man3/get_huge_pages.3
+/usr/share/man/man3/get_hugepage_region.3
+/usr/share/man/man3/gethugepagesize.3
+/usr/share/man/man3/gethugepagesizes.3
+/usr/share/man/man3/getpagesizes.3
+/usr/share/man/man3/hugetlbfs_find_path.3
+/usr/share/man/man3/hugetlbfs_find_path_for_size.3 -> /usr/share/man/man3/hugetlbfs_find_path.3
+/usr/share/man/man3/hugetlbfs_test_path.3
+/usr/share/man/man3/hugetlbfs_unlinked_fd.3
+/usr/share/man/man3/hugetlbfs_unlinked_fd_for_size.3 -> /usr/share/man/man3/hugetlbfs_unlinked_fd.3

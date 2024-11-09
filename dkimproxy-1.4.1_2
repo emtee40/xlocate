@@ -1,0 +1,22 @@
+/etc/dkimproxy_in.conf
+/etc/dkimproxy_out.conf
+/etc/sv/dkimproxy_in/log/run
+/etc/sv/dkimproxy_in/log/supervise -> /run/runit/supervise.dkimproxy_in-log
+/etc/sv/dkimproxy_in/run
+/etc/sv/dkimproxy_in/supervise -> /run/runit/supervise.dkimproxy_in
+/etc/sv/dkimproxy_out/log/run
+/etc/sv/dkimproxy_out/log/supervise -> /run/runit/supervise.dkimproxy_out-log
+/etc/sv/dkimproxy_out/run
+/etc/sv/dkimproxy_out/supervise -> /run/runit/supervise.dkimproxy_out
+/usr/bin/dkim_responder.pl
+/usr/bin/dkimproxy.in
+/usr/bin/dkimproxy.out
+/usr/lib/LookupMap.pm
+/usr/lib/MSDW/SMTP/Client.pm
+/usr/lib/MSDW/SMTP/Server.pm
+/usr/lib/MySmtpProxyServer.pm
+/usr/lib/MySmtpServer.pm
+/usr/share/examples/dkimproxy/dkimproxy_in.conf.example
+/usr/share/examples/dkimproxy/dkimproxy_out.conf.example
+/usr/share/man/man8/dkimproxy_in.8
+/usr/share/man/man8/dkimproxy_out.8

@@ -1,0 +1,4 @@
+/usr/include/recode.h
+/usr/include/recodext.h
+/usr/lib/librecode.a
+/usr/lib/librecode.so -> /usr/lib/librecode.so.0.0.0

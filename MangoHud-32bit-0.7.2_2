@@ -1,0 +1,4 @@
+/usr/lib32/mangohud/libMangoHud.so
+/usr/lib32/mangohud/libMangoHud_dlsym.so
+/usr/lib32/mangohud/libMangoHud_opengl.so
+/usr/share/vulkan/implicit_layer.d/MangoHud.x86.json

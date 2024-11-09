@@ -1,0 +1,11 @@
+/etc/sv/pqueryd/log/run
+/etc/sv/pqueryd/log/supervise -> /run/runit/supervise.pqueryd-log
+/etc/sv/pqueryd/run
+/etc/sv/pqueryd/supervise -> /run/runit/supervise.pqueryd
+/etc/sv/statrepo/log/run
+/etc/sv/statrepo/log/supervise -> /run/runit/supervise.statrepo-log
+/etc/sv/statrepo/run
+/etc/sv/statrepo/supervise -> /run/runit/supervise.statrepo
+/usr/bin/popcornctl
+/usr/bin/pqueryd
+/usr/bin/statrepo

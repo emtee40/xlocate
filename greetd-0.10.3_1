@@ -1,0 +1,14 @@
+/etc/greetd/config.toml
+/etc/pam.d/greetd
+/etc/sv/greetd/log/run
+/etc/sv/greetd/log/supervise -> /run/runit/supervise.greetd-log
+/etc/sv/greetd/run
+/etc/sv/greetd/supervise -> /run/runit/supervise.greetd
+/usr/bin/agreety
+/usr/bin/fakegreet
+/usr/bin/greetd
+/usr/share/doc/greetd/README.voidlinux
+/usr/share/man/man1/agreety.1
+/usr/share/man/man1/greetd.1
+/usr/share/man/man5/greetd.5
+/usr/share/man/man7/greetd-ipc.7

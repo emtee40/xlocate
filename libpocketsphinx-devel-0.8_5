@@ -1,0 +1,9 @@
+/usr/include/pocketsphinx/cmdln_macro.h
+/usr/include/pocketsphinx/fsg_set.h
+/usr/include/pocketsphinx/pocketsphinx.h
+/usr/include/pocketsphinx/pocketsphinx.pxd
+/usr/include/pocketsphinx/pocketsphinx_export.h
+/usr/include/pocketsphinx/ps_lattice.h
+/usr/include/pocketsphinx/ps_mllr.h
+/usr/lib/libpocketsphinx.so -> /usr/lib/libpocketsphinx.so.1.1.0
+/usr/lib/pkgconfig/pocketsphinx.pc

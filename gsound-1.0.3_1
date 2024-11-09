@@ -1,0 +1,5 @@
+/usr/bin/gsound-play
+/usr/lib/girepository-1.0/GSound-1.0.typelib
+/usr/lib/libgsound.so.0 -> /usr/lib/libgsound.so.0.0.2
+/usr/lib/libgsound.so.0.0.2
+/usr/share/man/man1/gsound-play.1

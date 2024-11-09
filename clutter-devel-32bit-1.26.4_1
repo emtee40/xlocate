@@ -1,0 +1,11 @@
+/usr/lib32/libclutter-1.0.so -> /usr/lib32/libclutter-1.0.so.0.2600.4
+/usr/lib32/libclutter-glx-1.0.so -> /usr/lib32/libclutter-1.0.so.0.2600.4
+/usr/lib32/pkgconfig/cally-1.0.pc
+/usr/lib32/pkgconfig/clutter-1.0.pc
+/usr/lib32/pkgconfig/clutter-cogl-1.0.pc
+/usr/lib32/pkgconfig/clutter-egl-1.0.pc
+/usr/lib32/pkgconfig/clutter-gdk-1.0.pc
+/usr/lib32/pkgconfig/clutter-glx-1.0.pc
+/usr/lib32/pkgconfig/clutter-wayland-1.0.pc
+/usr/lib32/pkgconfig/clutter-wayland-compositor-1.0.pc
+/usr/lib32/pkgconfig/clutter-x11-1.0.pc

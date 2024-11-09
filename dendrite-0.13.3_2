@@ -1,0 +1,9 @@
+/etc/sv/dendrite-monolith-server/log/run
+/etc/sv/dendrite-monolith-server/log/supervise -> /run/runit/supervise.dendrite-monolith-server-log
+/etc/sv/dendrite-monolith-server/run
+/etc/sv/dendrite-monolith-server/supervise -> /run/runit/supervise.dendrite-monolith-server
+/usr/bin/dendrite
+/usr/bin/dendrite-create-account
+/usr/bin/dendrite-generate-config
+/usr/bin/dendrite-generate-keys
+/usr/share/examples/dendrite/dendrite-sample.yaml

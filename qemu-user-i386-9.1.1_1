@@ -1,0 +1,2 @@
+/usr/bin/qemu-i386
+/usr/bin/qemu-i386-static -> /usr/bin/qemu-i386

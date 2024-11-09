@@ -1,0 +1,4 @@
+/usr/lib32/libplanify.so -> /usr/lib32/libplanify.so.0
+/usr/lib32/libplanify.so.0 -> /usr/lib32/libplanify.so.0.1
+/usr/lib32/libplanify.so.0.1
+/usr/lib32/pkgconfig/planify.pc

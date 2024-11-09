@@ -1,0 +1,14 @@
+/usr/include/KF5/KEmoticons/KEmoticons
+/usr/include/KF5/KEmoticons/KEmoticonsProvider
+/usr/include/KF5/KEmoticons/KEmoticonsTheme
+/usr/include/KF5/KEmoticons/kemoticons.h
+/usr/include/KF5/KEmoticons/kemoticons_export.h
+/usr/include/KF5/KEmoticons/kemoticons_version.h
+/usr/include/KF5/KEmoticons/kemoticonsprovider.h
+/usr/include/KF5/KEmoticons/kemoticonstheme.h
+/usr/lib/cmake/KF5Emoticons/KF5EmoticonsConfig.cmake
+/usr/lib/cmake/KF5Emoticons/KF5EmoticonsConfigVersion.cmake
+/usr/lib/cmake/KF5Emoticons/KF5EmoticonsTargets-none.cmake
+/usr/lib/cmake/KF5Emoticons/KF5EmoticonsTargets.cmake
+/usr/lib/libKF5Emoticons.so -> /usr/lib/libKF5Emoticons.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KEmoticons.pri

@@ -1,0 +1,30 @@
+/usr/lib/valgrind/cachegrind-x86-linux -> /usr/lib32/valgrind/cachegrind-x86-linux
+/usr/lib/valgrind/callgrind-x86-linux -> /usr/lib32/valgrind/callgrind-x86-linux
+/usr/lib/valgrind/drd-x86-linux -> /usr/lib32/valgrind/drd-x86-linux
+/usr/lib/valgrind/exp-bbv-x86-linux -> /usr/lib32/valgrind/exp-bbv-x86-linux
+/usr/lib/valgrind/exp-dhat-x86-linux -> ../../lib32/valgrind/exp-dhat-x86-linux
+/usr/lib/valgrind/exp-sgcheck-x86-linux -> ../../lib32/valgrind/exp-sgcheck-x86-linux
+/usr/lib/valgrind/getoff-x86-linux -> /usr/lib32/valgrind/getoff-x86-linux
+/usr/lib/valgrind/helgrind-x86-linux -> /usr/lib32/valgrind/helgrind-x86-linux
+/usr/lib/valgrind/lackey-x86-linux -> /usr/lib32/valgrind/lackey-x86-linux
+/usr/lib/valgrind/massif-x86-linux -> /usr/lib32/valgrind/massif-x86-linux
+/usr/lib/valgrind/memcheck-x86-linux -> /usr/lib32/valgrind/memcheck-x86-linux
+/usr/lib/valgrind/none-x86-linux -> /usr/lib32/valgrind/none-x86-linux
+/usr/lib32/valgrind/cachegrind-x86-linux
+/usr/lib32/valgrind/callgrind-x86-linux
+/usr/lib32/valgrind/default.supp
+/usr/lib32/valgrind/dhat-x86-linux
+/usr/lib32/valgrind/drd-x86-linux
+/usr/lib32/valgrind/exp-bbv-x86-linux
+/usr/lib32/valgrind/getoff-x86-linux
+/usr/lib32/valgrind/helgrind-x86-linux
+/usr/lib32/valgrind/lackey-x86-linux
+/usr/lib32/valgrind/massif-x86-linux
+/usr/lib32/valgrind/memcheck-x86-linux
+/usr/lib32/valgrind/none-x86-linux
+/usr/lib32/valgrind/vgpreload_core-x86-linux.so
+/usr/lib32/valgrind/vgpreload_dhat-x86-linux.so
+/usr/lib32/valgrind/vgpreload_drd-x86-linux.so
+/usr/lib32/valgrind/vgpreload_helgrind-x86-linux.so
+/usr/lib32/valgrind/vgpreload_massif-x86-linux.so
+/usr/lib32/valgrind/vgpreload_memcheck-x86-linux.so

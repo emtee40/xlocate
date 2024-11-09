@@ -1,0 +1,9 @@
+/usr/lib32/libgetdns.a
+/usr/lib32/libgetdns.so -> /usr/lib32/libgetdns.so.10
+/usr/lib32/libgetdns_ext_ev.a
+/usr/lib32/libgetdns_ext_ev.so -> /usr/lib32/libgetdns_ext_ev.so.10
+/usr/lib32/libgetdns_ext_event.a
+/usr/lib32/libgetdns_ext_event.so -> /usr/lib32/libgetdns_ext_event.so.10
+/usr/lib32/libgetdns_ext_uv.a
+/usr/lib32/libgetdns_ext_uv.so -> /usr/lib32/libgetdns_ext_uv.so.10
+/usr/lib32/pkgconfig/getdns.pc

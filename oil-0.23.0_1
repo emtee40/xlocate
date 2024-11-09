@@ -1,0 +1,4 @@
+/usr/bin/oil.ovm
+/usr/bin/osh -> /usr/bin/oil.ovm
+/usr/bin/ysh -> /usr/bin/oil.ovm
+/usr/share/man/man1/osh.1

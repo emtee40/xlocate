@@ -1,0 +1,3 @@
+/usr/lib32/liblua5.1.a
+/usr/lib32/liblua5.1.so -> /usr/lib32/liblua5.1.so.5.1.5
+/usr/lib32/pkgconfig/lua5.1.pc

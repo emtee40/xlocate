@@ -1,0 +1,3 @@
+/usr/include/crack.h
+/usr/include/packer.h
+/usr/lib/libcrack.so -> /usr/lib/libcrack.so.2.9.0

@@ -1,0 +1,4 @@
+/usr/bin/cargo-deny
+/usr/share/doc/cargo-deny/README.md
+/usr/share/licenses/cargo-deny/LICENSE-APACHE
+/usr/share/licenses/cargo-deny/LICENSE-MIT

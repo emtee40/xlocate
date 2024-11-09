@@ -1,0 +1,7 @@
+/usr/bin/grpc_cpp_plugin
+/usr/bin/grpc_csharp_plugin
+/usr/bin/grpc_node_plugin
+/usr/bin/grpc_objective_c_plugin
+/usr/bin/grpc_php_plugin
+/usr/bin/grpc_python_plugin
+/usr/bin/grpc_ruby_plugin

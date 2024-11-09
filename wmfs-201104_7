@@ -1,0 +1,5 @@
+/etc/xdg/wmfs/wmfsrc
+/usr/bin/wmfs
+/usr/share/licenses/wmfs/COPYING
+/usr/share/man/man1/wmfs.1
+/usr/share/xsessions/wmfs.desktop

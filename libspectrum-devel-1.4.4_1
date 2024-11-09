@@ -1,0 +1,5 @@
+/usr/include/libspectrum.h
+/usr/lib/libspectrum.a
+/usr/lib/libspectrum.so -> /usr/lib/libspectrum.so.8.8.14
+/usr/lib/pkgconfig/libspectrum.pc
+/usr/share/man/man3/libspectrum.3

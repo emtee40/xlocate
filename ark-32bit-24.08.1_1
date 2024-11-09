@@ -1,0 +1,14 @@
+/usr/lib32/libkerfuffle.so.24 -> /usr/lib32/libkerfuffle.so.24.08.1
+/usr/lib32/libkerfuffle.so.24.08.1
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_cli7z.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_cliarj.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_clirar.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_cliunarchiver.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_clizip.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_libarchive.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_libarchive_readonly.so
+/usr/lib32/qt6/plugins/kerfuffle/kerfuffle_libzip.so
+/usr/lib32/qt6/plugins/kf6/kfileitemaction/compressfileitemaction.so
+/usr/lib32/qt6/plugins/kf6/kfileitemaction/extractfileitemaction.so
+/usr/lib32/qt6/plugins/kf6/kio_dnd/extracthere.so
+/usr/lib32/qt6/plugins/kf6/parts/arkpart.so

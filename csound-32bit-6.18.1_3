@@ -1,0 +1,30 @@
+/usr/lib32/csound/plugins64-6.0/libampmidid.so
+/usr/lib32/csound/plugins64-6.0/libarrayops.so
+/usr/lib32/csound/plugins64-6.0/libbformdec2.so
+/usr/lib32/csound/plugins64-6.0/libcontrol.so
+/usr/lib32/csound/plugins64-6.0/libdeprecated.so
+/usr/lib32/csound/plugins64-6.0/libdoppler.so
+/usr/lib32/csound/plugins64-6.0/libdssi4cs.so
+/usr/lib32/csound/plugins64-6.0/libfractalnoise.so
+/usr/lib32/csound/plugins64-6.0/libftsamplebank.so
+/usr/lib32/csound/plugins64-6.0/libipmidi.so
+/usr/lib32/csound/plugins64-6.0/libjoystick.so
+/usr/lib32/csound/plugins64-6.0/liblfsr.so
+/usr/lib32/csound/plugins64-6.0/libmixer.so
+/usr/lib32/csound/plugins64-6.0/libosc.so
+/usr/lib32/csound/plugins64-6.0/libpadsynth.so
+/usr/lib32/csound/plugins64-6.0/libpmidi.so
+/usr/lib32/csound/plugins64-6.0/libpvsops.so
+/usr/lib32/csound/plugins64-6.0/librtalsa.so
+/usr/lib32/csound/plugins64-6.0/librtjack.so
+/usr/lib32/csound/plugins64-6.0/librtpa.so
+/usr/lib32/csound/plugins64-6.0/librtpulse.so
+/usr/lib32/csound/plugins64-6.0/libscansyn.so
+/usr/lib32/csound/plugins64-6.0/libsignalflowgraph.so
+/usr/lib32/csound/plugins64-6.0/libstdutil.so
+/usr/lib32/csound/plugins64-6.0/libtrigenvsegs.so
+/usr/lib32/csound/plugins64-6.0/liburandom.so
+/usr/lib32/libcsnd6.so -> /usr/lib32/libcsnd6.so.6.0
+/usr/lib32/libcsnd6.so.6.0
+/usr/lib32/libcsound64.so -> /usr/lib32/libcsound64.so.6.0
+/usr/lib32/libcsound64.so.6.0

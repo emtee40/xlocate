@@ -1,0 +1,16 @@
+/usr/share/man/man3/IO::AtomicFile.3p
+/usr/share/man/man3/IO::InnerFile.3p
+/usr/share/man/man3/IO::Lines.3p
+/usr/share/man/man3/IO::Scalar.3p
+/usr/share/man/man3/IO::ScalarArray.3p
+/usr/share/man/man3/IO::Stringy.3p
+/usr/share/man/man3/IO::Wrap.3p
+/usr/share/man/man3/IO::WrapTie.3p
+/usr/share/perl5/vendor_perl/IO/AtomicFile.pm
+/usr/share/perl5/vendor_perl/IO/InnerFile.pm
+/usr/share/perl5/vendor_perl/IO/Lines.pm
+/usr/share/perl5/vendor_perl/IO/Scalar.pm
+/usr/share/perl5/vendor_perl/IO/ScalarArray.pm
+/usr/share/perl5/vendor_perl/IO/Stringy.pm
+/usr/share/perl5/vendor_perl/IO/Wrap.pm
+/usr/share/perl5/vendor_perl/IO/WrapTie.pm

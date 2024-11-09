@@ -1,0 +1,7 @@
+/usr/include/OpenImageDenoise/config.h
+/usr/include/OpenImageDenoise/oidn.h
+/usr/include/OpenImageDenoise/oidn.hpp
+/usr/lib/cmake/OpenImageDenoise-1.4.3/OpenImageDenoiseConfig-none.cmake
+/usr/lib/cmake/OpenImageDenoise-1.4.3/OpenImageDenoiseConfig.cmake
+/usr/lib/cmake/OpenImageDenoise-1.4.3/OpenImageDenoiseConfigVersion.cmake
+/usr/lib/libOpenImageDenoise.so -> /usr/lib/libOpenImageDenoise.so.1

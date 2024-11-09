@@ -1,0 +1,20 @@
+/usr/include/pari/genpari.h -> /usr/include/pari/pari.h
+/usr/include/pari/mpinl.h
+/usr/include/pari/pari.h
+/usr/include/pari/paricast.h
+/usr/include/pari/paricfg.h
+/usr/include/pari/paricom.h
+/usr/include/pari/paridbglvl.h
+/usr/include/pari/paridecl.h
+/usr/include/pari/parierr.h
+/usr/include/pari/parigen.h
+/usr/include/pari/pariinl.h
+/usr/include/pari/parimt.h
+/usr/include/pari/parinf.h
+/usr/include/pari/pariold.h
+/usr/include/pari/paripriv.h
+/usr/include/pari/paristio.h
+/usr/include/pari/parisys.h
+/usr/include/pari/paritune.h
+/usr/lib/libpari.a
+/usr/lib/libpari.so -> /usr/lib/libpari-gmp-tls.so.2.15.5

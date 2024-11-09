@@ -1,0 +1,29 @@
+/usr/lib32/libcapnp-json.a
+/usr/lib32/libcapnp-json.so -> /usr/lib32/libcapnp-json-0.10.2.so
+/usr/lib32/libcapnp-rpc.a
+/usr/lib32/libcapnp-rpc.so -> /usr/lib32/libcapnp-rpc-0.10.2.so
+/usr/lib32/libcapnp-websocket.a
+/usr/lib32/libcapnp-websocket.so -> /usr/lib32/libcapnp-websocket-0.10.2.so
+/usr/lib32/libcapnp.a
+/usr/lib32/libcapnp.so -> /usr/lib32/libcapnp-0.10.2.so
+/usr/lib32/libcapnpc.a
+/usr/lib32/libcapnpc.so -> /usr/lib32/libcapnpc-0.10.2.so
+/usr/lib32/libkj-async.a
+/usr/lib32/libkj-async.so -> /usr/lib32/libkj-async-0.10.2.so
+/usr/lib32/libkj-http.a
+/usr/lib32/libkj-http.so -> /usr/lib32/libkj-http-0.10.2.so
+/usr/lib32/libkj-test.a
+/usr/lib32/libkj-test.so -> /usr/lib32/libkj-test-0.10.2.so
+/usr/lib32/libkj.a
+/usr/lib32/libkj.so -> /usr/lib32/libkj-0.10.2.so
+/usr/lib32/pkgconfig/capnp-json.pc
+/usr/lib32/pkgconfig/capnp-rpc.pc
+/usr/lib32/pkgconfig/capnp-websocket.pc
+/usr/lib32/pkgconfig/capnp.pc
+/usr/lib32/pkgconfig/capnpc.pc
+/usr/lib32/pkgconfig/kj-async.pc
+/usr/lib32/pkgconfig/kj-gzip.pc
+/usr/lib32/pkgconfig/kj-http.pc
+/usr/lib32/pkgconfig/kj-test.pc
+/usr/lib32/pkgconfig/kj-tls.pc
+/usr/lib32/pkgconfig/kj.pc

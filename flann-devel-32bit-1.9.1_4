@@ -1,0 +1,5 @@
+/usr/lib32/libflann.so -> /usr/lib32/libflann.so.1.9
+/usr/lib32/libflann_cpp.so -> /usr/lib32/libflann_cpp.so.1.9
+/usr/lib32/libflann_cpp_s.a
+/usr/lib32/libflann_s.a
+/usr/lib32/pkgconfig/flann.pc

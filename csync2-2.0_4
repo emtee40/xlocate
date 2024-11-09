@@ -1,0 +1,7 @@
+/etc/csync2.cfg
+/usr/bin/csync2
+/usr/bin/csync2-compare
+/usr/share/doc/csync2/AUTHORS
+/usr/share/doc/csync2/ChangeLog
+/usr/share/doc/csync2/README
+/usr/share/man/man1/csync2.1

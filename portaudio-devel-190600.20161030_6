@@ -1,0 +1,7 @@
+/usr/include/pa_jack.h
+/usr/include/pa_linux_alsa.h
+/usr/include/pa_unix_oss.h
+/usr/include/portaudio.h
+/usr/lib/libportaudio.a
+/usr/lib/libportaudio.so -> /usr/lib/libportaudio.so.2.0.0
+/usr/lib/pkgconfig/portaudio-2.0.pc

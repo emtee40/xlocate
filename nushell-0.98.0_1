@@ -1,0 +1,5 @@
+/usr/bin/nu
+/usr/share/examples/nushell/default_config.nu
+/usr/share/examples/nushell/default_env.nu
+/usr/share/examples/nushell/sample_login.nu
+/usr/share/licenses/nushell/LICENSE

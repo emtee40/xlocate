@@ -1,0 +1,3 @@
+/usr/bin/qemu-microblaze
+/usr/bin/qemu-microblaze-static -> /usr/bin/qemu-microblaze
+/usr/share/binfmts/qemu-microblaze

@@ -1,0 +1,6 @@
+/usr/lib32/liburing-ffi.a
+/usr/lib32/liburing-ffi.so -> /usr/lib32/liburing-ffi.so.2.5
+/usr/lib32/liburing.a
+/usr/lib32/liburing.so -> /usr/lib32/liburing.so.2.5
+/usr/lib32/pkgconfig/liburing-ffi.pc
+/usr/lib32/pkgconfig/liburing.pc

@@ -1,0 +1,9 @@
+/etc/sv/shinit/log/run
+/etc/sv/shinit/log/supervise -> /run/runit/supervise.shinit-log
+/etc/sv/shinit/run
+/etc/sv/shinit/supervise -> /run/runit/supervise.shinit
+/usr/bin/shinit
+/usr/libexec/shinit/lib.sh
+/usr/libexec/shinit/provider/aws
+/usr/libexec/shinit/provider/digitalocean
+/usr/share/licenses/shinit/LICENSE.md

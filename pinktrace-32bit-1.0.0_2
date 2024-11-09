@@ -1,0 +1,8 @@
+/usr/lib32/libpinktrace_1.0.so.100 -> /usr/lib32/libpinktrace_1.0.so.100.0.0
+/usr/lib32/libpinktrace_1.0.so.100.0.0
+/usr/lib32/python3.12/site-packages/pinktrace/abi.so
+/usr/lib32/python3.12/site-packages/pinktrace/event.so
+/usr/lib32/python3.12/site-packages/pinktrace/name.so
+/usr/lib32/python3.12/site-packages/pinktrace/regset.so
+/usr/lib32/python3.12/site-packages/pinktrace/system.so
+/usr/lib32/python3.12/site-packages/pinktrace/trace.so

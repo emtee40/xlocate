@@ -1,0 +1,8 @@
+/usr/bin/wifish
+/usr/share/doc/wifish/FAQ.md
+/usr/share/doc/wifish/README.md
+/usr/share/licenses/wifish/LICENSE
+/var/lib/wifish/iwparse.awk
+/var/lib/wifish/wlistparse.awk
+/var/lib/wifish/wscan2menu.awk
+/var/lib/wifish/wscanparse.awk

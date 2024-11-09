@@ -1,0 +1,52 @@
+/usr/lib32/libQt5Qml.so.5 -> /usr/lib32/libQt5Qml.so.5.15.11
+/usr/lib32/libQt5Qml.so.5.15 -> /usr/lib32/libQt5Qml.so.5.15.11
+/usr/lib32/libQt5Qml.so.5.15.11
+/usr/lib32/libQt5QmlModels.so.5 -> /usr/lib32/libQt5QmlModels.so.5.15.11
+/usr/lib32/libQt5QmlModels.so.5.15 -> /usr/lib32/libQt5QmlModels.so.5.15.11
+/usr/lib32/libQt5QmlModels.so.5.15.11
+/usr/lib32/libQt5QmlWorkerScript.so.5 -> /usr/lib32/libQt5QmlWorkerScript.so.5.15.11
+/usr/lib32/libQt5QmlWorkerScript.so.5.15 -> /usr/lib32/libQt5QmlWorkerScript.so.5.15.11
+/usr/lib32/libQt5QmlWorkerScript.so.5.15.11
+/usr/lib32/libQt5Quick.so.5 -> /usr/lib32/libQt5Quick.so.5.15.11
+/usr/lib32/libQt5Quick.so.5.15 -> /usr/lib32/libQt5Quick.so.5.15.11
+/usr/lib32/libQt5Quick.so.5.15.11
+/usr/lib32/libQt5QuickParticles.so.5 -> /usr/lib32/libQt5QuickParticles.so.5.15.11
+/usr/lib32/libQt5QuickParticles.so.5.15 -> /usr/lib32/libQt5QuickParticles.so.5.15.11
+/usr/lib32/libQt5QuickParticles.so.5.15.11
+/usr/lib32/libQt5QuickShapes.so.5 -> /usr/lib32/libQt5QuickShapes.so.5.15.11
+/usr/lib32/libQt5QuickShapes.so.5.15 -> /usr/lib32/libQt5QuickShapes.so.5.15.11
+/usr/lib32/libQt5QuickShapes.so.5.15.11
+/usr/lib32/libQt5QuickTest.so.5 -> /usr/lib32/libQt5QuickTest.so.5.15.11
+/usr/lib32/libQt5QuickTest.so.5.15 -> /usr/lib32/libQt5QuickTest.so.5.15.11
+/usr/lib32/libQt5QuickTest.so.5.15.11
+/usr/lib32/libQt5QuickWidgets.so.5 -> /usr/lib32/libQt5QuickWidgets.so.5.15.11
+/usr/lib32/libQt5QuickWidgets.so.5.15 -> /usr/lib32/libQt5QuickWidgets.so.5.15.11
+/usr/lib32/libQt5QuickWidgets.so.5.15.11
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_debugger.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_inspector.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_local.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_messages.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_native.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_nativedebugger.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_preview.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_profiler.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_quickprofiler.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_server.so
+/usr/lib32/qt5/plugins/qmltooling/libqmldbg_tcp.so
+/usr/lib32/qt5/qml/Qt/labs/animation/liblabsanimationplugin.so
+/usr/lib32/qt5/qml/Qt/labs/folderlistmodel/libqmlfolderlistmodelplugin.so
+/usr/lib32/qt5/qml/Qt/labs/qmlmodels/liblabsmodelsplugin.so
+/usr/lib32/qt5/qml/Qt/labs/settings/libqmlsettingsplugin.so
+/usr/lib32/qt5/qml/Qt/labs/sharedimage/libsharedimageplugin.so
+/usr/lib32/qt5/qml/Qt/labs/wavefrontmesh/libqmlwavefrontmeshplugin.so
+/usr/lib32/qt5/qml/QtQml/Models.2/libmodelsplugin.so
+/usr/lib32/qt5/qml/QtQml/StateMachine/libqtqmlstatemachine.so
+/usr/lib32/qt5/qml/QtQml/WorkerScript.2/libworkerscriptplugin.so
+/usr/lib32/qt5/qml/QtQml/libqmlplugin.so
+/usr/lib32/qt5/qml/QtQuick.2/libqtquick2plugin.so
+/usr/lib32/qt5/qml/QtQuick/Layouts/libqquicklayoutsplugin.so
+/usr/lib32/qt5/qml/QtQuick/LocalStorage/libqmllocalstorageplugin.so
+/usr/lib32/qt5/qml/QtQuick/Particles.2/libparticlesplugin.so
+/usr/lib32/qt5/qml/QtQuick/Shapes/libqmlshapesplugin.so
+/usr/lib32/qt5/qml/QtQuick/Window.2/libwindowplugin.so
+/usr/lib32/qt5/qml/QtTest/libqmltestplugin.so

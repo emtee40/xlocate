@@ -1,0 +1,31 @@
+/usr/bin/cvm-benchclient
+/usr/bin/cvm-chain
+/usr/bin/cvm-checkpassword
+/usr/bin/cvm-pwfile
+/usr/bin/cvm-qmail
+/usr/bin/cvm-testclient
+/usr/bin/cvm-unix
+/usr/bin/cvm-v1benchclient
+/usr/bin/cvm-v1checkpassword
+/usr/bin/cvm-v1testclient
+/usr/bin/cvm-vmailmgr
+/usr/bin/cvm-vmailmgr-local
+/usr/bin/cvm-vmailmgr-udp
+/usr/lib/libcvm-command.so.1 -> /usr/lib/libcvm-command.so.1.1.0
+/usr/lib/libcvm-command.so.1.1.0
+/usr/lib/libcvm-local.so.1 -> /usr/lib/libcvm-local.so.1.1.0
+/usr/lib/libcvm-local.so.1.1.0
+/usr/lib/libcvm-module.so.1 -> /usr/lib/libcvm-module.so.1.1.0
+/usr/lib/libcvm-module.so.1.1.0
+/usr/lib/libcvm-qmail.so.1 -> /usr/lib/libcvm-qmail.so.1.1.0
+/usr/lib/libcvm-qmail.so.1.1.0
+/usr/lib/libcvm-sasl.so.1 -> /usr/lib/libcvm-sasl.so.1.1.0
+/usr/lib/libcvm-sasl.so.1.1.0
+/usr/lib/libcvm-sql.so.1 -> /usr/lib/libcvm-sql.so.1.1.0
+/usr/lib/libcvm-sql.so.1.1.0
+/usr/lib/libcvm-udp.so.1 -> /usr/lib/libcvm-udp.so.1.1.0
+/usr/lib/libcvm-udp.so.1.1.0
+/usr/lib/libcvm-v1client.so.1 -> /usr/lib/libcvm-v1client.so.1.1.0
+/usr/lib/libcvm-v1client.so.1.1.0
+/usr/lib/libcvm-v2client.so.1 -> /usr/lib/libcvm-v2client.so.1.1.0
+/usr/lib/libcvm-v2client.so.1.1.0

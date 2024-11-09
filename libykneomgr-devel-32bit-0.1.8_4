@@ -1,0 +1,3 @@
+/usr/lib32/libykneomgr.a
+/usr/lib32/libykneomgr.so -> /usr/lib32/libykneomgr.so.0.1.8
+/usr/lib32/pkgconfig/ykneomgr.pc

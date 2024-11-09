@@ -1,0 +1,8 @@
+/usr/include/compiz/compiz-animation.h
+/usr/include/compiz/compiz-focuspoll.h
+/usr/include/compiz/compiz-mousepoll.h
+/usr/include/compiz/compiz-text.h
+/usr/lib/pkgconfig/compiz-animation.pc
+/usr/lib/pkgconfig/compiz-focuspoll.pc
+/usr/lib/pkgconfig/compiz-mousepoll.pc
+/usr/lib/pkgconfig/compiz-text.pc

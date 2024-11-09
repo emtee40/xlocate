@@ -1,0 +1,7 @@
+/etc/sv/node_exporter/log/run
+/etc/sv/node_exporter/log/supervise -> /run/runit/supervise.node_exporter-log
+/etc/sv/node_exporter/run
+/etc/sv/node_exporter/supervise -> /run/runit/supervise.node_exporter
+/usr/bin/node_exporter
+/usr/share/examples/node_exporter/example-rules.yml
+/usr/share/examples/node_exporter/text_collector_examples/README.md

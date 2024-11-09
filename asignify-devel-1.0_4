@@ -1,0 +1,3 @@
+/usr/include/asignify.h
+/usr/lib/libasignify.a
+/usr/lib/libasignify.so -> /usr/lib/libasignify.so.1.0.0

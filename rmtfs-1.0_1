@@ -1,0 +1,5 @@
+/etc/sv/rmtfs/run
+/etc/sv/rmtfs/supervise -> /run/runit/supervise.rmtfs
+/usr/bin/rmtfs
+/usr/lib/systemd/system/rmtfs.service
+/usr/share/licenses/rmtfs/LICENSE

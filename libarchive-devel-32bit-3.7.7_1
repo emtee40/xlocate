@@ -1,0 +1,3 @@
+/usr/lib32/libarchive.a
+/usr/lib32/libarchive.so -> /usr/lib32/libarchive.so.13.7.7
+/usr/lib32/pkgconfig/libarchive.pc

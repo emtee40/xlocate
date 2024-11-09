@@ -1,0 +1,4 @@
+/usr/lib32/libresolv_wrapper.so -> /usr/lib32/libresolv_wrapper.so.0
+/usr/lib32/libresolv_wrapper.so.0 -> /usr/lib32/libresolv_wrapper.so.0.0.8
+/usr/lib32/libresolv_wrapper.so.0.0.8
+/usr/lib32/pkgconfig/resolv_wrapper.pc

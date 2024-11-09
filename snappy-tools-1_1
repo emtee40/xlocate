@@ -1,0 +1,5 @@
+/usr/bin/snappy
+/usr/bin/unsnappy -> /usr/bin/snappy
+/usr/share/licenses/snappy-tools/LICENSE
+/usr/share/man/man1/snappy.1
+/usr/share/man/man1/unsnappy.1 -> /usr/share/man/man1/snappy.1

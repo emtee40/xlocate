@@ -1,0 +1,9 @@
+/usr/bin/enca
+/usr/bin/enconv -> /usr/bin/enca
+/usr/libexec/enca/extconv/cstocs
+/usr/libexec/enca/extconv/map
+/usr/libexec/enca/extconv/piconv
+/usr/libexec/enca/extconv/recode
+/usr/libexec/enca/extconv/umap
+/usr/share/man/man1/enca.1
+/usr/share/man/man1/enconv.1 -> /usr/share/man/man1/enca.1

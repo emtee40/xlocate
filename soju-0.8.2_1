@@ -1,0 +1,15 @@
+/etc/soju/config
+/etc/sv/soju/log/run
+/etc/sv/soju/log/supervise -> /run/runit/supervise.soju-log
+/etc/sv/soju/run
+/etc/sv/soju/supervise -> /run/runit/supervise.soju
+/usr/bin/soju
+/usr/bin/soju-migrate-db
+/usr/bin/soju-migrate-logs
+/usr/bin/soju-znc-import
+/usr/bin/sojuctl
+/usr/bin/sojudb
+/usr/share/doc/soju/README.voidlinux
+/usr/share/licenses/soju/LICENSE
+/usr/share/man/man1/soju.1
+/usr/share/man/man1/sojuctl.1

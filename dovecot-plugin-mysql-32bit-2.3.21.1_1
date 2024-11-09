@@ -1,0 +1,3 @@
+/usr/lib32/dovecot/modules/auth/libdriver_mysql.so -> /usr/lib32/dovecot/modules/libdriver_mysql.so
+/usr/lib32/dovecot/modules/dict/libdriver_mysql.so -> /usr/lib32/dovecot/modules/libdriver_mysql.so
+/usr/lib32/dovecot/modules/libdriver_mysql.so

@@ -1,0 +1,9 @@
+/etc/sv/seatd/log/run
+/etc/sv/seatd/log/supervise -> /run/runit/supervise.seatd-log
+/etc/sv/seatd/run
+/etc/sv/seatd/supervise -> /run/runit/supervise.seatd
+/usr/bin/seatd
+/usr/bin/seatd-launch
+/usr/share/licenses/seatd/LICENSE
+/usr/share/man/man1/seatd-launch.1
+/usr/share/man/man1/seatd.1

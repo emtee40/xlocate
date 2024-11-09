@@ -1,0 +1,5 @@
+/usr/include/tpm2-totp.h
+/usr/lib/libtpm2-totp.a
+/usr/lib/libtpm2-totp.so -> /usr/lib/libtpm2-totp.so.0.0.0
+/usr/lib/pkgconfig/tpm2-totp.pc
+/usr/share/man/man3/tpm2-totp.3

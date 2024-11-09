@@ -1,0 +1,2 @@
+/usr/include/yubikey.h
+/usr/lib/libyubikey.so -> /usr/lib/libyubikey.so.0.1.7

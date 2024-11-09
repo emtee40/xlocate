@@ -1,0 +1,7 @@
+/usr/bin/dmevent_tool
+/usr/bin/dmraid
+/usr/lib/device-mapper/libdmraid-events-isw.so
+/usr/lib/libdmraid.so.1 -> /usr/lib/libdmraid.so.1.0.0
+/usr/lib/libdmraid.so.1.0.0
+/usr/share/man/man8/dmevent_tool.8
+/usr/share/man/man8/dmraid.8

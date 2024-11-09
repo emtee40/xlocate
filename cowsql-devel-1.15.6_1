@@ -1,0 +1,4 @@
+/usr/include/cowsql.h
+/usr/lib/libcowsql.a
+/usr/lib/libcowsql.so -> /usr/lib/libcowsql.so.0.0.1
+/usr/lib/pkgconfig/cowsql.pc

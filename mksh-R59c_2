@@ -1,0 +1,6 @@
+/etc/skel/.mkshrc
+/usr/bin/lksh
+/usr/bin/mksh
+/usr/share/licenses/mksh/TaC-mksh.txt
+/usr/share/man/man1/lksh.1
+/usr/share/man/man1/mksh.1

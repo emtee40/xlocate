@@ -1,0 +1,4 @@
+/usr/bin/virgl_test_server
+/usr/lib/libvirglrenderer.so.1 -> /usr/lib/libvirglrenderer.so.1.8.9
+/usr/lib/libvirglrenderer.so.1.8.9
+/usr/share/licenses/virglrenderer/COPYING

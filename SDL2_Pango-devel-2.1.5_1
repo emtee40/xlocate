@@ -1,0 +1,4 @@
+/usr/include/SDL2_Pango.h
+/usr/lib/libSDL2_Pango.a
+/usr/lib/libSDL2_Pango.so -> /usr/lib/libSDL2_Pango.so.4.1.0
+/usr/lib/pkgconfig/SDL2_Pango.pc

@@ -1,0 +1,11 @@
+/usr/lib32/libKDevPlatformDebugger.so -> /usr/lib32/libKDevPlatformDebugger.so.512
+/usr/lib32/libKDevPlatformDocumentation.so -> /usr/lib32/libKDevPlatformDocumentation.so.512
+/usr/lib32/libKDevPlatformInterfaces.so -> /usr/lib32/libKDevPlatformInterfaces.so.512
+/usr/lib32/libKDevPlatformLanguage.so -> /usr/lib32/libKDevPlatformLanguage.so.512
+/usr/lib32/libKDevPlatformOutputView.so -> /usr/lib32/libKDevPlatformOutputView.so.512
+/usr/lib32/libKDevPlatformProject.so -> /usr/lib32/libKDevPlatformProject.so.512
+/usr/lib32/libKDevPlatformSerialization.so -> /usr/lib32/libKDevPlatformSerialization.so.512
+/usr/lib32/libKDevPlatformShell.so -> /usr/lib32/libKDevPlatformShell.so.512
+/usr/lib32/libKDevPlatformSublime.so -> /usr/lib32/libKDevPlatformSublime.so.512
+/usr/lib32/libKDevPlatformUtil.so -> /usr/lib32/libKDevPlatformUtil.so.512
+/usr/lib32/libKDevPlatformVcs.so -> /usr/lib32/libKDevPlatformVcs.so.512

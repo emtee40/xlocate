@@ -1,0 +1,313 @@
+/usr/bin/nemiver
+/usr/lib/nemiver/config/cpptrait.conf
+/usr/lib/nemiver/config/gdbengine.conf
+/usr/lib/nemiver/config/gsettingsmgr.conf
+/usr/lib/nemiver/config/org.nemiver.db.sqlitedriver.conf
+/usr/lib/nemiver/config/varlist.conf
+/usr/lib/nemiver/config/varlistwalker.conf
+/usr/lib/nemiver/config/varobjwalker.conf
+/usr/lib/nemiver/config/varwalker.conf
+/usr/lib/nemiver/config/workbench.conf
+/usr/lib/nemiver/libnemivercommon.so
+/usr/lib/nemiver/modules/libcpptraitmod.so
+/usr/lib/nemiver/modules/libgdbmod.so
+/usr/lib/nemiver/modules/libgsettingsmgrmod.so
+/usr/lib/nemiver/modules/libnemiverdbdsqlite.so
+/usr/lib/nemiver/modules/libvarlistmod.so
+/usr/lib/nemiver/modules/libvarlistwalkermod.so
+/usr/lib/nemiver/modules/libvarobjwalkermod.so
+/usr/lib/nemiver/modules/libvarwalkermod.so
+/usr/lib/nemiver/modules/libworkbenchmod.so
+/usr/lib/nemiver/plugins/dbgperspective/dbgperspective.conf
+/usr/lib/nemiver/plugins/dbgperspective/icons/breakpoint-disabled-marker.png
+/usr/lib/nemiver/plugins/dbgperspective/icons/breakpoint-marker.png
+/usr/lib/nemiver/plugins/dbgperspective/icons/countpoint-marker.png
+/usr/lib/nemiver/plugins/dbgperspective/icons/line-pointer.png
+/usr/lib/nemiver/plugins/dbgperspective/icons/run-to-cursor.xpm
+/usr/lib/nemiver/plugins/dbgperspective/icons/set-breakpoint.xpm
+/usr/lib/nemiver/plugins/dbgperspective/icons/step-into.xpm
+/usr/lib/nemiver/plugins/dbgperspective/icons/step-out.xpm
+/usr/lib/nemiver/plugins/dbgperspective/icons/step-over.xpm
+/usr/lib/nemiver/plugins/dbgperspective/icons/throbber.gif
+/usr/lib/nemiver/plugins/dbgperspective/libdbgperspectiveplugin.so
+/usr/lib/nemiver/plugins/dbgperspective/menus/breakpointspopup.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/callstackpopup.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/contextualmenu.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/exprmonitorpopup.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/localvarsinspectorpopup.todelete.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/localvarsinspectorpopup.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/memoryview-menu.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/menus.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/terminalmenu.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/toolbar.xml
+/usr/lib/nemiver/plugins/dbgperspective/menus/varinspectorpopup.xml
+/usr/lib/nemiver/plugins/dbgperspective/plugin-descriptor.xml
+/usr/lib/nemiver/plugins/dbgperspective/sqlscripts/create-tables.sql
+/usr/lib/nemiver/plugins/dbgperspective/sqlscripts/drop-tables.sql
+/usr/lib/nemiver/plugins/dbgperspective/ui/callfunctiondialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/chooseoverloadsdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/exprinspectordialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/findtextdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/globalvarsinspector.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/loadcoredialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/openfiledialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/preferencesdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/proclistdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/remotetargetdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/runprogramdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/savedsessionsdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/setbreakpointdialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/setjumptodialog.ui
+/usr/lib/nemiver/plugins/dbgperspective/ui/watchpointdialog.ui
+/usr/share/appdata/nemiver.appdata.xml
+/usr/share/applications/nemiver.desktop
+/usr/share/glib-2.0/schemas/org.nemiver.gschema.xml
+/usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/C/nemiver/index.docbook
+/usr/share/help/C/nemiver/legal.xml
+/usr/share/help/cs/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/cs/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/cs/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/cs/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/cs/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/cs/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/cs/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/cs/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/cs/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/cs/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/cs/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/cs/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/cs/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/cs/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/cs/nemiver/index.docbook
+/usr/share/help/cs/nemiver/legal.xml
+/usr/share/help/de/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/de/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/de/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/de/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/de/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/de/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/de/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/de/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/de/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/de/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/de/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/de/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/de/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/de/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/de/nemiver/index.docbook
+/usr/share/help/de/nemiver/legal.xml
+/usr/share/help/el/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/el/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/el/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/el/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/el/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/el/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/el/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/el/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/el/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/el/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/el/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/el/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/el/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/el/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/el/nemiver/index.docbook
+/usr/share/help/el/nemiver/legal.xml
+/usr/share/help/es/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/es/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/es/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/es/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/es/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/es/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/es/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/es/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/es/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/es/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/es/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/es/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/es/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/es/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/es/nemiver/index.docbook
+/usr/share/help/es/nemiver/legal.xml
+/usr/share/help/fr/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/fr/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/fr/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/fr/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/fr/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/fr/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/fr/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/fr/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/fr/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/fr/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/fr/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/fr/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/fr/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/fr/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/fr/nemiver/index.docbook
+/usr/share/help/fr/nemiver/legal.xml
+/usr/share/help/gl/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/gl/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/gl/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/gl/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/gl/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/gl/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/gl/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/gl/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/gl/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/gl/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/gl/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/gl/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/gl/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/gl/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/gl/nemiver/index.docbook
+/usr/share/help/gl/nemiver/legal.xml
+/usr/share/help/oc/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/oc/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/oc/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/oc/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/oc/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/oc/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/oc/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/oc/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/oc/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/oc/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/oc/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/oc/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/oc/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/oc/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/oc/nemiver/index.docbook
+/usr/share/help/oc/nemiver/legal.xml
+/usr/share/help/pt_BR/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/pt_BR/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/pt_BR/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/pt_BR/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/pt_BR/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/pt_BR/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/pt_BR/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/pt_BR/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/pt_BR/nemiver/index.docbook
+/usr/share/help/pt_BR/nemiver/legal.xml
+/usr/share/help/sl/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/sl/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/sl/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/sl/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/sl/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/sl/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/sl/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/sl/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/sl/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/sl/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/sl/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/sl/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/sl/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/sl/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/sl/nemiver/index.docbook
+/usr/share/help/sl/nemiver/legal.xml
+/usr/share/help/sv/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/sv/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/sv/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/sv/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/sv/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/sv/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/sv/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/sv/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/sv/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/sv/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/sv/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/sv/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/sv/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/sv/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/sv/nemiver/index.docbook
+/usr/share/help/sv/nemiver/legal.xml
+/usr/share/help/zh_CN/nemiver/figures/attach-dialog.png -> /usr/share/help/C/nemiver/figures/attach-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/connect-remote-dialog.png -> /usr/share/help/C/nemiver/figures/connect-remote-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/disabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/disabled-breakpoint.png
+/usr/share/help/zh_CN/nemiver/figures/enabled-breakpoint.png -> /usr/share/help/C/nemiver/figures/enabled-breakpoint.png
+/usr/share/help/zh_CN/nemiver/figures/execute-dialog.png -> /usr/share/help/C/nemiver/figures/execute-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/global-variables-dialog.png -> /usr/share/help/C/nemiver/figures/global-variables-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/load-core-dialog.png -> /usr/share/help/C/nemiver/figures/load-core-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/main-window.png -> /usr/share/help/C/nemiver/figures/main-window.png
+/usr/share/help/zh_CN/nemiver/figures/memory-view.png -> /usr/share/help/C/nemiver/figures/memory-view.png
+/usr/share/help/zh_CN/nemiver/figures/open-files-target.png -> /usr/share/help/C/nemiver/figures/open-files-target.png
+/usr/share/help/zh_CN/nemiver/figures/registers-view.png -> /usr/share/help/C/nemiver/figures/registers-view.png
+/usr/share/help/zh_CN/nemiver/figures/sessions-dialog.png -> /usr/share/help/C/nemiver/figures/sessions-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/set-breakpoint-dialog.png -> /usr/share/help/C/nemiver/figures/set-breakpoint-dialog.png
+/usr/share/help/zh_CN/nemiver/figures/variable-inspector.png -> /usr/share/help/C/nemiver/figures/variable-inspector.png
+/usr/share/help/zh_CN/nemiver/index.docbook
+/usr/share/help/zh_CN/nemiver/legal.xml
+/usr/share/icons/hicolor/16x16/apps/nemiver.png
+/usr/share/icons/hicolor/22x22/apps/nemiver.png
+/usr/share/icons/hicolor/24x24/apps/nemiver.png
+/usr/share/icons/hicolor/32x32/apps/nemiver.png
+/usr/share/icons/hicolor/48x48/apps/nemiver.png
+/usr/share/icons/hicolor/scalable/apps/nemiver.svg
+/usr/share/icons/hicolor/symbolic/apps/nemiver-symbolic.svg
+/usr/share/locale/ar/LC_MESSAGES/nemiver.mo
+/usr/share/locale/as/LC_MESSAGES/nemiver.mo
+/usr/share/locale/bs/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ca/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/nemiver.mo
+/usr/share/locale/cs/LC_MESSAGES/nemiver.mo
+/usr/share/locale/da/LC_MESSAGES/nemiver.mo
+/usr/share/locale/de/LC_MESSAGES/nemiver.mo
+/usr/share/locale/dz/LC_MESSAGES/nemiver.mo
+/usr/share/locale/el/LC_MESSAGES/nemiver.mo
+/usr/share/locale/en_GB/LC_MESSAGES/nemiver.mo
+/usr/share/locale/eo/LC_MESSAGES/nemiver.mo
+/usr/share/locale/es/LC_MESSAGES/nemiver.mo
+/usr/share/locale/eu/LC_MESSAGES/nemiver.mo
+/usr/share/locale/fi/LC_MESSAGES/nemiver.mo
+/usr/share/locale/fr/LC_MESSAGES/nemiver.mo
+/usr/share/locale/gl/LC_MESSAGES/nemiver.mo
+/usr/share/locale/hi/LC_MESSAGES/nemiver.mo
+/usr/share/locale/hu/LC_MESSAGES/nemiver.mo
+/usr/share/locale/id/LC_MESSAGES/nemiver.mo
+/usr/share/locale/it/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ja/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ko/LC_MESSAGES/nemiver.mo
+/usr/share/locale/lt/LC_MESSAGES/nemiver.mo
+/usr/share/locale/lv/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ml/LC_MESSAGES/nemiver.mo
+/usr/share/locale/nb/LC_MESSAGES/nemiver.mo
+/usr/share/locale/nl/LC_MESSAGES/nemiver.mo
+/usr/share/locale/oc/LC_MESSAGES/nemiver.mo
+/usr/share/locale/pl/LC_MESSAGES/nemiver.mo
+/usr/share/locale/pt/LC_MESSAGES/nemiver.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ro/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ru/LC_MESSAGES/nemiver.mo
+/usr/share/locale/sk/LC_MESSAGES/nemiver.mo
+/usr/share/locale/sl/LC_MESSAGES/nemiver.mo
+/usr/share/locale/sr/LC_MESSAGES/nemiver.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/nemiver.mo
+/usr/share/locale/sv/LC_MESSAGES/nemiver.mo
+/usr/share/locale/tg/LC_MESSAGES/nemiver.mo
+/usr/share/locale/th/LC_MESSAGES/nemiver.mo
+/usr/share/locale/tr/LC_MESSAGES/nemiver.mo
+/usr/share/locale/ug/LC_MESSAGES/nemiver.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/nemiver.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/nemiver.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/nemiver.mo
+/usr/share/man/man1/nemiver.1
+/usr/share/nemiver/menus/menubar.xml
+/usr/share/nemiver/ui/locatefiledialog.ui
+/usr/share/nemiver/ui/workbench.ui

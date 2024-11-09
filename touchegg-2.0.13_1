@@ -1,0 +1,4 @@
+/etc/sv/touchegg/run
+/etc/sv/touchegg/supervise -> /run/runit/supervise.touchegg
+/usr/bin/touchegg
+/usr/share/touchegg/touchegg.conf

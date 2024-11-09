@@ -1,0 +1,11 @@
+/usr/bin/horizon-eda
+/usr/bin/horizon-imp
+/usr/share/applications/org.horizon_eda.HorizonEDA.desktop
+/usr/share/icons/hicolor/16x16/apps/org.horizon_eda.HorizonEDA.png
+/usr/share/icons/hicolor/256x256/apps/org.horizon_eda.HorizonEDA.png
+/usr/share/icons/hicolor/32x32/apps/org.horizon_eda.HorizonEDA.png
+/usr/share/icons/hicolor/64x64/apps/org.horizon_eda.HorizonEDA.png
+/usr/share/icons/hicolor/scalable/apps/org.horizon_eda.HorizonEDA.svg
+/usr/share/man/man1/horizon-eda.1
+/usr/share/man/man1/horizon-imp.1
+/usr/share/metainfo/org.horizon_eda.HorizonEDA.metainfo.xml

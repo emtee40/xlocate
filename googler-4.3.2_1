@@ -1,0 +1,6 @@
+/usr/bin/googler
+/usr/share/bash-completion/completions/googler/googler-completion.bash
+/usr/share/doc/googler/README.md
+/usr/share/fish/vendor_completions.d/googler.fish
+/usr/share/man/man1/googler.1
+/usr/share/zsh/site-functions/_googler

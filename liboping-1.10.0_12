@@ -1,0 +1,5 @@
+/usr/bin/noping
+/usr/bin/oping
+/usr/lib/liboping.so.0 -> /usr/lib/liboping.so.0.3.0
+/usr/lib/liboping.so.0.3.0
+/usr/share/man/man8/oping.8

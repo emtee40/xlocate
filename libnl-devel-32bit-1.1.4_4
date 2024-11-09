@@ -1,0 +1,3 @@
+/usr/lib32/libnl.a
+/usr/lib32/libnl.so -> /usr/lib32/libnl.so.1
+/usr/lib32/pkgconfig/libnl-1.pc

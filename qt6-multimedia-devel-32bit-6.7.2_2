@@ -1,0 +1,10 @@
+/usr/lib32/libQt6BundledResonanceAudio.a
+/usr/lib32/libQt6Multimedia.so -> /usr/lib32/libQt6Multimedia.so.6
+/usr/lib32/libQt6MultimediaQuick.so -> /usr/lib32/libQt6MultimediaQuick.so.6
+/usr/lib32/libQt6MultimediaWidgets.so -> /usr/lib32/libQt6MultimediaWidgets.so.6
+/usr/lib32/libQt6QGstreamerMediaPlugin.a
+/usr/lib32/libQt6Quick3DSpatialAudio.so -> /usr/lib32/libQt6Quick3DSpatialAudio.so.6
+/usr/lib32/libQt6SpatialAudio.so -> /usr/lib32/libQt6SpatialAudio.so.6
+/usr/lib32/pkgconfig/Qt6Multimedia.pc
+/usr/lib32/pkgconfig/Qt6MultimediaWidgets.pc
+/usr/lib32/pkgconfig/Qt6SpatialAudio.pc

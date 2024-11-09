@@ -1,0 +1,6 @@
+/usr/include/usrsctp.h
+/usr/lib/libusrsctp.so -> /usr/lib/libusrsctp.so.2
+/usr/lib/libusrsctp.so.2 -> /usr/lib/libusrsctp.so.2.0.0
+/usr/lib/libusrsctp.so.2.0.0
+/usr/lib/pkgconfig/usrsctp.pc
+/usr/share/licenses/usrsctp/LICENSE.md

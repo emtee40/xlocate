@@ -1,0 +1,12 @@
+/usr/bin/telegram-desktop
+/usr/share/applications/org.telegram.desktop.desktop
+/usr/share/dbus-1/services/org.telegram.desktop.service
+/usr/share/icons/hicolor/128x128/apps/telegram.png
+/usr/share/icons/hicolor/16x16/apps/telegram.png
+/usr/share/icons/hicolor/256x256/apps/telegram.png
+/usr/share/icons/hicolor/32x32/apps/telegram.png
+/usr/share/icons/hicolor/48x48/apps/telegram.png
+/usr/share/icons/hicolor/512x512/apps/telegram.png
+/usr/share/icons/hicolor/64x64/apps/telegram.png
+/usr/share/icons/hicolor/symbolic/apps/telegram-symbolic.svg
+/usr/share/metainfo/org.telegram.desktop.metainfo.xml

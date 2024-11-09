@@ -1,0 +1,34 @@
+/usr/lib32/libextractor.so.3 -> /usr/lib32/libextractor.so.3.1.8
+/usr/lib32/libextractor.so.3.1.8
+/usr/lib32/libextractor/libextractor_archive.so
+/usr/lib32/libextractor/libextractor_deb.so
+/usr/lib32/libextractor/libextractor_dvi.so
+/usr/lib32/libextractor/libextractor_elf.so
+/usr/lib32/libextractor/libextractor_exiv2.so
+/usr/lib32/libextractor/libextractor_flac.so
+/usr/lib32/libextractor/libextractor_gif.so
+/usr/lib32/libextractor/libextractor_gstreamer.so
+/usr/lib32/libextractor/libextractor_it.so
+/usr/lib32/libextractor/libextractor_jpeg.so
+/usr/lib32/libextractor/libextractor_man.so
+/usr/lib32/libextractor/libextractor_mime.so
+/usr/lib32/libextractor/libextractor_mpeg.so
+/usr/lib32/libextractor/libextractor_nsf.so
+/usr/lib32/libextractor/libextractor_nsfe.so
+/usr/lib32/libextractor/libextractor_odf.so
+/usr/lib32/libextractor/libextractor_ogg.so
+/usr/lib32/libextractor/libextractor_ole2.so
+/usr/lib32/libextractor/libextractor_pdf.so
+/usr/lib32/libextractor/libextractor_png.so
+/usr/lib32/libextractor/libextractor_ps.so
+/usr/lib32/libextractor/libextractor_real.so
+/usr/lib32/libextractor/libextractor_riff.so
+/usr/lib32/libextractor/libextractor_s3m.so
+/usr/lib32/libextractor/libextractor_sid.so
+/usr/lib32/libextractor/libextractor_thumbnailgtk.so
+/usr/lib32/libextractor/libextractor_tiff.so
+/usr/lib32/libextractor/libextractor_wav.so
+/usr/lib32/libextractor/libextractor_xm.so
+/usr/lib32/libextractor/libextractor_zip.so
+/usr/lib32/libextractor_common.so.1 -> /usr/lib32/libextractor_common.so.1.0.0
+/usr/lib32/libextractor_common.so.1.0.0

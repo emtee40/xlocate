@@ -1,0 +1,22 @@
+/usr/include/cmuclmtk/ac_hash.h
+/usr/include/cmuclmtk/ac_lmfunc_impl.h
+/usr/include/cmuclmtk/ac_parsetext.h
+/usr/include/cmuclmtk/bo_ng_prob.h
+/usr/include/cmuclmtk/compat.h
+/usr/include/cmuclmtk/disc_meth.h
+/usr/include/cmuclmtk/disc_meth_absolute.h
+/usr/include/cmuclmtk/disc_meth_good_turing.h
+/usr/include/cmuclmtk/disc_meth_linear.h
+/usr/include/cmuclmtk/disc_meth_witten_bell.h
+/usr/include/cmuclmtk/evallm.h
+/usr/include/cmuclmtk/general.h
+/usr/include/cmuclmtk/genrand.h
+/usr/include/cmuclmtk/idngram2lm.h
+/usr/include/cmuclmtk/mips_swap.h
+/usr/include/cmuclmtk/miscella.h
+/usr/include/cmuclmtk/ngram.h
+/usr/include/cmuclmtk/pc_general.h
+/usr/include/cmuclmtk/sih.h
+/usr/include/cmuclmtk/stats.h
+/usr/include/cmuclmtk/toolkit.h
+/usr/lib/libcmuclmtk.so -> /usr/lib/libcmuclmtk.so.0.0.0

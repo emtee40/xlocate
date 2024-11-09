@@ -1,0 +1,4 @@
+/usr/lib32/libgdkmm-3.0.so -> /usr/lib32/libgdkmm-3.0.so.1
+/usr/lib32/libgtkmm-3.0.so -> /usr/lib32/libgtkmm-3.0.so.1
+/usr/lib32/pkgconfig/gdkmm-3.0.pc
+/usr/lib32/pkgconfig/gtkmm-3.0.pc

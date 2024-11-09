@@ -1,0 +1,4 @@
+/usr/lib32/libQt5WebSockets.so.5 -> /usr/lib32/libQt5WebSockets.so.5.15.11
+/usr/lib32/libQt5WebSockets.so.5.15 -> /usr/lib32/libQt5WebSockets.so.5.15.11
+/usr/lib32/libQt5WebSockets.so.5.15.11
+/usr/lib32/qt5/qml/QtWebSockets/libdeclarative_qmlwebsockets.so

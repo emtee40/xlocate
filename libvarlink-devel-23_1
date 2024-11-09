@@ -1,0 +1,3 @@
+/usr/include/varlink.h
+/usr/lib/libvarlink.so -> /usr/lib/libvarlink.so.0
+/usr/lib/pkgconfig/libvarlink.pc

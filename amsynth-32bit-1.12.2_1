@@ -1,0 +1,4 @@
+/usr/lib32/dssi/amsynth_dssi.so
+/usr/lib32/lv2/amsynth.lv2/amsynth_lv2.so
+/usr/lib32/lv2/amsynth.lv2/amsynth_lv2_gtk.so
+/usr/lib32/vst/amsynth_vst.so

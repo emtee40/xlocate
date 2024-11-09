@@ -1,0 +1,226 @@
+/usr/bin/moserial
+/usr/share/applications/moserial.desktop
+/usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/C/moserial/figures/record.png
+/usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/C/moserial/index.docbook
+/usr/share/help/C/moserial/legal.xml
+/usr/share/help/cs/moserial/figures/connect.png
+/usr/share/help/cs/moserial/figures/disconnect.png
+/usr/share/help/cs/moserial/figures/main-toolbar.png
+/usr/share/help/cs/moserial/figures/outgoing.png
+/usr/share/help/cs/moserial/figures/port-setup.png
+/usr/share/help/cs/moserial/figures/preferences.png
+/usr/share/help/cs/moserial/figures/receive-file-dialog.png
+/usr/share/help/cs/moserial/figures/receive-file.png
+/usr/share/help/cs/moserial/figures/receive-progress.png
+/usr/share/help/cs/moserial/figures/received-tabs.png
+/usr/share/help/cs/moserial/figures/record-dialog.png
+/usr/share/help/cs/moserial/figures/record.png
+/usr/share/help/cs/moserial/figures/send-file-dialog.png
+/usr/share/help/cs/moserial/figures/send-file.png
+/usr/share/help/cs/moserial/figures/send-progress.png
+/usr/share/help/cs/moserial/figures/sent-tabs.png
+/usr/share/help/cs/moserial/figures/statusbar.png
+/usr/share/help/cs/moserial/figures/stop-recording.png
+/usr/share/help/cs/moserial/index.docbook
+/usr/share/help/de/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/de/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/de/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/de/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/de/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/de/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/de/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/de/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/de/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/de/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/de/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/de/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/de/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/de/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/de/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/de/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/de/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/de/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/de/moserial/index.docbook
+/usr/share/help/el/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/el/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/el/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/el/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/el/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/el/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/el/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/el/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/el/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/el/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/el/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/el/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/el/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/el/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/el/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/el/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/el/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/el/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/el/moserial/index.docbook
+/usr/share/help/es/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/es/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/es/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/es/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/es/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/es/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/es/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/es/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/es/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/es/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/es/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/es/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/es/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/es/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/es/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/es/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/es/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/es/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/es/moserial/index.docbook
+/usr/share/help/fr/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/fr/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/fr/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/fr/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/fr/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/fr/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/fr/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/fr/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/fr/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/fr/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/fr/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/fr/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/fr/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/fr/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/fr/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/fr/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/fr/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/fr/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/fr/moserial/index.docbook
+/usr/share/help/pl/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/pl/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/pl/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/pl/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/pl/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/pl/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/pl/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/pl/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/pl/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/pl/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/pl/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/pl/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/pl/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/pl/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/pl/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/pl/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/pl/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/pl/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/pl/moserial/index.docbook
+/usr/share/help/sl/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/sl/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/sl/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/sl/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/sl/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/sl/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/sl/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/sl/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/sl/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/sl/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/sl/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/sl/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/sl/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/sl/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/sl/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/sl/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/sl/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/sl/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/sl/moserial/index.docbook
+/usr/share/help/sv/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/sv/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/sv/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/sv/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/sv/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/sv/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/sv/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/sv/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/sv/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/sv/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/sv/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/sv/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/sv/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/sv/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/sv/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/sv/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/sv/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/sv/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/sv/moserial/index.docbook
+/usr/share/help/uk/moserial/figures/connect.png -> /usr/share/help/C/moserial/figures/connect.png
+/usr/share/help/uk/moserial/figures/disconnect.png -> /usr/share/help/C/moserial/figures/disconnect.png
+/usr/share/help/uk/moserial/figures/main-toolbar.png -> /usr/share/help/C/moserial/figures/main-toolbar.png
+/usr/share/help/uk/moserial/figures/outgoing.png -> /usr/share/help/C/moserial/figures/outgoing.png
+/usr/share/help/uk/moserial/figures/port-setup.png -> /usr/share/help/C/moserial/figures/port-setup.png
+/usr/share/help/uk/moserial/figures/preferences.png -> /usr/share/help/C/moserial/figures/preferences.png
+/usr/share/help/uk/moserial/figures/receive-file-dialog.png -> /usr/share/help/C/moserial/figures/receive-file-dialog.png
+/usr/share/help/uk/moserial/figures/receive-file.png -> /usr/share/help/C/moserial/figures/receive-file.png
+/usr/share/help/uk/moserial/figures/receive-progress.png -> /usr/share/help/C/moserial/figures/receive-progress.png
+/usr/share/help/uk/moserial/figures/received-tabs.png -> /usr/share/help/C/moserial/figures/received-tabs.png
+/usr/share/help/uk/moserial/figures/record-dialog.png -> /usr/share/help/C/moserial/figures/record-dialog.png
+/usr/share/help/uk/moserial/figures/record.png -> /usr/share/help/C/moserial/figures/record.png
+/usr/share/help/uk/moserial/figures/send-file-dialog.png -> /usr/share/help/C/moserial/figures/send-file-dialog.png
+/usr/share/help/uk/moserial/figures/send-file.png -> /usr/share/help/C/moserial/figures/send-file.png
+/usr/share/help/uk/moserial/figures/send-progress.png -> /usr/share/help/C/moserial/figures/send-progress.png
+/usr/share/help/uk/moserial/figures/sent-tabs.png -> /usr/share/help/C/moserial/figures/sent-tabs.png
+/usr/share/help/uk/moserial/figures/statusbar.png -> /usr/share/help/C/moserial/figures/statusbar.png
+/usr/share/help/uk/moserial/figures/stop-recording.png -> /usr/share/help/C/moserial/figures/stop-recording.png
+/usr/share/help/uk/moserial/index.docbook
+/usr/share/icons/hicolor/scalable/apps/moserial.svg
+/usr/share/locale/bs/LC_MESSAGES/moserial.mo
+/usr/share/locale/ca/LC_MESSAGES/moserial.mo
+/usr/share/locale/cs/LC_MESSAGES/moserial.mo
+/usr/share/locale/da/LC_MESSAGES/moserial.mo
+/usr/share/locale/de/LC_MESSAGES/moserial.mo
+/usr/share/locale/el/LC_MESSAGES/moserial.mo
+/usr/share/locale/es/LC_MESSAGES/moserial.mo
+/usr/share/locale/eu/LC_MESSAGES/moserial.mo
+/usr/share/locale/fr/LC_MESSAGES/moserial.mo
+/usr/share/locale/fur/LC_MESSAGES/moserial.mo
+/usr/share/locale/gl/LC_MESSAGES/moserial.mo
+/usr/share/locale/hu/LC_MESSAGES/moserial.mo
+/usr/share/locale/id/LC_MESSAGES/moserial.mo
+/usr/share/locale/it/LC_MESSAGES/moserial.mo
+/usr/share/locale/ja/LC_MESSAGES/moserial.mo
+/usr/share/locale/ko/LC_MESSAGES/moserial.mo
+/usr/share/locale/nb/LC_MESSAGES/moserial.mo
+/usr/share/locale/nl/LC_MESSAGES/moserial.mo
+/usr/share/locale/pl/LC_MESSAGES/moserial.mo
+/usr/share/locale/pt/LC_MESSAGES/moserial.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/moserial.mo
+/usr/share/locale/ro/LC_MESSAGES/moserial.mo
+/usr/share/locale/sl/LC_MESSAGES/moserial.mo
+/usr/share/locale/sr/LC_MESSAGES/moserial.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/moserial.mo
+/usr/share/locale/sv/LC_MESSAGES/moserial.mo
+/usr/share/locale/tr/LC_MESSAGES/moserial.mo
+/usr/share/locale/uk/LC_MESSAGES/moserial.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/moserial.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/moserial.mo
+/usr/share/man/man1/moserial.1
+/usr/share/metainfo/moserial.appdata.xml

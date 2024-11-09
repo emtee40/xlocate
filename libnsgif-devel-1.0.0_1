@@ -1,0 +1,4 @@
+/usr/include/nsgif.h
+/usr/lib/libnsgif.a
+/usr/lib/libnsgif.so -> /usr/lib/libnsgif.so.1.0.0
+/usr/lib/pkgconfig/libnsgif.pc

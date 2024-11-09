@@ -1,0 +1,4 @@
+/usr/bin/stern
+/usr/share/bash-completion/completions/stern
+/usr/share/fish/vendor_completions.d/stern.fish
+/usr/share/zsh/site-functions/_stern

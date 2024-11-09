@@ -1,0 +1,17 @@
+/usr/include/nanomsg/bus.h
+/usr/include/nanomsg/inproc.h
+/usr/include/nanomsg/ipc.h
+/usr/include/nanomsg/nn.h
+/usr/include/nanomsg/pair.h
+/usr/include/nanomsg/pipeline.h
+/usr/include/nanomsg/pubsub.h
+/usr/include/nanomsg/reqrep.h
+/usr/include/nanomsg/survey.h
+/usr/include/nanomsg/tcp.h
+/usr/include/nanomsg/ws.h
+/usr/lib/cmake/nanomsg-1.1.5/nanomsg-config-version.cmake
+/usr/lib/cmake/nanomsg-1.1.5/nanomsg-config.cmake
+/usr/lib/cmake/nanomsg-1.1.5/nanomsg-target-release.cmake
+/usr/lib/cmake/nanomsg-1.1.5/nanomsg-target.cmake
+/usr/lib/libnanomsg.so -> /usr/lib/libnanomsg.so.5
+/usr/lib/pkgconfig/nanomsg.pc

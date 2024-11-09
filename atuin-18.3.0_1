@@ -1,0 +1,5 @@
+/usr/bin/atuin
+/usr/share/bash-completion/completions/atuin
+/usr/share/fish/vendor_completions.d/atuin.fish
+/usr/share/licenses/atuin/LICENSE
+/usr/share/zsh/site-functions/_atuin

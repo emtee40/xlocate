@@ -1,0 +1,15 @@
+/usr/bin/telepathy-gabble-xmpp-console
+/usr/lib/telepathy/gabble-0/lib/libgabble-plugins-0.18.4.so
+/usr/lib/telepathy/gabble-0/lib/libgabble-plugins.so -> /usr/lib/telepathy/gabble-0/lib/libgabble-plugins-0.18.4.so
+/usr/lib/telepathy/gabble-0/lib/libwocky-telepathy-gabble-0.18.4.so
+/usr/lib/telepathy/gabble-0/lib/libwocky.so -> /usr/lib/telepathy/gabble-0/lib/libwocky-telepathy-gabble-0.18.4.so
+/usr/lib/telepathy/gabble-0/plugins/libconsole.so
+/usr/lib/telepathy/gabble-0/plugins/libgateways.so
+/usr/libexec/telepathy-gabble
+/usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.gabble.service
+/usr/share/doc/telepathy-gabble/muc-bytestream.html
+/usr/share/doc/telepathy-gabble/olpc.html
+/usr/share/doc/telepathy-gabble/si-multiple.html
+/usr/share/doc/telepathy-gabble/tubes.html
+/usr/share/man/man8/telepathy-gabble.8
+/usr/share/telepathy/managers/gabble.manager

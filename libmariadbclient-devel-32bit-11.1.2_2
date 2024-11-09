@@ -1,0 +1,12 @@
+/usr/lib32/libmariadb.a -> /usr/lib32/libmariadbclient.a
+/usr/lib32/libmariadb.so -> /usr/lib32/libmariadb.so.3
+/usr/lib32/libmariadbclient.a
+/usr/lib32/libmariadbd.a
+/usr/lib32/libmariadbd.so -> /usr/lib32/libmariadbd.so.19
+/usr/lib32/libmysqlclient.a -> /usr/lib32/libmariadbclient.a
+/usr/lib32/libmysqlclient.so -> /usr/lib32/libmariadb.so.3
+/usr/lib32/libmysqlclient_r.a -> /usr/lib32/libmariadbclient.a
+/usr/lib32/libmysqlclient_r.so -> /usr/lib32/libmariadb.so.3
+/usr/lib32/libmysqld.a -> /usr/lib32/libmariadbd.a
+/usr/lib32/libmysqld.so -> /usr/lib32/libmariadbd.so.19
+/usr/lib32/libmysqlservices.a

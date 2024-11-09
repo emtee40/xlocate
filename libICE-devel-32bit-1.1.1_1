@@ -1,0 +1,3 @@
+/usr/lib32/libICE.a
+/usr/lib32/libICE.so -> /usr/lib32/libICE.so.6.3.0
+/usr/lib32/pkgconfig/ice.pc

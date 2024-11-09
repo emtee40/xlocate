@@ -1,0 +1,9 @@
+/usr/lib/dracut/dracut.conf.d/crypt-ssh.conf
+/usr/lib/dracut/modules.d/60crypt-ssh/50-udev-pty.rules
+/usr/lib/dracut/modules.d/60crypt-ssh/dropbear-start.sh
+/usr/lib/dracut/modules.d/60crypt-ssh/dropbear-stop.sh
+/usr/lib/dracut/modules.d/60crypt-ssh/helper/console_auth
+/usr/lib/dracut/modules.d/60crypt-ssh/helper/console_peek.sh
+/usr/lib/dracut/modules.d/60crypt-ssh/helper/unlock
+/usr/lib/dracut/modules.d/60crypt-ssh/helper/unlock-reap-success.sh
+/usr/lib/dracut/modules.d/60crypt-ssh/module-setup.sh

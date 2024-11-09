@@ -1,0 +1,3 @@
+/usr/lib32/libc++.a
+/usr/lib32/libc++.so -> /usr/lib32/libc++.so.1
+/usr/lib32/libc++experimental.a

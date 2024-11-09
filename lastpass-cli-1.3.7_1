@@ -1,0 +1,11 @@
+/usr/bin/lpass
+/usr/share/bash-completion/completions/lpass
+/usr/share/examples/lpass/change-mysql-password.sh
+/usr/share/examples/lpass/change-ssh-password.sh
+/usr/share/examples/lpass/git-credential-lastpass
+/usr/share/examples/lpass/lpass-sudo-askpass.sh
+/usr/share/examples/lpass/lpass-sudo.sh
+/usr/share/examples/lpass/msmtprc
+/usr/share/fish/vendor_completions.d/lpass.fish
+/usr/share/man/man1/lpass.1
+/usr/share/zsh/site-functions/_lpass

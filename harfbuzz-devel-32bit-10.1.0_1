@@ -1,0 +1,10 @@
+/usr/lib32/libharfbuzz-cairo.so -> /usr/lib32/libharfbuzz-cairo.so.0
+/usr/lib32/libharfbuzz-gobject.so -> /usr/lib32/libharfbuzz-gobject.so.0
+/usr/lib32/libharfbuzz-icu.so -> /usr/lib32/libharfbuzz-icu.so.0
+/usr/lib32/libharfbuzz-subset.so -> /usr/lib32/libharfbuzz-subset.so.0
+/usr/lib32/libharfbuzz.so -> /usr/lib32/libharfbuzz.so.0
+/usr/lib32/pkgconfig/harfbuzz-cairo.pc
+/usr/lib32/pkgconfig/harfbuzz-gobject.pc
+/usr/lib32/pkgconfig/harfbuzz-icu.pc
+/usr/lib32/pkgconfig/harfbuzz-subset.pc
+/usr/lib32/pkgconfig/harfbuzz.pc

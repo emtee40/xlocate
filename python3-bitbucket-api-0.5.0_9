@@ -1,0 +1,16 @@
+/usr/lib/python3.12/site-packages/bitbucket/__init__.py
+/usr/lib/python3.12/site-packages/bitbucket/bitbucket.py
+/usr/lib/python3.12/site-packages/bitbucket/deploy_key.py
+/usr/lib/python3.12/site-packages/bitbucket/issue.py
+/usr/lib/python3.12/site-packages/bitbucket/issue_comment.py
+/usr/lib/python3.12/site-packages/bitbucket/repository.py
+/usr/lib/python3.12/site-packages/bitbucket/service.py
+/usr/lib/python3.12/site-packages/bitbucket/ssh.py
+/usr/lib/python3.12/site-packages/bitbucket/tests/__init__.py
+/usr/lib/python3.12/site-packages/bitbucket/tests/public.py
+/usr/lib/python3.12/site-packages/bitbucket_api-0.5.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/bitbucket_api-0.5.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/bitbucket_api-0.5.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/bitbucket_api-0.5.0-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/bitbucket_api-0.5.0-py3.12.egg-info/top_level.txt
+/usr/share/licenses/python3-bitbucket-api/LICENSE

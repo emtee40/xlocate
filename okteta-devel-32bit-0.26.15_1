@@ -1,0 +1,10 @@
+/usr/lib32/libKasten4Controllers.so -> /usr/lib32/libKasten4Controllers.so.0
+/usr/lib32/libKasten4Core.so -> /usr/lib32/libKasten4Core.so.0
+/usr/lib32/libKasten4Gui.so -> /usr/lib32/libKasten4Gui.so.0
+/usr/lib32/libKasten4Okteta2Controllers.so -> /usr/lib32/libKasten4Okteta2Controllers.so.0
+/usr/lib32/libKasten4Okteta2Core.so -> /usr/lib32/libKasten4Okteta2Core.so.0
+/usr/lib32/libKasten4Okteta2Gui.so -> /usr/lib32/libKasten4Okteta2Gui.so.0
+/usr/lib32/libOkteta3Core.so -> /usr/lib32/libOkteta3Core.so.0
+/usr/lib32/libOkteta3Gui.so -> /usr/lib32/libOkteta3Gui.so.0
+/usr/lib32/pkgconfig/OktetaCore.pc
+/usr/lib32/pkgconfig/OktetaGui.pc

@@ -1,0 +1,9 @@
+/usr/bin/cmark-gfm
+/usr/lib/cmake-gfm-extensions/cmark-gfm-extensions-none.cmake
+/usr/lib/cmake-gfm-extensions/cmark-gfm-extensions.cmake
+/usr/lib/libcmark-gfm-extensions.so.0 -> /usr/lib/libcmark-gfm-extensions.so.0.29.0.gfm.13
+/usr/lib/libcmark-gfm-extensions.so.0.29.0.gfm.13
+/usr/lib/libcmark-gfm.so.0 -> /usr/lib/libcmark-gfm.so.0.29.0.gfm.13
+/usr/lib/libcmark-gfm.so.0.29.0.gfm.13
+/usr/share/licenses/cmark-gfm/COPYING
+/usr/share/man/man1/cmark-gfm.1

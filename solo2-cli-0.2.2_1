@@ -1,0 +1,5 @@
+/usr/bin/solo2
+/usr/lib/udev/rules.d/70-solo2.rules
+/usr/share/bash-completion/completions/solo2
+/usr/share/fish/vendor_completions.d/solo2.fish
+/usr/share/zsh/site-functions/_solo2

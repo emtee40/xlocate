@@ -1,0 +1,5 @@
+/usr/lib32/libtcc.a
+/usr/lib32/tcc/bcheck.o
+/usr/lib32/tcc/bt-exe.o
+/usr/lib32/tcc/bt-log.o
+/usr/lib32/tcc/libtcc1.a

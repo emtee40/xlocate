@@ -1,0 +1,7 @@
+/usr/lib32/libKPim6AddressbookImportExport.so.6 -> /usr/lib32/libKPim6AddressbookImportExport.so.6.2.1
+/usr/lib32/libKPim6AddressbookImportExport.so.6.2.1
+/usr/lib32/libkaddressbookprivate.so.6 -> /usr/lib32/libkaddressbookprivate.so.6.2.1
+/usr/lib32/libkaddressbookprivate.so.6.2.1
+/usr/lib32/qt6/plugins/kaddressbookpart.so
+/usr/lib32/qt6/plugins/pim6/kcms/kaddressbook/kaddressbook_config_plugins.so
+/usr/lib32/qt6/plugins/pim6/kontact/kontact_kaddressbookplugin.so

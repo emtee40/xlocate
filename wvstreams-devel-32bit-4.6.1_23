@@ -1,0 +1,13 @@
+/usr/lib32/libuniconf.so -> /usr/lib32/libuniconf.so.4.6
+/usr/lib32/libwvbase.so -> /usr/lib32/libwvbase.so.4.6
+/usr/lib32/libwvstatic.a
+/usr/lib32/libwvstreams.so -> /usr/lib32/libwvstreams.so.4.6
+/usr/lib32/libwvtest.a
+/usr/lib32/libwvutils.so -> /usr/lib32/libwvutils.so.4.6
+/usr/lib32/pkgconfig/libuniconf.pc
+/usr/lib32/pkgconfig/libwvbase.pc
+/usr/lib32/pkgconfig/libwvdbus.pc
+/usr/lib32/pkgconfig/libwvqt.pc
+/usr/lib32/pkgconfig/libwvstreams.pc
+/usr/lib32/pkgconfig/libwvtest.pc
+/usr/lib32/pkgconfig/libwvutils.pc

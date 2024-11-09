@@ -1,0 +1,10 @@
+/usr/lib32/libfreerdp-client2.so -> /usr/lib32/libfreerdp-client2.so.2
+/usr/lib32/libfreerdp2.so -> /usr/lib32/libfreerdp2.so.2
+/usr/lib32/libuwac0.so -> /usr/lib32/libuwac0.so.0
+/usr/lib32/libwinpr-tools2.so -> /usr/lib32/libwinpr-tools2.so.2
+/usr/lib32/libwinpr2.so -> /usr/lib32/libwinpr2.so.2
+/usr/lib32/pkgconfig/freerdp-client2.pc
+/usr/lib32/pkgconfig/freerdp2.pc
+/usr/lib32/pkgconfig/uwac0.pc
+/usr/lib32/pkgconfig/winpr-tools2.pc
+/usr/lib32/pkgconfig/winpr2.pc

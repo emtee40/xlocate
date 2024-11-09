@@ -1,0 +1,8 @@
+/etc/hikari/hikari.conf
+/etc/pam.d/hikari-unlocker
+/usr/bin/hikari
+/usr/bin/hikari-unlocker
+/usr/share/backgrounds/hikari/hikari_wallpaper.png
+/usr/share/licenses/hikari/LICENSE
+/usr/share/man/man1/hikari.1
+/usr/share/wayland-sessions/hikari.desktop

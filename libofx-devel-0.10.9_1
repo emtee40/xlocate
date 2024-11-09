@@ -1,0 +1,8 @@
+/usr/include/libofx/libofx.h
+/usr/lib/cmake/libofx/FindOpenSP.cmake
+/usr/lib/cmake/libofx/LibOFXConfig.cmake
+/usr/lib/cmake/libofx/LibOFXConfigVersion.cmake
+/usr/lib/cmake/libofx/LibOFXTargets-none.cmake
+/usr/lib/cmake/libofx/LibOFXTargets.cmake
+/usr/lib/libofx.so -> /usr/lib/libofx.so.7
+/usr/lib/pkgconfig/libofx.pc

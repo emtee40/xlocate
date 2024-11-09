@@ -1,0 +1,16 @@
+/usr/bin/gcdemu
+/usr/share/applications/gcdemu.desktop
+/usr/share/glib-2.0/schemas/net.sf.cdemu.gcdemu.gschema.xml
+/usr/share/locale/de/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/fr/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/ko/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/no/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/pl/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/ru/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/sl/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/sv/LC_MESSAGES/gcdemu.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/gcdemu.mo
+/usr/share/pixmaps/gcdemu-icon-gray.svg
+/usr/share/pixmaps/gcdemu-icon.svg
+/usr/share/pixmaps/gcdemu.svg

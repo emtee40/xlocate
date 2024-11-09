@@ -1,0 +1,7 @@
+/etc/sv/telegraf/conf
+/etc/sv/telegraf/log/run
+/etc/sv/telegraf/log/supervise -> /run/runit/supervise.telegraf-log
+/etc/sv/telegraf/run
+/etc/sv/telegraf/supervise -> /run/runit/supervise.telegraf
+/usr/bin/telegraf
+/usr/share/licenses/telegraf/LICENSE

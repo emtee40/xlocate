@@ -1,0 +1,44 @@
+/usr/lib/libkea-asiodns.so.35 -> /usr/lib/libkea-asiodns.so.35.0.0
+/usr/lib/libkea-asiodns.so.35.0.0
+/usr/lib/libkea-asiolink.so.56 -> /usr/lib/libkea-asiolink.so.56.0.0
+/usr/lib/libkea-asiolink.so.56.0.0
+/usr/lib/libkea-cc.so.54 -> /usr/lib/libkea-cc.so.54.0.0
+/usr/lib/libkea-cc.so.54.0.0
+/usr/lib/libkea-cfgclient.so.51 -> /usr/lib/libkea-cfgclient.so.51.0.0
+/usr/lib/libkea-cfgclient.so.51.0.0
+/usr/lib/libkea-cryptolink.so.38 -> /usr/lib/libkea-cryptolink.so.38.0.0
+/usr/lib/libkea-cryptolink.so.38.0.0
+/usr/lib/libkea-d2srv.so.30 -> /usr/lib/libkea-d2srv.so.30.0.0
+/usr/lib/libkea-d2srv.so.30.0.0
+/usr/lib/libkea-database.so.48 -> /usr/lib/libkea-database.so.48.0.0
+/usr/lib/libkea-database.so.48.0.0
+/usr/lib/libkea-dhcp++.so.74 -> /usr/lib/libkea-dhcp++.so.74.0.0
+/usr/lib/libkea-dhcp++.so.74.0.0
+/usr/lib/libkea-dhcp_ddns.so.41 -> /usr/lib/libkea-dhcp_ddns.so.41.0.0
+/usr/lib/libkea-dhcp_ddns.so.41.0.0
+/usr/lib/libkea-dhcpsrv.so.90 -> /usr/lib/libkea-dhcpsrv.so.90.0.0
+/usr/lib/libkea-dhcpsrv.so.90.0.0
+/usr/lib/libkea-dns++.so.42 -> /usr/lib/libkea-dns++.so.42.0.0
+/usr/lib/libkea-dns++.so.42.0.0
+/usr/lib/libkea-eval.so.52 -> /usr/lib/libkea-eval.so.52.0.0
+/usr/lib/libkea-eval.so.52.0.0
+/usr/lib/libkea-exceptions.so.23 -> /usr/lib/libkea-exceptions.so.23.0.0
+/usr/lib/libkea-exceptions.so.23.0.0
+/usr/lib/libkea-hooks.so.78 -> /usr/lib/libkea-hooks.so.78.0.0
+/usr/lib/libkea-hooks.so.78.0.0
+/usr/lib/libkea-http.so.56 -> /usr/lib/libkea-http.so.56.0.0
+/usr/lib/libkea-http.so.56.0.0
+/usr/lib/libkea-log.so.48 -> /usr/lib/libkea-log.so.48.0.0
+/usr/lib/libkea-log.so.48.0.0
+/usr/lib/libkea-pgsql.so.53 -> /usr/lib/libkea-pgsql.so.53.0.0
+/usr/lib/libkea-pgsql.so.53.0.0
+/usr/lib/libkea-process.so.57 -> /usr/lib/libkea-process.so.57.0.0
+/usr/lib/libkea-process.so.57.0.0
+/usr/lib/libkea-stats.so.29 -> /usr/lib/libkea-stats.so.29.0.0
+/usr/lib/libkea-stats.so.29.0.0
+/usr/lib/libkea-tcp.so.5 -> /usr/lib/libkea-tcp.so.5.0.0
+/usr/lib/libkea-tcp.so.5.0.0
+/usr/lib/libkea-util-io.so.0 -> /usr/lib/libkea-util-io.so.0.0.1
+/usr/lib/libkea-util-io.so.0.0.1
+/usr/lib/libkea-util.so.68 -> /usr/lib/libkea-util.so.68.0.0
+/usr/lib/libkea-util.so.68.0.0

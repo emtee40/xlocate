@@ -1,0 +1,5 @@
+/usr/bin/stdlogctl
+/usr/lib/liblogging-stdlog.so.0 -> /usr/lib/liblogging-stdlog.so.0.1.0
+/usr/lib/liblogging-stdlog.so.0.1.0
+/usr/share/man/man1/stdlogctl.1
+/usr/share/man/man3/stdlog.3

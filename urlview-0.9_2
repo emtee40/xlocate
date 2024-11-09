@@ -1,0 +1,5 @@
+/etc/skel/.urlview
+/etc/urlview.conf
+/usr/bin/url_handler.sh
+/usr/bin/urlview
+/usr/share/man/man1/urlview.1

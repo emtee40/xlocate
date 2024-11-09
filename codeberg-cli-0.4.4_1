@@ -1,0 +1,5 @@
+/usr/bin/berg
+/usr/share/bash-completion/completions/berg
+/usr/share/fish/vendor_completions.d/berg.fish
+/usr/share/licenses/codeberg-cli/LICENSE
+/usr/share/zsh/site-functions/_berg

@@ -1,0 +1,7 @@
+/usr/include/avif/avif.h
+/usr/include/avif/avif_cxx.h
+/usr/lib/cmake/libavif/libavif-config-none.cmake
+/usr/lib/cmake/libavif/libavif-config-version.cmake
+/usr/lib/cmake/libavif/libavif-config.cmake
+/usr/lib/libavif.so -> /usr/lib/libavif.so.16
+/usr/lib/pkgconfig/libavif.pc

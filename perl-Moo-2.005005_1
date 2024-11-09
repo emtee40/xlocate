@@ -1,0 +1,16 @@
+/usr/share/man/man3/Moo.3p
+/usr/share/man/man3/Moo::Role.3p
+/usr/share/man/man3/oo.3p
+/usr/share/perl5/vendor_perl/Method/Generate/Accessor.pm
+/usr/share/perl5/vendor_perl/Method/Generate/BuildAll.pm
+/usr/share/perl5/vendor_perl/Method/Generate/Constructor.pm
+/usr/share/perl5/vendor_perl/Method/Generate/DemolishAll.pm
+/usr/share/perl5/vendor_perl/Moo.pm
+/usr/share/perl5/vendor_perl/Moo/HandleMoose.pm
+/usr/share/perl5/vendor_perl/Moo/HandleMoose/FakeMetaClass.pm
+/usr/share/perl5/vendor_perl/Moo/HandleMoose/_TypeMap.pm
+/usr/share/perl5/vendor_perl/Moo/Object.pm
+/usr/share/perl5/vendor_perl/Moo/Role.pm
+/usr/share/perl5/vendor_perl/Moo/_Utils.pm
+/usr/share/perl5/vendor_perl/Moo/sification.pm
+/usr/share/perl5/vendor_perl/oo.pm

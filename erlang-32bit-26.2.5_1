@@ -1,0 +1,14 @@
+/usr/lib32/erlang/erts-14.2.5/lib/internal/liberts_internal.a
+/usr/lib32/erlang/erts-14.2.5/lib/internal/liberts_internal_r.a
+/usr/lib32/erlang/erts-14.2.5/lib/internal/libethread.a
+/usr/lib32/erlang/lib/asn1-5.2.2/priv/lib/asn1rt_nif.so
+/usr/lib32/erlang/lib/crypto-5.4.2/priv/lib/crypto.so
+/usr/lib32/erlang/lib/crypto-5.4.2/priv/lib/crypto_callback.so
+/usr/lib32/erlang/lib/crypto-5.4.2/priv/lib/otp_test_engine.so
+/usr/lib32/erlang/lib/erl_interface-5.5.1/lib/libei.a
+/usr/lib32/erlang/lib/erl_interface-5.5.1/lib/libei_st.a
+/usr/lib32/erlang/lib/runtime_tools-2.0.1/priv/lib/dyntrace.so
+/usr/lib32/erlang/lib/runtime_tools-2.0.1/priv/lib/trace_file_drv.so
+/usr/lib32/erlang/lib/runtime_tools-2.0.1/priv/lib/trace_ip_drv.so
+/usr/lib32/erlang/usr/lib/libei.a
+/usr/lib32/erlang/usr/lib/libei_st.a

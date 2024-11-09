@@ -1,0 +1,5 @@
+/usr/bin/ld.lld -> /usr/bin/lld
+/usr/bin/ld64.lld -> /usr/bin/lld
+/usr/bin/lld
+/usr/bin/lld-link -> /usr/bin/lld
+/usr/bin/wasm-ld -> /usr/bin/lld

@@ -1,0 +1,16 @@
+/usr/include/KF5/KCodecs/KCharsets
+/usr/include/KF5/KCodecs/KCodecs
+/usr/include/KF5/KCodecs/KEmailAddress
+/usr/include/KF5/KCodecs/KEncodingProber
+/usr/include/KF5/KCodecs/kcharsets.h
+/usr/include/KF5/KCodecs/kcodecs.h
+/usr/include/KF5/KCodecs/kcodecs_export.h
+/usr/include/KF5/KCodecs/kcodecs_version.h
+/usr/include/KF5/KCodecs/kemailaddress.h
+/usr/include/KF5/KCodecs/kencodingprober.h
+/usr/lib/cmake/KF5Codecs/KF5CodecsConfig.cmake
+/usr/lib/cmake/KF5Codecs/KF5CodecsConfigVersion.cmake
+/usr/lib/cmake/KF5Codecs/KF5CodecsTargets-none.cmake
+/usr/lib/cmake/KF5Codecs/KF5CodecsTargets.cmake
+/usr/lib/libKF5Codecs.so -> /usr/lib/libKF5Codecs.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KCodecs.pri

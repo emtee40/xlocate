@@ -1,0 +1,5 @@
+/etc/rsnapshot.conf
+/usr/bin/rsnapshot
+/usr/bin/rsnapshot-diff
+/usr/share/man/man1/rsnapshot-diff.1
+/usr/share/man/man1/rsnapshot.1

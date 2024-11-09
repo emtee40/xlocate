@@ -1,0 +1,17 @@
+/usr/lib/cmake/ZMusic/ZMusicConfig.cmake
+/usr/lib/cmake/ZMusic/ZMusicConfigVersion.cmake
+/usr/lib/cmake/ZMusic/ZMusicFullTargets-none.cmake
+/usr/lib/cmake/ZMusic/ZMusicFullTargets.cmake
+/usr/lib/cmake/ZMusic/ZMusicLiteTargets-none.cmake
+/usr/lib/cmake/ZMusic/ZMusicLiteTargets.cmake
+/usr/lib/libzmusic.so.1 -> /usr/lib/libzmusic.so.1.1.12
+/usr/lib/libzmusic.so.1.1.12
+/usr/lib/libzmusiclite.so.1 -> /usr/lib/libzmusiclite.so.1.1.12
+/usr/lib/libzmusiclite.so.1.1.12
+/usr/share/licenses/ZMusic/bsd.txt
+/usr/share/licenses/ZMusic/dumb.txt
+/usr/share/licenses/ZMusic/gplv3.txt
+/usr/share/licenses/ZMusic/legal.txt
+/usr/share/licenses/ZMusic/lgplv21.txt
+/usr/share/licenses/ZMusic/lgplv3.txt
+/usr/share/licenses/ZMusic/zmusic.txt

@@ -1,0 +1,22 @@
+/usr/include/KF5/purpose/Purpose/AlternativesModel
+/usr/include/KF5/purpose/Purpose/Configuration
+/usr/include/KF5/purpose/Purpose/Job
+/usr/include/KF5/purpose/Purpose/PluginBase
+/usr/include/KF5/purpose/purpose/alternativesmodel.h
+/usr/include/KF5/purpose/purpose/configuration.h
+/usr/include/KF5/purpose/purpose/job.h
+/usr/include/KF5/purpose/purpose/pluginbase.h
+/usr/include/KF5/purpose/purpose/purpose_export.h
+/usr/include/KF5/purpose/purpose_version.h
+/usr/include/KF5/purposewidgets/Purpose/Menu
+/usr/include/KF5/purposewidgets/PurposeWidgets/Menu
+/usr/include/KF5/purposewidgets/purpose/menu.h
+/usr/include/KF5/purposewidgets/purpose/purposewidgets_export.h
+/usr/include/KF5/purposewidgets/purposewidgets/menu.h
+/usr/lib/cmake/KDEExperimentalPurpose/KDEExperimentalPurposeConfig.cmake
+/usr/lib/cmake/KF5Purpose/KF5PurposeConfig.cmake
+/usr/lib/cmake/KF5Purpose/KF5PurposeConfigVersion.cmake
+/usr/lib/cmake/KF5Purpose/KF5PurposeTargets-none.cmake
+/usr/lib/cmake/KF5Purpose/KF5PurposeTargets.cmake
+/usr/lib/libKF5Purpose.so -> /usr/lib/libKF5Purpose.so.5
+/usr/lib/libKF5PurposeWidgets.so -> /usr/lib/libKF5PurposeWidgets.so.5

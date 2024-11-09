@@ -1,0 +1,10 @@
+/usr/include/rpcsvc/yp.h
+/usr/include/rpcsvc/yp.x
+/usr/include/rpcsvc/yp_prot.h
+/usr/include/rpcsvc/ypclnt.h
+/usr/include/rpcsvc/yppasswd.h
+/usr/include/rpcsvc/yppasswd.x
+/usr/include/rpcsvc/ypupd.h
+/usr/lib/libnsl.a
+/usr/lib/libnsl.so -> /usr/lib/libnsl.so.3.0.0
+/usr/lib/pkgconfig/libnsl.pc

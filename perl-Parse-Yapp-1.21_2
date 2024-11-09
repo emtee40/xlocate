@@ -1,0 +1,10 @@
+/usr/bin/yapp
+/usr/share/man/man1/yapp.1p
+/usr/share/man/man3/Parse::Yapp.3
+/usr/share/perl5/vendor_perl/Parse/Yapp.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Driver.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Grammar.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Lalr.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Options.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Output.pm
+/usr/share/perl5/vendor_perl/Parse/Yapp/Parse.pm

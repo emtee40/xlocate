@@ -1,0 +1,4 @@
+/usr/bin/obex-check-device
+/usr/lib/libopenobex.so.1.7.2
+/usr/lib/libopenobex.so.2 -> /usr/lib/libopenobex.so.1.7.2
+/usr/lib/udev/rules.d/60-openobex.rules

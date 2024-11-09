@@ -1,0 +1,11 @@
+/usr/include/gssdp-1.6/libgssdp/gssdp-client.h
+/usr/include/gssdp-1.6/libgssdp/gssdp-enums.h
+/usr/include/gssdp-1.6/libgssdp/gssdp-error.h
+/usr/include/gssdp-1.6/libgssdp/gssdp-resource-browser.h
+/usr/include/gssdp-1.6/libgssdp/gssdp-resource-group.h
+/usr/include/gssdp-1.6/libgssdp/gssdp.h
+/usr/lib/libgssdp-1.6.so -> /usr/lib/libgssdp-1.6.so.0
+/usr/lib/pkgconfig/gssdp-1.6.pc
+/usr/share/gir-1.0/GSSDP-1.6.gir
+/usr/share/vala/vapi/gssdp-1.6.deps
+/usr/share/vala/vapi/gssdp-1.6.vapi

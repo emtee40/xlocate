@@ -1,0 +1,6 @@
+/usr/lib32/com.github.alainm23.planner/plugins/caldav/libcaldav.so
+/usr/lib32/com.github.alainm23.planner/plugins/sidebar-labels/libsidebar-labels.so
+/usr/lib32/libplannercore.so -> /usr/lib32/libplannercore.so.0
+/usr/lib32/libplannercore.so.0 -> /usr/lib32/libplannercore.so.0.0
+/usr/lib32/libplannercore.so.0.0
+/usr/lib32/pkgconfig/plannercore.pc

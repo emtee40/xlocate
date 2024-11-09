@@ -1,0 +1,6 @@
+/usr/lib32/libXmu.a
+/usr/lib32/libXmu.so -> /usr/lib32/libXmu.so.6.2.0
+/usr/lib32/libXmuu.a
+/usr/lib32/libXmuu.so -> /usr/lib32/libXmuu.so.1.0.0
+/usr/lib32/pkgconfig/xmu.pc
+/usr/lib32/pkgconfig/xmuu.pc

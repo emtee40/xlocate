@@ -1,0 +1,5 @@
+/usr/bin/rpiboot
+/usr/share/rpiboot/bootcode.bin
+/usr/share/rpiboot/bootcode4.bin
+/usr/share/rpiboot/start.elf
+/usr/share/rpiboot/start4.elf

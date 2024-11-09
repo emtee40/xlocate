@@ -1,0 +1,19 @@
+/usr/include/raqm-version.h
+/usr/include/raqm.h
+/usr/lib/libraqm.a
+/usr/lib/libraqm.so -> /usr/lib/libraqm.so.0.700.0
+/usr/lib/pkgconfig/raqm.pc
+/usr/share/gtk-doc/html/raqm/annotation-glossary.html
+/usr/share/gtk-doc/html/raqm/api-index-full.html
+/usr/share/gtk-doc/html/raqm/ch01.html
+/usr/share/gtk-doc/html/raqm/home.png
+/usr/share/gtk-doc/html/raqm/index.html
+/usr/share/gtk-doc/html/raqm/left-insensitive.png
+/usr/share/gtk-doc/html/raqm/left.png
+/usr/share/gtk-doc/html/raqm/raqm-Raqm.html
+/usr/share/gtk-doc/html/raqm/raqm.devhelp2
+/usr/share/gtk-doc/html/raqm/right-insensitive.png
+/usr/share/gtk-doc/html/raqm/right.png
+/usr/share/gtk-doc/html/raqm/style.css
+/usr/share/gtk-doc/html/raqm/up-insensitive.png
+/usr/share/gtk-doc/html/raqm/up.png

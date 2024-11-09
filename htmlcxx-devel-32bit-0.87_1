@@ -1,0 +1,4 @@
+/usr/lib32/libcss_parser.so -> /usr/lib32/libcss_parser.so.0.0.0
+/usr/lib32/libcss_parser_pp.so -> /usr/lib32/libcss_parser_pp.so.0.0.0
+/usr/lib32/libhtmlcxx.so -> /usr/lib32/libhtmlcxx.so.3.1.0
+/usr/lib32/pkgconfig/htmlcxx.pc

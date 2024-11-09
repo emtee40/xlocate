@@ -1,0 +1,4 @@
+/usr/include/opendkim/dkim.h
+/usr/lib/libopendkim.a
+/usr/lib/libopendkim.so -> /usr/lib/libopendkim.so.10.0.3
+/usr/lib/pkgconfig/opendkim.pc

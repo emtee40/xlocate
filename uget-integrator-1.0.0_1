@@ -1,0 +1,4 @@
+/etc/chromium/native-messaging-hosts/com.ugetdm.chrome.json
+/etc/opt/chrome/native-messaging-hosts/com.ugetdm.chrome.json
+/usr/bin/uget-integrator
+/usr/lib/mozilla/native-messaging-hosts/com.ugetdm.firefox.json

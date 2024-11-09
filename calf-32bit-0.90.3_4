@@ -1,0 +1,4 @@
+/usr/lib32/calf/calf.a
+/usr/lib32/calf/calf.so
+/usr/lib32/lv2/calf.lv2/calf.so -> /usr/lib32/calf/calf.so
+/usr/lib32/lv2/calf.lv2/calflv2gui.so

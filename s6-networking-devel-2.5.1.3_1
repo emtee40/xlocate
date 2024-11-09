@@ -1,0 +1,7 @@
+/usr/include/s6-networking/config.h
+/usr/include/s6-networking/ident.h
+/usr/include/s6-networking/s6net.h
+/usr/include/s6-networking/sbearssl.h
+/usr/include/s6-networking/stls.h
+/usr/lib/libs6net.a
+/usr/lib/libsbearssl.a

@@ -1,0 +1,3 @@
+/usr/lib/udev/hid2hci
+/usr/lib/udev/rules.d/97-hid2hci.rules
+/usr/share/man/man1/hid2hci.1

@@ -1,0 +1,9 @@
+/etc/radvd.conf
+/etc/sv/radvd/run
+/etc/sv/radvd/supervise -> /run/runit/supervise.radvd
+/usr/bin/radvd
+/usr/bin/radvdump
+/usr/share/licenses/radvd/LICENSE
+/usr/share/man/man5/radvd.conf.5
+/usr/share/man/man8/radvd.8
+/usr/share/man/man8/radvdump.8

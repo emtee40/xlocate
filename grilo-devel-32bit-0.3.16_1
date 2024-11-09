@@ -1,0 +1,6 @@
+/usr/lib32/libgrilo-0.3.so -> /usr/lib32/libgrilo-0.3.so.0
+/usr/lib32/libgrlnet-0.3.so -> /usr/lib32/libgrlnet-0.3.so.0
+/usr/lib32/libgrlpls-0.3.so -> /usr/lib32/libgrlpls-0.3.so.0
+/usr/lib32/pkgconfig/grilo-0.3.pc
+/usr/lib32/pkgconfig/grilo-net-0.3.pc
+/usr/lib32/pkgconfig/grilo-pls-0.3.pc

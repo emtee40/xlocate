@@ -1,0 +1,30 @@
+/usr/lib32/libobs-frontend-api.so.0 -> /usr/lib32/libobs-frontend-api.so.30
+/usr/lib32/libobs-frontend-api.so.30
+/usr/lib32/libobs-opengl.so.1 -> /usr/lib32/libobs-opengl.so.30
+/usr/lib32/libobs-opengl.so.30
+/usr/lib32/libobs-scripting.so.1 -> /usr/lib32/libobs-scripting.so.30
+/usr/lib32/libobs-scripting.so.30
+/usr/lib32/libobs.so.0 -> /usr/lib32/libobs.so.30
+/usr/lib32/libobs.so.30
+/usr/lib32/obs-plugins/decklink-captions.so
+/usr/lib32/obs-plugins/decklink-output-ui.so
+/usr/lib32/obs-plugins/decklink.so
+/usr/lib32/obs-plugins/frontend-tools.so
+/usr/lib32/obs-plugins/image-source.so
+/usr/lib32/obs-plugins/linux-alsa.so
+/usr/lib32/obs-plugins/linux-capture.so
+/usr/lib32/obs-plugins/linux-jack.so
+/usr/lib32/obs-plugins/linux-pipewire.so
+/usr/lib32/obs-plugins/linux-pulseaudio.so
+/usr/lib32/obs-plugins/linux-v4l2.so
+/usr/lib32/obs-plugins/obs-ffmpeg.so
+/usr/lib32/obs-plugins/obs-filters.so
+/usr/lib32/obs-plugins/obs-outputs.so
+/usr/lib32/obs-plugins/obs-transitions.so
+/usr/lib32/obs-plugins/obs-webrtc.so
+/usr/lib32/obs-plugins/obs-x264.so
+/usr/lib32/obs-plugins/rtmp-services.so
+/usr/lib32/obs-plugins/text-freetype2.so
+/usr/lib32/obs-plugins/vlc-video.so
+/usr/lib32/obs-scripting/_obspython.so
+/usr/lib32/obs-scripting/obslua.so

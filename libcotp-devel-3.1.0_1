@@ -1,0 +1,3 @@
+/usr/include/cotp.h
+/usr/lib/libcotp.so -> /usr/lib/libcotp.so.3
+/usr/lib/pkgconfig/cotp.pc

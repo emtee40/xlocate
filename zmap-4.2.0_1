@@ -1,0 +1,10 @@
+/etc/zmap/blocklist.conf
+/etc/zmap/zmap.conf
+/usr/bin/zblocklist
+/usr/bin/ziterate
+/usr/bin/zmap
+/usr/bin/ztee
+/usr/share/man/man1/zblocklist.1
+/usr/share/man/man1/ziterate.1
+/usr/share/man/man1/zmap.1
+/usr/share/man/man1/ztee.1

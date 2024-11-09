@@ -1,0 +1,6 @@
+/usr/lib32/libspeechd.so.2 -> /usr/lib32/libspeechd.so.2.6.0
+/usr/lib32/libspeechd.so.2.6.0
+/usr/lib32/speech-dispatcher/spd_alsa.so
+/usr/lib32/speech-dispatcher/spd_libao.so
+/usr/lib32/speech-dispatcher/spd_oss.so
+/usr/lib32/speech-dispatcher/spd_pulse.so

@@ -1,0 +1,6 @@
+/usr/lib32/libnih-dbus.a
+/usr/lib32/libnih-dbus.so -> /usr/lib32/libnih-dbus.so.1.0.0
+/usr/lib32/libnih.a
+/usr/lib32/libnih.so -> /usr/lib32/libnih.so.1.0.0
+/usr/lib32/pkgconfig/libnih-dbus.pc
+/usr/lib32/pkgconfig/libnih.pc

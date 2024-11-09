@@ -1,0 +1,3 @@
+/usr/lib32/liblhasa.a
+/usr/lib32/liblhasa.so -> /usr/lib32/liblhasa.so.0.0.0
+/usr/lib32/pkgconfig/liblhasa.pc

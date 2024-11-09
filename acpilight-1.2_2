@@ -1,0 +1,3 @@
+/usr/bin/xbacklight
+/usr/lib/udev/rules.d/90-backlight.rules
+/usr/share/man/man1/xbacklight.1

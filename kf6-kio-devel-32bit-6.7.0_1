@@ -1,0 +1,4 @@
+/usr/lib32/libKF6KIOCore.so -> /usr/lib32/libKF6KIOCore.so.6
+/usr/lib32/libKF6KIOFileWidgets.so -> /usr/lib32/libKF6KIOFileWidgets.so.6
+/usr/lib32/libKF6KIOGui.so -> /usr/lib32/libKF6KIOGui.so.6
+/usr/lib32/libKF6KIOWidgets.so -> /usr/lib32/libKF6KIOWidgets.so.6

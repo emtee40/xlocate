@@ -1,0 +1,4 @@
+/usr/include/libnsbmp.h
+/usr/lib/libnsbmp.a
+/usr/lib/libnsbmp.so -> /usr/lib/libnsbmp.so.0.1.7
+/usr/lib/pkgconfig/libnsbmp.pc

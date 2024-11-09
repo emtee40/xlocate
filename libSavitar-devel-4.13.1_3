@@ -1,0 +1,18 @@
+/usr/include/Savitar/Face.h
+/usr/include/Savitar/MeshData.h
+/usr/include/Savitar/Namespace.h
+/usr/include/Savitar/SavitarExport.h
+/usr/include/Savitar/Scene.h
+/usr/include/Savitar/SceneNode.h
+/usr/include/Savitar/ThreeMFParser.h
+/usr/include/Savitar/Types.h
+/usr/include/Savitar/Vertex.h
+/usr/include/pugiconfig.hpp
+/usr/include/pugixml.hpp
+/usr/lib/cmake/Savitar/Savitar-targets-none.cmake
+/usr/lib/cmake/Savitar/Savitar-targets.cmake
+/usr/lib/cmake/Savitar/SavitarConfig.cmake
+/usr/lib/cmake/Savitar/SavitarConfigVersion.cmake
+/usr/lib/cmake/pugixml/pugixml-config-none.cmake
+/usr/lib/cmake/pugixml/pugixml-config.cmake
+/usr/lib/libSavitar.so -> /usr/lib/libSavitar.so.0

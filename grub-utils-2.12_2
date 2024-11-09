@@ -1,0 +1,3 @@
+/usr/bin/grub-fstest
+/usr/bin/grub-menulst2cfg
+/usr/bin/grub-mkfont

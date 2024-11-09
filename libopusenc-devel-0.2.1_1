@@ -1,0 +1,4 @@
+/usr/include/opus/opusenc.h
+/usr/lib/libopusenc.a
+/usr/lib/libopusenc.so -> /usr/lib/libopusenc.so.0.4.2
+/usr/lib/pkgconfig/libopusenc.pc

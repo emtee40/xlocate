@@ -1,0 +1,4 @@
+/usr/lib32/libQt5WaylandClient.so -> /usr/lib32/libQt5WaylandClient.so.5.15.11
+/usr/lib32/libQt5WaylandCompositor.so -> /usr/lib32/libQt5WaylandCompositor.so.5.15.11
+/usr/lib32/pkgconfig/Qt5WaylandClient.pc
+/usr/lib32/pkgconfig/Qt5WaylandCompositor.pc

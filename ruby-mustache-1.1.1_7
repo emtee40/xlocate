@@ -1,0 +1,15 @@
+/usr/bin/mustache
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/context.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/context_miss.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/enumerable.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/generator.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/parser.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/settings.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/template.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/utils.rb
+/usr/lib/ruby/gems/3.3.0/gems/mustache-1.1.1/lib/mustache/version.rb
+/usr/lib/ruby/gems/3.3.0/specifications/mustache-1.1.1.gemspec
+/usr/share/licenses/ruby-mustache/LICENSE
+/usr/share/man/man1/mustache.1
+/usr/share/man/man5/mustache.5

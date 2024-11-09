@@ -1,0 +1,26 @@
+/usr/include/libmirage-3.2/mirage/cdtext-coder.h
+/usr/include/libmirage-3.2/mirage/context.h
+/usr/include/libmirage-3.2/mirage/contextual.h
+/usr/include/libmirage-3.2/mirage/debug.h
+/usr/include/libmirage-3.2/mirage/disc.h
+/usr/include/libmirage-3.2/mirage/error.h
+/usr/include/libmirage-3.2/mirage/file-stream.h
+/usr/include/libmirage-3.2/mirage/filter-stream.h
+/usr/include/libmirage-3.2/mirage/fragment.h
+/usr/include/libmirage-3.2/mirage/index.h
+/usr/include/libmirage-3.2/mirage/language.h
+/usr/include/libmirage-3.2/mirage/mirage.h
+/usr/include/libmirage-3.2/mirage/object.h
+/usr/include/libmirage-3.2/mirage/parser.h
+/usr/include/libmirage-3.2/mirage/plugin.h
+/usr/include/libmirage-3.2/mirage/sector.h
+/usr/include/libmirage-3.2/mirage/session.h
+/usr/include/libmirage-3.2/mirage/stream.h
+/usr/include/libmirage-3.2/mirage/track.h
+/usr/include/libmirage-3.2/mirage/types.h
+/usr/include/libmirage-3.2/mirage/utils.h
+/usr/include/libmirage-3.2/mirage/version.h
+/usr/include/libmirage-3.2/mirage/writer.h
+/usr/lib/libmirage.so -> /usr/lib/libmirage.so.11
+/usr/lib/pkgconfig/libmirage.pc
+/usr/share/gir-1.0/Mirage-3.2.gir

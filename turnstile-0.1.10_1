@@ -1,0 +1,20 @@
+/etc/dinit.d/turnstiled
+/etc/pam.d/turnstiled
+/etc/sv/turnstiled/log/run
+/etc/sv/turnstiled/log/supervise -> /run/runit/supervise.turnstiled-log
+/etc/sv/turnstiled/run
+/etc/sv/turnstiled/supervise -> /run/runit/supervise.turnstiled
+/etc/turnstile/backend/dinit.conf
+/etc/turnstile/backend/runit.conf
+/etc/turnstile/turnstiled.conf
+/usr/bin/turnstile-update-runit-env
+/usr/bin/turnstiled
+/usr/lib/security/pam_turnstile.so
+/usr/libexec/turnstile/dinit
+/usr/libexec/turnstile/runit
+/usr/share/doc/turnstile/README.voidlinux
+/usr/share/examples/turnstile/dbus.run
+/usr/share/licenses/turnstile/COPYING.md
+/usr/share/man/man5/turnstiled.conf.5
+/usr/share/man/man8/pam_turnstile.8
+/usr/share/man/man8/turnstiled.8

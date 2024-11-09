@@ -1,0 +1,11 @@
+/usr/bin/acceleration_speed
+/usr/bin/bjoentegaard
+/usr/bin/block-rate-estim
+/usr/bin/dec265
+/usr/bin/gen-enc-table
+/usr/bin/hdrcopy
+/usr/bin/rd-curves
+/usr/bin/tests
+/usr/bin/yuv-distortion
+/usr/lib/libde265.so.0 -> /usr/lib/libde265.so.0.1.5
+/usr/lib/libde265.so.0.1.5

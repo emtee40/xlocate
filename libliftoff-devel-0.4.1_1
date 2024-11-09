@@ -1,0 +1,3 @@
+/usr/include/libliftoff.h
+/usr/lib/libliftoff.so -> /usr/lib/libliftoff.so.0
+/usr/lib/pkgconfig/libliftoff.pc

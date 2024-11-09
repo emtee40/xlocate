@@ -1,0 +1,3 @@
+/usr/lib32/liblz4.a
+/usr/lib32/liblz4.so -> /usr/lib32/liblz4.so.1.9.4
+/usr/lib32/pkgconfig/liblz4.pc

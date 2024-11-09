@@ -1,0 +1,19 @@
+/usr/lib32/libkmlbase.so -> /usr/lib32/libkmlbase.so.1
+/usr/lib32/libkmlbase.so.1 -> /usr/lib32/libkmlbase.so.1.3.0
+/usr/lib32/libkmlbase.so.1.3.0
+/usr/lib32/libkmlconvenience.so -> /usr/lib32/libkmlconvenience.so.1
+/usr/lib32/libkmlconvenience.so.1 -> /usr/lib32/libkmlconvenience.so.1.3.0
+/usr/lib32/libkmlconvenience.so.1.3.0
+/usr/lib32/libkmldom.so -> /usr/lib32/libkmldom.so.1
+/usr/lib32/libkmldom.so.1 -> /usr/lib32/libkmldom.so.1.3.0
+/usr/lib32/libkmldom.so.1.3.0
+/usr/lib32/libkmlengine.so -> /usr/lib32/libkmlengine.so.1
+/usr/lib32/libkmlengine.so.1 -> /usr/lib32/libkmlengine.so.1.3.0
+/usr/lib32/libkmlengine.so.1.3.0
+/usr/lib32/libkmlregionator.so -> /usr/lib32/libkmlregionator.so.1
+/usr/lib32/libkmlregionator.so.1 -> /usr/lib32/libkmlregionator.so.1.3.0
+/usr/lib32/libkmlregionator.so.1.3.0
+/usr/lib32/libkmlxsd.so -> /usr/lib32/libkmlxsd.so.1
+/usr/lib32/libkmlxsd.so.1 -> /usr/lib32/libkmlxsd.so.1.3.0
+/usr/lib32/libkmlxsd.so.1.3.0
+/usr/lib32/pkgconfig/libkml.pc

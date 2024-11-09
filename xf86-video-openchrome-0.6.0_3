@@ -1,0 +1,9 @@
+/usr/lib/libchromeXvMC.so -> /usr/lib/libchromeXvMC.so.1.0.0
+/usr/lib/libchromeXvMC.so.1 -> /usr/lib/libchromeXvMC.so.1.0.0
+/usr/lib/libchromeXvMC.so.1.0.0
+/usr/lib/libchromeXvMCPro.so -> /usr/lib/libchromeXvMCPro.so.1.0.0
+/usr/lib/libchromeXvMCPro.so.1 -> /usr/lib/libchromeXvMCPro.so.1.0.0
+/usr/lib/libchromeXvMCPro.so.1.0.0
+/usr/lib/xorg/modules/drivers/openchrome_drv.so
+/usr/share/licenses/xf86-video-openchrome/COPYING
+/usr/share/man/man4/openchrome.4

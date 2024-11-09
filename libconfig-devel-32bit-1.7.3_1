@@ -1,0 +1,3 @@
+/usr/lib32/libconfig.a
+/usr/lib32/libconfig.so -> /usr/lib32/libconfig.so.11.1.0
+/usr/lib32/pkgconfig/libconfig.pc

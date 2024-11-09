@@ -1,0 +1,12 @@
+/usr/lib32/libQt63DAnimation.so -> /usr/lib32/libQt63DAnimation.so.6
+/usr/lib32/libQt63DCore.so -> /usr/lib32/libQt63DCore.so.6
+/usr/lib32/libQt63DExtras.so -> /usr/lib32/libQt63DExtras.so.6
+/usr/lib32/libQt63DInput.so -> /usr/lib32/libQt63DInput.so.6
+/usr/lib32/libQt63DLogic.so -> /usr/lib32/libQt63DLogic.so.6
+/usr/lib32/libQt63DQuick.so -> /usr/lib32/libQt63DQuick.so.6
+/usr/lib32/libQt63DQuickAnimation.so -> /usr/lib32/libQt63DQuickAnimation.so.6
+/usr/lib32/libQt63DQuickExtras.so -> /usr/lib32/libQt63DQuickExtras.so.6
+/usr/lib32/libQt63DQuickInput.so -> /usr/lib32/libQt63DQuickInput.so.6
+/usr/lib32/libQt63DQuickRender.so -> /usr/lib32/libQt63DQuickRender.so.6
+/usr/lib32/libQt63DQuickScene2D.so -> /usr/lib32/libQt63DQuickScene2D.so.6
+/usr/lib32/libQt63DRender.so -> /usr/lib32/libQt63DRender.so.6

@@ -1,0 +1,29 @@
+/etc/iscsi/initiatorname.iscsi
+/etc/iscsi/iscsid.conf
+/etc/logrotate.d/iscsiuiolog
+/etc/sv/iscsid/log/run
+/etc/sv/iscsid/log/supervise -> /run/runit/supervise.iscsid-log
+/etc/sv/iscsid/run
+/etc/sv/iscsid/supervise -> /run/runit/supervise.iscsid
+/usr/bin/brcm_iscsiuio -> /usr/bin/iscsiuio
+/usr/bin/iscsi-gen-initiatorname
+/usr/bin/iscsi-iname
+/usr/bin/iscsi_discovery
+/usr/bin/iscsi_fw_login
+/usr/bin/iscsi_offload
+/usr/bin/iscsiadm
+/usr/bin/iscsid
+/usr/bin/iscsistart
+/usr/bin/iscsiuio
+/usr/lib/libopeniscsiusr.so.0 -> /usr/lib/libopeniscsiusr.so.0.2.0
+/usr/lib/libopeniscsiusr.so.0.2.0
+/usr/lib/udev/rules.d/50-iscsi-firmware-login.rules
+/usr/share/examples/open-iscsi/iface.example
+/usr/share/man/man8/iscsi-gen-initiatorname.8
+/usr/share/man/man8/iscsi-iname.8
+/usr/share/man/man8/iscsi_discovery.8
+/usr/share/man/man8/iscsi_fw_login.8
+/usr/share/man/man8/iscsiadm.8
+/usr/share/man/man8/iscsid.8
+/usr/share/man/man8/iscsistart.8
+/usr/share/man/man8/iscsiuio.8

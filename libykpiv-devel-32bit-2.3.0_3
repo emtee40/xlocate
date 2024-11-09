@@ -1,0 +1,3 @@
+/usr/lib32/libykpiv.a
+/usr/lib32/libykpiv.so -> /usr/lib32/libykpiv.so.2
+/usr/lib32/pkgconfig/ykpiv.pc

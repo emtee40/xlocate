@@ -1,0 +1,4 @@
+/usr/include/ndp.h
+/usr/lib/libndp.a
+/usr/lib/libndp.so -> /usr/lib/libndp.so.0.2.0
+/usr/lib/pkgconfig/libndp.pc

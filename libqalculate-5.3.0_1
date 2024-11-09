@@ -1,0 +1,21 @@
+/usr/lib/libqalculate.so.23 -> /usr/lib/libqalculate.so.23.3.0
+/usr/lib/libqalculate.so.23.3.0
+/usr/share/locale/ca/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/de/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/es/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/fr/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/ka/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/nl/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/ru/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/sv/LC_MESSAGES/libqalculate.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/libqalculate.mo
+/usr/share/qalculate/currencies.xml
+/usr/share/qalculate/datasets.xml
+/usr/share/qalculate/elements.xml
+/usr/share/qalculate/eurofxref-daily.xml
+/usr/share/qalculate/functions.xml
+/usr/share/qalculate/planets.xml
+/usr/share/qalculate/prefixes.xml
+/usr/share/qalculate/rates.json
+/usr/share/qalculate/units.xml
+/usr/share/qalculate/variables.xml

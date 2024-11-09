@@ -1,0 +1,9 @@
+/usr/include/editorconfig/editorconfig.h
+/usr/include/editorconfig/editorconfig_handle.h
+/usr/lib/cmake/EditorConfig/EditorConfigConfig.cmake
+/usr/lib/cmake/EditorConfig/EditorConfigConfigVersion.cmake
+/usr/lib/cmake/EditorConfig/EditorConfigTargets-none.cmake
+/usr/lib/cmake/EditorConfig/EditorConfigTargets.cmake
+/usr/lib/libeditorconfig.so -> /usr/lib/libeditorconfig.so.0
+/usr/lib/libeditorconfig_static.a
+/usr/lib/pkgconfig/editorconfig.pc

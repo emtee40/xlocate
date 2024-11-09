@@ -1,0 +1,46 @@
+/usr/bin/ampctl
+/usr/bin/ampctld
+/usr/bin/rigctl
+/usr/bin/rigctlcom
+/usr/bin/rigctld
+/usr/bin/rigmem
+/usr/bin/rigsmtr
+/usr/bin/rigswr
+/usr/bin/rigtestlibusb
+/usr/bin/rotctl
+/usr/bin/rotctld
+/usr/lib/libhamlib++.so.4 -> /usr/lib/libhamlib++.so.4.0.6
+/usr/lib/libhamlib++.so.4.0.6
+/usr/lib/libhamlib.so.4 -> /usr/lib/libhamlib.so.4.0.6
+/usr/lib/libhamlib.so.4.0.6
+/usr/lib/perl5/site_perl/Hamlib.pm
+/usr/lib/perl5/site_perl/auto/Hamlib/Hamlib.so
+/usr/lib/perl5/site_perl/perltest.pl
+/usr/lib/python3.12/site-packages/Hamlib.py
+/usr/lib/python3.12/site-packages/_Hamlib.so
+/usr/lib/tcl/Hamlib/hamlibtcl-4.6.so
+/usr/lib/tcl/Hamlib/hamlibtcl.so -> /usr/lib/tcl/Hamlib/hamlibtcl-4.6.so
+/usr/lib/tcl/Hamlib/pkgIndex.tcl
+/usr/share/doc/hamlib/COPYING
+/usr/share/doc/hamlib/COPYING.LIB
+/usr/share/doc/hamlib/ChangeLog
+/usr/share/doc/hamlib/LICENSE
+/usr/share/doc/hamlib/README
+/usr/share/doc/hamlib/README.betatester
+/usr/share/doc/hamlib/README.developer
+/usr/share/doc/hamlib/examples/perltest.pl
+/usr/share/doc/hamlib/examples/py3test.py
+/usr/share/doc/hamlib/examples/tcltest.tcl
+/usr/share/man/man1/ampctl.1
+/usr/share/man/man1/ampctld.1
+/usr/share/man/man1/rigctl.1
+/usr/share/man/man1/rigctlcom.1
+/usr/share/man/man1/rigctld.1
+/usr/share/man/man1/rigmem.1
+/usr/share/man/man1/rigsmtr.1
+/usr/share/man/man1/rigswr.1
+/usr/share/man/man1/rotctl.1
+/usr/share/man/man1/rotctld.1
+/usr/share/man/man7/hamlib-primer.7
+/usr/share/man/man7/hamlib-utilities.7
+/usr/share/man/man7/hamlib.7

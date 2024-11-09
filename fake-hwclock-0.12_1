@@ -1,0 +1,7 @@
+/etc/cron.hourly/fake-hwclock
+/etc/default/fake-hwclock
+/etc/sv/fake-hwclock/finish
+/etc/sv/fake-hwclock/run
+/etc/sv/fake-hwclock/supervise -> /run/runit/supervise.fake-hwclock
+/usr/bin/fake-hwclock
+/usr/share/man/man8/fake-hwclock.8

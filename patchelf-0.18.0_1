@@ -1,0 +1,4 @@
+/usr/bin/patchelf
+/usr/share/doc/patchelf/README.md
+/usr/share/man/man1/patchelf.1
+/usr/share/zsh/site-functions/_patchelf

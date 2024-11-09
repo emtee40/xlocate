@@ -1,0 +1,23 @@
+/usr/include/KF6/KDNSSD/KDNSSD/DomainBrowser
+/usr/include/KF6/KDNSSD/KDNSSD/DomainModel
+/usr/include/KF6/KDNSSD/KDNSSD/PublicService
+/usr/include/KF6/KDNSSD/KDNSSD/RemoteService
+/usr/include/KF6/KDNSSD/KDNSSD/ServiceBase
+/usr/include/KF6/KDNSSD/KDNSSD/ServiceBrowser
+/usr/include/KF6/KDNSSD/KDNSSD/ServiceModel
+/usr/include/KF6/KDNSSD/KDNSSD/ServiceTypeBrowser
+/usr/include/KF6/KDNSSD/kdnssd/domainbrowser.h
+/usr/include/KF6/KDNSSD/kdnssd/domainmodel.h
+/usr/include/KF6/KDNSSD/kdnssd/kdnssd_export.h
+/usr/include/KF6/KDNSSD/kdnssd/publicservice.h
+/usr/include/KF6/KDNSSD/kdnssd/remoteservice.h
+/usr/include/KF6/KDNSSD/kdnssd/servicebase.h
+/usr/include/KF6/KDNSSD/kdnssd/servicebrowser.h
+/usr/include/KF6/KDNSSD/kdnssd/servicemodel.h
+/usr/include/KF6/KDNSSD/kdnssd/servicetypebrowser.h
+/usr/include/KF6/KDNSSD/kdnssd_version.h
+/usr/lib/cmake/KF6DNSSD/KF6DNSSDConfig.cmake
+/usr/lib/cmake/KF6DNSSD/KF6DNSSDConfigVersion.cmake
+/usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-none.cmake
+/usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets.cmake
+/usr/lib/libKF6DNSSD.so -> /usr/lib/libKF6DNSSD.so.6

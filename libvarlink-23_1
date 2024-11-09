@@ -1,0 +1,6 @@
+/usr/bin/varlink
+/usr/lib/libvarlink.so.0
+/usr/share/bash-completion/completions/varlink
+/usr/share/vim/vimfiles/after/ftdetect/varlink.vim
+/usr/share/vim/vimfiles/after/ftplugin/varlink.vim
+/usr/share/vim/vimfiles/after/syntax/varlink.vim

@@ -1,0 +1,11 @@
+/etc/ntpd.conf
+/etc/sv/openntpd/log/run
+/etc/sv/openntpd/log/supervise -> /run/runit/supervise.openntpd-log
+/etc/sv/openntpd/run
+/etc/sv/openntpd/supervise -> /run/runit/supervise.openntpd
+/usr/bin/ntpctl -> /usr/bin/openntpd
+/usr/bin/openntpd
+/usr/share/licenses/openntpd/COPYING
+/usr/share/man/man5/ntpd.conf.5
+/usr/share/man/man8/ntpctl.8
+/usr/share/man/man8/openntpd.8

@@ -1,0 +1,14 @@
+/usr/include/utarray.h
+/usr/include/uthash.h
+/usr/include/utlist.h
+/usr/include/utringbuffer.h
+/usr/include/utstack.h
+/usr/include/utstring.h
+/usr/share/doc/uthash/ChangeLog.txt
+/usr/share/doc/uthash/userguide.txt
+/usr/share/doc/uthash/utarray.txt
+/usr/share/doc/uthash/utlist.txt
+/usr/share/doc/uthash/utringbuffer.txt
+/usr/share/doc/uthash/utstack.txt
+/usr/share/doc/uthash/utstring.txt
+/usr/share/licenses/uthash/LICENSE

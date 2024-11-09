@@ -1,0 +1,4 @@
+/usr/include/tlsh/tlsh.h
+/usr/include/tlsh/tlsh_version.h
+/usr/lib/libtlsh.a
+/usr/lib/libtlsh.so -> /usr/lib/libtlsh.so.4

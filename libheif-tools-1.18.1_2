@@ -1,0 +1,9 @@
+/usr/bin/heif-dec
+/usr/bin/heif-enc
+/usr/bin/heif-info
+/usr/bin/heif-thumbnailer
+/usr/share/man/man1/heif-dec.1
+/usr/share/man/man1/heif-enc.1
+/usr/share/man/man1/heif-info.1
+/usr/share/man/man1/heif-thumbnailer.1
+/usr/share/thumbnailers/heif.thumbnailer

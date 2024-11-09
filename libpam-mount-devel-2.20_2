@@ -1,0 +1,3 @@
+/usr/include/libcryptmount.h
+/usr/lib/libcryptmount.so -> /usr/lib/libcryptmount.so.0.0.0
+/usr/lib/pkgconfig/libcryptmount.pc

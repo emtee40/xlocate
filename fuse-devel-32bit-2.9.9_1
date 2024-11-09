@@ -1,0 +1,5 @@
+/usr/lib32/libfuse.a
+/usr/lib32/libfuse.so -> /usr/lib32/libfuse.so.2.9.9
+/usr/lib32/libulockmgr.a
+/usr/lib32/libulockmgr.so -> /usr/lib32/libulockmgr.so.1.0.1
+/usr/lib32/pkgconfig/fuse.pc

@@ -1,0 +1,8 @@
+/usr/include/libavc1394/avc1394.h
+/usr/include/libavc1394/avc1394_vcr.h
+/usr/include/libavc1394/rom1394.h
+/usr/lib/libavc1394.a
+/usr/lib/libavc1394.so -> /usr/lib/libavc1394.so.0.3.0
+/usr/lib/librom1394.a
+/usr/lib/librom1394.so -> /usr/lib/librom1394.so.0.3.0
+/usr/lib/pkgconfig/libavc1394.pc

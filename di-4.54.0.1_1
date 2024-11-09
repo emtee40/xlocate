@@ -1,0 +1,4 @@
+/usr/bin/di
+/usr/bin/mi -> /destdir/di-4.54.0.1/usr/bin/di
+/usr/share/licenses/di/LICENSE
+/usr/share/man/man1/di.1

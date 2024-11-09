@@ -1,0 +1,14 @@
+/usr/bin/ssoma
+/usr/bin/ssoma-mda
+/usr/bin/ssoma-rm
+/usr/share/licenses/ssoma/COPYING
+/usr/share/man/man1/ssoma-mda.1
+/usr/share/man/man1/ssoma-rm.1
+/usr/share/man/man1/ssoma.1
+/usr/share/man/man5/ssoma_repository.5
+/usr/share/perl5/vendor_perl/Ssoma/Extractor.pm
+/usr/share/perl5/vendor_perl/Ssoma/Git.pm
+/usr/share/perl5/vendor_perl/Ssoma/GitIndexInfo.pm
+/usr/share/perl5/vendor_perl/Ssoma/IMAP.pm
+/usr/share/perl5/vendor_perl/Ssoma/MDA.pm
+/usr/share/perl5/vendor_perl/Ssoma/Remover.pm

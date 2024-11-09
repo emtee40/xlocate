@@ -1,0 +1,16 @@
+/usr/include/tweeny/dispatcher.h
+/usr/include/tweeny/easing.h
+/usr/include/tweeny/easingresolve.h
+/usr/include/tweeny/int2type.h
+/usr/include/tweeny/tween.h
+/usr/include/tweeny/tween.tcc
+/usr/include/tweeny/tweenone.tcc
+/usr/include/tweeny/tweenpoint.h
+/usr/include/tweeny/tweenpoint.tcc
+/usr/include/tweeny/tweentraits.h
+/usr/include/tweeny/tweeny.h
+/usr/include/tweeny/tweeny.tcc
+/usr/lib/cmake/Tweeny/TweenyConfig.cmake
+/usr/lib/cmake/Tweeny/TweenyConfigVersion.cmake
+/usr/lib/cmake/Tweeny/TweenyTargets.cmake
+/usr/share/licenses/tweeny/LICENSE

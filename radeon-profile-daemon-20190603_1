@@ -1,0 +1,3 @@
+/etc/sv/radeon-profile-daemon/run
+/etc/sv/radeon-profile-daemon/supervise -> /run/runit/supervise.radeon-profile-daemon
+/usr/bin/radeon-profile-daemon

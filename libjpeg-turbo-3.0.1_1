@@ -1,0 +1,9 @@
+/usr/lib/cmake/libjpeg-turbo/libjpeg-turboConfig.cmake
+/usr/lib/cmake/libjpeg-turbo/libjpeg-turboConfigVersion.cmake
+/usr/lib/cmake/libjpeg-turbo/libjpeg-turboTargets-none.cmake
+/usr/lib/cmake/libjpeg-turbo/libjpeg-turboTargets.cmake
+/usr/lib/libjpeg.so.8 -> /usr/lib/libjpeg.so.8.3.2
+/usr/lib/libjpeg.so.8.3.2
+/usr/lib/libturbojpeg.so.0 -> /usr/lib/libturbojpeg.so.0.3.0
+/usr/lib/libturbojpeg.so.0.3.0
+/usr/share/licenses/libjpeg-turbo/LICENSE.md

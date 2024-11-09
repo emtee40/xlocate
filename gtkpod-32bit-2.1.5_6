@@ -1,0 +1,28 @@
+/usr/lib32/gtkpod/libclarity.so
+/usr/lib32/gtkpod/libcore_prefs.so
+/usr/lib32/gtkpod/libcover_display.so
+/usr/lib32/gtkpod/libdetails_editor.so
+/usr/lib32/gtkpod/libexporter.so
+/usr/lib32/gtkpod/libexternal_player.so
+/usr/lib32/gtkpod/libfiletype_flac.so
+/usr/lib32/gtkpod/libfiletype_m4a.so
+/usr/lib32/gtkpod/libfiletype_mp3.so
+/usr/lib32/gtkpod/libfiletype_mp4.so
+/usr/lib32/gtkpod/libfiletype_ogg.so
+/usr/lib32/gtkpod/libfiletype_video.so
+/usr/lib32/gtkpod/libfiletype_wav.so
+/usr/lib32/gtkpod/libinfo_display.so
+/usr/lib32/gtkpod/libmedia_player.so
+/usr/lib32/gtkpod/libmserv.so
+/usr/lib32/gtkpod/libphoto_editor.so
+/usr/lib32/gtkpod/libplaylist_display.so
+/usr/lib32/gtkpod/librepository_editor.so
+/usr/lib32/gtkpod/libsorttab_display.so
+/usr/lib32/gtkpod/libtrack_display.so
+/usr/lib32/libatomicparsley.so -> /usr/lib32/libatomicparsley.so.0.0.1
+/usr/lib32/libatomicparsley.so.0 -> /usr/lib32/libatomicparsley.so.0.0.1
+/usr/lib32/libatomicparsley.so.0.0.1
+/usr/lib32/libgtkpod.so -> /usr/lib32/libgtkpod.so.1.1.0
+/usr/lib32/libgtkpod.so.1 -> /usr/lib32/libgtkpod.so.1.1.0
+/usr/lib32/libgtkpod.so.1.1.0
+/usr/lib32/pkgconfig/libgtkpod-1.1.0.pc

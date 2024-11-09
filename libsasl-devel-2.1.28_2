@@ -1,0 +1,9 @@
+/usr/include/sasl/hmac-md5.h
+/usr/include/sasl/md5.h
+/usr/include/sasl/md5global.h
+/usr/include/sasl/prop.h
+/usr/include/sasl/sasl.h
+/usr/include/sasl/saslplug.h
+/usr/include/sasl/saslutil.h
+/usr/lib/libsasl2.so -> /usr/lib/libsasl2.so.3.0.0
+/usr/lib/pkgconfig/libsasl2.pc

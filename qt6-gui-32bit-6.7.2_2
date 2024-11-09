@@ -1,0 +1,40 @@
+/usr/lib32/libQt6EglFSDeviceIntegration.so.6 -> /usr/lib32/libQt6EglFSDeviceIntegration.so.6.7.2
+/usr/lib32/libQt6EglFSDeviceIntegration.so.6.7.2
+/usr/lib32/libQt6EglFsKmsGbmSupport.so.6 -> /usr/lib32/libQt6EglFsKmsGbmSupport.so.6.7.2
+/usr/lib32/libQt6EglFsKmsGbmSupport.so.6.7.2
+/usr/lib32/libQt6EglFsKmsSupport.so.6 -> /usr/lib32/libQt6EglFsKmsSupport.so.6.7.2
+/usr/lib32/libQt6EglFsKmsSupport.so.6.7.2
+/usr/lib32/libQt6Gui.so.6 -> /usr/lib32/libQt6Gui.so.6.7.2
+/usr/lib32/libQt6Gui.so.6.7.2
+/usr/lib32/libQt6OpenGL.so.6 -> /usr/lib32/libQt6OpenGL.so.6.7.2
+/usr/lib32/libQt6OpenGL.so.6.7.2
+/usr/lib32/libQt6XcbQpa.so.6 -> /usr/lib32/libQt6XcbQpa.so.6.7.2
+/usr/lib32/libQt6XcbQpa.so.6.7.2
+/usr/lib32/qt6/plugins/egldeviceintegrations/libqeglfs-emu-integration.so
+/usr/lib32/qt6/plugins/egldeviceintegrations/libqeglfs-kms-egldevice-integration.so
+/usr/lib32/qt6/plugins/egldeviceintegrations/libqeglfs-kms-integration.so
+/usr/lib32/qt6/plugins/egldeviceintegrations/libqeglfs-x11-integration.so
+/usr/lib32/qt6/plugins/generic/libqevdevkeyboardplugin.so
+/usr/lib32/qt6/plugins/generic/libqevdevmouseplugin.so
+/usr/lib32/qt6/plugins/generic/libqevdevtabletplugin.so
+/usr/lib32/qt6/plugins/generic/libqevdevtouchplugin.so
+/usr/lib32/qt6/plugins/generic/libqlibinputplugin.so
+/usr/lib32/qt6/plugins/generic/libqtslibplugin.so
+/usr/lib32/qt6/plugins/generic/libqtuiotouchplugin.so
+/usr/lib32/qt6/plugins/imageformats/libqgif.so
+/usr/lib32/qt6/plugins/imageformats/libqico.so
+/usr/lib32/qt6/plugins/imageformats/libqjpeg.so
+/usr/lib32/qt6/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+/usr/lib32/qt6/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so
+/usr/lib32/qt6/plugins/platforms/libqeglfs.so
+/usr/lib32/qt6/plugins/platforms/libqlinuxfb.so
+/usr/lib32/qt6/plugins/platforms/libqminimal.so
+/usr/lib32/qt6/plugins/platforms/libqminimalegl.so
+/usr/lib32/qt6/plugins/platforms/libqoffscreen.so
+/usr/lib32/qt6/plugins/platforms/libqvkkhrdisplay.so
+/usr/lib32/qt6/plugins/platforms/libqvnc.so
+/usr/lib32/qt6/plugins/platforms/libqxcb.so
+/usr/lib32/qt6/plugins/platformthemes/libqgtk3.so
+/usr/lib32/qt6/plugins/platformthemes/libqxdgdesktopportal.so
+/usr/lib32/qt6/plugins/xcbglintegrations/libqxcb-egl-integration.so
+/usr/lib32/qt6/plugins/xcbglintegrations/libqxcb-glx-integration.so

@@ -1,0 +1,9 @@
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_cpu.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_disk.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_gpu.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_lmsensors.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_memory.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_network.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_osinfo.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_power.so
+/usr/lib32/qt6/plugins/ksystemstats/ksystemstats_plugin_pressure.so

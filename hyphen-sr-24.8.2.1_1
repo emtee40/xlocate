@@ -1,0 +1,9 @@
+/usr/share/hyphen/hyph_sr-Latn.dic
+/usr/share/hyphen/hyph_sr.dic
+/usr/share/hyphen/hyph_sr@latin.dic -> /usr/share/hyphen/hyph_sr-Latn.dic
+/usr/share/hyphen/hyph_sr_CS.dic -> /usr/share/hyphen/hyph_sr.dic
+/usr/share/hyphen/hyph_sr_CS@latin.dic -> /usr/share/hyphen/hyph_sr-Latn.dic
+/usr/share/hyphen/hyph_sr_Latn_CS.dic -> /usr/share/hyphen/hyph_sr-Latn.dic
+/usr/share/hyphen/hyph_sr_Latn_RS.dic -> /usr/share/hyphen/hyph_sr-Latn.dic
+/usr/share/hyphen/hyph_sr_RS.dic -> /usr/share/hyphen/hyph_sr.dic
+/usr/share/hyphen/hyph_sr_RS@latin.dic -> /usr/share/hyphen/hyph_sr-Latn.dic

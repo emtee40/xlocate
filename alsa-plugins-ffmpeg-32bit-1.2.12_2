@@ -1,0 +1,6 @@
+/usr/lib32/alsa-lib/libasound_module_pcm_a52.so
+/usr/lib32/alsa-lib/libasound_module_rate_lavrate.so
+/usr/lib32/alsa-lib/libasound_module_rate_lavrate_fast.so -> /usr/lib32/alsa-lib/libasound_module_rate_lavrate.so
+/usr/lib32/alsa-lib/libasound_module_rate_lavrate_faster.so -> /usr/lib32/alsa-lib/libasound_module_rate_lavrate.so
+/usr/lib32/alsa-lib/libasound_module_rate_lavrate_high.so -> /usr/lib32/alsa-lib/libasound_module_rate_lavrate.so
+/usr/lib32/alsa-lib/libasound_module_rate_lavrate_higher.so -> /usr/lib32/alsa-lib/libasound_module_rate_lavrate.so

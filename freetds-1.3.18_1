@@ -1,0 +1,27 @@
+/etc/freetds/freetds.conf
+/etc/freetds/locales.conf
+/etc/freetds/pool.conf
+/usr/bin/bsqldb
+/usr/bin/bsqlodbc
+/usr/bin/datacopy
+/usr/bin/defncopy
+/usr/bin/fisql
+/usr/bin/freebcp
+/usr/bin/osql
+/usr/bin/tdspool
+/usr/bin/tsql
+/usr/lib/libct.so.4 -> /usr/lib/libct.so.4.0.0
+/usr/lib/libct.so.4.0.0
+/usr/lib/libsybdb.so.5 -> /usr/lib/libsybdb.so.5.1.0
+/usr/lib/libsybdb.so.5.1.0
+/usr/lib/libtdsodbc.so.0 -> /usr/lib/libtdsodbc.so.0.0.0
+/usr/lib/libtdsodbc.so.0.0.0
+/usr/share/man/man1/bsqldb.1
+/usr/share/man/man1/bsqlodbc.1
+/usr/share/man/man1/datacopy.1
+/usr/share/man/man1/defncopy.1
+/usr/share/man/man1/fisql.1
+/usr/share/man/man1/freebcp.1
+/usr/share/man/man1/osql.1
+/usr/share/man/man1/tsql.1
+/usr/share/man/man5/freetds.conf.5

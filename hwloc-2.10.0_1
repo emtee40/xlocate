@@ -1,0 +1,43 @@
+/usr/bin/hwloc-annotate
+/usr/bin/hwloc-bind
+/usr/bin/hwloc-calc
+/usr/bin/hwloc-compress-dir
+/usr/bin/hwloc-diff
+/usr/bin/hwloc-distrib
+/usr/bin/hwloc-dump-hwdata
+/usr/bin/hwloc-gather-cpuid
+/usr/bin/hwloc-gather-topology
+/usr/bin/hwloc-info
+/usr/bin/hwloc-ls -> /usr/bin/lstopo-no-graphics
+/usr/bin/hwloc-patch
+/usr/bin/hwloc-ps
+/usr/bin/lstopo
+/usr/bin/lstopo-no-graphics
+/usr/share/applications/lstopo.desktop
+/usr/share/bash-completion/completions/hwloc
+/usr/share/hwloc/hwloc-dump-hwdata.service
+/usr/share/hwloc/hwloc-ps.www/README
+/usr/share/hwloc/hwloc-ps.www/assets/index.html
+/usr/share/hwloc/hwloc-ps.www/assets/main.css
+/usr/share/hwloc/hwloc-ps.www/assets/script.js
+/usr/share/hwloc/hwloc-ps.www/assets/style.css
+/usr/share/hwloc/hwloc-ps.www/client.js
+/usr/share/hwloc/hwloc-ps.www/package.json
+/usr/share/hwloc/hwloc2-diff.dtd
+/usr/share/hwloc/hwloc2.dtd
+/usr/share/man/man1/hwloc-annotate.1
+/usr/share/man/man1/hwloc-bind.1
+/usr/share/man/man1/hwloc-calc.1
+/usr/share/man/man1/hwloc-compress-dir.1
+/usr/share/man/man1/hwloc-diff.1
+/usr/share/man/man1/hwloc-distrib.1
+/usr/share/man/man1/hwloc-dump-hwdata.1
+/usr/share/man/man1/hwloc-gather-cpuid.1
+/usr/share/man/man1/hwloc-gather-topology.1
+/usr/share/man/man1/hwloc-info.1
+/usr/share/man/man1/hwloc-ls.1 -> /usr/share/man/man1/lstopo-no-graphics.1
+/usr/share/man/man1/hwloc-patch.1
+/usr/share/man/man1/hwloc-ps.1
+/usr/share/man/man1/lstopo-no-graphics.1
+/usr/share/man/man1/lstopo.1 -> /usr/share/man/man1/lstopo-no-graphics.1
+/usr/share/man/man7/hwloc.7

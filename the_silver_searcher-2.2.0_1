@@ -1,0 +1,5 @@
+/usr/bin/ag
+/usr/share/bash-completion/completions/ag
+/usr/share/licenses/the_silver_searcher/NOTICE
+/usr/share/man/man1/ag.1
+/usr/share/zsh/site-functions/_the_silver_searcher

@@ -1,0 +1,11 @@
+/usr/bin/pluginviewer
+/usr/bin/saslauthd
+/usr/bin/sasldblistusers2
+/usr/bin/saslpasswd2
+/usr/bin/testsaslauthd
+/usr/share/licenses/cyrus-sasl/LICENSE
+/usr/share/man/man8/pluginviewer.8
+/usr/share/man/man8/saslauthd.8
+/usr/share/man/man8/sasldblistusers2.8
+/usr/share/man/man8/saslpasswd2.8
+/usr/share/man/man8/testsaslauthd.8

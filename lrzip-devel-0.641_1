@@ -1,0 +1,4 @@
+/usr/include/Lrzip.h
+/usr/lib/liblrzip.a
+/usr/lib/liblrzip.so -> /usr/lib/liblrzip.so.0.0.0
+/usr/lib/pkgconfig/lrzip.pc

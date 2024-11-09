@@ -1,0 +1,8 @@
+/etc/default/dkms
+/etc/dkms/framework.conf
+/etc/kernel.d/post-install/10-dkms
+/etc/kernel.d/pre-remove/10-dkms
+/usr/bin/dkms
+/usr/share/bash-completion/completions/dkms
+/usr/share/man/man8/dkms.8
+/usr/share/zsh/site-functions/_dkms

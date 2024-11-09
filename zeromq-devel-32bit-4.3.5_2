@@ -1,0 +1,3 @@
+/usr/lib32/libzmq.a
+/usr/lib32/libzmq.so -> /usr/lib32/libzmq.so.5.2.5
+/usr/lib32/pkgconfig/libzmq.pc

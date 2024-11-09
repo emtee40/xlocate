@@ -1,0 +1,31 @@
+/etc/i2pd/i2pd.conf
+/etc/i2pd/tunnels.conf
+/etc/sv/i2pd/log/run
+/etc/sv/i2pd/log/supervise -> /run/runit/supervise.i2pd-log
+/etc/sv/i2pd/run
+/etc/sv/i2pd/supervise -> /run/runit/supervise.i2pd
+/usr/bin/i2pd
+/usr/share/i2pd/certificates/family/gostcoin.crt
+/usr/share/i2pd/certificates/family/i2p-dev.crt
+/usr/share/i2pd/certificates/family/i2pd-dev.crt
+/usr/share/i2pd/certificates/family/mca2-i2p.crt
+/usr/share/i2pd/certificates/family/stormycloud.crt
+/usr/share/i2pd/certificates/family/volatile.crt
+/usr/share/i2pd/certificates/reseed/acetone_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/admin_at_stormycloud.org.crt
+/usr/share/i2pd/certificates/reseed/arnavbhatt288_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/creativecowpat_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/echelon3_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/hankhill19580_at_gmail.com.crt
+/usr/share/i2pd/certificates/reseed/hiduser0_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/hottuna_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/i2p-reseed_at_mk16.de.crt
+/usr/share/i2pd/certificates/reseed/igor_at_novg.net.crt
+/usr/share/i2pd/certificates/reseed/lazygravy_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/orignal_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/r4sas-reseed_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/rambler_at_mail.i2p.crt
+/usr/share/i2pd/certificates/reseed/reseed_at_diva.exchange.crt
+/usr/share/licenses/i2pd/LICENSE
+/usr/share/man/man1/i2pd.1
+/var/lib/i2pd/certificates -> /usr/share/i2pd/certificates

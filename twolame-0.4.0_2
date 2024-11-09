@@ -1,0 +1,4 @@
+/usr/bin/twolame
+/usr/lib/libtwolame.so.0 -> /usr/lib/libtwolame.so.0.0.0
+/usr/lib/libtwolame.so.0.0.0
+/usr/share/man/man1/twolame.1

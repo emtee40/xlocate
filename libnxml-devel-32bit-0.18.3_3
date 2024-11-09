@@ -1,0 +1,3 @@
+/usr/lib32/libnxml.a
+/usr/lib32/libnxml.so -> /usr/lib32/libnxml.so.0.18.3
+/usr/lib32/pkgconfig/nxml.pc

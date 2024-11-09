@@ -1,0 +1,3 @@
+/etc/wildmidi/wildmidi.cfg
+/usr/lib/libWildMidi.so.2 -> /usr/lib/libWildMidi.so.2.1.0
+/usr/lib/libWildMidi.so.2.1.0

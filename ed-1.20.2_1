@@ -1,0 +1,5 @@
+/usr/bin/ed
+/usr/bin/red
+/usr/share/info/ed.info
+/usr/share/man/man1/ed.1
+/usr/share/man/man1/red.1 -> /usr/share/man/man1/ed.1

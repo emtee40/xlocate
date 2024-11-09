@@ -1,0 +1,4 @@
+/usr/include/mythes.hxx
+/usr/lib/libmythes-1.2.a
+/usr/lib/libmythes-1.2.so -> /usr/lib/libmythes-1.2.so.0.0.0
+/usr/lib/pkgconfig/mythes.pc

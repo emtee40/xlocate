@@ -1,0 +1,4 @@
+/usr/include/virgl/virgl-version.h
+/usr/include/virgl/virglrenderer.h
+/usr/lib/libvirglrenderer.so -> /usr/lib/libvirglrenderer.so.1
+/usr/lib/pkgconfig/virglrenderer.pc

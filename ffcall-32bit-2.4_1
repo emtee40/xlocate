@@ -1,0 +1,8 @@
+/usr/lib32/libavcall.so.1 -> /usr/lib32/libavcall.so.1.1.0
+/usr/lib32/libavcall.so.1.1.0
+/usr/lib32/libcallback.so.1 -> /usr/lib32/libcallback.so.1.0.4
+/usr/lib32/libcallback.so.1.0.4
+/usr/lib32/libffcall.so.0 -> /usr/lib32/libffcall.so.0.1.0
+/usr/lib32/libffcall.so.0.1.0
+/usr/lib32/libtrampoline.so.1 -> /usr/lib32/libtrampoline.so.1.0.3
+/usr/lib32/libtrampoline.so.1.0.3

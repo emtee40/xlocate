@@ -1,0 +1,5 @@
+/usr/lib/python3.12/site-packages/git_filter_repo.py
+/usr/libexec/git-core/git-filter-repo -> /usr/lib/python3.12/site-packages/git_filter_repo.py
+/usr/share/doc/git-filter-repo/git-filter-repo.html
+/usr/share/licenses/git-filter-repo/COPYING.mit
+/usr/share/man/man1/git-filter-repo.1

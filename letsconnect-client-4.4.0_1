@@ -1,0 +1,14 @@
+/usr/bin/letsconnect-cli
+/usr/bin/letsconnect-gui
+/usr/share/applications/org.letsconnect-vpn.client.desktop
+/usr/share/icons/hicolor/128x128/apps/org.letsconnect-vpn.client.png
+/usr/share/icons/hicolor/256x256/apps/org.letsconnect-vpn.client.png
+/usr/share/icons/hicolor/48x48/apps/org.letsconnect-vpn.client.png
+/usr/share/icons/hicolor/512x512/apps/org.letsconnect-vpn.client.png
+/usr/share/letsconnect/images/app-icon-circle.svg
+/usr/share/letsconnect/images/letsconnect.png
+/usr/share/letsconnect/images/letsconnect@2x.png
+/usr/share/letsconnect/images/letsconnect@3x.png
+/usr/share/letsconnect/images/server-illustration.png
+/usr/share/letsconnect/images/server-illustration@2x.png
+/usr/share/letsconnect/images/server-illustration@3x.png

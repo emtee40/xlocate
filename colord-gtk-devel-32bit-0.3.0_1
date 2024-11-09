@@ -1,0 +1,4 @@
+/usr/lib32/libcolord-gtk.so -> /usr/lib32/libcolord-gtk.so.1
+/usr/lib32/libcolord-gtk4.so -> /usr/lib32/libcolord-gtk4.so.1
+/usr/lib32/pkgconfig/colord-gtk.pc
+/usr/lib32/pkgconfig/colord-gtk4.pc

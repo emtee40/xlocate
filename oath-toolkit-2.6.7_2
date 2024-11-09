@@ -1,0 +1,13 @@
+/usr/bin/oathtool
+/usr/bin/pskctool
+/usr/lib/liboath.so.0 -> /usr/lib/liboath.so.0.1.3
+/usr/lib/liboath.so.0.1.3
+/usr/lib/libpskc.so.0 -> /usr/lib/libpskc.so.0.0.1
+/usr/lib/libpskc.so.0.0.1
+/usr/lib/security/pam_oath.so
+/usr/share/man/man1/oathtool.1
+/usr/share/man/man1/pskctool.1
+/usr/share/xml/pskc/catalog-pskc.xml
+/usr/share/xml/pskc/pskc-schema.xsd
+/usr/share/xml/pskc/xenc-schema.xsd
+/usr/share/xml/pskc/xmldsig-core-schema.xsd

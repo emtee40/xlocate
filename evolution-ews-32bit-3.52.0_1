@@ -1,0 +1,13 @@
+/usr/lib32/evolution-data-server/addressbook-backends/libebookbackendews.so
+/usr/lib32/evolution-data-server/addressbook-backends/libebookbackendmicrosoft365.so
+/usr/lib32/evolution-data-server/calendar-backends/libecalbackendews.so
+/usr/lib32/evolution-data-server/calendar-backends/libecalbackendmicrosoft365.so
+/usr/lib32/evolution-data-server/camel-providers/libcamelews.so
+/usr/lib32/evolution-data-server/camel-providers/libcamelmicrosoft365.so
+/usr/lib32/evolution-data-server/registry-modules/module-ews-backend.so
+/usr/lib32/evolution-data-server/registry-modules/module-microsoft365-backend.so
+/usr/lib32/evolution-ews/libcamelews-priv.so
+/usr/lib32/evolution-ews/libevolution-ews.so
+/usr/lib32/evolution-ews/libevolution-microsoft365.so
+/usr/lib32/evolution/modules/module-ews-configuration.so
+/usr/lib32/evolution/modules/module-microsoft365-configuration.so

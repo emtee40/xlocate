@@ -1,0 +1,33 @@
+/usr/lib32/libQt6Concurrent.so -> /usr/lib32/libQt6Concurrent.so.6
+/usr/lib32/libQt6Core.so -> /usr/lib32/libQt6Core.so.6
+/usr/lib32/libQt6DBus.so -> /usr/lib32/libQt6DBus.so.6
+/usr/lib32/libQt6DeviceDiscoverySupport.a
+/usr/lib32/libQt6EglFSDeviceIntegration.so -> /usr/lib32/libQt6EglFSDeviceIntegration.so.6
+/usr/lib32/libQt6EglFsKmsGbmSupport.so -> /usr/lib32/libQt6EglFsKmsGbmSupport.so.6
+/usr/lib32/libQt6EglFsKmsSupport.so -> /usr/lib32/libQt6EglFsKmsSupport.so.6
+/usr/lib32/libQt6ExampleIcons.a
+/usr/lib32/libQt6FbSupport.a
+/usr/lib32/libQt6Gui.so -> /usr/lib32/libQt6Gui.so.6
+/usr/lib32/libQt6InputSupport.a
+/usr/lib32/libQt6KmsSupport.a
+/usr/lib32/libQt6Network.so -> /usr/lib32/libQt6Network.so.6
+/usr/lib32/libQt6OpenGL.so -> /usr/lib32/libQt6OpenGL.so.6
+/usr/lib32/libQt6OpenGLWidgets.so -> /usr/lib32/libQt6OpenGLWidgets.so.6
+/usr/lib32/libQt6PrintSupport.so -> /usr/lib32/libQt6PrintSupport.so.6
+/usr/lib32/libQt6Sql.so -> /usr/lib32/libQt6Sql.so.6
+/usr/lib32/libQt6Widgets.so -> /usr/lib32/libQt6Widgets.so.6
+/usr/lib32/libQt6XcbQpa.so -> /usr/lib32/libQt6XcbQpa.so.6
+/usr/lib32/libQt6Xml.so -> /usr/lib32/libQt6Xml.so.6
+/usr/lib32/pkgconfig/Qt6Concurrent.pc
+/usr/lib32/pkgconfig/Qt6Core.pc
+/usr/lib32/pkgconfig/Qt6DBus.pc
+/usr/lib32/pkgconfig/Qt6Gui.pc
+/usr/lib32/pkgconfig/Qt6Network.pc
+/usr/lib32/pkgconfig/Qt6OpenGL.pc
+/usr/lib32/pkgconfig/Qt6OpenGLWidgets.pc
+/usr/lib32/pkgconfig/Qt6Platform.pc
+/usr/lib32/pkgconfig/Qt6PrintSupport.pc
+/usr/lib32/pkgconfig/Qt6Sql.pc
+/usr/lib32/pkgconfig/Qt6Test.pc
+/usr/lib32/pkgconfig/Qt6Widgets.pc
+/usr/lib32/pkgconfig/Qt6Xml.pc

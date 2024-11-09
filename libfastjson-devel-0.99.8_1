@@ -1,0 +1,10 @@
+/usr/include/libfastjson/atomic.h
+/usr/include/libfastjson/json.h
+/usr/include/libfastjson/json_object.h
+/usr/include/libfastjson/json_object_iterator.h
+/usr/include/libfastjson/json_object_private.h
+/usr/include/libfastjson/json_tokener.h
+/usr/include/libfastjson/json_util.h
+/usr/lib/libfastjson.a
+/usr/lib/libfastjson.so -> /usr/lib/libfastjson.so.4.2.0
+/usr/lib/pkgconfig/libfastjson.pc

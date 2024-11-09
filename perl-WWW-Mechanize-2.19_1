@@ -1,0 +1,14 @@
+/usr/bin/mech-dump
+/usr/share/man/man1/mech-dump.1p
+/usr/share/man/man3/WWW::Mechanize.3p
+/usr/share/man/man3/WWW::Mechanize::Cookbook.3p
+/usr/share/man/man3/WWW::Mechanize::Examples.3p
+/usr/share/man/man3/WWW::Mechanize::FAQ.3p
+/usr/share/man/man3/WWW::Mechanize::Image.3p
+/usr/share/man/man3/WWW::Mechanize::Link.3p
+/usr/share/perl5/vendor_perl/WWW/Mechanize.pm
+/usr/share/perl5/vendor_perl/WWW/Mechanize/Cookbook.pod
+/usr/share/perl5/vendor_perl/WWW/Mechanize/Examples.pod
+/usr/share/perl5/vendor_perl/WWW/Mechanize/FAQ.pod
+/usr/share/perl5/vendor_perl/WWW/Mechanize/Image.pm
+/usr/share/perl5/vendor_perl/WWW/Mechanize/Link.pm

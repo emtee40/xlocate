@@ -1,0 +1,5 @@
+/usr/include/pantheon-files-core/marlin-file-operations.h
+/usr/include/pantheon-files-core/pantheon-files-core.h
+/usr/lib/libpantheon-files-core.so -> /usr/lib/libpantheon-files-core.so.6
+/usr/lib/pkgconfig/pantheon-files-core.pc
+/usr/share/vala/vapi/pantheon-files-core.vapi

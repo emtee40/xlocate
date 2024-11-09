@@ -1,0 +1,4 @@
+/usr/include/chm_lib.h
+/usr/include/lzx.h
+/usr/lib/libchm.a
+/usr/lib/libchm.so -> /usr/lib/libchm.so.0.0.0

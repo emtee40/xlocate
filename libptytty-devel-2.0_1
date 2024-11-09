@@ -1,0 +1,4 @@
+/usr/include/libptytty.h
+/usr/lib/libptytty.so -> /usr/lib/libptytty.so.0
+/usr/lib/pkgconfig/libptytty.pc
+/usr/share/man/man3/libptytty.3

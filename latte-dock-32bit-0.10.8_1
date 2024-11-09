@@ -1,0 +1,5 @@
+/usr/lib32/qt5/plugins/kpackage/packagestructure/latte_packagestructure_indicator.so
+/usr/lib32/qt5/plugins/plasma_containmentactions_lattecontextmenu.so
+/usr/lib32/qt5/qml/org/kde/latte/core/liblattecoreplugin.so
+/usr/lib32/qt5/qml/org/kde/latte/private/containment/liblattecontainmentplugin.so
+/usr/lib32/qt5/qml/org/kde/latte/private/tasks/liblattetasksplugin.so

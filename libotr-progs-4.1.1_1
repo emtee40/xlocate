@@ -1,0 +1,13 @@
+/usr/bin/otr_mackey
+/usr/bin/otr_modify
+/usr/bin/otr_parse
+/usr/bin/otr_readforge
+/usr/bin/otr_remac
+/usr/bin/otr_sesskeys
+/usr/share/man/man1/otr_mackey.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_modify.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_parse.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_readforge.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_remac.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_sesskeys.1 -> /usr/share/man/man1/otr_toolkit.1
+/usr/share/man/man1/otr_toolkit.1

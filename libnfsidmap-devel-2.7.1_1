@@ -1,0 +1,4 @@
+/usr/include/nfsidmap.h
+/usr/include/nfsidmap_plugin.h
+/usr/lib/pkgconfig/libnfsidmap.pc
+/usr/share/man/man3/nfs4_uid_to_name.3

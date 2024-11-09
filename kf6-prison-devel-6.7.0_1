@@ -1,0 +1,23 @@
+/usr/include/KF6/Prison/Prison/Barcode
+/usr/include/KF6/Prison/Prison/MeCard
+/usr/include/KF6/Prison/Prison/Prison
+/usr/include/KF6/Prison/Prison/barcode.h
+/usr/include/KF6/Prison/Prison/mecard.h
+/usr/include/KF6/Prison/Prison/prison.h
+/usr/include/KF6/Prison/Prison/prison_export.h
+/usr/include/KF6/Prison/prison_version.h
+/usr/include/KF6/PrisonScanner/Prison/Format
+/usr/include/KF6/PrisonScanner/Prison/ImageScanner
+/usr/include/KF6/PrisonScanner/Prison/ScanResult
+/usr/include/KF6/PrisonScanner/Prison/VideoScanner
+/usr/include/KF6/PrisonScanner/Prison/format.h
+/usr/include/KF6/PrisonScanner/Prison/imagescanner.h
+/usr/include/KF6/PrisonScanner/Prison/prisonscanner_export.h
+/usr/include/KF6/PrisonScanner/Prison/scanresult.h
+/usr/include/KF6/PrisonScanner/Prison/videoscanner.h
+/usr/lib/cmake/KF6Prison/KF6PrisonConfig.cmake
+/usr/lib/cmake/KF6Prison/KF6PrisonConfigVersion.cmake
+/usr/lib/cmake/KF6Prison/KF6PrisonTargets-none.cmake
+/usr/lib/cmake/KF6Prison/KF6PrisonTargets.cmake
+/usr/lib/libKF6Prison.so -> /usr/lib/libKF6Prison.so.6
+/usr/lib/libKF6PrisonScanner.so -> /usr/lib/libKF6PrisonScanner.so.6

@@ -1,0 +1,7 @@
+/etc/parpd.conf
+/etc/sv/parpd/run
+/etc/sv/parpd/supervise -> /run/runit/supervise.parpd
+/usr/bin/parpd
+/usr/share/licenses/parpd/LICENSE
+/usr/share/man/man5/parpd.conf.5
+/usr/share/man/man8/parpd.8

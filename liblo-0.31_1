@@ -1,0 +1,5 @@
+/usr/bin/oscdump
+/usr/bin/oscsend
+/usr/bin/oscsendfile
+/usr/lib/liblo.so.7 -> /usr/lib/liblo.so.7.4.1
+/usr/lib/liblo.so.7.4.1

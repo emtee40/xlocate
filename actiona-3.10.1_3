@@ -1,0 +1,35 @@
+/usr/bin/actexec
+/usr/bin/actiona
+/usr/lib/actiona/actions/libActionPackData.so
+/usr/lib/actiona/actions/libActionPackDevice.so
+/usr/lib/actiona/actions/libActionPackInternal.so
+/usr/lib/actiona/actions/libActionPackSystem.so
+/usr/lib/actiona/actions/libActionPackWindows.so
+/usr/lib/actiona/libactiontools.so -> /usr/lib/actiona/libactiontools.so.1.0.0
+/usr/lib/actiona/libactiontools.so.1 -> /usr/lib/actiona/libactiontools.so.1.0.0
+/usr/lib/actiona/libactiontools.so.1.0 -> /usr/lib/actiona/libactiontools.so.1.0.0
+/usr/lib/actiona/libactiontools.so.1.0.0
+/usr/lib/actiona/libexecuter.so -> /usr/lib/actiona/libexecuter.so.1.0.0
+/usr/lib/actiona/libexecuter.so.1 -> /usr/lib/actiona/libexecuter.so.1.0.0
+/usr/lib/actiona/libexecuter.so.1.0 -> /usr/lib/actiona/libexecuter.so.1.0.0
+/usr/lib/actiona/libexecuter.so.1.0.0
+/usr/lib/actiona/libtools.so -> /usr/lib/actiona/libtools.so.1.0.0
+/usr/lib/actiona/libtools.so.1 -> /usr/lib/actiona/libtools.so.1.0.0
+/usr/lib/actiona/libtools.so.1.0 -> /usr/lib/actiona/libtools.so.1.0.0
+/usr/lib/actiona/libtools.so.1.0.0
+/usr/share/actiona/locale/actexecuter_fr_FR.qm
+/usr/share/actiona/locale/actionpackdata_fr_FR.qm
+/usr/share/actiona/locale/actionpackdevice_fr_FR.qm
+/usr/share/actiona/locale/actionpackinternal_fr_FR.qm
+/usr/share/actiona/locale/actionpacksystem_fr_FR.qm
+/usr/share/actiona/locale/actionpackwindows_fr_FR.qm
+/usr/share/actiona/locale/actiontools_fr_FR.qm
+/usr/share/actiona/locale/executer_fr_FR.qm
+/usr/share/actiona/locale/gui_fr_FR.qm
+/usr/share/actiona/locale/tools_fr_FR.qm
+/usr/share/applications/actiona.desktop
+/usr/share/icons/hicolor/48x48/apps/actiona.png
+/usr/share/man/man1/actexec.1
+/usr/share/man/man1/actiona.1
+/usr/share/mime/packages/actiona.xml
+/usr/share/pixmaps/actiona.png

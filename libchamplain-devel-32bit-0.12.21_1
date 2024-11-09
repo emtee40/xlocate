@@ -1,0 +1,4 @@
+/usr/lib32/libchamplain-0.12.so -> /usr/lib32/libchamplain-0.12.so.0
+/usr/lib32/libchamplain-gtk-0.12.so -> /usr/lib32/libchamplain-gtk-0.12.so.0
+/usr/lib32/pkgconfig/champlain-0.12.pc
+/usr/lib32/pkgconfig/champlain-gtk-0.12.pc

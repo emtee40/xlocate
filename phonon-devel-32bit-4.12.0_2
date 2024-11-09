@@ -1,0 +1,4 @@
+/usr/lib32/libphonon4qt6.so -> /usr/lib32/libphonon4qt6.so.4
+/usr/lib32/libphonon4qt6experimental.so -> /usr/lib32/libphonon4qt6experimental.so.4
+/usr/lib32/pkgconfig/phonon4qt6.pc
+/usr/lib32/qt6/plugins/designer/phonon4qt6widgets.so

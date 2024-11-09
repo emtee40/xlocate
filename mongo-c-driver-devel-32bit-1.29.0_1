@@ -1,0 +1,5 @@
+/usr/lib32/libmongoc-1.0.so -> /usr/lib32/libmongoc-1.0.so.0
+/usr/lib32/libmongoc-static-1.0.a
+/usr/lib32/pkgconfig/libmongoc-1.0.pc
+/usr/lib32/pkgconfig/libmongoc-ssl-1.0.pc
+/usr/lib32/pkgconfig/libmongoc-static-1.0.pc

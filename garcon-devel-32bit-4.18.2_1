@@ -1,0 +1,4 @@
+/usr/lib32/libgarcon-1.so -> /usr/lib32/libgarcon-1.so.0.0.0
+/usr/lib32/libgarcon-gtk3-1.so -> /usr/lib32/libgarcon-gtk3-1.so.0.0.0
+/usr/lib32/pkgconfig/garcon-1.pc
+/usr/lib32/pkgconfig/garcon-gtk3-1.pc

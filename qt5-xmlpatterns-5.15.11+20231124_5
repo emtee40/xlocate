@@ -1,0 +1,10 @@
+/usr/bin/xmlpatterns-qt5 -> /usr/lib/qt5/bin/xmlpatterns
+/usr/bin/xmlpatternsvalidator-qt5 -> /usr/lib/qt5/bin/xmlpatternsvalidator
+/usr/lib/libQt5XmlPatterns.so.5 -> /usr/lib/libQt5XmlPatterns.so.5.15.11
+/usr/lib/libQt5XmlPatterns.so.5.15 -> /usr/lib/libQt5XmlPatterns.so.5.15.11
+/usr/lib/libQt5XmlPatterns.so.5.15.11
+/usr/lib/qt5/bin/xmlpatterns
+/usr/lib/qt5/bin/xmlpatternsvalidator
+/usr/lib/qt5/qml/QtQuick/XmlListModel/libqmlxmllistmodelplugin.so
+/usr/lib/qt5/qml/QtQuick/XmlListModel/plugins.qmltypes
+/usr/lib/qt5/qml/QtQuick/XmlListModel/qmldir

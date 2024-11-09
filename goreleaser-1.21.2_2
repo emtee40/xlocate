@@ -1,0 +1,5 @@
+/usr/bin/goreleaser
+/usr/share/bash-completion/completions/goreleaser
+/usr/share/fish/vendor_completions.d/goreleaser.fish
+/usr/share/licenses/goreleaser/LICENSE.md
+/usr/share/zsh/site-functions/_goreleaser

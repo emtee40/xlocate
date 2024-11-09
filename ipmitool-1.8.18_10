@@ -1,0 +1,6 @@
+/usr/bin/ipmievd
+/usr/bin/ipmitool
+/usr/share/ipmitool/oem_ibm_sel_map
+/usr/share/licenses/ipmitool/COPYING
+/usr/share/man/man1/ipmitool.1
+/usr/share/man/man8/ipmievd.8

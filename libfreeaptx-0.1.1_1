@@ -1,0 +1,4 @@
+/usr/bin/freeaptxdec
+/usr/bin/freeaptxenc
+/usr/lib/libfreeaptx.so.0 -> /usr/lib/libfreeaptx.so.0.1.1
+/usr/lib/libfreeaptx.so.0.1.1

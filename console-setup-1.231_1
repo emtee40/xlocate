@@ -1,0 +1,6 @@
+/etc/console-setup/console-setup
+/etc/console-setup/keyboard
+/usr/bin/setupcon
+/usr/share/man/man1/setupcon.1
+/usr/share/man/man5/console-setup.5
+/usr/share/man/man5/keyboard.5

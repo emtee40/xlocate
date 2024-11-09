@@ -1,0 +1,7 @@
+/usr/bin/stremio -> /usr/lib/stremio/stremio
+/usr/lib/stremio/node -> /usr/bin/node
+/usr/lib/stremio/server.js
+/usr/lib/stremio/stremio
+/usr/lib/stremio/stremio.asar
+/usr/share/applications/smartcode-stremio.desktop
+/usr/share/icons/smartcode-stremio.png

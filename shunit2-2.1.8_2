@@ -1,0 +1,11 @@
+/usr/bin/shunit2
+/usr/share/doc/shunit2/design_doc.txt
+/usr/share/examples/shunit2/equality_test.sh
+/usr/share/examples/shunit2/lineno_test.sh
+/usr/share/examples/shunit2/math.inc
+/usr/share/examples/shunit2/math_test.sh
+/usr/share/examples/shunit2/mkdir_test.sh
+/usr/share/examples/shunit2/mock_file.sh
+/usr/share/examples/shunit2/mock_file_test.sh
+/usr/share/examples/shunit2/party_test.sh
+/usr/share/examples/shunit2/suite_test.sh

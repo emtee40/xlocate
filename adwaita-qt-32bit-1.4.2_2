@@ -1,0 +1,8 @@
+/usr/lib32/libadwaitaqt.so -> /usr/lib32/libadwaitaqt.so.1
+/usr/lib32/libadwaitaqt.so.1 -> /usr/lib32/libadwaitaqt.so.1.4.2
+/usr/lib32/libadwaitaqt.so.1.4.2
+/usr/lib32/libadwaitaqtpriv.so -> /usr/lib32/libadwaitaqtpriv.so.1
+/usr/lib32/libadwaitaqtpriv.so.1 -> /usr/lib32/libadwaitaqtpriv.so.1.4.2
+/usr/lib32/libadwaitaqtpriv.so.1.4.2
+/usr/lib32/pkgconfig/adwaita-qt.pc
+/usr/lib32/qt5/plugins/styles/adwaita.so

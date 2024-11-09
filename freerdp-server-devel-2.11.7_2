@@ -1,0 +1,13 @@
+/usr/lib/cmake/FreeRDP-Server2/FreeRDP-ServerConfig.cmake
+/usr/lib/cmake/FreeRDP-Server2/FreeRDP-ServerConfigVersion.cmake
+/usr/lib/cmake/FreeRDP-Server2/FreeRDP-ServerTargets-none.cmake
+/usr/lib/cmake/FreeRDP-Server2/FreeRDP-ServerTargets.cmake
+/usr/lib/cmake/FreeRDP-Shadow2/FreeRDP-ShadowConfig.cmake
+/usr/lib/cmake/FreeRDP-Shadow2/FreeRDP-ShadowConfigVersion.cmake
+/usr/lib/cmake/FreeRDP-Shadow2/FreeRDP-ShadowTargets-none.cmake
+/usr/lib/cmake/FreeRDP-Shadow2/FreeRDP-ShadowTargets.cmake
+/usr/lib/libfreerdp-server2.so -> /usr/lib/libfreerdp-server2.so.2
+/usr/lib/libfreerdp-shadow-subsystem2.so -> /usr/lib/libfreerdp-shadow-subsystem2.so.2
+/usr/lib/libfreerdp-shadow2.so -> /usr/lib/libfreerdp-shadow2.so.2
+/usr/lib/pkgconfig/freerdp-server2.pc
+/usr/lib/pkgconfig/freerdp-shadow2.pc

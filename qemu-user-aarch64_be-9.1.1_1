@@ -1,0 +1,3 @@
+/usr/bin/qemu-aarch64_be
+/usr/bin/qemu-aarch64_be-static -> /usr/bin/qemu-aarch64_be
+/usr/share/binfmts/qemu-aarch64_be

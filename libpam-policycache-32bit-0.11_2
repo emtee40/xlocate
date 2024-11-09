@@ -1,0 +1,2 @@
+/usr/lib32/security/pam_escalate.so
+/usr/lib32/security/pam_policycache.so

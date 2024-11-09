@@ -1,0 +1,4 @@
+/usr/bin/cpuid_tool
+/usr/lib/libcpuid.so.17 -> /usr/lib/libcpuid.so.17.0.0
+/usr/lib/libcpuid.so.17.0.0
+/usr/share/licenses/libcpuid/COPYING

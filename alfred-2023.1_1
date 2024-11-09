@@ -1,0 +1,14 @@
+/etc/sv/alfred/finish
+/etc/sv/alfred/log/run
+/etc/sv/alfred/log/supervise -> /run/runit/supervise.alfred-log
+/etc/sv/alfred/run
+/etc/sv/alfred/supervise -> /run/runit/supervise.alfred
+/etc/sv/batadv-vis/log/run
+/etc/sv/batadv-vis/log/supervise -> /run/runit/supervise.batadv-vis-log
+/etc/sv/batadv-vis/run
+/etc/sv/batadv-vis/supervise -> /run/runit/supervise.batadv-vis
+/usr/bin/alfred
+/usr/bin/batadv-vis
+/usr/share/licenses/alfred/MIT
+/usr/share/man/man8/alfred.8
+/usr/share/man/man8/batadv-vis.8

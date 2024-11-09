@@ -1,0 +1,3 @@
+/usr/lib/udev/rules.d/50-oryx.rules
+/usr/lib/udev/rules.d/50-wally.rules
+/usr/share/licenses/wally-udev-rules/license.md

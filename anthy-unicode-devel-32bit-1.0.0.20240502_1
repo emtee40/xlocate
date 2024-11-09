@@ -1,0 +1,4 @@
+/usr/lib32/libanthy-unicode.so -> /usr/lib32/libanthy-unicode.so.0.1.0
+/usr/lib32/libanthydic-unicode.so -> /usr/lib32/libanthydic-unicode.so.0.1.0
+/usr/lib32/libanthyinput-unicode.so -> /usr/lib32/libanthyinput-unicode.so.0.0.0
+/usr/lib32/pkgconfig/anthy-unicode.pc

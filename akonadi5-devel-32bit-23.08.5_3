@@ -1,0 +1,5 @@
+/usr/lib32/libKPim5AkonadiAgentBase.so -> /usr/lib32/libKPim5AkonadiAgentBase.so.5
+/usr/lib32/libKPim5AkonadiCore.so -> /usr/lib32/libKPim5AkonadiCore.so.5
+/usr/lib32/libKPim5AkonadiPrivate.so -> /usr/lib32/libKPim5AkonadiPrivate.so.5
+/usr/lib32/libKPim5AkonadiWidgets.so -> /usr/lib32/libKPim5AkonadiWidgets.so.5
+/usr/lib32/libKPim5AkonadiXml.so -> /usr/lib32/libKPim5AkonadiXml.so.5

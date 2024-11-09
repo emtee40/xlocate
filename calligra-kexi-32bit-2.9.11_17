@@ -1,0 +1,55 @@
+/usr/lib32/kde4/kexidb_mysqldriver.so
+/usr/lib32/kde4/kexidb_sybasedriver.so
+/usr/lib32/kde4/kexihandler_csv_importexport.so
+/usr/lib32/kde4/kexihandler_form.so
+/usr/lib32/kde4/kexihandler_migration.so
+/usr/lib32/kde4/kexihandler_query.so
+/usr/lib32/kde4/kexihandler_report.so
+/usr/lib32/kde4/kexihandler_script.so
+/usr/lib32/kde4/kexihandler_table.so
+/usr/lib32/kde4/keximigrate_mdb.so
+/usr/lib32/kde4/keximigrate_mysql.so
+/usr/lib32/kde4/keximigrate_sybase.so
+/usr/lib32/kde4/keximigrate_txt.so
+/usr/lib32/kde4/kformdesigner_containers.so
+/usr/lib32/kde4/kformdesigner_kexidbwidgets.so
+/usr/lib32/kde4/kformdesigner_mapbrowser.so
+/usr/lib32/kde4/kformdesigner_stdwidgets.so
+/usr/lib32/kde4/kformdesigner_webbrowser.so
+/usr/lib32/kde4/krossmodulekexidb.so
+/usr/lib32/libkexicore.so -> /usr/lib32/libkexicore.so.14
+/usr/lib32/libkexicore.so.14 -> /usr/lib32/libkexicore.so.14.0.0
+/usr/lib32/libkexicore.so.14.0.0
+/usr/lib32/libkexidatatable.so -> /usr/lib32/libkexidatatable.so.14
+/usr/lib32/libkexidatatable.so.14 -> /usr/lib32/libkexidatatable.so.14.0.0
+/usr/lib32/libkexidatatable.so.14.0.0
+/usr/lib32/libkexidataviewcommon.so -> /usr/lib32/libkexidataviewcommon.so.14
+/usr/lib32/libkexidataviewcommon.so.14 -> /usr/lib32/libkexidataviewcommon.so.14.0.0
+/usr/lib32/libkexidataviewcommon.so.14.0.0
+/usr/lib32/libkexidb.so -> /usr/lib32/libkexidb.so.14
+/usr/lib32/libkexidb.so.14 -> /usr/lib32/libkexidb.so.14.0.0
+/usr/lib32/libkexidb.so.14.0.0
+/usr/lib32/libkexiextendedwidgets.so -> /usr/lib32/libkexiextendedwidgets.so.14
+/usr/lib32/libkexiextendedwidgets.so.14 -> /usr/lib32/libkexiextendedwidgets.so.14.0.0
+/usr/lib32/libkexiextendedwidgets.so.14.0.0
+/usr/lib32/libkexiformutils.so -> /usr/lib32/libkexiformutils.so.14
+/usr/lib32/libkexiformutils.so.14 -> /usr/lib32/libkexiformutils.so.14.0.0
+/usr/lib32/libkexiformutils.so.14.0.0
+/usr/lib32/libkexiguiutils.so -> /usr/lib32/libkexiguiutils.so.14
+/usr/lib32/libkexiguiutils.so.14 -> /usr/lib32/libkexiguiutils.so.14.0.0
+/usr/lib32/libkexiguiutils.so.14.0.0
+/usr/lib32/libkeximain.so -> /usr/lib32/libkeximain.so.14
+/usr/lib32/libkeximain.so.14 -> /usr/lib32/libkeximain.so.14.0.0
+/usr/lib32/libkeximain.so.14.0.0
+/usr/lib32/libkeximigrate.so -> /usr/lib32/libkeximigrate.so.14
+/usr/lib32/libkeximigrate.so.14 -> /usr/lib32/libkeximigrate.so.14.0.0
+/usr/lib32/libkeximigrate.so.14.0.0
+/usr/lib32/libkexirelationsview.so -> /usr/lib32/libkexirelationsview.so.14
+/usr/lib32/libkexirelationsview.so.14 -> /usr/lib32/libkexirelationsview.so.14.0.0
+/usr/lib32/libkexirelationsview.so.14.0.0
+/usr/lib32/libkexiutils.so -> /usr/lib32/libkexiutils.so.14
+/usr/lib32/libkexiutils.so.14 -> /usr/lib32/libkexiutils.so.14.0.0
+/usr/lib32/libkexiutils.so.14.0.0
+/usr/lib32/libkformdesigner.so -> /usr/lib32/libkformdesigner.so.14
+/usr/lib32/libkformdesigner.so.14 -> /usr/lib32/libkformdesigner.so.14.0.0
+/usr/lib32/libkformdesigner.so.14.0.0

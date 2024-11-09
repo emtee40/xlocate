@@ -1,0 +1,8 @@
+/usr/lib/libQt5Gamepad.so.5 -> /usr/lib/libQt5Gamepad.so.5.15.11
+/usr/lib/libQt5Gamepad.so.5.15 -> /usr/lib/libQt5Gamepad.so.5.15.11
+/usr/lib/libQt5Gamepad.so.5.15.11
+/usr/lib/qt5/plugins/gamepads/libevdevgamepad.so
+/usr/lib/qt5/plugins/gamepads/libsdl2gamepad.so
+/usr/lib/qt5/qml/QtGamepad/libdeclarative_gamepad.so
+/usr/lib/qt5/qml/QtGamepad/plugins.qmltypes
+/usr/lib/qt5/qml/QtGamepad/qmldir

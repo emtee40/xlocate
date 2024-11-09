@@ -1,0 +1,4 @@
+/usr/bin/protoc-gen-vala
+/usr/include/protobuf-vala/protobuf-vala.h
+/usr/lib/pkgconfig/protobuf-vala.pc
+/usr/share/vala/vapi/protobuf-vala.vapi

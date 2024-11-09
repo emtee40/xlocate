@@ -1,0 +1,9 @@
+/usr/bin/stoken-gui
+/usr/share/applications/stoken-gui-small.desktop
+/usr/share/applications/stoken-gui.desktop
+/usr/share/man/man1/stoken-gui.1
+/usr/share/pixmaps/stoken-gui.png
+/usr/share/stoken/password-dialog.ui
+/usr/share/stoken/pin-dialog.ui
+/usr/share/stoken/tokencode-detail.ui
+/usr/share/stoken/tokencode-small.ui

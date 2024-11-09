@@ -1,0 +1,2 @@
+/usr/lib32/libhugetlbfs.a
+/usr/lib32/libhugetlbfs.so -> /usr/lib32/libhugetlbfs.so.0

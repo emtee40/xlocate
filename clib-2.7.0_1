@@ -1,0 +1,10 @@
+/usr/bin/clib
+/usr/bin/clib-build
+/usr/bin/clib-configure
+/usr/bin/clib-init
+/usr/bin/clib-install
+/usr/bin/clib-search
+/usr/bin/clib-uninstall
+/usr/bin/clib-update
+/usr/bin/clib-upgrade
+/usr/share/licenses/clib/LICENSE

@@ -1,0 +1,3 @@
+/usr/include/baresip.h
+/usr/lib/libbaresip.so -> /usr/lib/libbaresip.so.16
+/usr/lib/pkgconfig/libbaresip.pc

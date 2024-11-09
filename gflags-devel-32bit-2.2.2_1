@@ -1,0 +1,5 @@
+/usr/lib32/libgflags.a
+/usr/lib32/libgflags.so -> /usr/lib32/libgflags.so.2.2
+/usr/lib32/libgflags_nothreads.a
+/usr/lib32/libgflags_nothreads.so -> /usr/lib32/libgflags_nothreads.so.2.2
+/usr/lib32/pkgconfig/gflags.pc

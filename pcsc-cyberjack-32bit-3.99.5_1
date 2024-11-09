@@ -1,0 +1,4 @@
+/usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.a
+/usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so -> /usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0
+/usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6 -> /usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0
+/usr/lib32/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0

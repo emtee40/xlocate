@@ -1,0 +1,4 @@
+/usr/lib32/libQt6WebChannel.so -> /usr/lib32/libQt6WebChannel.so.6
+/usr/lib32/libQt6WebChannelQuick.so -> /usr/lib32/libQt6WebChannelQuick.so.6
+/usr/lib32/pkgconfig/Qt6WebChannel.pc
+/usr/lib32/pkgconfig/Qt6WebChannelQuick.pc

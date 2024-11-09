@@ -1,0 +1,9 @@
+/etc/sv/etserver/log/run
+/etc/sv/etserver/log/supervise -> /run/runit/supervise.etserver-log
+/etc/sv/etserver/run
+/etc/sv/etserver/supervise -> /run/runit/supervise.etserver
+/usr/bin/et
+/usr/bin/etserver
+/usr/bin/etterminal
+/usr/bin/htm
+/usr/bin/htmd

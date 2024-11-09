@@ -1,0 +1,9 @@
+/usr/include/KF6/BreezeIcons/BreezeIcons
+/usr/include/KF6/BreezeIcons/breezeicons.h
+/usr/include/KF6/BreezeIcons/breezeicons_export.h
+/usr/include/KF6/BreezeIcons/breezeicons_version.h
+/usr/lib/cmake/KF6BreezeIcons/KF6BreezeIconsConfig.cmake
+/usr/lib/cmake/KF6BreezeIcons/KF6BreezeIconsConfigVersion.cmake
+/usr/lib/cmake/KF6BreezeIcons/KF6BreezeIconsTargets-none.cmake
+/usr/lib/cmake/KF6BreezeIcons/KF6BreezeIconsTargets.cmake
+/usr/lib/libKF6BreezeIcons.so -> /usr/lib/libKF6BreezeIcons.so.6

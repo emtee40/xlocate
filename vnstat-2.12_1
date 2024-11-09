@@ -1,0 +1,12 @@
+/etc/sv/vnstatd/log/run
+/etc/sv/vnstatd/log/supervise -> /run/runit/supervise.vnstatd-log
+/etc/sv/vnstatd/run
+/etc/sv/vnstatd/supervise -> /run/runit/supervise.vnstatd
+/etc/vnstat.conf
+/usr/bin/vnstat
+/usr/bin/vnstatd
+/usr/bin/vnstati
+/usr/share/man/man1/vnstat.1
+/usr/share/man/man1/vnstati.1
+/usr/share/man/man5/vnstat.conf.5
+/usr/share/man/man8/vnstatd.8

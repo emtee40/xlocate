@@ -1,0 +1,94 @@
+/usr/bin/xbarf
+/usr/bin/xbuildbarf
+/usr/bin/xbulk
+/usr/bin/xbump
+/usr/bin/xchangelog
+/usr/bin/xcheckmypkgs
+/usr/bin/xgensum
+/usr/bin/xlg
+/usr/bin/xlint
+/usr/bin/xlocate
+/usr/bin/xlog
+/usr/bin/xmandoc
+/usr/bin/xmypkgs
+/usr/bin/xnew
+/usr/bin/xnews
+/usr/bin/xpcdeps
+/usr/bin/xpkgdiff
+/usr/bin/xpstree
+/usr/bin/xrecent
+/usr/bin/xrevbump
+/usr/bin/xrevshlib
+/usr/bin/xsrc
+/usr/bin/xsubpkg
+/usr/share/fish/vendor_completions.d/xbarf.fish
+/usr/share/fish/vendor_completions.d/xbuildbarf.fish
+/usr/share/fish/vendor_completions.d/xbulk.fish
+/usr/share/fish/vendor_completions.d/xbump.fish
+/usr/share/fish/vendor_completions.d/xchangelog.fish
+/usr/share/fish/vendor_completions.d/xcheckmypkgs.fish
+/usr/share/fish/vendor_completions.d/xcheckrestart.fish
+/usr/share/fish/vendor_completions.d/xchroot.fish
+/usr/share/fish/vendor_completions.d/xclash.fish
+/usr/share/fish/vendor_completions.d/xdbg.fish
+/usr/share/fish/vendor_completions.d/xdiff.fish
+/usr/share/fish/vendor_completions.d/xdistdir.fish
+/usr/share/fish/vendor_completions.d/xdowngrade.fish
+/usr/share/fish/vendor_completions.d/xetcchanges.fish
+/usr/share/fish/vendor_completions.d/xgensum.fish
+/usr/share/fish/vendor_completions.d/xgrep.fish
+/usr/share/fish/vendor_completions.d/xhog.fish
+/usr/share/fish/vendor_completions.d/xi.fish
+/usr/share/fish/vendor_completions.d/xilog.fish
+/usr/share/fish/vendor_completions.d/xlg.fish
+/usr/share/fish/vendor_completions.d/xlint.fish
+/usr/share/fish/vendor_completions.d/xlocate.fish
+/usr/share/fish/vendor_completions.d/xlog.fish
+/usr/share/fish/vendor_completions.d/xls.fish
+/usr/share/fish/vendor_completions.d/xmandoc.fish
+/usr/share/fish/vendor_completions.d/xmksv.fish
+/usr/share/fish/vendor_completions.d/xmypkgs.fish
+/usr/share/fish/vendor_completions.d/xnew.fish
+/usr/share/fish/vendor_completions.d/xnews.fish
+/usr/share/fish/vendor_completions.d/xnodev.fish
+/usr/share/fish/vendor_completions.d/xoptdiff.fish
+/usr/share/fish/vendor_completions.d/xpcdeps.fish
+/usr/share/fish/vendor_completions.d/xpkg.fish
+/usr/share/fish/vendor_completions.d/xpkgdiff.fish
+/usr/share/fish/vendor_completions.d/xpstree.fish
+/usr/share/fish/vendor_completions.d/xq.fish
+/usr/share/fish/vendor_completions.d/xrecent.fish
+/usr/share/fish/vendor_completions.d/xrevbump.fish
+/usr/share/fish/vendor_completions.d/xrevshlib.fish
+/usr/share/fish/vendor_completions.d/xrs.fish
+/usr/share/fish/vendor_completions.d/xsrc.fish
+/usr/share/fish/vendor_completions.d/xsubpkg.fish
+/usr/share/fish/vendor_completions.d/xuname.fish
+/usr/share/fish/vendor_completions.d/xvoidstrap.fish
+/usr/share/fish/vendor_functions.d/__xtools_complete_archs.fish
+/usr/share/fish/vendor_functions.d/__xtools_complete_one_package.fish
+/usr/share/fish/vendor_functions.d/__xtools_complete_packages.fish
+/usr/share/fish/vendor_functions.d/__xtools_complete_repo_urls.fish
+/usr/share/man/man1/xbarf.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xbuildbarf.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xbulk.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xbump.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xchangelog.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xcheckmypkgs.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xgensum.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xlg.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xlint.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xlocate.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xlog.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xmandoc.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xmypkgs.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xnew.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xnews.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xpcdeps.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xpkgdiff.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xpstree.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xrecent.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xrevbump.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xrevshlib.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xsrc.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xsubpkg.1 -> /usr/share/man/man1/xtools.1

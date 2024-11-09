@@ -1,0 +1,9 @@
+/usr/include/KF6/KDocTools/docbookxslt.h
+/usr/include/KF6/KDocTools/kdoctools_export.h
+/usr/include/KF6/KDocTools/kdoctools_version.h
+/usr/lib/cmake/KF6DocTools/KF6DocToolsConfig.cmake
+/usr/lib/cmake/KF6DocTools/KF6DocToolsConfigVersion.cmake
+/usr/lib/cmake/KF6DocTools/KF6DocToolsMacros.cmake
+/usr/lib/cmake/KF6DocTools/KF6DocToolsTargets-none.cmake
+/usr/lib/cmake/KF6DocTools/KF6DocToolsTargets.cmake
+/usr/lib/libKF6DocTools.so -> /usr/lib/libKF6DocTools.so.6

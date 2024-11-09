@@ -1,0 +1,3 @@
+/usr/include/openaptx.h
+/usr/lib/libopenaptx.so -> /usr/lib/libopenaptx.so.0
+/usr/lib/pkgconfig/libopenaptx.pc

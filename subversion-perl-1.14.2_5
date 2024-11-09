@@ -1,0 +1,25 @@
+/usr/lib/libsvn_swig_perl-1.so.0 -> /usr/lib/libsvn_swig_perl-1.so.0.0.0
+/usr/lib/libsvn_swig_perl-1.so.0.0.0
+/usr/lib/perl5/vendor_perl/SVN/Base.pm
+/usr/lib/perl5/vendor_perl/SVN/Client.pm
+/usr/lib/perl5/vendor_perl/SVN/Core.pm
+/usr/lib/perl5/vendor_perl/SVN/Delta.pm
+/usr/lib/perl5/vendor_perl/SVN/Fs.pm
+/usr/lib/perl5/vendor_perl/SVN/Ra.pm
+/usr/lib/perl5/vendor_perl/SVN/Repos.pm
+/usr/lib/perl5/vendor_perl/SVN/Wc.pm
+/usr/lib/perl5/vendor_perl/auto/SVN/_Client/_Client.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Core/_Core.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Delta/_Delta.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Fs/_Fs.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Ra/_Ra.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Repos/_Repos.so
+/usr/lib/perl5/vendor_perl/auto/SVN/_Wc/_Wc.so
+/usr/share/man/man3/SVN::Base.3p
+/usr/share/man/man3/SVN::Client.3p
+/usr/share/man/man3/SVN::Core.3p
+/usr/share/man/man3/SVN::Delta.3p
+/usr/share/man/man3/SVN::Fs.3p
+/usr/share/man/man3/SVN::Ra.3p
+/usr/share/man/man3/SVN::Repos.3p
+/usr/share/man/man3/SVN::Wc.3p

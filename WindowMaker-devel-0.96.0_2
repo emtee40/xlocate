@@ -1,0 +1,13 @@
+/usr/include/WINGs/WINGs.h
+/usr/include/WINGs/WINGsP.h
+/usr/include/WINGs/WUtil.h
+/usr/include/WMaker.h
+/usr/include/wraster.h
+/usr/lib/libWINGs.so -> /usr/lib/libWINGs.so.3.2.0
+/usr/lib/libWMaker.so -> /usr/lib/libWMaker.so.1.0.1
+/usr/lib/libWUtil.so -> /usr/lib/libWUtil.so.5.0.0
+/usr/lib/libwraster.so -> /usr/lib/libwraster.so.6.1.0
+/usr/lib/pkgconfig/WINGs.pc
+/usr/lib/pkgconfig/WUtil.pc
+/usr/lib/pkgconfig/wmlib.pc
+/usr/lib/pkgconfig/wrlib.pc

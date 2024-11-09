@@ -1,0 +1,14 @@
+/usr/bin/ldapdomaindump
+/usr/bin/ldd2bloodhound
+/usr/bin/ldd2pretty
+/usr/lib/python3.12/site-packages/ldapdomaindump-0.9.4-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/ldapdomaindump-0.9.4-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/ldapdomaindump-0.9.4-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/ldapdomaindump-0.9.4-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/ldapdomaindump-0.9.4-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/ldapdomaindump/__init__.py
+/usr/lib/python3.12/site-packages/ldapdomaindump/__main__.py
+/usr/lib/python3.12/site-packages/ldapdomaindump/convert.py
+/usr/lib/python3.12/site-packages/ldapdomaindump/pretty.py
+/usr/lib/python3.12/site-packages/ldapdomaindump/style.css
+/usr/share/licenses/ldapdomaindump/LICENSE

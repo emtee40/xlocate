@@ -1,0 +1,3 @@
+/usr/lib32/librrd.a
+/usr/lib32/librrd.so -> /usr/lib32/librrd.so.8.3.0
+/usr/lib32/pkgconfig/librrd.pc

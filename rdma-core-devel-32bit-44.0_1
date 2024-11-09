@@ -1,0 +1,18 @@
+/usr/lib32/libefa.so -> /usr/lib32/libefa.so.1
+/usr/lib32/libibmad.so -> /usr/lib32/libibmad.so.5
+/usr/lib32/libibnetdisc.so -> /usr/lib32/libibnetdisc.so.5
+/usr/lib32/libibumad.so -> /usr/lib32/libibumad.so.3
+/usr/lib32/libibverbs.so -> /usr/lib32/libibverbs.so.1
+/usr/lib32/libmana.so -> /usr/lib32/libmana.so.1
+/usr/lib32/libmlx4.so -> /usr/lib32/libmlx4.so.1
+/usr/lib32/libmlx5.so -> /usr/lib32/libmlx5.so.1
+/usr/lib32/librdmacm.so -> /usr/lib32/librdmacm.so.1
+/usr/lib32/pkgconfig/libefa.pc
+/usr/lib32/pkgconfig/libibmad.pc
+/usr/lib32/pkgconfig/libibnetdisc.pc
+/usr/lib32/pkgconfig/libibumad.pc
+/usr/lib32/pkgconfig/libibverbs.pc
+/usr/lib32/pkgconfig/libmana.pc
+/usr/lib32/pkgconfig/libmlx4.pc
+/usr/lib32/pkgconfig/libmlx5.pc
+/usr/lib32/pkgconfig/librdmacm.pc

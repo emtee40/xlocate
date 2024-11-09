@@ -1,0 +1,11 @@
+/etc/dict/colorit.conf
+/etc/dict/dict.conf
+/usr/bin/colorit
+/usr/bin/dict
+/usr/bin/dict_lookup
+/usr/bin/dictl
+/usr/share/examples/dictd/dict1.conf
+/usr/share/man/man1/colorit.1
+/usr/share/man/man1/dict.1
+/usr/share/man/man1/dict_lookup.1
+/usr/share/man/man1/dictl.1

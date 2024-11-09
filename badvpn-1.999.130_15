@@ -1,0 +1,13 @@
+/usr/bin/badvpn-client
+/usr/bin/badvpn-flooder
+/usr/bin/badvpn-ncd
+/usr/bin/badvpn-ncd-request
+/usr/bin/badvpn-server
+/usr/bin/badvpn-tun2socks
+/usr/bin/badvpn-tunctl
+/usr/bin/badvpn-udpgw
+/usr/share/licenses/badvpn/COPYING
+/usr/share/man/man7/badvpn.7
+/usr/share/man/man8/badvpn-client.8
+/usr/share/man/man8/badvpn-server.8
+/usr/share/man/man8/badvpn-tun2socks.8

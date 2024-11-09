@@ -1,0 +1,18 @@
+/usr/include/KPim6/Gravatar/Gravatar/GravatarCache
+/usr/include/KPim6/Gravatar/Gravatar/GravatarConfigureSettingsDialog
+/usr/include/KPim6/Gravatar/Gravatar/GravatarConfigureSettingsWidget
+/usr/include/KPim6/Gravatar/Gravatar/GravatarDownloadPixmapWidget
+/usr/include/KPim6/Gravatar/Gravatar/GravatarResolvUrlJob
+/usr/include/KPim6/Gravatar/gravatar/gravatar_export.h
+/usr/include/KPim6/Gravatar/gravatar/gravatarcache.h
+/usr/include/KPim6/Gravatar/gravatar/gravatarconfiguresettingsdialog.h
+/usr/include/KPim6/Gravatar/gravatar/gravatarconfiguresettingswidget.h
+/usr/include/KPim6/Gravatar/gravatar/gravatardownloadpixmapwidget.h
+/usr/include/KPim6/Gravatar/gravatar/gravatarresolvurljob.h
+/usr/include/KPim6/Gravatar/gravatar/gravatarsettings.h
+/usr/include/KPim6/Gravatar/gravatar_version.h
+/usr/lib/cmake/KPim6Gravatar/KPim6GravatarConfig.cmake
+/usr/lib/cmake/KPim6Gravatar/KPim6GravatarConfigVersion.cmake
+/usr/lib/cmake/KPim6Gravatar/KPim6GravatarTargets-none.cmake
+/usr/lib/cmake/KPim6Gravatar/KPim6GravatarTargets.cmake
+/usr/lib/libKPim6Gravatar.so -> /usr/lib/libKPim6Gravatar.so.6

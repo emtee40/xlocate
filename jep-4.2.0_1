@@ -1,0 +1,16 @@
+/usr/bin/jep
+/usr/lib/python3.12/site-packages/jep-4.2.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/jep-4.2.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/jep-4.2.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/jep-4.2.0-py3.12.egg-info/not-zip-safe
+/usr/lib/python3.12/site-packages/jep-4.2.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/jep/__init__.py
+/usr/lib/python3.12/site-packages/jep/console.py
+/usr/lib/python3.12/site-packages/jep/java_import_hook.py
+/usr/lib/python3.12/site-packages/jep/jdbc.py
+/usr/lib/python3.12/site-packages/jep/jep-4.2.0.jar
+/usr/lib/python3.12/site-packages/jep/jep.so
+/usr/lib/python3.12/site-packages/jep/libjep.so -> /usr/lib/python3.12/site-packages/jep/jep.so
+/usr/lib/python3.12/site-packages/jep/redirect_streams.py
+/usr/lib/python3.12/site-packages/jep/shared_modules_hook.py
+/usr/lib/python3.12/site-packages/jep/version.py

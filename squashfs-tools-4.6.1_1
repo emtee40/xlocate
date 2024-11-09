@@ -1,0 +1,8 @@
+/usr/bin/mksquashfs
+/usr/bin/sqfscat -> /usr/bin/unsquashfs
+/usr/bin/sqfstar -> /usr/bin/mksquashfs
+/usr/bin/unsquashfs
+/usr/share/man/man1/mksquashfs.1
+/usr/share/man/man1/sqfscat.1
+/usr/share/man/man1/sqfstar.1
+/usr/share/man/man1/unsquashfs.1

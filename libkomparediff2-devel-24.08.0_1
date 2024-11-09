@@ -1,0 +1,27 @@
+/usr/include/KompareDiff2/KompareDiff2/DiffHunk
+/usr/include/KompareDiff2/KompareDiff2/DiffModel
+/usr/include/KompareDiff2/KompareDiff2/DiffModelList
+/usr/include/KompareDiff2/KompareDiff2/DiffSettings
+/usr/include/KompareDiff2/KompareDiff2/Difference
+/usr/include/KompareDiff2/KompareDiff2/DifferenceString
+/usr/include/KompareDiff2/KompareDiff2/Global
+/usr/include/KompareDiff2/KompareDiff2/Info
+/usr/include/KompareDiff2/KompareDiff2/Marker
+/usr/include/KompareDiff2/KompareDiff2/ModelList
+/usr/include/KompareDiff2/komparediff2/difference.h
+/usr/include/KompareDiff2/komparediff2/differencestring.h
+/usr/include/KompareDiff2/komparediff2/diffhunk.h
+/usr/include/KompareDiff2/komparediff2/diffmodel.h
+/usr/include/KompareDiff2/komparediff2/diffmodellist.h
+/usr/include/KompareDiff2/komparediff2/diffsettings.h
+/usr/include/KompareDiff2/komparediff2/global.h
+/usr/include/KompareDiff2/komparediff2/info.h
+/usr/include/KompareDiff2/komparediff2/komparediff2_export.h
+/usr/include/KompareDiff2/komparediff2/marker.h
+/usr/include/KompareDiff2/komparediff2/modellist.h
+/usr/include/KompareDiff2/komparediff2_version.h
+/usr/lib/cmake/KompareDiff2/KompareDiff2Config.cmake
+/usr/lib/cmake/KompareDiff2/KompareDiff2ConfigVersion.cmake
+/usr/lib/cmake/KompareDiff2/KompareDiff2Targets-none.cmake
+/usr/lib/cmake/KompareDiff2/KompareDiff2Targets.cmake
+/usr/lib/libkomparediff2.so -> /usr/lib/libkomparediff2.so.6

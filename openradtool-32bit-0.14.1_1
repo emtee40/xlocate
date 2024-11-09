@@ -1,0 +1,13 @@
+/usr/lib32/libort-lang-c.a
+/usr/lib32/libort-lang-javascript.a
+/usr/lib32/libort-lang-json.a
+/usr/lib32/libort-lang-nodejs.a
+/usr/lib32/libort-lang-rust.a
+/usr/lib32/libort-lang-sql.a
+/usr/lib32/libort-lang-xliff.a
+/usr/lib32/libort.a
+/usr/lib32/pkgconfig/ort-lang-javascript.pc
+/usr/lib32/pkgconfig/ort-lang-json.pc
+/usr/lib32/pkgconfig/ort-lang-nodejs.pc
+/usr/lib32/pkgconfig/ort-lang-sql.pc
+/usr/lib32/pkgconfig/ort.pc

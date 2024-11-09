@@ -1,0 +1,14 @@
+/usr/lib/libQt6QuickTest.so.6 -> /usr/lib/libQt6QuickTest.so.6.7.2
+/usr/lib/libQt6QuickTest.so.6.7.2
+/usr/lib/qt6/bin/qmltestrunner
+/usr/lib/qt6/qml/Qt/test/controls/QuickControlsTestUtilsPrivate.qmltypes
+/usr/lib/qt6/qml/Qt/test/controls/libquickcontrolstestutilsprivateplugin.so
+/usr/lib/qt6/qml/Qt/test/controls/objects-None/QuickControlsTestUtilsPrivate_resources_1/.qt/rcc/qrc_qmake_Qt_test_controls_init.cpp.o
+/usr/lib/qt6/qml/Qt/test/controls/qmldir
+/usr/lib/qt6/qml/QtTest/SignalSpy.qml
+/usr/lib/qt6/qml/QtTest/TestCase.qml
+/usr/lib/qt6/qml/QtTest/TestSchedule.qml
+/usr/lib/qt6/qml/QtTest/libquicktestplugin.so
+/usr/lib/qt6/qml/QtTest/plugins.qmltypes
+/usr/lib/qt6/qml/QtTest/qmldir
+/usr/lib/qt6/qml/QtTest/testlogger.js

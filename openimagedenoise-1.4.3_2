@@ -1,0 +1,12 @@
+/usr/bin/oidnBenchmark
+/usr/bin/oidnDenoise
+/usr/bin/oidnTest
+/usr/lib/libOpenImageDenoise.so.1 -> /usr/lib/libOpenImageDenoise.so.1.4.3
+/usr/lib/libOpenImageDenoise.so.1.4.3
+/usr/share/doc/OpenImageDenoise/CHANGELOG.md
+/usr/share/doc/OpenImageDenoise/LICENSE.txt
+/usr/share/doc/OpenImageDenoise/README.md
+/usr/share/doc/OpenImageDenoise/readme.pdf
+/usr/share/doc/OpenImageDenoise/third-party-programs-oneDNN.txt
+/usr/share/doc/OpenImageDenoise/third-party-programs-oneTBB.txt
+/usr/share/doc/OpenImageDenoise/third-party-programs.txt

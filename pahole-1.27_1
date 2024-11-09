@@ -1,0 +1,23 @@
+/usr/bin/btfdiff
+/usr/bin/codiff
+/usr/bin/ctracer
+/usr/bin/dtagnames
+/usr/bin/fullcircle
+/usr/bin/pahole
+/usr/bin/pdwtags
+/usr/bin/pfunct
+/usr/bin/pglobal
+/usr/bin/prefcnt
+/usr/bin/scncopy
+/usr/bin/syscse
+/usr/lib/libdwarves.so.1 -> /usr/lib/libdwarves.so.1.0.0
+/usr/lib/libdwarves.so.1.0.0
+/usr/lib/libdwarves_emit.so.1 -> /usr/lib/libdwarves_emit.so.1.0.0
+/usr/lib/libdwarves_emit.so.1.0.0
+/usr/lib/libdwarves_reorganize.so.1 -> /usr/lib/libdwarves_reorganize.so.1.0.0
+/usr/lib/libdwarves_reorganize.so.1.0.0
+/usr/share/dwarves/runtime/Makefile
+/usr/share/dwarves/runtime/ctracer_relay.c
+/usr/share/dwarves/runtime/ctracer_relay.h
+/usr/share/dwarves/runtime/linux.blacklist.cu
+/usr/share/man/man1/pahole.1

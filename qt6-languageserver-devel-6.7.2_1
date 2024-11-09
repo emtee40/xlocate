@@ -1,0 +1,15 @@
+/usr/include/qt6/QtJsonRpc/QtJsonRpc
+/usr/include/qt6/QtJsonRpc/QtJsonRpcDepends
+/usr/include/qt6/QtJsonRpc/QtJsonRpcVersion
+/usr/include/qt6/QtJsonRpc/qtjsonrpcglobal.h
+/usr/include/qt6/QtJsonRpc/qtjsonrpcversion.h
+/usr/include/qt6/QtLanguageServer/QtLanguageServer
+/usr/include/qt6/QtLanguageServer/QtLanguageServerDepends
+/usr/include/qt6/QtLanguageServer/QtLanguageServerVersion
+/usr/include/qt6/QtLanguageServer/qtlanguageserverglobal.h
+/usr/include/qt6/QtLanguageServer/qtlanguageserverversion.h
+/usr/lib/cmake/Qt6BuildInternals/StandaloneTests/QtLanguageServerTestsConfig.cmake
+/usr/lib/libQt6JsonRpc.prl
+/usr/lib/libQt6JsonRpc.so -> /usr/lib/libQt6JsonRpc.so.6
+/usr/lib/libQt6LanguageServer.prl
+/usr/lib/libQt6LanguageServer.so -> /usr/lib/libQt6LanguageServer.so.6

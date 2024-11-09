@@ -1,0 +1,15 @@
+/usr/bin/pjsua
+/usr/lib/libg7221codec.so.2
+/usr/lib/libilbccodec.so.2
+/usr/lib/libpj.so.2
+/usr/lib/libpjlib-util.so.2
+/usr/lib/libpjmedia-audiodev.so.2
+/usr/lib/libpjmedia-codec.so.2
+/usr/lib/libpjmedia-videodev.so.2
+/usr/lib/libpjmedia.so.2
+/usr/lib/libpjnath.so.2
+/usr/lib/libpjsip-simple.so.2
+/usr/lib/libpjsip-ua.so.2
+/usr/lib/libpjsip.so.2
+/usr/lib/libpjsua.so.2
+/usr/lib/libpjsua2.so.2

@@ -1,0 +1,8 @@
+/etc/sv/thinkfan/run
+/etc/sv/thinkfan/supervise -> /run/runit/supervise.thinkfan
+/usr/bin/thinkfan
+/usr/lib/modprobe.d/thinkpad_acpi.conf
+/usr/share/examples/thinkfan/thinkfan.yaml
+/usr/share/man/man1/thinkfan.1
+/usr/share/man/man5/thinkfan.conf.5
+/usr/share/man/man5/thinkfan.conf.legacy.5

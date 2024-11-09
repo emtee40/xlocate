@@ -1,0 +1,8 @@
+/usr/bin/scrotty
+/usr/share/bash-completion/completions/scrotty
+/usr/share/fish/vendor_completions.d/scrotty.fish
+/usr/share/info/scrotty.info.gz
+/usr/share/licenses/scrotty/COPYING
+/usr/share/locale/sv/LC_MESSAGES/scrotty.mo
+/usr/share/man/man1/scrotty.1
+/usr/share/zsh/site-functions/_scrotty

@@ -1,0 +1,11 @@
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/BasicResizeHandle.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/CropBackground.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/RectangleCutout.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/SelectionBackground.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/SelectionHandle.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/SelectionTool.qml
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/kquickimageeditorplugin.qmltypes
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/libkquickimageeditorplugin.so
+/usr/lib/qt6/qml/org/kde/kquickimageeditor/qmldir
+/usr/share/licenses/kquickimageeditor/BSD-2-Clause.txt

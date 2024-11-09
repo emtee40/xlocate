@@ -1,0 +1,5 @@
+/usr/include/magic.h
+/usr/lib/libmagic.a
+/usr/lib/libmagic.so -> /usr/lib/libmagic.so.1.0.0
+/usr/lib/pkgconfig/libmagic.pc
+/usr/share/man/man3/libmagic.3

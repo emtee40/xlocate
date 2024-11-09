@@ -1,0 +1,8 @@
+/usr/lib/libKF5WaylandClient.so.5 -> /usr/lib/libKF5WaylandClient.so.5.116.0
+/usr/lib/libKF5WaylandClient.so.5.116.0
+/usr/lib/libKF5WaylandServer.so.5 -> /usr/lib/libKF5WaylandServer.so.5.116.0
+/usr/lib/libKF5WaylandServer.so.5.116.0
+/usr/lib/pkgconfig/KF5WaylandClient.pc
+/usr/libexec/org-kde-kf5-kwayland-testserver
+/usr/share/qlogging-categories5/kwayland.categories
+/usr/share/qlogging-categories5/kwayland.renamecategories

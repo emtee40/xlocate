@@ -1,0 +1,5 @@
+/usr/lib/ladspa/amp.so
+/usr/lib/ladspa/delay.so
+/usr/lib/ladspa/filter.so
+/usr/lib/ladspa/noise.so
+/usr/lib/ladspa/sine.so

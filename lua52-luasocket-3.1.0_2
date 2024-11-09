@@ -1,0 +1,12 @@
+/usr/lib/lua/5.2/ltn12.lua
+/usr/lib/lua/5.2/mime.lua
+/usr/lib/lua/5.2/mime/core.so
+/usr/lib/lua/5.2/socket.lua
+/usr/lib/lua/5.2/socket/core.so
+/usr/lib/lua/5.2/socket/ftp.lua
+/usr/lib/lua/5.2/socket/headers.lua
+/usr/lib/lua/5.2/socket/http.lua
+/usr/lib/lua/5.2/socket/smtp.lua
+/usr/lib/lua/5.2/socket/tp.lua
+/usr/lib/lua/5.2/socket/url.lua
+/usr/share/licenses/lua52-luasocket/LICENSE

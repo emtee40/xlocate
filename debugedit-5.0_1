@@ -1,0 +1,6 @@
+/usr/bin/debugedit
+/usr/bin/find-debuginfo
+/usr/bin/sepdebugcrcfix
+/usr/share/man/man1/debugedit.1
+/usr/share/man/man1/find-debuginfo.1
+/usr/share/man/man1/sepdebugcrcfix.1

@@ -1,0 +1,14 @@
+/usr/bin/rst2ansi
+/usr/lib/python3.12/site-packages/rst2ansi-0.1.5-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/rst2ansi-0.1.5-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/rst2ansi-0.1.5-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/rst2ansi-0.1.5-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/rst2ansi/__init__.py
+/usr/lib/python3.12/site-packages/rst2ansi/ansi.py
+/usr/lib/python3.12/site-packages/rst2ansi/functional.py
+/usr/lib/python3.12/site-packages/rst2ansi/get_terminal_size.py
+/usr/lib/python3.12/site-packages/rst2ansi/table.py
+/usr/lib/python3.12/site-packages/rst2ansi/unicode.py
+/usr/lib/python3.12/site-packages/rst2ansi/visitor.py
+/usr/lib/python3.12/site-packages/rst2ansi/wrap.py
+/usr/share/licenses/python3-rst2ansi/LICENSE

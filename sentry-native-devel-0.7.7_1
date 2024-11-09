@@ -1,0 +1,5 @@
+/usr/include/sentry.h
+/usr/lib/cmake/sentry/sentry-config-version.cmake
+/usr/lib/cmake/sentry/sentry-config.cmake
+/usr/lib/cmake/sentry/sentry-targets-none.cmake
+/usr/lib/cmake/sentry/sentry-targets.cmake

@@ -1,0 +1,19 @@
+/usr/lib32/libsignon-extension.so.1 -> /usr/lib32/libsignon-extension.so.1.0.0
+/usr/lib32/libsignon-extension.so.1.0 -> /usr/lib32/libsignon-extension.so.1.0.0
+/usr/lib32/libsignon-extension.so.1.0.0
+/usr/lib32/libsignon-plugins-common.so.1 -> /usr/lib32/libsignon-plugins-common.so.1.0.0
+/usr/lib32/libsignon-plugins-common.so.1.0 -> /usr/lib32/libsignon-plugins-common.so.1.0.0
+/usr/lib32/libsignon-plugins-common.so.1.0.0
+/usr/lib32/libsignon-plugins.so.1 -> /usr/lib32/libsignon-plugins.so.1.0.0
+/usr/lib32/libsignon-plugins.so.1.0 -> /usr/lib32/libsignon-plugins.so.1.0.0
+/usr/lib32/libsignon-plugins.so.1.0.0
+/usr/lib32/libsignon-qt5.so.1 -> /usr/lib32/libsignon-qt5.so.1.0.0
+/usr/lib32/libsignon-qt5.so.1.0 -> /usr/lib32/libsignon-qt5.so.1.0.0
+/usr/lib32/libsignon-qt5.so.1.0.0
+/usr/lib32/libsignon-qt6.so.1 -> /usr/lib32/libsignon-qt6.so.1.0.0
+/usr/lib32/libsignon-qt6.so.1.0 -> /usr/lib32/libsignon-qt6.so.1.0.0
+/usr/lib32/libsignon-qt6.so.1.0.0
+/usr/lib32/signon/libexampleplugin.so
+/usr/lib32/signon/libpasswordplugin.so
+/usr/lib32/signon/libssotest2plugin.so
+/usr/lib32/signon/libssotestplugin.so

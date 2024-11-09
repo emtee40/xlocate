@@ -1,0 +1,10 @@
+/usr/include/snapper/AsciiFile.h
+/usr/include/snapper/Comparison.h
+/usr/include/snapper/Exception.h
+/usr/include/snapper/File.h
+/usr/include/snapper/Logger.h
+/usr/include/snapper/Plugins.h
+/usr/include/snapper/Snapper.h
+/usr/include/snapper/Snapshot.h
+/usr/include/snapper/Version.h
+/usr/lib/libsnapper.so -> /usr/lib/libsnapper.so.7.4.3

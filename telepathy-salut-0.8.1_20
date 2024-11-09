@@ -1,0 +1,9 @@
+/usr/lib/telepathy/salut-0/lib/libsalut-plugins-0.8.1.so
+/usr/lib/telepathy/salut-0/lib/libsalut-plugins.so -> /usr/lib/telepathy/salut-0/lib/libsalut-plugins-0.8.1.so
+/usr/lib/telepathy/salut-0/lib/libwocky-telepathy-salut-0.8.1.so
+/usr/lib/telepathy/salut-0/lib/libwocky.so -> /usr/lib/telepathy/salut-0/lib/libwocky-telepathy-salut-0.8.1.so
+/usr/libexec/telepathy-salut
+/usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.salut.service
+/usr/share/doc/telepathy-salut/clique.html
+/usr/share/man/man8/telepathy-salut.8
+/usr/share/telepathy/managers/salut.manager

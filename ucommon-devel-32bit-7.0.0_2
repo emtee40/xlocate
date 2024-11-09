@@ -1,0 +1,8 @@
+/usr/lib32/libcommoncpp.a
+/usr/lib32/libcommoncpp.so -> /usr/lib32/libcommoncpp.so.8.0.0
+/usr/lib32/libucommon.a
+/usr/lib32/libucommon.so -> /usr/lib32/libucommon.so.8.0.0
+/usr/lib32/libusecure.a
+/usr/lib32/libusecure.so -> /usr/lib32/libusecure.so.8.0.0
+/usr/lib32/pkgconfig/commoncpp.pc
+/usr/lib32/pkgconfig/ucommon.pc

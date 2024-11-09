@@ -1,0 +1,13 @@
+/usr/lib/libIrcCore.so.3 -> /usr/lib/libIrcCore.so.3.5.0
+/usr/lib/libIrcCore.so.3.5 -> /usr/lib/libIrcCore.so.3.5.0
+/usr/lib/libIrcCore.so.3.5.0
+/usr/lib/libIrcModel.so.3 -> /usr/lib/libIrcModel.so.3.5.0
+/usr/lib/libIrcModel.so.3.5 -> /usr/lib/libIrcModel.so.3.5.0
+/usr/lib/libIrcModel.so.3.5.0
+/usr/lib/libIrcUtil.so.3 -> /usr/lib/libIrcUtil.so.3.5.0
+/usr/lib/libIrcUtil.so.3.5 -> /usr/lib/libIrcUtil.so.3.5.0
+/usr/lib/libIrcUtil.so.3.5.0
+/usr/lib/qt5/qml/Communi/libcommuniplugin.so
+/usr/lib/qt5/qml/Communi/plugins.qmltypes
+/usr/lib/qt5/qml/Communi/qmldir
+/usr/share/licenses/libcommuni/LICENSE

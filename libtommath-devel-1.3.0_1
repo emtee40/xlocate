@@ -1,0 +1,4 @@
+/usr/include/tommath.h
+/usr/lib/libtommath.a
+/usr/lib/libtommath.so -> /usr/lib/libtommath.so.1.3.0
+/usr/lib/pkgconfig/libtommath.pc

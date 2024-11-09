@@ -1,0 +1,5 @@
+/etc/sv/gemserv/run
+/etc/sv/gemserv/supervise -> /run/runit/supervise.gemserv
+/usr/bin/gemserv
+/usr/share/examples/gemserv/config.toml
+/usr/share/licenses/gemserv/LICENSE

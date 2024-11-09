@@ -1,0 +1,7 @@
+/usr/bin/paxcpio -> /usr/bin/paxmirabilis
+/usr/bin/paxmirabilis
+/usr/bin/paxtar -> /usr/bin/paxmirabilis
+/usr/share/licenses/pax/LICENSE
+/usr/share/man/man1/paxcpio.1
+/usr/share/man/man1/paxmirabilis.1
+/usr/share/man/man1/paxtar.1

@@ -1,0 +1,6 @@
+/usr/include/libqxp-0.0/libqxp/QXPDocument.h
+/usr/include/libqxp-0.0/libqxp/QXPPathResolver.h
+/usr/include/libqxp-0.0/libqxp/libqxp.h
+/usr/include/libqxp-0.0/libqxp/libqxp_api.h
+/usr/lib/libqxp-0.0.so -> /usr/lib/libqxp-0.0.so.0.0.2
+/usr/lib/pkgconfig/libqxp-0.0.pc

@@ -1,0 +1,19 @@
+/usr/include/libfswatch/c++/event.hpp
+/usr/include/libfswatch/c++/filter.hpp
+/usr/include/libfswatch/c++/inotify_monitor.hpp
+/usr/include/libfswatch/c++/libfswatch_exception.hpp
+/usr/include/libfswatch/c++/libfswatch_map.hpp
+/usr/include/libfswatch/c++/libfswatch_set.hpp
+/usr/include/libfswatch/c++/monitor.hpp
+/usr/include/libfswatch/c++/monitor_factory.hpp
+/usr/include/libfswatch/c++/path_utils.hpp
+/usr/include/libfswatch/c++/poll_monitor.hpp
+/usr/include/libfswatch/c++/string_utils.hpp
+/usr/include/libfswatch/c/cevent.h
+/usr/include/libfswatch/c/cfilter.h
+/usr/include/libfswatch/c/cmonitor.h
+/usr/include/libfswatch/c/error.h
+/usr/include/libfswatch/c/libfswatch.h
+/usr/include/libfswatch/c/libfswatch_log.h
+/usr/include/libfswatch/c/libfswatch_types.h
+/usr/lib/libfswatch.so -> /usr/lib/libfswatch.so.13.0.0

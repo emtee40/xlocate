@@ -1,0 +1,24 @@
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitx5qt6dbusaddons_export.h
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitxqtcontrollerproxy.h
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitxqtdbustypes.h
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitxqtinputcontextproxy.h
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitxqtinputmethodproxy.h
+/usr/include/Fcitx5Qt6/Fcitx5Qt6DBusAddons/fcitxqtwatcher.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitx5qt6widgetsaddons_export.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitxqtconfiguifactory.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitxqtconfiguiplugin.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitxqtconfiguiwidget.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitxqti18nhelper.h
+/usr/include/Fcitx5Qt6/Fcitx5QtWidgetsAddons/fcitxqtkeysequencewidget.h
+/usr/include/Fcitx5Qt6/fcitx5qt6dbusaddons_version.h
+/usr/include/Fcitx5Qt6/fcitx5qt6widgetsaddons_version.h
+/usr/lib/cmake/Fcitx5Qt6DBusAddons/Fcitx5Qt6DBusAddonsConfig.cmake
+/usr/lib/cmake/Fcitx5Qt6DBusAddons/Fcitx5Qt6DBusAddonsConfigVersion.cmake
+/usr/lib/cmake/Fcitx5Qt6DBusAddons/Fcitx5Qt6DBusAddonsTargets-none.cmake
+/usr/lib/cmake/Fcitx5Qt6DBusAddons/Fcitx5Qt6DBusAddonsTargets.cmake
+/usr/lib/cmake/Fcitx5Qt6WidgetsAddons/Fcitx5Qt6WidgetsAddonsConfig.cmake
+/usr/lib/cmake/Fcitx5Qt6WidgetsAddons/Fcitx5Qt6WidgetsAddonsConfigVersion.cmake
+/usr/lib/cmake/Fcitx5Qt6WidgetsAddons/Fcitx5Qt6WidgetsAddonsTargets-none.cmake
+/usr/lib/cmake/Fcitx5Qt6WidgetsAddons/Fcitx5Qt6WidgetsAddonsTargets.cmake
+/usr/lib/libFcitx5Qt6DBusAddons.so -> /usr/lib/libFcitx5Qt6DBusAddons.so.1
+/usr/lib/libFcitx5Qt6WidgetsAddons.so -> /usr/lib/libFcitx5Qt6WidgetsAddons.so.2

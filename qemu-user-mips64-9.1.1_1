@@ -1,0 +1,3 @@
+/usr/bin/qemu-mips64
+/usr/bin/qemu-mips64-static -> /usr/bin/qemu-mips64
+/usr/share/binfmts/qemu-mips64

@@ -1,0 +1,16 @@
+/usr/bin/iodbc-config
+/usr/include/libiodbc/iodbcext.h
+/usr/include/libiodbc/iodbcinst.h
+/usr/include/libiodbc/iodbcunix.h
+/usr/include/libiodbc/isql.h
+/usr/include/libiodbc/isqlext.h
+/usr/include/libiodbc/isqltypes.h
+/usr/include/libiodbc/odbcinst.h
+/usr/include/libiodbc/sql.h
+/usr/include/libiodbc/sqlext.h
+/usr/include/libiodbc/sqltypes.h
+/usr/include/libiodbc/sqlucode.h
+/usr/lib/libiodbc.so -> /usr/lib/libiodbc.so.2.1.25
+/usr/lib/libiodbcinst.so -> /usr/lib/libiodbcinst.so.2.1.25
+/usr/lib/pkgconfig/libiodbc.pc
+/usr/share/man/man1/iodbc-config.1

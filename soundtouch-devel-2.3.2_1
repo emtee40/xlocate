@@ -1,0 +1,11 @@
+/usr/include/SoundTouchDLL.h
+/usr/include/soundtouch/BPMDetect.h
+/usr/include/soundtouch/FIFOSampleBuffer.h
+/usr/include/soundtouch/FIFOSamplePipe.h
+/usr/include/soundtouch/STTypes.h
+/usr/include/soundtouch/SoundTouch.h
+/usr/include/soundtouch/soundtouch_config.h
+/usr/lib/libSoundTouch.so -> /usr/lib/libSoundTouch.so.1.0.0
+/usr/lib/libSoundTouchDll.so -> /usr/lib/libSoundTouchDll.so.1.0.0
+/usr/lib/pkgconfig/soundtouch.pc
+/usr/share/aclocal/soundtouch.m4

@@ -1,0 +1,11 @@
+/usr/include/osmosdr/api.h
+/usr/include/osmosdr/device.h
+/usr/include/osmosdr/pimpl.h
+/usr/include/osmosdr/ranges.h
+/usr/include/osmosdr/sink.h
+/usr/include/osmosdr/source.h
+/usr/include/osmosdr/time_spec.h
+/usr/lib/cmake/osmosdr/gnuradio-osmosdrConfig.cmake
+/usr/lib/cmake/osmosdr/gnuradio-osmosdrTargets-none.cmake
+/usr/lib/cmake/osmosdr/gnuradio-osmosdrTargets.cmake
+/usr/lib/libgnuradio-osmosdr.so -> /usr/lib/libgnuradio-osmosdr.so.0.2.0

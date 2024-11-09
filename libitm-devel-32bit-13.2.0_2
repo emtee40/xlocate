@@ -1,0 +1,2 @@
+/usr/lib32/libitm.a
+/usr/lib32/libitm.so -> /usr/lib32/libitm.so.1.0.0

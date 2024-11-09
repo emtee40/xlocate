@@ -1,0 +1,6 @@
+/usr/include/spnav.h
+/usr/include/spnav_config.h
+/usr/include/spnav_magellan.h
+/usr/lib/libspnav.a
+/usr/lib/libspnav.so -> /usr/lib/libspnav.so.0
+/usr/share/pkgconfig/spnav.pc

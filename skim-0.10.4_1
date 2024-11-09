@@ -1,0 +1,11 @@
+/usr/bin/sk
+/usr/bin/sk-tmux
+/usr/share/bash-completion/completions/sk
+/usr/share/licenses/skim/LICENSE
+/usr/share/man/man1/sk-tmux.1
+/usr/share/man/man1/sk.1
+/usr/share/skim/key-bindings.bash
+/usr/share/skim/key-bindings.fish
+/usr/share/skim/key-bindings.zsh
+/usr/share/vim/vimfiles/plugin/skim.vim
+/usr/share/zsh/site-functions/_sk

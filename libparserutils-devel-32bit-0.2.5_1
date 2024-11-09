@@ -1,0 +1,3 @@
+/usr/lib32/libparserutils.a
+/usr/lib32/libparserutils.so -> /usr/lib32/libparserutils.so.0.2.5
+/usr/lib32/pkgconfig/libparserutils.pc

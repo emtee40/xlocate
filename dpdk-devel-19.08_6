@@ -1,0 +1,994 @@
+/usr/bin/dpdk-pdump
+/usr/bin/dpdk-proc-info
+/usr/bin/dpdk-test
+/usr/bin/dpdk-test-acl
+/usr/bin/dpdk-test-bbdev
+/usr/bin/dpdk-test-cmdline
+/usr/bin/dpdk-test-compress-perf
+/usr/bin/dpdk-test-crypto-perf
+/usr/bin/dpdk-test-eventdev
+/usr/bin/dpdk-test-pipeline
+/usr/bin/dpdk-testpmd
+/usr/include/cmdline.h
+/usr/include/cmdline_cirbuf.h
+/usr/include/cmdline_parse.h
+/usr/include/cmdline_parse_etheraddr.h
+/usr/include/cmdline_parse_ipaddr.h
+/usr/include/cmdline_parse_num.h
+/usr/include/cmdline_parse_portlist.h
+/usr/include/cmdline_parse_string.h
+/usr/include/cmdline_rdline.h
+/usr/include/cmdline_socket.h
+/usr/include/cmdline_vt100.h
+/usr/include/generic/rte_atomic.h
+/usr/include/generic/rte_byteorder.h
+/usr/include/generic/rte_cpuflags.h
+/usr/include/generic/rte_cycles.h
+/usr/include/generic/rte_io.h
+/usr/include/generic/rte_mcslock.h
+/usr/include/generic/rte_memcpy.h
+/usr/include/generic/rte_pause.h
+/usr/include/generic/rte_prefetch.h
+/usr/include/generic/rte_rwlock.h
+/usr/include/generic/rte_spinlock.h
+/usr/include/generic/rte_ticketlock.h
+/usr/include/generic/rte_vect.h
+/usr/include/rte_acl.h
+/usr/include/rte_acl_osdep.h
+/usr/include/rte_alarm.h
+/usr/include/rte_approx.h
+/usr/include/rte_arp.h
+/usr/include/rte_atomic.h
+/usr/include/rte_atomic_32.h
+/usr/include/rte_atomic_64.h
+/usr/include/rte_avp_common.h
+/usr/include/rte_avp_fifo.h
+/usr/include/rte_bbdev.h
+/usr/include/rte_bbdev_op.h
+/usr/include/rte_bbdev_pmd.h
+/usr/include/rte_bitmap.h
+/usr/include/rte_bitrate.h
+/usr/include/rte_branch_prediction.h
+/usr/include/rte_build_config.h
+/usr/include/rte_bus.h
+/usr/include/rte_bus_ifpga.h
+/usr/include/rte_bus_pci.h
+/usr/include/rte_bus_vdev.h
+/usr/include/rte_bus_vmbus.h
+/usr/include/rte_byteorder.h
+/usr/include/rte_byteorder_32.h
+/usr/include/rte_byteorder_64.h
+/usr/include/rte_cfgfile.h
+/usr/include/rte_class.h
+/usr/include/rte_cmp_arm64.h
+/usr/include/rte_cmp_x86.h
+/usr/include/rte_common.h
+/usr/include/rte_comp.h
+/usr/include/rte_compat.h
+/usr/include/rte_compressdev.h
+/usr/include/rte_compressdev_internal.h
+/usr/include/rte_compressdev_pmd.h
+/usr/include/rte_config.h
+/usr/include/rte_cpuflags.h
+/usr/include/rte_crc_arm64.h
+/usr/include/rte_crypto.h
+/usr/include/rte_crypto_asym.h
+/usr/include/rte_crypto_sym.h
+/usr/include/rte_cryptodev.h
+/usr/include/rte_cryptodev_pmd.h
+/usr/include/rte_cuckoo_hash.h
+/usr/include/rte_cycles.h
+/usr/include/rte_debug.h
+/usr/include/rte_dev.h
+/usr/include/rte_dev_info.h
+/usr/include/rte_devargs.h
+/usr/include/rte_distributor.h
+/usr/include/rte_eal.h
+/usr/include/rte_eal_interrupts.h
+/usr/include/rte_eal_memconfig.h
+/usr/include/rte_efd.h
+/usr/include/rte_errno.h
+/usr/include/rte_esp.h
+/usr/include/rte_eth_bond.h
+/usr/include/rte_eth_bond_8023ad.h
+/usr/include/rte_eth_ctrl.h
+/usr/include/rte_eth_ring.h
+/usr/include/rte_eth_softnic.h
+/usr/include/rte_eth_vhost.h
+/usr/include/rte_ethdev.h
+/usr/include/rte_ethdev_core.h
+/usr/include/rte_ethdev_driver.h
+/usr/include/rte_ethdev_pci.h
+/usr/include/rte_ethdev_vdev.h
+/usr/include/rte_ether.h
+/usr/include/rte_event_crypto_adapter.h
+/usr/include/rte_event_eth_rx_adapter.h
+/usr/include/rte_event_eth_tx_adapter.h
+/usr/include/rte_event_ring.h
+/usr/include/rte_event_timer_adapter.h
+/usr/include/rte_event_timer_adapter_pmd.h
+/usr/include/rte_eventdev.h
+/usr/include/rte_eventdev_pmd.h
+/usr/include/rte_eventdev_pmd_pci.h
+/usr/include/rte_eventdev_pmd_vdev.h
+/usr/include/rte_fbarray.h
+/usr/include/rte_fbk_hash.h
+/usr/include/rte_flow.h
+/usr/include/rte_flow_classify.h
+/usr/include/rte_flow_driver.h
+/usr/include/rte_gre.h
+/usr/include/rte_gro.h
+/usr/include/rte_gso.h
+/usr/include/rte_hash.h
+/usr/include/rte_hash_crc.h
+/usr/include/rte_hexdump.h
+/usr/include/rte_hypervisor.h
+/usr/include/rte_icmp.h
+/usr/include/rte_interrupts.h
+/usr/include/rte_io.h
+/usr/include/rte_ioat_rawdev.h
+/usr/include/rte_ioat_spec.h
+/usr/include/rte_ip.h
+/usr/include/rte_ip_frag.h
+/usr/include/rte_ipsec.h
+/usr/include/rte_ipsec_group.h
+/usr/include/rte_ipsec_sa.h
+/usr/include/rte_jhash.h
+/usr/include/rte_jobstats.h
+/usr/include/rte_keepalive.h
+/usr/include/rte_kni.h
+/usr/include/rte_kni_common.h
+/usr/include/rte_kvargs.h
+/usr/include/rte_latencystats.h
+/usr/include/rte_launch.h
+/usr/include/rte_lcore.h
+/usr/include/rte_log.h
+/usr/include/rte_lpm.h
+/usr/include/rte_lpm6.h
+/usr/include/rte_lpm_altivec.h
+/usr/include/rte_lpm_neon.h
+/usr/include/rte_lpm_sse.h
+/usr/include/rte_lru.h
+/usr/include/rte_lru_x86.h
+/usr/include/rte_malloc.h
+/usr/include/rte_malloc_heap.h
+/usr/include/rte_mbuf.h
+/usr/include/rte_mbuf_pool_ops.h
+/usr/include/rte_mbuf_ptype.h
+/usr/include/rte_member.h
+/usr/include/rte_memcpy.h
+/usr/include/rte_memory.h
+/usr/include/rte_mempool.h
+/usr/include/rte_memzone.h
+/usr/include/rte_meter.h
+/usr/include/rte_metrics.h
+/usr/include/rte_mpls.h
+/usr/include/rte_mtr.h
+/usr/include/rte_mtr_driver.h
+/usr/include/rte_net.h
+/usr/include/rte_net_crc.h
+/usr/include/rte_option.h
+/usr/include/rte_os.h
+/usr/include/rte_pause.h
+/usr/include/rte_pci.h
+/usr/include/rte_pci_dev_feature_defs.h
+/usr/include/rte_pci_dev_features.h
+/usr/include/rte_pdump.h
+/usr/include/rte_per_lcore.h
+/usr/include/rte_pipeline.h
+/usr/include/rte_pmd_bnxt.h
+/usr/include/rte_pmd_dpaa.h
+/usr/include/rte_pmd_dpaa2.h
+/usr/include/rte_pmd_dpaa2_cmdif.h
+/usr/include/rte_pmd_dpaa2_qdma.h
+/usr/include/rte_pmd_i40e.h
+/usr/include/rte_pmd_ixgbe.h
+/usr/include/rte_port.h
+/usr/include/rte_port_ethdev.h
+/usr/include/rte_port_fd.h
+/usr/include/rte_port_frag.h
+/usr/include/rte_port_in_action.h
+/usr/include/rte_port_kni.h
+/usr/include/rte_port_ras.h
+/usr/include/rte_port_ring.h
+/usr/include/rte_port_sched.h
+/usr/include/rte_port_source_sink.h
+/usr/include/rte_port_sym_crypto.h
+/usr/include/rte_power.h
+/usr/include/rte_power_empty_poll.h
+/usr/include/rte_prefetch.h
+/usr/include/rte_random.h
+/usr/include/rte_rawdev.h
+/usr/include/rte_rawdev_pmd.h
+/usr/include/rte_rcu_qsbr.h
+/usr/include/rte_reciprocal.h
+/usr/include/rte_red.h
+/usr/include/rte_reorder.h
+/usr/include/rte_ring.h
+/usr/include/rte_ring_c11_mem.h
+/usr/include/rte_ring_generic.h
+/usr/include/rte_rtm.h
+/usr/include/rte_rwlock.h
+/usr/include/rte_sched.h
+/usr/include/rte_sched_common.h
+/usr/include/rte_sctp.h
+/usr/include/rte_security.h
+/usr/include/rte_security_driver.h
+/usr/include/rte_service.h
+/usr/include/rte_service_component.h
+/usr/include/rte_spinlock.h
+/usr/include/rte_stack.h
+/usr/include/rte_stack_lf.h
+/usr/include/rte_stack_lf_c11.h
+/usr/include/rte_stack_lf_generic.h
+/usr/include/rte_stack_std.h
+/usr/include/rte_string_fns.h
+/usr/include/rte_table.h
+/usr/include/rte_table_acl.h
+/usr/include/rte_table_action.h
+/usr/include/rte_table_array.h
+/usr/include/rte_table_hash.h
+/usr/include/rte_table_hash_cuckoo.h
+/usr/include/rte_table_hash_func.h
+/usr/include/rte_table_hash_func_arm64.h
+/usr/include/rte_table_lpm.h
+/usr/include/rte_table_lpm_ipv6.h
+/usr/include/rte_table_stub.h
+/usr/include/rte_tailq.h
+/usr/include/rte_tcp.h
+/usr/include/rte_telemetry.h
+/usr/include/rte_telemetry_internal.h
+/usr/include/rte_telemetry_parser.h
+/usr/include/rte_thash.h
+/usr/include/rte_time.h
+/usr/include/rte_timer.h
+/usr/include/rte_tm.h
+/usr/include/rte_tm_driver.h
+/usr/include/rte_udp.h
+/usr/include/rte_uuid.h
+/usr/include/rte_vdpa.h
+/usr/include/rte_vect.h
+/usr/include/rte_version.h
+/usr/include/rte_vhost.h
+/usr/include/rte_vhost_crypto.h
+/usr/include/rte_vmbus_reg.h
+/usr/lib/dpdk/pmds-19.08/librte_bus_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_dpaa.so.2
+/usr/lib/dpdk/pmds-19.08/librte_bus_fslmc.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_fslmc.so.2
+/usr/lib/dpdk/pmds-19.08/librte_bus_ifpga.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_ifpga.so.2
+/usr/lib/dpdk/pmds-19.08/librte_bus_pci.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_pci.so.2
+/usr/lib/dpdk/pmds-19.08/librte_bus_vdev.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_vdev.so.2
+/usr/lib/dpdk/pmds-19.08/librte_bus_vmbus.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_vmbus.so.2
+/usr/lib/dpdk/pmds-19.08/librte_common_cpt.so -> /usr/lib/dpdk/pmds-19.08/librte_common_cpt.so.1
+/usr/lib/dpdk/pmds-19.08/librte_common_dpaax.so -> /usr/lib/dpdk/pmds-19.08/librte_common_dpaax.so.1
+/usr/lib/dpdk/pmds-19.08/librte_common_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_common_octeontx.so.1
+/usr/lib/dpdk/pmds-19.08/librte_common_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_common_octeontx2.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_bucket.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_bucket.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa2.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa2.so.2
+/usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx2.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_ring.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_ring.so.1
+/usr/lib/dpdk/pmds-19.08/librte_mempool_stack.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_stack.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_af_packet.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_af_packet.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ark.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ark.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_atlantic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_atlantic.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_avp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_avp.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_axgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_axgbe.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_null.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_null.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bnx2x.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bnx2x.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bnxt.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bnxt.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_bond.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bond.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_caam_jr.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_caam_jr.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ccp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ccp.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_cxgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_cxgbe.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_dsw_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dsw_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_e1000.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_e1000.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ena.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ena.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_enetc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_enetc.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_enic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_enic.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_failsafe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_failsafe.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_fm10k.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_fm10k.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_hinic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_hinic.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_i40e.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_i40e.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_iavf.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_iavf.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ice.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ice.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ifc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ifc.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ipn3ke.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ipn3ke.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ixgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ixgbe.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_kni.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_kni.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_liquidio.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_liquidio.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_memif.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_memif.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_netvsc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_netvsc.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_nfp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_nfp.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_null.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_null.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_null_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_null_crypto.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_opdl_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_opdl_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_openssl.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_openssl.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_pcap.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_pcap.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_qat.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_qat.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_ring.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ring.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_sfc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_sfc.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_skeleton_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_skeleton_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_softnic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_softnic.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_sw_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_sw_event.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_tap.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_tap.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_thunderx.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_thunderx.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_vhost.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vhost.so.2
+/usr/lib/dpdk/pmds-19.08/librte_pmd_virtio.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_virtio.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_vmxnet3.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vmxnet3.so.1
+/usr/lib/dpdk/pmds-19.08/librte_pmd_zlib.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_zlib.so.1
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so.2
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so.2
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_ioat.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_ioat.so.1
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_ntb.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_ntb.so.1
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so.1
+/usr/lib/dpdk/pmds-19.08/librte_rawdev_skeleton.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_skeleton.so.1
+/usr/lib/librte_acl.a
+/usr/lib/librte_acl.so -> /usr/lib/librte_acl.so.2
+/usr/lib/librte_bbdev.a
+/usr/lib/librte_bbdev.so -> /usr/lib/librte_bbdev.so.1
+/usr/lib/librte_bitratestats.a
+/usr/lib/librte_bitratestats.so -> /usr/lib/librte_bitratestats.so.2
+/usr/lib/librte_bpf.a
+/usr/lib/librte_bpf.so -> /usr/lib/librte_bpf.so.1
+/usr/lib/librte_bus_dpaa.a
+/usr/lib/librte_bus_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_dpaa.so
+/usr/lib/librte_bus_fslmc.a
+/usr/lib/librte_bus_fslmc.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_fslmc.so
+/usr/lib/librte_bus_ifpga.a
+/usr/lib/librte_bus_ifpga.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_ifpga.so
+/usr/lib/librte_bus_pci.a
+/usr/lib/librte_bus_pci.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_pci.so
+/usr/lib/librte_bus_vdev.a
+/usr/lib/librte_bus_vdev.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_vdev.so
+/usr/lib/librte_bus_vmbus.a
+/usr/lib/librte_bus_vmbus.so -> /usr/lib/dpdk/pmds-19.08/librte_bus_vmbus.so
+/usr/lib/librte_cfgfile.a
+/usr/lib/librte_cfgfile.so -> /usr/lib/librte_cfgfile.so.2
+/usr/lib/librte_cmdline.a
+/usr/lib/librte_cmdline.so -> /usr/lib/librte_cmdline.so.2
+/usr/lib/librte_common_cpt.a
+/usr/lib/librte_common_cpt.so -> /usr/lib/dpdk/pmds-19.08/librte_common_cpt.so
+/usr/lib/librte_common_dpaax.a
+/usr/lib/librte_common_dpaax.so -> /usr/lib/dpdk/pmds-19.08/librte_common_dpaax.so
+/usr/lib/librte_common_octeontx.a
+/usr/lib/librte_common_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_common_octeontx.so
+/usr/lib/librte_common_octeontx2.a
+/usr/lib/librte_common_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_common_octeontx2.so
+/usr/lib/librte_compressdev.a
+/usr/lib/librte_compressdev.so -> /usr/lib/librte_compressdev.so.1
+/usr/lib/librte_cryptodev.a
+/usr/lib/librte_cryptodev.so -> /usr/lib/librte_cryptodev.so.8
+/usr/lib/librte_distributor.a
+/usr/lib/librte_distributor.so -> /usr/lib/librte_distributor.so.1
+/usr/lib/librte_eal.a
+/usr/lib/librte_eal.so -> /usr/lib/librte_eal.so.11
+/usr/lib/librte_efd.a
+/usr/lib/librte_efd.so -> /usr/lib/librte_efd.so.1
+/usr/lib/librte_ethdev.a
+/usr/lib/librte_ethdev.so -> /usr/lib/librte_ethdev.so.12
+/usr/lib/librte_eventdev.a
+/usr/lib/librte_eventdev.so -> /usr/lib/librte_eventdev.so.7
+/usr/lib/librte_flow_classify.a
+/usr/lib/librte_flow_classify.so -> /usr/lib/librte_flow_classify.so.1
+/usr/lib/librte_gro.a
+/usr/lib/librte_gro.so -> /usr/lib/librte_gro.so.1
+/usr/lib/librte_gso.a
+/usr/lib/librte_gso.so -> /usr/lib/librte_gso.so.1
+/usr/lib/librte_hash.a
+/usr/lib/librte_hash.so -> /usr/lib/librte_hash.so.2
+/usr/lib/librte_ip_frag.a
+/usr/lib/librte_ip_frag.so -> /usr/lib/librte_ip_frag.so.1
+/usr/lib/librte_ipsec.a
+/usr/lib/librte_ipsec.so -> /usr/lib/librte_ipsec.so.1
+/usr/lib/librte_jobstats.a
+/usr/lib/librte_jobstats.so -> /usr/lib/librte_jobstats.so.1
+/usr/lib/librte_kni.a
+/usr/lib/librte_kni.so -> /usr/lib/librte_kni.so.2
+/usr/lib/librte_kvargs.a
+/usr/lib/librte_kvargs.so -> /usr/lib/librte_kvargs.so.1
+/usr/lib/librte_latencystats.a
+/usr/lib/librte_latencystats.so -> /usr/lib/librte_latencystats.so.1
+/usr/lib/librte_lpm.a
+/usr/lib/librte_lpm.so -> /usr/lib/librte_lpm.so.2
+/usr/lib/librte_mbuf.a
+/usr/lib/librte_mbuf.so -> /usr/lib/librte_mbuf.so.5
+/usr/lib/librte_member.a
+/usr/lib/librte_member.so -> /usr/lib/librte_member.so.1
+/usr/lib/librte_mempool.a
+/usr/lib/librte_mempool.so -> /usr/lib/librte_mempool.so.5
+/usr/lib/librte_mempool_bucket.a
+/usr/lib/librte_mempool_bucket.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_bucket.so
+/usr/lib/librte_mempool_dpaa.a
+/usr/lib/librte_mempool_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa.so
+/usr/lib/librte_mempool_dpaa2.a
+/usr/lib/librte_mempool_dpaa2.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_dpaa2.so
+/usr/lib/librte_mempool_octeontx.a
+/usr/lib/librte_mempool_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx.so
+/usr/lib/librte_mempool_octeontx2.a
+/usr/lib/librte_mempool_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_octeontx2.so
+/usr/lib/librte_mempool_ring.a
+/usr/lib/librte_mempool_ring.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_ring.so
+/usr/lib/librte_mempool_stack.a
+/usr/lib/librte_mempool_stack.so -> /usr/lib/dpdk/pmds-19.08/librte_mempool_stack.so
+/usr/lib/librte_meter.a
+/usr/lib/librte_meter.so -> /usr/lib/librte_meter.so.3
+/usr/lib/librte_metrics.a
+/usr/lib/librte_metrics.so -> /usr/lib/librte_metrics.so.1
+/usr/lib/librte_net.a
+/usr/lib/librte_net.so -> /usr/lib/librte_net.so.1
+/usr/lib/librte_pci.a
+/usr/lib/librte_pci.so -> /usr/lib/librte_pci.so.1
+/usr/lib/librte_pdump.a
+/usr/lib/librte_pdump.so -> /usr/lib/librte_pdump.so.3
+/usr/lib/librte_pipeline.a
+/usr/lib/librte_pipeline.so -> /usr/lib/librte_pipeline.so.3
+/usr/lib/librte_pmd_af_packet.a
+/usr/lib/librte_pmd_af_packet.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_af_packet.so
+/usr/lib/librte_pmd_ark.a
+/usr/lib/librte_pmd_ark.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ark.so
+/usr/lib/librte_pmd_atlantic.a
+/usr/lib/librte_pmd_atlantic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_atlantic.so
+/usr/lib/librte_pmd_avp.a
+/usr/lib/librte_pmd_avp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_avp.so
+/usr/lib/librte_pmd_axgbe.a
+/usr/lib/librte_pmd_axgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_axgbe.so
+/usr/lib/librte_pmd_bbdev_fpga_lte_fec.a
+/usr/lib/librte_pmd_bbdev_fpga_lte_fec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so
+/usr/lib/librte_pmd_bbdev_null.a
+/usr/lib/librte_pmd_bbdev_null.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_null.so
+/usr/lib/librte_pmd_bbdev_turbo_sw.a
+/usr/lib/librte_pmd_bbdev_turbo_sw.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so
+/usr/lib/librte_pmd_bnx2x.a
+/usr/lib/librte_pmd_bnx2x.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bnx2x.so
+/usr/lib/librte_pmd_bnxt.a
+/usr/lib/librte_pmd_bnxt.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bnxt.so
+/usr/lib/librte_pmd_bond.a
+/usr/lib/librte_pmd_bond.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_bond.so
+/usr/lib/librte_pmd_caam_jr.a
+/usr/lib/librte_pmd_caam_jr.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_caam_jr.so
+/usr/lib/librte_pmd_ccp.a
+/usr/lib/librte_pmd_ccp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ccp.so
+/usr/lib/librte_pmd_crypto_scheduler.a
+/usr/lib/librte_pmd_crypto_scheduler.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so
+/usr/lib/librte_pmd_cxgbe.a
+/usr/lib/librte_pmd_cxgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_cxgbe.so
+/usr/lib/librte_pmd_dpaa.a
+/usr/lib/librte_pmd_dpaa.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa.so
+/usr/lib/librte_pmd_dpaa2.a
+/usr/lib/librte_pmd_dpaa2.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2.so
+/usr/lib/librte_pmd_dpaa2_event.a
+/usr/lib/librte_pmd_dpaa2_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so
+/usr/lib/librte_pmd_dpaa2_sec.a
+/usr/lib/librte_pmd_dpaa2_sec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so
+/usr/lib/librte_pmd_dpaa_event.a
+/usr/lib/librte_pmd_dpaa_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_event.so
+/usr/lib/librte_pmd_dpaa_sec.a
+/usr/lib/librte_pmd_dpaa_sec.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so
+/usr/lib/librte_pmd_dsw_event.a
+/usr/lib/librte_pmd_dsw_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_dsw_event.so
+/usr/lib/librte_pmd_e1000.a
+/usr/lib/librte_pmd_e1000.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_e1000.so
+/usr/lib/librte_pmd_ena.a
+/usr/lib/librte_pmd_ena.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ena.so
+/usr/lib/librte_pmd_enetc.a
+/usr/lib/librte_pmd_enetc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_enetc.so
+/usr/lib/librte_pmd_enic.a
+/usr/lib/librte_pmd_enic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_enic.so
+/usr/lib/librte_pmd_failsafe.a
+/usr/lib/librte_pmd_failsafe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_failsafe.so
+/usr/lib/librte_pmd_fm10k.a
+/usr/lib/librte_pmd_fm10k.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_fm10k.so
+/usr/lib/librte_pmd_hinic.a
+/usr/lib/librte_pmd_hinic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_hinic.so
+/usr/lib/librte_pmd_i40e.a
+/usr/lib/librte_pmd_i40e.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_i40e.so
+/usr/lib/librte_pmd_iavf.a
+/usr/lib/librte_pmd_iavf.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_iavf.so
+/usr/lib/librte_pmd_ice.a
+/usr/lib/librte_pmd_ice.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ice.so
+/usr/lib/librte_pmd_ifc.a
+/usr/lib/librte_pmd_ifc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ifc.so
+/usr/lib/librte_pmd_ipn3ke.a
+/usr/lib/librte_pmd_ipn3ke.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ipn3ke.so
+/usr/lib/librte_pmd_ixgbe.a
+/usr/lib/librte_pmd_ixgbe.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ixgbe.so
+/usr/lib/librte_pmd_kni.a
+/usr/lib/librte_pmd_kni.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_kni.so
+/usr/lib/librte_pmd_liquidio.a
+/usr/lib/librte_pmd_liquidio.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_liquidio.so
+/usr/lib/librte_pmd_memif.a
+/usr/lib/librte_pmd_memif.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_memif.so
+/usr/lib/librte_pmd_netvsc.a
+/usr/lib/librte_pmd_netvsc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_netvsc.so
+/usr/lib/librte_pmd_nfp.a
+/usr/lib/librte_pmd_nfp.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_nfp.so
+/usr/lib/librte_pmd_null.a
+/usr/lib/librte_pmd_null.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_null.so
+/usr/lib/librte_pmd_null_crypto.a
+/usr/lib/librte_pmd_null_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_null_crypto.so
+/usr/lib/librte_pmd_octeontx.a
+/usr/lib/librte_pmd_octeontx.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx.so
+/usr/lib/librte_pmd_octeontx2.a
+/usr/lib/librte_pmd_octeontx2.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2.so
+/usr/lib/librte_pmd_octeontx2_event.a
+/usr/lib/librte_pmd_octeontx2_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so
+/usr/lib/librte_pmd_octeontx_compress.a
+/usr/lib/librte_pmd_octeontx_compress.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so
+/usr/lib/librte_pmd_octeontx_crypto.a
+/usr/lib/librte_pmd_octeontx_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so
+/usr/lib/librte_pmd_octeontx_event.a
+/usr/lib/librte_pmd_octeontx_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_octeontx_event.so
+/usr/lib/librte_pmd_opdl_event.a
+/usr/lib/librte_pmd_opdl_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_opdl_event.so
+/usr/lib/librte_pmd_openssl.a
+/usr/lib/librte_pmd_openssl.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_openssl.so
+/usr/lib/librte_pmd_pcap.a
+/usr/lib/librte_pmd_pcap.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_pcap.so
+/usr/lib/librte_pmd_qat.a
+/usr/lib/librte_pmd_qat.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_qat.so
+/usr/lib/librte_pmd_ring.a
+/usr/lib/librte_pmd_ring.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_ring.so
+/usr/lib/librte_pmd_sfc.a
+/usr/lib/librte_pmd_sfc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_sfc.so
+/usr/lib/librte_pmd_skeleton_event.a
+/usr/lib/librte_pmd_skeleton_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_skeleton_event.so
+/usr/lib/librte_pmd_softnic.a
+/usr/lib/librte_pmd_softnic.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_softnic.so
+/usr/lib/librte_pmd_sw_event.a
+/usr/lib/librte_pmd_sw_event.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_sw_event.so
+/usr/lib/librte_pmd_tap.a
+/usr/lib/librte_pmd_tap.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_tap.so
+/usr/lib/librte_pmd_thunderx.a
+/usr/lib/librte_pmd_thunderx.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_thunderx.so
+/usr/lib/librte_pmd_vdev_netvsc.a
+/usr/lib/librte_pmd_vdev_netvsc.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so
+/usr/lib/librte_pmd_vhost.a
+/usr/lib/librte_pmd_vhost.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vhost.so
+/usr/lib/librte_pmd_virtio.a
+/usr/lib/librte_pmd_virtio.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_virtio.so
+/usr/lib/librte_pmd_virtio_crypto.a
+/usr/lib/librte_pmd_virtio_crypto.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so
+/usr/lib/librte_pmd_vmxnet3.a
+/usr/lib/librte_pmd_vmxnet3.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_vmxnet3.so
+/usr/lib/librte_pmd_zlib.a
+/usr/lib/librte_pmd_zlib.so -> /usr/lib/dpdk/pmds-19.08/librte_pmd_zlib.so
+/usr/lib/librte_port.a
+/usr/lib/librte_port.so -> /usr/lib/librte_port.so.3
+/usr/lib/librte_power.a
+/usr/lib/librte_power.so -> /usr/lib/librte_power.so.1
+/usr/lib/librte_rawdev.a
+/usr/lib/librte_rawdev.so -> /usr/lib/librte_rawdev.so.1
+/usr/lib/librte_rawdev_dpaa2_cmdif.a
+/usr/lib/librte_rawdev_dpaa2_cmdif.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so
+/usr/lib/librte_rawdev_dpaa2_qdma.a
+/usr/lib/librte_rawdev_dpaa2_qdma.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so
+/usr/lib/librte_rawdev_ioat.a
+/usr/lib/librte_rawdev_ioat.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_ioat.so
+/usr/lib/librte_rawdev_ntb.a
+/usr/lib/librte_rawdev_ntb.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_ntb.so
+/usr/lib/librte_rawdev_octeontx2_dma.a
+/usr/lib/librte_rawdev_octeontx2_dma.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so
+/usr/lib/librte_rawdev_skeleton.a
+/usr/lib/librte_rawdev_skeleton.so -> /usr/lib/dpdk/pmds-19.08/librte_rawdev_skeleton.so
+/usr/lib/librte_rcu.a
+/usr/lib/librte_rcu.so -> /usr/lib/librte_rcu.so.1
+/usr/lib/librte_reorder.a
+/usr/lib/librte_reorder.so -> /usr/lib/librte_reorder.so.1
+/usr/lib/librte_ring.a
+/usr/lib/librte_ring.so -> /usr/lib/librte_ring.so.2
+/usr/lib/librte_sched.a
+/usr/lib/librte_sched.so -> /usr/lib/librte_sched.so.3
+/usr/lib/librte_security.a
+/usr/lib/librte_security.so -> /usr/lib/librte_security.so.2
+/usr/lib/librte_stack.a
+/usr/lib/librte_stack.so -> /usr/lib/librte_stack.so.1
+/usr/lib/librte_table.a
+/usr/lib/librte_table.so -> /usr/lib/librte_table.so.3
+/usr/lib/librte_telemetry.a
+/usr/lib/librte_telemetry.so -> /usr/lib/librte_telemetry.so.1
+/usr/lib/librte_timer.a
+/usr/lib/librte_timer.so -> /usr/lib/librte_timer.so.1
+/usr/lib/librte_vhost.a
+/usr/lib/librte_vhost.so -> /usr/lib/librte_vhost.so.4
+/usr/lib/pkgconfig/libdpdk.pc
+/usr/share/dpdk/examples/bbdev_app/Makefile
+/usr/share/dpdk/examples/bbdev_app/main.c
+/usr/share/dpdk/examples/bond/Makefile
+/usr/share/dpdk/examples/bond/main.c
+/usr/share/dpdk/examples/bond/main.h
+/usr/share/dpdk/examples/bpf/README
+/usr/share/dpdk/examples/bpf/dummy.c
+/usr/share/dpdk/examples/bpf/mbuf.h
+/usr/share/dpdk/examples/bpf/t1.c
+/usr/share/dpdk/examples/bpf/t2.c
+/usr/share/dpdk/examples/bpf/t3.c
+/usr/share/dpdk/examples/cmdline/Makefile
+/usr/share/dpdk/examples/cmdline/commands.c
+/usr/share/dpdk/examples/cmdline/commands.h
+/usr/share/dpdk/examples/cmdline/main.c
+/usr/share/dpdk/examples/cmdline/parse_obj_list.c
+/usr/share/dpdk/examples/cmdline/parse_obj_list.h
+/usr/share/dpdk/examples/distributor/Makefile
+/usr/share/dpdk/examples/distributor/main.c
+/usr/share/dpdk/examples/ethtool/Makefile
+/usr/share/dpdk/examples/ethtool/ethtool-app/Makefile
+/usr/share/dpdk/examples/ethtool/ethtool-app/ethapp.c
+/usr/share/dpdk/examples/ethtool/ethtool-app/ethapp.h
+/usr/share/dpdk/examples/ethtool/ethtool-app/main.c
+/usr/share/dpdk/examples/ethtool/lib/Makefile
+/usr/share/dpdk/examples/ethtool/lib/rte_ethtool.c
+/usr/share/dpdk/examples/ethtool/lib/rte_ethtool.h
+/usr/share/dpdk/examples/eventdev_pipeline/Makefile
+/usr/share/dpdk/examples/eventdev_pipeline/main.c
+/usr/share/dpdk/examples/eventdev_pipeline/pipeline_common.h
+/usr/share/dpdk/examples/eventdev_pipeline/pipeline_worker_generic.c
+/usr/share/dpdk/examples/eventdev_pipeline/pipeline_worker_tx.c
+/usr/share/dpdk/examples/exception_path/Makefile
+/usr/share/dpdk/examples/exception_path/main.c
+/usr/share/dpdk/examples/fips_validation/Makefile
+/usr/share/dpdk/examples/fips_validation/fips_dev_self_test.c
+/usr/share/dpdk/examples/fips_validation/fips_dev_self_test.h
+/usr/share/dpdk/examples/fips_validation/fips_validation.c
+/usr/share/dpdk/examples/fips_validation/fips_validation.h
+/usr/share/dpdk/examples/fips_validation/fips_validation_aes.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_ccm.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_cmac.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_gcm.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_hmac.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_sha.c
+/usr/share/dpdk/examples/fips_validation/fips_validation_tdes.c
+/usr/share/dpdk/examples/fips_validation/main.c
+/usr/share/dpdk/examples/flow_classify/Makefile
+/usr/share/dpdk/examples/flow_classify/flow_classify.c
+/usr/share/dpdk/examples/flow_classify/ipv4_rules_file.txt
+/usr/share/dpdk/examples/flow_filtering/Makefile
+/usr/share/dpdk/examples/flow_filtering/flow_blocks.c
+/usr/share/dpdk/examples/flow_filtering/main.c
+/usr/share/dpdk/examples/helloworld/Makefile
+/usr/share/dpdk/examples/helloworld/main.c
+/usr/share/dpdk/examples/hotplug_mp/Makefile
+/usr/share/dpdk/examples/hotplug_mp/commands.c
+/usr/share/dpdk/examples/hotplug_mp/commands.h
+/usr/share/dpdk/examples/hotplug_mp/main.c
+/usr/share/dpdk/examples/ip_fragmentation/Makefile
+/usr/share/dpdk/examples/ip_fragmentation/main.c
+/usr/share/dpdk/examples/ip_pipeline/Makefile
+/usr/share/dpdk/examples/ip_pipeline/action.c
+/usr/share/dpdk/examples/ip_pipeline/action.h
+/usr/share/dpdk/examples/ip_pipeline/cli.c
+/usr/share/dpdk/examples/ip_pipeline/cli.h
+/usr/share/dpdk/examples/ip_pipeline/common.h
+/usr/share/dpdk/examples/ip_pipeline/conn.c
+/usr/share/dpdk/examples/ip_pipeline/conn.h
+/usr/share/dpdk/examples/ip_pipeline/cryptodev.c
+/usr/share/dpdk/examples/ip_pipeline/cryptodev.h
+/usr/share/dpdk/examples/ip_pipeline/examples/firewall.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/flow.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/flow_crypto.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/kni.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/l2fwd.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/route.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/route_ecmp.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/rss.cli
+/usr/share/dpdk/examples/ip_pipeline/examples/tap.cli
+/usr/share/dpdk/examples/ip_pipeline/kni.c
+/usr/share/dpdk/examples/ip_pipeline/kni.h
+/usr/share/dpdk/examples/ip_pipeline/link.c
+/usr/share/dpdk/examples/ip_pipeline/link.h
+/usr/share/dpdk/examples/ip_pipeline/main.c
+/usr/share/dpdk/examples/ip_pipeline/mempool.c
+/usr/share/dpdk/examples/ip_pipeline/mempool.h
+/usr/share/dpdk/examples/ip_pipeline/parser.c
+/usr/share/dpdk/examples/ip_pipeline/parser.h
+/usr/share/dpdk/examples/ip_pipeline/pipeline.c
+/usr/share/dpdk/examples/ip_pipeline/pipeline.h
+/usr/share/dpdk/examples/ip_pipeline/swq.c
+/usr/share/dpdk/examples/ip_pipeline/swq.h
+/usr/share/dpdk/examples/ip_pipeline/tap.c
+/usr/share/dpdk/examples/ip_pipeline/tap.h
+/usr/share/dpdk/examples/ip_pipeline/thread.c
+/usr/share/dpdk/examples/ip_pipeline/thread.h
+/usr/share/dpdk/examples/ip_pipeline/tmgr.c
+/usr/share/dpdk/examples/ip_pipeline/tmgr.h
+/usr/share/dpdk/examples/ip_reassembly/Makefile
+/usr/share/dpdk/examples/ip_reassembly/main.c
+/usr/share/dpdk/examples/ipsec-secgw/Makefile
+/usr/share/dpdk/examples/ipsec-secgw/ep0.cfg
+/usr/share/dpdk/examples/ipsec-secgw/ep1.cfg
+/usr/share/dpdk/examples/ipsec-secgw/esp.c
+/usr/share/dpdk/examples/ipsec-secgw/esp.h
+/usr/share/dpdk/examples/ipsec-secgw/ipip.h
+/usr/share/dpdk/examples/ipsec-secgw/ipsec-secgw.c
+/usr/share/dpdk/examples/ipsec-secgw/ipsec.c
+/usr/share/dpdk/examples/ipsec-secgw/ipsec.h
+/usr/share/dpdk/examples/ipsec-secgw/ipsec_process.c
+/usr/share/dpdk/examples/ipsec-secgw/parser.c
+/usr/share/dpdk/examples/ipsec-secgw/parser.h
+/usr/share/dpdk/examples/ipsec-secgw/rt.c
+/usr/share/dpdk/examples/ipsec-secgw/sa.c
+/usr/share/dpdk/examples/ipsec-secgw/sp4.c
+/usr/share/dpdk/examples/ipsec-secgw/sp6.c
+/usr/share/dpdk/examples/ipsec-secgw/test/bypass_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/common_defs_secgw.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/data_rxtx.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/linux_test4.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/linux_test6.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/pkttest.py
+/usr/share/dpdk/examples/ipsec-secgw/test/pkttest.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/run_test.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_3descbc_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_3descbc_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_3descbc_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_3descbc_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_3descbc_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aescbc_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aescbc_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aescbc_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aescbc_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aescbc_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesctr_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesctr_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesctr_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesctr_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesctr_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_inline_crypto_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_inline_crypto_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_aesgcm_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/trs_ipv6opts.py
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_3descbc_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_3descbc_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_3descbc_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_3descbc_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_3descbc_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aescbc_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aescbc_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aescbc_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aescbc_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aescbc_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesctr_sha1_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesctr_sha1_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesctr_sha1_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesctr_sha1_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesctr_sha1_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_common_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_esn_atom_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_esn_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_inline_crypto_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_inline_crypto_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_aesgcm_old_defs.sh
+/usr/share/dpdk/examples/ipsec-secgw/test/tun_null_header_reconstruct.py
+/usr/share/dpdk/examples/ipv4_multicast/Makefile
+/usr/share/dpdk/examples/ipv4_multicast/main.c
+/usr/share/dpdk/examples/kni/Makefile
+/usr/share/dpdk/examples/kni/main.c
+/usr/share/dpdk/examples/l2fwd-cat/Makefile
+/usr/share/dpdk/examples/l2fwd-cat/cat.c
+/usr/share/dpdk/examples/l2fwd-cat/cat.h
+/usr/share/dpdk/examples/l2fwd-cat/l2fwd-cat.c
+/usr/share/dpdk/examples/l2fwd-crypto/Makefile
+/usr/share/dpdk/examples/l2fwd-crypto/main.c
+/usr/share/dpdk/examples/l2fwd-jobstats/Makefile
+/usr/share/dpdk/examples/l2fwd-jobstats/main.c
+/usr/share/dpdk/examples/l2fwd-keepalive/Makefile
+/usr/share/dpdk/examples/l2fwd-keepalive/ka-agent/Makefile
+/usr/share/dpdk/examples/l2fwd-keepalive/ka-agent/main.c
+/usr/share/dpdk/examples/l2fwd-keepalive/main.c
+/usr/share/dpdk/examples/l2fwd-keepalive/shm.c
+/usr/share/dpdk/examples/l2fwd-keepalive/shm.h
+/usr/share/dpdk/examples/l2fwd/Makefile
+/usr/share/dpdk/examples/l2fwd/main.c
+/usr/share/dpdk/examples/l3fwd-acl/Makefile
+/usr/share/dpdk/examples/l3fwd-acl/main.c
+/usr/share/dpdk/examples/l3fwd-power/Makefile
+/usr/share/dpdk/examples/l3fwd-power/main.c
+/usr/share/dpdk/examples/l3fwd-power/main.h
+/usr/share/dpdk/examples/l3fwd-power/perf_core.c
+/usr/share/dpdk/examples/l3fwd-power/perf_core.h
+/usr/share/dpdk/examples/l3fwd-vf/Makefile
+/usr/share/dpdk/examples/l3fwd-vf/main.c
+/usr/share/dpdk/examples/l3fwd/Makefile
+/usr/share/dpdk/examples/l3fwd/l3fwd.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_altivec.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_common.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_em.c
+/usr/share/dpdk/examples/l3fwd/l3fwd_em.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_em_hlm.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_em_hlm_neon.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_em_hlm_sse.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_em_sequential.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_lpm.c
+/usr/share/dpdk/examples/l3fwd/l3fwd_lpm.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_lpm_altivec.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_lpm_neon.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_lpm_sse.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_neon.h
+/usr/share/dpdk/examples/l3fwd/l3fwd_sse.h
+/usr/share/dpdk/examples/l3fwd/main.c
+/usr/share/dpdk/examples/link_status_interrupt/Makefile
+/usr/share/dpdk/examples/link_status_interrupt/main.c
+/usr/share/dpdk/examples/load_balancer/Makefile
+/usr/share/dpdk/examples/load_balancer/config.c
+/usr/share/dpdk/examples/load_balancer/init.c
+/usr/share/dpdk/examples/load_balancer/main.c
+/usr/share/dpdk/examples/load_balancer/main.h
+/usr/share/dpdk/examples/load_balancer/runtime.c
+/usr/share/dpdk/examples/mp_client/Makefile
+/usr/share/dpdk/examples/mp_client/client.c
+/usr/share/dpdk/examples/mp_server/Makefile
+/usr/share/dpdk/examples/mp_server/args.c
+/usr/share/dpdk/examples/mp_server/args.h
+/usr/share/dpdk/examples/mp_server/init.c
+/usr/share/dpdk/examples/mp_server/init.h
+/usr/share/dpdk/examples/mp_server/main.c
+/usr/share/dpdk/examples/netmap_compat/Makefile
+/usr/share/dpdk/examples/netmap_compat/bridge/Makefile
+/usr/share/dpdk/examples/netmap_compat/bridge/bridge.c
+/usr/share/dpdk/examples/netmap_compat/lib/compat_netmap.c
+/usr/share/dpdk/examples/netmap_compat/lib/compat_netmap.h
+/usr/share/dpdk/examples/netmap_compat/netmap/netmap.h
+/usr/share/dpdk/examples/netmap_compat/netmap/netmap_user.h
+/usr/share/dpdk/examples/ntb/Makefile
+/usr/share/dpdk/examples/ntb/ntb_fwd.c
+/usr/share/dpdk/examples/packet_ordering/Makefile
+/usr/share/dpdk/examples/packet_ordering/main.c
+/usr/share/dpdk/examples/performance-thread/Makefile
+/usr/share/dpdk/examples/performance-thread/common/arch/arm64/ctx.c
+/usr/share/dpdk/examples/performance-thread/common/arch/arm64/ctx.h
+/usr/share/dpdk/examples/performance-thread/common/arch/arm64/stack.h
+/usr/share/dpdk/examples/performance-thread/common/arch/x86/ctx.c
+/usr/share/dpdk/examples/performance-thread/common/arch/x86/ctx.h
+/usr/share/dpdk/examples/performance-thread/common/arch/x86/stack.h
+/usr/share/dpdk/examples/performance-thread/common/common.mk
+/usr/share/dpdk/examples/performance-thread/common/lthread.c
+/usr/share/dpdk/examples/performance-thread/common/lthread.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_api.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_cond.c
+/usr/share/dpdk/examples/performance-thread/common/lthread_cond.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_diag.c
+/usr/share/dpdk/examples/performance-thread/common/lthread_diag.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_diag_api.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_int.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_mutex.c
+/usr/share/dpdk/examples/performance-thread/common/lthread_mutex.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_objcache.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_pool.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_queue.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_sched.c
+/usr/share/dpdk/examples/performance-thread/common/lthread_sched.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_timer.h
+/usr/share/dpdk/examples/performance-thread/common/lthread_tls.c
+/usr/share/dpdk/examples/performance-thread/common/lthread_tls.h
+/usr/share/dpdk/examples/performance-thread/l3fwd-thread/Makefile
+/usr/share/dpdk/examples/performance-thread/l3fwd-thread/main.c
+/usr/share/dpdk/examples/performance-thread/l3fwd-thread/test.sh
+/usr/share/dpdk/examples/performance-thread/pthread_shim/Makefile
+/usr/share/dpdk/examples/performance-thread/pthread_shim/main.c
+/usr/share/dpdk/examples/performance-thread/pthread_shim/pthread_shim.c
+/usr/share/dpdk/examples/performance-thread/pthread_shim/pthread_shim.h
+/usr/share/dpdk/examples/ptpclient/Makefile
+/usr/share/dpdk/examples/ptpclient/ptpclient.c
+/usr/share/dpdk/examples/qos_meter/Makefile
+/usr/share/dpdk/examples/qos_meter/main.c
+/usr/share/dpdk/examples/qos_meter/main.h
+/usr/share/dpdk/examples/qos_meter/rte_policer.c
+/usr/share/dpdk/examples/qos_meter/rte_policer.h
+/usr/share/dpdk/examples/qos_sched/Makefile
+/usr/share/dpdk/examples/qos_sched/app_thread.c
+/usr/share/dpdk/examples/qos_sched/args.c
+/usr/share/dpdk/examples/qos_sched/cfg_file.c
+/usr/share/dpdk/examples/qos_sched/cfg_file.h
+/usr/share/dpdk/examples/qos_sched/cmdline.c
+/usr/share/dpdk/examples/qos_sched/init.c
+/usr/share/dpdk/examples/qos_sched/main.c
+/usr/share/dpdk/examples/qos_sched/main.h
+/usr/share/dpdk/examples/qos_sched/profile.cfg
+/usr/share/dpdk/examples/qos_sched/profile_ov.cfg
+/usr/share/dpdk/examples/qos_sched/stats.c
+/usr/share/dpdk/examples/quota_watermark/Makefile
+/usr/share/dpdk/examples/quota_watermark/include/conf.h
+/usr/share/dpdk/examples/quota_watermark/qw/Makefile
+/usr/share/dpdk/examples/quota_watermark/qw/args.c
+/usr/share/dpdk/examples/quota_watermark/qw/args.h
+/usr/share/dpdk/examples/quota_watermark/qw/init.c
+/usr/share/dpdk/examples/quota_watermark/qw/init.h
+/usr/share/dpdk/examples/quota_watermark/qw/main.c
+/usr/share/dpdk/examples/quota_watermark/qw/main.h
+/usr/share/dpdk/examples/quota_watermark/qwctl/Makefile
+/usr/share/dpdk/examples/quota_watermark/qwctl/commands.c
+/usr/share/dpdk/examples/quota_watermark/qwctl/commands.h
+/usr/share/dpdk/examples/quota_watermark/qwctl/qwctl.c
+/usr/share/dpdk/examples/quota_watermark/qwctl/qwctl.h
+/usr/share/dpdk/examples/rxtx_callbacks/Makefile
+/usr/share/dpdk/examples/rxtx_callbacks/main.c
+/usr/share/dpdk/examples/server_node_efd/Makefile
+/usr/share/dpdk/examples/server_node_efd/node/Makefile
+/usr/share/dpdk/examples/server_node_efd/node/node.c
+/usr/share/dpdk/examples/server_node_efd/server/Makefile
+/usr/share/dpdk/examples/server_node_efd/server/args.c
+/usr/share/dpdk/examples/server_node_efd/server/args.h
+/usr/share/dpdk/examples/server_node_efd/server/init.c
+/usr/share/dpdk/examples/server_node_efd/server/init.h
+/usr/share/dpdk/examples/server_node_efd/server/main.c
+/usr/share/dpdk/examples/server_node_efd/shared/common.h
+/usr/share/dpdk/examples/service_cores/Makefile
+/usr/share/dpdk/examples/service_cores/main.c
+/usr/share/dpdk/examples/simple_mp/Makefile
+/usr/share/dpdk/examples/simple_mp/main.c
+/usr/share/dpdk/examples/simple_mp/mp_commands.c
+/usr/share/dpdk/examples/simple_mp/mp_commands.h
+/usr/share/dpdk/examples/skeleton/Makefile
+/usr/share/dpdk/examples/skeleton/basicfwd.c
+/usr/share/dpdk/examples/symmetric_mp/Makefile
+/usr/share/dpdk/examples/symmetric_mp/main.c
+/usr/share/dpdk/examples/tep_termination/Makefile
+/usr/share/dpdk/examples/tep_termination/main.c
+/usr/share/dpdk/examples/tep_termination/main.h
+/usr/share/dpdk/examples/tep_termination/vxlan.c
+/usr/share/dpdk/examples/tep_termination/vxlan.h
+/usr/share/dpdk/examples/tep_termination/vxlan_setup.c
+/usr/share/dpdk/examples/tep_termination/vxlan_setup.h
+/usr/share/dpdk/examples/timer/Makefile
+/usr/share/dpdk/examples/timer/main.c
+/usr/share/dpdk/examples/vdpa/Makefile
+/usr/share/dpdk/examples/vdpa/main.c
+/usr/share/dpdk/examples/vhost/Makefile
+/usr/share/dpdk/examples/vhost/main.c
+/usr/share/dpdk/examples/vhost/main.h
+/usr/share/dpdk/examples/vhost/virtio_net.c
+/usr/share/dpdk/examples/vhost_crypto/Makefile
+/usr/share/dpdk/examples/vhost_crypto/main.c
+/usr/share/dpdk/examples/vhost_scsi/Makefile
+/usr/share/dpdk/examples/vhost_scsi/scsi.c
+/usr/share/dpdk/examples/vhost_scsi/scsi_spec.h
+/usr/share/dpdk/examples/vhost_scsi/vhost_scsi.c
+/usr/share/dpdk/examples/vhost_scsi/vhost_scsi.h
+/usr/share/dpdk/examples/vm_power_manager/Makefile
+/usr/share/dpdk/examples/vm_power_manager/channel_manager.c
+/usr/share/dpdk/examples/vm_power_manager/channel_manager.h
+/usr/share/dpdk/examples/vm_power_manager/channel_monitor.c
+/usr/share/dpdk/examples/vm_power_manager/channel_monitor.h
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/Makefile
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/main.c
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/meson.build
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/parse.c
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/parse.h
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/vm_power_cli_guest.c
+/usr/share/dpdk/examples/vm_power_manager/guest_cli/vm_power_cli_guest.h
+/usr/share/dpdk/examples/vm_power_manager/main.c
+/usr/share/dpdk/examples/vm_power_manager/oob_monitor.h
+/usr/share/dpdk/examples/vm_power_manager/oob_monitor_nop.c
+/usr/share/dpdk/examples/vm_power_manager/oob_monitor_x86.c
+/usr/share/dpdk/examples/vm_power_manager/parse.c
+/usr/share/dpdk/examples/vm_power_manager/parse.h
+/usr/share/dpdk/examples/vm_power_manager/power_manager.c
+/usr/share/dpdk/examples/vm_power_manager/power_manager.h
+/usr/share/dpdk/examples/vm_power_manager/vm_power_cli.c
+/usr/share/dpdk/examples/vm_power_manager/vm_power_cli.h
+/usr/share/dpdk/examples/vmdq/Makefile
+/usr/share/dpdk/examples/vmdq/main.c
+/usr/share/dpdk/examples/vmdq_dcb/Makefile
+/usr/share/dpdk/examples/vmdq_dcb/main.c

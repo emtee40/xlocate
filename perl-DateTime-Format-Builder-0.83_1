@@ -1,0 +1,16 @@
+/usr/share/man/man3/DateTime::Format::Builder.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser::Dispatch.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser::Quick.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser::Regex.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser::Strptime.3p
+/usr/share/man/man3/DateTime::Format::Builder::Parser::generic.3p
+/usr/share/man/man3/DateTime::Format::Builder::Tutorial.3p
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser/Dispatch.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser/Quick.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser/Regex.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser/Strptime.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Parser/generic.pm
+/usr/share/perl5/vendor_perl/DateTime/Format/Builder/Tutorial.pod

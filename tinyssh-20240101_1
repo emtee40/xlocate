@@ -1,0 +1,11 @@
+/etc/sv/tinysshd/log/run
+/etc/sv/tinysshd/log/supervise -> /run/runit/supervise.tinysshd-log
+/etc/sv/tinysshd/run
+/etc/sv/tinysshd/supervise -> /run/runit/supervise.tinysshd
+/usr/bin/tinysshd
+/usr/bin/tinysshd-makekey -> /usr/bin/tinysshd
+/usr/bin/tinysshd-printkey -> /usr/bin/tinysshd
+/usr/share/man/man8/tinysshd-makekey.8
+/usr/share/man/man8/tinysshd-printkey.8
+/usr/share/man/man8/tinysshd.8
+/usr/share/man/man8/tinysshnoneauthd.8

@@ -1,0 +1,3 @@
+/usr/lib32/libcupsfilters.a
+/usr/lib32/libcupsfilters.so -> /usr/lib32/libcupsfilters.so.2.0.0
+/usr/lib32/pkgconfig/libcupsfilters.pc

@@ -1,0 +1,15 @@
+/usr/include/appstream-compose/appstream-compose.h
+/usr/include/appstream-compose/asc-canvas.h
+/usr/include/appstream-compose/asc-compose.h
+/usr/include/appstream-compose/asc-directory-unit.h
+/usr/include/appstream-compose/asc-enums-types.h
+/usr/include/appstream-compose/asc-globals.h
+/usr/include/appstream-compose/asc-hint.h
+/usr/include/appstream-compose/asc-icon-policy.h
+/usr/include/appstream-compose/asc-image.h
+/usr/include/appstream-compose/asc-result.h
+/usr/include/appstream-compose/asc-unit.h
+/usr/include/appstream-compose/asc-utils.h
+/usr/lib/libappstream-compose.so -> /usr/lib/libappstream-compose.so.0
+/usr/lib/pkgconfig/appstream-compose.pc
+/usr/share/gir-1.0/AppStreamCompose-1.0.gir

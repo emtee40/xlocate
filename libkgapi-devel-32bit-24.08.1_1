@@ -1,0 +1,8 @@
+/usr/lib32/libKPim6GAPIBlogger.so -> /usr/lib32/libKPim6GAPIBlogger.so.6
+/usr/lib32/libKPim6GAPICalendar.so -> /usr/lib32/libKPim6GAPICalendar.so.6
+/usr/lib32/libKPim6GAPICore.so -> /usr/lib32/libKPim6GAPICore.so.6
+/usr/lib32/libKPim6GAPIDrive.so -> /usr/lib32/libKPim6GAPIDrive.so.6
+/usr/lib32/libKPim6GAPILatitude.so -> /usr/lib32/libKPim6GAPILatitude.so.6
+/usr/lib32/libKPim6GAPIMaps.so -> /usr/lib32/libKPim6GAPIMaps.so.6
+/usr/lib32/libKPim6GAPIPeople.so -> /usr/lib32/libKPim6GAPIPeople.so.6
+/usr/lib32/libKPim6GAPITasks.so -> /usr/lib32/libKPim6GAPITasks.so.6

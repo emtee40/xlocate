@@ -1,0 +1,4 @@
+/usr/include/libserialport.h
+/usr/lib/libserialport.a
+/usr/lib/libserialport.so -> /usr/lib/libserialport.so.0.1.0
+/usr/lib/pkgconfig/libserialport.pc

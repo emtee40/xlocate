@@ -1,0 +1,7 @@
+/etc/libao.conf
+/usr/lib/ao/plugins-4/libalsa.so
+/usr/lib/ao/plugins-4/liboss.so
+/usr/lib/ckport/db/libao.ckport
+/usr/lib/libao.so.4 -> /usr/lib/libao.so.4.1.1
+/usr/lib/libao.so.4.1.1
+/usr/share/man/man5/libao.conf.5

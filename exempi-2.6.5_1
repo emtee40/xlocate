@@ -1,0 +1,5 @@
+/usr/bin/exempi
+/usr/lib/libexempi.so.8 -> /usr/lib/libexempi.so.8.1.5
+/usr/lib/libexempi.so.8.1.5
+/usr/share/licenses/exempi/COPYING
+/usr/share/man/man1/exempi.1

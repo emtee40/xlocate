@@ -1,0 +1,4 @@
+/usr/include/gme/blargg_source.h
+/usr/include/gme/gme.h
+/usr/lib/libgme.so -> /usr/lib/libgme.so.0
+/usr/lib/pkgconfig/libgme.pc

@@ -1,0 +1,47 @@
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/Identity
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/IdentityActivitiesAbstract
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/IdentityManager
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/IdentityModel
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/IdentityTreeModel
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/Signature
+/usr/include/KPim6/KIdentityManagementCore/KIdentityManagementCore/Utils
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/identity.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/identityactivitiesabstract.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/identitymanager.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/identitymodel.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/identitytreemodel.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/kidentitymanagementcore_export.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/signature.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore/utils.h
+/usr/include/KPim6/KIdentityManagementCore/kidentitymanagementcore_version.h
+/usr/include/KPim6/KIdentityManagementQuick/KIdentityManagementQuick/CryptographyBackendInterface
+/usr/include/KPim6/KIdentityManagementQuick/KIdentityManagementQuick/CryptographyEditorBackend
+/usr/include/KPim6/KIdentityManagementQuick/KIdentityManagementQuick/KeyListModelInterface
+/usr/include/KPim6/KIdentityManagementQuick/kidentitymanagementquick/cryptographybackendinterface.h
+/usr/include/KPim6/KIdentityManagementQuick/kidentitymanagementquick/cryptographyeditorbackend.h
+/usr/include/KPim6/KIdentityManagementQuick/kidentitymanagementquick/keylistmodelinterface.h
+/usr/include/KPim6/KIdentityManagementQuick/kidentitymanagementquick/kidentitymanagementquick_export.h
+/usr/include/KPim6/KIdentityManagementQuick/kidentitymanagementquick_version.h
+/usr/include/KPim6/KIdentityManagementWidgets/KIdentityManagementWidgets/IdentityCombo
+/usr/include/KPim6/KIdentityManagementWidgets/KIdentityManagementWidgets/IdentityTreeView
+/usr/include/KPim6/KIdentityManagementWidgets/KIdentityManagementWidgets/SignatureConfigurator
+/usr/include/KPim6/KIdentityManagementWidgets/kidentitymanagementwidgets/identitycombo.h
+/usr/include/KPim6/KIdentityManagementWidgets/kidentitymanagementwidgets/identitytreeview.h
+/usr/include/KPim6/KIdentityManagementWidgets/kidentitymanagementwidgets/kidentitymanagementwidgets_export.h
+/usr/include/KPim6/KIdentityManagementWidgets/kidentitymanagementwidgets/signatureconfigurator.h
+/usr/include/KPim6/KIdentityManagementWidgets/kidentitymanagementwidgets_version.h
+/usr/lib/cmake/KPim6IdentityManagementCore/KPim6IdentityManagementCoreConfig.cmake
+/usr/lib/cmake/KPim6IdentityManagementCore/KPim6IdentityManagementCoreConfigVersion.cmake
+/usr/lib/cmake/KPim6IdentityManagementCore/KPim6IdentityManagementCoreTargets-none.cmake
+/usr/lib/cmake/KPim6IdentityManagementCore/KPim6IdentityManagementCoreTargets.cmake
+/usr/lib/cmake/KPim6IdentityManagementQuick/KPim6IdentityManagementQuickConfig.cmake
+/usr/lib/cmake/KPim6IdentityManagementQuick/KPim6IdentityManagementQuickConfigVersion.cmake
+/usr/lib/cmake/KPim6IdentityManagementQuick/KPim6IdentityManagementQuickTargets-none.cmake
+/usr/lib/cmake/KPim6IdentityManagementQuick/KPim6IdentityManagementQuickTargets.cmake
+/usr/lib/cmake/KPim6IdentityManagementWidgets/KPim6IdentityManagementWidgetsConfig.cmake
+/usr/lib/cmake/KPim6IdentityManagementWidgets/KPim6IdentityManagementWidgetsConfigVersion.cmake
+/usr/lib/cmake/KPim6IdentityManagementWidgets/KPim6IdentityManagementWidgetsTargets-none.cmake
+/usr/lib/cmake/KPim6IdentityManagementWidgets/KPim6IdentityManagementWidgetsTargets.cmake
+/usr/lib/libKPim6IdentityManagementCore.so -> /usr/lib/libKPim6IdentityManagementCore.so.6
+/usr/lib/libKPim6IdentityManagementQuick.so -> /usr/lib/libKPim6IdentityManagementQuick.so.6
+/usr/lib/libKPim6IdentityManagementWidgets.so -> /usr/lib/libKPim6IdentityManagementWidgets.so.6

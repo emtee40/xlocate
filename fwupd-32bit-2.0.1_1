@@ -1,0 +1,6 @@
+/usr/lib32/fwupd-2.0.1/libfu_plugin_flashrom.so
+/usr/lib32/fwupd-2.0.1/libfwupdengine.so
+/usr/lib32/fwupd-2.0.1/libfwupdplugin.so
+/usr/lib32/fwupd-2.0.1/libfwupdutil.so
+/usr/lib32/libfwupd.so.3 -> /usr/lib32/libfwupd.so.3.0.0
+/usr/lib32/libfwupd.so.3.0.0

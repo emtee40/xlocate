@@ -1,0 +1,5 @@
+/usr/bin/asignify
+/usr/lib/libasignify.so.1 -> /usr/lib/libasignify.so.1.0.0
+/usr/lib/libasignify.so.1.0.0
+/usr/share/licenses/asignify/LICENSE
+/usr/share/man/man1/asignify.1

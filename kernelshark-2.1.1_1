@@ -1,0 +1,14 @@
+/usr/bin/kernelshark
+/usr/bin/kshark-record
+/usr/bin/kshark-su-record
+/usr/lib/kernelshark/plugins/plugin-event_field_plot.so
+/usr/lib/kernelshark/plugins/plugin-kvm_combo.so
+/usr/lib/kernelshark/plugins/plugin-latency_plot.so
+/usr/lib/kernelshark/plugins/plugin-missed_events.so
+/usr/lib/kernelshark/plugins/plugin-sched_events.so
+/usr/lib/libkshark-gui.so.2.1.1
+/usr/lib/libkshark-plot.so.2.1.1
+/usr/share/applications/kernelshark.desktop
+/usr/share/icons/kernelshark/KS_icon_fin.svg
+/usr/share/icons/kernelshark/KS_icon_shark.svg
+/usr/share/polkit-1/actions/org.freedesktop.kshark-record.policy

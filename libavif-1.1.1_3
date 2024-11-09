@@ -1,0 +1,7 @@
+/usr/bin/avifdec
+/usr/bin/avifenc
+/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-avif.so
+/usr/lib/libavif.so.16 -> /usr/lib/libavif.so.16.1.1
+/usr/lib/libavif.so.16.1.1
+/usr/share/licenses/libavif/LICENSE
+/usr/share/thumbnailers/avif.thumbnailer

@@ -1,0 +1,5 @@
+/usr/bin/luatracebox
+/usr/bin/tracebox
+/usr/share/man/man1/tracebox.1
+/usr/share/tracebox/test_edo.tbx
+/usr/share/tracebox/test_ftp.tbx

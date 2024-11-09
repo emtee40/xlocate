@@ -1,0 +1,10 @@
+/usr/include/srt/access_control.h
+/usr/include/srt/logging_api.h
+/usr/include/srt/platform_sys.h
+/usr/include/srt/srt.h
+/usr/include/srt/udt.h
+/usr/include/srt/version.h
+/usr/lib/libsrt.a
+/usr/lib/libsrt.so -> /usr/lib/libsrt.so.1.5
+/usr/lib/pkgconfig/haisrt.pc
+/usr/lib/pkgconfig/srt.pc

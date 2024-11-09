@@ -1,0 +1,3 @@
+/usr/include/libffado/ffado.h
+/usr/lib/libffado.so -> /usr/lib/libffado.so.2
+/usr/lib/pkgconfig/libffado.pc

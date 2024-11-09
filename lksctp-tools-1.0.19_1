@@ -1,0 +1,22 @@
+/usr/bin/checksctp
+/usr/bin/sctp_darn
+/usr/bin/sctp_status
+/usr/bin/sctp_test
+/usr/bin/withsctp
+/usr/lib/libsctp.so.1 -> /usr/lib/libsctp.so.1.0.19
+/usr/lib/libsctp.so.1.0.19
+/usr/lib/lksctp-tools/libwithsctp.a
+/usr/lib/lksctp-tools/libwithsctp.so -> /usr/lib/lksctp-tools/libwithsctp.so.1.0.19
+/usr/lib/lksctp-tools/libwithsctp.so.1 -> /usr/lib/lksctp-tools/libwithsctp.so.1.0.19
+/usr/lib/lksctp-tools/libwithsctp.so.1.0.19
+/usr/share/lksctp-tools/checksctp.c
+/usr/share/lksctp-tools/sctp_bind.c
+/usr/share/lksctp-tools/sctp_darn.c
+/usr/share/lksctp-tools/sctp_darn.h
+/usr/share/lksctp-tools/sctp_load_libs.c
+/usr/share/lksctp-tools/sctp_socket.c
+/usr/share/lksctp-tools/sctp_socket.h
+/usr/share/lksctp-tools/sctp_sockopt.c
+/usr/share/lksctp-tools/sctp_status.c
+/usr/share/lksctp-tools/sctp_test.c
+/usr/share/man/man7/sctp.7

@@ -1,0 +1,20 @@
+/usr/lib32/libsnore-qt5.so.0.7 -> /usr/lib32/libsnore-qt5.so.0.7.0
+/usr/lib32/libsnore-qt5.so.0.7.0
+/usr/lib32/libsnoresettings-qt5.so.0.7 -> /usr/lib32/libsnoresettings-qt5.so.0.7.0
+/usr/lib32/libsnoresettings-qt5.so.0.7.0
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_backend_freedesktop.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_backend_snore.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_backend_trayicon.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_frontend_freedesktop.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_frontend_pushover.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_frontend_snarlnetwork.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_secondarybackend_nma.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_secondarybackend_puhover.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_secondarybackend_sound.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_secondarybackend_toasty.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_backend_snore.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_frontend_pushover.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_secondarybackend_nma.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_secondarybackend_puhover.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_secondarybackend_sound.so
+/usr/lib32/qt5/plugins/libsnore-qt5/libsnore_settings_secondarybackend_toasty.so

@@ -1,0 +1,26 @@
+/usr/include/ansidecl.h
+/usr/include/bfd.h
+/usr/include/bfdlink.h
+/usr/include/collectorAPI.h
+/usr/include/ctf-api.h
+/usr/include/ctf.h
+/usr/include/diagnostics.h
+/usr/include/dis-asm.h
+/usr/include/libcollector.h
+/usr/include/libfcollector.h
+/usr/include/plugin-api.h
+/usr/include/sframe-api.h
+/usr/include/sframe.h
+/usr/include/symcat.h
+/usr/lib/libbfd.a
+/usr/lib/libbfd.so
+/usr/lib/libctf-nobfd.a
+/usr/lib/libctf-nobfd.so -> /usr/lib/libctf-nobfd.so.0.0.0
+/usr/lib/libctf.a
+/usr/lib/libctf.so -> /usr/lib/libctf.so.0.0.0
+/usr/lib/libgprofng.a
+/usr/lib/libgprofng.so -> /usr/lib/libgprofng.so.0.0.0
+/usr/lib/libopcodes.a
+/usr/lib/libopcodes.so
+/usr/lib/libsframe.a
+/usr/lib/libsframe.so -> /usr/lib/libsframe.so.1.0.0

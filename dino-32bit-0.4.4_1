@@ -1,0 +1,14 @@
+/usr/lib32/dino/plugins/http-files.so
+/usr/lib32/dino/plugins/ice.so
+/usr/lib32/dino/plugins/notification-sound.so
+/usr/lib32/dino/plugins/omemo.so
+/usr/lib32/dino/plugins/openpgp.so
+/usr/lib32/dino/plugins/rtp.so
+/usr/lib32/libcrypto-vala.so.0 -> /usr/lib32/libcrypto-vala.so.0.0
+/usr/lib32/libcrypto-vala.so.0.0
+/usr/lib32/libdino.so.0 -> /usr/lib32/libdino.so.0.0
+/usr/lib32/libdino.so.0.0
+/usr/lib32/libqlite.so.0 -> /usr/lib32/libqlite.so.0.1
+/usr/lib32/libqlite.so.0.1
+/usr/lib32/libxmpp-vala.so.0 -> /usr/lib32/libxmpp-vala.so.0.1
+/usr/lib32/libxmpp-vala.so.0.1

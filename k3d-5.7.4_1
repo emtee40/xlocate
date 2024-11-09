@@ -1,0 +1,5 @@
+/usr/bin/k3d
+/usr/share/bash-completion/completions/k3d
+/usr/share/fish/vendor_completions.d/k3d.fish
+/usr/share/licenses/k3d/LICENSE
+/usr/share/zsh/site-functions/_k3d

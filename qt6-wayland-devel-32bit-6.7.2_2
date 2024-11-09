@@ -1,0 +1,7 @@
+/usr/lib32/libQt6WaylandClient.so -> /usr/lib32/libQt6WaylandClient.so.6
+/usr/lib32/libQt6WaylandCompositor.so -> /usr/lib32/libQt6WaylandCompositor.so.6
+/usr/lib32/libQt6WaylandEglClientHwIntegration.so -> /usr/lib32/libQt6WaylandEglClientHwIntegration.so.6
+/usr/lib32/libQt6WaylandEglCompositorHwIntegration.so -> /usr/lib32/libQt6WaylandEglCompositorHwIntegration.so.6
+/usr/lib32/libQt6WlShellIntegration.so -> /usr/lib32/libQt6WlShellIntegration.so.6
+/usr/lib32/pkgconfig/Qt6WaylandClient.pc
+/usr/lib32/pkgconfig/Qt6WaylandCompositor.pc

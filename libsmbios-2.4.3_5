@@ -1,0 +1,17 @@
+/etc/libsmbios/logging.conf
+/usr/lib/libsmbios_c.so.2 -> /usr/lib/libsmbios_c.so.2.2.1
+/usr/lib/libsmbios_c.so.2.2.1
+/usr/share/locale/de/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/en/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/en@boldquot/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/en@quot/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/es/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/fr/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/it/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/ja/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/ko/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/nl/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/libsmbios.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/libsmbios.mo
+/usr/share/smbios-utils/token_blacklist.csv
+/usr/share/smbios-utils/token_list.csv

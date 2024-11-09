@@ -1,0 +1,22 @@
+/usr/lib32/libCbc.so.3 -> /usr/lib32/libCbc.so.3.9.10
+/usr/lib32/libCbc.so.3.9.10
+/usr/lib32/libCbcSolver.so.3 -> /usr/lib32/libCbcSolver.so.3.9.10
+/usr/lib32/libCbcSolver.so.3.9.10
+/usr/lib32/libCgl.so.1 -> /usr/lib32/libCgl.so.1.9.11
+/usr/lib32/libCgl.so.1.9.11
+/usr/lib32/libClp.so.1 -> /usr/lib32/libClp.so.1.13.12
+/usr/lib32/libClp.so.1.13.12
+/usr/lib32/libClpSolver.so.1 -> /usr/lib32/libClpSolver.so.1.13.12
+/usr/lib32/libClpSolver.so.1.13.12
+/usr/lib32/libCoinMP.so.1 -> /usr/lib32/libCoinMP.so.1.8.4
+/usr/lib32/libCoinMP.so.1.8.4
+/usr/lib32/libCoinUtils.so.3 -> /usr/lib32/libCoinUtils.so.3.10.15
+/usr/lib32/libCoinUtils.so.3.10.15
+/usr/lib32/libOsi.so.1 -> /usr/lib32/libOsi.so.1.12.10
+/usr/lib32/libOsi.so.1.12.10
+/usr/lib32/libOsiCbc.so.3 -> /usr/lib32/libOsiCbc.so.3.9.10
+/usr/lib32/libOsiCbc.so.3.9.10
+/usr/lib32/libOsiClp.so.1 -> /usr/lib32/libOsiClp.so.1.13.12
+/usr/lib32/libOsiClp.so.1.13.12
+/usr/lib32/libOsiCommonTests.so.1 -> /usr/lib32/libOsiCommonTests.so.1.12.10
+/usr/lib32/libOsiCommonTests.so.1.12.10

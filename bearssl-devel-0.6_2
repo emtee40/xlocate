@@ -1,0 +1,15 @@
+/usr/include/bearssl.h
+/usr/include/bearssl_aead.h
+/usr/include/bearssl_block.h
+/usr/include/bearssl_ec.h
+/usr/include/bearssl_hash.h
+/usr/include/bearssl_hmac.h
+/usr/include/bearssl_kdf.h
+/usr/include/bearssl_pem.h
+/usr/include/bearssl_prf.h
+/usr/include/bearssl_rand.h
+/usr/include/bearssl_rsa.h
+/usr/include/bearssl_ssl.h
+/usr/include/bearssl_x509.h
+/usr/lib/libbearssl.a
+/usr/lib/libbearssl.so -> /usr/lib/libbearssl.so.0

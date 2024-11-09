@@ -1,0 +1,6 @@
+/usr/lib32/libdrumstick-alsa.so -> /usr/lib32/libdrumstick-alsa.so.1
+/usr/lib32/libdrumstick-file.so -> /usr/lib32/libdrumstick-file.so.1
+/usr/lib32/libdrumstick-rt.so -> /usr/lib32/libdrumstick-rt.so.1
+/usr/lib32/pkgconfig/drumstick-alsa.pc
+/usr/lib32/pkgconfig/drumstick-file.pc
+/usr/lib32/pkgconfig/drumstick-rt.pc

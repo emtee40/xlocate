@@ -1,0 +1,7 @@
+/usr/bin/re2c
+/usr/bin/re2go
+/usr/bin/re2rust
+/usr/share/man/man1/re2c.1
+/usr/share/man/man1/re2go.1
+/usr/share/man/man1/re2rust.1
+/usr/share/re2c/stdlib/unicode_categories.re

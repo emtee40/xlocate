@@ -1,0 +1,6 @@
+/usr/include/dca.h
+/usr/include/dts.h
+/usr/lib/libdca.a
+/usr/lib/libdca.so -> /usr/lib/libdca.so.0.0.0
+/usr/lib/pkgconfig/libdca.pc
+/usr/lib/pkgconfig/libdts.pc

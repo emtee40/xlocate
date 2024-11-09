@@ -1,0 +1,6 @@
+/usr/share/doc/vpnfailsafe/README.md
+/usr/share/licenses/vpnfailsafe/LICENSE
+/usr/share/vpnfailsafe/extras/basic_firewall.sh
+/usr/share/vpnfailsafe/extras/block_ipv6.sh
+/usr/share/vpnfailsafe/extras/vpnfailsafe_reset.sh
+/usr/share/vpnfailsafe/vpnfailsafe.sh

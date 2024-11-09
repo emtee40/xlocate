@@ -1,0 +1,24 @@
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qabstractwebview_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qnativeviewcontroller_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qquickviewcontroller_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qquickwebview_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qquickwebviewloadrequest_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qwebview_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qwebviewfactory_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qwebviewinterface_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qwebviewloadrequest_p.h
+/usr/include/qt5/QtWebView/5.15.11/QtWebView/private/qwebviewplugin_p.h
+/usr/include/qt5/QtWebView/QtWebView
+/usr/include/qt5/QtWebView/QtWebViewDepends
+/usr/include/qt5/QtWebView/QtWebViewVersion
+/usr/include/qt5/QtWebView/qtwebviewfunctions.h
+/usr/include/qt5/QtWebView/qtwebviewversion.h
+/usr/include/qt5/QtWebView/qwebview_global.h
+/usr/lib/cmake/Qt5WebView/Qt5WebViewConfig.cmake
+/usr/lib/cmake/Qt5WebView/Qt5WebViewConfigVersion.cmake
+/usr/lib/cmake/Qt5WebView/Qt5WebView_QWebEngineWebViewPlugin.cmake
+/usr/lib/libQt5WebView.prl
+/usr/lib/libQt5WebView.so -> /usr/lib/libQt5WebView.so.5.15.11
+/usr/lib/pkgconfig/Qt5WebView.pc
+/usr/lib/qt5/mkspecs/modules/qt_lib_webview.pri
+/usr/lib/qt5/mkspecs/modules/qt_lib_webview_private.pri

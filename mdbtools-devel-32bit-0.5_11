@@ -1,0 +1,4 @@
+/usr/lib32/libmdb.a
+/usr/lib32/libmdb.so -> /usr/lib32/libmdb.so.0.0.0
+/usr/lib32/libmdbsql.a
+/usr/lib32/libmdbsql.so -> /usr/lib32/libmdbsql.so.0.0.0

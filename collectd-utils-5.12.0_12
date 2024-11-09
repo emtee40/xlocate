@@ -1,0 +1,6 @@
+/usr/bin/collectd-nagios
+/usr/bin/collectd-tg
+/usr/bin/collectdctl
+/usr/share/man/man1/collectd-nagios.1
+/usr/share/man/man1/collectd-tg.1
+/usr/share/man/man1/collectdctl.1

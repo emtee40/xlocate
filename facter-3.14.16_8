@@ -1,0 +1,4 @@
+/usr/bin/facter
+/usr/lib/libfacter.so.3.14.16
+/usr/lib/ruby/vendor_ruby/facter.rb
+/usr/share/man/man8/facter.8

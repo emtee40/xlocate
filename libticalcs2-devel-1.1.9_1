@@ -1,0 +1,19 @@
+/usr/include/tilp2/cmd68k.h
+/usr/include/tilp2/cmdz80.h
+/usr/include/tilp2/dbus_pkt.h
+/usr/include/tilp2/dusb_cmd.h
+/usr/include/tilp2/dusb_rpkt.h
+/usr/include/tilp2/dusb_vpkt.h
+/usr/include/tilp2/export3.h
+/usr/include/tilp2/keys73.h
+/usr/include/tilp2/keys83.h
+/usr/include/tilp2/keys83p.h
+/usr/include/tilp2/keys86.h
+/usr/include/tilp2/keys89.h
+/usr/include/tilp2/keys92p.h
+/usr/include/tilp2/nsp_cmd.h
+/usr/include/tilp2/nsp_vpkt.h
+/usr/include/tilp2/stdints3.h
+/usr/include/tilp2/ticalcs.h
+/usr/lib/libticalcs2.so -> /usr/lib/libticalcs2.so.12.0.3
+/usr/lib/pkgconfig/ticalcs2.pc

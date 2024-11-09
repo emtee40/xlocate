@@ -1,0 +1,6 @@
+/usr/lib32/libkrfbprivate.so.5
+/usr/lib32/libkrfbprivate.so.5.0 -> /usr/lib32/libkrfbprivate.so.5
+/usr/lib32/qt6/plugins/krfb/events/x11.so
+/usr/lib32/qt6/plugins/krfb/events/xdp.so
+/usr/lib32/qt6/plugins/krfb/framebuffer/pw.so
+/usr/lib32/qt6/plugins/krfb/framebuffer/xcb.so

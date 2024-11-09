@@ -1,0 +1,5 @@
+/usr/bin/stunnel
+/usr/bin/stunnel3
+/usr/lib/stunnel/libstunnel.so
+/usr/share/examples/stunnel/stunnel.conf-sample
+/usr/share/man/man8/stunnel.8

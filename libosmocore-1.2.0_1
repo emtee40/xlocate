@@ -1,0 +1,20 @@
+/usr/bin/osmo-arfcn
+/usr/bin/osmo-auc-gen
+/usr/bin/osmo-config-merge
+/usr/bin/osmo-release.sh
+/usr/lib/libosmocodec.so.0 -> /usr/lib/libosmocodec.so.0.1.1
+/usr/lib/libosmocodec.so.0.1.1
+/usr/lib/libosmocoding.so.0 -> /usr/lib/libosmocoding.so.0.1.1
+/usr/lib/libosmocoding.so.0.1.1
+/usr/lib/libosmocore.so.12 -> /usr/lib/libosmocore.so.12.2.0
+/usr/lib/libosmocore.so.12.2.0
+/usr/lib/libosmoctrl.so.0 -> /usr/lib/libosmoctrl.so.0.4.0
+/usr/lib/libosmoctrl.so.0.4.0
+/usr/lib/libosmogb.so.9 -> /usr/lib/libosmogb.so.9.0.1
+/usr/lib/libosmogb.so.9.0.1
+/usr/lib/libosmogsm.so.13 -> /usr/lib/libosmogsm.so.13.0.0
+/usr/lib/libosmogsm.so.13.0.0
+/usr/lib/libosmosim.so.0 -> /usr/lib/libosmosim.so.0.1.1
+/usr/lib/libosmosim.so.0.1.1
+/usr/lib/libosmovty.so.4 -> /usr/lib/libosmovty.so.4.4.0
+/usr/lib/libosmovty.so.4.4.0

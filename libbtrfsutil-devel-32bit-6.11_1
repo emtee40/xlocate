@@ -1,0 +1,3 @@
+/usr/lib32/libbtrfsutil.a
+/usr/lib32/libbtrfsutil.so -> /usr/lib32/libbtrfsutil.so.1.3.2
+/usr/lib32/pkgconfig/libbtrfsutil.pc

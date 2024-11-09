@@ -1,0 +1,13 @@
+/etc/sv/smcrouted/log/run
+/etc/sv/smcrouted/log/supervise -> /run/runit/supervise.smcrouted-log
+/etc/sv/smcrouted/run
+/etc/sv/smcrouted/supervise -> /run/runit/supervise.smcrouted
+/usr/bin/smcroute
+/usr/bin/smcroutectl
+/usr/bin/smcrouted
+/usr/share/doc/smcroute/COPYING
+/usr/share/doc/smcroute/README.md
+/usr/share/doc/smcroute/smcroute.conf
+/usr/share/man/man5/smcroute.conf.5
+/usr/share/man/man8/smcroutectl.8
+/usr/share/man/man8/smcrouted.8

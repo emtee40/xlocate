@@ -1,0 +1,5 @@
+/etc/sv/freefall/log/run
+/etc/sv/freefall/log/supervise -> /run/runit/supervise.freefall-log
+/etc/sv/freefall/run
+/etc/sv/freefall/supervise -> /run/runit/supervise.freefall
+/usr/bin/freefall

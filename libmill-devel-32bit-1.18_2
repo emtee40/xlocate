@@ -1,0 +1,3 @@
+/usr/lib32/libmill.a
+/usr/lib32/libmill.so -> /usr/lib32/libmill.so.18.1.1
+/usr/lib32/pkgconfig/libmill.pc

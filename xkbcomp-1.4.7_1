@@ -1,0 +1,4 @@
+/usr/bin/xkbcomp
+/usr/lib/pkgconfig/xkbcomp.pc
+/usr/share/licenses/xkbcomp/LICENSE
+/usr/share/man/man1/xkbcomp.1

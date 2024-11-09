@@ -1,0 +1,9 @@
+/usr/lib32/libyaz.a
+/usr/lib32/libyaz.so -> /usr/lib32/libyaz.so.5.0.0
+/usr/lib32/libyaz_icu.a
+/usr/lib32/libyaz_icu.so -> /usr/lib32/libyaz_icu.so.5.0.0
+/usr/lib32/libyaz_server.a
+/usr/lib32/libyaz_server.so -> /usr/lib32/libyaz_server.so.5.0.0
+/usr/lib32/pkgconfig/yaz-icu.pc
+/usr/lib32/pkgconfig/yaz-server.pc
+/usr/lib32/pkgconfig/yaz.pc

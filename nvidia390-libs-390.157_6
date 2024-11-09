@@ -1,0 +1,48 @@
+/usr/lib/libEGL_nvidia.so.0 -> /usr/lib/libEGL_nvidia.so.390.157
+/usr/lib/libEGL_nvidia.so.390.157
+/usr/lib/libGLESv1_CM_nvidia.so.1 -> /usr/lib/libGLESv1_CM_nvidia.so.390.157
+/usr/lib/libGLESv1_CM_nvidia.so.390.157
+/usr/lib/libGLESv2_nvidia.so.2 -> /usr/lib/libGLESv2_nvidia.so.390.157
+/usr/lib/libGLESv2_nvidia.so.390.157
+/usr/lib/libGLX_indirect.so.0 -> /usr/lib/libGLX_nvidia.so.390.157
+/usr/lib/libGLX_nvidia.so.0 -> /usr/lib/libGLX_nvidia.so.390.157
+/usr/lib/libGLX_nvidia.so.390.157
+/usr/lib/libcuda.so -> /usr/lib/libcuda.so.390.157
+/usr/lib/libcuda.so.1 -> /usr/lib/libcuda.so.390.157
+/usr/lib/libcuda.so.390.157
+/usr/lib/libnvcuvid.so -> /usr/lib/libnvcuvid.so.390.157
+/usr/lib/libnvcuvid.so.1 -> /usr/lib/libnvcuvid.so.390.157
+/usr/lib/libnvcuvid.so.390.157
+/usr/lib/libnvidia-cfg.so -> /usr/lib/libnvidia-cfg.so.390.157
+/usr/lib/libnvidia-cfg.so.1 -> /usr/lib/libnvidia-cfg.so.390.157
+/usr/lib/libnvidia-cfg.so.390.157
+/usr/lib/libnvidia-egl-wayland.so.1 -> /usr/lib/libnvidia-egl-wayland.so.1.0.2
+/usr/lib/libnvidia-egl-wayland.so.1.0.2
+/usr/lib/libnvidia-eglcore.so.390.157
+/usr/lib/libnvidia-encode.so -> /usr/lib/libnvidia-encode.so.390.157
+/usr/lib/libnvidia-encode.so.1 -> /usr/lib/libnvidia-encode.so.390.157
+/usr/lib/libnvidia-encode.so.390.157
+/usr/lib/libnvidia-fatbinaryloader.so -> /usr/lib/libnvidia-fatbinaryloader.so.1
+/usr/lib/libnvidia-fatbinaryloader.so.1 -> /usr/lib/libnvidia-fatbinaryloader.so.390.157
+/usr/lib/libnvidia-fatbinaryloader.so.390.157
+/usr/lib/libnvidia-fbc.so -> /usr/lib/libnvidia-fbc.so.390.157
+/usr/lib/libnvidia-fbc.so.1 -> /usr/lib/libnvidia-fbc.so.390.157
+/usr/lib/libnvidia-fbc.so.390.157
+/usr/lib/libnvidia-glcore.so.390.157
+/usr/lib/libnvidia-glsi.so.390.157
+/usr/lib/libnvidia-ifr.so -> /usr/lib/libnvidia-ifr.so.390.157
+/usr/lib/libnvidia-ifr.so.1 -> /usr/lib/libnvidia-ifr.so.390.157
+/usr/lib/libnvidia-ifr.so.390.157
+/usr/lib/libnvidia-ml.so -> /usr/lib/libnvidia-ml.so.390.157
+/usr/lib/libnvidia-ml.so.1 -> /usr/lib/libnvidia-ml.so.390.157
+/usr/lib/libnvidia-ml.so.390.157
+/usr/lib/libnvidia-ptxjitcompiler.so -> /usr/lib/libnvidia-ptxjitcompiler.so.1
+/usr/lib/libnvidia-ptxjitcompiler.so.1 -> /usr/lib/libnvidia-ptxjitcompiler.so.390.157
+/usr/lib/libnvidia-ptxjitcompiler.so.390.157
+/usr/lib/libnvidia-tls.so.390.157
+/usr/lib/nvidia/xorg/libglx.so -> /usr/lib/nvidia/xorg/libglx.so.390.157
+/usr/lib/nvidia/xorg/libglx.so.1 -> /usr/lib/nvidia/xorg/libglx.so.390.157
+/usr/lib/nvidia/xorg/libglx.so.390.157
+/usr/lib/vdpau/libvdpau_nvidia.so.1 -> /usr/lib/vdpau/libvdpau_nvidia.so.390.157
+/usr/lib/vdpau/libvdpau_nvidia.so.390.157
+/usr/lib/xorg/modules/drivers/nvidia_drv.so

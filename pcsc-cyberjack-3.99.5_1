@@ -1,0 +1,7 @@
+/etc/cyberjack.conf.default
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Info.plist
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.a
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so -> /usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6 -> /usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/Linux/libifd-cyberjack.so.6.0.0
+/usr/lib/pcsc/drivers/libifd-cyberjack.bundle/Contents/PkgInfo

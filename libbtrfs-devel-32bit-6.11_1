@@ -1,0 +1,2 @@
+/usr/lib32/libbtrfs.a
+/usr/lib32/libbtrfs.so -> /usr/lib32/libbtrfs.so.0.1.4

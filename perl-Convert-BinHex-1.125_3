@@ -1,0 +1,6 @@
+/usr/bin/binhex.pl
+/usr/bin/debinhex.pl
+/usr/share/man/man1/binhex.pl.1p
+/usr/share/man/man1/debinhex.pl.1p
+/usr/share/man/man3/Convert::BinHex.3p
+/usr/share/perl5/vendor_perl/Convert/BinHex.pm

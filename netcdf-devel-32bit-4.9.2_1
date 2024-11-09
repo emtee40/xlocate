@@ -1,0 +1,3 @@
+/usr/lib32/libnetcdf.a
+/usr/lib32/libnetcdf.so -> /usr/lib32/libnetcdf.so.19.2.2
+/usr/lib32/pkgconfig/netcdf.pc

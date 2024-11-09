@@ -1,0 +1,4 @@
+/usr/include/libimagequant.h
+/usr/lib/libimagequant.a
+/usr/lib/libimagequant.so -> /usr/lib/libimagequant.so.0.4.0
+/usr/lib/pkgconfig/imagequant.pc

@@ -1,0 +1,10 @@
+/etc/i8kmon.conf
+/etc/sv/i8kmon/run
+/etc/sv/i8kmon/supervise -> /run/runit/supervise.i8kmon
+/usr/bin/i8kctl
+/usr/bin/i8kfan
+/usr/bin/i8kmon
+/usr/lib/modprobe.d/dell-smm-hwmon.conf
+/usr/share/doc/i8kutils/README.i8kutils
+/usr/share/man/man1/i8kctl.1
+/usr/share/man/man1/i8kmon.1

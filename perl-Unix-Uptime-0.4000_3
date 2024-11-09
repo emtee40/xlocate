@@ -1,0 +1,12 @@
+/usr/share/doc/perl/html/site/lib/Unix/Uptime.html
+/usr/share/doc/perl/html/site/lib/Unix/Uptime/BSD.html
+/usr/share/doc/perl/html/site/lib/Unix/Uptime/BSD/XS.html
+/usr/share/doc/perl/html/site/lib/Unix/Uptime/Linux.html
+/usr/share/man/man3/Unix::Uptime.3p
+/usr/share/man/man3/Unix::Uptime::BSD.3p
+/usr/share/man/man3/Unix::Uptime::BSD::XS.3p
+/usr/share/man/man3/Unix::Uptime::Linux.3p
+/usr/share/perl5/vendor_perl/Unix/Uptime.pm
+/usr/share/perl5/vendor_perl/Unix/Uptime/BSD.pm
+/usr/share/perl5/vendor_perl/Unix/Uptime/BSD/XS.pm
+/usr/share/perl5/vendor_perl/Unix/Uptime/Linux.pm

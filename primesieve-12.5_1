@@ -1,0 +1,5 @@
+/usr/bin/primesieve
+/usr/lib/libprimesieve.so.12 -> /usr/lib/libprimesieve.so.12.5.0
+/usr/lib/libprimesieve.so.12.5.0
+/usr/share/licenses/primesieve/COPYING
+/usr/share/man/man1/primesieve.1

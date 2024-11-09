@@ -1,0 +1,4 @@
+/usr/lib32/libgnomekbd.so -> /usr/lib32/libgnomekbd.so.8
+/usr/lib32/libgnomekbdui.so -> /usr/lib32/libgnomekbdui.so.8
+/usr/lib32/pkgconfig/libgnomekbd.pc
+/usr/lib32/pkgconfig/libgnomekbdui.pc

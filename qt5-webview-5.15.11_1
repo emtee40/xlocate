@@ -1,0 +1,7 @@
+/usr/lib/libQt5WebView.so.5 -> /usr/lib/libQt5WebView.so.5.15.11
+/usr/lib/libQt5WebView.so.5.15 -> /usr/lib/libQt5WebView.so.5.15.11
+/usr/lib/libQt5WebView.so.5.15.11
+/usr/lib/qt5/plugins/webview/libqtwebview_webengine.so
+/usr/lib/qt5/qml/QtWebView/libdeclarative_webview.so
+/usr/lib/qt5/qml/QtWebView/plugins.qmltypes
+/usr/lib/qt5/qml/QtWebView/qmldir

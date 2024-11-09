@@ -1,0 +1,5 @@
+/usr/lib32/libcrypt.a
+/usr/lib32/libcrypt.so -> /usr/lib32/libcrypt.so.2.0.0
+/usr/lib32/libxcrypt.a -> /usr/lib32/libcrypt.a
+/usr/lib32/pkgconfig/libcrypt.pc
+/usr/lib32/pkgconfig/libxcrypt.pc

@@ -1,0 +1,5 @@
+/usr/lib/libcgroup.a
+/usr/lib/libcgroup.so.3 -> /usr/lib/libcgroup.so.3.0.0
+/usr/lib/libcgroup.so.3.0.0
+/usr/lib/security/pam_cgroup.a
+/usr/lib/security/pam_cgroup.so

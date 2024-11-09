@@ -1,0 +1,4 @@
+/usr/lib32/python3.12/site-packages/libJupyROOT3_12.so
+/usr/lib32/python3.12/site-packages/libROOTPythonizations3_12.so
+/usr/lib32/python3.12/site-packages/libcppyy3_12.so -> ../../root/libcppyy3_12.so
+/usr/lib32/python3.12/site-packages/libcppyy_backend3_12.so -> ../../root/libcppyy_backend3_12.so

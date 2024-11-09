@@ -1,0 +1,5 @@
+/usr/lib32/libpeas-2.so.0 -> /usr/lib32/libpeas-2.so.0.0.1
+/usr/lib32/libpeas-2.so.0.0.1
+/usr/lib32/libpeas-2/loaders/libgjsloader.so
+/usr/lib32/libpeas-2/loaders/liblua51loader.so
+/usr/lib32/libpeas-2/loaders/libpythonloader.so

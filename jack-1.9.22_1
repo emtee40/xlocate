@@ -1,0 +1,7 @@
+/etc/security/limits.d/jack.conf
+/usr/bin/jack_control
+/usr/bin/jackd
+/usr/bin/jackdbus
+/usr/lib/udev/rules.d/40-hpet-permissions.rules
+/usr/share/dbus-1/services/org.jackaudio.service
+/usr/share/man/man1/jackd.1

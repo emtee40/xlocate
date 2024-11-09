@@ -1,0 +1,10 @@
+/usr/bin/grail-test-3-1
+/usr/bin/grail-test-atomic
+/usr/bin/grail-test-edge
+/usr/bin/grail-test-propagation
+/usr/lib/libgrail.so.6 -> /usr/lib/libgrail.so.6.0.0
+/usr/lib/libgrail.so.6.0.0
+/usr/share/man/man1/grail-test-3-1.1
+/usr/share/man/man1/grail-test-atomic.1
+/usr/share/man/man1/grail-test-edge.1
+/usr/share/man/man1/grail-test-propagation.1

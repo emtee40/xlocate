@@ -1,0 +1,8 @@
+/usr/bin/icns2png
+/usr/bin/icontainer2icns
+/usr/bin/png2icns
+/usr/lib/libicns.so.1 -> /usr/lib/libicns.so.1.2.0
+/usr/lib/libicns.so.1.2.0
+/usr/share/man/man1/icns2png.1
+/usr/share/man/man1/icontainer2icns.1
+/usr/share/man/man1/png2icns.1

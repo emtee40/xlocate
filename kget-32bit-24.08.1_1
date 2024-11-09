@@ -1,0 +1,16 @@
+/usr/lib32/libkgetcore.so -> /usr/lib32/libkgetcore.so.6
+/usr/lib32/libkgetcore.so.6 -> /usr/lib32/libkgetcore.so.6.0.0
+/usr/lib32/libkgetcore.so.6.0.0
+/usr/lib32/qt6/plugins/kget/kget_bittorrent.so
+/usr/lib32/qt6/plugins/kget/kget_checksumsearchfactory.so
+/usr/lib32/qt6/plugins/kget/kget_kio.so
+/usr/lib32/qt6/plugins/kget/kget_metalinkfactory.so
+/usr/lib32/qt6/plugins/kget/kget_mirrorsearchfactory.so
+/usr/lib32/qt6/plugins/kget/kget_mmsfactory.so
+/usr/lib32/qt6/plugins/kget/kget_multisegkiofactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_bittorrentfactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_checksumsearchfactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_metalinkfactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_mirrorsearchfactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_mmsfactory.so
+/usr/lib32/qt6/plugins/kget_kcms/kcm_kget_multisegkiofactory.so

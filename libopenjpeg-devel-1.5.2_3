@@ -1,0 +1,4 @@
+/usr/include/openjpeg-1.5/openjpeg.h
+/usr/lib/libopenjpeg.so -> /usr/lib/libopenjpeg.so.5
+/usr/lib/pkgconfig/libopenjpeg1.pc
+/usr/share/man/man3/libopenjpeg.3

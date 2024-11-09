@@ -1,0 +1,13 @@
+/usr/lib32/drumstick/libdrumstick-rt-alsa-in.so
+/usr/lib32/drumstick/libdrumstick-rt-alsa-out.so
+/usr/lib32/drumstick/libdrumstick-rt-eassynth.so
+/usr/lib32/drumstick/libdrumstick-rt-net-in.so
+/usr/lib32/drumstick/libdrumstick-rt-net-out.so
+/usr/lib32/drumstick/libdrumstick-rt-oss-in.so
+/usr/lib32/drumstick/libdrumstick-rt-oss-out.so
+/usr/lib32/libdrumstick-alsa.so.1 -> /usr/lib32/libdrumstick-alsa.so.1.1.3
+/usr/lib32/libdrumstick-alsa.so.1.1.3
+/usr/lib32/libdrumstick-file.so.1 -> /usr/lib32/libdrumstick-file.so.1.1.3
+/usr/lib32/libdrumstick-file.so.1.1.3
+/usr/lib32/libdrumstick-rt.so.1 -> /usr/lib32/libdrumstick-rt.so.1.1.3
+/usr/lib32/libdrumstick-rt.so.1.1.3

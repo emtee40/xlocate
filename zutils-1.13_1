@@ -1,0 +1,17 @@
+/etc/zutils.conf
+/usr/bin/Zcat
+/usr/bin/Zcmp
+/usr/bin/Zdiff
+/usr/bin/Zegrep
+/usr/bin/Zfgrep
+/usr/bin/Zgrep
+/usr/bin/Ztest
+/usr/bin/Zupdate
+/usr/share/doc/zutils/README.voidlinux
+/usr/share/info/zutils.info
+/usr/share/man/man1/Zcat.1
+/usr/share/man/man1/Zcmp.1
+/usr/share/man/man1/Zdiff.1
+/usr/share/man/man1/Zgrep.1
+/usr/share/man/man1/Ztest.1
+/usr/share/man/man1/Zupdate.1

@@ -1,0 +1,89 @@
+/etc/sv/GCP-Guest-Initialization/log/run
+/etc/sv/GCP-Guest-Initialization/log/supervise -> /run/runit/supervise.GCP-Guest-Initialization-log
+/etc/sv/GCP-Guest-Initialization/run
+/etc/sv/GCP-Guest-Initialization/supervise -> /run/runit/supervise.GCP-Guest-Initialization
+/etc/sv/GCP-accounts/log/run
+/etc/sv/GCP-accounts/log/supervise -> /run/runit/supervise.GCP-accounts-log
+/etc/sv/GCP-accounts/run
+/etc/sv/GCP-accounts/supervise -> /run/runit/supervise.GCP-accounts
+/etc/sv/GCP-clock-skew/log/run
+/etc/sv/GCP-clock-skew/log/supervise -> /run/runit/supervise.GCP-clock-skew-log
+/etc/sv/GCP-clock-skew/run
+/etc/sv/GCP-clock-skew/supervise -> /run/runit/supervise.GCP-clock-skew
+/etc/sv/GCP-ip-forwarding/log/run
+/etc/sv/GCP-ip-forwarding/log/supervise -> /run/runit/supervise.GCP-ip-forwarding-log
+/etc/sv/GCP-ip-forwarding/run
+/etc/sv/GCP-ip-forwarding/supervise -> /run/runit/supervise.GCP-ip-forwarding
+/usr/bin/google_accounts_daemon
+/usr/bin/google_clock_skew_daemon
+/usr/bin/google_instance_setup
+/usr/bin/google_metadata_script_runner
+/usr/bin/google_network_daemon
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/google_compute_engine-20191210.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/google_compute_engine/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/accounts/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/accounts/accounts_daemon.py
+/usr/lib/python3.12/site-packages/google_compute_engine/accounts/accounts_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/accounts/oslogin_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/boto/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/boto/boto_config.py
+/usr/lib/python3.12/site-packages/google_compute_engine/boto/compute_auth.py
+/usr/lib/python3.12/site-packages/google_compute_engine/clock_skew/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/clock_skew/clock_skew_daemon.py
+/usr/lib/python3.12/site-packages/google_compute_engine/compat.py
+/usr/lib/python3.12/site-packages/google_compute_engine/config_manager.py
+/usr/lib/python3.12/site-packages/google_compute_engine/constants.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/debian_9/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/debian_9/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/debian_9/tests/utils_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/debian_9/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_6/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_6/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_6/tests/utils_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_6/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_7/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_7/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_7/tests/utils_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/el_7/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/freebsd_11/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/freebsd_11/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/freebsd_11/tests/utils_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/freebsd_11/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/helpers.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/ip_forwarding_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/sles_12/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/sles_12/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/sles_12/tests/utils_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/sles_12/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/distro_lib/utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/file_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/instance_setup/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/instance_setup/instance_config.py
+/usr/lib/python3.12/site-packages/google_compute_engine/instance_setup/instance_setup.py
+/usr/lib/python3.12/site-packages/google_compute_engine/logger.py
+/usr/lib/python3.12/site-packages/google_compute_engine/metadata_scripts/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/metadata_scripts/script_executor.py
+/usr/lib/python3.12/site-packages/google_compute_engine/metadata_scripts/script_manager.py
+/usr/lib/python3.12/site-packages/google_compute_engine/metadata_scripts/script_retriever.py
+/usr/lib/python3.12/site-packages/google_compute_engine/metadata_watcher.py
+/usr/lib/python3.12/site-packages/google_compute_engine/network_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/ip_forwarding/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/ip_forwarding/ip_forwarding.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/ip_forwarding/ip_forwarding_utils.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/ip_forwarding/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/ip_forwarding/tests/ip_forwarding_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/network_daemon.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/network_setup/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/network_setup/network_setup.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/network_setup/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/network_setup/tests/network_setup_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/tests/__init__.py
+/usr/lib/python3.12/site-packages/google_compute_engine/networking/tests/network_daemon_test.py
+/usr/lib/python3.12/site-packages/google_compute_engine/test_compat.py

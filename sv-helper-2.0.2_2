@@ -1,0 +1,9 @@
+/usr/bin/rsvlog
+/usr/bin/sv-disable -> /usr/bin/sv-helper
+/usr/bin/sv-enable -> /usr/bin/sv-helper
+/usr/bin/sv-find -> /usr/bin/sv-helper
+/usr/bin/sv-helper
+/usr/bin/sv-list -> /usr/bin/sv-helper
+/usr/bin/svls -> /usr/bin/sv-helper
+/usr/share/doc/sv-helper/README.md
+/usr/share/licenses/sv-helper/COPYING

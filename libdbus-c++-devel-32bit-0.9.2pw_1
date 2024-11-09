@@ -1,0 +1,6 @@
+/usr/lib32/libdbus-c++-1.a
+/usr/lib32/libdbus-c++-1.so -> /usr/lib32/libdbus-c++-1.so.0.0.0
+/usr/lib32/libdbus-c++-glib-1.a
+/usr/lib32/libdbus-c++-glib-1.so -> /usr/lib32/libdbus-c++-glib-1.so.0.0.0
+/usr/lib32/pkgconfig/dbus-c++-1.pc
+/usr/lib32/pkgconfig/dbus-c++-glib-1.pc

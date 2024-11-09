@@ -1,0 +1,8 @@
+/usr/lib32/libfolks-dummy.so -> /usr/lib32/libfolks-dummy.so.26
+/usr/lib32/libfolks-eds.so -> /usr/lib32/libfolks-eds.so.26
+/usr/lib32/libfolks-telepathy.so -> /usr/lib32/libfolks-telepathy.so.26
+/usr/lib32/libfolks.so -> /usr/lib32/libfolks.so.26
+/usr/lib32/pkgconfig/folks-dummy.pc
+/usr/lib32/pkgconfig/folks-eds.pc
+/usr/lib32/pkgconfig/folks-telepathy.pc
+/usr/lib32/pkgconfig/folks.pc

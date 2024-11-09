@@ -1,0 +1,42 @@
+/usr/include/audacious/audtag.h
+/usr/include/libaudcore/archive_reader.h
+/usr/include/libaudcore/audio.h
+/usr/include/libaudcore/audstrings.h
+/usr/include/libaudcore/drct.h
+/usr/include/libaudcore/equalizer.h
+/usr/include/libaudcore/export.h
+/usr/include/libaudcore/hook.h
+/usr/include/libaudcore/i18n.h
+/usr/include/libaudcore/index.h
+/usr/include/libaudcore/inifile.h
+/usr/include/libaudcore/interface.h
+/usr/include/libaudcore/list.h
+/usr/include/libaudcore/mainloop.h
+/usr/include/libaudcore/multihash.h
+/usr/include/libaudcore/objects.h
+/usr/include/libaudcore/playlist.h
+/usr/include/libaudcore/plugin.h
+/usr/include/libaudcore/plugins.h
+/usr/include/libaudcore/preferences.h
+/usr/include/libaudcore/probe.h
+/usr/include/libaudcore/ringbuf.h
+/usr/include/libaudcore/runtime.h
+/usr/include/libaudcore/templates.h
+/usr/include/libaudcore/threads.h
+/usr/include/libaudcore/tinylock.h
+/usr/include/libaudcore/tuple.h
+/usr/include/libaudcore/vfs.h
+/usr/include/libaudcore/vfs_async.h
+/usr/include/libaudcore/visualizer.h
+/usr/include/libaudqt/colorbutton.h
+/usr/include/libaudqt/dock.h
+/usr/include/libaudqt/export.h
+/usr/include/libaudqt/iface.h
+/usr/include/libaudqt/info-widget.h
+/usr/include/libaudqt/libaudqt.h
+/usr/include/libaudqt/menu.h
+/usr/include/libaudqt/treeview.h
+/usr/lib/libaudcore.so -> /usr/lib/libaudcore.so.5
+/usr/lib/libaudqt.so -> /usr/lib/libaudqt.so.2
+/usr/lib/libaudtag.so -> /usr/lib/libaudtag.so.3
+/usr/lib/pkgconfig/audacious.pc

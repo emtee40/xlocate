@@ -1,0 +1,2 @@
+/usr/include/cpufreq.h
+/usr/lib/libcpufreq.so -> /usr/lib/libcpufreq.so.0.0.0

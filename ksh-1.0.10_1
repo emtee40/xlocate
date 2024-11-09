@@ -1,0 +1,20 @@
+/usr/bin/ksh93
+/usr/bin/shcomp
+/usr/lib/libast.so.6 -> /usr/lib/libast.so.6.0
+/usr/lib/libast.so.6.0
+/usr/lib/libcmd.so.2 -> /usr/lib/libcmd.so.2.0
+/usr/lib/libcmd.so.2.0
+/usr/lib/libdll.so.2 -> /usr/lib/libdll.so.2.0
+/usr/lib/libdll.so.2.0
+/usr/lib/libshell.so.2 -> /usr/lib/libshell.so.2.0
+/usr/lib/libshell.so.2.0
+/usr/share/fun/autocd
+/usr/share/fun/cd
+/usr/share/fun/dirs
+/usr/share/fun/man
+/usr/share/fun/mcd
+/usr/share/fun/popd
+/usr/share/fun/pushd
+/usr/share/licenses/ksh/LICENSE
+/usr/share/man/man1/ksh93.1
+/usr/share/man/man1/shcomp.1

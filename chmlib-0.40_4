@@ -1,0 +1,5 @@
+/usr/bin/chm_http
+/usr/bin/enum_chmLib
+/usr/bin/enumdir_chmLib
+/usr/bin/extract_chmLib
+/usr/bin/test_chmLib

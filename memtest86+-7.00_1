@@ -1,0 +1,3 @@
+/boot/memtest.bin
+/boot/memtest.efi
+/etc/grub.d/20_memtest86+

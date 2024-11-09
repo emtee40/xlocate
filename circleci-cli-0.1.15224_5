@@ -1,0 +1,4 @@
+/usr/bin/circleci
+/usr/share/bash-completion/completions/circleci
+/usr/share/licenses/circleci-cli/LICENSE
+/usr/share/zsh/site-functions/_circleci

@@ -1,0 +1,7 @@
+/usr/bin/cjxl
+/usr/bin/djxl
+/usr/bin/jxlinfo
+/usr/lib/libjxl_extras_codec.so.0.10 -> /usr/lib/libjxl_extras_codec.so.0.10.3
+/usr/lib/libjxl_extras_codec.so.0.10.3
+/usr/share/man/man1/cjxl.1
+/usr/share/man/man1/djxl.1

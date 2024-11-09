@@ -1,0 +1,20 @@
+/etc/hostapd/hostapd.conf
+/etc/sv/hostapd/log/run
+/etc/sv/hostapd/log/supervise -> /run/runit/supervise.hostapd-log
+/etc/sv/hostapd/run
+/etc/sv/hostapd/supervise -> /run/runit/supervise.hostapd
+/usr/bin/hostapd
+/usr/bin/hostapd_cli
+/usr/share/examples/hostapd/hlr_auc_gw.milenage_db
+/usr/share/examples/hostapd/hostapd.accept
+/usr/share/examples/hostapd/hostapd.conf
+/usr/share/examples/hostapd/hostapd.deny
+/usr/share/examples/hostapd/hostapd.eap_user
+/usr/share/examples/hostapd/hostapd.radius_clients
+/usr/share/examples/hostapd/hostapd.sim_db
+/usr/share/examples/hostapd/hostapd.vlan
+/usr/share/examples/hostapd/hostapd.wpa_psk
+/usr/share/examples/hostapd/wired.conf
+/usr/share/licenses/hostapd/COPYING
+/usr/share/man/man1/hostapd_cli.1
+/usr/share/man/man8/hostapd.8

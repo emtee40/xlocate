@@ -1,0 +1,6 @@
+/usr/lib32/ocaml/stdune/filesystem_stubs/libdune_filesystem_stubs_stubs.a
+/usr/lib32/ocaml/stdune/libstdune_stubs.a
+/usr/lib32/ocaml/stublibs/dlldune_filesystem_stubs_stubs.so
+/usr/lib32/ocaml/stublibs/dllstdune_stubs.so
+/usr/lib32/ocaml/stublibs/dllxdg_stubs.so
+/usr/lib32/ocaml/xdg/libxdg_stubs.a

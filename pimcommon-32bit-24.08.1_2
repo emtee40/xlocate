@@ -1,0 +1,6 @@
+/usr/lib32/libKPim6PimCommon.so.6 -> /usr/lib32/libKPim6PimCommon.so.6.2.1
+/usr/lib32/libKPim6PimCommon.so.6.2.1
+/usr/lib32/libKPim6PimCommonAkonadi.so.6 -> /usr/lib32/libKPim6PimCommonAkonadi.so.6.2.1
+/usr/lib32/libKPim6PimCommonAkonadi.so.6.2.1
+/usr/lib32/qt6/plugins/designer/pimcommon6akonadiwidgets.so
+/usr/lib32/qt6/plugins/designer/pimcommon6widgets.so

@@ -1,0 +1,4 @@
+/usr/include/btrfsutil.h
+/usr/lib/libbtrfsutil.a
+/usr/lib/libbtrfsutil.so -> /usr/lib/libbtrfsutil.so.1.3.2
+/usr/lib/pkgconfig/libbtrfsutil.pc

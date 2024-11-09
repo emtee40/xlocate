@@ -1,0 +1,9 @@
+/usr/lib32/libGraphicsMagick++.la
+/usr/lib32/libGraphicsMagick++.so -> /usr/lib32/libGraphicsMagick++.so.12.8.1
+/usr/lib32/libGraphicsMagick.la
+/usr/lib32/libGraphicsMagick.so -> /usr/lib32/libGraphicsMagick.so.3.25.2
+/usr/lib32/libGraphicsMagickWand.la
+/usr/lib32/libGraphicsMagickWand.so -> /usr/lib32/libGraphicsMagickWand.so.2.10.1
+/usr/lib32/pkgconfig/GraphicsMagick++.pc
+/usr/lib32/pkgconfig/GraphicsMagick.pc
+/usr/lib32/pkgconfig/GraphicsMagickWand.pc

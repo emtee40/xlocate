@@ -1,0 +1,11 @@
+/usr/include/docopt/docopt.h
+/usr/include/docopt/docopt_private.h
+/usr/include/docopt/docopt_util.h
+/usr/include/docopt/docopt_value.h
+/usr/lib/cmake/docopt/docopt-config-version.cmake
+/usr/lib/cmake/docopt/docopt-config.cmake
+/usr/lib/cmake/docopt/docopt-targets-none.cmake
+/usr/lib/cmake/docopt/docopt-targets.cmake
+/usr/lib/libdocopt.a
+/usr/lib/libdocopt.so -> /usr/lib/libdocopt.so.0
+/usr/lib/pkgconfig/docopt.pc

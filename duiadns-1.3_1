@@ -1,0 +1,7 @@
+/etc/duiadns.conf
+/etc/sv/duiadns/log/run
+/etc/sv/duiadns/log/supervise -> /run/runit/supervise.duiadns-log
+/etc/sv/duiadns/run
+/etc/sv/duiadns/supervise -> /run/runit/supervise.duiadns
+/usr/bin/duiadns
+/usr/share/licenses/duiadns/LICENSE.txt

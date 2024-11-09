@@ -1,0 +1,7 @@
+/usr/bin/pslist
+/usr/bin/rkill -> /usr/bin/pslist
+/usr/bin/rrenice -> /usr/bin/pslist
+/usr/share/licenses/pslist/LICENSE
+/usr/share/man/man1/pslist.1
+/usr/share/man/man1/rkill.1 -> /usr/share/man/man1/pslist.1
+/usr/share/man/man1/rrenice.1 -> /usr/share/man/man1/pslist.1

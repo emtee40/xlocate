@@ -1,0 +1,14 @@
+/usr/lib32/libMagick++-7.Q16HDRI.la
+/usr/lib32/libMagick++-7.Q16HDRI.so -> /usr/lib32/libMagick++-7.Q16HDRI.so.5.0.0
+/usr/lib32/libMagickCore-7.Q16HDRI.la
+/usr/lib32/libMagickCore-7.Q16HDRI.so -> /usr/lib32/libMagickCore-7.Q16HDRI.so.10.0.1
+/usr/lib32/libMagickWand-7.Q16HDRI.la
+/usr/lib32/libMagickWand-7.Q16HDRI.so -> /usr/lib32/libMagickWand-7.Q16HDRI.so.10.0.1
+/usr/lib32/pkgconfig/ImageMagick-7.Q16HDRI.pc
+/usr/lib32/pkgconfig/ImageMagick.pc
+/usr/lib32/pkgconfig/Magick++-7.Q16HDRI.pc
+/usr/lib32/pkgconfig/Magick++.pc
+/usr/lib32/pkgconfig/MagickCore-7.Q16HDRI.pc
+/usr/lib32/pkgconfig/MagickCore.pc
+/usr/lib32/pkgconfig/MagickWand-7.Q16HDRI.pc
+/usr/lib32/pkgconfig/MagickWand.pc

@@ -1,0 +1,23 @@
+/usr/include/usbguard/Audit.hpp
+/usr/include/usbguard/ConfigFile.hpp
+/usr/include/usbguard/Device.hpp
+/usr/include/usbguard/DeviceManager.hpp
+/usr/include/usbguard/DeviceManagerHooks.hpp
+/usr/include/usbguard/Exception.hpp
+/usr/include/usbguard/IPCClient.hpp
+/usr/include/usbguard/IPCServer.hpp
+/usr/include/usbguard/Interface.hpp
+/usr/include/usbguard/KeyValueParser.hpp
+/usr/include/usbguard/Logger.hpp
+/usr/include/usbguard/MemoryRuleSet.hpp
+/usr/include/usbguard/Policy.hpp
+/usr/include/usbguard/Predicates.hpp
+/usr/include/usbguard/Rule.hpp
+/usr/include/usbguard/RuleCondition.hpp
+/usr/include/usbguard/RuleSet.hpp
+/usr/include/usbguard/Typedefs.hpp
+/usr/include/usbguard/USB.hpp
+/usr/include/usbguard/USBGuard.hpp
+/usr/lib/libusbguard.a
+/usr/lib/libusbguard.so -> /usr/lib/libusbguard.so.1.0.1
+/usr/lib/pkgconfig/libusbguard.pc

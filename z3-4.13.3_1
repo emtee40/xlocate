@@ -1,0 +1,15 @@
+/usr/bin/maxsat
+/usr/bin/z3
+/usr/bin/z3_tptp
+/usr/lib/python3.12/site-packages/z3/__init__.py
+/usr/lib/python3.12/site-packages/z3/lib/libz3.so -> ../../../../libz3.so
+/usr/lib/python3.12/site-packages/z3/z3.py
+/usr/lib/python3.12/site-packages/z3/z3consts.py
+/usr/lib/python3.12/site-packages/z3/z3core.py
+/usr/lib/python3.12/site-packages/z3/z3num.py
+/usr/lib/python3.12/site-packages/z3/z3poly.py
+/usr/lib/python3.12/site-packages/z3/z3printer.py
+/usr/lib/python3.12/site-packages/z3/z3rcf.py
+/usr/lib/python3.12/site-packages/z3/z3types.py
+/usr/lib/python3.12/site-packages/z3/z3util.py
+/usr/share/licenses/z3/LICENSE.txt

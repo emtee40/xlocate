@@ -1,0 +1,8 @@
+/etc/ufw/applications.d/ufw-cups
+/etc/ufw/applications.d/ufw-dropbox
+/etc/ufw/applications.d/ufw-hplip
+/etc/ufw/applications.d/ufw-kdeconnect
+/etc/ufw/applications.d/ufw-lxd
+/etc/ufw/applications.d/ufw-megasync
+/etc/ufw/applications.d/ufw-mosh
+/etc/ufw/applications.d/ufw-synergy

@@ -1,0 +1,3 @@
+/usr/include/liba2ps.h
+/usr/lib/liba2ps.a
+/usr/lib/liba2ps.so -> /usr/lib/liba2ps.so.1.0.0

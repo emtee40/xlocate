@@ -1,0 +1,3 @@
+/usr/include/rec.h
+/usr/lib/librec.a
+/usr/lib/librec.so -> /usr/lib/librec.so.1.0.0

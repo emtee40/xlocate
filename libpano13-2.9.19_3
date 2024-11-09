@@ -1,0 +1,25 @@
+/usr/bin/PTblender
+/usr/bin/PTcrop
+/usr/bin/PTinfo
+/usr/bin/PTmasker
+/usr/bin/PTmender
+/usr/bin/PToptimizer
+/usr/bin/PTroller
+/usr/bin/PTtiff2psd
+/usr/bin/PTtiffdump
+/usr/bin/PTuncrop
+/usr/bin/panoinfo
+/usr/lib/libpano13.so.3 -> /usr/lib/libpano13.so.3.0.0
+/usr/lib/libpano13.so.3.0.0
+/usr/share/man/man1/PTAInterpolate.1
+/usr/share/man/man1/PTblender.1
+/usr/share/man/man1/PTcrop.1
+/usr/share/man/man1/PTinfo.1
+/usr/share/man/man1/PTmasker.1
+/usr/share/man/man1/PTmender.1
+/usr/share/man/man1/PToptimizer.1
+/usr/share/man/man1/PTroller.1
+/usr/share/man/man1/PTtiff2psd.1
+/usr/share/man/man1/PTtiffdump.1
+/usr/share/man/man1/PTuncrop.1
+/usr/share/man/man1/panoinfo.1

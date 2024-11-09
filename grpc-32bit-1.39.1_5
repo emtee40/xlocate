@@ -1,0 +1,24 @@
+/usr/lib32/libaddress_sorting.so.18 -> /usr/lib32/libaddress_sorting.so.18.0.0
+/usr/lib32/libaddress_sorting.so.18.0.0
+/usr/lib32/libgpr.so.18 -> /usr/lib32/libgpr.so.18.0.0
+/usr/lib32/libgpr.so.18.0.0
+/usr/lib32/libgrpc++.so.1.39 -> /usr/lib32/libgrpc++.so.1.39.1
+/usr/lib32/libgrpc++.so.1.39.1
+/usr/lib32/libgrpc++_alts.so.1.39 -> /usr/lib32/libgrpc++_alts.so.1.39.1
+/usr/lib32/libgrpc++_alts.so.1.39.1
+/usr/lib32/libgrpc++_error_details.so.1.39 -> /usr/lib32/libgrpc++_error_details.so.1.39.1
+/usr/lib32/libgrpc++_error_details.so.1.39.1
+/usr/lib32/libgrpc++_reflection.so.1.39 -> /usr/lib32/libgrpc++_reflection.so.1.39.1
+/usr/lib32/libgrpc++_reflection.so.1.39.1
+/usr/lib32/libgrpc++_unsecure.so.1.39 -> /usr/lib32/libgrpc++_unsecure.so.1.39.1
+/usr/lib32/libgrpc++_unsecure.so.1.39.1
+/usr/lib32/libgrpc.so.18 -> /usr/lib32/libgrpc.so.18.0.0
+/usr/lib32/libgrpc.so.18.0.0
+/usr/lib32/libgrpc_plugin_support.so.1.39 -> /usr/lib32/libgrpc_plugin_support.so.1.39.1
+/usr/lib32/libgrpc_plugin_support.so.1.39.1
+/usr/lib32/libgrpc_unsecure.so.18 -> /usr/lib32/libgrpc_unsecure.so.18.0.0
+/usr/lib32/libgrpc_unsecure.so.18.0.0
+/usr/lib32/libgrpcpp_channelz.so.1.39 -> /usr/lib32/libgrpcpp_channelz.so.1.39.1
+/usr/lib32/libgrpcpp_channelz.so.1.39.1
+/usr/lib32/libupb.so.18 -> /usr/lib32/libupb.so.18.0.0
+/usr/lib32/libupb.so.18.0.0

@@ -1,0 +1,4 @@
+/usr/include/aldumb.h
+/usr/lib/libaldmb.so -> /usr/lib/libaldmb.so.2
+/usr/lib/libaldmb.so.2 -> /usr/lib/libaldmb.so.2.0
+/usr/lib/libaldmb.so.2.0

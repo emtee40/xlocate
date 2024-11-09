@@ -1,0 +1,58 @@
+/usr/bin/dinit
+/usr/bin/dinit-halt -> /usr/bin/dinit-shutdown
+/usr/bin/dinit-monitor
+/usr/bin/dinit-poweroff -> /usr/bin/dinit-shutdown
+/usr/bin/dinit-reboot -> /usr/bin/dinit-shutdown
+/usr/bin/dinit-shutdown
+/usr/bin/dinit-soft-reboot -> /usr/bin/dinit-shutdown
+/usr/bin/dinitcheck
+/usr/bin/dinitctl
+/usr/share/doc/dinit/DINIT-AS-INIT.md
+/usr/share/doc/dinit/getting_started.md
+/usr/share/doc/dinit/services/auxfscheck
+/usr/share/doc/dinit/services/boot
+/usr/share/doc/dinit/services/boot.d/dhcpcd -> /usr/share/doc/dinit/services/dhcpcd
+/usr/share/doc/dinit/services/boot.d/late-filesystems -> /usr/share/doc/dinit/services/late-filesystems
+/usr/share/doc/dinit/services/boot.d/modules -> /usr/share/doc/dinit/services/modules
+/usr/share/doc/dinit/services/boot.d/sshd -> /usr/share/doc/dinit/services/sshd
+/usr/share/doc/dinit/services/dbusd
+/usr/share/doc/dinit/services/dhcpcd
+/usr/share/doc/dinit/services/early-filesystems
+/usr/share/doc/dinit/services/early-filesystems.sh
+/usr/share/doc/dinit/services/filesystems
+/usr/share/doc/dinit/services/filesystems.sh
+/usr/share/doc/dinit/services/hwclock
+/usr/share/doc/dinit/services/late-filesystems
+/usr/share/doc/dinit/services/late-filesystems.sh
+/usr/share/doc/dinit/services/loginready
+/usr/share/doc/dinit/services/modules
+/usr/share/doc/dinit/services/modules.sh
+/usr/share/doc/dinit/services/netdev-enp3s0
+/usr/share/doc/dinit/services/rcboot
+/usr/share/doc/dinit/services/rcboot.sh
+/usr/share/doc/dinit/services/recovery
+/usr/share/doc/dinit/services/rootfscheck
+/usr/share/doc/dinit/services/rootfscheck.sh
+/usr/share/doc/dinit/services/rootrw
+/usr/share/doc/dinit/services/single
+/usr/share/doc/dinit/services/sshd
+/usr/share/doc/dinit/services/syslogd
+/usr/share/doc/dinit/services/tty1
+/usr/share/doc/dinit/services/tty2
+/usr/share/doc/dinit/services/tty3
+/usr/share/doc/dinit/services/tty4
+/usr/share/doc/dinit/services/tty5
+/usr/share/doc/dinit/services/tty6
+/usr/share/doc/dinit/services/udev-settle
+/usr/share/doc/dinit/services/udev-trigger
+/usr/share/doc/dinit/services/udevd
+/usr/share/man/man5/dinit-service.5
+/usr/share/man/man8/dinit-halt.8 -> /usr/share/man/man8/dinit-shutdown.8
+/usr/share/man/man8/dinit-monitor.8
+/usr/share/man/man8/dinit-poweroff.8 -> /usr/share/man/man8/dinit-shutdown.8
+/usr/share/man/man8/dinit-reboot.8 -> /usr/share/man/man8/dinit-shutdown.8
+/usr/share/man/man8/dinit-shutdown.8
+/usr/share/man/man8/dinit-soft-reboot.8 -> /usr/share/man/man8/dinit-shutdown.8
+/usr/share/man/man8/dinit.8
+/usr/share/man/man8/dinitcheck.8
+/usr/share/man/man8/dinitctl.8

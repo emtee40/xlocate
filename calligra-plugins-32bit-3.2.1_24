@@ -1,0 +1,26 @@
+/usr/lib32/libkoformula.so -> /usr/lib32/libkoformula.so.17
+/usr/lib32/libkoformula.so.17 -> /usr/lib32/libkoformula.so.17.0.0
+/usr/lib32/libkoformula.so.17.0.0
+/usr/lib32/qt5/plugins/calligra/colorspaces/kolcmsengine.so
+/usr/lib32/qt5/plugins/calligra/devices/calligra_device_spacenavigator.so
+/usr/lib32/qt5/plugins/calligra/dockers/calligra_docker_defaults.so
+/usr/lib32/qt5/plugins/calligra/dockers/calligra_docker_stencils.so
+/usr/lib32/qt5/plugins/calligra/shapefiltereffects/calligra_filtereffects.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_artistictext.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_chart.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_formula.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_music.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_paths.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_picture.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_plugin.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_text.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_threed.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_vector.so
+/usr/lib32/qt5/plugins/calligra/shapes/calligra_shape_video.so
+/usr/lib32/qt5/plugins/calligra/textediting/calligra_textediting_autocorrect.so
+/usr/lib32/qt5/plugins/calligra/textediting/calligra_textediting_changecase.so
+/usr/lib32/qt5/plugins/calligra/textediting/calligra_textediting_spellcheck.so
+/usr/lib32/qt5/plugins/calligra/textediting/calligra_textediting_thesaurus.so
+/usr/lib32/qt5/plugins/calligra/textinlineobjects/calligra_textinlineobject_variables.so
+/usr/lib32/qt5/plugins/calligra/tools/calligra_tool_defaults.so
+/usr/lib32/qt5/plugins/calligra/tools/karbon_tools.so

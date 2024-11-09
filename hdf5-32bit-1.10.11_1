@@ -1,0 +1,12 @@
+/usr/lib32/libhdf5.so.103 -> /usr/lib32/libhdf5.so.103.4.1
+/usr/lib32/libhdf5.so.103.4.1
+/usr/lib32/libhdf5_cpp.so.103 -> /usr/lib32/libhdf5_cpp.so.103.4.3
+/usr/lib32/libhdf5_cpp.so.103.4.3
+/usr/lib32/libhdf5_fortran.so.102 -> /usr/lib32/libhdf5_fortran.so.102.1.4
+/usr/lib32/libhdf5_fortran.so.102.1.4
+/usr/lib32/libhdf5_hl.so.100 -> /usr/lib32/libhdf5_hl.so.100.1.8
+/usr/lib32/libhdf5_hl.so.100.1.8
+/usr/lib32/libhdf5_hl_cpp.so.100 -> /usr/lib32/libhdf5_hl_cpp.so.100.1.9
+/usr/lib32/libhdf5_hl_cpp.so.100.1.9
+/usr/lib32/libhdf5hl_fortran.so.100 -> /usr/lib32/libhdf5hl_fortran.so.100.0.10
+/usr/lib32/libhdf5hl_fortran.so.100.0.10

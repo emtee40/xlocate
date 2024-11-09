@@ -1,0 +1,28 @@
+/etc/mplayer/codecs.conf
+/etc/mplayer/input.conf
+/usr/bin/mencoder
+/usr/bin/mplayer
+/usr/share/applications/mplayer.desktop
+/usr/share/examples/mplayer/example.conf
+/usr/share/man/cs/man1/mencoder.1 -> /usr/share/man/cs/man1/mplayer.1
+/usr/share/man/cs/man1/mplayer.1
+/usr/share/man/de/man1/mencoder.1 -> /usr/share/man/de/man1/mplayer.1
+/usr/share/man/de/man1/mplayer.1
+/usr/share/man/es/man1/mencoder.1 -> /usr/share/man/es/man1/mplayer.1
+/usr/share/man/es/man1/mplayer.1
+/usr/share/man/fr/man1/mencoder.1 -> /usr/share/man/fr/man1/mplayer.1
+/usr/share/man/fr/man1/mplayer.1
+/usr/share/man/hu/man1/mencoder.1 -> /usr/share/man/hu/man1/mplayer.1
+/usr/share/man/hu/man1/mplayer.1
+/usr/share/man/it/man1/mencoder.1 -> /usr/share/man/it/man1/mplayer.1
+/usr/share/man/it/man1/mplayer.1
+/usr/share/man/man1/mencoder.1 -> /usr/share/man/man1/mplayer.1
+/usr/share/man/man1/mplayer.1
+/usr/share/man/pl/man1/mencoder.1 -> /usr/share/man/pl/man1/mplayer.1
+/usr/share/man/pl/man1/mplayer.1
+/usr/share/man/ru/man1/mencoder.1 -> /usr/share/man/ru/man1/mplayer.1
+/usr/share/man/ru/man1/mplayer.1
+/usr/share/man/zh_CN/man1/mencoder.1 -> /usr/share/man/zh_CN/man1/mplayer.1
+/usr/share/man/zh_CN/man1/mplayer.1
+/usr/share/mplayer/subfont.ttf -> /usr/share/fonts/TTF/DejaVuSans.ttf
+/usr/share/pixmaps/mplayer.png

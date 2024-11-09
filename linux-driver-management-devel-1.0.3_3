@@ -1,0 +1,19 @@
+/usr/include/linux-driver-management/bluetooth-device.h
+/usr/include/linux-driver-management/device.h
+/usr/include/linux-driver-management/dmi-device.h
+/usr/include/linux-driver-management/glx-manager.h
+/usr/include/linux-driver-management/gpu-config.h
+/usr/include/linux-driver-management/hid-device.h
+/usr/include/linux-driver-management/ldm-enums.h
+/usr/include/linux-driver-management/ldm.h
+/usr/include/linux-driver-management/manager.h
+/usr/include/linux-driver-management/modalias.h
+/usr/include/linux-driver-management/pci-device.h
+/usr/include/linux-driver-management/plugin.h
+/usr/include/linux-driver-management/plugins/modalias-plugin.h
+/usr/include/linux-driver-management/provider.h
+/usr/include/linux-driver-management/usb-device.h
+/usr/include/linux-driver-management/wifi-device.h
+/usr/lib/libldm.so -> /usr/lib/libldm.so.1
+/usr/lib/pkgconfig/ldm-1.0.pc
+/usr/share/gir-1.0/Ldm-1.0.gir

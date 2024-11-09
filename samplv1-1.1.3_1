@@ -1,0 +1,16 @@
+/usr/bin/samplv1_jack
+/usr/lib/lv2/samplv1.lv2/manifest.ttl
+/usr/lib/lv2/samplv1.lv2/samplv1.so
+/usr/lib/lv2/samplv1.lv2/samplv1.ttl
+/usr/lib/lv2/samplv1.lv2/samplv1_ui.ttl
+/usr/share/applications/org.rncbc.samplv1.desktop
+/usr/share/icons/hicolor/32x32/apps/org.rncbc.samplv1.png
+/usr/share/icons/hicolor/32x32/mimetypes/org.rncbc.samplv1.application-x-samplv1-preset.png
+/usr/share/icons/hicolor/scalable/apps/org.rncbc.samplv1.svg
+/usr/share/icons/hicolor/scalable/mimetypes/org.rncbc.samplv1.application-x-samplv1-preset.svg
+/usr/share/man/fr/man1/samplv1.1
+/usr/share/man/man1/samplv1.1
+/usr/share/metainfo/org.rncbc.samplv1.metainfo.xml
+/usr/share/mime/packages/org.rncbc.samplv1.xml
+/usr/share/samplv1/palette/KXStudio.conf
+/usr/share/samplv1/palette/Wonton Soup.conf

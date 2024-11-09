@@ -1,0 +1,17 @@
+/usr/include/sqsh/sqsh.h
+/usr/include/sqsh/sqsh_archive.h
+/usr/include/sqsh/sqsh_common.h
+/usr/include/sqsh/sqsh_data.h
+/usr/include/sqsh/sqsh_directory.h
+/usr/include/sqsh/sqsh_easy.h
+/usr/include/sqsh/sqsh_error.h
+/usr/include/sqsh/sqsh_file.h
+/usr/include/sqsh/sqsh_mapper.h
+/usr/include/sqsh/sqsh_posix.h
+/usr/include/sqsh/sqsh_table.h
+/usr/include/sqsh/sqsh_tree.h
+/usr/include/sqsh/sqsh_utils.h
+/usr/include/sqsh/sqsh_xattr.h
+/usr/lib/libsqsh.a
+/usr/lib/libsqsh.so -> /usr/lib/libsqsh.so.1
+/usr/lib/pkgconfig/libsqsh.pc

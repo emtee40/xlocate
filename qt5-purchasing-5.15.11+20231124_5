@@ -1,0 +1,6 @@
+/usr/lib/libQt5Purchasing.so.5 -> /usr/lib/libQt5Purchasing.so.5.15.11
+/usr/lib/libQt5Purchasing.so.5.15 -> /usr/lib/libQt5Purchasing.so.5.15.11
+/usr/lib/libQt5Purchasing.so.5.15.11
+/usr/lib/qt5/qml/QtPurchasing/libdeclarative_purchasing.so
+/usr/lib/qt5/qml/QtPurchasing/plugins.qmltypes
+/usr/lib/qt5/qml/QtPurchasing/qmldir

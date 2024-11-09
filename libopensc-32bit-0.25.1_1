@@ -1,0 +1,6 @@
+/usr/lib32/libopensc.so -> /usr/lib32/libopensc.so.11.0.2
+/usr/lib32/libopensc.so.11 -> /usr/lib32/libopensc.so.11.0.2
+/usr/lib32/libopensc.so.11.0.2
+/usr/lib32/libsmm-local.so -> /usr/lib32/libsmm-local.so.11.0.2
+/usr/lib32/libsmm-local.so.11 -> /usr/lib32/libsmm-local.so.11.0.2
+/usr/lib32/libsmm-local.so.11.0.2

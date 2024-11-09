@@ -1,0 +1,47 @@
+/usr/bin/plume-creator
+/usr/share/applications/plume-creator.desktop
+/usr/share/icons/hicolor/128x128/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/128x128/apps/plume-creator.png
+/usr/share/icons/hicolor/16x16/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/16x16/apps/plume-creator.png
+/usr/share/icons/hicolor/192x192/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/192x192/apps/plume-creator.png
+/usr/share/icons/hicolor/256x256/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/256x256/apps/plume-creator.png
+/usr/share/icons/hicolor/32x32/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/32x32/apps/plume-creator.png
+/usr/share/icons/hicolor/512x512/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/512x512/apps/plume-creator.png
+/usr/share/icons/hicolor/64x64/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/64x64/apps/plume-creator.png
+/usr/share/icons/hicolor/72x72/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/72x72/apps/plume-creator.png
+/usr/share/icons/hicolor/96x96/apps/plume-creator-backup.png
+/usr/share/icons/hicolor/96x96/apps/plume-creator.png
+/usr/share/icons/hicolor/scalable/apps/plume-creator-backup.svg
+/usr/share/icons/hicolor/scalable/apps/plume-creator.svg
+/usr/share/mime/packages/plume-creator.xml
+/usr/share/pixmaps/plume-creator-backup.png -> ../../../resources/images/icons/hicolor/64x64/apps/plume-creator-backup.png
+/usr/share/pixmaps/plume-creator.png -> ../../../resources/images/icons/hicolor/64x64/apps/plume-creator.png
+/usr/share/plume-creator/COPYING
+/usr/share/plume-creator/License
+/usr/share/plume-creator/README
+/usr/share/plume-creator/dicts/en_AU.aff
+/usr/share/plume-creator/dicts/en_AU.dic
+/usr/share/plume-creator/dicts/en_CA.aff
+/usr/share/plume-creator/dicts/en_CA.dic
+/usr/share/plume-creator/dicts/en_GB.aff
+/usr/share/plume-creator/dicts/en_GB.dic
+/usr/share/plume-creator/dicts/en_US.aff
+/usr/share/plume-creator/dicts/en_US.dic
+/usr/share/plume-creator/dicts/en_ZA.aff
+/usr/share/plume-creator/dicts/en_ZA.dic
+/usr/share/plume-creator/dicts/fr-classique+reforme1990.aff
+/usr/share/plume-creator/dicts/fr-classique+reforme1990.dic
+/usr/share/plume-creator/themes/Space Opera.plume_theme
+/usr/share/plume-creator/translations/plume-creator_de_DE.qm
+/usr/share/plume-creator/translations/plume-creator_fr_FR.qm
+/usr/share/plume-creator/translations/plume-creator_it_IT.qm
+/usr/share/plume-creator/translations/plume-creator_pt_BR.qm
+/usr/share/plume-creator/translations/plume-creator_ru_RU.qm
+/usr/share/plume-creator/translations/plume-creator_sp_SP.qm

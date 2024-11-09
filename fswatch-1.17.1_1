@@ -1,0 +1,8 @@
+/usr/bin/fswatch
+/usr/lib/pkgconfig/libfswatch.pc
+/usr/share/locale/en/LC_MESSAGES/fswatch.mo
+/usr/share/locale/en@boldquot/LC_MESSAGES/fswatch.mo
+/usr/share/locale/en@quot/LC_MESSAGES/fswatch.mo
+/usr/share/locale/es/LC_MESSAGES/fswatch.mo
+/usr/share/locale/it/LC_MESSAGES/fswatch.mo
+/usr/share/man/man7/fswatch.7

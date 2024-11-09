@@ -1,0 +1,153 @@
+/etc/mfs/mfschunkserver.cfg.sample
+/etc/mfs/mfsexports.cfg.sample
+/etc/mfs/mfshdd.cfg.sample
+/etc/mfs/mfsmaster.cfg.sample
+/etc/mfs/mfsmetalogger.cfg.sample
+/etc/mfs/mfsmount.cfg.sample
+/etc/mfs/mfstopology.cfg.sample
+/etc/sv/mfscgiserv/log/run
+/etc/sv/mfscgiserv/log/supervise -> /run/runit/supervise.mfscgiserv-log
+/etc/sv/mfscgiserv/run
+/etc/sv/mfscgiserv/supervise -> /run/runit/supervise.mfscgiserv
+/etc/sv/mfschunkserver/log/run
+/etc/sv/mfschunkserver/log/supervise -> /run/runit/supervise.mfschunkserver-log
+/etc/sv/mfschunkserver/run
+/etc/sv/mfschunkserver/supervise -> /run/runit/supervise.mfschunkserver
+/etc/sv/mfsmaster/log/run
+/etc/sv/mfsmaster/log/supervise -> /run/runit/supervise.mfsmaster-log
+/etc/sv/mfsmaster/run
+/etc/sv/mfsmaster/supervise -> /run/runit/supervise.mfsmaster
+/etc/sv/mfsmetalogger/log/run
+/etc/sv/mfsmetalogger/log/supervise -> /run/runit/supervise.mfsmetalogger-log
+/etc/sv/mfsmetalogger/run
+/etc/sv/mfsmetalogger/supervise -> /run/runit/supervise.mfsmetalogger
+/usr/bin/mfsappendchunks -> /usr/bin/mfstools
+/usr/bin/mfsbdev
+/usr/bin/mfscgiserv
+/usr/bin/mfscheckfile -> /usr/bin/mfstools
+/usr/bin/mfschkarchive -> /usr/bin/mfstools
+/usr/bin/mfschunkserver
+/usr/bin/mfschunktool
+/usr/bin/mfscli
+/usr/bin/mfsclrarchive -> /usr/bin/mfstools
+/usr/bin/mfscopyeattr -> /usr/bin/mfstools
+/usr/bin/mfscopygoal -> /usr/bin/mfstools
+/usr/bin/mfscopyquota -> /usr/bin/mfstools
+/usr/bin/mfscopysclass -> /usr/bin/mfstools
+/usr/bin/mfscopytrashtime -> /usr/bin/mfstools
+/usr/bin/mfscsstatsdump
+/usr/bin/mfsdeleattr -> /usr/bin/mfstools
+/usr/bin/mfsdelquota -> /usr/bin/mfstools
+/usr/bin/mfsdirinfo -> /usr/bin/mfstools
+/usr/bin/mfsfileinfo -> /usr/bin/mfstools
+/usr/bin/mfsfilepaths -> /usr/bin/mfstools
+/usr/bin/mfsfilerepair -> /usr/bin/mfstools
+/usr/bin/mfsgeteattr -> /usr/bin/mfstools
+/usr/bin/mfsgetgoal -> /usr/bin/mfstools
+/usr/bin/mfsgetquota -> /usr/bin/mfstools
+/usr/bin/mfsgetsclass -> /usr/bin/mfstools
+/usr/bin/mfsgettrashtime -> /usr/bin/mfstools
+/usr/bin/mfslistsclass -> /usr/bin/mfstools
+/usr/bin/mfsmakesnapshot -> /usr/bin/mfstools
+/usr/bin/mfsmaster
+/usr/bin/mfsmetadirinfo
+/usr/bin/mfsmetadump
+/usr/bin/mfsmetalogger
+/usr/bin/mfsmetarestore
+/usr/bin/mfsmount
+/usr/bin/mfsnetdump
+/usr/bin/mfsrgetgoal -> /usr/bin/mfstools
+/usr/bin/mfsrgettrashtime -> /usr/bin/mfstools
+/usr/bin/mfsrmsnapshot -> /usr/bin/mfstools
+/usr/bin/mfsrsetgoal -> /usr/bin/mfstools
+/usr/bin/mfsrsettrashtime -> /usr/bin/mfstools
+/usr/bin/mfsscadmin -> /usr/bin/mfstools
+/usr/bin/mfssetarchive -> /usr/bin/mfstools
+/usr/bin/mfsseteattr -> /usr/bin/mfstools
+/usr/bin/mfssetgoal -> /usr/bin/mfstools
+/usr/bin/mfssetquota -> /usr/bin/mfstools
+/usr/bin/mfssetsclass -> /usr/bin/mfstools
+/usr/bin/mfssettrashtime -> /usr/bin/mfstools
+/usr/bin/mfsstatsdump
+/usr/bin/mfstools
+/usr/bin/mfsxchgsclass -> /usr/bin/mfstools
+/usr/bin/mount.moosefs -> /usr/bin/mfsmount
+/usr/include/mfsio.h
+/usr/lib/libmfsio.a
+/usr/lib/libmfsio.so -> /usr/lib/libmfsio.so.1.0.0
+/usr/lib/libmfsio.so.1 -> /usr/lib/libmfsio.so.1.0.0
+/usr/lib/libmfsio.so.1.0.0
+/usr/share/man/man1/mfsappendchunks.1
+/usr/share/man/man1/mfsarchive.1
+/usr/share/man/man1/mfscheckfile.1
+/usr/share/man/man1/mfschkarchive.1
+/usr/share/man/man1/mfscli.1
+/usr/share/man/man1/mfsclrarchive.1
+/usr/share/man/man1/mfscopyeattr.1
+/usr/share/man/man1/mfscopygoal.1
+/usr/share/man/man1/mfscopyquota.1
+/usr/share/man/man1/mfscopysclass.1
+/usr/share/man/man1/mfscopytrashtime.1
+/usr/share/man/man1/mfsdeleattr.1
+/usr/share/man/man1/mfsdelquota.1
+/usr/share/man/man1/mfsdiagtools.1
+/usr/share/man/man1/mfsdirinfo.1
+/usr/share/man/man1/mfseattr.1
+/usr/share/man/man1/mfsfileinfo.1
+/usr/share/man/man1/mfsfilepaths.1
+/usr/share/man/man1/mfsfilerepair.1
+/usr/share/man/man1/mfsgeteattr.1
+/usr/share/man/man1/mfsgetgoal.1
+/usr/share/man/man1/mfsgetquota.1
+/usr/share/man/man1/mfsgetsclass.1
+/usr/share/man/man1/mfsgettrashtime.1
+/usr/share/man/man1/mfsgoal.1
+/usr/share/man/man1/mfslistsclass.1
+/usr/share/man/man1/mfsmakesnapshot.1
+/usr/share/man/man1/mfsquota.1
+/usr/share/man/man1/mfsrgetgoal.1
+/usr/share/man/man1/mfsrgettrashtime.1
+/usr/share/man/man1/mfsrmsnapshot.1
+/usr/share/man/man1/mfsrsetgoal.1
+/usr/share/man/man1/mfsrsettrashtime.1
+/usr/share/man/man1/mfsscadmin.1
+/usr/share/man/man1/mfssclass.1
+/usr/share/man/man1/mfssetarchive.1
+/usr/share/man/man1/mfsseteattr.1
+/usr/share/man/man1/mfssetgoal.1
+/usr/share/man/man1/mfssetquota.1
+/usr/share/man/man1/mfssetsclass.1
+/usr/share/man/man1/mfssettrashtime.1
+/usr/share/man/man1/mfssnapshots.1
+/usr/share/man/man1/mfstools.1
+/usr/share/man/man1/mfstrashtime.1
+/usr/share/man/man1/mfsxchgsclass.1
+/usr/share/man/man5/mfschunkserver.cfg.5
+/usr/share/man/man5/mfsexports.cfg.5
+/usr/share/man/man5/mfshdd.cfg.5
+/usr/share/man/man5/mfsmaster.cfg.5
+/usr/share/man/man5/mfsmetalogger.cfg.5
+/usr/share/man/man5/mfstopology.cfg.5
+/usr/share/man/man8/mfsbdev.8
+/usr/share/man/man8/mfscgiserv.8
+/usr/share/man/man8/mfschunkserver.8
+/usr/share/man/man8/mfschunktool.8
+/usr/share/man/man8/mfscsstatsdump.8
+/usr/share/man/man8/mfsmaster.8
+/usr/share/man/man8/mfsmetadirinfo.8
+/usr/share/man/man8/mfsmetadump.8
+/usr/share/man/man8/mfsmetalogger.8
+/usr/share/man/man8/mfsmetarestore.8
+/usr/share/man/man8/mfsmount.8
+/usr/share/man/man8/mfsnetdump.8
+/usr/share/man/man8/mfsstatsdump.8
+/usr/share/man/man8/mount.moosefs.8
+/usr/share/mfscgi/acidtab.js
+/usr/share/mfscgi/chart.cgi
+/usr/share/mfscgi/err.gif
+/usr/share/mfscgi/favicon.ico
+/usr/share/mfscgi/index.html
+/usr/share/mfscgi/logomini.png
+/usr/share/mfscgi/mfs.cgi
+/usr/share/mfscgi/mfs.css
+/var/lib/mfs/metadata.mfs.empty

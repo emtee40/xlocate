@@ -1,0 +1,12 @@
+/usr/bin/isql-vt
+/usr/bin/isqlw-vt
+/usr/bin/virtuoso-t
+/usr/lib/libvirtuoso-t.a
+/usr/lib/virtodbc.a
+/usr/lib/virtodbc.so
+/usr/lib/virtodbc_r.a
+/usr/lib/virtodbc_r.so
+/usr/lib/virtodbcu.a
+/usr/lib/virtodbcu.so
+/usr/lib/virtodbcu_r.a
+/usr/lib/virtodbcu_r.so

@@ -1,0 +1,96 @@
+/usr/bin/fsharpc
+/usr/bin/fsharpi
+/usr/bin/fsharpiAnyCpu
+/usr/lib/mono/Microsoft F#/v4.0/Microsoft.FSharp.Targets
+/usr/lib/mono/Microsoft F#/v4.0/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/3.0/Framework/v4.0/Microsoft.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/3.0/Framework/v4.0/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/3.1/Framework/v4.0/Microsoft.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/3.1/Framework/v4.0/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/4.0/Framework/v4.0/Microsoft.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/4.0/Framework/v4.0/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/4.1/Framework/v4.0/Microsoft.FSharp.Targets
+/usr/lib/mono/Microsoft SDKs/F#/4.1/Framework/v4.0/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/fsharp/FSharp.Build.dll
+/usr/lib/mono/fsharp/FSharp.Build.xml
+/usr/lib/mono/fsharp/FSharp.Compiler.Interactive.Settings.dll
+/usr/lib/mono/fsharp/FSharp.Compiler.Interactive.Settings.xml
+/usr/lib/mono/fsharp/FSharp.Compiler.Private.dll
+/usr/lib/mono/fsharp/FSharp.Compiler.Private.xml
+/usr/lib/mono/fsharp/FSharp.Compiler.Server.Shared.dll
+/usr/lib/mono/fsharp/FSharp.Compiler.Server.Shared.xml
+/usr/lib/mono/fsharp/FSharp.Core.dll
+/usr/lib/mono/fsharp/FSharp.Core.optdata
+/usr/lib/mono/fsharp/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/FSharp.Core.xml
+/usr/lib/mono/fsharp/Microsoft.FSharp.Targets
+/usr/lib/mono/fsharp/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/fsharp/System.Collections.Immutable.dll
+/usr/lib/mono/fsharp/System.Reflection.Metadata.dll
+/usr/lib/mono/fsharp/api/.NETCore/3.259.41.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETCore/3.259.41.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETCore/3.259.41.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETCore/3.259.41.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETCore/3.7.41.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETCore/3.7.41.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETCore/3.7.41.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETCore/3.7.41.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETCore/3.78.41.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETCore/3.78.41.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETCore/3.78.41.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETCore/3.78.41.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.0.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.0.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.0.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.0.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.1.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.1.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.1.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.3.1.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.0.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.0.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.0.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.0.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.1.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.1.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.1.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.1.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.5.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.5.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.5.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETFramework/v4.0/4.4.5.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/api/.NETPortable/3.47.41.0/FSharp.Core.dll
+/usr/lib/mono/fsharp/api/.NETPortable/3.47.41.0/FSharp.Core.optdata
+/usr/lib/mono/fsharp/api/.NETPortable/3.47.41.0/FSharp.Core.sigdata
+/usr/lib/mono/fsharp/api/.NETPortable/3.47.41.0/FSharp.Core.xml
+/usr/lib/mono/fsharp/fsc.exe
+/usr/lib/mono/fsharp/fsc.exe.config
+/usr/lib/mono/fsharp/fsi.exe
+/usr/lib/mono/fsharp/fsi.exe.config
+/usr/lib/mono/fsharp/fsiAnyCpu.exe
+/usr/lib/mono/fsharp/fsiAnyCpu.exe.config
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v/FSharp/Microsoft.FSharp.NetSdk.props
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v/FSharp/Microsoft.FSharp.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v/FSharp/Microsoft.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v/FSharp/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v11.0/FSharp/Microsoft.FSharp.NetSdk.props
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v11.0/FSharp/Microsoft.FSharp.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v11.0/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v11.0/FSharp/Microsoft.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v11.0/FSharp/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v12.0/FSharp/Microsoft.FSharp.NetSdk.props
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v12.0/FSharp/Microsoft.FSharp.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v12.0/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v12.0/FSharp/Microsoft.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v12.0/FSharp/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v14.0/FSharp/Microsoft.FSharp.NetSdk.props
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v14.0/FSharp/Microsoft.FSharp.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v14.0/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v14.0/FSharp/Microsoft.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v14.0/FSharp/Microsoft.Portable.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v15.0/FSharp/Microsoft.FSharp.NetSdk.props
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v15.0/FSharp/Microsoft.FSharp.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v15.0/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v15.0/FSharp/Microsoft.FSharp.Targets
+/usr/lib/mono/xbuild/Microsoft/VisualStudio/v15.0/FSharp/Microsoft.Portable.FSharp.Targets

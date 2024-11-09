@@ -1,0 +1,6 @@
+/usr/bin/protonmail-bridge -> /usr/libexec/protonmail/bridge
+/usr/bin/protonmail-bridge-gui -> /usr/libexec/protonmail/bridge-gui
+/usr/libexec/protonmail/bridge
+/usr/libexec/protonmail/bridge-gui
+/usr/share/applications/proton-bridge.desktop
+/usr/share/icons/hicolor/scalable/apps/protonmail-bridge.svg

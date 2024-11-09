@@ -1,0 +1,61 @@
+/bin -> /usr/bin
+/etc/colors/DIR_COLORS
+/etc/colors/DIR_COLORS.256color
+/etc/colors/DIR_COLORS.xterm
+/etc/crypttab
+/etc/fstab
+/etc/group
+/etc/host.conf
+/etc/hosts
+/etc/inputrc
+/etc/issue
+/etc/ld.so.conf.d/lib32.conf
+/etc/mtab -> /proc/self/mounts
+/etc/nsswitch.conf
+/etc/os-release -> /usr/lib/os-release
+/etc/passwd
+/etc/profile
+/etc/profile.d/colorls.sh
+/etc/profile.d/locale.sh
+/etc/profile.d/mozplugin.sh
+/etc/securetty
+/etc/skel/.bash_logout
+/etc/skel/.bash_profile
+/etc/skel/.bashrc
+/etc/skel/.inputrc
+/etc/subgid
+/etc/subuid
+/lib -> /usr/lib
+/lib32 -> /usr/lib32
+/lib64 -> /usr/lib
+/sbin -> /usr/bin
+/usr/bin/lsb_release
+/usr/bin/vkpurge
+/usr/lib/dracut/dracut.conf.d/00-void.conf
+/usr/lib/modprobe.d/blacklist.conf
+/usr/lib/modprobe.d/usb-load-ehci-first.conf
+/usr/lib/os-release
+/usr/lib/sysctl.d/10-void-user.conf
+/usr/lib/sysctl.d/10-void.conf
+/usr/lib/sysctl.d/20-bpf.conf
+/usr/lib/udev/rules.d/66-kvm.rules
+/usr/lib/udev/rules.d/90-usbmon.rules
+/usr/lib32/locale -> ../lib/locale
+/usr/lib64 -> /usr/lib
+/usr/sbin -> /usr/bin
+/usr/share/licenses/Apache-2.0
+/usr/share/licenses/Artistic
+/usr/share/licenses/BSD
+/usr/share/licenses/GFDL-1.2
+/usr/share/licenses/GFDL-1.3
+/usr/share/licenses/GPL-1
+/usr/share/licenses/GPL-2
+/usr/share/licenses/GPL-3
+/usr/share/licenses/LGPL-2
+/usr/share/licenses/LGPL-2.1
+/usr/share/licenses/LGPL-3
+/usr/share/licenses/MPL-1.1
+/usr/share/licenses/MPL-2.0
+/usr/share/licenses/OFL-1.1
+/usr/share/man/man8/vkpurge.8
+/usr/share/zsh/site-functions/_vkpurge

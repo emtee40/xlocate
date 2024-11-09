@@ -1,0 +1,5 @@
+/usr/include/gamemode_client.h
+/usr/lib/libgamemode.so -> /usr/lib/libgamemode.so.0
+/usr/lib/libgamemodeauto.so -> /usr/lib/libgamemodeauto.so.0
+/usr/lib/pkgconfig/gamemode.pc
+/usr/lib/pkgconfig/libgamemodeauto.pc

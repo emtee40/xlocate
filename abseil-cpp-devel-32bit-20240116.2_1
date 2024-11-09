@@ -1,0 +1,271 @@
+/usr/lib32/libabsl_bad_any_cast_impl.so -> /usr/lib32/libabsl_bad_any_cast_impl.so.2401.0.0
+/usr/lib32/libabsl_bad_optional_access.so -> /usr/lib32/libabsl_bad_optional_access.so.2401.0.0
+/usr/lib32/libabsl_bad_variant_access.so -> /usr/lib32/libabsl_bad_variant_access.so.2401.0.0
+/usr/lib32/libabsl_base.so -> /usr/lib32/libabsl_base.so.2401.0.0
+/usr/lib32/libabsl_city.so -> /usr/lib32/libabsl_city.so.2401.0.0
+/usr/lib32/libabsl_civil_time.so -> /usr/lib32/libabsl_civil_time.so.2401.0.0
+/usr/lib32/libabsl_cord.so -> /usr/lib32/libabsl_cord.so.2401.0.0
+/usr/lib32/libabsl_cord_internal.so -> /usr/lib32/libabsl_cord_internal.so.2401.0.0
+/usr/lib32/libabsl_cordz_functions.so -> /usr/lib32/libabsl_cordz_functions.so.2401.0.0
+/usr/lib32/libabsl_cordz_handle.so -> /usr/lib32/libabsl_cordz_handle.so.2401.0.0
+/usr/lib32/libabsl_cordz_info.so -> /usr/lib32/libabsl_cordz_info.so.2401.0.0
+/usr/lib32/libabsl_cordz_sample_token.so -> /usr/lib32/libabsl_cordz_sample_token.so.2401.0.0
+/usr/lib32/libabsl_crc32c.so -> /usr/lib32/libabsl_crc32c.so.2401.0.0
+/usr/lib32/libabsl_crc_cord_state.so -> /usr/lib32/libabsl_crc_cord_state.so.2401.0.0
+/usr/lib32/libabsl_crc_cpu_detect.so -> /usr/lib32/libabsl_crc_cpu_detect.so.2401.0.0
+/usr/lib32/libabsl_crc_internal.so -> /usr/lib32/libabsl_crc_internal.so.2401.0.0
+/usr/lib32/libabsl_debugging_internal.so -> /usr/lib32/libabsl_debugging_internal.so.2401.0.0
+/usr/lib32/libabsl_demangle_internal.so -> /usr/lib32/libabsl_demangle_internal.so.2401.0.0
+/usr/lib32/libabsl_die_if_null.so -> /usr/lib32/libabsl_die_if_null.so.2401.0.0
+/usr/lib32/libabsl_examine_stack.so -> /usr/lib32/libabsl_examine_stack.so.2401.0.0
+/usr/lib32/libabsl_exponential_biased.so -> /usr/lib32/libabsl_exponential_biased.so.2401.0.0
+/usr/lib32/libabsl_failure_signal_handler.so -> /usr/lib32/libabsl_failure_signal_handler.so.2401.0.0
+/usr/lib32/libabsl_flags_commandlineflag.so -> /usr/lib32/libabsl_flags_commandlineflag.so.2401.0.0
+/usr/lib32/libabsl_flags_commandlineflag_internal.so -> /usr/lib32/libabsl_flags_commandlineflag_internal.so.2401.0.0
+/usr/lib32/libabsl_flags_config.so -> /usr/lib32/libabsl_flags_config.so.2401.0.0
+/usr/lib32/libabsl_flags_internal.so -> /usr/lib32/libabsl_flags_internal.so.2401.0.0
+/usr/lib32/libabsl_flags_marshalling.so -> /usr/lib32/libabsl_flags_marshalling.so.2401.0.0
+/usr/lib32/libabsl_flags_parse.so -> /usr/lib32/libabsl_flags_parse.so.2401.0.0
+/usr/lib32/libabsl_flags_private_handle_accessor.so -> /usr/lib32/libabsl_flags_private_handle_accessor.so.2401.0.0
+/usr/lib32/libabsl_flags_program_name.so -> /usr/lib32/libabsl_flags_program_name.so.2401.0.0
+/usr/lib32/libabsl_flags_reflection.so -> /usr/lib32/libabsl_flags_reflection.so.2401.0.0
+/usr/lib32/libabsl_flags_usage.so -> /usr/lib32/libabsl_flags_usage.so.2401.0.0
+/usr/lib32/libabsl_flags_usage_internal.so -> /usr/lib32/libabsl_flags_usage_internal.so.2401.0.0
+/usr/lib32/libabsl_graphcycles_internal.so -> /usr/lib32/libabsl_graphcycles_internal.so.2401.0.0
+/usr/lib32/libabsl_hash.so -> /usr/lib32/libabsl_hash.so.2401.0.0
+/usr/lib32/libabsl_hashtablez_sampler.so -> /usr/lib32/libabsl_hashtablez_sampler.so.2401.0.0
+/usr/lib32/libabsl_int128.so -> /usr/lib32/libabsl_int128.so.2401.0.0
+/usr/lib32/libabsl_kernel_timeout_internal.so -> /usr/lib32/libabsl_kernel_timeout_internal.so.2401.0.0
+/usr/lib32/libabsl_leak_check.so -> /usr/lib32/libabsl_leak_check.so.2401.0.0
+/usr/lib32/libabsl_log_entry.so -> /usr/lib32/libabsl_log_entry.so.2401.0.0
+/usr/lib32/libabsl_log_flags.so -> /usr/lib32/libabsl_log_flags.so.2401.0.0
+/usr/lib32/libabsl_log_globals.so -> /usr/lib32/libabsl_log_globals.so.2401.0.0
+/usr/lib32/libabsl_log_initialize.so -> /usr/lib32/libabsl_log_initialize.so.2401.0.0
+/usr/lib32/libabsl_log_internal_check_op.so -> /usr/lib32/libabsl_log_internal_check_op.so.2401.0.0
+/usr/lib32/libabsl_log_internal_conditions.so -> /usr/lib32/libabsl_log_internal_conditions.so.2401.0.0
+/usr/lib32/libabsl_log_internal_fnmatch.so -> /usr/lib32/libabsl_log_internal_fnmatch.so.2401.0.0
+/usr/lib32/libabsl_log_internal_format.so -> /usr/lib32/libabsl_log_internal_format.so.2401.0.0
+/usr/lib32/libabsl_log_internal_globals.so -> /usr/lib32/libabsl_log_internal_globals.so.2401.0.0
+/usr/lib32/libabsl_log_internal_log_sink_set.so -> /usr/lib32/libabsl_log_internal_log_sink_set.so.2401.0.0
+/usr/lib32/libabsl_log_internal_message.so -> /usr/lib32/libabsl_log_internal_message.so.2401.0.0
+/usr/lib32/libabsl_log_internal_nullguard.so -> /usr/lib32/libabsl_log_internal_nullguard.so.2401.0.0
+/usr/lib32/libabsl_log_internal_proto.so -> /usr/lib32/libabsl_log_internal_proto.so.2401.0.0
+/usr/lib32/libabsl_log_severity.so -> /usr/lib32/libabsl_log_severity.so.2401.0.0
+/usr/lib32/libabsl_log_sink.so -> /usr/lib32/libabsl_log_sink.so.2401.0.0
+/usr/lib32/libabsl_low_level_hash.so -> /usr/lib32/libabsl_low_level_hash.so.2401.0.0
+/usr/lib32/libabsl_malloc_internal.so -> /usr/lib32/libabsl_malloc_internal.so.2401.0.0
+/usr/lib32/libabsl_periodic_sampler.so -> /usr/lib32/libabsl_periodic_sampler.so.2401.0.0
+/usr/lib32/libabsl_random_distributions.so -> /usr/lib32/libabsl_random_distributions.so.2401.0.0
+/usr/lib32/libabsl_random_internal_distribution_test_util.so -> /usr/lib32/libabsl_random_internal_distribution_test_util.so.2401.0.0
+/usr/lib32/libabsl_random_internal_platform.so -> /usr/lib32/libabsl_random_internal_platform.so.2401.0.0
+/usr/lib32/libabsl_random_internal_pool_urbg.so -> /usr/lib32/libabsl_random_internal_pool_urbg.so.2401.0.0
+/usr/lib32/libabsl_random_internal_randen.so -> /usr/lib32/libabsl_random_internal_randen.so.2401.0.0
+/usr/lib32/libabsl_random_internal_randen_hwaes.so -> /usr/lib32/libabsl_random_internal_randen_hwaes.so.2401.0.0
+/usr/lib32/libabsl_random_internal_randen_hwaes_impl.so -> /usr/lib32/libabsl_random_internal_randen_hwaes_impl.so.2401.0.0
+/usr/lib32/libabsl_random_internal_randen_slow.so -> /usr/lib32/libabsl_random_internal_randen_slow.so.2401.0.0
+/usr/lib32/libabsl_random_internal_seed_material.so -> /usr/lib32/libabsl_random_internal_seed_material.so.2401.0.0
+/usr/lib32/libabsl_random_seed_gen_exception.so -> /usr/lib32/libabsl_random_seed_gen_exception.so.2401.0.0
+/usr/lib32/libabsl_random_seed_sequences.so -> /usr/lib32/libabsl_random_seed_sequences.so.2401.0.0
+/usr/lib32/libabsl_raw_hash_set.so -> /usr/lib32/libabsl_raw_hash_set.so.2401.0.0
+/usr/lib32/libabsl_raw_logging_internal.so -> /usr/lib32/libabsl_raw_logging_internal.so.2401.0.0
+/usr/lib32/libabsl_scoped_set_env.so -> /usr/lib32/libabsl_scoped_set_env.so.2401.0.0
+/usr/lib32/libabsl_spinlock_wait.so -> /usr/lib32/libabsl_spinlock_wait.so.2401.0.0
+/usr/lib32/libabsl_stacktrace.so -> /usr/lib32/libabsl_stacktrace.so.2401.0.0
+/usr/lib32/libabsl_status.so -> /usr/lib32/libabsl_status.so.2401.0.0
+/usr/lib32/libabsl_statusor.so -> /usr/lib32/libabsl_statusor.so.2401.0.0
+/usr/lib32/libabsl_str_format_internal.so -> /usr/lib32/libabsl_str_format_internal.so.2401.0.0
+/usr/lib32/libabsl_strerror.so -> /usr/lib32/libabsl_strerror.so.2401.0.0
+/usr/lib32/libabsl_string_view.so -> /usr/lib32/libabsl_string_view.so.2401.0.0
+/usr/lib32/libabsl_strings.so -> /usr/lib32/libabsl_strings.so.2401.0.0
+/usr/lib32/libabsl_strings_internal.so -> /usr/lib32/libabsl_strings_internal.so.2401.0.0
+/usr/lib32/libabsl_symbolize.so -> /usr/lib32/libabsl_symbolize.so.2401.0.0
+/usr/lib32/libabsl_synchronization.so -> /usr/lib32/libabsl_synchronization.so.2401.0.0
+/usr/lib32/libabsl_throw_delegate.so -> /usr/lib32/libabsl_throw_delegate.so.2401.0.0
+/usr/lib32/libabsl_time.so -> /usr/lib32/libabsl_time.so.2401.0.0
+/usr/lib32/libabsl_time_zone.so -> /usr/lib32/libabsl_time_zone.so.2401.0.0
+/usr/lib32/libabsl_vlog_config_internal.so -> /usr/lib32/libabsl_vlog_config_internal.so.2401.0.0
+/usr/lib32/pkgconfig/absl_absl_check.pc
+/usr/lib32/pkgconfig/absl_absl_log.pc
+/usr/lib32/pkgconfig/absl_absl_vlog_is_on.pc
+/usr/lib32/pkgconfig/absl_algorithm.pc
+/usr/lib32/pkgconfig/absl_algorithm_container.pc
+/usr/lib32/pkgconfig/absl_any.pc
+/usr/lib32/pkgconfig/absl_any_invocable.pc
+/usr/lib32/pkgconfig/absl_atomic_hook.pc
+/usr/lib32/pkgconfig/absl_bad_any_cast.pc
+/usr/lib32/pkgconfig/absl_bad_any_cast_impl.pc
+/usr/lib32/pkgconfig/absl_bad_optional_access.pc
+/usr/lib32/pkgconfig/absl_bad_variant_access.pc
+/usr/lib32/pkgconfig/absl_base.pc
+/usr/lib32/pkgconfig/absl_base_internal.pc
+/usr/lib32/pkgconfig/absl_bind_front.pc
+/usr/lib32/pkgconfig/absl_bits.pc
+/usr/lib32/pkgconfig/absl_btree.pc
+/usr/lib32/pkgconfig/absl_charset.pc
+/usr/lib32/pkgconfig/absl_check.pc
+/usr/lib32/pkgconfig/absl_city.pc
+/usr/lib32/pkgconfig/absl_civil_time.pc
+/usr/lib32/pkgconfig/absl_cleanup.pc
+/usr/lib32/pkgconfig/absl_cleanup_internal.pc
+/usr/lib32/pkgconfig/absl_common_policy_traits.pc
+/usr/lib32/pkgconfig/absl_compare.pc
+/usr/lib32/pkgconfig/absl_compressed_tuple.pc
+/usr/lib32/pkgconfig/absl_config.pc
+/usr/lib32/pkgconfig/absl_container_common.pc
+/usr/lib32/pkgconfig/absl_container_memory.pc
+/usr/lib32/pkgconfig/absl_cord.pc
+/usr/lib32/pkgconfig/absl_cord_internal.pc
+/usr/lib32/pkgconfig/absl_cordz_functions.pc
+/usr/lib32/pkgconfig/absl_cordz_handle.pc
+/usr/lib32/pkgconfig/absl_cordz_info.pc
+/usr/lib32/pkgconfig/absl_cordz_sample_token.pc
+/usr/lib32/pkgconfig/absl_cordz_statistics.pc
+/usr/lib32/pkgconfig/absl_cordz_update_scope.pc
+/usr/lib32/pkgconfig/absl_cordz_update_tracker.pc
+/usr/lib32/pkgconfig/absl_core_headers.pc
+/usr/lib32/pkgconfig/absl_crc32c.pc
+/usr/lib32/pkgconfig/absl_crc_cord_state.pc
+/usr/lib32/pkgconfig/absl_crc_cpu_detect.pc
+/usr/lib32/pkgconfig/absl_crc_internal.pc
+/usr/lib32/pkgconfig/absl_debugging.pc
+/usr/lib32/pkgconfig/absl_debugging_internal.pc
+/usr/lib32/pkgconfig/absl_demangle_internal.pc
+/usr/lib32/pkgconfig/absl_die_if_null.pc
+/usr/lib32/pkgconfig/absl_dynamic_annotations.pc
+/usr/lib32/pkgconfig/absl_endian.pc
+/usr/lib32/pkgconfig/absl_errno_saver.pc
+/usr/lib32/pkgconfig/absl_examine_stack.pc
+/usr/lib32/pkgconfig/absl_exponential_biased.pc
+/usr/lib32/pkgconfig/absl_failure_signal_handler.pc
+/usr/lib32/pkgconfig/absl_fast_type_id.pc
+/usr/lib32/pkgconfig/absl_fixed_array.pc
+/usr/lib32/pkgconfig/absl_flags.pc
+/usr/lib32/pkgconfig/absl_flags_commandlineflag.pc
+/usr/lib32/pkgconfig/absl_flags_commandlineflag_internal.pc
+/usr/lib32/pkgconfig/absl_flags_config.pc
+/usr/lib32/pkgconfig/absl_flags_internal.pc
+/usr/lib32/pkgconfig/absl_flags_marshalling.pc
+/usr/lib32/pkgconfig/absl_flags_parse.pc
+/usr/lib32/pkgconfig/absl_flags_path_util.pc
+/usr/lib32/pkgconfig/absl_flags_private_handle_accessor.pc
+/usr/lib32/pkgconfig/absl_flags_program_name.pc
+/usr/lib32/pkgconfig/absl_flags_reflection.pc
+/usr/lib32/pkgconfig/absl_flags_usage.pc
+/usr/lib32/pkgconfig/absl_flags_usage_internal.pc
+/usr/lib32/pkgconfig/absl_flat_hash_map.pc
+/usr/lib32/pkgconfig/absl_flat_hash_set.pc
+/usr/lib32/pkgconfig/absl_function_ref.pc
+/usr/lib32/pkgconfig/absl_graphcycles_internal.pc
+/usr/lib32/pkgconfig/absl_has_ostream_operator.pc
+/usr/lib32/pkgconfig/absl_hash.pc
+/usr/lib32/pkgconfig/absl_hash_function_defaults.pc
+/usr/lib32/pkgconfig/absl_hash_policy_traits.pc
+/usr/lib32/pkgconfig/absl_hashtable_debug.pc
+/usr/lib32/pkgconfig/absl_hashtable_debug_hooks.pc
+/usr/lib32/pkgconfig/absl_hashtablez_sampler.pc
+/usr/lib32/pkgconfig/absl_if_constexpr.pc
+/usr/lib32/pkgconfig/absl_inlined_vector.pc
+/usr/lib32/pkgconfig/absl_inlined_vector_internal.pc
+/usr/lib32/pkgconfig/absl_int128.pc
+/usr/lib32/pkgconfig/absl_kernel_timeout_internal.pc
+/usr/lib32/pkgconfig/absl_layout.pc
+/usr/lib32/pkgconfig/absl_leak_check.pc
+/usr/lib32/pkgconfig/absl_log.pc
+/usr/lib32/pkgconfig/absl_log_entry.pc
+/usr/lib32/pkgconfig/absl_log_flags.pc
+/usr/lib32/pkgconfig/absl_log_globals.pc
+/usr/lib32/pkgconfig/absl_log_initialize.pc
+/usr/lib32/pkgconfig/absl_log_internal_append_truncated.pc
+/usr/lib32/pkgconfig/absl_log_internal_check_impl.pc
+/usr/lib32/pkgconfig/absl_log_internal_check_op.pc
+/usr/lib32/pkgconfig/absl_log_internal_conditions.pc
+/usr/lib32/pkgconfig/absl_log_internal_config.pc
+/usr/lib32/pkgconfig/absl_log_internal_flags.pc
+/usr/lib32/pkgconfig/absl_log_internal_fnmatch.pc
+/usr/lib32/pkgconfig/absl_log_internal_format.pc
+/usr/lib32/pkgconfig/absl_log_internal_globals.pc
+/usr/lib32/pkgconfig/absl_log_internal_log_impl.pc
+/usr/lib32/pkgconfig/absl_log_internal_log_sink_set.pc
+/usr/lib32/pkgconfig/absl_log_internal_message.pc
+/usr/lib32/pkgconfig/absl_log_internal_nullguard.pc
+/usr/lib32/pkgconfig/absl_log_internal_nullstream.pc
+/usr/lib32/pkgconfig/absl_log_internal_proto.pc
+/usr/lib32/pkgconfig/absl_log_internal_strip.pc
+/usr/lib32/pkgconfig/absl_log_internal_structured.pc
+/usr/lib32/pkgconfig/absl_log_internal_voidify.pc
+/usr/lib32/pkgconfig/absl_log_severity.pc
+/usr/lib32/pkgconfig/absl_log_sink.pc
+/usr/lib32/pkgconfig/absl_log_sink_registry.pc
+/usr/lib32/pkgconfig/absl_log_streamer.pc
+/usr/lib32/pkgconfig/absl_log_structured.pc
+/usr/lib32/pkgconfig/absl_low_level_hash.pc
+/usr/lib32/pkgconfig/absl_malloc_internal.pc
+/usr/lib32/pkgconfig/absl_memory.pc
+/usr/lib32/pkgconfig/absl_meta.pc
+/usr/lib32/pkgconfig/absl_no_destructor.pc
+/usr/lib32/pkgconfig/absl_node_hash_map.pc
+/usr/lib32/pkgconfig/absl_node_hash_set.pc
+/usr/lib32/pkgconfig/absl_node_slot_policy.pc
+/usr/lib32/pkgconfig/absl_non_temporal_arm_intrinsics.pc
+/usr/lib32/pkgconfig/absl_non_temporal_memcpy.pc
+/usr/lib32/pkgconfig/absl_nullability.pc
+/usr/lib32/pkgconfig/absl_numeric.pc
+/usr/lib32/pkgconfig/absl_numeric_representation.pc
+/usr/lib32/pkgconfig/absl_optional.pc
+/usr/lib32/pkgconfig/absl_overload.pc
+/usr/lib32/pkgconfig/absl_periodic_sampler.pc
+/usr/lib32/pkgconfig/absl_prefetch.pc
+/usr/lib32/pkgconfig/absl_pretty_function.pc
+/usr/lib32/pkgconfig/absl_random_bit_gen_ref.pc
+/usr/lib32/pkgconfig/absl_random_distributions.pc
+/usr/lib32/pkgconfig/absl_random_internal_distribution_caller.pc
+/usr/lib32/pkgconfig/absl_random_internal_distribution_test_util.pc
+/usr/lib32/pkgconfig/absl_random_internal_fast_uniform_bits.pc
+/usr/lib32/pkgconfig/absl_random_internal_fastmath.pc
+/usr/lib32/pkgconfig/absl_random_internal_generate_real.pc
+/usr/lib32/pkgconfig/absl_random_internal_iostream_state_saver.pc
+/usr/lib32/pkgconfig/absl_random_internal_mock_helpers.pc
+/usr/lib32/pkgconfig/absl_random_internal_nonsecure_base.pc
+/usr/lib32/pkgconfig/absl_random_internal_pcg_engine.pc
+/usr/lib32/pkgconfig/absl_random_internal_platform.pc
+/usr/lib32/pkgconfig/absl_random_internal_pool_urbg.pc
+/usr/lib32/pkgconfig/absl_random_internal_randen.pc
+/usr/lib32/pkgconfig/absl_random_internal_randen_engine.pc
+/usr/lib32/pkgconfig/absl_random_internal_randen_hwaes.pc
+/usr/lib32/pkgconfig/absl_random_internal_randen_hwaes_impl.pc
+/usr/lib32/pkgconfig/absl_random_internal_randen_slow.pc
+/usr/lib32/pkgconfig/absl_random_internal_salted_seed_seq.pc
+/usr/lib32/pkgconfig/absl_random_internal_seed_material.pc
+/usr/lib32/pkgconfig/absl_random_internal_traits.pc
+/usr/lib32/pkgconfig/absl_random_internal_uniform_helper.pc
+/usr/lib32/pkgconfig/absl_random_internal_wide_multiply.pc
+/usr/lib32/pkgconfig/absl_random_random.pc
+/usr/lib32/pkgconfig/absl_random_seed_gen_exception.pc
+/usr/lib32/pkgconfig/absl_random_seed_sequences.pc
+/usr/lib32/pkgconfig/absl_raw_hash_map.pc
+/usr/lib32/pkgconfig/absl_raw_hash_set.pc
+/usr/lib32/pkgconfig/absl_raw_logging_internal.pc
+/usr/lib32/pkgconfig/absl_sample_recorder.pc
+/usr/lib32/pkgconfig/absl_scoped_set_env.pc
+/usr/lib32/pkgconfig/absl_span.pc
+/usr/lib32/pkgconfig/absl_spinlock_wait.pc
+/usr/lib32/pkgconfig/absl_stacktrace.pc
+/usr/lib32/pkgconfig/absl_status.pc
+/usr/lib32/pkgconfig/absl_statusor.pc
+/usr/lib32/pkgconfig/absl_str_format.pc
+/usr/lib32/pkgconfig/absl_str_format_internal.pc
+/usr/lib32/pkgconfig/absl_strerror.pc
+/usr/lib32/pkgconfig/absl_string_view.pc
+/usr/lib32/pkgconfig/absl_strings.pc
+/usr/lib32/pkgconfig/absl_strings_internal.pc
+/usr/lib32/pkgconfig/absl_symbolize.pc
+/usr/lib32/pkgconfig/absl_synchronization.pc
+/usr/lib32/pkgconfig/absl_test_allocator.pc
+/usr/lib32/pkgconfig/absl_throw_delegate.pc
+/usr/lib32/pkgconfig/absl_time.pc
+/usr/lib32/pkgconfig/absl_time_zone.pc
+/usr/lib32/pkgconfig/absl_type_traits.pc
+/usr/lib32/pkgconfig/absl_utility.pc
+/usr/lib32/pkgconfig/absl_variant.pc
+/usr/lib32/pkgconfig/absl_vlog_config_internal.pc
+/usr/lib32/pkgconfig/absl_vlog_is_on.pc

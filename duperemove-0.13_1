@@ -1,0 +1,8 @@
+/usr/bin/btrfs-extent-same
+/usr/bin/duperemove
+/usr/bin/hashstats
+/usr/bin/show-shared-extents
+/usr/share/man/man8/btrfs-extent-same.8
+/usr/share/man/man8/duperemove.8
+/usr/share/man/man8/hashstats.8
+/usr/share/man/man8/show-shared-extents.8

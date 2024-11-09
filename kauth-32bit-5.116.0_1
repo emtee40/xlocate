@@ -1,0 +1,6 @@
+/usr/lib32/libKF5Auth.so.5 -> /usr/lib32/libKF5Auth.so.5.116.0
+/usr/lib32/libKF5Auth.so.5.116.0
+/usr/lib32/libKF5AuthCore.so.5 -> /usr/lib32/libKF5AuthCore.so.5.116.0
+/usr/lib32/libKF5AuthCore.so.5.116.0
+/usr/lib32/qt5/plugins/kauth/backend/kauth_backend_plugin.so
+/usr/lib32/qt5/plugins/kauth/helper/kauth_helper_plugin.so

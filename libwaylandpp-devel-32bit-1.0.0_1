@@ -1,0 +1,16 @@
+/usr/lib32/libwayland-client++.so -> /usr/lib32/libwayland-client++.so.1
+/usr/lib32/libwayland-client-extra++.so -> /usr/lib32/libwayland-client-extra++.so.1
+/usr/lib32/libwayland-client-unstable++.so -> /usr/lib32/libwayland-client-unstable++.so.1
+/usr/lib32/libwayland-cursor++.so -> /usr/lib32/libwayland-cursor++.so.1
+/usr/lib32/libwayland-egl++.so -> /usr/lib32/libwayland-egl++.so.1
+/usr/lib32/libwayland-server++.so -> /usr/lib32/libwayland-server++.so.1
+/usr/lib32/libwayland-server-extra++.so -> /usr/lib32/libwayland-server-extra++.so.1
+/usr/lib32/libwayland-server-unstable++.so -> /usr/lib32/libwayland-server-unstable++.so.1
+/usr/lib32/pkgconfig/wayland-client++.pc
+/usr/lib32/pkgconfig/wayland-client-extra++.pc
+/usr/lib32/pkgconfig/wayland-client-unstable++.pc
+/usr/lib32/pkgconfig/wayland-cursor++.pc
+/usr/lib32/pkgconfig/wayland-egl++.pc
+/usr/lib32/pkgconfig/wayland-server++.pc
+/usr/lib32/pkgconfig/wayland-server-extra++.pc
+/usr/lib32/pkgconfig/wayland-server-unstable++.pc

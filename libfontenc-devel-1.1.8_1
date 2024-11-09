@@ -1,0 +1,4 @@
+/usr/include/X11/fonts/fontenc.h
+/usr/lib/libfontenc.a
+/usr/lib/libfontenc.so -> /usr/lib/libfontenc.so.1.0.0
+/usr/lib/pkgconfig/fontenc.pc

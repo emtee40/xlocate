@@ -1,0 +1,21 @@
+/etc/default/boinc-client
+/etc/sv/boinc/conf
+/etc/sv/boinc/log/run
+/etc/sv/boinc/log/supervise -> /run/runit/supervise.boinc-log
+/etc/sv/boinc/run
+/etc/sv/boinc/supervise -> /run/runit/supervise.boinc
+/usr/bin/boinc
+/usr/bin/boinc_client
+/usr/bin/boinccmd
+/usr/lib/libboinc_api.so.8 -> /usr/lib/libboinc_api.so.8.0.2
+/usr/lib/libboinc_api.so.8.0.2
+/usr/lib/libboinc_graphics2.so.8 -> /usr/lib/libboinc_graphics2.so.8.0.2
+/usr/lib/libboinc_graphics2.so.8.0.2
+/usr/lib/libboinc_opencl.so.8 -> /usr/lib/libboinc_opencl.so.8.0.2
+/usr/lib/libboinc_opencl.so.8.0.2
+/usr/lib/pkgconfig/libboinc.pc
+/usr/lib/pkgconfig/libboinc_api.pc
+/usr/lib/pkgconfig/libboinc_crypt.pc
+/usr/lib/pkgconfig/libboinc_graphics2.pc
+/usr/lib/pkgconfig/libboinc_opencl.pc
+/usr/share/bash-completion/completions/boinc

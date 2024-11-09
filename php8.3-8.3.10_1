@@ -1,0 +1,27 @@
+/etc/php8.3/php.ini
+/usr/bin/phar8.3 -> /usr/bin/phar8.3.phar
+/usr/bin/phar8.3.phar
+/usr/bin/php8.3
+/usr/lib/php8.3/modules/bcmath.so
+/usr/lib/php8.3/modules/bz2.so
+/usr/lib/php8.3/modules/calendar.so
+/usr/lib/php8.3/modules/curl.so
+/usr/lib/php8.3/modules/exif.so
+/usr/lib/php8.3/modules/ftp.so
+/usr/lib/php8.3/modules/gettext.so
+/usr/lib/php8.3/modules/gmp.so
+/usr/lib/php8.3/modules/iconv.so
+/usr/lib/php8.3/modules/opcache.so
+/usr/lib/php8.3/modules/openssl.so
+/usr/lib/php8.3/modules/phar.so
+/usr/lib/php8.3/modules/posix.so
+/usr/lib/php8.3/modules/shmop.so
+/usr/lib/php8.3/modules/soap.so
+/usr/lib/php8.3/modules/sockets.so
+/usr/lib/php8.3/modules/sysvmsg.so
+/usr/lib/php8.3/modules/sysvsem.so
+/usr/lib/php8.3/modules/sysvshm.so
+/usr/lib/php8.3/modules/zip.so
+/usr/share/man/man1/phar8.3.1
+/usr/share/man/man1/phar8.3.phar.1
+/usr/share/man/man1/php8.3.1

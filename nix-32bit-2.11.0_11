@@ -1,0 +1,6 @@
+/usr/lib32/libnixcmd.so
+/usr/lib32/libnixexpr.so
+/usr/lib32/libnixfetchers.so
+/usr/lib32/libnixmain.so
+/usr/lib32/libnixstore.so
+/usr/lib32/libnixutil.so

@@ -1,0 +1,7 @@
+/usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so -> /usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1
+/usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1 -> /usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1.0.0
+/usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1.0.0
+/usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/libPreferencePanes.so -> ./Versions/Current/libPreferencePanes.so
+/usr/lib32/libPreferencePanes.so -> ./GNUstep/Frameworks/PreferencePanes.framework/Versions/Current/libPreferencePanes.so
+/usr/lib32/libPreferencePanes.so.1 -> /usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1.0.0
+/usr/lib32/libPreferencePanes.so.1.0.0 -> /usr/lib32/GNUstep/Frameworks/PreferencePanes.framework/Versions/1/libPreferencePanes.so.1.0.0

@@ -1,0 +1,8 @@
+/etc/dma/auth.conf
+/etc/dma/dma.conf
+/usr/bin/dma
+/usr/bin/mailq -> /usr/bin/dma
+/usr/bin/sendmail -> /usr/bin/dma
+/usr/lib/dma-mbox-create
+/usr/share/licenses/dma/LICENSE
+/usr/share/man/man8/dma.8

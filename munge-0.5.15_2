@@ -1,0 +1,15 @@
+/etc/sv/munge/log/run
+/etc/sv/munge/log/supervise -> /run/runit/supervise.munge-log
+/etc/sv/munge/run
+/etc/sv/munge/supervise -> /run/runit/supervise.munge
+/usr/bin/munge
+/usr/bin/munged
+/usr/bin/mungekey
+/usr/bin/remunge
+/usr/bin/unmunge
+/usr/share/man/man1/munge.1
+/usr/share/man/man1/remunge.1
+/usr/share/man/man1/unmunge.1
+/usr/share/man/man7/munge.7
+/usr/share/man/man8/munged.8
+/usr/share/man/man8/mungekey.8

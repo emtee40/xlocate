@@ -1,0 +1,37 @@
+/usr/bin/papi_avail
+/usr/bin/papi_clockres
+/usr/bin/papi_command_line
+/usr/bin/papi_component_avail
+/usr/bin/papi_cost
+/usr/bin/papi_decode
+/usr/bin/papi_error_codes
+/usr/bin/papi_event_chooser
+/usr/bin/papi_hardware_avail
+/usr/bin/papi_hl_output_writer.py
+/usr/bin/papi_mem_info
+/usr/bin/papi_multiplex_cost
+/usr/bin/papi_native_avail
+/usr/bin/papi_version
+/usr/bin/papi_xml_event_info
+/usr/lib/libpapi.so.7.0 -> /usr/lib/libpapi.so.7.0.1.0
+/usr/lib/libpapi.so.7.0.1.0
+/usr/lib/libsde.so.1 -> /usr/lib/libsde.so.1.0
+/usr/lib/libsde.so.1.0
+/usr/share/licenses/papi/LICENSE.txt
+/usr/share/man/man1/PAPI_derived_event_files.1
+/usr/share/man/man1/papi_avail.1
+/usr/share/man/man1/papi_clockres.1
+/usr/share/man/man1/papi_command_line.1
+/usr/share/man/man1/papi_component_avail.1
+/usr/share/man/man1/papi_cost.1
+/usr/share/man/man1/papi_decode.1
+/usr/share/man/man1/papi_error_codes.1
+/usr/share/man/man1/papi_event_chooser.1
+/usr/share/man/man1/papi_hardware_avail.1
+/usr/share/man/man1/papi_hybrid_native_avail.1
+/usr/share/man/man1/papi_mem_info.1
+/usr/share/man/man1/papi_multiplex_cost.1
+/usr/share/man/man1/papi_native_avail.1
+/usr/share/man/man1/papi_version.1
+/usr/share/man/man1/papi_xml_event_info.1
+/usr/share/papi/papi_events.csv

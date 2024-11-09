@@ -1,0 +1,5 @@
+/usr/lib/libhidapi-hidraw.so.0 -> /usr/lib/libhidapi-hidraw.so.0.13.1
+/usr/lib/libhidapi-hidraw.so.0.13.1
+/usr/lib/libhidapi-libusb.so.0 -> /usr/lib/libhidapi-libusb.so.0.13.1
+/usr/lib/libhidapi-libusb.so.0.13.1
+/usr/share/licenses/hidapi/LICENSE

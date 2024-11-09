@@ -1,0 +1,13 @@
+/usr/include/KF6/KPty/KPty
+/usr/include/KF6/KPty/KPtyDevice
+/usr/include/KF6/KPty/KPtyProcess
+/usr/include/KF6/KPty/kpty.h
+/usr/include/KF6/KPty/kpty_export.h
+/usr/include/KF6/KPty/kpty_version.h
+/usr/include/KF6/KPty/kptydevice.h
+/usr/include/KF6/KPty/kptyprocess.h
+/usr/lib/cmake/KF6Pty/KF6PtyConfig.cmake
+/usr/lib/cmake/KF6Pty/KF6PtyConfigVersion.cmake
+/usr/lib/cmake/KF6Pty/KF6PtyTargets-none.cmake
+/usr/lib/cmake/KF6Pty/KF6PtyTargets.cmake
+/usr/lib/libKF6Pty.so -> /usr/lib/libKF6Pty.so.6

@@ -1,0 +1,16 @@
+/usr/lib/libpinktrace_1.0.so.100 -> /usr/lib/libpinktrace_1.0.so.100.0.0
+/usr/lib/libpinktrace_1.0.so.100.0.0
+/usr/lib/python3.12/site-packages/pinktrace/__init__.py
+/usr/lib/python3.12/site-packages/pinktrace/abi.so
+/usr/lib/python3.12/site-packages/pinktrace/event.so
+/usr/lib/python3.12/site-packages/pinktrace/name.so
+/usr/lib/python3.12/site-packages/pinktrace/regset.so
+/usr/lib/python3.12/site-packages/pinktrace/system.so
+/usr/lib/python3.12/site-packages/pinktrace/test.py
+/usr/lib/python3.12/site-packages/pinktrace/trace.so
+/usr/share/doc/pinktrace/COPYING
+/usr/share/doc/pinktrace/INSTALL-git.md
+/usr/share/doc/pinktrace/LGPL-2.1-or-later
+/usr/share/doc/pinktrace/README-configure
+/usr/share/doc/pinktrace/README.md
+/usr/share/licenses/pinktrace/COPYING

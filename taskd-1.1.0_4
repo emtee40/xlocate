@@ -1,0 +1,20 @@
+/etc/sv/taskd/run
+/etc/sv/taskd/supervise -> /run/runit/supervise.taskd
+/usr/bin/taskd
+/usr/bin/taskdctl
+/usr/share/doc/taskd/AUTHORS
+/usr/share/doc/taskd/COPYING
+/usr/share/doc/taskd/ChangeLog
+/usr/share/doc/taskd/INSTALL
+/usr/share/doc/taskd/NEWS
+/usr/share/licenses/taskd/LICENSE
+/usr/share/man/man1/taskd.1
+/usr/share/man/man1/taskdctl.1
+/usr/share/man/man5/taskdrc.5
+/usr/share/taskd/README
+/usr/share/taskd/generate
+/usr/share/taskd/generate.ca
+/usr/share/taskd/generate.client
+/usr/share/taskd/generate.crl
+/usr/share/taskd/generate.server
+/usr/share/taskd/vars

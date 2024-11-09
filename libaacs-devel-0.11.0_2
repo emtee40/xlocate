@@ -1,0 +1,5 @@
+/usr/include/libaacs/aacs-version.h
+/usr/include/libaacs/aacs.h
+/usr/include/libaacs/filesystem.h
+/usr/lib/libaacs.so -> /usr/lib/libaacs.so.0.7.1
+/usr/lib/pkgconfig/libaacs.pc

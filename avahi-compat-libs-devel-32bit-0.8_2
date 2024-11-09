@@ -1,0 +1,4 @@
+/usr/lib32/libdns_sd.so -> /usr/lib32/libdns_sd.so.1.0.0
+/usr/lib32/libhowl.so -> /usr/lib32/libhowl.so.0.0.0
+/usr/lib32/pkgconfig/avahi-compat-howl.pc
+/usr/lib32/pkgconfig/avahi-compat-libdns_sd.pc

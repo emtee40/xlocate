@@ -1,0 +1,19 @@
+/usr/bin/abook
+/usr/share/doc/abook/BUGS
+/usr/share/doc/abook/ChangeLog
+/usr/share/doc/abook/FAQ
+/usr/share/doc/abook/README
+/usr/share/doc/abook/TODO
+/usr/share/doc/abook/sample.abookrc
+/usr/share/locale/de/LC_MESSAGES/abook.mo
+/usr/share/locale/de/LC_TIME/abook.mo -> /usr/share/locale/de/LC_MESSAGES/abook.mo
+/usr/share/locale/fr/LC_MESSAGES/abook.mo
+/usr/share/locale/fr/LC_TIME/abook.mo -> /usr/share/locale/fr/LC_MESSAGES/abook.mo
+/usr/share/locale/it/LC_MESSAGES/abook.mo
+/usr/share/locale/it/LC_TIME/abook.mo -> /usr/share/locale/it/LC_MESSAGES/abook.mo
+/usr/share/locale/ja/LC_MESSAGES/abook.mo
+/usr/share/locale/ja/LC_TIME/abook.mo -> /usr/share/locale/ja/LC_MESSAGES/abook.mo
+/usr/share/locale/sv/LC_MESSAGES/abook.mo
+/usr/share/locale/sv/LC_TIME/abook.mo -> /usr/share/locale/sv/LC_MESSAGES/abook.mo
+/usr/share/man/man1/abook.1
+/usr/share/man/man5/abookrc.5

@@ -1,0 +1,3 @@
+/usr/include/blake2.h
+/usr/lib/libb2.so -> /usr/lib/libb2.so.1.0.4
+/usr/lib/pkgconfig/libb2.pc

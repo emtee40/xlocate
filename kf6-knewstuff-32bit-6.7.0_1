@@ -1,0 +1,7 @@
+/usr/lib32/libKF6NewStuffCore.so.6 -> /usr/lib32/libKF6NewStuffCore.so.6.7.0
+/usr/lib32/libKF6NewStuffCore.so.6.7.0
+/usr/lib32/libKF6NewStuffWidgets.so.6 -> /usr/lib32/libKF6NewStuffWidgets.so.6.7.0
+/usr/lib32/libKF6NewStuffWidgets.so.6.7.0
+/usr/lib32/qt6/plugins/designer/knewstuff6widgets.so
+/usr/lib32/qt6/qml/org/kde/newstuff/libnewstuffqmlplugin.so
+/usr/lib32/qt6/qml/org/kde/newstuff/private/libnewstuffqmlpluginprivate.so

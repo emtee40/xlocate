@@ -1,0 +1,26 @@
+/usr/libexec/xbps-triggers/appstream-cache
+/usr/libexec/xbps-triggers/binfmts
+/usr/libexec/xbps-triggers/dkms
+/usr/libexec/xbps-triggers/gconf-schemas
+/usr/libexec/xbps-triggers/gdk-pixbuf-loaders
+/usr/libexec/xbps-triggers/gio-modules
+/usr/libexec/xbps-triggers/gsettings-schemas
+/usr/libexec/xbps-triggers/gtk-icon-cache
+/usr/libexec/xbps-triggers/gtk-immodules
+/usr/libexec/xbps-triggers/gtk-pixbuf-loaders
+/usr/libexec/xbps-triggers/gtk3-immodules
+/usr/libexec/xbps-triggers/hwdb.d-dir
+/usr/libexec/xbps-triggers/info-files
+/usr/libexec/xbps-triggers/initramfs-regenerate
+/usr/libexec/xbps-triggers/kernel-hooks
+/usr/libexec/xbps-triggers/mimedb
+/usr/libexec/xbps-triggers/mkdirs
+/usr/libexec/xbps-triggers/pango-modules
+/usr/libexec/xbps-triggers/pycompile
+/usr/libexec/xbps-triggers/register-shell
+/usr/libexec/xbps-triggers/system-accounts
+/usr/libexec/xbps-triggers/texmf-dist
+/usr/libexec/xbps-triggers/update-desktopdb
+/usr/libexec/xbps-triggers/x11-fonts
+/usr/libexec/xbps-triggers/xml-catalog
+/var/db/xbps/triggers -> /usr/libexec/xbps-triggers

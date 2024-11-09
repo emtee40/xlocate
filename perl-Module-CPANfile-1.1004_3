@@ -1,0 +1,14 @@
+/usr/bin/cpanfile-dump
+/usr/bin/mymeta-cpanfile
+/usr/share/man/man1/cpanfile-dump.1p
+/usr/share/man/man1/mymeta-cpanfile.1p
+/usr/share/man/man3/Module::CPANfile.3p
+/usr/share/man/man3/cpanfile-faq.3p
+/usr/share/man/man3/cpanfile.3p
+/usr/share/perl5/vendor_perl/Module/CPANfile.pm
+/usr/share/perl5/vendor_perl/Module/CPANfile/Environment.pm
+/usr/share/perl5/vendor_perl/Module/CPANfile/Prereq.pm
+/usr/share/perl5/vendor_perl/Module/CPANfile/Prereqs.pm
+/usr/share/perl5/vendor_perl/Module/CPANfile/Requirement.pm
+/usr/share/perl5/vendor_perl/cpanfile-faq.pod
+/usr/share/perl5/vendor_perl/cpanfile.pod

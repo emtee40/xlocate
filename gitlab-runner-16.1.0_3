@@ -1,0 +1,6 @@
+/etc/sv/gitlab-runner/log/run
+/etc/sv/gitlab-runner/log/supervise -> /run/runit/supervise.gitlab-runner-log
+/etc/sv/gitlab-runner/run
+/etc/sv/gitlab-runner/supervise -> /run/runit/supervise.gitlab-runner
+/usr/bin/gitlab-runner
+/usr/share/licenses/gitlab-runner/LICENSE

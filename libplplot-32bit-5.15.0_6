@@ -1,0 +1,27 @@
+/usr/lib32/libcsirocsa.so.0 -> /usr/lib32/libcsirocsa.so.0.0.1
+/usr/lib32/libcsirocsa.so.0.0.1
+/usr/lib32/libcsironn.so.0 -> /usr/lib32/libcsironn.so.0.0.2
+/usr/lib32/libcsironn.so.0.0.2
+/usr/lib32/libplplot.so.17 -> /usr/lib32/libplplot.so.17.0.0
+/usr/lib32/libplplot.so.17.0.0
+/usr/lib32/libplplotcxx.so.15 -> /usr/lib32/libplplotcxx.so.15.0.0
+/usr/lib32/libplplotcxx.so.15.0.0
+/usr/lib32/libplplottcltk.so.14 -> /usr/lib32/libplplottcltk.so.14.1.0
+/usr/lib32/libplplottcltk.so.14.1.0
+/usr/lib32/libplplottcltk_Main.so.1 -> /usr/lib32/libplplottcltk_Main.so.1.0.1
+/usr/lib32/libplplottcltk_Main.so.1.0.1
+/usr/lib32/libqsastime.so.0 -> /usr/lib32/libqsastime.so.0.0.1
+/usr/lib32/libqsastime.so.0.0.1
+/usr/lib32/libtclmatrix.so.10 -> /usr/lib32/libtclmatrix.so.10.3.0
+/usr/lib32/libtclmatrix.so.10.3.0
+/usr/lib32/plplot5.15.0/drivers/cairo.so
+/usr/lib32/plplot5.15.0/drivers/mem.so
+/usr/lib32/plplot5.15.0/drivers/ntk.so
+/usr/lib32/plplot5.15.0/drivers/null.so
+/usr/lib32/plplot5.15.0/drivers/pdf.so
+/usr/lib32/plplot5.15.0/drivers/ps.so
+/usr/lib32/plplot5.15.0/drivers/svg.so
+/usr/lib32/plplot5.15.0/drivers/tk.so
+/usr/lib32/plplot5.15.0/drivers/tkwin.so
+/usr/lib32/plplot5.15.0/drivers/xfig.so
+/usr/lib32/plplot5.15.0/drivers/xwin.so

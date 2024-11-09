@@ -1,0 +1,5 @@
+/usr/lib32/libvcdinfo.a
+/usr/lib32/libvcdinfo.so -> /usr/lib32/libvcdinfo.so.0.2.0
+/usr/lib32/libvcdinfo.so.0 -> /usr/lib32/libvcdinfo.so.0.2.0
+/usr/lib32/libvcdinfo.so.0.2.0
+/usr/lib32/pkgconfig/libvcdinfo.pc

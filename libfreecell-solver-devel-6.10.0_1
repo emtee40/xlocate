@@ -1,0 +1,13 @@
+/usr/include/freecell-solver/config.h
+/usr/include/freecell-solver/fcs_back_compat.h
+/usr/include/freecell-solver/fcs_cl.h
+/usr/include/freecell-solver/fcs_conf.h
+/usr/include/freecell-solver/fcs_dllexport.h
+/usr/include/freecell-solver/fcs_enums.h
+/usr/include/freecell-solver/fcs_limit.h
+/usr/include/freecell-solver/fcs_move.h
+/usr/include/freecell-solver/fcs_pats_xy_param.h
+/usr/include/freecell-solver/fcs_user.h
+/usr/lib/libfreecell-solver.a
+/usr/lib/libfreecell-solver.so -> /usr/lib/libfreecell-solver.so.0
+/usr/lib/pkgconfig/libfreecell-solver.pc

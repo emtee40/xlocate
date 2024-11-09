@@ -1,0 +1,5 @@
+/usr/include/nfc/nfc-emulation.h
+/usr/include/nfc/nfc-types.h
+/usr/include/nfc/nfc.h
+/usr/lib/libnfc.so -> /usr/lib/libnfc.so.6
+/usr/lib/pkgconfig/libnfc.pc

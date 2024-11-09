@@ -1,0 +1,12 @@
+/usr/lib32/libsilc-1.1.so.4 -> /usr/lib32/libsilc-1.1.so.4.0.0
+/usr/lib32/libsilc-1.1.so.4.0.0
+/usr/lib32/libsilcclient-1.1.so.4 -> /usr/lib32/libsilcclient-1.1.so.4.0.0
+/usr/lib32/libsilcclient-1.1.so.4.0.0
+/usr/lib32/silc/modules/aes.sim.so
+/usr/lib32/silc/modules/blowfish.sim.so
+/usr/lib32/silc/modules/md5.sim.so
+/usr/lib32/silc/modules/none.sim.so
+/usr/lib32/silc/modules/rsa.sim.so
+/usr/lib32/silc/modules/sha1.sim.so
+/usr/lib32/silc/modules/sha256.sim.so
+/usr/lib32/silc/modules/twofish.sim.so

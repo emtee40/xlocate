@@ -1,0 +1,6 @@
+/usr/bin/just
+/usr/share/bash-completion/completions/just
+/usr/share/fish/vendor_completions.d/just.fish
+/usr/share/licenses/just/LICENSE
+/usr/share/man/man1/just.1
+/usr/share/zsh/site-functions/_just

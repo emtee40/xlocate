@@ -1,0 +1,5 @@
+/usr/include/zita-resampler/cresampler.h
+/usr/include/zita-resampler/resampler-table.h
+/usr/include/zita-resampler/resampler.h
+/usr/include/zita-resampler/vresampler.h
+/usr/lib/libzita-resampler.so -> /usr/lib/libzita-resampler.so.1.8.0

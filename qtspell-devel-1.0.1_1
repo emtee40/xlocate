@@ -1,0 +1,4 @@
+/usr/include/QtSpell-qt5/QtSpell.hpp
+/usr/include/QtSpell-qt5/QtSpellExport.hpp
+/usr/lib/libqtspell-qt5.so -> /usr/lib/libqtspell-qt5.so.1
+/usr/lib/pkgconfig/QtSpell-qt5.pc

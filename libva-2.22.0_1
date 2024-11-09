@@ -1,0 +1,9 @@
+/usr/lib/libva-drm.so.2 -> /usr/lib/libva-drm.so.2.2200.0
+/usr/lib/libva-drm.so.2.2200.0
+/usr/lib/libva-wayland.so.2 -> /usr/lib/libva-wayland.so.2.2200.0
+/usr/lib/libva-wayland.so.2.2200.0
+/usr/lib/libva-x11.so.2 -> /usr/lib/libva-x11.so.2.2200.0
+/usr/lib/libva-x11.so.2.2200.0
+/usr/lib/libva.so.2 -> /usr/lib/libva.so.2.2200.0
+/usr/lib/libva.so.2.2200.0
+/usr/share/licenses/libva/COPYING

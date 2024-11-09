@@ -1,0 +1,16 @@
+/usr/bin/bunzip3
+/usr/bin/bz3cat
+/usr/bin/bz3grep
+/usr/bin/bz3less
+/usr/bin/bz3more
+/usr/bin/bz3most
+/usr/bin/bzip3
+/usr/lib/libbzip3.so.0 -> /usr/lib/libbzip3.so.0.0.0
+/usr/lib/libbzip3.so.0.0.0
+/usr/share/man/man1/bunzip3.1
+/usr/share/man/man1/bz3cat.1
+/usr/share/man/man1/bz3grep.1
+/usr/share/man/man1/bz3less.1
+/usr/share/man/man1/bz3more.1
+/usr/share/man/man1/bz3most.1
+/usr/share/man/man1/bzip3.1

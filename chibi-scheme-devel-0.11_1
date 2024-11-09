@@ -1,0 +1,10 @@
+/usr/bin/chibi-ffi
+/usr/include/chibi/bignum.h
+/usr/include/chibi/eval.h
+/usr/include/chibi/features.h
+/usr/include/chibi/gc_heap.h
+/usr/include/chibi/install.h
+/usr/include/chibi/sexp.h
+/usr/lib/libchibi-scheme.so -> /usr/lib/libchibi-scheme.so.0.11.0
+/usr/lib/pkgconfig/chibi-scheme.pc
+/usr/share/man/man1/chibi-ffi.1

@@ -1,0 +1,10 @@
+/etc/sv/hddtemp/run
+/etc/sv/hddtemp/supervise -> /run/runit/supervise.hddtemp
+/usr/bin/hddtemp
+/usr/share/hddtemp/hddtemp.db
+/usr/share/locale/de/LC_MESSAGES/hddtemp.mo
+/usr/share/locale/fr/LC_MESSAGES/hddtemp.mo
+/usr/share/locale/pt/LC_MESSAGES/hddtemp.mo
+/usr/share/locale/ru/LC_MESSAGES/hddtemp.mo
+/usr/share/locale/sv/LC_MESSAGES/hddtemp.mo
+/usr/share/man/man8/hddtemp.8

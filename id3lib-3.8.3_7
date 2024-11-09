@@ -1,0 +1,6 @@
+/usr/bin/id3convert
+/usr/bin/id3cp
+/usr/bin/id3info
+/usr/bin/id3tag
+/usr/lib/libid3-3.8.so.3 -> /usr/lib/libid3-3.8.so.3.0.0
+/usr/lib/libid3-3.8.so.3.0.0

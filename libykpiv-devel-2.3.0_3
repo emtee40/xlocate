@@ -1,0 +1,5 @@
+/usr/include/ykpiv/ykpiv-config.h
+/usr/include/ykpiv/ykpiv.h
+/usr/lib/libykpiv.a
+/usr/lib/libykpiv.so -> /usr/lib/libykpiv.so.2
+/usr/lib/pkgconfig/ykpiv.pc

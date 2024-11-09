@@ -1,0 +1,3 @@
+/usr/bin/kmonad
+/usr/lib/udev/rules.d/60-kmonad.rules
+/usr/share/licenses/kmonad/LICENSE

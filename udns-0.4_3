@@ -1,0 +1,6 @@
+/usr/bin/dnsget
+/usr/bin/ex-rdns
+/usr/bin/rblcheck
+/usr/lib/libudns.so.0
+/usr/share/man/man1/dnsget.1
+/usr/share/man/man1/rblcheck.1

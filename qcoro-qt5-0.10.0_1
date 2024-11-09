@@ -1,0 +1,19 @@
+/usr/lib/libQCoro5Core.so -> /usr/lib/libQCoro5Core.so.0
+/usr/lib/libQCoro5Core.so.0 -> /usr/lib/libQCoro5Core.so.0.10.0
+/usr/lib/libQCoro5Core.so.0.10.0
+/usr/lib/libQCoro5DBus.so -> /usr/lib/libQCoro5DBus.so.0
+/usr/lib/libQCoro5DBus.so.0 -> /usr/lib/libQCoro5DBus.so.0.10.0
+/usr/lib/libQCoro5DBus.so.0.10.0
+/usr/lib/libQCoro5Network.so -> /usr/lib/libQCoro5Network.so.0
+/usr/lib/libQCoro5Network.so.0 -> /usr/lib/libQCoro5Network.so.0.10.0
+/usr/lib/libQCoro5Network.so.0.10.0
+/usr/lib/libQCoro5Qml.so -> /usr/lib/libQCoro5Qml.so.0
+/usr/lib/libQCoro5Qml.so.0 -> /usr/lib/libQCoro5Qml.so.0.10.0
+/usr/lib/libQCoro5Qml.so.0.10.0
+/usr/lib/libQCoro5Quick.so -> /usr/lib/libQCoro5Quick.so.0
+/usr/lib/libQCoro5Quick.so.0 -> /usr/lib/libQCoro5Quick.so.0.10.0
+/usr/lib/libQCoro5Quick.so.0.10.0
+/usr/lib/libQCoro5WebSockets.so -> /usr/lib/libQCoro5WebSockets.so.0
+/usr/lib/libQCoro5WebSockets.so.0 -> /usr/lib/libQCoro5WebSockets.so.0.10.0
+/usr/lib/libQCoro5WebSockets.so.0.10.0
+/usr/share/licenses/qcoro-qt5/LICENSE

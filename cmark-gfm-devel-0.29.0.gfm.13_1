@@ -1,0 +1,13 @@
+/usr/include/cmark-gfm-core-extensions.h
+/usr/include/cmark-gfm-extension_api.h
+/usr/include/cmark-gfm.h
+/usr/include/cmark-gfm_export.h
+/usr/include/cmark-gfm_version.h
+/usr/lib/cmake/cmark-gfm-none.cmake
+/usr/lib/cmake/cmark-gfm.cmake
+/usr/lib/libcmark-gfm-extensions.a
+/usr/lib/libcmark-gfm-extensions.so -> /usr/lib/libcmark-gfm-extensions.so.0
+/usr/lib/libcmark-gfm.a
+/usr/lib/libcmark-gfm.so -> /usr/lib/libcmark-gfm.so.0
+/usr/lib/pkgconfig/libcmark-gfm.pc
+/usr/share/man/man3/cmark-gfm.3

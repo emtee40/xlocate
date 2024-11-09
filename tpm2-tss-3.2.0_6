@@ -1,0 +1,27 @@
+/usr/lib/libtss2-esys.so.0 -> /usr/lib/libtss2-esys.so.0.0.0
+/usr/lib/libtss2-esys.so.0.0.0
+/usr/lib/libtss2-mu.so.0 -> /usr/lib/libtss2-mu.so.0.0.0
+/usr/lib/libtss2-mu.so.0.0.0
+/usr/lib/libtss2-rc.so.0 -> /usr/lib/libtss2-rc.so.0.0.0
+/usr/lib/libtss2-rc.so.0.0.0
+/usr/lib/libtss2-sys.so.1 -> /usr/lib/libtss2-sys.so.1.0.0
+/usr/lib/libtss2-sys.so.1.0.0
+/usr/lib/libtss2-tcti-cmd.so.0 -> /usr/lib/libtss2-tcti-cmd.so.0.0.0
+/usr/lib/libtss2-tcti-cmd.so.0.0.0
+/usr/lib/libtss2-tcti-device.so.0 -> /usr/lib/libtss2-tcti-device.so.0.0.0
+/usr/lib/libtss2-tcti-device.so.0.0.0
+/usr/lib/libtss2-tcti-mssim.so.0 -> /usr/lib/libtss2-tcti-mssim.so.0.0.0
+/usr/lib/libtss2-tcti-mssim.so.0.0.0
+/usr/lib/libtss2-tcti-pcap.so.0 -> /usr/lib/libtss2-tcti-pcap.so.0.0.0
+/usr/lib/libtss2-tcti-pcap.so.0.0.0
+/usr/lib/libtss2-tcti-swtpm.so.0 -> /usr/lib/libtss2-tcti-swtpm.so.0.0.0
+/usr/lib/libtss2-tcti-swtpm.so.0.0.0
+/usr/lib/libtss2-tctildr.so.0 -> /usr/lib/libtss2-tctildr.so.0.0.0
+/usr/lib/libtss2-tctildr.so.0.0.0
+/usr/lib/udev/rules.d/tpm-udev.rules
+/usr/share/licenses/tpm2-tss/LICENSE
+/usr/share/man/man7/tss2-tcti-cmd.7
+/usr/share/man/man7/tss2-tcti-device.7
+/usr/share/man/man7/tss2-tcti-mssim.7
+/usr/share/man/man7/tss2-tcti-swtpm.7
+/usr/share/man/man7/tss2-tctildr.7

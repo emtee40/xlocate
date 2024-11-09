@@ -1,0 +1,5 @@
+/usr/bin/ymir
+/usr/share/bash-completion/completions/ymir
+/usr/share/fish/vendor_completions.d/ymir.fish
+/usr/share/licenses/ymir/LICENSE
+/usr/share/zsh/site-functions/_ymir

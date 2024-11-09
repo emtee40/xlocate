@@ -1,0 +1,44 @@
+/usr/bin/cargo-clippy
+/usr/bin/cargo-fmt
+/usr/bin/clippy-driver
+/usr/bin/rust-gdb
+/usr/bin/rust-gdbgui
+/usr/bin/rust-lldb
+/usr/bin/rustc
+/usr/bin/rustdoc
+/usr/bin/rustfmt
+/usr/lib/libdarling_macro-683b15a5786c884d.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libdarling_macro-683b15a5786c884d.so
+/usr/lib/libderive_more-60a38000d43a0efb.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libderive_more-60a38000d43a0efb.so
+/usr/lib/libderive_setters-6cd8bcf4430c83a6.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libderive_setters-6cd8bcf4430c83a6.so
+/usr/lib/libderive_where-131f3132c4e0542d.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libderive_where-131f3132c4e0542d.so
+/usr/lib/libdisplaydoc-3091dbc10f9438db.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libdisplaydoc-3091dbc10f9438db.so
+/usr/lib/libicu_provider_macros-fd63e3e997ae0032.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libicu_provider_macros-fd63e3e997ae0032.so
+/usr/lib/libproc_macro_hack-1d308d1e724f5d02.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libproc_macro_hack-1d308d1e724f5d02.so
+/usr/lib/librustc_driver-9c8314a1d9ae2509.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_driver-9c8314a1d9ae2509.so
+/usr/lib/librustc_fluent_macro-6e92b32d31607ca4.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_fluent_macro-6e92b32d31607ca4.so
+/usr/lib/librustc_index_macros-22e1e621e779c843.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_index_macros-22e1e621e779c843.so
+/usr/lib/librustc_macros-c5e86ba3f7f952d0.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_macros-c5e86ba3f7f952d0.so
+/usr/lib/librustc_type_ir_macros-a24b0046d94ec39a.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_type_ir_macros-a24b0046d94ec39a.so
+/usr/lib/libserde_derive-84ef9403c293a35d.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libserde_derive-84ef9403c293a35d.so
+/usr/lib/libstd-0be329506c85775c.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libstd-0be329506c85775c.so
+/usr/lib/libthiserror_impl-64deb4a176aea286.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libthiserror_impl-64deb4a176aea286.so
+/usr/lib/libtime_macros-1d5648ee855e2579.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libtime_macros-1d5648ee855e2579.so
+/usr/lib/libtracing_attributes-386d679ff508cab3.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libtracing_attributes-386d679ff508cab3.so
+/usr/lib/libunic_langid_macros_impl-4a352d8737274a02.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libunic_langid_macros_impl-4a352d8737274a02.so
+/usr/lib/libyoke_derive-e0ed898a3e81e42c.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libyoke_derive-e0ed898a3e81e42c.so
+/usr/lib/libzerocopy_derive-b41e1667d9902c7b.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libzerocopy_derive-b41e1667d9902c7b.so
+/usr/lib/libzerofrom_derive-ec218eb161d2cb1e.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libzerofrom_derive-ec218eb161d2cb1e.so
+/usr/lib/libzerovec_derive-8273450d8602048b.so -> /usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libzerovec_derive-8273450d8602048b.so
+/usr/libexec/rust-analyzer-proc-macro-srv
+/usr/share/licenses/rust/COPYRIGHT
+/usr/share/licenses/rust/LICENSE-APACHE
+/usr/share/licenses/rust/LICENSE-MIT
+/usr/share/man/man1/rustc.1
+/usr/share/man/man1/rustdoc.1
+/usr/share/rust/gdb_load_rust_pretty_printers.py
+/usr/share/rust/gdb_lookup.py
+/usr/share/rust/gdb_providers.py
+/usr/share/rust/lldb_commands
+/usr/share/rust/lldb_lookup.py
+/usr/share/rust/lldb_providers.py
+/usr/share/rust/rust_types.py

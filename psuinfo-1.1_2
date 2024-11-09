@@ -1,0 +1,16 @@
+/usr/bin/psuinfo
+/usr/share/psuinfo/cpu.svg
+/usr/share/psuinfo/fan.svg
+/usr/share/psuinfo/hdd.svg
+/usr/share/psuinfo/mem.svg
+/usr/share/psuinfo/net.svg
+/usr/share/psuinfo/swap.svg
+/usr/share/psuinfo/temp.svg
+/usr/share/psuinfo/up.svg
+/usr/share/psuinfo/xfer-b.svg
+/usr/share/psuinfo/xfer-d.svg
+/usr/share/psuinfo/xfer-u.svg
+/usr/share/psuinfo/xfer.svg
+/usr/share/tint2/psuinfo-bottom-icons.tint2rc
+/usr/share/tint2/psuinfo-bottom-text-single.tint2rc
+/usr/share/tint2/psuinfo-bottom-text.tint2rc

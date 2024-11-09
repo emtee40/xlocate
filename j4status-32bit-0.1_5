@@ -1,0 +1,11 @@
+/usr/lib32/j4status/plugins/debug.so
+/usr/lib32/j4status/plugins/file-monitor.so
+/usr/lib32/j4status/plugins/flat.so
+/usr/lib32/j4status/plugins/i3bar.so
+/usr/lib32/j4status/plugins/mpd.so
+/usr/lib32/j4status/plugins/pulseaudio.so
+/usr/lib32/j4status/plugins/sensors.so
+/usr/lib32/j4status/plugins/time.so
+/usr/lib32/j4status/plugins/upower.so
+/usr/lib32/libj4status-plugin.so.0 -> /usr/lib32/libj4status-plugin.so.0.0.0
+/usr/lib32/libj4status-plugin.so.0.0.0

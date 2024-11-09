@@ -1,0 +1,7 @@
+/usr/bin/cllayerinfo
+/usr/lib/libOpenCL.so -> /usr/lib/libOpenCL.so.1.0.0
+/usr/lib/libOpenCL.so.1 -> /usr/lib/libOpenCL.so.1.0.0
+/usr/lib/libOpenCL.so.1.0.0
+/usr/share/licenses/ocl-icd/COPYING
+/usr/share/man/man7/libOpenCL.7
+/usr/share/man/man7/libOpenCL.so.7

@@ -1,0 +1,123 @@
+/usr/lib32/ecore/system/upower/v-1.26/module.so
+/usr/lib32/ecore_evas/engines/drm/v-1.26/module.so
+/usr/lib32/ecore_evas/engines/extn/v-1.26/module.so
+/usr/lib32/ecore_evas/engines/wayland/v-1.26/module.so
+/usr/lib32/ecore_evas/engines/x/v-1.26/module.so
+/usr/lib32/ecore_imf/modules/ibus/v-1.26/module.so
+/usr/lib32/ecore_imf/modules/wayland/v-1.26/module.so
+/usr/lib32/ecore_imf/modules/xim/v-1.26/module.so
+/usr/lib32/ecore_wl2/engines/dmabuf/v-1.26/module.so
+/usr/lib32/edje/modules/elm/v-1.26/module.so
+/usr/lib32/edje/modules/emotion/v-1.26/module.so
+/usr/lib32/eeze/modules/sensor/fake/v-1.26/module.so
+/usr/lib32/eeze/modules/sensor/udev/v-1.26/module.so
+/usr/lib32/elementary/modules/access_output/v-1.26/module.so
+/usr/lib32/elementary/modules/prefs/v-1.26/module.so
+/usr/lib32/elementary/modules/test_entry/v-1.26/module.so
+/usr/lib32/elementary/modules/test_map/v-1.26/module.so
+/usr/lib32/elementary/modules/web/none/v-1.26/module.so
+/usr/lib32/emotion/modules/gstreamer1/v-1.26/module.so
+/usr/lib32/ethumb/modules/emotion/v-1.26/module.so
+/usr/lib32/evas/modules/engines/buffer/v-1.26/module.so
+/usr/lib32/evas/modules/engines/drm/v-1.26/module.so
+/usr/lib32/evas/modules/engines/gl_drm/v-1.26/module.so
+/usr/lib32/evas/modules/engines/gl_generic/v-1.26/module.so
+/usr/lib32/evas/modules/engines/gl_x11/v-1.26/module.so
+/usr/lib32/evas/modules/engines/software_x11/v-1.26/module.so
+/usr/lib32/evas/modules/engines/wayland_egl/v-1.26/module.so
+/usr/lib32/evas/modules/engines/wayland_shm/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/avif/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/bmp/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/generic/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/gif/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/heif/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/ico/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/jp2k/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/pmaps/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/psd/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/tga/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/tgv/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/tiff/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/wbmp/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/webp/v-1.26/module.so
+/usr/lib32/evas/modules/image_loaders/xpm/v-1.26/module.so
+/usr/lib32/evas/modules/image_savers/avif/v-1.26/module.so
+/usr/lib32/evas/modules/image_savers/tgv/v-1.26/module.so
+/usr/lib32/evas/modules/image_savers/tiff/v-1.26/module.so
+/usr/lib32/evas/modules/image_savers/webp/v-1.26/module.so
+/usr/lib32/libecore.so.1 -> /usr/lib32/libecore.so.1.26.2
+/usr/lib32/libecore.so.1.26.2
+/usr/lib32/libecore_audio.so.1 -> /usr/lib32/libecore_audio.so.1.26.2
+/usr/lib32/libecore_audio.so.1.26.2
+/usr/lib32/libecore_con.so.1 -> /usr/lib32/libecore_con.so.1.26.2
+/usr/lib32/libecore_con.so.1.26.2
+/usr/lib32/libecore_drm2.so.1 -> /usr/lib32/libecore_drm2.so.1.26.2
+/usr/lib32/libecore_drm2.so.1.26.2
+/usr/lib32/libecore_evas.so.1 -> /usr/lib32/libecore_evas.so.1.26.2
+/usr/lib32/libecore_evas.so.1.26.2
+/usr/lib32/libecore_file.so.1 -> /usr/lib32/libecore_file.so.1.26.2
+/usr/lib32/libecore_file.so.1.26.2
+/usr/lib32/libecore_imf.so.1 -> /usr/lib32/libecore_imf.so.1.26.2
+/usr/lib32/libecore_imf.so.1.26.2
+/usr/lib32/libecore_imf_evas.so.1 -> /usr/lib32/libecore_imf_evas.so.1.26.2
+/usr/lib32/libecore_imf_evas.so.1.26.2
+/usr/lib32/libecore_input.so.1 -> /usr/lib32/libecore_input.so.1.26.2
+/usr/lib32/libecore_input.so.1.26.2
+/usr/lib32/libecore_input_evas.so.1 -> /usr/lib32/libecore_input_evas.so.1.26.2
+/usr/lib32/libecore_input_evas.so.1.26.2
+/usr/lib32/libecore_ipc.so.1 -> /usr/lib32/libecore_ipc.so.1.26.2
+/usr/lib32/libecore_ipc.so.1.26.2
+/usr/lib32/libecore_wl2.so.1 -> /usr/lib32/libecore_wl2.so.1.26.2
+/usr/lib32/libecore_wl2.so.1.26.2
+/usr/lib32/libecore_x.so.1 -> /usr/lib32/libecore_x.so.1.26.2
+/usr/lib32/libecore_x.so.1.26.2
+/usr/lib32/libector.so.1 -> /usr/lib32/libector.so.1.26.2
+/usr/lib32/libector.so.1.26.2
+/usr/lib32/libedje.so.1 -> /usr/lib32/libedje.so.1.26.2
+/usr/lib32/libedje.so.1.26.2
+/usr/lib32/libeet.so.1 -> /usr/lib32/libeet.so.1.26.2
+/usr/lib32/libeet.so.1.26.2
+/usr/lib32/libeeze.so.1 -> /usr/lib32/libeeze.so.1.26.2
+/usr/lib32/libeeze.so.1.26.2
+/usr/lib32/libefl.so.1 -> /usr/lib32/libefl.so.1.26.2
+/usr/lib32/libefl.so.1.26.2
+/usr/lib32/libefl_canvas_wl.so.1 -> /usr/lib32/libefl_canvas_wl.so.1.26.2
+/usr/lib32/libefl_canvas_wl.so.1.26.2
+/usr/lib32/libefreet.so.1 -> /usr/lib32/libefreet.so.1.26.2
+/usr/lib32/libefreet.so.1.26.2
+/usr/lib32/libefreet_mime.so.1 -> /usr/lib32/libefreet_mime.so.1.26.2
+/usr/lib32/libefreet_mime.so.1.26.2
+/usr/lib32/libefreet_trash.so.1 -> /usr/lib32/libefreet_trash.so.1.26.2
+/usr/lib32/libefreet_trash.so.1.26.2
+/usr/lib32/libeina.so.1 -> /usr/lib32/libeina.so.1.26.2
+/usr/lib32/libeina.so.1.26.2
+/usr/lib32/libeio.so.1 -> /usr/lib32/libeio.so.1.26.2
+/usr/lib32/libeio.so.1.26.2
+/usr/lib32/libeldbus.so.1 -> /usr/lib32/libeldbus.so.1.26.2
+/usr/lib32/libeldbus.so.1.26.2
+/usr/lib32/libelementary.so.1 -> /usr/lib32/libelementary.so.1.26.2
+/usr/lib32/libelementary.so.1.26.2
+/usr/lib32/libelput.so.1 -> /usr/lib32/libelput.so.1.26.2
+/usr/lib32/libelput.so.1.26.2
+/usr/lib32/libembryo.so.1 -> /usr/lib32/libembryo.so.1.26.2
+/usr/lib32/libembryo.so.1.26.2
+/usr/lib32/libemile.so.1 -> /usr/lib32/libemile.so.1.26.2
+/usr/lib32/libemile.so.1.26.2
+/usr/lib32/libemotion.so.1 -> /usr/lib32/libemotion.so.1.26.2
+/usr/lib32/libemotion.so.1.26.2
+/usr/lib32/libeo.so.1 -> /usr/lib32/libeo.so.1.26.2
+/usr/lib32/libeo.so.1.26.2
+/usr/lib32/libeo_dbg.so.1 -> /usr/lib32/libeo_dbg.so.1.26.2
+/usr/lib32/libeo_dbg.so.1.26.2
+/usr/lib32/libeolian.so.1 -> /usr/lib32/libeolian.so.1.26.2
+/usr/lib32/libeolian.so.1.26.2
+/usr/lib32/libethumb.so.1 -> /usr/lib32/libethumb.so.1.26.2
+/usr/lib32/libethumb.so.1.26.2
+/usr/lib32/libethumb_client.so.1 -> /usr/lib32/libethumb_client.so.1.26.2
+/usr/lib32/libethumb_client.so.1.26.2
+/usr/lib32/libevas.so.1 -> /usr/lib32/libevas.so.1.26.2
+/usr/lib32/libevas.so.1.26.2
+/usr/lib32/libexactness_play.so.1 -> /usr/lib32/libexactness_play.so.1.26.2
+/usr/lib32/libexactness_play.so.1.26.2
+/usr/lib32/libexactness_record.so.1 -> /usr/lib32/libexactness_record.so.1.26.2
+/usr/lib32/libexactness_record.so.1.26.2

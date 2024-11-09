@@ -1,0 +1,15 @@
+/usr/bin/enchant-2
+/usr/bin/enchant-lsmod-2
+/usr/lib/enchant-2/enchant_aspell.so
+/usr/lib/enchant-2/enchant_hunspell.so
+/usr/lib/enchant-2/enchant_nuspell.so
+/usr/lib/enchant-2/enchant_voikko.so
+/usr/lib/libenchant-2.so.2 -> /usr/lib/libenchant-2.so.2.6.4
+/usr/lib/libenchant-2.so.2.6.4
+/usr/share/doc/enchant/enchant-2.html
+/usr/share/doc/enchant/enchant-lsmod-2.html
+/usr/share/doc/enchant/enchant.html
+/usr/share/enchant-2/enchant.ordering
+/usr/share/man/man1/enchant-2.1
+/usr/share/man/man1/enchant-lsmod-2.1
+/usr/share/man/man5/enchant.5

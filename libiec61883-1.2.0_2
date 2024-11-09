@@ -1,0 +1,6 @@
+/usr/bin/plugctl
+/usr/bin/plugreport
+/usr/lib/libiec61883.so.0 -> /usr/lib/libiec61883.so.0.1.1
+/usr/lib/libiec61883.so.0.1.1
+/usr/share/man/man1/plugctl.1
+/usr/share/man/man1/plugreport.1

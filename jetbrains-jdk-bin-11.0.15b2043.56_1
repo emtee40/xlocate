@@ -1,0 +1,439 @@
+/etc/profile.d/10_jbrsdk.sh
+/usr/lib/jvm/jbrsdk/bin/jaotc
+/usr/lib/jvm/jbrsdk/bin/java
+/usr/lib/jvm/jbrsdk/bin/javac
+/usr/lib/jvm/jbrsdk/bin/jcmd
+/usr/lib/jvm/jbrsdk/bin/jdb
+/usr/lib/jvm/jbrsdk/bin/jfr
+/usr/lib/jvm/jbrsdk/bin/jhsdb
+/usr/lib/jvm/jbrsdk/bin/jinfo
+/usr/lib/jvm/jbrsdk/bin/jjs
+/usr/lib/jvm/jbrsdk/bin/jmap
+/usr/lib/jvm/jbrsdk/bin/jps
+/usr/lib/jvm/jbrsdk/bin/jrunscript
+/usr/lib/jvm/jbrsdk/bin/jstack
+/usr/lib/jvm/jbrsdk/bin/jstat
+/usr/lib/jvm/jbrsdk/bin/keytool
+/usr/lib/jvm/jbrsdk/bin/pack200
+/usr/lib/jvm/jbrsdk/bin/rmid
+/usr/lib/jvm/jbrsdk/bin/rmiregistry
+/usr/lib/jvm/jbrsdk/bin/serialver
+/usr/lib/jvm/jbrsdk/bin/unpack200
+/usr/lib/jvm/jbrsdk/conf/logging.properties
+/usr/lib/jvm/jbrsdk/conf/management/jmxremote.access
+/usr/lib/jvm/jbrsdk/conf/management/jmxremote.password.template
+/usr/lib/jvm/jbrsdk/conf/management/management.properties
+/usr/lib/jvm/jbrsdk/conf/net.properties
+/usr/lib/jvm/jbrsdk/conf/security/java.policy
+/usr/lib/jvm/jbrsdk/conf/security/java.security
+/usr/lib/jvm/jbrsdk/conf/security/policy/README.txt
+/usr/lib/jvm/jbrsdk/conf/security/policy/limited/default_US_export.policy
+/usr/lib/jvm/jbrsdk/conf/security/policy/limited/default_local.policy
+/usr/lib/jvm/jbrsdk/conf/security/policy/limited/exempt_local.policy
+/usr/lib/jvm/jbrsdk/conf/security/policy/unlimited/default_US_export.policy
+/usr/lib/jvm/jbrsdk/conf/security/policy/unlimited/default_local.policy
+/usr/lib/jvm/jbrsdk/conf/sound.properties
+/usr/lib/jvm/jbrsdk/include/classfile_constants.h
+/usr/lib/jvm/jbrsdk/include/jawt.h
+/usr/lib/jvm/jbrsdk/include/jdwpTransport.h
+/usr/lib/jvm/jbrsdk/include/jni.h
+/usr/lib/jvm/jbrsdk/include/jvmti.h
+/usr/lib/jvm/jbrsdk/include/jvmticmlr.h
+/usr/lib/jvm/jbrsdk/include/linux/jawt_md.h
+/usr/lib/jvm/jbrsdk/include/linux/jni_md.h
+/usr/lib/jvm/jbrsdk/legal/gluegen.rt/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/gluegen.rt/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/gluegen.rt/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.base/aes.md
+/usr/lib/jvm/jbrsdk/legal/java.base/asm.md
+/usr/lib/jvm/jbrsdk/legal/java.base/c-libutl.md
+/usr/lib/jvm/jbrsdk/legal/java.base/cldr.md
+/usr/lib/jvm/jbrsdk/legal/java.base/icu.md
+/usr/lib/jvm/jbrsdk/legal/java.base/public_suffix.md
+/usr/lib/jvm/jbrsdk/legal/java.base/unicode.md
+/usr/lib/jvm/jbrsdk/legal/java.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.compiler/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.datatransfer/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.datatransfer/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.desktop/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.desktop/colorimaging.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/giflib.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/harfbuzz.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/jpeg.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/lcms.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/libpng.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/mesa3d.md
+/usr/lib/jvm/jbrsdk/legal/java.desktop/xwd.md
+/usr/lib/jvm/jbrsdk/legal/java.instrument/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.instrument/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.instrument/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.logging/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.logging/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.logging/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.management.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.management.rmi/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.management/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.naming/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.naming/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.naming/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.net.http/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.net.http/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.net.http/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.prefs/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.prefs/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.prefs/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.rmi/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.scripting/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.scripting/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.scripting/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.se/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.se/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.se/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.security.jgss/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.security.sasl/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.security.sasl/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.smartcardio/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.smartcardio/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.smartcardio/pcsclite.md
+/usr/lib/jvm/jbrsdk/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.sql.rowset/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.sql.rowset/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.sql/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.sql/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.sql/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.transaction.xa/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.transaction.xa/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.xml.crypto/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.xml.crypto/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.xml.crypto/santuario.md
+/usr/lib/jvm/jbrsdk/legal/java.xml/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/java.xml/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/java.xml/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/java.xml/bcel.md
+/usr/lib/jvm/jbrsdk/legal/java.xml/dom.md
+/usr/lib/jvm/jbrsdk/legal/java.xml/jcup.md
+/usr/lib/jvm/jbrsdk/legal/java.xml/xalan.md
+/usr/lib/jvm/jbrsdk/legal/java.xml/xerces.md
+/usr/lib/jvm/jbrsdk/legal/jcef/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jcef/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jcef/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.accessibility/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.accessibility/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.aot/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.aot/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.aot/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.attach/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.attach/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.attach/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.charsets/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.charsets/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.compiler/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.cryptoki/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.cryptoki/pkcs11wrapper.md
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.ec/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.crypto.ec/ecc.md
+/usr/lib/jvm/jbrsdk/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.dynalink/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.dynalink/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.dynalink/dynalink.md
+/usr/lib/jvm/jbrsdk/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.hotspot.agent/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.httpserver/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.httpserver/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.ed/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.jvmstat/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.le/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.le/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.le/jline.md
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.ci/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler.management/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.internal.vm.compiler/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.jcmd/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.jcmd/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.jdi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.jdi/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.jdwp.agent/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.jfr/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.jsobject/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.jsobject/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.localedata/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.localedata/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.localedata/cldr.md -> /usr/lib/jvm/jbrsdk/legal/java.base/cldr.md
+/usr/lib/jvm/jbrsdk/legal/jdk.localedata/thaidict.md
+/usr/lib/jvm/jbrsdk/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.management.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.management.agent/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.management.jfr/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.management/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.dns/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.naming.rmi/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.net/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.net/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.net/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.pack/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.pack/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.pack/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn.shell/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn.shell/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn.shell/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn/double-conversion.md
+/usr/lib/jvm/jbrsdk/legal/jdk.scripting.nashorn/joni.md
+/usr/lib/jvm/jbrsdk/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.sctp/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.sctp/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.security.auth/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.security.auth/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.security.jgss/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported.desktop/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.unsupported/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.xml.dom/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jdk.zipfs/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jdk.zipfs/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/legal/jogl.all/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/jbrsdk/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/jbrsdk/legal/jogl.all/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/jbrsdk/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/jbrsdk/legal/jogl.all/LICENSE -> /usr/lib/jvm/jbrsdk/legal/java.base/LICENSE
+/usr/lib/jvm/jbrsdk/lib/chrome-sandbox
+/usr/lib/jvm/jbrsdk/lib/chrome_100_percent.pak
+/usr/lib/jvm/jbrsdk/lib/chrome_200_percent.pak
+/usr/lib/jvm/jbrsdk/lib/classlist
+/usr/lib/jvm/jbrsdk/lib/ct.sym
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSans-Bold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSans.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSansMono.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSansMonoDotted.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSansMonoSlashed.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSerif-Bold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSerif-BoldItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSerif-Italic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/DroidSerif-Regular.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/FiraCode-Bold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/FiraCode-Light.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/FiraCode-Medium.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/FiraCode-Regular.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/FiraCode-Retina.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/Inconsolata.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/Inter-Bold.otf
+/usr/lib/jvm/jbrsdk/lib/fonts/Inter-BoldItalic.otf
+/usr/lib/jvm/jbrsdk/lib/fonts/Inter-Italic.otf
+/usr/lib/jvm/jbrsdk/lib/fonts/Inter-Regular.otf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Bold-Italic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Bold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-BoldItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-ExtraBold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-ExtraBoldItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-ExtraLight.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-ExtraLightItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Italic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Light.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-LightItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Medium.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-MediumItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Regular.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-Thin.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/JetBrainsMono-ThinItalic.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/Roboto-Light.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/Roboto-Thin.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/SourceCodePro-Bold.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/SourceCodePro-BoldIt.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/SourceCodePro-It.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/SourceCodePro-Regular.ttf
+/usr/lib/jvm/jbrsdk/lib/fonts/font.conf
+/usr/lib/jvm/jbrsdk/lib/fonts/fonts.dir
+/usr/lib/jvm/jbrsdk/lib/icudtl.dat
+/usr/lib/jvm/jbrsdk/lib/jcef_helper
+/usr/lib/jvm/jbrsdk/lib/jexec
+/usr/lib/jvm/jbrsdk/lib/jfr/default.jfc
+/usr/lib/jvm/jbrsdk/lib/jfr/profile.jfc
+/usr/lib/jvm/jbrsdk/lib/jli/libjli.so
+/usr/lib/jvm/jbrsdk/lib/jrt-fs.jar
+/usr/lib/jvm/jbrsdk/lib/jspawnhelper
+/usr/lib/jvm/jbrsdk/lib/jvm.cfg
+/usr/lib/jvm/jbrsdk/lib/libEGL.so
+/usr/lib/jvm/jbrsdk/lib/libGLESv2.so
+/usr/lib/jvm/jbrsdk/lib/libattach.so
+/usr/lib/jvm/jbrsdk/lib/libawt.so
+/usr/lib/jvm/jbrsdk/lib/libawt_headless.so
+/usr/lib/jvm/jbrsdk/lib/libawt_xawt.so
+/usr/lib/jvm/jbrsdk/lib/libcef.so
+/usr/lib/jvm/jbrsdk/lib/libdt_socket.so
+/usr/lib/jvm/jbrsdk/lib/libextnet.so
+/usr/lib/jvm/jbrsdk/lib/libfontmanager.so
+/usr/lib/jvm/jbrsdk/lib/libgluegen_rt.so
+/usr/lib/jvm/jbrsdk/lib/libinstrument.so
+/usr/lib/jvm/jbrsdk/lib/libj2gss.so
+/usr/lib/jvm/jbrsdk/lib/libj2pcsc.so
+/usr/lib/jvm/jbrsdk/lib/libj2pkcs11.so
+/usr/lib/jvm/jbrsdk/lib/libjaas.so
+/usr/lib/jvm/jbrsdk/lib/libjava.so
+/usr/lib/jvm/jbrsdk/lib/libjavajpeg.so
+/usr/lib/jvm/jbrsdk/lib/libjawt.so
+/usr/lib/jvm/jbrsdk/lib/libjcef.so
+/usr/lib/jvm/jbrsdk/lib/libjdwp.so
+/usr/lib/jvm/jbrsdk/lib/libjimage.so
+/usr/lib/jvm/jbrsdk/lib/libjogl_desktop.so
+/usr/lib/jvm/jbrsdk/lib/libjogl_mobile.so
+/usr/lib/jvm/jbrsdk/lib/libjsig.so
+/usr/lib/jvm/jbrsdk/lib/libjsound.so
+/usr/lib/jvm/jbrsdk/lib/liblcms.so
+/usr/lib/jvm/jbrsdk/lib/libmanagement.so
+/usr/lib/jvm/jbrsdk/lib/libmanagement_agent.so
+/usr/lib/jvm/jbrsdk/lib/libmanagement_ext.so
+/usr/lib/jvm/jbrsdk/lib/libmlib_image.so
+/usr/lib/jvm/jbrsdk/lib/libnativewindow_awt.so
+/usr/lib/jvm/jbrsdk/lib/libnativewindow_drm.so
+/usr/lib/jvm/jbrsdk/lib/libnativewindow_x11.so
+/usr/lib/jvm/jbrsdk/lib/libnet.so
+/usr/lib/jvm/jbrsdk/lib/libnewt_drm.so
+/usr/lib/jvm/jbrsdk/lib/libnewt_head.so
+/usr/lib/jvm/jbrsdk/lib/libnio.so
+/usr/lib/jvm/jbrsdk/lib/libprefs.so
+/usr/lib/jvm/jbrsdk/lib/librmi.so
+/usr/lib/jvm/jbrsdk/lib/libsaproc.so
+/usr/lib/jvm/jbrsdk/lib/libsctp.so
+/usr/lib/jvm/jbrsdk/lib/libsplashscreen.so
+/usr/lib/jvm/jbrsdk/lib/libsunec.so
+/usr/lib/jvm/jbrsdk/lib/libunpack.so
+/usr/lib/jvm/jbrsdk/lib/libverify.so
+/usr/lib/jvm/jbrsdk/lib/libvk_swiftshader.so
+/usr/lib/jvm/jbrsdk/lib/libvulkan.so.1
+/usr/lib/jvm/jbrsdk/lib/libzip.so
+/usr/lib/jvm/jbrsdk/lib/locales/am.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ar.pak
+/usr/lib/jvm/jbrsdk/lib/locales/bg.pak
+/usr/lib/jvm/jbrsdk/lib/locales/bn.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ca.pak
+/usr/lib/jvm/jbrsdk/lib/locales/cs.pak
+/usr/lib/jvm/jbrsdk/lib/locales/da.pak
+/usr/lib/jvm/jbrsdk/lib/locales/de.pak
+/usr/lib/jvm/jbrsdk/lib/locales/el.pak
+/usr/lib/jvm/jbrsdk/lib/locales/en-GB.pak
+/usr/lib/jvm/jbrsdk/lib/locales/en-US.pak
+/usr/lib/jvm/jbrsdk/lib/locales/es-419.pak
+/usr/lib/jvm/jbrsdk/lib/locales/es.pak
+/usr/lib/jvm/jbrsdk/lib/locales/et.pak
+/usr/lib/jvm/jbrsdk/lib/locales/fa.pak
+/usr/lib/jvm/jbrsdk/lib/locales/fi.pak
+/usr/lib/jvm/jbrsdk/lib/locales/fil.pak
+/usr/lib/jvm/jbrsdk/lib/locales/fr.pak
+/usr/lib/jvm/jbrsdk/lib/locales/gu.pak
+/usr/lib/jvm/jbrsdk/lib/locales/he.pak
+/usr/lib/jvm/jbrsdk/lib/locales/hi.pak
+/usr/lib/jvm/jbrsdk/lib/locales/hr.pak
+/usr/lib/jvm/jbrsdk/lib/locales/hu.pak
+/usr/lib/jvm/jbrsdk/lib/locales/id.pak
+/usr/lib/jvm/jbrsdk/lib/locales/it.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ja.pak
+/usr/lib/jvm/jbrsdk/lib/locales/kn.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ko.pak
+/usr/lib/jvm/jbrsdk/lib/locales/lt.pak
+/usr/lib/jvm/jbrsdk/lib/locales/lv.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ml.pak
+/usr/lib/jvm/jbrsdk/lib/locales/mr.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ms.pak
+/usr/lib/jvm/jbrsdk/lib/locales/nb.pak
+/usr/lib/jvm/jbrsdk/lib/locales/nl.pak
+/usr/lib/jvm/jbrsdk/lib/locales/pl.pak
+/usr/lib/jvm/jbrsdk/lib/locales/pt-BR.pak
+/usr/lib/jvm/jbrsdk/lib/locales/pt-PT.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ro.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ru.pak
+/usr/lib/jvm/jbrsdk/lib/locales/sk.pak
+/usr/lib/jvm/jbrsdk/lib/locales/sl.pak
+/usr/lib/jvm/jbrsdk/lib/locales/sr.pak
+/usr/lib/jvm/jbrsdk/lib/locales/sv.pak
+/usr/lib/jvm/jbrsdk/lib/locales/sw.pak
+/usr/lib/jvm/jbrsdk/lib/locales/ta.pak
+/usr/lib/jvm/jbrsdk/lib/locales/te.pak
+/usr/lib/jvm/jbrsdk/lib/locales/th.pak
+/usr/lib/jvm/jbrsdk/lib/locales/tr.pak
+/usr/lib/jvm/jbrsdk/lib/locales/uk.pak
+/usr/lib/jvm/jbrsdk/lib/locales/vi.pak
+/usr/lib/jvm/jbrsdk/lib/locales/zh-CN.pak
+/usr/lib/jvm/jbrsdk/lib/locales/zh-TW.pak
+/usr/lib/jvm/jbrsdk/lib/modules
+/usr/lib/jvm/jbrsdk/lib/psfont.properties.ja
+/usr/lib/jvm/jbrsdk/lib/psfontj2d.properties
+/usr/lib/jvm/jbrsdk/lib/resources.pak
+/usr/lib/jvm/jbrsdk/lib/security/blocked.certs
+/usr/lib/jvm/jbrsdk/lib/security/cacerts
+/usr/lib/jvm/jbrsdk/lib/security/default.policy
+/usr/lib/jvm/jbrsdk/lib/security/public_suffix_list.dat
+/usr/lib/jvm/jbrsdk/lib/server/Xusage.txt
+/usr/lib/jvm/jbrsdk/lib/server/libjsig.so
+/usr/lib/jvm/jbrsdk/lib/server/libjvm.so
+/usr/lib/jvm/jbrsdk/lib/snapshot_blob.bin
+/usr/lib/jvm/jbrsdk/lib/swiftshader/libEGL.so
+/usr/lib/jvm/jbrsdk/lib/swiftshader/libGLESv2.so
+/usr/lib/jvm/jbrsdk/lib/tzdb.dat
+/usr/lib/jvm/jbrsdk/lib/v8_context_snapshot.bin
+/usr/lib/jvm/jbrsdk/lib/vk_swiftshader_icd.json
+/usr/lib/jvm/jbrsdk/release

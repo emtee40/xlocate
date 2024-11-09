@@ -1,0 +1,9 @@
+/usr/lib/libwayland-client.so.0 -> /usr/lib/libwayland-client.so.0.23.0
+/usr/lib/libwayland-client.so.0.23.0
+/usr/lib/libwayland-cursor.so.0 -> /usr/lib/libwayland-cursor.so.0.23.0
+/usr/lib/libwayland-cursor.so.0.23.0
+/usr/lib/libwayland-egl.so.1 -> /usr/lib/libwayland-egl.so.1.23.0
+/usr/lib/libwayland-egl.so.1.23.0
+/usr/lib/libwayland-server.so.0 -> /usr/lib/libwayland-server.so.0.23.0
+/usr/lib/libwayland-server.so.0.23.0
+/usr/share/licenses/wayland/COPYING

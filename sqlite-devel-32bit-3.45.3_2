@@ -1,0 +1,3 @@
+/usr/lib32/libsqlite3.a
+/usr/lib32/libsqlite3.so -> /usr/lib32/libsqlite3.so.0.8.6
+/usr/lib32/pkgconfig/sqlite3.pc

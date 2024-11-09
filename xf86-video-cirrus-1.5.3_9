@@ -1,0 +1,5 @@
+/usr/lib/xorg/modules/drivers/cirrus_alpine.so
+/usr/lib/xorg/modules/drivers/cirrus_drv.so
+/usr/lib/xorg/modules/drivers/cirrus_laguna.so
+/usr/share/licenses/xf86-video-cirrus/COPYING
+/usr/share/man/man4/cirrus.4

@@ -1,0 +1,5 @@
+/usr/include/rtmidi/RtMidi.h
+/usr/include/rtmidi/rtmidi_c.h
+/usr/lib/librtmidi.a
+/usr/lib/librtmidi.so -> /usr/lib/librtmidi.so.7.0.0
+/usr/lib/pkgconfig/rtmidi.pc

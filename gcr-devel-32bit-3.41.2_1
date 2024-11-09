@@ -1,0 +1,7 @@
+/usr/lib32/libgck-1.so -> /usr/lib32/libgck-1.so.0
+/usr/lib32/libgcr-base-3.so -> /usr/lib32/libgcr-base-3.so.1
+/usr/lib32/libgcr-ui-3.so -> /usr/lib32/libgcr-ui-3.so.1
+/usr/lib32/pkgconfig/gck-1.pc
+/usr/lib32/pkgconfig/gcr-3.pc
+/usr/lib32/pkgconfig/gcr-base-3.pc
+/usr/lib32/pkgconfig/gcr-ui-3.pc

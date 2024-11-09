@@ -1,0 +1,6 @@
+/usr/lib32/libbreezecommon5.so.5 -> /usr/lib32/libbreezecommon5.so.5.27.10
+/usr/lib32/libbreezecommon5.so.5.27.10
+/usr/lib32/qt5/plugins/org.kde.kdecoration2/breezedecoration.so
+/usr/lib32/qt5/plugins/plasma/kcms/breeze/kcm_breezedecoration.so
+/usr/lib32/qt5/plugins/plasma/kcms/systemsettings_qwidgets/breezestyleconfig.so
+/usr/lib32/qt5/plugins/styles/breeze.so

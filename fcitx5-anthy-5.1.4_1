@@ -1,0 +1,49 @@
+/usr/lib/fcitx5/libanthy.so
+/usr/share/fcitx5/addon/anthy.conf
+/usr/share/fcitx5/anthy/101kana.sty
+/usr/share/fcitx5/anthy/atok.sty
+/usr/share/fcitx5/anthy/azik.sty
+/usr/share/fcitx5/anthy/canna.sty
+/usr/share/fcitx5/anthy/msime.sty
+/usr/share/fcitx5/anthy/nicola-a.sty
+/usr/share/fcitx5/anthy/nicola-f.sty
+/usr/share/fcitx5/anthy/nicola-j.sty
+/usr/share/fcitx5/anthy/oasys100j.sty
+/usr/share/fcitx5/anthy/qkana.sty
+/usr/share/fcitx5/anthy/tron-dvorak.sty
+/usr/share/fcitx5/anthy/tron-qwerty-jp.sty
+/usr/share/fcitx5/anthy/tsuki-2-203-101.sty
+/usr/share/fcitx5/anthy/tsuki-2-203-106.sty
+/usr/share/fcitx5/anthy/vje-delta.sty
+/usr/share/fcitx5/anthy/wnn.sty
+/usr/share/fcitx5/inputmethod/anthy.conf
+/usr/share/icons/hicolor/16x16/apps/fcitx-anthy.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-anthy.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/22x22/status/fcitx-anthy-symbol.png -> /usr/share/icons/hicolor/22x22/status/org.fcitx.Fcitx5.fcitx-anthy-symbol.png
+/usr/share/icons/hicolor/22x22/status/org.fcitx.Fcitx5.fcitx-anthy-symbol.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-anthy.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-anthy.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-anthy.png
+/usr/share/icons/hicolor/scalable/status/fcitx-anthy-period-japanese.svg -> /usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-japanese.svg
+/usr/share/icons/hicolor/scalable/status/fcitx-anthy-period-latin.svg -> /usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-latin.svg
+/usr/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-japanese.svg -> /usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-wide-japanese.svg
+/usr/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-latin.svg -> /usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-wide-latin.svg
+/usr/share/icons/hicolor/scalable/status/fcitx-anthy-symbol.svg -> /usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-symbol.svg
+/usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-japanese.svg
+/usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-latin.svg
+/usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-wide-japanese.svg
+/usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-period-wide-latin.svg
+/usr/share/icons/hicolor/scalable/status/org.fcitx.Fcitx5.fcitx-anthy-symbol.svg
+/usr/share/locale/ca/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/he/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-anthy.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.Anthy.metainfo.xml

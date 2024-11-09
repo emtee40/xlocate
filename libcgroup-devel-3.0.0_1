@@ -1,0 +1,11 @@
+/usr/include/libcgroup.h
+/usr/include/libcgroup/config.h
+/usr/include/libcgroup/error.h
+/usr/include/libcgroup/groups.h
+/usr/include/libcgroup/init.h
+/usr/include/libcgroup/iterators.h
+/usr/include/libcgroup/log.h
+/usr/include/libcgroup/tasks.h
+/usr/include/libcgroup/tools.h
+/usr/lib/libcgroup.so -> /usr/lib/libcgroup.so.3.0.0
+/usr/lib/pkgconfig/libcgroup.pc

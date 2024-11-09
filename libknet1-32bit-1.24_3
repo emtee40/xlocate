@@ -1,0 +1,11 @@
+/usr/lib32/kronosnet/compress_bzip2.so
+/usr/lib32/kronosnet/compress_lz4.so
+/usr/lib32/kronosnet/compress_lz4hc.so
+/usr/lib32/kronosnet/compress_lzma.so
+/usr/lib32/kronosnet/compress_lzo2.so
+/usr/lib32/kronosnet/compress_zlib.so
+/usr/lib32/kronosnet/compress_zstd.so
+/usr/lib32/kronosnet/crypto_nss.so
+/usr/lib32/kronosnet/crypto_openssl.so
+/usr/lib32/libknet.so.1 -> /usr/lib32/libknet.so.1.4.0
+/usr/lib32/libknet.so.1.4.0

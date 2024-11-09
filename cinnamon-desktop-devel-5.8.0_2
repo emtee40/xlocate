@@ -1,0 +1,29 @@
+/usr/include/cinnamon-desktop/libcinnamon-desktop/cdesktop-enums.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-bg-crossfade.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-bg.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-desktop-thumbnail.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-desktop-utils.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-installer.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-pnp-ids.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-rr-config.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-rr-labeler.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-rr.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-wall-clock.h
+/usr/include/cinnamon-desktop/libcinnamon-desktop/gnome-xkb-info.h
+/usr/include/cinnamon-desktop/libcvc/gvc-channel-map.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-card.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-control.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-event-role.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-sink-input.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-sink.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-source-output.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-source.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-stream.h
+/usr/include/cinnamon-desktop/libcvc/gvc-mixer-ui-device.h
+/usr/lib/libcinnamon-desktop.so -> /usr/lib/libcinnamon-desktop.so.4
+/usr/lib/libcvc.so -> /usr/lib/libcvc.so.0
+/usr/lib/pkgconfig/cinnamon-desktop.pc
+/usr/lib/pkgconfig/cvc.pc
+/usr/share/gir-1.0/CDesktopEnums-3.0.gir
+/usr/share/gir-1.0/CinnamonDesktop-3.0.gir
+/usr/share/gir-1.0/Cvc-1.0.gir

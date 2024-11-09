@@ -1,0 +1,10 @@
+/usr/include/passwdqc.h
+/usr/lib/libpasswdqc.so -> ../../usr/lib/libpasswdqc.so.1
+/usr/lib/pkgconfig/passwdqc.pc
+/usr/share/man/man3/libpasswdqc.3
+/usr/share/man/man3/passwdqc_check.3
+/usr/share/man/man3/passwdqc_params_free.3
+/usr/share/man/man3/passwdqc_params_load.3
+/usr/share/man/man3/passwdqc_params_parse.3
+/usr/share/man/man3/passwdqc_params_reset.3
+/usr/share/man/man3/passwdqc_random.3

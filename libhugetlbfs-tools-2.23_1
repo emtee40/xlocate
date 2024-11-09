@@ -1,0 +1,10 @@
+/usr/bin/hugeadm
+/usr/bin/hugectl
+/usr/bin/hugeedit
+/usr/bin/ld.hugetlbfs
+/usr/bin/pagesize
+/usr/share/man/man1/ld.hugetlbfs.1
+/usr/share/man/man1/pagesize.1
+/usr/share/man/man8/hugeadm.8
+/usr/share/man/man8/hugectl.8
+/usr/share/man/man8/hugeedit.8

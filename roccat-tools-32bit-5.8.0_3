@@ -1,0 +1,133 @@
+/usr/lib32/gaminggear_plugins/libiskufxgfxplugin.so
+/usr/lib32/gaminggear_plugins/libkirogfxplugin.so
+/usr/lib32/gaminggear_plugins/libkoneplusgfxplugin.so
+/usr/lib32/gaminggear_plugins/libkonepuregfxplugin.so
+/usr/lib32/gaminggear_plugins/libkonepuremilitarygfxplugin.so
+/usr/lib32/gaminggear_plugins/libkonepureopticalgfxplugin.so
+/usr/lib32/gaminggear_plugins/libkonextdgfxplugin.so
+/usr/lib32/gaminggear_plugins/libkonextdopticalgfxplugin.so
+/usr/lib32/gaminggear_plugins/libkova2016gfxplugin.so
+/usr/lib32/gaminggear_plugins/libnythgfxplugin.so
+/usr/lib32/gaminggear_plugins/libryosmkfxgfxplugin.so
+/usr/lib32/gaminggear_plugins/libskeltrgfxplugin.so
+/usr/lib32/gaminggear_plugins/libtyongfxplugin.so
+/usr/lib32/libroccat.so -> /usr/lib32/libroccat.so.5
+/usr/lib32/libroccat.so.5 -> /usr/lib32/libroccat.so.5.8.0
+/usr/lib32/libroccat.so.5.8.0
+/usr/lib32/libroccatarvo.so -> /usr/lib32/libroccatarvo.so.5
+/usr/lib32/libroccatarvo.so.5 -> /usr/lib32/libroccatarvo.so.5.8.0
+/usr/lib32/libroccatarvo.so.5.8.0
+/usr/lib32/libroccatisku.so -> /usr/lib32/libroccatisku.so.5
+/usr/lib32/libroccatisku.so.5 -> /usr/lib32/libroccatisku.so.5.8.0
+/usr/lib32/libroccatisku.so.5.8.0
+/usr/lib32/libroccatiskufx.so -> /usr/lib32/libroccatiskufx.so.5
+/usr/lib32/libroccatiskufx.so.5 -> /usr/lib32/libroccatiskufx.so.5.8.0
+/usr/lib32/libroccatiskufx.so.5.8.0
+/usr/lib32/libroccatiskuwidget.so -> /usr/lib32/libroccatiskuwidget.so.5
+/usr/lib32/libroccatiskuwidget.so.5 -> /usr/lib32/libroccatiskuwidget.so.5.8.0
+/usr/lib32/libroccatiskuwidget.so.5.8.0
+/usr/lib32/libroccatkiro.so -> /usr/lib32/libroccatkiro.so.5
+/usr/lib32/libroccatkiro.so.5 -> /usr/lib32/libroccatkiro.so.5.8.0
+/usr/lib32/libroccatkiro.so.5.8.0
+/usr/lib32/libroccatkone.so -> /usr/lib32/libroccatkone.so.5
+/usr/lib32/libroccatkone.so.5 -> /usr/lib32/libroccatkone.so.5.8.0
+/usr/lib32/libroccatkone.so.5.8.0
+/usr/lib32/libroccatkoneplus.so -> /usr/lib32/libroccatkoneplus.so.5
+/usr/lib32/libroccatkoneplus.so.5 -> /usr/lib32/libroccatkoneplus.so.5.8.0
+/usr/lib32/libroccatkoneplus.so.5.8.0
+/usr/lib32/libroccatkonepluswidget.so -> /usr/lib32/libroccatkonepluswidget.so.5
+/usr/lib32/libroccatkonepluswidget.so.5 -> /usr/lib32/libroccatkonepluswidget.so.5.8.0
+/usr/lib32/libroccatkonepluswidget.so.5.8.0
+/usr/lib32/libroccatkonepure.so -> /usr/lib32/libroccatkonepure.so.5
+/usr/lib32/libroccatkonepure.so.5 -> /usr/lib32/libroccatkonepure.so.5.8.0
+/usr/lib32/libroccatkonepure.so.5.8.0
+/usr/lib32/libroccatkonepuremilitary.so -> /usr/lib32/libroccatkonepuremilitary.so.5
+/usr/lib32/libroccatkonepuremilitary.so.5 -> /usr/lib32/libroccatkonepuremilitary.so.5.8.0
+/usr/lib32/libroccatkonepuremilitary.so.5.8.0
+/usr/lib32/libroccatkonepuremilitarywidget.so -> /usr/lib32/libroccatkonepuremilitarywidget.so.5
+/usr/lib32/libroccatkonepuremilitarywidget.so.5 -> /usr/lib32/libroccatkonepuremilitarywidget.so.5.8.0
+/usr/lib32/libroccatkonepuremilitarywidget.so.5.8.0
+/usr/lib32/libroccatkonepureoptical.so -> /usr/lib32/libroccatkonepureoptical.so.5
+/usr/lib32/libroccatkonepureoptical.so.5 -> /usr/lib32/libroccatkonepureoptical.so.5.8.0
+/usr/lib32/libroccatkonepureoptical.so.5.8.0
+/usr/lib32/libroccatkonepurewidget.so -> /usr/lib32/libroccatkonepurewidget.so.5
+/usr/lib32/libroccatkonepurewidget.so.5 -> /usr/lib32/libroccatkonepurewidget.so.5.8.0
+/usr/lib32/libroccatkonepurewidget.so.5.8.0
+/usr/lib32/libroccatkonextd.so -> /usr/lib32/libroccatkonextd.so.5
+/usr/lib32/libroccatkonextd.so.5 -> /usr/lib32/libroccatkonextd.so.5.8.0
+/usr/lib32/libroccatkonextd.so.5.8.0
+/usr/lib32/libroccatkonextdoptical.so -> /usr/lib32/libroccatkonextdoptical.so.5
+/usr/lib32/libroccatkonextdoptical.so.5 -> /usr/lib32/libroccatkonextdoptical.so.5.8.0
+/usr/lib32/libroccatkonextdoptical.so.5.8.0
+/usr/lib32/libroccatkonextdwidget.so -> /usr/lib32/libroccatkonextdwidget.so.5
+/usr/lib32/libroccatkonextdwidget.so.5 -> /usr/lib32/libroccatkonextdwidget.so.5.8.0
+/usr/lib32/libroccatkonextdwidget.so.5.8.0
+/usr/lib32/libroccatkova2016.so -> /usr/lib32/libroccatkova2016.so.5
+/usr/lib32/libroccatkova2016.so.5 -> /usr/lib32/libroccatkova2016.so.5.8.0
+/usr/lib32/libroccatkova2016.so.5.8.0
+/usr/lib32/libroccatkovaplus.so -> /usr/lib32/libroccatkovaplus.so.5
+/usr/lib32/libroccatkovaplus.so.5 -> /usr/lib32/libroccatkovaplus.so.5.8.0
+/usr/lib32/libroccatkovaplus.so.5.8.0
+/usr/lib32/libroccatlua.so -> /usr/lib32/libroccatlua.so.5
+/usr/lib32/libroccatlua.so.5 -> /usr/lib32/libroccatlua.so.5.8.0
+/usr/lib32/libroccatlua.so.5.8.0
+/usr/lib32/libroccatnyth.so -> /usr/lib32/libroccatnyth.so.5
+/usr/lib32/libroccatnyth.so.5 -> /usr/lib32/libroccatnyth.so.5.8.0
+/usr/lib32/libroccatnyth.so.5.8.0
+/usr/lib32/libroccatpyra.so -> /usr/lib32/libroccatpyra.so.5
+/usr/lib32/libroccatpyra.so.5 -> /usr/lib32/libroccatpyra.so.5.8.0
+/usr/lib32/libroccatpyra.so.5.8.0
+/usr/lib32/libroccatryosmk.so -> /usr/lib32/libroccatryosmk.so.5
+/usr/lib32/libroccatryosmk.so.5 -> /usr/lib32/libroccatryosmk.so.5.8.0
+/usr/lib32/libroccatryosmk.so.5.8.0
+/usr/lib32/libroccatryosmkfx.so -> /usr/lib32/libroccatryosmkfx.so.5
+/usr/lib32/libroccatryosmkfx.so.5 -> /usr/lib32/libroccatryosmkfx.so.5.8.0
+/usr/lib32/libroccatryosmkfx.so.5.8.0
+/usr/lib32/libroccatryosmkwidget.so -> /usr/lib32/libroccatryosmkwidget.so.5
+/usr/lib32/libroccatryosmkwidget.so.5 -> /usr/lib32/libroccatryosmkwidget.so.5.8.0
+/usr/lib32/libroccatryosmkwidget.so.5.8.0
+/usr/lib32/libroccatryostkl.so -> /usr/lib32/libroccatryostkl.so.5
+/usr/lib32/libroccatryostkl.so.5 -> /usr/lib32/libroccatryostkl.so.5.8.0
+/usr/lib32/libroccatryostkl.so.5.8.0
+/usr/lib32/libroccatsavu.so -> /usr/lib32/libroccatsavu.so.5
+/usr/lib32/libroccatsavu.so.5 -> /usr/lib32/libroccatsavu.so.5.8.0
+/usr/lib32/libroccatsavu.so.5.8.0
+/usr/lib32/libroccatskeltr.so -> /usr/lib32/libroccatskeltr.so.5
+/usr/lib32/libroccatskeltr.so.5 -> /usr/lib32/libroccatskeltr.so.5.8.0
+/usr/lib32/libroccatskeltr.so.5.8.0
+/usr/lib32/libroccatsova.so -> /usr/lib32/libroccatsova.so.5
+/usr/lib32/libroccatsova.so.5 -> /usr/lib32/libroccatsova.so.5.8.0
+/usr/lib32/libroccatsova.so.5.8.0
+/usr/lib32/libroccatsuora.so -> /usr/lib32/libroccatsuora.so.5
+/usr/lib32/libroccatsuora.so.5 -> /usr/lib32/libroccatsuora.so.5.8.0
+/usr/lib32/libroccatsuora.so.5.8.0
+/usr/lib32/libroccattyon.so -> /usr/lib32/libroccattyon.so.5
+/usr/lib32/libroccattyon.so.5 -> /usr/lib32/libroccattyon.so.5.8.0
+/usr/lib32/libroccattyon.so.5.8.0
+/usr/lib32/libroccatwidget.so -> /usr/lib32/libroccatwidget.so.5
+/usr/lib32/libroccatwidget.so.5 -> /usr/lib32/libroccatwidget.so.5.8.0
+/usr/lib32/libroccatwidget.so.5.8.0
+/usr/lib32/roccat/libarvoeventhandler.so
+/usr/lib32/roccat/libiskueventhandler.so
+/usr/lib32/roccat/libiskufxeventhandler.so
+/usr/lib32/roccat/libkiroeventhandler.so
+/usr/lib32/roccat/libkoneeventhandler.so
+/usr/lib32/roccat/libkonepluseventhandler.so
+/usr/lib32/roccat/libkonepureeventhandler.so
+/usr/lib32/roccat/libkonepuremilitaryeventhandler.so
+/usr/lib32/roccat/libkonepureopticaleventhandler.so
+/usr/lib32/roccat/libkonextdeventhandler.so
+/usr/lib32/roccat/libkonextdopticaleventhandler.so
+/usr/lib32/roccat/libkova2016eventhandler.so
+/usr/lib32/roccat/libkovapluseventhandler.so
+/usr/lib32/roccat/libluaeventhandler.so
+/usr/lib32/roccat/libnytheventhandler.so
+/usr/lib32/roccat/libpyraeventhandler.so
+/usr/lib32/roccat/libryosmkeventhandler.so
+/usr/lib32/roccat/libryosmkfxeventhandler.so
+/usr/lib32/roccat/libryostkleventhandler.so
+/usr/lib32/roccat/libsavueventhandler.so
+/usr/lib32/roccat/libskeltreventhandler.so
+/usr/lib32/roccat/libsovaeventhandler.so
+/usr/lib32/roccat/libsuoraeventhandler.so
+/usr/lib32/roccat/libtyoneventhandler.so

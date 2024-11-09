@@ -1,0 +1,6 @@
+/usr/include/j4status/j4status-plugin-input.h
+/usr/include/j4status/j4status-plugin-output.h
+/usr/include/j4status/j4status-plugin.h
+/usr/lib/libj4status-plugin.so -> /usr/lib/libj4status-plugin.so.0.0.0
+/usr/lib/pkgconfig/libj4status-plugin.pc
+/usr/share/aclocal/j4status-plugins.m4

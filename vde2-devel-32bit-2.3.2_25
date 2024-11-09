@@ -1,0 +1,8 @@
+/usr/lib32/libvdehist.so -> /usr/lib32/libvdehist.so.0.0.1
+/usr/lib32/libvdemgmt.so -> /usr/lib32/libvdemgmt.so.0.0.1
+/usr/lib32/libvdeplug.so -> /usr/lib32/libvdeplug.so.3.0.1
+/usr/lib32/libvdesnmp.so -> /usr/lib32/libvdesnmp.so.0.0.1
+/usr/lib32/pkgconfig/vdehist.pc
+/usr/lib32/pkgconfig/vdemgmt.pc
+/usr/lib32/pkgconfig/vdeplug.pc
+/usr/lib32/pkgconfig/vdesnmp.pc

@@ -1,0 +1,98 @@
+/usr/bin/d-feet
+/usr/lib/python3.12/site-packages/dfeet/__init__.py
+/usr/lib/python3.12/site-packages/dfeet/addconnectiondialog.py
+/usr/lib/python3.12/site-packages/dfeet/application.py
+/usr/lib/python3.12/site-packages/dfeet/bus_watch.py
+/usr/lib/python3.12/site-packages/dfeet/dbus_utils.py
+/usr/lib/python3.12/site-packages/dfeet/executemethoddialog.py
+/usr/lib/python3.12/site-packages/dfeet/introspection.py
+/usr/lib/python3.12/site-packages/dfeet/introspection_helper.py
+/usr/lib/python3.12/site-packages/dfeet/settings.py
+/usr/lib/python3.12/site-packages/dfeet/uiloader.py
+/usr/lib/python3.12/site-packages/dfeet/window.py
+/usr/lib/python3.12/site-packages/dfeet/wnck_utils.py
+/usr/share/applications/org.gnome.dfeet.desktop
+/usr/share/d-feet/ui/addconnectiondialog.ui
+/usr/share/d-feet/ui/bus.ui
+/usr/share/d-feet/ui/executedialog.ui
+/usr/share/d-feet/ui/introspection.ui
+/usr/share/d-feet/ui/mainwindow.ui
+/usr/share/glib-2.0/schemas/org.gnome.dfeet.gschema.xml
+/usr/share/help/C/d-feet/basics.page
+/usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/C/d-feet/index.page
+/usr/share/help/cs/d-feet/basics.page
+/usr/share/help/cs/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/cs/d-feet/index.page
+/usr/share/help/da/d-feet/basics.page
+/usr/share/help/da/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/da/d-feet/index.page
+/usr/share/help/de/d-feet/basics.page
+/usr/share/help/de/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/de/d-feet/index.page
+/usr/share/help/el/d-feet/basics.page
+/usr/share/help/el/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/el/d-feet/index.page
+/usr/share/help/en_GB/d-feet/basics.page
+/usr/share/help/en_GB/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/en_GB/d-feet/index.page
+/usr/share/help/es/d-feet/basics.page
+/usr/share/help/es/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/es/d-feet/index.page
+/usr/share/help/hu/d-feet/basics.page
+/usr/share/help/hu/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/hu/d-feet/index.page
+/usr/share/help/pl/d-feet/basics.page
+/usr/share/help/pl/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/pl/d-feet/index.page
+/usr/share/help/pt_BR/d-feet/basics.page
+/usr/share/help/pt_BR/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/pt_BR/d-feet/index.page
+/usr/share/help/sv/d-feet/basics.page
+/usr/share/help/sv/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/sv/d-feet/index.page
+/usr/share/help/uk/d-feet/basics.page
+/usr/share/help/uk/d-feet/figures/icon.png -> /usr/share/help/C/d-feet/figures/icon.png
+/usr/share/help/uk/d-feet/index.page
+/usr/share/icons/hicolor/16x16/apps/dfeet-icon-default-service.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-method-category.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-method.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-object.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-property-category.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-property.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-signal-category.png
+/usr/share/icons/hicolor/16x16/apps/dfeet-signal.png
+/usr/share/icons/hicolor/scalable/apps/org.gnome.dfeet.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.dfeet-symbolic.svg
+/usr/share/locale/bs/LC_MESSAGES/d-feet.mo
+/usr/share/locale/cs/LC_MESSAGES/d-feet.mo
+/usr/share/locale/da/LC_MESSAGES/d-feet.mo
+/usr/share/locale/de/LC_MESSAGES/d-feet.mo
+/usr/share/locale/el/LC_MESSAGES/d-feet.mo
+/usr/share/locale/en_GB/LC_MESSAGES/d-feet.mo
+/usr/share/locale/es/LC_MESSAGES/d-feet.mo
+/usr/share/locale/eu/LC_MESSAGES/d-feet.mo
+/usr/share/locale/fi/LC_MESSAGES/d-feet.mo
+/usr/share/locale/fr/LC_MESSAGES/d-feet.mo
+/usr/share/locale/fur/LC_MESSAGES/d-feet.mo
+/usr/share/locale/gl/LC_MESSAGES/d-feet.mo
+/usr/share/locale/hr/LC_MESSAGES/d-feet.mo
+/usr/share/locale/hu/LC_MESSAGES/d-feet.mo
+/usr/share/locale/id/LC_MESSAGES/d-feet.mo
+/usr/share/locale/lv/LC_MESSAGES/d-feet.mo
+/usr/share/locale/nb/LC_MESSAGES/d-feet.mo
+/usr/share/locale/nl/LC_MESSAGES/d-feet.mo
+/usr/share/locale/oc/LC_MESSAGES/d-feet.mo
+/usr/share/locale/pl/LC_MESSAGES/d-feet.mo
+/usr/share/locale/pt/LC_MESSAGES/d-feet.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/d-feet.mo
+/usr/share/locale/ro/LC_MESSAGES/d-feet.mo
+/usr/share/locale/ru/LC_MESSAGES/d-feet.mo
+/usr/share/locale/sl/LC_MESSAGES/d-feet.mo
+/usr/share/locale/sr/LC_MESSAGES/d-feet.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/d-feet.mo
+/usr/share/locale/sv/LC_MESSAGES/d-feet.mo
+/usr/share/locale/tr/LC_MESSAGES/d-feet.mo
+/usr/share/locale/uk/LC_MESSAGES/d-feet.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/d-feet.mo
+/usr/share/metainfo/org.gnome.dfeet.appdata.xml

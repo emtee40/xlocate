@@ -1,0 +1,4 @@
+/usr/lib32/libcglm.so -> /usr/lib32/libcglm.so.0
+/usr/lib32/libcglm.so.0 -> /usr/lib32/libcglm.so.0.9.3
+/usr/lib32/libcglm.so.0.9.3
+/usr/lib32/pkgconfig/cglm.pc

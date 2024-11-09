@@ -1,0 +1,2 @@
+/usr/bin/aardvark-dns
+/usr/libexec/podman/aardvark-dns -> /usr/bin/aardvark-dns

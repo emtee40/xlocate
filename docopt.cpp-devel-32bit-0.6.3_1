@@ -1,0 +1,3 @@
+/usr/lib32/libdocopt.a
+/usr/lib32/libdocopt.so -> /usr/lib32/libdocopt.so.0
+/usr/lib32/pkgconfig/docopt.pc

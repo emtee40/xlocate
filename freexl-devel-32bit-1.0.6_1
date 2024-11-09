@@ -1,0 +1,3 @@
+/usr/lib32/libfreexl.a
+/usr/lib32/libfreexl.so -> /usr/lib32/libfreexl.so.1.1.0
+/usr/lib32/pkgconfig/freexl.pc

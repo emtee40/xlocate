@@ -1,0 +1,28 @@
+/usr/include/libipq.h
+/usr/include/libiptc/ipt_kernel_headers.h
+/usr/include/libiptc/libip6tc.h
+/usr/include/libiptc/libiptc.h
+/usr/include/libiptc/libxtc.h
+/usr/include/libiptc/xtcshared.h
+/usr/include/xtables-version.h
+/usr/include/xtables.h
+/usr/lib/libip4tc.so -> /usr/lib/libip4tc.so.2.0.0
+/usr/lib/libip6tc.so -> /usr/lib/libip6tc.so.2.0.0
+/usr/lib/libipq.so -> /usr/lib/libipq.so.0.0.0
+/usr/lib/libxtables.so -> /usr/lib/libxtables.so.12.7.0
+/usr/lib/pkgconfig/libip4tc.pc
+/usr/lib/pkgconfig/libip6tc.pc
+/usr/lib/pkgconfig/libipq.pc
+/usr/lib/pkgconfig/libiptc.pc
+/usr/lib/pkgconfig/xtables.pc
+/usr/share/man/man3/ipq_create_handle.3
+/usr/share/man/man3/ipq_destroy_handle.3
+/usr/share/man/man3/ipq_errstr.3
+/usr/share/man/man3/ipq_get_msgerr.3
+/usr/share/man/man3/ipq_get_packet.3
+/usr/share/man/man3/ipq_message_type.3
+/usr/share/man/man3/ipq_perror.3
+/usr/share/man/man3/ipq_read.3
+/usr/share/man/man3/ipq_set_mode.3
+/usr/share/man/man3/ipq_set_verdict.3
+/usr/share/man/man3/libipq.3

@@ -1,0 +1,7 @@
+/usr/bin/rhino
+/usr/bin/rhino-debugger
+/usr/bin/rhino-jsc
+/usr/share/java/js.jar -> /usr/share/java/rhino-1.7.15.jar
+/usr/share/java/rhino-1.7.15.jar
+/usr/share/java/rhino.jar -> /usr/share/java/rhino-1.7.15.jar
+/usr/share/man/man1/rhino.1

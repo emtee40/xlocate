@@ -1,0 +1,8 @@
+/usr/bin/pspell-config
+/usr/include/aspell.h
+/usr/include/pspell/pspell.h
+/usr/lib/libaspell.so -> /usr/lib/libaspell.so.15.3.1
+/usr/lib/libpspell.so -> /usr/lib/libpspell.so.15.3.1
+/usr/share/info/aspell-dev.info
+/usr/share/info/aspell.info
+/usr/share/man/man1/pspell-config.1

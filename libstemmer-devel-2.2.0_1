@@ -1,0 +1,3 @@
+/usr/include/libstemmer.h
+/usr/lib/libstemmer.a
+/usr/lib/libstemmer.so -> /usr/lib/libstemmer.so.2.2.0

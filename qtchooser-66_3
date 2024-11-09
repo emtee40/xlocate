@@ -1,0 +1,51 @@
+/etc/xdg/qtchooser/4.conf
+/etc/xdg/qtchooser/5.conf
+/etc/xdg/qtchooser/default.conf -> /etc/xdg/qtchooser/5.conf
+/usr/bin/assistant -> /usr/bin/qtchooser
+/usr/bin/designer -> /usr/bin/qtchooser
+/usr/bin/lconvert -> /usr/bin/qtchooser
+/usr/bin/linguist -> /usr/bin/qtchooser
+/usr/bin/lrelease -> /usr/bin/qtchooser
+/usr/bin/lupdate -> /usr/bin/qtchooser
+/usr/bin/moc -> /usr/bin/qtchooser
+/usr/bin/pixeltool -> /usr/bin/qtchooser
+/usr/bin/qcollectiongenerator -> /usr/bin/qtchooser
+/usr/bin/qdbus -> /usr/bin/qtchooser
+/usr/bin/qdbuscpp2xml -> /usr/bin/qtchooser
+/usr/bin/qdbusviewer -> /usr/bin/qtchooser
+/usr/bin/qdbusxml2cpp -> /usr/bin/qtchooser
+/usr/bin/qdoc -> /usr/bin/qtchooser
+/usr/bin/qdoc3 -> /usr/bin/qtchooser
+/usr/bin/qgltf -> /usr/bin/qtchooser
+/usr/bin/qhelpconverter -> /usr/bin/qtchooser
+/usr/bin/qhelpgenerator -> /usr/bin/qtchooser
+/usr/bin/qlalr -> /usr/bin/qtchooser
+/usr/bin/qmake -> /usr/bin/qtchooser
+/usr/bin/qml -> /usr/bin/qtchooser
+/usr/bin/qml1plugindump -> /usr/bin/qtchooser
+/usr/bin/qmlbundle -> /usr/bin/qtchooser
+/usr/bin/qmlcachegen -> /usr/bin/qtchooser
+/usr/bin/qmleasing -> /usr/bin/qtchooser
+/usr/bin/qmlimportscanner -> /usr/bin/qtchooser
+/usr/bin/qmljs -> /usr/bin/qtchooser
+/usr/bin/qmllint -> /usr/bin/qtchooser
+/usr/bin/qmlmin -> /usr/bin/qtchooser
+/usr/bin/qmlplugindump -> /usr/bin/qtchooser
+/usr/bin/qmlprofiler -> /usr/bin/qtchooser
+/usr/bin/qmlscene -> /usr/bin/qtchooser
+/usr/bin/qmltestrunner -> /usr/bin/qtchooser
+/usr/bin/qmlviewer -> /usr/bin/qtchooser
+/usr/bin/qtattributionsscanner -> /usr/bin/qtchooser
+/usr/bin/qtchooser
+/usr/bin/qtconfig -> /usr/bin/qtchooser
+/usr/bin/qtdiag -> /usr/bin/qtchooser
+/usr/bin/qtpaths -> /usr/bin/qtchooser
+/usr/bin/qtplugininfo -> /usr/bin/qtchooser
+/usr/bin/qvkgen -> /usr/bin/qtchooser
+/usr/bin/rcc -> /usr/bin/qtchooser
+/usr/bin/repc -> /usr/bin/qtchooser
+/usr/bin/uic -> /usr/bin/qtchooser
+/usr/bin/uic3 -> /usr/bin/qtchooser
+/usr/bin/xmlpatterns -> /usr/bin/qtchooser
+/usr/bin/xmlpatternsvalidator -> /usr/bin/qtchooser
+/usr/share/man/man1/qtchooser.1

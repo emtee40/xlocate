@@ -1,0 +1,10 @@
+/etc/sv/watchdog/run
+/etc/sv/watchdog/supervise -> /run/runit/supervise.watchdog
+/etc/watchdog.conf
+/usr/bin/watchdog
+/usr/bin/wd_identify
+/usr/bin/wd_keepalive
+/usr/share/man/man5/watchdog.conf.5
+/usr/share/man/man8/watchdog.8
+/usr/share/man/man8/wd_identify.8
+/usr/share/man/man8/wd_keepalive.8

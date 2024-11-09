@@ -1,0 +1,19 @@
+/usr/include/d/gtkd-3/glgdk/GLConfig.d
+/usr/include/d/gtkd-3/glgdk/GLContext.d
+/usr/include/d/gtkd-3/glgdk/GLDrawableIF.d
+/usr/include/d/gtkd-3/glgdk/GLDrawableT.d
+/usr/include/d/gtkd-3/glgdk/GLQuery.d
+/usr/include/d/gtkd-3/glgdk/GLVersion.d
+/usr/include/d/gtkd-3/glgdk/GLWindow.d
+/usr/include/d/gtkd-3/glgdk/GLdInit.d
+/usr/include/d/gtkd-3/glgtk/GLCapability.d
+/usr/include/d/gtkd-3/glgtk/GLWidget.d
+/usr/include/d/gtkd-3/glgtk/GLtInit.d
+/usr/include/d/gtkd-3/gtkglc/gl.d
+/usr/include/d/gtkd-3/gtkglc/glgdk.d
+/usr/include/d/gtkd-3/gtkglc/glgdktypes.d
+/usr/include/d/gtkd-3/gtkglc/glgtk.d
+/usr/include/d/gtkd-3/gtkglc/glgtktypes.d
+/usr/include/d/gtkd-3/gtkglc/glu.d
+/usr/lib/libgtkdgl-3.so -> /usr/lib/libgtkdgl-3.so.0
+/usr/lib/pkgconfig/gtkdgl-3.pc

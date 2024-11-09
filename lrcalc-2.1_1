@@ -1,0 +1,6 @@
+/usr/bin/lrcalc
+/usr/bin/schubmult
+/usr/lib/liblrcalc.so.2 -> /usr/lib/liblrcalc.so.2.0.0
+/usr/lib/liblrcalc.so.2.0.0
+/usr/share/lrcalc/README
+/usr/share/lrcalc/lrcalc.maple

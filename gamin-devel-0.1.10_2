@@ -1,0 +1,4 @@
+/usr/include/fam.h
+/usr/lib/libfam.so -> /usr/lib/libfam.so.0.0.0
+/usr/lib/libgamin-1.so -> /usr/lib/libgamin-1.so.0.1.10
+/usr/lib/pkgconfig/gamin.pc

@@ -1,0 +1,2 @@
+/usr/lib/libvulkan.so -> /usr/lib/libvulkan.so.1
+/usr/lib/pkgconfig/vulkan.pc

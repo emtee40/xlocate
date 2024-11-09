@@ -1,0 +1,3 @@
+/usr/lib32/libwavpack.a
+/usr/lib32/libwavpack.so -> /usr/lib32/libwavpack.so.1.2.6
+/usr/lib32/pkgconfig/wavpack.pc

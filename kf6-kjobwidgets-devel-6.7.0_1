@@ -1,0 +1,21 @@
+/usr/include/KF6/KJobWidgets/KAbstractWidgetJobTracker
+/usr/include/KF6/KJobWidgets/KDialogJobUiDelegate
+/usr/include/KF6/KJobWidgets/KNotificationJobUiDelegate
+/usr/include/KF6/KJobWidgets/KStatusBarJobTracker
+/usr/include/KF6/KJobWidgets/KUiServerJobTracker
+/usr/include/KF6/KJobWidgets/KUiServerV2JobTracker
+/usr/include/KF6/KJobWidgets/KWidgetJobTracker
+/usr/include/KF6/KJobWidgets/kabstractwidgetjobtracker.h
+/usr/include/KF6/KJobWidgets/kdialogjobuidelegate.h
+/usr/include/KF6/KJobWidgets/kjobwidgets_export.h
+/usr/include/KF6/KJobWidgets/kjobwidgets_version.h
+/usr/include/KF6/KJobWidgets/knotificationjobuidelegate.h
+/usr/include/KF6/KJobWidgets/kstatusbarjobtracker.h
+/usr/include/KF6/KJobWidgets/kuiserverjobtracker.h
+/usr/include/KF6/KJobWidgets/kuiserverv2jobtracker.h
+/usr/include/KF6/KJobWidgets/kwidgetjobtracker.h
+/usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsConfig.cmake
+/usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsConfigVersion.cmake
+/usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsTargets-none.cmake
+/usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsTargets.cmake
+/usr/lib/libKF6JobWidgets.so -> /usr/lib/libKF6JobWidgets.so.6

@@ -1,0 +1,46 @@
+/usr/bin/afm2tfm
+/usr/bin/bbox
+/usr/bin/dvi2fax -> ../share/texmf-dist/scripts/texlive-extra/dvi2fax.sh
+/usr/bin/dviasm -> ../share/texmf-dist/scripts/dviasm/dviasm.py
+/usr/bin/dvibook
+/usr/bin/dviconcat
+/usr/bin/dvicopy
+/usr/bin/dvidvi
+/usr/bin/dvigif -> /usr/bin/dvipng
+/usr/bin/dvihp
+/usr/bin/dviinfox -> ../share/texmf-dist/scripts/dviinfox/dviinfox.pl
+/usr/bin/dvilj
+/usr/bin/dvilj2p
+/usr/bin/dvilj4
+/usr/bin/dvilj4l
+/usr/bin/dvilj6 -> /usr/bin/dvilj4
+/usr/bin/dvipdfm -> /usr/bin/xdvipdfmx
+/usr/bin/dvipdfmx -> /usr/bin/xdvipdfmx
+/usr/bin/dvipdft
+/usr/bin/dvipng
+/usr/bin/dvipos
+/usr/bin/dvips
+/usr/bin/dvired -> ../share/texmf-dist/scripts/texlive-extra/dvired.sh
+/usr/bin/dviselect
+/usr/bin/dvispc
+/usr/bin/dvitodvi
+/usr/bin/dvitomp -> /usr/bin/mpost
+/usr/bin/dvitype
+/usr/bin/tl-extractres -> ../share/texmf-dist/scripts/psutils/extractres.pl
+/usr/bin/tl-includeres -> ../share/texmf-dist/scripts/psutils/includeres.pl
+/usr/bin/tl-psbook
+/usr/bin/tl-psjoin -> ../share/texmf-dist/scripts/psutils/psjoin.pl
+/usr/bin/tl-psnup
+/usr/bin/tl-psresize
+/usr/bin/tl-psselect
+/usr/bin/tl-pstops
+/usr/share/man/man1/afm2tfm.1
+/usr/share/man/man1/bbox.1
+/usr/share/man/man1/tl-extractres.1
+/usr/share/man/man1/tl-includeres.1
+/usr/share/man/man1/tl-psbook.1
+/usr/share/man/man1/tl-psjoin.1
+/usr/share/man/man1/tl-psnup.1
+/usr/share/man/man1/tl-psresize.1
+/usr/share/man/man1/tl-psselect.1
+/usr/share/man/man1/tl-pstops.1

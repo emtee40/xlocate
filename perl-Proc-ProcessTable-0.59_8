@@ -1,0 +1,10 @@
+/usr/lib/perl5/vendor_perl/Proc/Killall.pm
+/usr/lib/perl5/vendor_perl/Proc/Killfam.pm
+/usr/lib/perl5/vendor_perl/Proc/ProcessTable.pm
+/usr/lib/perl5/vendor_perl/Proc/ProcessTable/Process.pm
+/usr/lib/perl5/vendor_perl/auto/Proc/ProcessTable/Process/autosplit.ix
+/usr/lib/perl5/vendor_perl/auto/Proc/ProcessTable/ProcessTable.so
+/usr/share/man/man3/Proc::Killall.3p
+/usr/share/man/man3/Proc::Killfam.3p
+/usr/share/man/man3/Proc::ProcessTable.3p
+/usr/share/man/man3/Proc::ProcessTable::Process.3p

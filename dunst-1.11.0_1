@@ -1,0 +1,17 @@
+/etc/dunst/dunstrc
+/usr/bin/dunst
+/usr/bin/dunstctl
+/usr/bin/dunstify
+/usr/share/bash-completion/completions/dunst
+/usr/share/bash-completion/completions/dunstctl
+/usr/share/dbus-1/services/org.knopwob.dunst.service
+/usr/share/fish/vendor_completions.d/dunst
+/usr/share/fish/vendor_completions.d/dunst.fish
+/usr/share/fish/vendor_completions.d/dunstctl
+/usr/share/fish/vendor_completions.d/dunstify
+/usr/share/licenses/dunst/LICENSE
+/usr/share/man/man1/dunst.1
+/usr/share/man/man1/dunstctl.1
+/usr/share/man/man5/dunst.5
+/usr/share/zsh/site-functions/_dunst
+/usr/share/zsh/site-functions/_dunstctl

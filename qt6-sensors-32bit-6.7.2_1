@@ -1,0 +1,7 @@
+/usr/lib32/libQt6Sensors.so.6 -> /usr/lib32/libQt6Sensors.so.6.7.2
+/usr/lib32/libQt6Sensors.so.6.7.2
+/usr/lib32/libQt6SensorsQuick.so.6 -> /usr/lib32/libQt6SensorsQuick.so.6.7.2
+/usr/lib32/libQt6SensorsQuick.so.6.7.2
+/usr/lib32/qt6/plugins/sensors/libqtsensors_generic.so
+/usr/lib32/qt6/plugins/sensors/libqtsensors_iio-sensor-proxy.so
+/usr/lib32/qt6/qml/QtSensors/libsensorsquickplugin.so

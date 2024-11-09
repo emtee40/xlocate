@@ -1,0 +1,10 @@
+/usr/lib/mozc/mozc_renderer
+/usr/libexec/ibus-engine-mozc
+/usr/share/ibus-mozc/alpha_full.png
+/usr/share/ibus-mozc/alpha_half.png
+/usr/share/ibus-mozc/direct.png
+/usr/share/ibus-mozc/hiragana.png
+/usr/share/ibus-mozc/katakana_full.png
+/usr/share/ibus-mozc/katakana_half.png
+/usr/share/ibus-mozc/product_icon.png
+/usr/share/ibus/component/mozc.xml

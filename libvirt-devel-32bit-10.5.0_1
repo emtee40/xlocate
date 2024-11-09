@@ -1,0 +1,8 @@
+/usr/lib32/libvirt-admin.so -> /usr/lib32/libvirt-admin.so.0
+/usr/lib32/libvirt-lxc.so -> /usr/lib32/libvirt-lxc.so.0
+/usr/lib32/libvirt-qemu.so -> /usr/lib32/libvirt-qemu.so.0
+/usr/lib32/libvirt.so -> /usr/lib32/libvirt.so.0
+/usr/lib32/pkgconfig/libvirt-admin.pc
+/usr/lib32/pkgconfig/libvirt-lxc.pc
+/usr/lib32/pkgconfig/libvirt-qemu.pc
+/usr/lib32/pkgconfig/libvirt.pc

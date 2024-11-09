@@ -1,0 +1,3 @@
+/usr/bin/qemu-sparc
+/usr/bin/qemu-sparc-static -> /usr/bin/qemu-sparc
+/usr/share/binfmts/qemu-sparc

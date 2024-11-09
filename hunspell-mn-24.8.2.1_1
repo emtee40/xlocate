@@ -1,0 +1,12 @@
+/usr/share/hunspell-bdic/mn.bdic -> /usr/share/hunspell-bdic/mn_MN.bdic
+/usr/share/hunspell-bdic/mn_Cyrl.bdic -> /usr/share/hunspell-bdic/mn_MN.bdic
+/usr/share/hunspell-bdic/mn_Cyrl_MN.bdic -> /usr/share/hunspell-bdic/mn_MN.bdic
+/usr/share/hunspell-bdic/mn_MN.bdic
+/usr/share/hunspell/mn.aff -> /usr/share/hunspell/mn_MN.aff
+/usr/share/hunspell/mn.dic -> /usr/share/hunspell/mn_MN.dic
+/usr/share/hunspell/mn_Cyrl.aff -> /usr/share/hunspell/mn_MN.aff
+/usr/share/hunspell/mn_Cyrl.dic -> /usr/share/hunspell/mn_MN.dic
+/usr/share/hunspell/mn_Cyrl_MN.aff -> /usr/share/hunspell/mn_MN.aff
+/usr/share/hunspell/mn_Cyrl_MN.dic -> /usr/share/hunspell/mn_MN.dic
+/usr/share/hunspell/mn_MN.aff
+/usr/share/hunspell/mn_MN.dic

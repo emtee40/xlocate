@@ -1,0 +1,18 @@
+/usr/bin/imhex
+/usr/lib/imhex/plugins/builtin.hexplug
+/usr/lib/imhex/plugins/decompress.hexplug
+/usr/lib/imhex/plugins/diffing.hexplug
+/usr/lib/imhex/plugins/disassembler.hexplug
+/usr/lib/imhex/plugins/fonts.hexpluglib
+/usr/lib/imhex/plugins/hashes.hexplug
+/usr/lib/imhex/plugins/script_loader.hexplug
+/usr/lib/imhex/plugins/ui.hexpluglib
+/usr/lib/imhex/plugins/visualizers.hexplug
+/usr/lib/imhex/plugins/yara_rules.hexplug
+/usr/lib/libimhex.so -> /usr/lib/libimhex.so.1.35.4
+/usr/lib/libimhex.so.1.35.4
+/usr/share/applications/imhex.desktop
+/usr/share/licenses/imhex/LICENSE
+/usr/share/metainfo/net.werwolv.imhex.appdata.xml -> /usr/share/metainfo/net.werwolv.imhex.metainfo.xml
+/usr/share/metainfo/net.werwolv.imhex.metainfo.xml
+/usr/share/pixmaps/imhex.png

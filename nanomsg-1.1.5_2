@@ -1,0 +1,4 @@
+/usr/bin/nanocat
+/usr/lib/libnanomsg.so.5 -> /usr/lib/libnanomsg.so.5.1.0
+/usr/lib/libnanomsg.so.5.1.0
+/usr/share/licenses/nanomsg/COPYING

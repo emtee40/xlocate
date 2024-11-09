@@ -1,0 +1,9 @@
+/etc/sv/ipfs/log/run
+/etc/sv/ipfs/log/supervise -> /run/runit/supervise.ipfs-log
+/etc/sv/ipfs/run
+/etc/sv/ipfs/supervise -> /run/runit/supervise.ipfs
+/usr/bin/ipfs
+/usr/bin/ipfswatch
+/usr/share/doc/kubo/CHANGELOG.md
+/usr/share/doc/kubo/README.md
+/usr/share/licenses/kubo/LICENSE-MIT

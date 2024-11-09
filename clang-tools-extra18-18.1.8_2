@@ -1,0 +1,16 @@
+/usr/bin/clang-apply-replacements
+/usr/bin/clang-change-namespace
+/usr/bin/clang-doc
+/usr/bin/clang-include-cleaner
+/usr/bin/clang-include-fixer
+/usr/bin/clang-move
+/usr/bin/clang-pseudo
+/usr/bin/clang-query
+/usr/bin/clang-reorder-fields
+/usr/bin/clang-tidy
+/usr/bin/clangd
+/usr/bin/find-all-symbols
+/usr/bin/modularize
+/usr/bin/pp-trace
+/usr/bin/run-clang-tidy
+/usr/share/man/man1/extraclangtools.1

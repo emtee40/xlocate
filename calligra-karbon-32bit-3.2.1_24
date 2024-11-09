@@ -1,0 +1,12 @@
+/usr/lib32/libkarboncommon.so -> /usr/lib32/libkarboncommon.so.17
+/usr/lib32/libkarboncommon.so.17 -> /usr/lib32/libkarboncommon.so.17.0.0
+/usr/lib32/libkarboncommon.so.17.0.0
+/usr/lib32/libkarbonui.so -> /usr/lib32/libkarbonui.so.17
+/usr/lib32/libkarbonui.so.17 -> /usr/lib32/libkarbonui.so.17.0.0
+/usr/lib32/libkarbonui.so.17.0.0
+/usr/lib32/libkdeinit5_karbon.so
+/usr/lib32/qt5/plugins/calligra/parts/karbonpart.so
+/usr/lib32/qt5/plugins/karbon/extensions/karbon_flattenpath.so
+/usr/lib32/qt5/plugins/karbon/extensions/karbon_refinepath.so
+/usr/lib32/qt5/plugins/karbon/extensions/karbon_roundcorners.so
+/usr/lib32/qt5/plugins/karbon/extensions/karbon_whirlpinch.so

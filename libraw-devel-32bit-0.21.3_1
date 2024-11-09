@@ -1,0 +1,6 @@
+/usr/lib32/libraw.a
+/usr/lib32/libraw.so -> /usr/lib32/libraw.so.23.0.0
+/usr/lib32/libraw_r.a
+/usr/lib32/libraw_r.so -> /usr/lib32/libraw_r.so.23.0.0
+/usr/lib32/pkgconfig/libraw.pc
+/usr/lib32/pkgconfig/libraw_r.pc

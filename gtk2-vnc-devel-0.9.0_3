@@ -1,0 +1,7 @@
+/usr/include/gtk-vnc-1.0/gtk-vnc.h
+/usr/include/gtk-vnc-1.0/vncdisplay.h
+/usr/include/gtk-vnc-1.0/vncdisplayenums.h
+/usr/include/gtk-vnc-1.0/vncgrabsequence.h
+/usr/include/gtk-vnc-1.0/vncimageframebuffer.h
+/usr/lib/pkgconfig/gtk-vnc-1.0.pc
+/usr/share/gir-1.0/GtkVnc-1.0.gir

@@ -1,0 +1,446 @@
+/usr/bin/gnome-nibbles
+/usr/share/applications/org.gnome.Nibbles.desktop
+/usr/share/dbus-1/services/org.gnome.Nibbles.service
+/usr/share/glib-2.0/schemas/org.gnome.Nibbles.gschema.xml
+/usr/share/gnome-nibbles/levels/level001.gnl
+/usr/share/gnome-nibbles/levels/level002.gnl
+/usr/share/gnome-nibbles/levels/level003.gnl
+/usr/share/gnome-nibbles/levels/level004.gnl
+/usr/share/gnome-nibbles/levels/level005.gnl
+/usr/share/gnome-nibbles/levels/level006.gnl
+/usr/share/gnome-nibbles/levels/level007.gnl
+/usr/share/gnome-nibbles/levels/level008.gnl
+/usr/share/gnome-nibbles/levels/level009.gnl
+/usr/share/gnome-nibbles/levels/level010.gnl
+/usr/share/gnome-nibbles/levels/level011.gnl
+/usr/share/gnome-nibbles/levels/level012.gnl
+/usr/share/gnome-nibbles/levels/level013.gnl
+/usr/share/gnome-nibbles/levels/level014.gnl
+/usr/share/gnome-nibbles/levels/level015.gnl
+/usr/share/gnome-nibbles/levels/level016.gnl
+/usr/share/gnome-nibbles/levels/level017.gnl
+/usr/share/gnome-nibbles/levels/level018.gnl
+/usr/share/gnome-nibbles/levels/level019.gnl
+/usr/share/gnome-nibbles/levels/level020.gnl
+/usr/share/gnome-nibbles/levels/level021.gnl
+/usr/share/gnome-nibbles/levels/level022.gnl
+/usr/share/gnome-nibbles/levels/level023.gnl
+/usr/share/gnome-nibbles/levels/level024.gnl
+/usr/share/gnome-nibbles/levels/level025.gnl
+/usr/share/gnome-nibbles/levels/level026.gnl
+/usr/share/gnome-nibbles/pixmaps/arrow.svg
+/usr/share/gnome-nibbles/pixmaps/bonus1.svg
+/usr/share/gnome-nibbles/pixmaps/bonus2.svg
+/usr/share/gnome-nibbles/pixmaps/bonus3.svg
+/usr/share/gnome-nibbles/pixmaps/diamond.svg
+/usr/share/gnome-nibbles/pixmaps/life.svg
+/usr/share/gnome-nibbles/pixmaps/questionmark.svg
+/usr/share/gnome-nibbles/pixmaps/scoreboard-life.svg
+/usr/share/gnome-nibbles/pixmaps/snake-blue.svg
+/usr/share/gnome-nibbles/pixmaps/snake-cyan.svg
+/usr/share/gnome-nibbles/pixmaps/snake-green.svg
+/usr/share/gnome-nibbles/pixmaps/snake-magenta.svg
+/usr/share/gnome-nibbles/pixmaps/snake-red.svg
+/usr/share/gnome-nibbles/pixmaps/snake-yellow.svg
+/usr/share/gnome-nibbles/pixmaps/wall-corner-bottom-left.svg
+/usr/share/gnome-nibbles/pixmaps/wall-corner-bottom-right.svg
+/usr/share/gnome-nibbles/pixmaps/wall-corner-top-left.svg
+/usr/share/gnome-nibbles/pixmaps/wall-corner-top-right.svg
+/usr/share/gnome-nibbles/pixmaps/wall-cross.svg
+/usr/share/gnome-nibbles/pixmaps/wall-straight-side.svg
+/usr/share/gnome-nibbles/pixmaps/wall-straight-up.svg
+/usr/share/gnome-nibbles/pixmaps/wall-tee-down.svg
+/usr/share/gnome-nibbles/pixmaps/wall-tee-left.svg
+/usr/share/gnome-nibbles/pixmaps/wall-tee-right.svg
+/usr/share/gnome-nibbles/pixmaps/wall-tee-up.svg
+/usr/share/gnome-nibbles/sounds/appear.ogg
+/usr/share/gnome-nibbles/sounds/bonus.ogg
+/usr/share/gnome-nibbles/sounds/crash.ogg
+/usr/share/gnome-nibbles/sounds/gameover.ogg
+/usr/share/gnome-nibbles/sounds/gobble.ogg
+/usr/share/gnome-nibbles/sounds/life.ogg
+/usr/share/gnome-nibbles/sounds/reverse.ogg
+/usr/share/gnome-nibbles/sounds/teleport.ogg
+/usr/share/help/C/gnome-nibbles/basics.page
+/usr/share/help/C/gnome-nibbles/controls-change.page
+/usr/share/help/C/gnome-nibbles/controls-default.page
+/usr/share/help/C/gnome-nibbles/fake-bonus.page
+/usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/C/gnome-nibbles/index.page
+/usr/share/help/C/gnome-nibbles/legal.xml
+/usr/share/help/C/gnome-nibbles/multi-player.page
+/usr/share/help/C/gnome-nibbles/scores.page
+/usr/share/help/C/gnome-nibbles/sound-change.page
+/usr/share/help/C/gnome-nibbles/speed-change.page
+/usr/share/help/ca/gnome-nibbles/basics.page
+/usr/share/help/ca/gnome-nibbles/controls-change.page
+/usr/share/help/ca/gnome-nibbles/controls-default.page
+/usr/share/help/ca/gnome-nibbles/fake-bonus.page
+/usr/share/help/ca/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/ca/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/ca/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/ca/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/ca/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/ca/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/ca/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/ca/gnome-nibbles/index.page
+/usr/share/help/ca/gnome-nibbles/legal.xml
+/usr/share/help/ca/gnome-nibbles/multi-player.page
+/usr/share/help/ca/gnome-nibbles/scores.page
+/usr/share/help/ca/gnome-nibbles/sound-change.page
+/usr/share/help/ca/gnome-nibbles/speed-change.page
+/usr/share/help/cs/gnome-nibbles/basics.page
+/usr/share/help/cs/gnome-nibbles/controls-change.page
+/usr/share/help/cs/gnome-nibbles/controls-default.page
+/usr/share/help/cs/gnome-nibbles/fake-bonus.page
+/usr/share/help/cs/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/cs/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/cs/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/cs/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/cs/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/cs/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/cs/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/cs/gnome-nibbles/index.page
+/usr/share/help/cs/gnome-nibbles/legal.xml
+/usr/share/help/cs/gnome-nibbles/multi-player.page
+/usr/share/help/cs/gnome-nibbles/scores.page
+/usr/share/help/cs/gnome-nibbles/sound-change.page
+/usr/share/help/cs/gnome-nibbles/speed-change.page
+/usr/share/help/da/gnome-nibbles/basics.page
+/usr/share/help/da/gnome-nibbles/controls-change.page
+/usr/share/help/da/gnome-nibbles/controls-default.page
+/usr/share/help/da/gnome-nibbles/fake-bonus.page
+/usr/share/help/da/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/da/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/da/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/da/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/da/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/da/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/da/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/da/gnome-nibbles/index.page
+/usr/share/help/da/gnome-nibbles/legal.xml
+/usr/share/help/da/gnome-nibbles/multi-player.page
+/usr/share/help/da/gnome-nibbles/scores.page
+/usr/share/help/da/gnome-nibbles/sound-change.page
+/usr/share/help/da/gnome-nibbles/speed-change.page
+/usr/share/help/de/gnome-nibbles/basics.page
+/usr/share/help/de/gnome-nibbles/controls-change.page
+/usr/share/help/de/gnome-nibbles/controls-default.page
+/usr/share/help/de/gnome-nibbles/fake-bonus.page
+/usr/share/help/de/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/de/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/de/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/de/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/de/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/de/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/de/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/de/gnome-nibbles/index.page
+/usr/share/help/de/gnome-nibbles/legal.xml
+/usr/share/help/de/gnome-nibbles/multi-player.page
+/usr/share/help/de/gnome-nibbles/scores.page
+/usr/share/help/de/gnome-nibbles/sound-change.page
+/usr/share/help/de/gnome-nibbles/speed-change.page
+/usr/share/help/el/gnome-nibbles/basics.page
+/usr/share/help/el/gnome-nibbles/controls-change.page
+/usr/share/help/el/gnome-nibbles/controls-default.page
+/usr/share/help/el/gnome-nibbles/fake-bonus.page
+/usr/share/help/el/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/el/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/el/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/el/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/el/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/el/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/el/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/el/gnome-nibbles/index.page
+/usr/share/help/el/gnome-nibbles/legal.xml
+/usr/share/help/el/gnome-nibbles/multi-player.page
+/usr/share/help/el/gnome-nibbles/scores.page
+/usr/share/help/el/gnome-nibbles/sound-change.page
+/usr/share/help/el/gnome-nibbles/speed-change.page
+/usr/share/help/es/gnome-nibbles/basics.page
+/usr/share/help/es/gnome-nibbles/controls-change.page
+/usr/share/help/es/gnome-nibbles/controls-default.page
+/usr/share/help/es/gnome-nibbles/fake-bonus.page
+/usr/share/help/es/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/es/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/es/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/es/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/es/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/es/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/es/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/es/gnome-nibbles/index.page
+/usr/share/help/es/gnome-nibbles/legal.xml
+/usr/share/help/es/gnome-nibbles/multi-player.page
+/usr/share/help/es/gnome-nibbles/scores.page
+/usr/share/help/es/gnome-nibbles/sound-change.page
+/usr/share/help/es/gnome-nibbles/speed-change.page
+/usr/share/help/eu/gnome-nibbles/basics.page
+/usr/share/help/eu/gnome-nibbles/controls-change.page
+/usr/share/help/eu/gnome-nibbles/controls-default.page
+/usr/share/help/eu/gnome-nibbles/fake-bonus.page
+/usr/share/help/eu/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/eu/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/eu/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/eu/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/eu/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/eu/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/eu/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/eu/gnome-nibbles/index.page
+/usr/share/help/eu/gnome-nibbles/legal.xml
+/usr/share/help/eu/gnome-nibbles/multi-player.page
+/usr/share/help/eu/gnome-nibbles/scores.page
+/usr/share/help/eu/gnome-nibbles/sound-change.page
+/usr/share/help/eu/gnome-nibbles/speed-change.page
+/usr/share/help/fr/gnome-nibbles/basics.page
+/usr/share/help/fr/gnome-nibbles/controls-change.page
+/usr/share/help/fr/gnome-nibbles/controls-default.page
+/usr/share/help/fr/gnome-nibbles/fake-bonus.page
+/usr/share/help/fr/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/fr/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/fr/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/fr/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/fr/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/fr/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/fr/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/fr/gnome-nibbles/index.page
+/usr/share/help/fr/gnome-nibbles/legal.xml
+/usr/share/help/fr/gnome-nibbles/multi-player.page
+/usr/share/help/fr/gnome-nibbles/scores.page
+/usr/share/help/fr/gnome-nibbles/sound-change.page
+/usr/share/help/fr/gnome-nibbles/speed-change.page
+/usr/share/help/hu/gnome-nibbles/basics.page
+/usr/share/help/hu/gnome-nibbles/controls-change.page
+/usr/share/help/hu/gnome-nibbles/controls-default.page
+/usr/share/help/hu/gnome-nibbles/fake-bonus.page
+/usr/share/help/hu/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/hu/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/hu/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/hu/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/hu/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/hu/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/hu/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/hu/gnome-nibbles/index.page
+/usr/share/help/hu/gnome-nibbles/legal.xml
+/usr/share/help/hu/gnome-nibbles/multi-player.page
+/usr/share/help/hu/gnome-nibbles/scores.page
+/usr/share/help/hu/gnome-nibbles/sound-change.page
+/usr/share/help/hu/gnome-nibbles/speed-change.page
+/usr/share/help/ko/gnome-nibbles/basics.page
+/usr/share/help/ko/gnome-nibbles/controls-change.page
+/usr/share/help/ko/gnome-nibbles/controls-default.page
+/usr/share/help/ko/gnome-nibbles/fake-bonus.page
+/usr/share/help/ko/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/ko/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/ko/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/ko/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/ko/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/ko/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/ko/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/ko/gnome-nibbles/index.page
+/usr/share/help/ko/gnome-nibbles/legal.xml
+/usr/share/help/ko/gnome-nibbles/multi-player.page
+/usr/share/help/ko/gnome-nibbles/scores.page
+/usr/share/help/ko/gnome-nibbles/sound-change.page
+/usr/share/help/ko/gnome-nibbles/speed-change.page
+/usr/share/help/pl/gnome-nibbles/basics.page
+/usr/share/help/pl/gnome-nibbles/controls-change.page
+/usr/share/help/pl/gnome-nibbles/controls-default.page
+/usr/share/help/pl/gnome-nibbles/fake-bonus.page
+/usr/share/help/pl/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/pl/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/pl/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/pl/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/pl/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/pl/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/pl/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/pl/gnome-nibbles/index.page
+/usr/share/help/pl/gnome-nibbles/legal.xml
+/usr/share/help/pl/gnome-nibbles/multi-player.page
+/usr/share/help/pl/gnome-nibbles/scores.page
+/usr/share/help/pl/gnome-nibbles/sound-change.page
+/usr/share/help/pl/gnome-nibbles/speed-change.page
+/usr/share/help/pt_BR/gnome-nibbles/basics.page
+/usr/share/help/pt_BR/gnome-nibbles/controls-change.page
+/usr/share/help/pt_BR/gnome-nibbles/controls-default.page
+/usr/share/help/pt_BR/gnome-nibbles/fake-bonus.page
+/usr/share/help/pt_BR/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/pt_BR/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/pt_BR/gnome-nibbles/index.page
+/usr/share/help/pt_BR/gnome-nibbles/legal.xml
+/usr/share/help/pt_BR/gnome-nibbles/multi-player.page
+/usr/share/help/pt_BR/gnome-nibbles/scores.page
+/usr/share/help/pt_BR/gnome-nibbles/sound-change.page
+/usr/share/help/pt_BR/gnome-nibbles/speed-change.page
+/usr/share/help/ru/gnome-nibbles/basics.page
+/usr/share/help/ru/gnome-nibbles/controls-change.page
+/usr/share/help/ru/gnome-nibbles/controls-default.page
+/usr/share/help/ru/gnome-nibbles/fake-bonus.page
+/usr/share/help/ru/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/ru/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/ru/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/ru/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/ru/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/ru/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/ru/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/ru/gnome-nibbles/index.page
+/usr/share/help/ru/gnome-nibbles/legal.xml
+/usr/share/help/ru/gnome-nibbles/multi-player.page
+/usr/share/help/ru/gnome-nibbles/scores.page
+/usr/share/help/ru/gnome-nibbles/sound-change.page
+/usr/share/help/ru/gnome-nibbles/speed-change.page
+/usr/share/help/sv/gnome-nibbles/basics.page
+/usr/share/help/sv/gnome-nibbles/controls-change.page
+/usr/share/help/sv/gnome-nibbles/controls-default.page
+/usr/share/help/sv/gnome-nibbles/fake-bonus.page
+/usr/share/help/sv/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/sv/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/sv/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/sv/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/sv/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/sv/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/sv/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/sv/gnome-nibbles/index.page
+/usr/share/help/sv/gnome-nibbles/legal.xml
+/usr/share/help/sv/gnome-nibbles/multi-player.page
+/usr/share/help/sv/gnome-nibbles/scores.page
+/usr/share/help/sv/gnome-nibbles/sound-change.page
+/usr/share/help/sv/gnome-nibbles/speed-change.page
+/usr/share/help/tr/gnome-nibbles/basics.page
+/usr/share/help/tr/gnome-nibbles/controls-change.page
+/usr/share/help/tr/gnome-nibbles/controls-default.page
+/usr/share/help/tr/gnome-nibbles/fake-bonus.page
+/usr/share/help/tr/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/tr/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/tr/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/tr/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/tr/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/tr/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/tr/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/tr/gnome-nibbles/index.page
+/usr/share/help/tr/gnome-nibbles/legal.xml
+/usr/share/help/tr/gnome-nibbles/multi-player.page
+/usr/share/help/tr/gnome-nibbles/scores.page
+/usr/share/help/tr/gnome-nibbles/sound-change.page
+/usr/share/help/tr/gnome-nibbles/speed-change.page
+/usr/share/help/uk/gnome-nibbles/basics.page
+/usr/share/help/uk/gnome-nibbles/controls-change.page
+/usr/share/help/uk/gnome-nibbles/controls-default.page
+/usr/share/help/uk/gnome-nibbles/fake-bonus.page
+/usr/share/help/uk/gnome-nibbles/figures/apple.svg -> /usr/share/help/C/gnome-nibbles/figures/apple.svg
+/usr/share/help/uk/gnome-nibbles/figures/banana.svg -> /usr/share/help/C/gnome-nibbles/figures/banana.svg
+/usr/share/help/uk/gnome-nibbles/figures/cherry.svg -> /usr/share/help/C/gnome-nibbles/figures/cherry.svg
+/usr/share/help/uk/gnome-nibbles/figures/diamond.svg -> /usr/share/help/C/gnome-nibbles/figures/diamond.svg
+/usr/share/help/uk/gnome-nibbles/figures/emblem-system-symbolic.svg -> /usr/share/help/C/gnome-nibbles/figures/emblem-system-symbolic.svg
+/usr/share/help/uk/gnome-nibbles/figures/life.svg -> /usr/share/help/C/gnome-nibbles/figures/life.svg
+/usr/share/help/uk/gnome-nibbles/figures/nibbles.svg -> /usr/share/help/C/gnome-nibbles/figures/nibbles.svg
+/usr/share/help/uk/gnome-nibbles/index.page
+/usr/share/help/uk/gnome-nibbles/legal.xml
+/usr/share/help/uk/gnome-nibbles/multi-player.page
+/usr/share/help/uk/gnome-nibbles/scores.page
+/usr/share/help/uk/gnome-nibbles/sound-change.page
+/usr/share/help/uk/gnome-nibbles/speed-change.page
+/usr/share/icons/hicolor/scalable/apps/org.gnome.Nibbles.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.Nibbles-symbolic.svg
+/usr/share/locale/ab/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/af/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/am/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ar/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/as/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ast/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/az/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/be/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/bg/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/bn/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/bn_IN/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/br/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/bs/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ca/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/cs/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/cy/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/da/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/de/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/dz/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/el/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/en@shaw/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/en_CA/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/en_GB/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/eo/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/es/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/et/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/eu/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/fa/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/fi/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/fr/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/fur/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ga/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/gl/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/gu/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/he/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/hi/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/hr/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/hu/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/id/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/is/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/it/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ja/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ka/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/kk/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/km/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/kn/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ko/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ku/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/lt/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/lv/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/mai/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/mk/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ml/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/mn/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/mr/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ms/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/nb/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ne/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/nl/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/nn/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/oc/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/or/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/pa/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/pl/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/pt/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ro/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ru/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/rw/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/si/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sk/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sl/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sq/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sr/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/sv/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ta/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/te/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/tg/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/th/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/tr/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/ug/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/uk/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/vi/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/wa/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/xh/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/gnome-nibbles.mo
+/usr/share/man/man6/gnome-nibbles.6
+/usr/share/metainfo/org.gnome.Nibbles.appdata.xml

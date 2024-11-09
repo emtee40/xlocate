@@ -1,0 +1,5 @@
+/etc/hosts.local
+/usr/bin/hosts-update
+/usr/bin/hosts_update -> /usr/bin/hosts-update
+/usr/share/licenses/hosts-update/MIT
+/usr/share/man/man1/hosts-update.1

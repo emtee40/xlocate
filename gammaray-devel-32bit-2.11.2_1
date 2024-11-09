@@ -1,0 +1,8 @@
+/usr/lib32/libgammaray_client.so -> /usr/lib32/libgammaray_client.so.2.11.2
+/usr/lib32/libgammaray_common-qt5_15-i686.so -> /usr/lib32/libgammaray_common-qt5_15-i686.so.2.11.2
+/usr/lib32/libgammaray_core-qt5_15-i686.so -> /usr/lib32/libgammaray_core-qt5_15-i686.so.2.11.2
+/usr/lib32/libgammaray_kitemmodels-qt5_15-i686.so -> /usr/lib32/libgammaray_kitemmodels-qt5_15-i686.so.2.11.2
+/usr/lib32/libgammaray_kuserfeedback.so -> /usr/lib32/libgammaray_kuserfeedback.so.2.11.2
+/usr/lib32/libgammaray_launcher.so -> /usr/lib32/libgammaray_launcher.so.2.11.2
+/usr/lib32/libgammaray_launcher_ui.so -> /usr/lib32/libgammaray_launcher_ui.so.2.11.2
+/usr/lib32/libgammaray_ui-qt5_15-i686.so -> /usr/lib32/libgammaray_ui-qt5_15-i686.so.2.11.2

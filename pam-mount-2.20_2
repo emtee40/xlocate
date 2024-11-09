@@ -1,0 +1,19 @@
+/etc/security/pam_mount.conf.xml
+/usr/bin/mount.crypt
+/usr/bin/mount.crypt_LUKS -> /usr/bin/mount.crypt
+/usr/bin/mount.crypto_LUKS -> /usr/bin/mount.crypt
+/usr/bin/pmt-ehd
+/usr/bin/pmvarrun
+/usr/bin/umount.crypt -> /usr/bin/mount.crypt
+/usr/bin/umount.crypt_LUKS -> /usr/bin/mount.crypt
+/usr/bin/umount.crypto_LUKS -> /usr/bin/mount.crypt
+/usr/share/man/man5/pam_mount.conf.5
+/usr/share/man/man8/mount.crypt.8
+/usr/share/man/man8/mount.crypt_LUKS.8
+/usr/share/man/man8/mount.crypto_LUKS.8
+/usr/share/man/man8/pam_mount.8
+/usr/share/man/man8/pmt-ehd.8
+/usr/share/man/man8/pmvarrun.8
+/usr/share/man/man8/umount.crypt.8
+/usr/share/man/man8/umount.crypt_LUKS.8
+/usr/share/man/man8/umount.crypto_LUKS.8

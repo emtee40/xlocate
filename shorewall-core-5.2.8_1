@@ -1,0 +1,10 @@
+/usr/bin/shorewall
+/usr/share/man/man8/shorewall.8
+/usr/share/shorewall/coreversion
+/usr/share/shorewall/functions -> /usr/share/shorewall/lib.base
+/usr/share/shorewall/lib.base
+/usr/share/shorewall/lib.cli
+/usr/share/shorewall/lib.common
+/usr/share/shorewall/lib.core
+/usr/share/shorewall/shorewallrc
+/usr/share/shorewall/wait4ifup

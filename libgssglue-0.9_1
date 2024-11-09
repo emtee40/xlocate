@@ -1,0 +1,4 @@
+/etc/gssapi_mech.conf
+/usr/lib/libgssglue.so.1 -> /usr/lib/libgssglue.so.1.0.0
+/usr/lib/libgssglue.so.1.0.0
+/usr/share/licenses/libgssglue/COPYING

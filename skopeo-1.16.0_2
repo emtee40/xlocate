@@ -1,0 +1,16 @@
+/usr/bin/skopeo
+/usr/share/bash-completion/completions/skopeo
+/usr/share/fish/vendor_completions.d/skopeo.fish
+/usr/share/man/man1/skopeo-copy.1
+/usr/share/man/man1/skopeo-delete.1
+/usr/share/man/man1/skopeo-generate-sigstore-key.1
+/usr/share/man/man1/skopeo-inspect.1
+/usr/share/man/man1/skopeo-list-tags.1
+/usr/share/man/man1/skopeo-login.1
+/usr/share/man/man1/skopeo-logout.1
+/usr/share/man/man1/skopeo-manifest-digest.1
+/usr/share/man/man1/skopeo-standalone-sign.1
+/usr/share/man/man1/skopeo-standalone-verify.1
+/usr/share/man/man1/skopeo-sync.1
+/usr/share/man/man1/skopeo.1
+/usr/share/zsh/site-functions/_skopeo

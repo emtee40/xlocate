@@ -1,0 +1,54 @@
+/usr/bin/mkwinpeimg
+/usr/bin/wimappend
+/usr/bin/wimapply
+/usr/bin/wimcapture
+/usr/bin/wimdelete
+/usr/bin/wimdir
+/usr/bin/wimexport
+/usr/bin/wimextract
+/usr/bin/wiminfo
+/usr/bin/wimjoin
+/usr/bin/wimlib-imagex
+/usr/bin/wimmount
+/usr/bin/wimmountrw
+/usr/bin/wimoptimize
+/usr/bin/wimsplit
+/usr/bin/wimunmount
+/usr/bin/wimupdate
+/usr/bin/wimverify
+/usr/lib/libwim.so.15 -> /usr/lib/libwim.so.15.26.0
+/usr/lib/libwim.so.15.26.0
+/usr/share/man/man1/mkwinpeimg.1
+/usr/share/man/man1/wimappend.1
+/usr/share/man/man1/wimapply.1
+/usr/share/man/man1/wimcapture.1
+/usr/share/man/man1/wimdelete.1
+/usr/share/man/man1/wimdir.1
+/usr/share/man/man1/wimexport.1
+/usr/share/man/man1/wimextract.1
+/usr/share/man/man1/wiminfo.1
+/usr/share/man/man1/wimjoin.1
+/usr/share/man/man1/wimlib-imagex-append.1 -> /usr/share/man/man1/wimappend.1
+/usr/share/man/man1/wimlib-imagex-apply.1 -> /usr/share/man/man1/wimapply.1
+/usr/share/man/man1/wimlib-imagex-capture.1 -> /usr/share/man/man1/wimcapture.1
+/usr/share/man/man1/wimlib-imagex-delete.1 -> /usr/share/man/man1/wimdelete.1
+/usr/share/man/man1/wimlib-imagex-dir.1 -> /usr/share/man/man1/wimdir.1
+/usr/share/man/man1/wimlib-imagex-export.1 -> /usr/share/man/man1/wimexport.1
+/usr/share/man/man1/wimlib-imagex-extract.1 -> /usr/share/man/man1/wimextract.1
+/usr/share/man/man1/wimlib-imagex-info.1 -> /usr/share/man/man1/wiminfo.1
+/usr/share/man/man1/wimlib-imagex-join.1 -> /usr/share/man/man1/wimjoin.1
+/usr/share/man/man1/wimlib-imagex-mount.1 -> /usr/share/man/man1/wimmount.1
+/usr/share/man/man1/wimlib-imagex-mountrw.1 -> /usr/share/man/man1/wimmountrw.1
+/usr/share/man/man1/wimlib-imagex-optimize.1 -> /usr/share/man/man1/wimoptimize.1
+/usr/share/man/man1/wimlib-imagex-split.1 -> /usr/share/man/man1/wimsplit.1
+/usr/share/man/man1/wimlib-imagex-unmount.1 -> /usr/share/man/man1/wimunmount.1
+/usr/share/man/man1/wimlib-imagex-update.1 -> /usr/share/man/man1/wimupdate.1
+/usr/share/man/man1/wimlib-imagex-verify.1 -> /usr/share/man/man1/wimverify.1
+/usr/share/man/man1/wimlib-imagex.1
+/usr/share/man/man1/wimmount.1
+/usr/share/man/man1/wimmountrw.1
+/usr/share/man/man1/wimoptimize.1
+/usr/share/man/man1/wimsplit.1
+/usr/share/man/man1/wimunmount.1
+/usr/share/man/man1/wimupdate.1
+/usr/share/man/man1/wimverify.1

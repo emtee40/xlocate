@@ -1,0 +1,6 @@
+/usr/lib32/libjpeg.a
+/usr/lib32/libjpeg.so -> /usr/lib32/libjpeg.so.8
+/usr/lib32/libturbojpeg.a
+/usr/lib32/libturbojpeg.so -> /usr/lib32/libturbojpeg.so.0
+/usr/lib32/pkgconfig/libjpeg.pc
+/usr/lib32/pkgconfig/libturbojpeg.pc

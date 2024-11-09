@@ -1,0 +1,8 @@
+/etc/sv/umurmurd/log/run
+/etc/sv/umurmurd/log/supervise -> /run/runit/supervise.umurmurd-log
+/etc/sv/umurmurd/run
+/etc/sv/umurmurd/supervise -> /run/runit/supervise.umurmurd
+/etc/umurmur/umurmur.conf
+/usr/bin/umurmurd
+/usr/share/doc/umurmur/README.md
+/usr/share/licenses/umurmur/LICENSE

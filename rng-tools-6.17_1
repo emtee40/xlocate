@@ -1,0 +1,9 @@
+/etc/sv/rngd/log/run
+/etc/sv/rngd/log/supervise -> /run/runit/supervise.rngd-log
+/etc/sv/rngd/run
+/etc/sv/rngd/supervise -> /run/runit/supervise.rngd
+/usr/bin/randstat
+/usr/bin/rngd
+/usr/bin/rngtest
+/usr/share/man/man1/rngtest.1
+/usr/share/man/man8/rngd.8

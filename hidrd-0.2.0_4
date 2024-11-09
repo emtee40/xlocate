@@ -1,0 +1,13 @@
+/usr/bin/hidrd-convert
+/usr/lib/libhidrd_fmt.so.0 -> /usr/lib/libhidrd_fmt.so.0.0.0
+/usr/lib/libhidrd_fmt.so.0.0.0
+/usr/lib/libhidrd_item.so.0 -> /usr/lib/libhidrd_item.so.0.0.0
+/usr/lib/libhidrd_item.so.0.0.0
+/usr/lib/libhidrd_opt.so.0 -> /usr/lib/libhidrd_opt.so.0.0.0
+/usr/lib/libhidrd_opt.so.0.0.0
+/usr/lib/libhidrd_strm.so.0 -> /usr/lib/libhidrd_strm.so.0.0.0
+/usr/lib/libhidrd_strm.so.0.0.0
+/usr/lib/libhidrd_usage.so.0 -> /usr/lib/libhidrd_usage.so.0.0.0
+/usr/lib/libhidrd_usage.so.0.0.0
+/usr/lib/libhidrd_util.so.0 -> /usr/lib/libhidrd_util.so.0.0.0
+/usr/lib/libhidrd_util.so.0.0.0

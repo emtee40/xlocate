@@ -1,0 +1,4 @@
+/usr/lib32/libINIReader.so -> /usr/lib32/libINIReader.so.0
+/usr/lib32/libinih.so -> /usr/lib32/libinih.so.0
+/usr/lib32/pkgconfig/INIReader.pc
+/usr/lib32/pkgconfig/inih.pc

@@ -1,0 +1,34 @@
+/usr/include/KF6/KCMUtils/KCModule
+/usr/include/KF6/KCMUtils/KCModuleLoader
+/usr/include/KF6/KCMUtils/KCMultiDialog
+/usr/include/KF6/KCMUtils/KPluginWidget
+/usr/include/KF6/KCMUtils/kcmodule.h
+/usr/include/KF6/KCMUtils/kcmoduleloader.h
+/usr/include/KF6/KCMUtils/kcmultidialog.h
+/usr/include/KF6/KCMUtils/kcmutils_export.h
+/usr/include/KF6/KCMUtils/kcmutils_version.h
+/usr/include/KF6/KCMUtils/kpluginwidget.h
+/usr/include/KF6/KCMUtilsCore/KAbstractConfigModule
+/usr/include/KF6/KCMUtilsCore/KCModuleData
+/usr/include/KF6/KCMUtilsCore/KPluginModel
+/usr/include/KF6/KCMUtilsCore/kabstractconfigmodule.h
+/usr/include/KF6/KCMUtilsCore/kcmoduledata.h
+/usr/include/KF6/KCMUtilsCore/kcmutilscore_export.h
+/usr/include/KF6/KCMUtilsCore/kpluginmodel.h
+/usr/include/KF6/KCMUtilsQuick/KQuickConfigModule
+/usr/include/KF6/KCMUtilsQuick/KQuickConfigModuleLoader
+/usr/include/KF6/KCMUtilsQuick/KQuickManagedConfigModule
+/usr/include/KF6/KCMUtilsQuick/kcmutilsquick_export.h
+/usr/include/KF6/KCMUtilsQuick/kquickconfigmodule.h
+/usr/include/KF6/KCMUtilsQuick/kquickconfigmoduleloader.h
+/usr/include/KF6/KCMUtilsQuick/kquickmanagedconfigmodule.h
+/usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsConfig.cmake
+/usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsConfigVersion.cmake
+/usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsMacros.cmake
+/usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsTargets-none.cmake
+/usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsTargets.cmake
+/usr/lib/cmake/KF6KCMUtils/kcmutilsgeneratemoduledata.cpp.in
+/usr/lib/cmake/KF6KCMUtils/kcmutilsgeneratemoduledata.h.in
+/usr/lib/libKF6KCMUtils.so -> /usr/lib/libKF6KCMUtils.so.6
+/usr/lib/libKF6KCMUtilsCore.so -> /usr/lib/libKF6KCMUtilsCore.so.6
+/usr/lib/libKF6KCMUtilsQuick.so -> /usr/lib/libKF6KCMUtilsQuick.so.6

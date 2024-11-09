@@ -1,0 +1,6 @@
+/usr/lib32/libccext2.a
+/usr/lib32/libccext2.so -> /usr/lib32/libccext2-1.8.so.0.0.1
+/usr/lib32/libccgnu2.a
+/usr/lib32/libccgnu2.so -> /usr/lib32/libccgnu2-1.8.so.0.0.1
+/usr/lib32/pkgconfig/libccext2.pc
+/usr/lib32/pkgconfig/libccgnu2.pc

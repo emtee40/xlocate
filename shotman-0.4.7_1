@@ -1,0 +1,6 @@
+/usr/bin/shotman
+/usr/share/bash-completion/completions/shotman
+/usr/share/fish/vendor_completions.d/shotman.fish
+/usr/share/licenses/shotman/LICENCE.md
+/usr/share/man/man1/shotman.1
+/usr/share/zsh/site-functions/_shotman

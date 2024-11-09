@@ -1,0 +1,31 @@
+/usr/lib/girepository-1.0/LibvirtGConfig-1.0.typelib
+/usr/lib/girepository-1.0/LibvirtGLib-1.0.typelib
+/usr/lib/girepository-1.0/LibvirtGObject-1.0.typelib
+/usr/lib/libvirt-gconfig-1.0.so.0 -> /usr/lib/libvirt-gconfig-1.0.so.0.5000.0
+/usr/lib/libvirt-gconfig-1.0.so.0.5000.0
+/usr/lib/libvirt-glib-1.0.so.0 -> /usr/lib/libvirt-glib-1.0.so.0.5000.0
+/usr/lib/libvirt-glib-1.0.so.0.5000.0
+/usr/lib/libvirt-gobject-1.0.so.0 -> /usr/lib/libvirt-gobject-1.0.so.0.5000.0
+/usr/lib/libvirt-gobject-1.0.so.0.5000.0
+/usr/share/locale/ca/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/cs/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/de/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/en_GB/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/es/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/fi/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/fr/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/hi/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/id/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/it/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/ja/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/ka/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/ko/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/nl/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/pl/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/ro/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/ru/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/si/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/sv/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/tr/LC_MESSAGES/libvirt-glib.mo
+/usr/share/locale/uk/LC_MESSAGES/libvirt-glib.mo

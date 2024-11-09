@@ -1,0 +1,14 @@
+/usr/include/qt6/QtBodymovin/QtBodymovin
+/usr/include/qt6/QtBodymovin/QtBodymovinDepends
+/usr/include/qt6/QtBodymovin/QtBodymovinVersion
+/usr/include/qt6/QtBodymovin/bmglobal.h
+/usr/include/qt6/QtBodymovin/qtbodymovinversion.h
+/usr/lib/cmake/Qt6BuildInternals/StandaloneTests/QtLottieTestsConfig.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginAdditionalTargetInfo.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginConfig.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginConfigVersion.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginConfigVersionImpl.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginTargets-none.cmake
+/usr/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginTargets.cmake
+/usr/lib/libQt6Bodymovin.prl
+/usr/lib/libQt6Bodymovin.so -> /usr/lib/libQt6Bodymovin.so.6

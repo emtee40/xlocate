@@ -1,0 +1,7 @@
+/usr/include/libgepub-0.7/gepub-archive.h
+/usr/include/libgepub-0.7/gepub-doc.h
+/usr/include/libgepub-0.7/gepub-text-chunk.h
+/usr/include/libgepub-0.7/gepub.h
+/usr/lib/libgepub-0.7.so -> /usr/lib/libgepub-0.7.so.0
+/usr/lib/pkgconfig/libgepub-0.7.pc
+/usr/share/gir-1.0/Gepub-0.7.gir

@@ -1,0 +1,8 @@
+/usr/bin/v4l2loopback-ctl
+/usr/share/man/man1/v4l2loopback-ctl.1
+/usr/src/v4l2loopback-0.13.2/Kbuild
+/usr/src/v4l2loopback-0.13.2/Makefile
+/usr/src/v4l2loopback-0.13.2/dkms.conf
+/usr/src/v4l2loopback-0.13.2/v4l2loopback.c
+/usr/src/v4l2loopback-0.13.2/v4l2loopback.h
+/usr/src/v4l2loopback-0.13.2/v4l2loopback_formats.h

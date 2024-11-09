@@ -1,0 +1,5 @@
+/usr/lib32/libsdb.a
+/usr/lib32/libsdb.so -> /usr/lib32/libsdb.so.1.4.1
+/usr/lib32/libsdbtypes.a
+/usr/lib32/pkgconfig/sdb.pc
+/usr/lib32/pkgconfig/sdbtypes.pc

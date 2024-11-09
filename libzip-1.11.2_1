@@ -1,0 +1,9 @@
+/usr/bin/zipcmp
+/usr/bin/zipmerge
+/usr/bin/ziptool
+/usr/lib/libzip.so.5 -> /usr/lib/libzip.so.5.5
+/usr/lib/libzip.so.5.5
+/usr/share/licenses/libzip/LICENSE
+/usr/share/man/man1/zipcmp.1
+/usr/share/man/man1/zipmerge.1
+/usr/share/man/man1/ziptool.1

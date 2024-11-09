@@ -1,0 +1,108 @@
+/usr/lib/libQt5Pdf.so.5 -> /usr/lib/libQt5Pdf.so.5.15.2
+/usr/lib/libQt5Pdf.so.5.15 -> /usr/lib/libQt5Pdf.so.5.15.2
+/usr/lib/libQt5Pdf.so.5.15.2
+/usr/lib/libQt5PdfWidgets.so.5 -> /usr/lib/libQt5PdfWidgets.so.5.15.2
+/usr/lib/libQt5PdfWidgets.so.5.15 -> /usr/lib/libQt5PdfWidgets.so.5.15.2
+/usr/lib/libQt5PdfWidgets.so.5.15.2
+/usr/lib/libQt5WebEngine.so.5 -> /usr/lib/libQt5WebEngine.so.5.15.2
+/usr/lib/libQt5WebEngine.so.5.15 -> /usr/lib/libQt5WebEngine.so.5.15.2
+/usr/lib/libQt5WebEngine.so.5.15.2
+/usr/lib/libQt5WebEngineCore.so.5 -> /usr/lib/libQt5WebEngineCore.so.5.15.2
+/usr/lib/libQt5WebEngineCore.so.5.15 -> /usr/lib/libQt5WebEngineCore.so.5.15.2
+/usr/lib/libQt5WebEngineCore.so.5.15.2
+/usr/lib/libQt5WebEngineWidgets.so.5 -> /usr/lib/libQt5WebEngineWidgets.so.5.15.2
+/usr/lib/libQt5WebEngineWidgets.so.5.15 -> /usr/lib/libQt5WebEngineWidgets.so.5.15.2
+/usr/lib/libQt5WebEngineWidgets.so.5.15.2
+/usr/lib/qt5/bin/qwebengine_convert_dict
+/usr/lib/qt5/libexec/QtWebEngineProcess
+/usr/lib/qt5/plugins/imageformats/libqpdf.so
+/usr/lib/qt5/qml/QtQuick/Pdf/libpdfplugin.so
+/usr/lib/qt5/qml/QtQuick/Pdf/plugins.qmltypes
+/usr/lib/qt5/qml/QtQuick/Pdf/qml/PdfMultiPageView.qml
+/usr/lib/qt5/qml/QtQuick/Pdf/qml/PdfPageView.qml
+/usr/lib/qt5/qml/QtQuick/Pdf/qml/PdfScrollablePageView.qml
+/usr/lib/qt5/qml/QtQuick/Pdf/qmldir
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/AlertDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/AuthenticationDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/ColorDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/ConfirmDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/FilePicker.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/Menu.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/MenuItem.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/MenuSeparator.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/PromptDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/ToolTip.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/TouchHandle.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/TouchSelectionMenu.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls1Delegates/qmldir
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/AlertDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/AuthenticationDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/ConfirmDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/Menu.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/MenuItem.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/MenuSeparator.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/PromptDialog.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/ToolTip.qml
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/information.png
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/qmldir
+/usr/lib/qt5/qml/QtWebEngine/Controls2Delegates/question.png
+/usr/lib/qt5/qml/QtWebEngine/libqtwebengineplugin.so
+/usr/lib/qt5/qml/QtWebEngine/plugins.qmltypes
+/usr/lib/qt5/qml/QtWebEngine/qmldir
+/usr/share/qt5/resources/qtwebengine_devtools_resources.pak
+/usr/share/qt5/resources/qtwebengine_resources.pak
+/usr/share/qt5/resources/qtwebengine_resources_100p.pak
+/usr/share/qt5/resources/qtwebengine_resources_200p.pak
+/usr/share/qt5/translations/qtwebengine_locales/am.pak
+/usr/share/qt5/translations/qtwebengine_locales/ar.pak
+/usr/share/qt5/translations/qtwebengine_locales/bg.pak
+/usr/share/qt5/translations/qtwebengine_locales/bn.pak
+/usr/share/qt5/translations/qtwebengine_locales/ca.pak
+/usr/share/qt5/translations/qtwebengine_locales/cs.pak
+/usr/share/qt5/translations/qtwebengine_locales/da.pak
+/usr/share/qt5/translations/qtwebengine_locales/de.pak
+/usr/share/qt5/translations/qtwebengine_locales/el.pak
+/usr/share/qt5/translations/qtwebengine_locales/en-GB.pak
+/usr/share/qt5/translations/qtwebengine_locales/en-US.pak
+/usr/share/qt5/translations/qtwebengine_locales/es-419.pak
+/usr/share/qt5/translations/qtwebengine_locales/es.pak
+/usr/share/qt5/translations/qtwebengine_locales/et.pak
+/usr/share/qt5/translations/qtwebengine_locales/fa.pak
+/usr/share/qt5/translations/qtwebengine_locales/fi.pak
+/usr/share/qt5/translations/qtwebengine_locales/fil.pak
+/usr/share/qt5/translations/qtwebengine_locales/fr.pak
+/usr/share/qt5/translations/qtwebengine_locales/gu.pak
+/usr/share/qt5/translations/qtwebengine_locales/he.pak
+/usr/share/qt5/translations/qtwebengine_locales/hi.pak
+/usr/share/qt5/translations/qtwebengine_locales/hr.pak
+/usr/share/qt5/translations/qtwebengine_locales/hu.pak
+/usr/share/qt5/translations/qtwebengine_locales/id.pak
+/usr/share/qt5/translations/qtwebengine_locales/it.pak
+/usr/share/qt5/translations/qtwebengine_locales/ja.pak
+/usr/share/qt5/translations/qtwebengine_locales/kn.pak
+/usr/share/qt5/translations/qtwebengine_locales/ko.pak
+/usr/share/qt5/translations/qtwebengine_locales/lt.pak
+/usr/share/qt5/translations/qtwebengine_locales/lv.pak
+/usr/share/qt5/translations/qtwebengine_locales/ml.pak
+/usr/share/qt5/translations/qtwebengine_locales/mr.pak
+/usr/share/qt5/translations/qtwebengine_locales/ms.pak
+/usr/share/qt5/translations/qtwebengine_locales/nb.pak
+/usr/share/qt5/translations/qtwebengine_locales/nl.pak
+/usr/share/qt5/translations/qtwebengine_locales/pl.pak
+/usr/share/qt5/translations/qtwebengine_locales/pt-BR.pak
+/usr/share/qt5/translations/qtwebengine_locales/pt-PT.pak
+/usr/share/qt5/translations/qtwebengine_locales/ro.pak
+/usr/share/qt5/translations/qtwebengine_locales/ru.pak
+/usr/share/qt5/translations/qtwebengine_locales/sk.pak
+/usr/share/qt5/translations/qtwebengine_locales/sl.pak
+/usr/share/qt5/translations/qtwebengine_locales/sr.pak
+/usr/share/qt5/translations/qtwebengine_locales/sv.pak
+/usr/share/qt5/translations/qtwebengine_locales/sw.pak
+/usr/share/qt5/translations/qtwebengine_locales/ta.pak
+/usr/share/qt5/translations/qtwebengine_locales/te.pak
+/usr/share/qt5/translations/qtwebengine_locales/th.pak
+/usr/share/qt5/translations/qtwebengine_locales/tr.pak
+/usr/share/qt5/translations/qtwebengine_locales/uk.pak
+/usr/share/qt5/translations/qtwebengine_locales/vi.pak
+/usr/share/qt5/translations/qtwebengine_locales/zh-CN.pak
+/usr/share/qt5/translations/qtwebengine_locales/zh-TW.pak

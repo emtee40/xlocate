@@ -1,0 +1,17 @@
+/usr/include/lua5.1/lauxlib.h
+/usr/include/lua5.1/lua.h
+/usr/include/lua5.1/lua.hpp
+/usr/include/lua5.1/luaconf.h
+/usr/include/lua5.1/lualib.h
+/usr/lib/liblua5.1.a
+/usr/lib/liblua5.1.so -> /usr/lib/liblua5.1.so.5.1.5
+/usr/lib/pkgconfig/lua5.1.pc
+/usr/share/doc/lua5.1/contents.html
+/usr/share/doc/lua5.1/cover.png
+/usr/share/doc/lua5.1/logo.gif
+/usr/share/doc/lua5.1/lua.css
+/usr/share/doc/lua5.1/lua.html
+/usr/share/doc/lua5.1/luac.html
+/usr/share/doc/lua5.1/manual.css
+/usr/share/doc/lua5.1/manual.html
+/usr/share/doc/lua5.1/readme.html

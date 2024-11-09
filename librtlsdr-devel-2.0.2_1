@@ -1,0 +1,9 @@
+/usr/include/rtl-sdr.h
+/usr/include/rtl-sdr_export.h
+/usr/lib/cmake/rtlsdr/rtlsdrConfig.cmake
+/usr/lib/cmake/rtlsdr/rtlsdrConfigVersion.cmake
+/usr/lib/cmake/rtlsdr/rtlsdrTargets-none.cmake
+/usr/lib/cmake/rtlsdr/rtlsdrTargets.cmake
+/usr/lib/librtlsdr.a
+/usr/lib/librtlsdr.so -> /usr/lib/librtlsdr.so.0
+/usr/lib/pkgconfig/librtlsdr.pc

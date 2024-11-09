@@ -1,0 +1,4 @@
+/usr/lib32/libhidapi-hidraw.so -> /usr/lib32/libhidapi-hidraw.so.0
+/usr/lib32/libhidapi-libusb.so -> /usr/lib32/libhidapi-libusb.so.0
+/usr/lib32/pkgconfig/hidapi-hidraw.pc
+/usr/lib32/pkgconfig/hidapi-libusb.pc

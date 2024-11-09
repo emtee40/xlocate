@@ -1,0 +1,48 @@
+/usr/lib32/libkexicore3.2.so -> /usr/lib32/libkexicore3.2.so.3.2
+/usr/lib32/libkexicore3.2.so.3.2 -> /usr/lib32/libkexicore3.2.so.3.2.0
+/usr/lib32/libkexicore3.2.so.3.2.0
+/usr/lib32/libkexidatatable3.2.so -> /usr/lib32/libkexidatatable3.2.so.3.2
+/usr/lib32/libkexidatatable3.2.so.3.2 -> /usr/lib32/libkexidatatable3.2.so.3.2.0
+/usr/lib32/libkexidatatable3.2.so.3.2.0
+/usr/lib32/libkexidataviewcommon3.2.so -> /usr/lib32/libkexidataviewcommon3.2.so.3.2
+/usr/lib32/libkexidataviewcommon3.2.so.3.2 -> /usr/lib32/libkexidataviewcommon3.2.so.3.2.0
+/usr/lib32/libkexidataviewcommon3.2.so.3.2.0
+/usr/lib32/libkexiextendedwidgets3.2.so -> /usr/lib32/libkexiextendedwidgets3.2.so.3.2
+/usr/lib32/libkexiextendedwidgets3.2.so.3.2 -> /usr/lib32/libkexiextendedwidgets3.2.so.3.2.0
+/usr/lib32/libkexiextendedwidgets3.2.so.3.2.0
+/usr/lib32/libkexiformutils3.2.so -> /usr/lib32/libkexiformutils3.2.so.3.2
+/usr/lib32/libkexiformutils3.2.so.3.2 -> /usr/lib32/libkexiformutils3.2.so.3.2.0
+/usr/lib32/libkexiformutils3.2.so.3.2.0
+/usr/lib32/libkexiguiutils3.2.so -> /usr/lib32/libkexiguiutils3.2.so.3.2
+/usr/lib32/libkexiguiutils3.2.so.3.2 -> /usr/lib32/libkexiguiutils3.2.so.3.2.0
+/usr/lib32/libkexiguiutils3.2.so.3.2.0
+/usr/lib32/libkeximain3.2.so -> /usr/lib32/libkeximain3.2.so.3.2
+/usr/lib32/libkeximain3.2.so.3.2 -> /usr/lib32/libkeximain3.2.so.3.2.0
+/usr/lib32/libkeximain3.2.so.3.2.0
+/usr/lib32/libkeximigrate3.2.so -> /usr/lib32/libkeximigrate3.2.so.3.2
+/usr/lib32/libkeximigrate3.2.so.3.2 -> /usr/lib32/libkeximigrate3.2.so.3.2.0
+/usr/lib32/libkeximigrate3.2.so.3.2.0
+/usr/lib32/libkexirelationsview3.2.so -> /usr/lib32/libkexirelationsview3.2.so.3.2
+/usr/lib32/libkexirelationsview3.2.so.3.2 -> /usr/lib32/libkexirelationsview3.2.so.3.2.0
+/usr/lib32/libkexirelationsview3.2.so.3.2.0
+/usr/lib32/libkexiundo3.2.so -> /usr/lib32/libkexiundo3.2.so.3.2
+/usr/lib32/libkexiundo3.2.so.3.2 -> /usr/lib32/libkexiundo3.2.so.3.2.0
+/usr/lib32/libkexiundo3.2.so.3.2.0
+/usr/lib32/libkexiutils3.2.so -> /usr/lib32/libkexiutils3.2.so.3.2
+/usr/lib32/libkexiutils3.2.so.3.2 -> /usr/lib32/libkexiutils3.2.so.3.2.0
+/usr/lib32/libkexiutils3.2.so.3.2.0
+/usr/lib32/libkformdesigner3.2.so -> /usr/lib32/libkformdesigner3.2.so.3.2
+/usr/lib32/libkformdesigner3.2.so.3.2 -> /usr/lib32/libkformdesigner3.2.so.3.2.0
+/usr/lib32/libkformdesigner3.2.so.3.2.0
+/usr/lib32/qt5/plugins/kexi/3.2/forms/widgets/org.kexi-project.form.widgets.main.so
+/usr/lib32/qt5/plugins/kexi/3.2/forms/widgets/org.kexi-project.form.widgets.web-browser.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_csvimportexportplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_formplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_migrationplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_queryplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_reportplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/kexi_tableplugin.so
+/usr/lib32/qt5/plugins/kexi/3.2/migrate/keximigrate_mdb.so
+/usr/lib32/qt5/plugins/kexi/3.2/migrate/keximigrate_mysql.so
+/usr/lib32/qt5/plugins/kexi/3.2/migrate/keximigrate_postgresql.so
+/usr/lib32/qt5/plugins/kexi/3.2/migrate/keximigrate_tsv.so

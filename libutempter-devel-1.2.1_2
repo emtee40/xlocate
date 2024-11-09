@@ -1,0 +1,9 @@
+/usr/include/utempter.h
+/usr/lib/libutempter.a
+/usr/lib/libutempter.so -> /usr/lib/libutempter.so.0
+/usr/share/man/man3/libutempter.3 -> /usr/share/man/man3/utempter.3
+/usr/share/man/man3/utempter.3
+/usr/share/man/man3/utempter_add_record.3 -> /usr/share/man/man3/utempter.3
+/usr/share/man/man3/utempter_remove_added_record.3 -> /usr/share/man/man3/utempter.3
+/usr/share/man/man3/utempter_remove_record.3 -> /usr/share/man/man3/utempter.3
+/usr/share/man/man3/utempter_set_helper.3 -> /usr/share/man/man3/utempter.3

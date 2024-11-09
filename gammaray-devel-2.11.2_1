@@ -1,0 +1,83 @@
+/usr/include/gammaray/client/clientconnectionmanager.h
+/usr/include/gammaray/client/gammaray_client_export.h
+/usr/include/gammaray/client/processtracker.h
+/usr/include/gammaray/common/commonutils.h
+/usr/include/gammaray/common/endpoint.h
+/usr/include/gammaray/common/enumdefinition.h
+/usr/include/gammaray/common/enumrepository.h
+/usr/include/gammaray/common/enumvalue.h
+/usr/include/gammaray/common/gammaray_common_export.h
+/usr/include/gammaray/common/metatypedeclarations.h
+/usr/include/gammaray/common/modelroles.h
+/usr/include/gammaray/common/objectbroker.h
+/usr/include/gammaray/common/objectid.h
+/usr/include/gammaray/common/objectidfilterproxymodel.h
+/usr/include/gammaray/common/objectmodel.h
+/usr/include/gammaray/common/paths.h
+/usr/include/gammaray/common/probecontrollerinterface.h
+/usr/include/gammaray/common/propertycontrollerinterface.h
+/usr/include/gammaray/common/protocol.h
+/usr/include/gammaray/common/sourcelocation.h
+/usr/include/gammaray/common/translator.h
+/usr/include/gammaray/core/enumrepositoryserver.h
+/usr/include/gammaray/core/enumutil.h
+/usr/include/gammaray/core/gammaray_core_export.h
+/usr/include/gammaray/core/metaobject.h
+/usr/include/gammaray/core/metaobjectrepository.h
+/usr/include/gammaray/core/metaproperty.h
+/usr/include/gammaray/core/objectdataprovider.h
+/usr/include/gammaray/core/objectmodelbase.h
+/usr/include/gammaray/core/objecttypefilterproxymodel.h
+/usr/include/gammaray/core/probe.h
+/usr/include/gammaray/core/probecontroller.h
+/usr/include/gammaray/core/propertycontroller.h
+/usr/include/gammaray/core/propertycontrollerextension.h
+/usr/include/gammaray/core/signalspycallbackset.h
+/usr/include/gammaray/core/singlecolumnobjectproxymodel.h
+/usr/include/gammaray/core/toolfactory.h
+/usr/include/gammaray/core/typetraits.h
+/usr/include/gammaray/core/util.h
+/usr/include/gammaray/core/varianthandler.h
+/usr/include/gammaray/launcher/attachdialog.h
+/usr/include/gammaray/launcher/connectpage.h
+/usr/include/gammaray/launcher/gammaray_launcher_export.h
+/usr/include/gammaray/launcher/gammaray_launcher_ui_export.h
+/usr/include/gammaray/launcher/launcher.h
+/usr/include/gammaray/launcher/launcherfinder.h
+/usr/include/gammaray/launcher/launcherwindow.h
+/usr/include/gammaray/launcher/launchoptions.h
+/usr/include/gammaray/launcher/networkdiscoverymodel.h
+/usr/include/gammaray/launcher/probeabi.h
+/usr/include/gammaray/launcher/probeabidetector.h
+/usr/include/gammaray/launcher/probefinder.h
+/usr/include/gammaray/ui/clientdecorationidentityproxymodel.h
+/usr/include/gammaray/ui/clienttoolmanager.h
+/usr/include/gammaray/ui/gammaray_ui_export.h
+/usr/include/gammaray/ui/propertyeditordelegate.h
+/usr/include/gammaray/ui/propertywidget.h
+/usr/include/gammaray/ui/propertywidgettab.h
+/usr/include/gammaray/ui/tooluifactory.h
+/usr/include/gammaray/ui/uiintegration.h
+/usr/include/gammaray/ui/uiresources.h
+/usr/include/gammaray/ui/uistatemanager.h
+/usr/lib/cmake/GammaRay/GammaRayConfig.cmake
+/usr/lib/cmake/GammaRay/GammaRayConfigVersion.cmake
+/usr/lib/cmake/GammaRay/GammaRayMacros.cmake
+/usr/lib/cmake/GammaRay/GammaRayTarget-release.cmake
+/usr/lib/cmake/GammaRay/GammaRayTarget.cmake
+/usr/lib/libgammaray_client.so -> /usr/lib/libgammaray_client.so.2.11.2
+/usr/lib/libgammaray_common-qt5_15-x86_64.so -> /usr/lib/libgammaray_common-qt5_15-x86_64.so.2.11.2
+/usr/lib/libgammaray_core-qt5_15-x86_64.so -> /usr/lib/libgammaray_core-qt5_15-x86_64.so.2.11.2
+/usr/lib/libgammaray_kitemmodels-qt5_15-x86_64.so -> /usr/lib/libgammaray_kitemmodels-qt5_15-x86_64.so.2.11.2
+/usr/lib/libgammaray_kuserfeedback.so -> /usr/lib/libgammaray_kuserfeedback.so.2.11.2
+/usr/lib/libgammaray_launcher.so -> /usr/lib/libgammaray_launcher.so.2.11.2
+/usr/lib/libgammaray_launcher_ui.so -> /usr/lib/libgammaray_launcher_ui.so.2.11.2
+/usr/lib/libgammaray_ui-qt5_15-x86_64.so -> /usr/lib/libgammaray_ui-qt5_15-x86_64.so.2.11.2
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayClient.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayCommon.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayCore.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayKItemModels.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayLauncher.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayLauncherUi.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayProbe.pri
+/usr/lib/qt5/mkspecs/modules/qt_GammaRayUi.pri

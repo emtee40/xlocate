@@ -1,0 +1,27 @@
+/usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell-bdic/sr.bdic
+/usr/share/hunspell-bdic/sr@latin.bdic -> /usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell-bdic/sr_CS.bdic -> /usr/share/hunspell-bdic/sr.bdic
+/usr/share/hunspell-bdic/sr_CS@latin.bdic -> /usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell-bdic/sr_Latn_CS.bdic -> /usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell-bdic/sr_Latn_RS.bdic -> /usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell-bdic/sr_RS.bdic -> /usr/share/hunspell-bdic/sr.bdic
+/usr/share/hunspell-bdic/sr_RS@latin.bdic -> /usr/share/hunspell-bdic/sr-Latn.bdic
+/usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr-Latn.dic
+/usr/share/hunspell/sr.aff
+/usr/share/hunspell/sr.dic
+/usr/share/hunspell/sr@latin.aff -> /usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr@latin.dic -> /usr/share/hunspell/sr-Latn.dic
+/usr/share/hunspell/sr_CS.aff -> /usr/share/hunspell/sr.aff
+/usr/share/hunspell/sr_CS.dic -> /usr/share/hunspell/sr.dic
+/usr/share/hunspell/sr_CS@latin.aff -> /usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr_CS@latin.dic -> /usr/share/hunspell/sr-Latn.dic
+/usr/share/hunspell/sr_Latn_CS.aff -> /usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr_Latn_CS.dic -> /usr/share/hunspell/sr-Latn.dic
+/usr/share/hunspell/sr_Latn_RS.aff -> /usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr_Latn_RS.dic -> /usr/share/hunspell/sr-Latn.dic
+/usr/share/hunspell/sr_RS.aff -> /usr/share/hunspell/sr.aff
+/usr/share/hunspell/sr_RS.dic -> /usr/share/hunspell/sr.dic
+/usr/share/hunspell/sr_RS@latin.aff -> /usr/share/hunspell/sr-Latn.aff
+/usr/share/hunspell/sr_RS@latin.dic -> /usr/share/hunspell/sr-Latn.dic

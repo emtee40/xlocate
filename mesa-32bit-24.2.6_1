@@ -1,0 +1,8 @@
+/usr/lib32/d3d/d3dadapter9.so -> /usr/lib32/d3d/d3dadapter9.so.1
+/usr/lib32/d3d/d3dadapter9.so.1 -> /usr/lib32/d3d/d3dadapter9.so.1.0.0
+/usr/lib32/d3d/d3dadapter9.so.1.0.0
+/usr/lib32/libEGL_mesa.so.0 -> /usr/lib32/libEGL_mesa.so.0.0.0
+/usr/lib32/libEGL_mesa.so.0.0.0
+/usr/lib32/libGLX_mesa.so.0 -> /usr/lib32/libGLX_mesa.so.0.0.0
+/usr/lib32/libGLX_mesa.so.0.0.0
+/usr/lib32/libvulkan_virtio.so

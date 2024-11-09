@@ -1,0 +1,3 @@
+/usr/bin/qemu-loongarch64
+/usr/bin/qemu-loongarch64-static -> /usr/bin/qemu-loongarch64
+/usr/share/binfmts/qemu-loongarch64

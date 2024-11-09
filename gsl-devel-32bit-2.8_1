@@ -1,0 +1,5 @@
+/usr/lib32/libgsl.a
+/usr/lib32/libgsl.so -> /usr/lib32/libgsl.so.28.0.0
+/usr/lib32/libgslcblas.a
+/usr/lib32/libgslcblas.so -> /usr/lib32/libgslcblas.so.0.0.0
+/usr/lib32/pkgconfig/gsl.pc

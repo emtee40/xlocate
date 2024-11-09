@@ -1,0 +1,5 @@
+/etc/sv/zabbix-proxy/run
+/etc/sv/zabbix-proxy/supervise -> /run/runit/supervise.zabbix-proxy
+/etc/zabbix_proxy.conf
+/usr/bin/zabbix_proxy
+/usr/share/man/man8/zabbix_proxy.8

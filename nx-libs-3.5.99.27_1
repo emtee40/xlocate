@@ -1,0 +1,21 @@
+/etc/nxagent/keystrokes.cfg
+/usr/bin/nxagent
+/usr/bin/nxdialog
+/usr/bin/nxproxy
+/usr/lib/libNX_X11.so.6 -> /usr/lib/libNX_X11.so.6.3.0
+/usr/lib/libNX_X11.so.6.3.0
+/usr/lib/libXcomp.so.3 -> /usr/lib/libXcomp.so.3.5.99
+/usr/lib/libXcomp.so.3.5.99
+/usr/lib/libXcompshad.so.3 -> /usr/lib/libXcompshad.so.3.5.99
+/usr/lib/libXcompshad.so.3.5.99
+/usr/lib/nx/X11/libX11.so.6 -> /usr/lib/libNX_X11.so.6.3.0
+/usr/lib/nx/X11/libX11.so.6.3.0 -> /usr/lib/libNX_X11.so.6.3.0
+/usr/lib/nx/bin/nxagent -> /usr/bin/nxagent
+/usr/share/man/man1/nxagent.1
+/usr/share/man/man1/nxdialog.1
+/usr/share/man/man1/nxproxy.1
+/usr/share/nx/SecurityPolicy
+/usr/share/nx/VERSION.nxagent
+/usr/share/nx/VERSION.nxproxy
+/usr/share/nx/X11/XErrorDB
+/usr/share/nx/X11/Xcms.txt

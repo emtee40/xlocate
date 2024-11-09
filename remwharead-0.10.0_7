@@ -1,0 +1,4 @@
+/usr/bin/remwharead
+/usr/lib/libremwharead.so.0 -> /usr/lib/libremwharead.so.0.10.0
+/usr/lib/libremwharead.so.0.10.0
+/usr/share/man/man1/remwharead.1

@@ -1,0 +1,7 @@
+/usr/bin/qmi-firmware-update
+/usr/bin/qmi-network
+/usr/bin/qmicli
+/usr/lib/girepository-1.0/Qmi-1.0.typelib
+/usr/lib/libqmi-glib.so.5 -> /usr/lib/libqmi-glib.so.5.8.0
+/usr/lib/libqmi-glib.so.5.8.0
+/usr/libexec/qmi-proxy

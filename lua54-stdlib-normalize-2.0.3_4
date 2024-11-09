@@ -1,0 +1,9 @@
+/usr/share/doc/lua54-stdlib-normalize/AUTHORS.md
+/usr/share/doc/lua54-stdlib-normalize/NEWS.md
+/usr/share/doc/lua54-stdlib-normalize/README.md
+/usr/share/licenses/lua54-stdlib-normalize/LICENSE.md
+/usr/share/lua/5.4/std/normalize/_base.lua
+/usr/share/lua/5.4/std/normalize/_strict.lua
+/usr/share/lua/5.4/std/normalize/_typecheck.lua
+/usr/share/lua/5.4/std/normalize/init.lua
+/usr/share/lua/5.4/std/normalize/version.lua

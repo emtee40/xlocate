@@ -1,0 +1,11 @@
+/usr/bin/deflatehd
+/usr/bin/h2load
+/usr/bin/inflatehd
+/usr/bin/nghttp
+/usr/bin/nghttpd
+/usr/bin/nghttpx
+/usr/lib/libnghttp2.so.14 -> /usr/lib/libnghttp2.so.14.28.3
+/usr/lib/libnghttp2.so.14.28.3
+/usr/share/doc/nghttp2/README.rst
+/usr/share/licenses/nghttp2/COPYING
+/usr/share/nghttp2/fetch-ocsp-response

@@ -1,0 +1,12 @@
+/usr/lib32/libpcre2-16.a
+/usr/lib32/libpcre2-16.so -> /usr/lib32/libpcre2-16.so.0.11.2
+/usr/lib32/libpcre2-32.a
+/usr/lib32/libpcre2-32.so -> /usr/lib32/libpcre2-32.so.0.11.2
+/usr/lib32/libpcre2-8.a
+/usr/lib32/libpcre2-8.so -> /usr/lib32/libpcre2-8.so.0.11.2
+/usr/lib32/libpcre2-posix.a
+/usr/lib32/libpcre2-posix.so -> /usr/lib32/libpcre2-posix.so.3.0.4
+/usr/lib32/pkgconfig/libpcre2-16.pc
+/usr/lib32/pkgconfig/libpcre2-32.pc
+/usr/lib32/pkgconfig/libpcre2-8.pc
+/usr/lib32/pkgconfig/libpcre2-posix.pc

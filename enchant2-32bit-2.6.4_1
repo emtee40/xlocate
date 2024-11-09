@@ -1,0 +1,6 @@
+/usr/lib32/enchant-2/enchant_aspell.so
+/usr/lib32/enchant-2/enchant_hunspell.so
+/usr/lib32/enchant-2/enchant_nuspell.so
+/usr/lib32/enchant-2/enchant_voikko.so
+/usr/lib32/libenchant-2.so.2 -> /usr/lib32/libenchant-2.so.2.6.4
+/usr/lib32/libenchant-2.so.2.6.4

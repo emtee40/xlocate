@@ -1,0 +1,5 @@
+/usr/include/yyjson.h
+/usr/lib/cmake/yyjson/yyjson-config-none.cmake
+/usr/lib/cmake/yyjson/yyjson-config.cmake
+/usr/lib/libyyjson.so -> /usr/lib/libyyjson.so.0
+/usr/lib/pkgconfig/yyjson.pc

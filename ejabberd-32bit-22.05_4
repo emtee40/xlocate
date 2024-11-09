@@ -1,0 +1,14 @@
+/usr/lib32/cache_tab-1.0.30/priv/lib/ets_cache.so
+/usr/lib32/ezlib-1.0.12/priv/lib/ezlib.so
+/usr/lib32/fast_tls-1.1.15/priv/lib/fast_tls.so
+/usr/lib32/fast_tls-1.1.15/priv/lib/p1_sha.so
+/usr/lib32/fast_xml-1.1.49/priv/lib/fxml.so
+/usr/lib32/fast_xml-1.1.49/priv/lib/fxml_stream.so
+/usr/lib32/fast_yaml-1.0.33/priv/lib/fast_yaml.so
+/usr/lib32/jiffy-1.1.1/priv/jiffy.so
+/usr/lib32/mqtree-1.0.15/priv/lib/mqtree.so
+/usr/lib32/sqlite3-1.1.13/priv/sqlite3_drv.so
+/usr/lib32/stringprep-1.0.28/priv/lib/stringprep.so
+/usr/lib32/xmpp-1.5.8/priv/lib/jid.so
+/usr/lib32/xmpp-1.5.8/priv/lib/xmpp_lang.so
+/usr/lib32/xmpp-1.5.8/priv/lib/xmpp_uri.so

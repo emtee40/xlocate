@@ -1,0 +1,8 @@
+/usr/lib32/libSPIRV-Tools-diff.a
+/usr/lib32/libSPIRV-Tools-link.a
+/usr/lib32/libSPIRV-Tools-lint.a
+/usr/lib32/libSPIRV-Tools-opt.a
+/usr/lib32/libSPIRV-Tools-reduce.a
+/usr/lib32/libSPIRV-Tools.a
+/usr/lib32/pkgconfig/SPIRV-Tools-shared.pc
+/usr/lib32/pkgconfig/SPIRV-Tools.pc

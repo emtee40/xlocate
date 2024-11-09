@@ -1,0 +1,5 @@
+/usr/lib32/libmaxminddb.a
+/usr/lib32/libmaxminddb.so -> /usr/lib32/libmaxminddb.so.0.0.7
+/usr/lib32/libmaxminddb.so.0 -> /usr/lib32/libmaxminddb.so.0.0.7
+/usr/lib32/libmaxminddb.so.0.0.7
+/usr/lib32/pkgconfig/libmaxminddb.pc

@@ -1,0 +1,344 @@
+/usr/bin/quadrapassel
+/usr/share/applications/org.gnome.Quadrapassel.desktop
+/usr/share/glib-2.0/schemas/org.gnome.Quadrapassel.gschema.xml
+/usr/share/help/C/quadrapassel/bug-filing.page
+/usr/share/help/C/quadrapassel/develop.page
+/usr/share/help/C/quadrapassel/documentation.page
+/usr/share/help/C/quadrapassel/index.page
+/usr/share/help/C/quadrapassel/legal.xml
+/usr/share/help/C/quadrapassel/license.page
+/usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/C/quadrapassel/playgame.page
+/usr/share/help/C/quadrapassel/preferences.page
+/usr/share/help/C/quadrapassel/score.page
+/usr/share/help/C/quadrapassel/translate.page
+/usr/share/help/ca/quadrapassel/bug-filing.page
+/usr/share/help/ca/quadrapassel/develop.page
+/usr/share/help/ca/quadrapassel/documentation.page
+/usr/share/help/ca/quadrapassel/index.page
+/usr/share/help/ca/quadrapassel/legal.xml
+/usr/share/help/ca/quadrapassel/license.page
+/usr/share/help/ca/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/ca/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/ca/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/ca/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/ca/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/ca/quadrapassel/playgame.page
+/usr/share/help/ca/quadrapassel/preferences.page
+/usr/share/help/ca/quadrapassel/score.page
+/usr/share/help/ca/quadrapassel/translate.page
+/usr/share/help/cs/quadrapassel/bug-filing.page
+/usr/share/help/cs/quadrapassel/develop.page
+/usr/share/help/cs/quadrapassel/documentation.page
+/usr/share/help/cs/quadrapassel/index.page
+/usr/share/help/cs/quadrapassel/legal.xml
+/usr/share/help/cs/quadrapassel/license.page
+/usr/share/help/cs/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/cs/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/cs/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/cs/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/cs/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/cs/quadrapassel/playgame.page
+/usr/share/help/cs/quadrapassel/preferences.page
+/usr/share/help/cs/quadrapassel/score.page
+/usr/share/help/cs/quadrapassel/translate.page
+/usr/share/help/da/quadrapassel/bug-filing.page
+/usr/share/help/da/quadrapassel/develop.page
+/usr/share/help/da/quadrapassel/documentation.page
+/usr/share/help/da/quadrapassel/index.page
+/usr/share/help/da/quadrapassel/legal.xml
+/usr/share/help/da/quadrapassel/license.page
+/usr/share/help/da/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/da/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/da/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/da/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/da/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/da/quadrapassel/playgame.page
+/usr/share/help/da/quadrapassel/preferences.page
+/usr/share/help/da/quadrapassel/score.page
+/usr/share/help/da/quadrapassel/translate.page
+/usr/share/help/de/quadrapassel/bug-filing.page
+/usr/share/help/de/quadrapassel/develop.page
+/usr/share/help/de/quadrapassel/documentation.page
+/usr/share/help/de/quadrapassel/index.page
+/usr/share/help/de/quadrapassel/legal.xml
+/usr/share/help/de/quadrapassel/license.page
+/usr/share/help/de/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/de/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/de/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/de/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/de/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/de/quadrapassel/playgame.page
+/usr/share/help/de/quadrapassel/preferences.page
+/usr/share/help/de/quadrapassel/score.page
+/usr/share/help/de/quadrapassel/translate.page
+/usr/share/help/el/quadrapassel/bug-filing.page
+/usr/share/help/el/quadrapassel/develop.page
+/usr/share/help/el/quadrapassel/documentation.page
+/usr/share/help/el/quadrapassel/index.page
+/usr/share/help/el/quadrapassel/legal.xml
+/usr/share/help/el/quadrapassel/license.page
+/usr/share/help/el/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/el/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/el/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/el/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/el/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/el/quadrapassel/playgame.page
+/usr/share/help/el/quadrapassel/preferences.page
+/usr/share/help/el/quadrapassel/score.page
+/usr/share/help/el/quadrapassel/translate.page
+/usr/share/help/es/quadrapassel/bug-filing.page
+/usr/share/help/es/quadrapassel/develop.page
+/usr/share/help/es/quadrapassel/documentation.page
+/usr/share/help/es/quadrapassel/index.page
+/usr/share/help/es/quadrapassel/legal.xml
+/usr/share/help/es/quadrapassel/license.page
+/usr/share/help/es/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/es/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/es/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/es/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/es/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/es/quadrapassel/playgame.page
+/usr/share/help/es/quadrapassel/preferences.page
+/usr/share/help/es/quadrapassel/score.page
+/usr/share/help/es/quadrapassel/translate.page
+/usr/share/help/eu/quadrapassel/bug-filing.page
+/usr/share/help/eu/quadrapassel/develop.page
+/usr/share/help/eu/quadrapassel/documentation.page
+/usr/share/help/eu/quadrapassel/index.page
+/usr/share/help/eu/quadrapassel/legal.xml
+/usr/share/help/eu/quadrapassel/license.page
+/usr/share/help/eu/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/eu/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/eu/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/eu/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/eu/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/eu/quadrapassel/playgame.page
+/usr/share/help/eu/quadrapassel/preferences.page
+/usr/share/help/eu/quadrapassel/score.page
+/usr/share/help/eu/quadrapassel/translate.page
+/usr/share/help/fr/quadrapassel/bug-filing.page
+/usr/share/help/fr/quadrapassel/develop.page
+/usr/share/help/fr/quadrapassel/documentation.page
+/usr/share/help/fr/quadrapassel/index.page
+/usr/share/help/fr/quadrapassel/legal.xml
+/usr/share/help/fr/quadrapassel/license.page
+/usr/share/help/fr/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/fr/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/fr/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/fr/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/fr/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/fr/quadrapassel/playgame.page
+/usr/share/help/fr/quadrapassel/preferences.page
+/usr/share/help/fr/quadrapassel/score.page
+/usr/share/help/fr/quadrapassel/translate.page
+/usr/share/help/gl/quadrapassel/bug-filing.page
+/usr/share/help/gl/quadrapassel/develop.page
+/usr/share/help/gl/quadrapassel/documentation.page
+/usr/share/help/gl/quadrapassel/index.page
+/usr/share/help/gl/quadrapassel/legal.xml
+/usr/share/help/gl/quadrapassel/license.page
+/usr/share/help/gl/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/gl/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/gl/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/gl/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/gl/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/gl/quadrapassel/playgame.page
+/usr/share/help/gl/quadrapassel/preferences.page
+/usr/share/help/gl/quadrapassel/score.page
+/usr/share/help/gl/quadrapassel/translate.page
+/usr/share/help/hu/quadrapassel/bug-filing.page
+/usr/share/help/hu/quadrapassel/develop.page
+/usr/share/help/hu/quadrapassel/documentation.page
+/usr/share/help/hu/quadrapassel/index.page
+/usr/share/help/hu/quadrapassel/legal.xml
+/usr/share/help/hu/quadrapassel/license.page
+/usr/share/help/hu/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/hu/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/hu/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/hu/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/hu/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/hu/quadrapassel/playgame.page
+/usr/share/help/hu/quadrapassel/preferences.page
+/usr/share/help/hu/quadrapassel/score.page
+/usr/share/help/hu/quadrapassel/translate.page
+/usr/share/help/id/quadrapassel/bug-filing.page
+/usr/share/help/id/quadrapassel/develop.page
+/usr/share/help/id/quadrapassel/documentation.page
+/usr/share/help/id/quadrapassel/index.page
+/usr/share/help/id/quadrapassel/legal.xml
+/usr/share/help/id/quadrapassel/license.page
+/usr/share/help/id/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/id/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/id/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/id/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/id/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/id/quadrapassel/playgame.page
+/usr/share/help/id/quadrapassel/preferences.page
+/usr/share/help/id/quadrapassel/score.page
+/usr/share/help/id/quadrapassel/translate.page
+/usr/share/help/pl/quadrapassel/bug-filing.page
+/usr/share/help/pl/quadrapassel/develop.page
+/usr/share/help/pl/quadrapassel/documentation.page
+/usr/share/help/pl/quadrapassel/index.page
+/usr/share/help/pl/quadrapassel/legal.xml
+/usr/share/help/pl/quadrapassel/license.page
+/usr/share/help/pl/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/pl/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/pl/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/pl/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/pl/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/pl/quadrapassel/playgame.page
+/usr/share/help/pl/quadrapassel/preferences.page
+/usr/share/help/pl/quadrapassel/score.page
+/usr/share/help/pl/quadrapassel/translate.page
+/usr/share/help/pt_BR/quadrapassel/bug-filing.page
+/usr/share/help/pt_BR/quadrapassel/develop.page
+/usr/share/help/pt_BR/quadrapassel/documentation.page
+/usr/share/help/pt_BR/quadrapassel/index.page
+/usr/share/help/pt_BR/quadrapassel/legal.xml
+/usr/share/help/pt_BR/quadrapassel/license.page
+/usr/share/help/pt_BR/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/pt_BR/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/pt_BR/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/pt_BR/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/pt_BR/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/pt_BR/quadrapassel/playgame.page
+/usr/share/help/pt_BR/quadrapassel/preferences.page
+/usr/share/help/pt_BR/quadrapassel/score.page
+/usr/share/help/pt_BR/quadrapassel/translate.page
+/usr/share/help/sv/quadrapassel/bug-filing.page
+/usr/share/help/sv/quadrapassel/develop.page
+/usr/share/help/sv/quadrapassel/documentation.page
+/usr/share/help/sv/quadrapassel/index.page
+/usr/share/help/sv/quadrapassel/legal.xml
+/usr/share/help/sv/quadrapassel/license.page
+/usr/share/help/sv/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/sv/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/sv/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/sv/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/sv/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/sv/quadrapassel/playgame.page
+/usr/share/help/sv/quadrapassel/preferences.page
+/usr/share/help/sv/quadrapassel/score.page
+/usr/share/help/sv/quadrapassel/translate.page
+/usr/share/help/uk/quadrapassel/bug-filing.page
+/usr/share/help/uk/quadrapassel/develop.page
+/usr/share/help/uk/quadrapassel/documentation.page
+/usr/share/help/uk/quadrapassel/index.page
+/usr/share/help/uk/quadrapassel/legal.xml
+/usr/share/help/uk/quadrapassel/license.page
+/usr/share/help/uk/quadrapassel/media/go-home.png -> /usr/share/help/C/quadrapassel/media/go-home.png
+/usr/share/help/uk/quadrapassel/media/go-previous.png -> /usr/share/help/C/quadrapassel/media/go-previous.png
+/usr/share/help/uk/quadrapassel/media/previous.png -> /usr/share/help/C/quadrapassel/media/previous.png
+/usr/share/help/uk/quadrapassel/media/quadrapassel.png -> /usr/share/help/C/quadrapassel/media/quadrapassel.png
+/usr/share/help/uk/quadrapassel/media/quadrapassel22.png -> /usr/share/help/C/quadrapassel/media/quadrapassel22.png
+/usr/share/help/uk/quadrapassel/playgame.page
+/usr/share/help/uk/quadrapassel/preferences.page
+/usr/share/help/uk/quadrapassel/score.page
+/usr/share/help/uk/quadrapassel/translate.page
+/usr/share/icons/hicolor/scalable/apps/org.gnome.Quadrapassel.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.Quadrapassel-symbolic.svg
+/usr/share/locale/af/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/am/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ar/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/as/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ast/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/az/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/be/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/bg/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/bn/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/bn_IN/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/br/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/bs/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ca/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/cs/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/cy/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/da/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/de/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/dz/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/el/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/en@shaw/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/en_CA/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/en_GB/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/eo/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/es/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/et/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/eu/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/fa/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/fi/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/fr/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/fur/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ga/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/gl/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/gu/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/he/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/hi/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/hr/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/hu/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/id/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/is/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/it/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ja/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ka/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/kk/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/km/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/kn/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ko/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ku/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/lt/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/lv/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/mai/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/mk/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ml/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/mn/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/mr/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ms/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/nb/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ne/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/nl/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/nn/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/oc/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/or/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/pa/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/pl/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/pt/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ro/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ru/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/rw/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/si/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sk/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sl/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sq/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sr/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/sv/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ta/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/te/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/tg/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/th/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/tr/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/ug/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/uk/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/vi/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/wa/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/xh/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/quadrapassel.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/quadrapassel.mo
+/usr/share/man/man6/quadrapassel.6
+/usr/share/metainfo/org.gnome.Quadrapassel.appdata.xml
+/usr/share/quadrapassel/sounds/gameover.ogg
+/usr/share/quadrapassel/sounds/land.ogg
+/usr/share/quadrapassel/sounds/lines1.ogg
+/usr/share/quadrapassel/sounds/lines2.ogg
+/usr/share/quadrapassel/sounds/lines3.ogg
+/usr/share/quadrapassel/sounds/quadrapassel.ogg
+/usr/share/quadrapassel/sounds/slide.ogg
+/usr/share/quadrapassel/sounds/turn.ogg

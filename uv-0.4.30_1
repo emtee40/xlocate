@@ -1,0 +1,16 @@
+/usr/bin/uv
+/usr/bin/uvx
+/usr/lib/python3.12/site-packages/uv-0.4.30.dist-info/METADATA
+/usr/lib/python3.12/site-packages/uv-0.4.30.dist-info/RECORD
+/usr/lib/python3.12/site-packages/uv-0.4.30.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/uv-0.4.30.dist-info/licenses/LICENSE-APACHE
+/usr/lib/python3.12/site-packages/uv-0.4.30.dist-info/licenses/LICENSE-MIT
+/usr/lib/python3.12/site-packages/uv/__init__.py
+/usr/lib/python3.12/site-packages/uv/__main__.py
+/usr/lib/python3.12/site-packages/uv/_build_backend.py
+/usr/lib/python3.12/site-packages/uv/_find_uv.py
+/usr/lib/python3.12/site-packages/uv/py.typed
+/usr/share/bash-completion/completions/uv
+/usr/share/fish/vendor_completions.d/uv.fish
+/usr/share/licenses/uv/LICENSE-MIT
+/usr/share/zsh/site-functions/_uv

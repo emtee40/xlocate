@@ -1,0 +1,22 @@
+/usr/include/drumstick.h
+/usr/include/drumstick/alsaclient.h
+/usr/include/drumstick/alsaevent.h
+/usr/include/drumstick/alsaport.h
+/usr/include/drumstick/alsaqueue.h
+/usr/include/drumstick/alsatimer.h
+/usr/include/drumstick/backendmanager.h
+/usr/include/drumstick/drumstickcommon.h
+/usr/include/drumstick/macros.h
+/usr/include/drumstick/playthread.h
+/usr/include/drumstick/qove.h
+/usr/include/drumstick/qsmf.h
+/usr/include/drumstick/qwrk.h
+/usr/include/drumstick/rtmidiinput.h
+/usr/include/drumstick/rtmidioutput.h
+/usr/include/drumstick/subscription.h
+/usr/lib/libdrumstick-alsa.so -> /usr/lib/libdrumstick-alsa.so.1
+/usr/lib/libdrumstick-file.so -> /usr/lib/libdrumstick-file.so.1
+/usr/lib/libdrumstick-rt.so -> /usr/lib/libdrumstick-rt.so.1
+/usr/lib/pkgconfig/drumstick-alsa.pc
+/usr/lib/pkgconfig/drumstick-file.pc
+/usr/lib/pkgconfig/drumstick-rt.pc

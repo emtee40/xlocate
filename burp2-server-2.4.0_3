@@ -1,0 +1,23 @@
+/etc/burp/CA.cnf
+/etc/burp/burp-server.conf
+/etc/burp/clientconfdir/incexc/example
+/etc/sv/burp2-server/log/run
+/etc/sv/burp2-server/log/supervise -> /run/runit/supervise.burp2-server-log
+/etc/sv/burp2-server/run
+/etc/sv/burp2-server/supervise -> /run/runit/supervise.burp2-server
+/usr/bin/bedup -> /usr/bin/burp
+/usr/bin/bsigs -> /usr/bin/burp
+/usr/bin/bsparse -> /usr/bin/burp
+/usr/bin/vss_strip
+/usr/share/burp/scripts/backup_tool_script
+/usr/share/burp/scripts/notify_script
+/usr/share/burp/scripts/ssl_extra_checks_script
+/usr/share/burp/scripts/summary_script
+/usr/share/burp/scripts/timer_script
+/usr/share/doc/burp2-server/README
+/usr/share/doc/burp2-server/UPGRADING
+/usr/share/licenses/burp2-server/LICENSE
+/usr/share/man/man8/bedup.8
+/usr/share/man/man8/bsigs.8
+/usr/share/man/man8/bsparse.8
+/usr/share/man/man8/vss_strip.8

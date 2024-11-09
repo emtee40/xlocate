@@ -1,0 +1,9 @@
+/usr/bin/bg-installer
+/usr/bin/cli-generate
+/usr/bin/crc-gentab
+/usr/lib/libbg.so.2 -> /usr/lib/libbg.so.2.0.0
+/usr/lib/libbg.so.2.0.0
+/usr/share/doc/bglibs/README
+/usr/share/licenses/bglibs/COPYING
+/usr/share/man/man1/bg-installer.1
+/usr/share/man/man1/cli-generate.1

@@ -1,0 +1,21 @@
+/usr/include/lcalc/L.h
+/usr/include/lcalc/Lcommon.h
+/usr/include/lcalc/Lcomplex.h
+/usr/include/lcalc/Ldirichlet_series.h
+/usr/include/lcalc/Ldokchitser.h
+/usr/include/lcalc/Lelliptic.h
+/usr/include/lcalc/Lexplicit_formula.h
+/usr/include/lcalc/Lfind_zeros.h
+/usr/include/lcalc/Lgamma.h
+/usr/include/lcalc/Lglobals.h
+/usr/include/lcalc/Lgram.h
+/usr/include/lcalc/Lmisc.h
+/usr/include/lcalc/Lnumbertheory.h
+/usr/include/lcalc/Lnumberzeros.h
+/usr/include/lcalc/Lprint.h
+/usr/include/lcalc/Lriemannsiegel.h
+/usr/include/lcalc/Lriemannsiegel_blfi.h
+/usr/include/lcalc/Lvalue.h
+/usr/include/lcalc/config.h
+/usr/lib/libLfunction.so -> /usr/lib/libLfunction.so.1.0.1
+/usr/lib/pkgconfig/lcalc.pc

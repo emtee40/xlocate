@@ -1,0 +1,4 @@
+/etc/docx2txt.config
+/usr/bin/docx2txt -> /usr/bin/docx2txt.pl
+/usr/bin/docx2txt.pl
+/usr/bin/docx2txt.sh

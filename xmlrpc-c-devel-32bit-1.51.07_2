@@ -1,0 +1,32 @@
+/usr/lib32/libxmlrpc++.a
+/usr/lib32/libxmlrpc++.so -> /usr/lib32/libxmlrpc++.so.8
+/usr/lib32/libxmlrpc.a
+/usr/lib32/libxmlrpc.so -> /usr/lib32/libxmlrpc.so.3
+/usr/lib32/libxmlrpc_abyss++.a
+/usr/lib32/libxmlrpc_abyss++.so -> /usr/lib32/libxmlrpc_abyss++.so.8
+/usr/lib32/libxmlrpc_abyss.a
+/usr/lib32/libxmlrpc_abyss.so -> /usr/lib32/libxmlrpc_abyss.so.3
+/usr/lib32/libxmlrpc_client++.a
+/usr/lib32/libxmlrpc_client++.so -> /usr/lib32/libxmlrpc_client++.so.8
+/usr/lib32/libxmlrpc_client.a
+/usr/lib32/libxmlrpc_client.so -> /usr/lib32/libxmlrpc_client.so.3
+/usr/lib32/libxmlrpc_cpp.a
+/usr/lib32/libxmlrpc_cpp.so -> /usr/lib32/libxmlrpc_cpp.so.8
+/usr/lib32/libxmlrpc_packetsocket.a
+/usr/lib32/libxmlrpc_packetsocket.so -> /usr/lib32/libxmlrpc_packetsocket.so.8
+/usr/lib32/libxmlrpc_server++.a
+/usr/lib32/libxmlrpc_server++.so -> /usr/lib32/libxmlrpc_server++.so.8
+/usr/lib32/libxmlrpc_server.a
+/usr/lib32/libxmlrpc_server.so -> /usr/lib32/libxmlrpc_server.so.3
+/usr/lib32/libxmlrpc_server_abyss++.a
+/usr/lib32/libxmlrpc_server_abyss++.so -> /usr/lib32/libxmlrpc_server_abyss++.so.8
+/usr/lib32/libxmlrpc_server_abyss.a
+/usr/lib32/libxmlrpc_server_abyss.so -> /usr/lib32/libxmlrpc_server_abyss.so.3
+/usr/lib32/libxmlrpc_server_cgi++.a
+/usr/lib32/libxmlrpc_server_cgi++.so -> /usr/lib32/libxmlrpc_server_cgi++.so.8
+/usr/lib32/libxmlrpc_server_pstream++.a
+/usr/lib32/libxmlrpc_server_pstream++.so -> /usr/lib32/libxmlrpc_server_pstream++.so.8
+/usr/lib32/libxmlrpc_util++.a
+/usr/lib32/libxmlrpc_util++.so -> /usr/lib32/libxmlrpc_util++.so.8
+/usr/lib32/libxmlrpc_util.a
+/usr/lib32/libxmlrpc_util.so -> /usr/lib32/libxmlrpc_util.so.4

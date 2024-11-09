@@ -1,0 +1,8 @@
+/usr/lib32/libsuil-0.so.0 -> /usr/lib32/libsuil-0.so.0.10.12
+/usr/lib32/libsuil-0.so.0.10.12
+/usr/lib32/suil-0/libsuil_gtk2_in_qt5.so
+/usr/lib32/suil-0/libsuil_qt5_in_gtk2.so
+/usr/lib32/suil-0/libsuil_qt5_in_gtk3.so
+/usr/lib32/suil-0/libsuil_x11.so
+/usr/lib32/suil-0/libsuil_x11_in_gtk2.so
+/usr/lib32/suil-0/libsuil_x11_in_gtk3.so

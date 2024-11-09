@@ -1,0 +1,6 @@
+/usr/share/man/man3/HTTP::Server::Simple.3p
+/usr/share/man/man3/HTTP::Server::Simple::CGI.3p
+/usr/share/man/man3/HTTP::Server::Simple::CGI::Environment.3p
+/usr/share/perl5/vendor_perl/HTTP/Server/Simple.pm
+/usr/share/perl5/vendor_perl/HTTP/Server/Simple/CGI.pm
+/usr/share/perl5/vendor_perl/HTTP/Server/Simple/CGI/Environment.pm

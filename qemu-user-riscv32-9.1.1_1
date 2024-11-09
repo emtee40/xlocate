@@ -1,0 +1,3 @@
+/usr/bin/qemu-riscv32
+/usr/bin/qemu-riscv32-static -> /usr/bin/qemu-riscv32
+/usr/share/binfmts/qemu-riscv32

@@ -1,0 +1,12 @@
+/usr/lib32/libgfapi.so.0 -> /usr/lib32/libgfapi.so.0.0.0
+/usr/lib32/libgfapi.so.0.0.0
+/usr/lib32/libgfchangelog.so.0 -> /usr/lib32/libgfchangelog.so.0.0.1
+/usr/lib32/libgfchangelog.so.0.0.1
+/usr/lib32/libgfrpc.so.0 -> /usr/lib32/libgfrpc.so.0.0.1
+/usr/lib32/libgfrpc.so.0.0.1
+/usr/lib32/libgfxdr.so.0 -> /usr/lib32/libgfxdr.so.0.0.1
+/usr/lib32/libgfxdr.so.0.0.1
+/usr/lib32/libglusterd.so.0 -> /usr/lib32/libglusterd.so.0.0.1
+/usr/lib32/libglusterd.so.0.0.1
+/usr/lib32/libglusterfs.so.0 -> /usr/lib32/libglusterfs.so.0.0.1
+/usr/lib32/libglusterfs.so.0.0.1

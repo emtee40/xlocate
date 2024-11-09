@@ -1,0 +1,9 @@
+/usr/lib32/gprolog/lib/all_fd_bips.o
+/usr/lib32/gprolog/lib/all_pl_bips.o
+/usr/lib32/gprolog/lib/debugger.o
+/usr/lib32/gprolog/lib/libbips_fd.a
+/usr/lib32/gprolog/lib/libbips_pl.a
+/usr/lib32/gprolog/lib/libengine_fd.a
+/usr/lib32/gprolog/lib/libengine_pl.a
+/usr/lib32/gprolog/lib/liblinedit.a
+/usr/lib32/gprolog/lib/top_level.o

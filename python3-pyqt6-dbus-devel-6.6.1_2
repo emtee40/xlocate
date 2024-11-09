@@ -1,0 +1,16 @@
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/QtDBus.toml
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/QtDBusmod.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusabstractadaptor.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusabstractinterface.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusargument.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusconnection.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusconnectioninterface.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbuserror.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusextratypes.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusinterface.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusmessage.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbuspendingcall.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusservicewatcher.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qdbusunixfiledescriptor.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qpydbuspendingreply.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtDBus/qpydbusreply.sip

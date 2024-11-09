@@ -1,0 +1,3 @@
+/usr/lib32/libcheck.a
+/usr/lib32/libcheck.so -> /usr/lib32/libcheck.so.0.0.0
+/usr/lib32/pkgconfig/check.pc

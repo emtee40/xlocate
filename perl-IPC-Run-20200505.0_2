@@ -1,0 +1,14 @@
+/usr/share/man/man3/IPC::Run.3p
+/usr/share/man/man3/IPC::Run::Debug.3p
+/usr/share/man/man3/IPC::Run::IO.3p
+/usr/share/man/man3/IPC::Run::Timer.3p
+/usr/share/man/man3/IPC::Run::Win32Helper.3p
+/usr/share/man/man3/IPC::Run::Win32IO.3p
+/usr/share/man/man3/IPC::Run::Win32Pump.3p
+/usr/share/perl5/vendor_perl/IPC/Run.pm
+/usr/share/perl5/vendor_perl/IPC/Run/Debug.pm
+/usr/share/perl5/vendor_perl/IPC/Run/IO.pm
+/usr/share/perl5/vendor_perl/IPC/Run/Timer.pm
+/usr/share/perl5/vendor_perl/IPC/Run/Win32Helper.pm
+/usr/share/perl5/vendor_perl/IPC/Run/Win32IO.pm
+/usr/share/perl5/vendor_perl/IPC/Run/Win32Pump.pm

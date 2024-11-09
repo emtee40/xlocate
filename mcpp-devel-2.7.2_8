@@ -1,0 +1,4 @@
+/usr/include/mcpp_lib.h
+/usr/include/mcpp_out.h
+/usr/lib/libmcpp.a
+/usr/lib/libmcpp.so -> /usr/lib/libmcpp.so.0.3.0

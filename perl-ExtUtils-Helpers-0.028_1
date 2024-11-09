@@ -1,0 +1,8 @@
+/usr/share/man/man3/ExtUtils::Helpers.3p
+/usr/share/man/man3/ExtUtils::Helpers::Unix.3p
+/usr/share/man/man3/ExtUtils::Helpers::VMS.3p
+/usr/share/man/man3/ExtUtils::Helpers::Windows.3p
+/usr/share/perl5/vendor_perl/ExtUtils/Helpers.pm
+/usr/share/perl5/vendor_perl/ExtUtils/Helpers/Unix.pm
+/usr/share/perl5/vendor_perl/ExtUtils/Helpers/VMS.pm
+/usr/share/perl5/vendor_perl/ExtUtils/Helpers/Windows.pm

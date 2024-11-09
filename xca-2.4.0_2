@@ -1,0 +1,38 @@
+/usr/bin/xca
+/usr/share/applications/xca.desktop
+/usr/share/bash-completion/completions/xca
+/usr/share/icons/hicolor/16x16/apps/xca.png
+/usr/share/icons/hicolor/16x16/mimetypes/x-xca-database.png -> /usr/share/icons/hicolor/16x16/apps/xca.png
+/usr/share/icons/hicolor/16x16/mimetypes/x-xca-template.png -> /usr/share/icons/hicolor/16x16/apps/xca.png
+/usr/share/icons/hicolor/32x32/apps/xca.png
+/usr/share/icons/hicolor/32x32/mimetypes/x-xca-database.png -> /usr/share/icons/hicolor/32x32/apps/xca.png
+/usr/share/icons/hicolor/32x32/mimetypes/x-xca-template.png -> /usr/share/icons/hicolor/32x32/apps/xca.png
+/usr/share/icons/hicolor/48x48/apps/xca.png
+/usr/share/icons/hicolor/48x48/mimetypes/x-xca-database.png -> /usr/share/icons/hicolor/48x48/apps/xca.png
+/usr/share/icons/hicolor/48x48/mimetypes/x-xca-template.png -> /usr/share/icons/hicolor/48x48/apps/xca.png
+/usr/share/icons/hicolor/64x64/apps/xca.png
+/usr/share/icons/hicolor/64x64/mimetypes/x-xca-database.png -> /usr/share/icons/hicolor/64x64/apps/xca.png
+/usr/share/icons/hicolor/64x64/mimetypes/x-xca-template.png -> /usr/share/icons/hicolor/64x64/apps/xca.png
+/usr/share/licenses/xca/COPYRIGHT
+/usr/share/man/man1/xca.1
+/usr/share/mime/packages/xca.xml
+/usr/share/pixmaps/xca-32x32.xpm
+/usr/share/xca/CA.xca
+/usr/share/xca/TLS_client.xca
+/usr/share/xca/TLS_server.xca
+/usr/share/xca/dn.txt
+/usr/share/xca/eku.txt
+/usr/share/xca/oids.txt
+/usr/share/xca/xca_de.qm
+/usr/share/xca/xca_es.qm
+/usr/share/xca/xca_fr.qm
+/usr/share/xca/xca_hr.qm
+/usr/share/xca/xca_it.qm
+/usr/share/xca/xca_ja.qm
+/usr/share/xca/xca_nl.qm
+/usr/share/xca/xca_pl.qm
+/usr/share/xca/xca_pt_BR.qm
+/usr/share/xca/xca_ru.qm
+/usr/share/xca/xca_sk.qm
+/usr/share/xca/xca_tr.qm
+/usr/share/xca/xca_zh_CN.qm

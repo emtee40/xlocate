@@ -1,0 +1,8 @@
+/usr/include/qt5keychain/keychain.h
+/usr/include/qt5keychain/qkeychain_export.h
+/usr/lib/cmake/Qt5Keychain/Qt5KeychainConfig.cmake
+/usr/lib/cmake/Qt5Keychain/Qt5KeychainConfigVersion.cmake
+/usr/lib/cmake/Qt5Keychain/Qt5KeychainLibraryDepends-none.cmake
+/usr/lib/cmake/Qt5Keychain/Qt5KeychainLibraryDepends.cmake
+/usr/lib/libqt5keychain.so -> /usr/lib/libqt5keychain.so.1
+/usr/lib/qt5/mkspecs/modules/qt_Qt5Keychain.pri

@@ -1,0 +1,4 @@
+/usr/lib/cmake/KF5Init/KF5InitConfig.cmake
+/usr/lib/cmake/KF5Init/KF5InitConfigVersion.cmake
+/usr/lib/cmake/KF5Init/KF5InitMacros.cmake
+/usr/lib/cmake/KF5Init/kde5init_dummy.cpp.in

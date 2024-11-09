@@ -1,0 +1,10 @@
+/etc/abcde.conf
+/usr/bin/abcde
+/usr/bin/abcde-musicbrainz-tool
+/usr/bin/cddb-tool
+/usr/share/doc/abcde-2.9.3/COPYING
+/usr/share/doc/abcde-2.9.3/FAQ
+/usr/share/doc/abcde-2.9.3/README
+/usr/share/doc/abcde-2.9.3/changelog
+/usr/share/man/man1/abcde.1
+/usr/share/man/man1/cddb-tool.1

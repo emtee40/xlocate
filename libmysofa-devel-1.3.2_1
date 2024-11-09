@@ -1,0 +1,4 @@
+/usr/include/mysofa.h
+/usr/lib/libmysofa.a
+/usr/lib/libmysofa.so -> /usr/lib/libmysofa.so.1
+/usr/lib/pkgconfig/libmysofa.pc

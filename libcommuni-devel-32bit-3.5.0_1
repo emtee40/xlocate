@@ -1,0 +1,3 @@
+/usr/lib32/libIrcCore.so -> /usr/lib32/libIrcCore.so.3.5.0
+/usr/lib32/libIrcModel.so -> /usr/lib32/libIrcModel.so.3.5.0
+/usr/lib32/libIrcUtil.so -> /usr/lib32/libIrcUtil.so.3.5.0

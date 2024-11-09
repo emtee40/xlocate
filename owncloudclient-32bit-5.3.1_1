@@ -1,0 +1,8 @@
+/usr/lib32/libowncloudResources.so.0 -> /usr/lib32/libowncloudResources.so.5.3.1
+/usr/lib32/libowncloudResources.so.5.3.1
+/usr/lib32/libowncloud_csync.so.0 -> /usr/lib32/libowncloud_csync.so.5.3.1
+/usr/lib32/libowncloud_csync.so.5.3.1
+/usr/lib32/libowncloudsync.so.0 -> /usr/lib32/libowncloudsync.so.5.3.1
+/usr/lib32/libowncloudsync.so.5.3.1
+/usr/lib32/qt6/plugins/owncloudsync_vfs_off.so
+/usr/lib32/qt6/plugins/owncloudsync_vfs_suffix.so

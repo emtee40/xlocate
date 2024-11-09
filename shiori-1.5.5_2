@@ -1,0 +1,6 @@
+/etc/sv/shiori/log/run
+/etc/sv/shiori/log/supervise -> /run/runit/supervise.shiori-log
+/etc/sv/shiori/run
+/etc/sv/shiori/supervise -> /run/runit/supervise.shiori
+/usr/bin/shiori
+/usr/share/licenses/shiori/LICENSE

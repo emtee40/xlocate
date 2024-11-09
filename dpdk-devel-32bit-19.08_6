@@ -1,0 +1,346 @@
+/usr/lib32/dpdk/pmds-19.08/librte_bus_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_dpaa.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_bus_fslmc.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_fslmc.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_bus_ifpga.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_ifpga.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_bus_pci.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_pci.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_bus_vdev.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_vdev.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_bus_vmbus.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_vmbus.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_common_cpt.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_cpt.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_common_dpaax.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_dpaax.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_common_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_octeontx.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_common_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_octeontx2.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_bucket.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_bucket.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa2.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa2.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx2.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_ring.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_ring.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_mempool_stack.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_stack.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_af_packet.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_af_packet.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ark.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ark.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_atlantic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_atlantic.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_avp.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_avp.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_axgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_axgbe.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_null.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_null.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bnx2x.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bnx2x.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bnxt.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bnxt.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_bond.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bond.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_caam_jr.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_caam_jr.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ccp.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ccp.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_cxgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_cxgbe.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_dsw_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dsw_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_e1000.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_e1000.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ena.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ena.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_enetc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_enetc.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_enic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_enic.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_failsafe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_failsafe.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_fm10k.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_fm10k.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_hinic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_hinic.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_i40e.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_i40e.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_iavf.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_iavf.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ice.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ice.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ifc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ifc.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ipn3ke.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ipn3ke.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ixgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ixgbe.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_liquidio.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_liquidio.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_memif.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_memif.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_netvsc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_netvsc.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_null.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_null.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_null_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_null_crypto.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_opdl_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_opdl_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_openssl.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_openssl.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_pcap.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_pcap.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_qat.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_qat.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_ring.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ring.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_skeleton_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_skeleton_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_softnic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_softnic.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_sw_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_sw_event.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_tap.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_tap.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_thunderx.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_thunderx.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_vhost.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vhost.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_vmxnet3.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vmxnet3.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_pmd_zlib.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_zlib.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so.2
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_ioat.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_ioat.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_ntb.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_ntb.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so.1
+/usr/lib32/dpdk/pmds-19.08/librte_rawdev_skeleton.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_skeleton.so.1
+/usr/lib32/librte_acl.a
+/usr/lib32/librte_acl.so -> /usr/lib32/librte_acl.so.2
+/usr/lib32/librte_bbdev.a
+/usr/lib32/librte_bbdev.so -> /usr/lib32/librte_bbdev.so.1
+/usr/lib32/librte_bitratestats.a
+/usr/lib32/librte_bitratestats.so -> /usr/lib32/librte_bitratestats.so.2
+/usr/lib32/librte_bpf.a
+/usr/lib32/librte_bpf.so -> /usr/lib32/librte_bpf.so.1
+/usr/lib32/librte_bus_dpaa.a
+/usr/lib32/librte_bus_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_dpaa.so
+/usr/lib32/librte_bus_fslmc.a
+/usr/lib32/librte_bus_fslmc.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_fslmc.so
+/usr/lib32/librte_bus_ifpga.a
+/usr/lib32/librte_bus_ifpga.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_ifpga.so
+/usr/lib32/librte_bus_pci.a
+/usr/lib32/librte_bus_pci.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_pci.so
+/usr/lib32/librte_bus_vdev.a
+/usr/lib32/librte_bus_vdev.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_vdev.so
+/usr/lib32/librte_bus_vmbus.a
+/usr/lib32/librte_bus_vmbus.so -> /usr/lib32/dpdk/pmds-19.08/librte_bus_vmbus.so
+/usr/lib32/librte_cfgfile.a
+/usr/lib32/librte_cfgfile.so -> /usr/lib32/librte_cfgfile.so.2
+/usr/lib32/librte_cmdline.a
+/usr/lib32/librte_cmdline.so -> /usr/lib32/librte_cmdline.so.2
+/usr/lib32/librte_common_cpt.a
+/usr/lib32/librte_common_cpt.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_cpt.so
+/usr/lib32/librte_common_dpaax.a
+/usr/lib32/librte_common_dpaax.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_dpaax.so
+/usr/lib32/librte_common_octeontx.a
+/usr/lib32/librte_common_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_octeontx.so
+/usr/lib32/librte_common_octeontx2.a
+/usr/lib32/librte_common_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_common_octeontx2.so
+/usr/lib32/librte_compressdev.a
+/usr/lib32/librte_compressdev.so -> /usr/lib32/librte_compressdev.so.1
+/usr/lib32/librte_cryptodev.a
+/usr/lib32/librte_cryptodev.so -> /usr/lib32/librte_cryptodev.so.8
+/usr/lib32/librte_distributor.a
+/usr/lib32/librte_distributor.so -> /usr/lib32/librte_distributor.so.1
+/usr/lib32/librte_eal.a
+/usr/lib32/librte_eal.so -> /usr/lib32/librte_eal.so.11
+/usr/lib32/librte_efd.a
+/usr/lib32/librte_efd.so -> /usr/lib32/librte_efd.so.1
+/usr/lib32/librte_ethdev.a
+/usr/lib32/librte_ethdev.so -> /usr/lib32/librte_ethdev.so.12
+/usr/lib32/librte_eventdev.a
+/usr/lib32/librte_eventdev.so -> /usr/lib32/librte_eventdev.so.7
+/usr/lib32/librte_flow_classify.a
+/usr/lib32/librte_flow_classify.so -> /usr/lib32/librte_flow_classify.so.1
+/usr/lib32/librte_gro.a
+/usr/lib32/librte_gro.so -> /usr/lib32/librte_gro.so.1
+/usr/lib32/librte_gso.a
+/usr/lib32/librte_gso.so -> /usr/lib32/librte_gso.so.1
+/usr/lib32/librte_hash.a
+/usr/lib32/librte_hash.so -> /usr/lib32/librte_hash.so.2
+/usr/lib32/librte_ip_frag.a
+/usr/lib32/librte_ip_frag.so -> /usr/lib32/librte_ip_frag.so.1
+/usr/lib32/librte_ipsec.a
+/usr/lib32/librte_ipsec.so -> /usr/lib32/librte_ipsec.so.1
+/usr/lib32/librte_jobstats.a
+/usr/lib32/librte_jobstats.so -> /usr/lib32/librte_jobstats.so.1
+/usr/lib32/librte_kvargs.a
+/usr/lib32/librte_kvargs.so -> /usr/lib32/librte_kvargs.so.1
+/usr/lib32/librte_latencystats.a
+/usr/lib32/librte_latencystats.so -> /usr/lib32/librte_latencystats.so.1
+/usr/lib32/librte_lpm.a
+/usr/lib32/librte_lpm.so -> /usr/lib32/librte_lpm.so.2
+/usr/lib32/librte_mbuf.a
+/usr/lib32/librte_mbuf.so -> /usr/lib32/librte_mbuf.so.5
+/usr/lib32/librte_member.a
+/usr/lib32/librte_member.so -> /usr/lib32/librte_member.so.1
+/usr/lib32/librte_mempool.a
+/usr/lib32/librte_mempool.so -> /usr/lib32/librte_mempool.so.5
+/usr/lib32/librte_mempool_bucket.a
+/usr/lib32/librte_mempool_bucket.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_bucket.so
+/usr/lib32/librte_mempool_dpaa.a
+/usr/lib32/librte_mempool_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa.so
+/usr/lib32/librte_mempool_dpaa2.a
+/usr/lib32/librte_mempool_dpaa2.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_dpaa2.so
+/usr/lib32/librte_mempool_octeontx.a
+/usr/lib32/librte_mempool_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx.so
+/usr/lib32/librte_mempool_octeontx2.a
+/usr/lib32/librte_mempool_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_octeontx2.so
+/usr/lib32/librte_mempool_ring.a
+/usr/lib32/librte_mempool_ring.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_ring.so
+/usr/lib32/librte_mempool_stack.a
+/usr/lib32/librte_mempool_stack.so -> /usr/lib32/dpdk/pmds-19.08/librte_mempool_stack.so
+/usr/lib32/librte_meter.a
+/usr/lib32/librte_meter.so -> /usr/lib32/librte_meter.so.3
+/usr/lib32/librte_metrics.a
+/usr/lib32/librte_metrics.so -> /usr/lib32/librte_metrics.so.1
+/usr/lib32/librte_net.a
+/usr/lib32/librte_net.so -> /usr/lib32/librte_net.so.1
+/usr/lib32/librte_pci.a
+/usr/lib32/librte_pci.so -> /usr/lib32/librte_pci.so.1
+/usr/lib32/librte_pdump.a
+/usr/lib32/librte_pdump.so -> /usr/lib32/librte_pdump.so.3
+/usr/lib32/librte_pipeline.a
+/usr/lib32/librte_pipeline.so -> /usr/lib32/librte_pipeline.so.3
+/usr/lib32/librte_pmd_af_packet.a
+/usr/lib32/librte_pmd_af_packet.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_af_packet.so
+/usr/lib32/librte_pmd_ark.a
+/usr/lib32/librte_pmd_ark.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ark.so
+/usr/lib32/librte_pmd_atlantic.a
+/usr/lib32/librte_pmd_atlantic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_atlantic.so
+/usr/lib32/librte_pmd_avp.a
+/usr/lib32/librte_pmd_avp.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_avp.so
+/usr/lib32/librte_pmd_axgbe.a
+/usr/lib32/librte_pmd_axgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_axgbe.so
+/usr/lib32/librte_pmd_bbdev_fpga_lte_fec.a
+/usr/lib32/librte_pmd_bbdev_fpga_lte_fec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_fpga_lte_fec.so
+/usr/lib32/librte_pmd_bbdev_null.a
+/usr/lib32/librte_pmd_bbdev_null.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_null.so
+/usr/lib32/librte_pmd_bbdev_turbo_sw.a
+/usr/lib32/librte_pmd_bbdev_turbo_sw.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bbdev_turbo_sw.so
+/usr/lib32/librte_pmd_bnx2x.a
+/usr/lib32/librte_pmd_bnx2x.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bnx2x.so
+/usr/lib32/librte_pmd_bnxt.a
+/usr/lib32/librte_pmd_bnxt.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bnxt.so
+/usr/lib32/librte_pmd_bond.a
+/usr/lib32/librte_pmd_bond.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_bond.so
+/usr/lib32/librte_pmd_caam_jr.a
+/usr/lib32/librte_pmd_caam_jr.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_caam_jr.so
+/usr/lib32/librte_pmd_ccp.a
+/usr/lib32/librte_pmd_ccp.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ccp.so
+/usr/lib32/librte_pmd_crypto_scheduler.a
+/usr/lib32/librte_pmd_crypto_scheduler.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_crypto_scheduler.so
+/usr/lib32/librte_pmd_cxgbe.a
+/usr/lib32/librte_pmd_cxgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_cxgbe.so
+/usr/lib32/librte_pmd_dpaa.a
+/usr/lib32/librte_pmd_dpaa.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa.so
+/usr/lib32/librte_pmd_dpaa2.a
+/usr/lib32/librte_pmd_dpaa2.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2.so
+/usr/lib32/librte_pmd_dpaa2_event.a
+/usr/lib32/librte_pmd_dpaa2_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_event.so
+/usr/lib32/librte_pmd_dpaa2_sec.a
+/usr/lib32/librte_pmd_dpaa2_sec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa2_sec.so
+/usr/lib32/librte_pmd_dpaa_event.a
+/usr/lib32/librte_pmd_dpaa_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_event.so
+/usr/lib32/librte_pmd_dpaa_sec.a
+/usr/lib32/librte_pmd_dpaa_sec.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dpaa_sec.so
+/usr/lib32/librte_pmd_dsw_event.a
+/usr/lib32/librte_pmd_dsw_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_dsw_event.so
+/usr/lib32/librte_pmd_e1000.a
+/usr/lib32/librte_pmd_e1000.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_e1000.so
+/usr/lib32/librte_pmd_ena.a
+/usr/lib32/librte_pmd_ena.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ena.so
+/usr/lib32/librte_pmd_enetc.a
+/usr/lib32/librte_pmd_enetc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_enetc.so
+/usr/lib32/librte_pmd_enic.a
+/usr/lib32/librte_pmd_enic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_enic.so
+/usr/lib32/librte_pmd_failsafe.a
+/usr/lib32/librte_pmd_failsafe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_failsafe.so
+/usr/lib32/librte_pmd_fm10k.a
+/usr/lib32/librte_pmd_fm10k.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_fm10k.so
+/usr/lib32/librte_pmd_hinic.a
+/usr/lib32/librte_pmd_hinic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_hinic.so
+/usr/lib32/librte_pmd_i40e.a
+/usr/lib32/librte_pmd_i40e.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_i40e.so
+/usr/lib32/librte_pmd_iavf.a
+/usr/lib32/librte_pmd_iavf.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_iavf.so
+/usr/lib32/librte_pmd_ice.a
+/usr/lib32/librte_pmd_ice.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ice.so
+/usr/lib32/librte_pmd_ifc.a
+/usr/lib32/librte_pmd_ifc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ifc.so
+/usr/lib32/librte_pmd_ipn3ke.a
+/usr/lib32/librte_pmd_ipn3ke.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ipn3ke.so
+/usr/lib32/librte_pmd_ixgbe.a
+/usr/lib32/librte_pmd_ixgbe.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ixgbe.so
+/usr/lib32/librte_pmd_liquidio.a
+/usr/lib32/librte_pmd_liquidio.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_liquidio.so
+/usr/lib32/librte_pmd_memif.a
+/usr/lib32/librte_pmd_memif.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_memif.so
+/usr/lib32/librte_pmd_netvsc.a
+/usr/lib32/librte_pmd_netvsc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_netvsc.so
+/usr/lib32/librte_pmd_null.a
+/usr/lib32/librte_pmd_null.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_null.so
+/usr/lib32/librte_pmd_null_crypto.a
+/usr/lib32/librte_pmd_null_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_null_crypto.so
+/usr/lib32/librte_pmd_octeontx.a
+/usr/lib32/librte_pmd_octeontx.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx.so
+/usr/lib32/librte_pmd_octeontx2.a
+/usr/lib32/librte_pmd_octeontx2.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2.so
+/usr/lib32/librte_pmd_octeontx2_event.a
+/usr/lib32/librte_pmd_octeontx2_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx2_event.so
+/usr/lib32/librte_pmd_octeontx_compress.a
+/usr/lib32/librte_pmd_octeontx_compress.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_compress.so
+/usr/lib32/librte_pmd_octeontx_crypto.a
+/usr/lib32/librte_pmd_octeontx_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_crypto.so
+/usr/lib32/librte_pmd_octeontx_event.a
+/usr/lib32/librte_pmd_octeontx_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_octeontx_event.so
+/usr/lib32/librte_pmd_opdl_event.a
+/usr/lib32/librte_pmd_opdl_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_opdl_event.so
+/usr/lib32/librte_pmd_openssl.a
+/usr/lib32/librte_pmd_openssl.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_openssl.so
+/usr/lib32/librte_pmd_pcap.a
+/usr/lib32/librte_pmd_pcap.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_pcap.so
+/usr/lib32/librte_pmd_qat.a
+/usr/lib32/librte_pmd_qat.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_qat.so
+/usr/lib32/librte_pmd_ring.a
+/usr/lib32/librte_pmd_ring.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_ring.so
+/usr/lib32/librte_pmd_skeleton_event.a
+/usr/lib32/librte_pmd_skeleton_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_skeleton_event.so
+/usr/lib32/librte_pmd_softnic.a
+/usr/lib32/librte_pmd_softnic.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_softnic.so
+/usr/lib32/librte_pmd_sw_event.a
+/usr/lib32/librte_pmd_sw_event.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_sw_event.so
+/usr/lib32/librte_pmd_tap.a
+/usr/lib32/librte_pmd_tap.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_tap.so
+/usr/lib32/librte_pmd_thunderx.a
+/usr/lib32/librte_pmd_thunderx.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_thunderx.so
+/usr/lib32/librte_pmd_vdev_netvsc.a
+/usr/lib32/librte_pmd_vdev_netvsc.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vdev_netvsc.so
+/usr/lib32/librte_pmd_vhost.a
+/usr/lib32/librte_pmd_vhost.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vhost.so
+/usr/lib32/librte_pmd_virtio.a
+/usr/lib32/librte_pmd_virtio.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio.so
+/usr/lib32/librte_pmd_virtio_crypto.a
+/usr/lib32/librte_pmd_virtio_crypto.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_virtio_crypto.so
+/usr/lib32/librte_pmd_vmxnet3.a
+/usr/lib32/librte_pmd_vmxnet3.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_vmxnet3.so
+/usr/lib32/librte_pmd_zlib.a
+/usr/lib32/librte_pmd_zlib.so -> /usr/lib32/dpdk/pmds-19.08/librte_pmd_zlib.so
+/usr/lib32/librte_port.a
+/usr/lib32/librte_port.so -> /usr/lib32/librte_port.so.3
+/usr/lib32/librte_power.a
+/usr/lib32/librte_power.so -> /usr/lib32/librte_power.so.1
+/usr/lib32/librte_rawdev.a
+/usr/lib32/librte_rawdev.so -> /usr/lib32/librte_rawdev.so.1
+/usr/lib32/librte_rawdev_dpaa2_cmdif.a
+/usr/lib32/librte_rawdev_dpaa2_cmdif.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_cmdif.so
+/usr/lib32/librte_rawdev_dpaa2_qdma.a
+/usr/lib32/librte_rawdev_dpaa2_qdma.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_dpaa2_qdma.so
+/usr/lib32/librte_rawdev_ioat.a
+/usr/lib32/librte_rawdev_ioat.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_ioat.so
+/usr/lib32/librte_rawdev_ntb.a
+/usr/lib32/librte_rawdev_ntb.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_ntb.so
+/usr/lib32/librte_rawdev_octeontx2_dma.a
+/usr/lib32/librte_rawdev_octeontx2_dma.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_octeontx2_dma.so
+/usr/lib32/librte_rawdev_skeleton.a
+/usr/lib32/librte_rawdev_skeleton.so -> /usr/lib32/dpdk/pmds-19.08/librte_rawdev_skeleton.so
+/usr/lib32/librte_rcu.a
+/usr/lib32/librte_rcu.so -> /usr/lib32/librte_rcu.so.1
+/usr/lib32/librte_reorder.a
+/usr/lib32/librte_reorder.so -> /usr/lib32/librte_reorder.so.1
+/usr/lib32/librte_ring.a
+/usr/lib32/librte_ring.so -> /usr/lib32/librte_ring.so.2
+/usr/lib32/librte_sched.a
+/usr/lib32/librte_sched.so -> /usr/lib32/librte_sched.so.3
+/usr/lib32/librte_security.a
+/usr/lib32/librte_security.so -> /usr/lib32/librte_security.so.2
+/usr/lib32/librte_stack.a
+/usr/lib32/librte_stack.so -> /usr/lib32/librte_stack.so.1
+/usr/lib32/librte_table.a
+/usr/lib32/librte_table.so -> /usr/lib32/librte_table.so.3
+/usr/lib32/librte_telemetry.a
+/usr/lib32/librte_telemetry.so -> /usr/lib32/librte_telemetry.so.1
+/usr/lib32/librte_timer.a
+/usr/lib32/librte_timer.so -> /usr/lib32/librte_timer.so.1
+/usr/lib32/librte_vhost.a
+/usr/lib32/librte_vhost.so -> /usr/lib32/librte_vhost.so.4
+/usr/lib32/pkgconfig/libdpdk.pc

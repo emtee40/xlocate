@@ -1,0 +1,21 @@
+/etc/btrbk/btrbk.conf.example
+/usr/bin/btrbk
+/usr/bin/lsbtr -> /usr/bin/btrbk
+/usr/lib/systemd/system/btrbk.service
+/usr/lib/systemd/system/btrbk.timer
+/usr/share/bash-completion/completions/btrbk
+/usr/share/bash-completion/completions/lsbtr -> /usr/share/bash-completion/completions/btrbk
+/usr/share/btrbk/scripts/btrbk-mail
+/usr/share/btrbk/scripts/btrbk-verify
+/usr/share/btrbk/scripts/btrbk_restore_raw.py
+/usr/share/btrbk/scripts/kdf_pbkdf2.py
+/usr/share/btrbk/scripts/raw_suffix2sidecar
+/usr/share/btrbk/scripts/ssh_filter_btrbk.sh
+/usr/share/doc/btrbk/ChangeLog
+/usr/share/doc/btrbk/FAQ.md
+/usr/share/doc/btrbk/README.md
+/usr/share/doc/btrbk/upgrade_to_v0.23.0.md
+/usr/share/man/man1/btrbk.1
+/usr/share/man/man1/lsbtr.1
+/usr/share/man/man1/ssh_filter_btrbk.1
+/usr/share/man/man5/btrbk.conf.5

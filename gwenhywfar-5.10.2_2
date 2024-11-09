@@ -1,0 +1,91 @@
+/usr/bin/gct-tool
+/usr/bin/gsa
+/usr/bin/gwbuild
+/usr/bin/mklistdoc
+/usr/bin/typemaker
+/usr/bin/typemaker2
+/usr/bin/xmlmerge
+/usr/lib/gwenhywfar/plugins/79/configmgr/dir.so
+/usr/lib/gwenhywfar/plugins/79/configmgr/dir.xml
+/usr/lib/gwenhywfar/plugins/79/ct/ohbci.so
+/usr/lib/gwenhywfar/plugins/79/ct/ohbci.xml
+/usr/lib/gwenhywfar/plugins/79/dbio/csv.so -> /usr/lib/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/csv.so.0 -> /usr/lib/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/csv.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/csv.xml
+/usr/lib/gwenhywfar/plugins/79/dbio/olddb.so -> /usr/lib/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/olddb.so.0 -> /usr/lib/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/olddb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/olddb.xml
+/usr/lib/gwenhywfar/plugins/79/dbio/xmldb.so -> /usr/lib/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/xmldb.so.0 -> /usr/lib/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/xmldb.so.0.0.1
+/usr/lib/gwenhywfar/plugins/79/dbio/xmldb.xml
+/usr/lib/libgwengui-cpp.so.79 -> /usr/lib/libgwengui-cpp.so.79.10.2
+/usr/lib/libgwengui-cpp.so.79.10.2
+/usr/lib/libgwenhywfar.so.79 -> /usr/lib/libgwenhywfar.so.79.10.2
+/usr/lib/libgwenhywfar.so.79.10.2
+/usr/share/gwenbuild/templates/convlib.tmpl
+/usr/share/gwenbuild/templates/module.tmpl
+/usr/share/gwenbuild/templates/project.tmpl
+/usr/share/gwenhywfar/dialogs/dlg_input.dlg
+/usr/share/gwenhywfar/dialogs/dlg_message.dlg
+/usr/share/gwenhywfar/dialogs/dlg_progress.dlg
+/usr/share/gwenhywfar/dialogs/dlg_showbox.dlg
+/usr/share/gwenhywfar/gwenbuild/builders/posix/app.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/cbuilder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/cxxapp.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/cxxbuilder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/module.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/msgfmt.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/sharedlib.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/staticlib.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/tm2builder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/posix/tmplib.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/app.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/cbuilder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/cxxapp.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/cxxbuilder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/module.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/sharedlib.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/staticlib.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/tm2builder.gwb
+/usr/share/gwenhywfar/gwenbuild/builders/windows/tmplib.gwb
+/usr/share/gwenhywfar/typemaker2/c/char.tm2
+/usr/share/gwenhywfar/typemaker2/c/char_array.tm2
+/usr/share/gwenhywfar/typemaker2/c/char_ptr.tm2
+/usr/share/gwenhywfar/typemaker2/c/double.tm2
+/usr/share/gwenhywfar/typemaker2/c/double_array.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_bindata.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_buffer.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_date.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_db_node.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_idlist64.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_multicache.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_multicache_type.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_param.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_param_list.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_param_list2.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_param_tree.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_stringlist2.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_time.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_xmlnode.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_xmlnode_list.tm2
+/usr/share/gwenhywfar/typemaker2/c/gwen_xmlnode_list2.tm2
+/usr/share/gwenhywfar/typemaker2/c/idmap_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/int.tm2
+/usr/share/gwenhywfar/typemaker2/c/int_array.tm2
+/usr/share/gwenhywfar/typemaker2/c/int_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/list1_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/list2_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/struct_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/tree2_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/tree_base.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint16_t.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint16_t_array.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint32_t.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint32_t_array.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint64_t.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint8_t.tm2
+/usr/share/gwenhywfar/typemaker2/c/uint8_t_array.tm2
+/usr/share/locale/de/LC_MESSAGES/gwenhywfar.mo

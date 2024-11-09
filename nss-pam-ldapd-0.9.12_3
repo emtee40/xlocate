@@ -1,0 +1,8 @@
+/etc/nslcd.conf
+/etc/sv/nslcd/log/run
+/etc/sv/nslcd/log/supervise -> /run/runit/supervise.nslcd-log
+/etc/sv/nslcd/run
+/etc/sv/nslcd/supervise -> /run/runit/supervise.nslcd
+/usr/bin/nslcd
+/usr/lib/libnss_ldap.so.2
+/usr/lib/security/pam_ldap.so

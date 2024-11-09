@@ -1,0 +1,13 @@
+/usr/bin/snappy
+/usr/share/applications/snappy.desktop
+/usr/share/icons/hicolor/256x256/apps/snappy.png
+/usr/share/icons/hicolor/48x48/apps/snappy.png
+/usr/share/snappy/audio-stream-toggle.png
+/usr/share/snappy/audio-volume-high.svg
+/usr/share/snappy/audio-volume-low.svg
+/usr/share/snappy/fullscreen.svg
+/usr/share/snappy/media-actions-pause.svg
+/usr/share/snappy/media-actions-start.svg
+/usr/share/snappy/subtitles-active.svg
+/usr/share/snappy/subtitles-inactive.svg
+/usr/share/snappy/video-stream-toggle.png

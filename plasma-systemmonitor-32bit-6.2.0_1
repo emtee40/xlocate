@@ -1,0 +1,4 @@
+/usr/lib32/libPlasmaSystemMonitorPage.so
+/usr/lib32/libPlasmaSystemMonitorTable.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/page/libPlasmaSystemMonitorPageplugin.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/table/libPlasmaSystemMonitorTableplugin.so

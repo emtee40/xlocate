@@ -1,0 +1,4 @@
+/usr/lib32/libaal-minimal.a
+/usr/lib32/libaal-minimal.so -> /usr/lib32/libaal-minimal.so.0.0.0
+/usr/lib32/libaal.a
+/usr/lib32/libaal.so -> /usr/lib32/libaal-1.0.so.7.0.0

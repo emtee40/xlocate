@@ -1,0 +1,13 @@
+/usr/include/xkbcommon/xkbcommon-compat.h
+/usr/include/xkbcommon/xkbcommon-compose.h
+/usr/include/xkbcommon/xkbcommon-keysyms.h
+/usr/include/xkbcommon/xkbcommon-names.h
+/usr/include/xkbcommon/xkbcommon-x11.h
+/usr/include/xkbcommon/xkbcommon.h
+/usr/include/xkbcommon/xkbregistry.h
+/usr/lib/libxkbcommon-x11.so -> /usr/lib/libxkbcommon-x11.so.0
+/usr/lib/libxkbcommon.so -> /usr/lib/libxkbcommon.so.0
+/usr/lib/libxkbregistry.so -> /usr/lib/libxkbregistry.so.0
+/usr/lib/pkgconfig/xkbcommon-x11.pc
+/usr/lib/pkgconfig/xkbcommon.pc
+/usr/lib/pkgconfig/xkbregistry.pc

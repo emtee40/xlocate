@@ -1,0 +1,2 @@
+/usr/bin/docker-compose -> /usr/libexec/docker/cli-plugins/docker-compose
+/usr/libexec/docker/cli-plugins/docker-compose

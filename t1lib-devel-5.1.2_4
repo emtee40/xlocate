@@ -1,0 +1,6 @@
+/usr/include/t1lib.h
+/usr/include/t1libx.h
+/usr/lib/libt1.a
+/usr/lib/libt1.so -> /usr/lib/libt1.so.5.1.2
+/usr/lib/libt1x.a
+/usr/lib/libt1x.so -> /usr/lib/libt1x.so.5.1.2

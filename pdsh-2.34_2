@@ -1,0 +1,8 @@
+/usr/bin/dshbak
+/usr/bin/pdcp
+/usr/bin/pdsh
+/usr/bin/rpdcp
+/usr/share/man/man1/dshbak.1
+/usr/share/man/man1/pdcp.1
+/usr/share/man/man1/pdsh.1
+/usr/share/man/man1/rpdcp.1 -> /usr/share/man/man1/pdcp.1

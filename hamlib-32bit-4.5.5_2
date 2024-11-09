@@ -1,0 +1,8 @@
+/usr/lib32/libhamlib++.so.4 -> /usr/lib32/libhamlib++.so.4.0.6
+/usr/lib32/libhamlib++.so.4.0.6
+/usr/lib32/libhamlib.so.4 -> /usr/lib32/libhamlib.so.4.0.6
+/usr/lib32/libhamlib.so.4.0.6
+/usr/lib32/perl5/site_perl/auto/Hamlib/Hamlib.so
+/usr/lib32/python3.12/site-packages/_Hamlib.so
+/usr/lib32/tcl/Hamlib/hamlibtcl-4.6.so
+/usr/lib32/tcl/Hamlib/hamlibtcl.so -> /usr/lib32/tcl/Hamlib/hamlibtcl-4.6.so

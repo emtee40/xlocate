@@ -1,0 +1,26 @@
+/usr/bin/amdgpu-arch
+/usr/bin/c-index-test
+/usr/bin/clang -> /usr/bin/clang-18
+/usr/bin/clang++ -> /usr/bin/clang
+/usr/bin/clang-18
+/usr/bin/clang-check
+/usr/bin/clang-cl -> /usr/bin/clang
+/usr/bin/clang-cpp -> /usr/bin/clang
+/usr/bin/clang-extdef-mapping
+/usr/bin/clang-format
+/usr/bin/clang-linker-wrapper
+/usr/bin/clang-offload-bundler
+/usr/bin/clang-offload-packager
+/usr/bin/clang-refactor
+/usr/bin/clang-rename
+/usr/bin/clang-repl
+/usr/bin/clang-scan-deps
+/usr/bin/clang-tblgen
+/usr/bin/diagtool
+/usr/bin/git-clang-format
+/usr/bin/hmaptool
+/usr/bin/nvptx-arch
+/usr/lib/LLVMPolly.so
+/usr/share/man/man1/clang.1
+/usr/share/man/man1/diagtool.1
+/usr/share/man/man1/polly.1

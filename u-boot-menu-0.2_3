@@ -1,0 +1,3 @@
+/etc/default/extlinux
+/etc/kernel.d/post-install/60-extlinux
+/etc/kernel.d/post-remove/60-extlinux

@@ -1,0 +1,7 @@
+/etc/ndctl/keys/keys.readme
+/etc/ndctl/monitor.conf
+/usr/bin/daxctl
+/usr/bin/ndctl
+/usr/lib/modprobe.d/nvdimm-security.conf
+/usr/share/bash-completion/completions/ndctl
+/usr/share/daxctl/daxctl.conf

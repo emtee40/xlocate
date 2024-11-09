@@ -1,0 +1,101 @@
+/etc/pam.d/vmtoolsd
+/etc/sv/vmtoolsd/log/run
+/etc/sv/vmtoolsd/log/supervise -> /run/runit/supervise.vmtoolsd-log
+/etc/sv/vmtoolsd/run
+/etc/sv/vmtoolsd/supervise -> /run/runit/supervise.vmtoolsd
+/etc/sv/vmware-vmblock-fuse/log/run
+/etc/sv/vmware-vmblock-fuse/log/supervise -> /run/runit/supervise.vmware-vmblock-fuse-log
+/etc/sv/vmware-vmblock-fuse/run
+/etc/sv/vmware-vmblock-fuse/supervise -> /run/runit/supervise.vmware-vmblock-fuse
+/etc/vmware-tools/poweroff-vm-default
+/etc/vmware-tools/poweron-vm-default
+/etc/vmware-tools/resume-vm-default
+/etc/vmware-tools/scripts/vmware/network
+/etc/vmware-tools/statechange.subr
+/etc/vmware-tools/suspend-vm-default
+/etc/vmware-tools/tools.conf.example
+/etc/xdg/autostart/vmware-user.desktop
+/usr/bin/vm-support
+/usr/bin/vmhgfs-fuse
+/usr/bin/vmtoolsd
+/usr/bin/vmware-checkvm
+/usr/bin/vmware-hgfsclient
+/usr/bin/vmware-namespace-cmd
+/usr/bin/vmware-rpctool
+/usr/bin/vmware-toolbox-cmd
+/usr/bin/vmware-user -> /usr/bin/vmware-user-suid-wrapper
+/usr/bin/vmware-user-suid-wrapper
+/usr/bin/vmware-vmblock-fuse
+/usr/bin/vmware-xdg-detect-de
+/usr/bin/vmware-xferlogs
+/usr/bin/vmwgfxctrl
+/usr/include/libDeployPkg/deployPkgFormat.h
+/usr/include/libDeployPkg/deploypkg.h
+/usr/include/libDeployPkg/guestcust-events.h
+/usr/include/libDeployPkg/guestrpc.h
+/usr/include/libDeployPkg/imgcust-api.h
+/usr/include/libDeployPkg/includeCheck.h
+/usr/include/libDeployPkg/linuxDeployment.h
+/usr/include/libDeployPkg/log.h
+/usr/include/libDeployPkg/process.h
+/usr/include/libDeployPkg/vm_basic_types.h
+/usr/include/vmGuestLib/includeCheck.h
+/usr/include/vmGuestLib/vmGuestLib.h
+/usr/include/vmGuestLib/vmSessionId.h
+/usr/include/vmGuestLib/vm_basic_types.h
+/usr/lib/libDeployPkg.a
+/usr/lib/libDeployPkg.so -> /usr/lib/libDeployPkg.so.0.0.0
+/usr/lib/libDeployPkg.so.0 -> /usr/lib/libDeployPkg.so.0.0.0
+/usr/lib/libDeployPkg.so.0.0.0
+/usr/lib/libguestStoreClient.a
+/usr/lib/libguestStoreClient.so -> /usr/lib/libguestStoreClient.so.0.0.0
+/usr/lib/libguestStoreClient.so.0 -> /usr/lib/libguestStoreClient.so.0.0.0
+/usr/lib/libguestStoreClient.so.0.0.0
+/usr/lib/libguestlib.a
+/usr/lib/libguestlib.so -> /usr/lib/libguestlib.so.0.0.0
+/usr/lib/libguestlib.so.0 -> /usr/lib/libguestlib.so.0.0.0
+/usr/lib/libguestlib.so.0.0.0
+/usr/lib/libhgfs.a
+/usr/lib/libhgfs.so -> /usr/lib/libhgfs.so.0.0.0
+/usr/lib/libhgfs.so.0 -> /usr/lib/libhgfs.so.0.0.0
+/usr/lib/libhgfs.so.0.0.0
+/usr/lib/libvmtools.a
+/usr/lib/libvmtools.so -> /usr/lib/libvmtools.so.0.0.0
+/usr/lib/libvmtools.so.0 -> /usr/lib/libvmtools.so.0.0.0
+/usr/lib/libvmtools.so.0.0.0
+/usr/lib/open-vm-tools/plugins/common/libhgfsServer.so
+/usr/lib/open-vm-tools/plugins/common/libvix.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libappInfo.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libcomponentMgr.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libdeployPkgPlugin.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libgdp.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libguestInfo.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libguestStore.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libpowerOps.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libresolutionKMS.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libtimeSync.so
+/usr/lib/open-vm-tools/plugins/vmsvc/libvmbackup.so
+/usr/lib/open-vm-tools/plugins/vmusr/libdesktopEvents.so
+/usr/lib/open-vm-tools/plugins/vmusr/libdndcp.so
+/usr/lib/open-vm-tools/plugins/vmusr/libresolutionSet.so
+/usr/lib/pkgconfig/libDeployPkg.pc
+/usr/lib/pkgconfig/vmguestlib.pc
+/usr/lib/udev/rules.d/99-vmware-scsi-udev.rules
+/usr/share/open-vm-tools/messages/de/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/de/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/en/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/en/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/es/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/es/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/fr/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/fr/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/it/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/it/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/ja/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/ja/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/ko/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/ko/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/zh_CN/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/zh_CN/vmtoolsd.vmsg
+/usr/share/open-vm-tools/messages/zh_TW/toolboxcmd.vmsg
+/usr/share/open-vm-tools/messages/zh_TW/vmtoolsd.vmsg

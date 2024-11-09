@@ -1,0 +1,3 @@
+/usr/bin/qemu-hexagon
+/usr/bin/qemu-hexagon-static -> /usr/bin/qemu-hexagon
+/usr/share/binfmts/qemu-hexagon

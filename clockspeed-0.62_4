@@ -1,0 +1,18 @@
+/etc/clockspeed/clockspeed.conf
+/etc/leapsecs.dat
+/etc/sv/clockspeed/finish
+/etc/sv/clockspeed/run
+/etc/sv/clockspeed/supervise -> /run/runit/supervise.clockspeed
+/etc/sv/clockspeed_adjust/clock_adjust.sh
+/etc/sv/clockspeed_adjust/run
+/etc/sv/clockspeed_adjust/supervise -> /run/runit/supervise.clockspeed_adjust
+/usr/bin/clockadd
+/usr/bin/clockctl
+/usr/bin/clockspeed
+/usr/bin/clockview
+/usr/bin/sntpclock
+/usr/bin/taiclock
+/usr/bin/taiclockd
+/usr/share/doc/clockspeed/INSTALL
+/usr/share/doc/clockspeed/NOTES
+/usr/share/doc/clockspeed/README

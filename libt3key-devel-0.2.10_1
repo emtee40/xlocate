@@ -1,0 +1,5 @@
+/usr/include/t3/key/t3key/key.h
+/usr/include/t3/key/t3key/key_api.h
+/usr/include/t3/key/t3key/key_errors.h
+/usr/lib/libt3key.so -> /usr/lib/libt3key.so.1.0.0
+/usr/lib/pkgconfig/libt3key.pc

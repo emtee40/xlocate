@@ -1,0 +1,4 @@
+/usr/include/mujs.h
+/usr/lib/libmujs.a
+/usr/lib/libmujs.so -> /usr/lib/libmujs.so.1.2.0
+/usr/lib/pkgconfig/mujs.pc

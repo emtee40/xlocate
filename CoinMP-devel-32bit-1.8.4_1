@@ -1,0 +1,21 @@
+/usr/lib32/libCbc.so -> /usr/lib32/libCbc.so.3.9.10
+/usr/lib32/libCbcSolver.so -> /usr/lib32/libCbcSolver.so.3.9.10
+/usr/lib32/libCgl.so -> /usr/lib32/libCgl.so.1.9.11
+/usr/lib32/libClp.so -> /usr/lib32/libClp.so.1.13.12
+/usr/lib32/libClpSolver.so -> /usr/lib32/libClpSolver.so.1.13.12
+/usr/lib32/libCoinMP.so -> /usr/lib32/libCoinMP.so.1.8.4
+/usr/lib32/libCoinUtils.so -> /usr/lib32/libCoinUtils.so.3.10.15
+/usr/lib32/libOsi.so -> /usr/lib32/libOsi.so.1.12.10
+/usr/lib32/libOsiCbc.so -> /usr/lib32/libOsiCbc.so.3.9.10
+/usr/lib32/libOsiClp.so -> /usr/lib32/libOsiClp.so.1.13.12
+/usr/lib32/libOsiCommonTests.so -> /usr/lib32/libOsiCommonTests.so.1.12.10
+/usr/lib32/pkgconfig/cbc.pc
+/usr/lib32/pkgconfig/cgl.pc
+/usr/lib32/pkgconfig/clp.pc
+/usr/lib32/pkgconfig/coindatasample.pc
+/usr/lib32/pkgconfig/coinmp.pc
+/usr/lib32/pkgconfig/coinutils.pc
+/usr/lib32/pkgconfig/osi-cbc.pc
+/usr/lib32/pkgconfig/osi-clp.pc
+/usr/lib32/pkgconfig/osi-unittests.pc
+/usr/lib32/pkgconfig/osi.pc

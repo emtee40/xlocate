@@ -1,0 +1,20 @@
+/usr/include/girara/callbacks.h
+/usr/include/girara/commands.h
+/usr/include/girara/completion.h
+/usr/include/girara/config.h
+/usr/include/girara/datastructures.h
+/usr/include/girara/entry.h
+/usr/include/girara/girara-version.h
+/usr/include/girara/girara.h
+/usr/include/girara/input-history.h
+/usr/include/girara/log.h
+/usr/include/girara/macros.h
+/usr/include/girara/session.h
+/usr/include/girara/settings.h
+/usr/include/girara/shortcuts.h
+/usr/include/girara/statusbar.h
+/usr/include/girara/template.h
+/usr/include/girara/types.h
+/usr/include/girara/utils.h
+/usr/lib/libgirara-gtk3.so -> /usr/lib/libgirara-gtk3.so.4
+/usr/lib/pkgconfig/girara-gtk3.pc

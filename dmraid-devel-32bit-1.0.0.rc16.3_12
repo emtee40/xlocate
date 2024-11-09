@@ -1,0 +1,3 @@
+/usr/lib32/libdmraid-events-isw.so -> /usr/lib32/device-mapper/libdmraid-events-isw.so
+/usr/lib32/libdmraid.a
+/usr/lib32/libdmraid.so -> ../lib32/libdmraid.so.1.0.0

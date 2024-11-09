@@ -1,0 +1,14 @@
+/etc/sv/incus-user/log/run
+/etc/sv/incus-user/log/supervise -> /run/runit/supervise.incus-user-log
+/etc/sv/incus-user/run
+/etc/sv/incus-user/supervise -> /run/runit/supervise.incus-user
+/etc/sv/incus/check
+/etc/sv/incus/control/t
+/etc/sv/incus/log/run
+/etc/sv/incus/log/supervise -> /run/runit/supervise.incus-log
+/etc/sv/incus/run
+/etc/sv/incus/supervise -> /run/runit/supervise.incus
+/usr/bin/incus-agent
+/usr/libexec/incus/incus-user
+/usr/libexec/incus/incusd
+/usr/share/doc/incus/README.voidlinux

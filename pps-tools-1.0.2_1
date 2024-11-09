@@ -1,0 +1,5 @@
+/usr/bin/ppsctl
+/usr/bin/ppsfind
+/usr/bin/ppsldisc
+/usr/bin/ppstest
+/usr/bin/ppswatch

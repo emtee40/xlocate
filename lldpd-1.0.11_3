@@ -1,0 +1,26 @@
+/etc/lldpd.d/README.conf
+/etc/sv/lldpd/log/run
+/etc/sv/lldpd/log/supervise -> /run/runit/supervise.lldpd-log
+/etc/sv/lldpd/run
+/etc/sv/lldpd/supervise -> /run/runit/supervise.lldpd
+/usr/bin/lldpcli
+/usr/bin/lldpctl -> /usr/bin/lldpcli
+/usr/bin/lldpd
+/usr/include/lldp-const.h
+/usr/include/lldpctl.h
+/usr/lib/liblldpctl.a
+/usr/lib/liblldpctl.so -> /usr/lib/liblldpctl.so.4.9.0
+/usr/lib/liblldpctl.so.4 -> /usr/lib/liblldpctl.so.4.9.0
+/usr/lib/liblldpctl.so.4.9.0
+/usr/lib/pkgconfig/lldpctl.pc
+/usr/share/bash-completion/completions/lldpcli
+/usr/share/doc/lldpd/CONTRIBUTE.md
+/usr/share/doc/lldpd/ChangeLog
+/usr/share/doc/lldpd/LICENSE
+/usr/share/doc/lldpd/NEWS
+/usr/share/doc/lldpd/README.md
+/usr/share/licenses/lldpd/LICENSE
+/usr/share/man/man8/lldpcli.8
+/usr/share/man/man8/lldpctl.8
+/usr/share/man/man8/lldpd.8
+/usr/share/zsh/site-functions/_lldpcli

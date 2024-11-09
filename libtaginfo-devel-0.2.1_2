@@ -1,0 +1,16 @@
+/usr/include/libtaginfo/taginfo.h
+/usr/include/libtaginfo/taginfo_apetags.h
+/usr/include/libtaginfo/taginfo_asftags.h
+/usr/include/libtaginfo/taginfo_c.h
+/usr/include/libtaginfo/taginfo_id3tags.h
+/usr/include/libtaginfo/taginfo_image.h
+/usr/include/libtaginfo/taginfo_internal.h
+/usr/include/libtaginfo/taginfo_modtags.h
+/usr/include/libtaginfo/taginfo_mp4tags.h
+/usr/include/libtaginfo/taginfo_xiphtags.h
+/usr/lib/libtaginfo.so -> /usr/lib/libtaginfo.so.1.0.0
+/usr/lib/libtaginfo/include/libtaginfoconfig.h
+/usr/lib/libtaginfo_c.so -> /usr/lib/libtaginfo_c.so.0.0.0
+/usr/lib/pkgconfig/libtaginfo.pc
+/usr/lib/pkgconfig/libtaginfo_c.pc
+/usr/share/vala/vapi/libtaginfo_c.vapi

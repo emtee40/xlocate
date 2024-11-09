@@ -1,0 +1,18 @@
+/usr/bin/loweb
+/usr/bin/lowriter
+/usr/lib/libreoffice/program/libhwplo.so
+/usr/lib/libreoffice/program/liblwpftlo.so
+/usr/lib/libreoffice/program/libmswordlo.so
+/usr/lib/libreoffice/program/libsw_writerfilterlo.so
+/usr/lib/libreoffice/program/libswdlo.so
+/usr/lib/libreoffice/program/libswuilo.so
+/usr/lib/libreoffice/program/libt602filterlo.so
+/usr/lib/libreoffice/program/libvbaswobjlo.so
+/usr/lib/libreoffice/program/libwpftwriterlo.so
+/usr/lib/libreoffice/program/libwriterlo.so
+/usr/lib/libreoffice/program/swriter
+/usr/lib/libreoffice/share/registry/writer.xcd
+/usr/share/applications/libreoffice-writer.desktop -> /usr/lib/libreoffice/share/xdg/writer.desktop
+/usr/share/man/man1/loweb.1
+/usr/share/man/man1/lowriter.1
+/usr/share/metainfo/libreoffice-writer.appdata.xml

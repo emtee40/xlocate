@@ -1,0 +1,25 @@
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtconnection.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtdbusaddons_export.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtformattedpreedit.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtinputcontextproxy.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtinputmethoditem.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtinputmethodproxy.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtkeyboardlayout.h
+/usr/include/FcitxQt5/FcitxQtDBusAddons/fcitxqtkeyboardproxy.h
+/usr/include/FcitxQt5/FcitxQtWidgetsAddons/fcitxqtconfiguifactory.h
+/usr/include/FcitxQt5/FcitxQtWidgetsAddons/fcitxqtconfiguiplugin.h
+/usr/include/FcitxQt5/FcitxQtWidgetsAddons/fcitxqtconfiguiwidget.h
+/usr/include/FcitxQt5/FcitxQtWidgetsAddons/fcitxqtkeysequencewidget.h
+/usr/include/FcitxQt5/FcitxQtWidgetsAddons/fcitxqtwidgetsaddons_export.h
+/usr/include/FcitxQt5/fcitxqtdbusaddons_version.h
+/usr/include/FcitxQt5/fcitxqtwidgetsaddons_version.h
+/usr/lib/cmake/FcitxQt5DBusAddons/FcitxQt5DBusAddonsConfig.cmake
+/usr/lib/cmake/FcitxQt5DBusAddons/FcitxQt5DBusAddonsConfigVersion.cmake
+/usr/lib/cmake/FcitxQt5DBusAddons/FcitxQt5DBusAddonsTargets-none.cmake
+/usr/lib/cmake/FcitxQt5DBusAddons/FcitxQt5DBusAddonsTargets.cmake
+/usr/lib/cmake/FcitxQt5WidgetsAddons/FcitxQt5WidgetsAddonsConfig.cmake
+/usr/lib/cmake/FcitxQt5WidgetsAddons/FcitxQt5WidgetsAddonsConfigVersion.cmake
+/usr/lib/cmake/FcitxQt5WidgetsAddons/FcitxQt5WidgetsAddonsTargets-none.cmake
+/usr/lib/cmake/FcitxQt5WidgetsAddons/FcitxQt5WidgetsAddonsTargets.cmake
+/usr/lib/libFcitxQt5DBusAddons.so -> /usr/lib/libFcitxQt5DBusAddons.so.1
+/usr/lib/libFcitxQt5WidgetsAddons.so -> /usr/lib/libFcitxQt5WidgetsAddons.so.1

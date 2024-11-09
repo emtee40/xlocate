@@ -1,0 +1,5 @@
+/usr/bin/mtr
+/usr/bin/mtr-packet
+/usr/share/bash-completion/completions/mtr
+/usr/share/man/man8/mtr-packet.8
+/usr/share/man/man8/mtr.8

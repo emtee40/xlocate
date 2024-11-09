@@ -1,0 +1,10 @@
+/usr/lib/libQt6Sensors.so.6 -> /usr/lib/libQt6Sensors.so.6.7.2
+/usr/lib/libQt6Sensors.so.6.7.2
+/usr/lib/libQt6SensorsQuick.so.6 -> /usr/lib/libQt6SensorsQuick.so.6.7.2
+/usr/lib/libQt6SensorsQuick.so.6.7.2
+/usr/lib/qt6/modules/Sensors.json
+/usr/lib/qt6/modules/SensorsQuick.json
+/usr/lib/qt6/plugins/sensors/libqtsensors_generic.so
+/usr/lib/qt6/plugins/sensors/libqtsensors_iio-sensor-proxy.so
+/usr/lib/qt6/qml/QtSensors/libsensorsquickplugin.so
+/usr/lib/qt6/qml/QtSensors/qmldir

@@ -1,0 +1,12 @@
+/usr/bin/image_to_j2k
+/usr/bin/j2k_dump
+/usr/bin/j2k_to_image
+/usr/lib/openjpeg-1.5/OpenJPEGConfig.cmake
+/usr/lib/openjpeg-1.5/OpenJPEGTargets-none.cmake
+/usr/lib/openjpeg-1.5/OpenJPEGTargets.cmake
+/usr/share/doc/openjpeg-1.5/CHANGES
+/usr/share/doc/openjpeg-1.5/LICENSE
+/usr/share/licenses/openjpeg/LICENSE
+/usr/share/man/man1/image_to_j2k.1
+/usr/share/man/man1/j2k_dump.1
+/usr/share/man/man1/j2k_to_image.1

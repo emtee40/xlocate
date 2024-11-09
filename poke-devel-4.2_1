@@ -1,0 +1,4 @@
+/usr/include/libpoke.h
+/usr/lib/libpoke.a
+/usr/lib/libpoke.so -> /usr/lib/libpoke.so.1.0.0
+/usr/lib/pkgconfig/poke.pc

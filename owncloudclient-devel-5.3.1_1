@@ -1,0 +1,12 @@
+/usr/include/ownCloud/common/filesystembase.h
+/usr/include/ownCloud/common/ocsynclib.h
+/usr/include/ownCloud/common/utility.h
+/usr/include/ownCloud/libsync/accessmanager.h
+/usr/include/ownCloud/libsync/logger.h
+/usr/include/ownCloud/libsync/owncloudlib.h
+/usr/lib/cmake/ownCloud/ownCloudConfig-none.cmake
+/usr/lib/cmake/ownCloud/ownCloudConfig.cmake
+/usr/lib/cmake/ownCloud/ownCloudConfigVersion.cmake
+/usr/lib/libowncloudResources.so -> /usr/lib/libowncloudResources.so.0
+/usr/lib/libowncloud_csync.so -> /usr/lib/libowncloud_csync.so.0
+/usr/lib/libowncloudsync.so -> /usr/lib/libowncloudsync.so.0

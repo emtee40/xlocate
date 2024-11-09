@@ -1,0 +1,9 @@
+/usr/include/SDL/SDL_framerate.h
+/usr/include/SDL/SDL_gfxBlitFunc.h
+/usr/include/SDL/SDL_gfxPrimitives.h
+/usr/include/SDL/SDL_gfxPrimitives_font.h
+/usr/include/SDL/SDL_imageFilter.h
+/usr/include/SDL/SDL_rotozoom.h
+/usr/lib/libSDL_gfx.a
+/usr/lib/libSDL_gfx.so -> /usr/lib/libSDL_gfx.so.15.9.1
+/usr/lib/pkgconfig/SDL_gfx.pc

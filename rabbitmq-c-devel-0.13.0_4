@@ -1,0 +1,16 @@
+/usr/include/amqp.h
+/usr/include/amqp_framing.h
+/usr/include/amqp_ssl_socket.h
+/usr/include/amqp_tcp_socket.h
+/usr/include/rabbitmq-c/amqp.h
+/usr/include/rabbitmq-c/export.h
+/usr/include/rabbitmq-c/framing.h
+/usr/include/rabbitmq-c/ssl_socket.h
+/usr/include/rabbitmq-c/tcp_socket.h
+/usr/lib/cmake/rabbitmq-c/rabbitmq-c-config-version.cmake
+/usr/lib/cmake/rabbitmq-c/rabbitmq-c-config.cmake
+/usr/lib/cmake/rabbitmq-c/rabbitmq-targets-none.cmake
+/usr/lib/cmake/rabbitmq-c/rabbitmq-targets.cmake
+/usr/lib/librabbitmq.a
+/usr/lib/librabbitmq.so -> /usr/lib/librabbitmq.so.4
+/usr/lib/pkgconfig/librabbitmq.pc

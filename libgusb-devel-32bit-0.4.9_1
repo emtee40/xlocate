@@ -1,0 +1,2 @@
+/usr/lib32/libgusb.so -> /usr/lib32/libgusb.so.2
+/usr/lib32/pkgconfig/gusb.pc

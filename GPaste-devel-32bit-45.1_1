@@ -1,0 +1,6 @@
+/usr/lib32/libgpaste-2.so -> /usr/lib32/libgpaste-2.so.0
+/usr/lib32/libgpaste-gtk-3.so -> /usr/lib32/libgpaste-gtk-3.so.0
+/usr/lib32/libgpaste-gtk4.so -> /usr/lib32/libgpaste-gtk4.so.0
+/usr/lib32/pkgconfig/gpaste-2.pc
+/usr/lib32/pkgconfig/gpaste-gtk-3.pc
+/usr/lib32/pkgconfig/gpaste-gtk-4.pc

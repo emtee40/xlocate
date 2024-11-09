@@ -1,0 +1,4 @@
+/usr/include/X11/xpm.h
+/usr/lib/libXpm.a
+/usr/lib/libXpm.so -> /usr/lib/libXpm.so.4.11.0
+/usr/lib/pkgconfig/xpm.pc

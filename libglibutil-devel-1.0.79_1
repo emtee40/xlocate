@@ -1,0 +1,19 @@
+/usr/include/gutil/gutil_datapack.h
+/usr/include/gutil/gutil_history.h
+/usr/include/gutil/gutil_idlepool.h
+/usr/include/gutil/gutil_idlequeue.h
+/usr/include/gutil/gutil_inotify.h
+/usr/include/gutil/gutil_intarray.h
+/usr/include/gutil/gutil_ints.h
+/usr/include/gutil/gutil_log.h
+/usr/include/gutil/gutil_macros.h
+/usr/include/gutil/gutil_misc.h
+/usr/include/gutil/gutil_objv.h
+/usr/include/gutil/gutil_ring.h
+/usr/include/gutil/gutil_strv.h
+/usr/include/gutil/gutil_timenotify.h
+/usr/include/gutil/gutil_types.h
+/usr/include/gutil/gutil_version.h
+/usr/include/gutil/gutil_weakref.h
+/usr/lib/libglibutil.so -> /usr/lib/libglibutil.so.1
+/usr/lib/pkgconfig/libglibutil.pc

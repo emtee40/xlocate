@@ -1,0 +1,12 @@
+/usr/include/yambar/bar/bar.h
+/usr/include/yambar/color.h
+/usr/include/yambar/config-verify.h
+/usr/include/yambar/config.h
+/usr/include/yambar/decoration.h
+/usr/include/yambar/log.h
+/usr/include/yambar/module.h
+/usr/include/yambar/particle.h
+/usr/include/yambar/stride.h
+/usr/include/yambar/tag.h
+/usr/include/yambar/xcb.h
+/usr/include/yambar/yml.h

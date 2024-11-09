@@ -1,0 +1,7 @@
+/etc/sv/discosrv/log/run
+/etc/sv/discosrv/log/supervise -> /run/runit/supervise.discosrv-log
+/etc/sv/discosrv/run
+/etc/sv/discosrv/supervise -> /run/runit/supervise.discosrv
+/usr/bin/stdiscosrv
+/usr/share/licenses/syncthing-discosrv/LICENSE
+/usr/share/man/man1/stdiscosrv.1

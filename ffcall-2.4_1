@@ -1,0 +1,12 @@
+/usr/lib/libavcall.so.1 -> /usr/lib/libavcall.so.1.1.0
+/usr/lib/libavcall.so.1.1.0
+/usr/lib/libcallback.so.1 -> /usr/lib/libcallback.so.1.0.4
+/usr/lib/libcallback.so.1.0.4
+/usr/lib/libffcall.so.0 -> /usr/lib/libffcall.so.0.1.0
+/usr/lib/libffcall.so.0.1.0
+/usr/lib/libtrampoline.so.1 -> /usr/lib/libtrampoline.so.1.0.3
+/usr/lib/libtrampoline.so.1.0.3
+/usr/share/doc/ffcall/avcall.html
+/usr/share/doc/ffcall/callback.html
+/usr/share/doc/ffcall/trampoline.html
+/usr/share/doc/ffcall/vacall.html

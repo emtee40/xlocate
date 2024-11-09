@@ -1,0 +1,13 @@
+/usr/lib/libsilc-1.1.so.4 -> /usr/lib/libsilc-1.1.so.4.0.0
+/usr/lib/libsilc-1.1.so.4.0.0
+/usr/lib/libsilcclient-1.1.so.4 -> /usr/lib/libsilcclient-1.1.so.4.0.0
+/usr/lib/libsilcclient-1.1.so.4.0.0
+/usr/lib/silc/modules/aes.sim.so
+/usr/lib/silc/modules/blowfish.sim.so
+/usr/lib/silc/modules/md5.sim.so
+/usr/lib/silc/modules/none.sim.so
+/usr/lib/silc/modules/rsa.sim.so
+/usr/lib/silc/modules/sha1.sim.so
+/usr/lib/silc/modules/sha256.sim.so
+/usr/lib/silc/modules/twofish.sim.so
+/usr/share/licenses/silc-toolkit/BSD

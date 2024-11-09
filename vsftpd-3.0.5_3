@@ -1,0 +1,26 @@
+/etc/logrotate.d/vsftpd/vsftpd.log
+/etc/sv/vsftpd-ipv6/log/run
+/etc/sv/vsftpd-ipv6/log/supervise -> /run/runit/supervise.vsftpd-ipv6-log
+/etc/sv/vsftpd-ipv6/run
+/etc/sv/vsftpd-ipv6/supervise -> /run/runit/supervise.vsftpd-ipv6
+/etc/sv/vsftpd/log/run
+/etc/sv/vsftpd/log/supervise -> /run/runit/supervise.vsftpd-log
+/etc/sv/vsftpd/run
+/etc/sv/vsftpd/supervise -> /run/runit/supervise.vsftpd
+/etc/vsftpd.conf
+/etc/xinetd.d/vsftpd/vsftpd.xinetd
+/usr/bin/vsftpd
+/usr/share/doc/vsftpd/BENCHMARKS/BENCHMARKS
+/usr/share/doc/vsftpd/BUGS/BUGS
+/usr/share/doc/vsftpd/Changelog/Changelog
+/usr/share/doc/vsftpd/FAQ/FAQ
+/usr/share/doc/vsftpd/INSTALL/INSTALL
+/usr/share/doc/vsftpd/README.ssl/README.ssl
+/usr/share/doc/vsftpd/README/README
+/usr/share/doc/vsftpd/REFS/REFS
+/usr/share/doc/vsftpd/REWARD/REWARD
+/usr/share/doc/vsftpd/SPEED/SPEED
+/usr/share/doc/vsftpd/TODO/TODO
+/usr/share/doc/vsftpd/TUNING/TUNING
+/usr/share/man/man5/vsftpd.conf.5
+/usr/share/man/man8/vsftpd.8

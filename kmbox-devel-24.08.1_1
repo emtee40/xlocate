@@ -1,0 +1,11 @@
+/usr/include/KPim6/KMbox/KMbox/MBox
+/usr/include/KPim6/KMbox/KMbox/MBoxEntry
+/usr/include/KPim6/KMbox/kmbox/kmbox_export.h
+/usr/include/KPim6/KMbox/kmbox/mbox.h
+/usr/include/KPim6/KMbox/kmbox/mboxentry.h
+/usr/include/KPim6/KMbox/kmbox_version.h
+/usr/lib/cmake/KPim6Mbox/KPim6MboxConfig.cmake
+/usr/lib/cmake/KPim6Mbox/KPim6MboxConfigVersion.cmake
+/usr/lib/cmake/KPim6Mbox/KPim6MboxTargets-none.cmake
+/usr/lib/cmake/KPim6Mbox/KPim6MboxTargets.cmake
+/usr/lib/libKPim6Mbox.so -> /usr/lib/libKPim6Mbox.so.6

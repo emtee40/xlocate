@@ -1,0 +1,3 @@
+/usr/lib32/libec.a
+/usr/lib32/libec.so -> /usr/lib32/libec.so.10.3.0
+/usr/lib32/pkgconfig/eclib.pc

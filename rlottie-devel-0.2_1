@@ -1,0 +1,9 @@
+/usr/include/rlottie.h
+/usr/include/rlottie_capi.h
+/usr/include/rlottiecommon.h
+/usr/lib/cmake/rlottie/rlottieConfig.cmake
+/usr/lib/cmake/rlottie/rlottieConfigVersion.cmake
+/usr/lib/cmake/rlottie/rlottieTargets-release.cmake
+/usr/lib/cmake/rlottie/rlottieTargets.cmake
+/usr/lib/librlottie.so -> /usr/lib/librlottie.so.0
+/usr/lib/pkgconfig/rlottie.pc

@@ -1,0 +1,10 @@
+/etc/arp-scan/mac-vendor.txt
+/usr/bin/arp-fingerprint
+/usr/bin/arp-scan
+/usr/bin/get-iab
+/usr/bin/get-oui
+/usr/share/arp-scan/ieee-oui.txt
+/usr/share/man/man1/arp-fingerprint.1
+/usr/share/man/man1/arp-scan.1
+/usr/share/man/man1/get-oui.1
+/usr/share/man/man5/mac-vendor.5

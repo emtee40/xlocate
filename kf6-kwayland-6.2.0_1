@@ -1,0 +1,5 @@
+/usr/lib/libKWaylandClient.so.6 -> /usr/lib/libKWaylandClient.so.6.2.0
+/usr/lib/libKWaylandClient.so.6.2.0
+/usr/lib/pkgconfig/KWaylandClient.pc
+/usr/share/qlogging-categories6/kwayland.categories
+/usr/share/qlogging-categories6/kwayland.renamecategories

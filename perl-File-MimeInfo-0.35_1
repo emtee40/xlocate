@@ -1,0 +1,14 @@
+/usr/bin/mimeopen
+/usr/bin/mimetype
+/usr/share/man/man1/mimeopen.1p
+/usr/share/man/man1/mimetype.1p
+/usr/share/man/man3/File::MimeInfo.3p
+/usr/share/man/man3/File::MimeInfo::Applications.3p
+/usr/share/man/man3/File::MimeInfo::Cookbook.3p
+/usr/share/man/man3/File::MimeInfo::Magic.3p
+/usr/share/man/man3/File::MimeInfo::Rox.3p
+/usr/share/perl5/vendor_perl/File/MimeInfo.pm
+/usr/share/perl5/vendor_perl/File/MimeInfo/Applications.pm
+/usr/share/perl5/vendor_perl/File/MimeInfo/Cookbook.pod
+/usr/share/perl5/vendor_perl/File/MimeInfo/Magic.pm
+/usr/share/perl5/vendor_perl/File/MimeInfo/Rox.pm

@@ -1,0 +1,6 @@
+/usr/lib32/glade/modules/libgladegjs.so
+/usr/lib32/glade/modules/libgladegtk.so
+/usr/lib32/glade/modules/libgladepython.so
+/usr/lib32/glade/modules/libgladewebkit2gtk.so
+/usr/lib32/libgladeui-2.so.13 -> /usr/lib32/libgladeui-2.so.13.1.0
+/usr/lib32/libgladeui-2.so.13.1.0

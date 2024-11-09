@@ -1,0 +1,8 @@
+/usr/include/cliquer/cliquer.h
+/usr/include/cliquer/cliquerconf.h
+/usr/include/cliquer/graph.h
+/usr/include/cliquer/misc.h
+/usr/include/cliquer/reorder.h
+/usr/include/cliquer/set.h
+/usr/lib/libcliquer.a
+/usr/lib/libcliquer.so -> /usr/lib/libcliquer.so.1.0.21

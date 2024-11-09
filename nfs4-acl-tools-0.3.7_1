@@ -1,0 +1,8 @@
+/usr/bin/nfs4_editfacl -> /usr/bin/nfs4_setfacl
+/usr/bin/nfs4_getfacl
+/usr/bin/nfs4_setfacl
+/usr/share/licenses/nfs4-acl-tools/COPYING
+/usr/share/man/man1/nfs4_editfacl.1 -> /usr/share/man/man1/nfs4_setfacl.1
+/usr/share/man/man1/nfs4_getfacl.1
+/usr/share/man/man1/nfs4_setfacl.1
+/usr/share/man/man5/nfs4_acl.5

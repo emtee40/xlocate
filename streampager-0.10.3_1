@@ -1,0 +1,7 @@
+/usr/bin/sp
+/usr/bin/spp
+/usr/share/bash-completion/completions/sp
+/usr/share/fish/vendor_completions.d/sp.fish
+/usr/share/licenses/streampager/LICENSE.md
+/usr/share/man/man1/sp.1
+/usr/share/zsh/site-functions/_sp

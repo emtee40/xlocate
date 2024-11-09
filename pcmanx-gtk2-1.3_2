@@ -1,0 +1,16 @@
+/usr/bin/pcmanx
+/usr/share/applications/pcmanx.desktop
+/usr/share/doc/pcmanx-gtk2/README
+/usr/share/doc/pcmanx-gtk2/TODO
+/usr/share/locale/zh_CN/LC_MESSAGES/pcmanx.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/pcmanx.mo
+/usr/share/man/man1/pcmanx.1
+/usr/share/pcmanx/emoticons
+/usr/share/pcmanx/nancy_bot/default.conf
+/usr/share/pcmanx/nancy_bot/default_msg.data
+/usr/share/pcmanx/nancy_bot/default_usages.data
+/usr/share/pcmanx/nancy_bot/example.conf
+/usr/share/pcmanx/nancy_bot/example_msg.data
+/usr/share/pcmanx/nancy_bot/example_usages.data
+/usr/share/pcmanx/sitelist
+/usr/share/pixmaps/pcmanx.svg

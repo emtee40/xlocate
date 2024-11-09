@@ -1,0 +1,5 @@
+/usr/bin/netavark
+/usr/bin/netavark-dhcp-proxy-client
+/usr/libexec/podman/netavark -> /usr/bin/netavark
+/usr/libexec/podman/netavark-dhcp-proxy-client -> /usr/bin/netavark-dhcp-proxy-client
+/usr/share/man/man1/netavark.1

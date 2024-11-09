@@ -1,0 +1,15 @@
+/etc/bumblebee/bumblebee.conf
+/etc/bumblebee/xorg.conf.d/10-dummy.conf
+/etc/bumblebee/xorg.conf.nouveau
+/etc/bumblebee/xorg.conf.nvidia
+/etc/sv/bumblebeed/run
+/etc/sv/bumblebeed/supervise -> /run/runit/supervise.bumblebeed
+/usr/bin/bumblebee-bugreport
+/usr/bin/bumblebeed
+/usr/bin/optirun
+/usr/lib/udev/rules.d/99-bumblebee-nvidia-dev.rules
+/usr/share/bash-completion/completions/optirun
+/usr/share/doc/bumblebee/README.markdown
+/usr/share/doc/bumblebee/RELEASE_NOTES_3_2_1
+/usr/share/man/man1/bumblebeed.1
+/usr/share/man/man1/optirun.1

@@ -1,0 +1,5 @@
+/usr/lib32/libKPim6LdapCore.so.6 -> /usr/lib32/libKPim6LdapCore.so.6.2.1
+/usr/lib32/libKPim6LdapCore.so.6.2.1
+/usr/lib32/libKPim6LdapWidgets.so.6 -> /usr/lib32/libKPim6LdapWidgets.so.6.2.1
+/usr/lib32/libKPim6LdapWidgets.so.6.2.1
+/usr/lib32/qt6/plugins/kf6/kio/ldap.so

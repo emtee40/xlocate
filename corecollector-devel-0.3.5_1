@@ -1,0 +1,5 @@
+/usr/include/d/corecollector/corecollector/configuration.d
+/usr/include/d/corecollector/corecollector/coredump.d
+/usr/include/d/corecollector/corecollector/logging.d
+/usr/lib/libcorecollector.so -> /usr/lib/libcorecollector.so.0
+/usr/lib/pkgconfig/corecollector-0.pc

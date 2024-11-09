@@ -1,0 +1,15 @@
+/usr/bin/ipod-read-sysinfo-extended
+/usr/lib/libgpod.so.4 -> /usr/lib/libgpod.so.4.3.2
+/usr/lib/libgpod.so.4.3.2
+/usr/lib/udev/iphone-set-info
+/usr/lib/udev/ipod-set-info
+/usr/lib/udev/rules.d/90-libgpod.rules
+/usr/share/locale/de/LC_MESSAGES/libgpod.mo
+/usr/share/locale/es/LC_MESSAGES/libgpod.mo
+/usr/share/locale/fr/LC_MESSAGES/libgpod.mo
+/usr/share/locale/he/LC_MESSAGES/libgpod.mo
+/usr/share/locale/it/LC_MESSAGES/libgpod.mo
+/usr/share/locale/ja/LC_MESSAGES/libgpod.mo
+/usr/share/locale/ro/LC_MESSAGES/libgpod.mo
+/usr/share/locale/sv/LC_MESSAGES/libgpod.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/libgpod.mo

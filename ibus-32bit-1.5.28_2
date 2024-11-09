@@ -1,0 +1,5 @@
+/usr/lib32/gtk-2.0/2.10.0/immodules/im-ibus.so
+/usr/lib32/gtk-3.0/3.0.0/immodules/im-ibus.so
+/usr/lib32/gtk-4.0/4.0.0/immodules/libim-ibus.so
+/usr/lib32/libibus-1.0.so.5 -> /usr/lib32/libibus-1.0.so.5.0.528
+/usr/lib32/libibus-1.0.so.5.0.528

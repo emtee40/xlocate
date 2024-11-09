@@ -1,0 +1,34 @@
+/usr/include/calc/alloc.h
+/usr/include/calc/attribute.h
+/usr/include/calc/banned.h
+/usr/include/calc/blkcpy.h
+/usr/include/calc/block.h
+/usr/include/calc/byteswap.h
+/usr/include/calc/calc.h
+/usr/include/calc/cmath.h
+/usr/include/calc/config.h
+/usr/include/calc/custom.h
+/usr/include/calc/decl.h
+/usr/include/calc/file.h
+/usr/include/calc/func.h
+/usr/include/calc/hash.h
+/usr/include/calc/hist.h
+/usr/include/calc/jump.h
+/usr/include/calc/label.h
+/usr/include/calc/lib_calc.h
+/usr/include/calc/lib_util.h
+/usr/include/calc/nametype.h
+/usr/include/calc/opcodes.h
+/usr/include/calc/prime.h
+/usr/include/calc/qmath.h
+/usr/include/calc/sha1.h
+/usr/include/calc/str.h
+/usr/include/calc/strl.h
+/usr/include/calc/symbol.h
+/usr/include/calc/token.h
+/usr/include/calc/value.h
+/usr/include/calc/zmath.h
+/usr/include/calc/zrand.h
+/usr/include/calc/zrandom.h
+/usr/lib/libcalc.so -> /usr/lib/libcalc.so.2.14.3.5
+/usr/lib/libcustcalc.so -> /usr/lib/libcustcalc.so.2.14.3.5

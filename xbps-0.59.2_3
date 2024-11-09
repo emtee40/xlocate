@@ -1,0 +1,52 @@
+/usr/bin/xbps-alternatives
+/usr/bin/xbps-checkvers
+/usr/bin/xbps-create
+/usr/bin/xbps-dgraph
+/usr/bin/xbps-digest
+/usr/bin/xbps-fbulk
+/usr/bin/xbps-fetch
+/usr/bin/xbps-install
+/usr/bin/xbps-pkgdb
+/usr/bin/xbps-query
+/usr/bin/xbps-reconfigure
+/usr/bin/xbps-remove
+/usr/bin/xbps-rindex
+/usr/bin/xbps-uchroot
+/usr/bin/xbps-uhelper
+/usr/bin/xbps-uunshare
+/usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-checkvers -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-create -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-dgraph -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-install -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-pkgdb -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-query -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-reconfigure -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-remove -> /usr/share/bash-completion/completions/xbps
+/usr/share/bash-completion/completions/xbps-rindex -> /usr/share/bash-completion/completions/xbps
+/usr/share/licenses/xbps/LICENSE
+/usr/share/licenses/xbps/LICENSE.3RDPARTY
+/usr/share/man/man1/xbps-alternatives.1
+/usr/share/man/man1/xbps-checkvers.1
+/usr/share/man/man1/xbps-create.1
+/usr/share/man/man1/xbps-dgraph.1
+/usr/share/man/man1/xbps-digest.1
+/usr/share/man/man1/xbps-fbulk.1
+/usr/share/man/man1/xbps-fetch.1
+/usr/share/man/man1/xbps-install.1
+/usr/share/man/man1/xbps-pkgdb.1
+/usr/share/man/man1/xbps-query.1
+/usr/share/man/man1/xbps-reconfigure.1
+/usr/share/man/man1/xbps-remove.1
+/usr/share/man/man1/xbps-rindex.1
+/usr/share/man/man1/xbps-uchroot.1
+/usr/share/man/man1/xbps-uunshare.1
+/usr/share/man/man5/xbps.d.5
+/usr/share/xbps.d/00-repository-main.conf
+/usr/share/xbps.d/void-virtualpkgs.conf
+/usr/share/xbps.d/xbps-arch.conf
+/usr/share/xbps.d/xbps.conf
+/usr/share/zsh/site-functions/_xbps
+/usr/share/zsh/site-functions/_xbps_src
+/usr/share/zsh/site-functions/_xbps_src.orig
+/var/db/xbps/keys/60:ae:0c:d6:f0:95:17:80:bc:93:46:7a:89:af:a3:2d.plist

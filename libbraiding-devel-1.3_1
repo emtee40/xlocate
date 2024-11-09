@@ -1,0 +1,6 @@
+/usr/include/braiding.h
+/usr/include/cbraid.h
+/usr/include/cbraid_implementation.h
+/usr/include/cbraid_interface.h
+/usr/lib/libbraiding.a
+/usr/lib/libbraiding.so -> /usr/lib/libbraiding.so.0.0.0

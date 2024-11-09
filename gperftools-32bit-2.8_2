@@ -1,0 +1,12 @@
+/usr/lib32/libprofiler.so.0 -> /usr/lib32/libprofiler.so.0.5.0
+/usr/lib32/libprofiler.so.0.5.0
+/usr/lib32/libtcmalloc.so.4 -> /usr/lib32/libtcmalloc.so.4.5.5
+/usr/lib32/libtcmalloc.so.4.5.5
+/usr/lib32/libtcmalloc_and_profiler.so.4 -> /usr/lib32/libtcmalloc_and_profiler.so.4.6.0
+/usr/lib32/libtcmalloc_and_profiler.so.4.6.0
+/usr/lib32/libtcmalloc_debug.so.4 -> /usr/lib32/libtcmalloc_debug.so.4.5.5
+/usr/lib32/libtcmalloc_debug.so.4.5.5
+/usr/lib32/libtcmalloc_minimal.so.4 -> /usr/lib32/libtcmalloc_minimal.so.4.5.5
+/usr/lib32/libtcmalloc_minimal.so.4.5.5
+/usr/lib32/libtcmalloc_minimal_debug.so.4 -> /usr/lib32/libtcmalloc_minimal_debug.so.4.5.5
+/usr/lib32/libtcmalloc_minimal_debug.so.4.5.5

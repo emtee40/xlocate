@@ -1,0 +1,6 @@
+/usr/lib32/libefiboot.so -> /usr/lib32/libefiboot.so.1.39
+/usr/lib32/libefisec.so -> /usr/lib32/libefisec.so.1.39
+/usr/lib32/libefivar.so -> /usr/lib32/libefivar.so.1.39
+/usr/lib32/pkgconfig/efiboot.pc
+/usr/lib32/pkgconfig/efisec.pc
+/usr/lib32/pkgconfig/efivar.pc

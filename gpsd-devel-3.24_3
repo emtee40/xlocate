@@ -1,0 +1,7 @@
+/usr/include/gps.h
+/usr/include/libgpsmm.h
+/usr/lib/libgps.so -> /usr/lib/libgps.so.29.0.1
+/usr/lib/libgpsdpacket.so -> /usr/lib/libgpsdpacket.so.29.0.1
+/usr/lib/pkgconfig/libgps.pc
+/usr/share/man/man3/libgps.3
+/usr/share/man/man3/libgpsmm.3

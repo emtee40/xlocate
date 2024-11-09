@@ -1,0 +1,642 @@
+/usr/bin/a2ping -> /usr/share/texmf-dist/scripts/a2ping/a2ping.pl
+/usr/bin/a5toa4 -> /usr/share/texmf-dist/scripts/pfarrei/a5toa4.tlu
+/usr/bin/adhocfilelist -> /usr/share/texmf-dist/scripts/adhocfilelist/adhocfilelist.sh
+/usr/bin/afm2afm -> /usr/share/texmf-dist/scripts/fontools/afm2afm
+/usr/bin/afm2pl
+/usr/bin/albatross -> /usr/share/texmf-dist/scripts/albatross/albatross.sh
+/usr/bin/aleph
+/usr/bin/allcm -> /usr/share/texmf-dist/scripts/texlive-extra/allcm.sh
+/usr/bin/allec -> /usr/bin/allcm
+/usr/bin/allneeded -> /usr/share/texmf-dist/scripts/texlive-extra/allneeded.sh
+/usr/bin/amstex -> /usr/bin/pdftex
+/usr/bin/arara -> /usr/share/texmf-dist/scripts/arara/arara.sh
+/usr/bin/arlatex -> /usr/share/texmf-dist/scripts/bundledoc/arlatex
+/usr/bin/authorindex -> /usr/share/texmf-dist/scripts/authorindex/authorindex
+/usr/bin/autoinst -> /usr/share/texmf-dist/scripts/fontools/autoinst
+/usr/bin/autosp
+/usr/bin/axohelp
+/usr/bin/bundledoc -> /usr/share/texmf-dist/scripts/bundledoc/bundledoc
+/usr/bin/cachepic -> ../share/texmf-dist/scripts/cachepic/cachepic.tlu
+/usr/bin/checklistings -> /usr/share/texmf-dist/scripts/checklistings/checklistings.sh
+/usr/bin/chkdvifont
+/usr/bin/chklref -> /usr/share/texmf-dist/scripts/chklref/chklref.pl
+/usr/bin/citeproc-lua -> /usr/share/texmf-dist/scripts/citation-style-language/citeproc-lua.lua
+/usr/bin/cjk-gs-integrate -> /usr/share/texmf-dist/scripts/cjk-gs-integrate/cjk-gs-integrate.pl
+/usr/bin/clxelatex -> /usr/bin/cluttex
+/usr/bin/convbkmk -> ../share/texmf-dist/scripts/convbkmk/convbkmk.rb
+/usr/bin/convertgls2bib -> ../share/texmf-dist/scripts/bib2gls/convertgls2bib.sh
+/usr/bin/cslatex -> /usr/bin/pdftex
+/usr/bin/csplain -> /usr/bin/pdftex
+/usr/bin/ctan-o-mat -> /usr/share/texmf-dist/scripts/ctan-o-mat/ctan-o-mat.pl
+/usr/bin/ctangle
+/usr/bin/ctanify -> /usr/share/texmf-dist/scripts/ctanify/ctanify
+/usr/bin/ctanupload -> /usr/share/texmf-dist/scripts/ctanupload/ctanupload.pl
+/usr/bin/ctie
+/usr/bin/ctwill
+/usr/bin/ctwill-refsort
+/usr/bin/ctwill-twinx
+/usr/bin/cweave
+/usr/bin/de-macro -> /usr/share/texmf-dist/scripts/de-macro/de-macro
+/usr/bin/devnag
+/usr/bin/dosepsbin -> /usr/share/texmf-dist/scripts/dosepsbin/dosepsbin.pl
+/usr/bin/dt2dv
+/usr/bin/dtxgen -> /usr/share/texmf-dist/scripts/dtxgen/dtxgen
+/usr/bin/dv2dt
+/usr/bin/e2pall -> /usr/share/texmf-dist/scripts/texlive-extra/e2pall.pl
+/usr/bin/ebb -> /usr/bin/xdvipdfmx
+/usr/bin/ebong -> /usr/share/texmf-dist/scripts/ebong/ebong.py
+/usr/bin/eplain -> /usr/bin/pdftex
+/usr/bin/epspdf -> /usr/share/texmf-dist/scripts/epspdf/epspdf.tlu
+/usr/bin/epspdftk -> /usr/share/texmf-dist/scripts/epspdf/epspdftk.tcl
+/usr/bin/epstopdf -> /usr/share/texmf-dist/scripts/epstopdf/epstopdf.pl
+/usr/bin/eptex
+/usr/bin/etex -> /usr/bin/pdftex
+/usr/bin/euptex
+/usr/bin/exceltex -> /usr/share/texmf-dist/scripts/exceltex/exceltex
+/usr/bin/extractbb -> /usr/bin/xdvipdfmx
+/usr/bin/fig4latex -> ../share/texmf-dist/scripts/fig4latex/fig4latex
+/usr/bin/findhyph -> /usr/share/texmf-dist/scripts/findhyph/findhyph
+/usr/bin/fmtutil -> /usr/share/texmf-dist/scripts/texlive/fmtutil.pl
+/usr/bin/fmtutil-sys -> /usr/share/texmf-dist/scripts/texlive/fmtutil-sys.sh
+/usr/bin/fmtutil-user -> /usr/share/texmf-dist/scripts/texlive/fmtutil-user.sh
+/usr/bin/fontinst -> /usr/share/texmf-dist/scripts/texlive-extra/fontinst.sh
+/usr/bin/fragmaster -> /usr/share/texmf-dist/scripts/fragmaster/fragmaster.pl
+/usr/bin/gftodvi
+/usr/bin/gftopk
+/usr/bin/gftype
+/usr/bin/git-latexdiff -> /usr/share/texmf-dist/scripts/git-latexdiff/git-latexdiff
+/usr/bin/gregorio
+/usr/bin/gsftopk
+/usr/bin/hishrink
+/usr/bin/histretch
+/usr/bin/hitex
+/usr/bin/hyperxmp-add-bytecount -> /usr/share/texmf-dist/scripts/hyperxmp/hyperxmp-add-bytecount.pl
+/usr/bin/inimf -> /usr/bin/mf
+/usr/bin/initex -> /usr/bin/tex
+/usr/bin/installfont-tl -> /usr/share/texmf-dist/scripts/installfont/installfont-tl
+/usr/bin/jadetex -> /usr/bin/pdftex
+/usr/bin/jamo-normalize -> ../share/texmf-dist/scripts/kotex-utils/jamo-normalize.pl
+/usr/bin/jfmutil -> /usr/share/texmf-dist/scripts/jfmutil/jfmutil.pl
+/usr/bin/kanji-config-updmap -> ../share/texmf-dist/scripts/ptex-fontmaps/kanji-config-updmap.pl
+/usr/bin/kanji-config-updmap-sys -> ../share/texmf-dist/scripts/ptex-fontmaps/kanji-config-updmap-sys.sh
+/usr/bin/kanji-config-updmap-user -> ../share/texmf-dist/scripts/ptex-fontmaps/kanji-config-updmap-user.sh
+/usr/bin/kanji-fontmap-creator -> ../share/texmf-dist/scripts/ptex-fontmaps/kanji-fontmap-creator.pl
+/usr/bin/ketcindy -> /usr/share/texmf-dist/scripts/ketcindy/ketcindy.pl
+/usr/bin/komkindex -> ../share/texmf-dist/scripts/kotex-utils/komkindex.pl
+/usr/bin/kpseaccess
+/usr/bin/kpsepath -> /usr/bin/kpsetool
+/usr/bin/kpsereadlink
+/usr/bin/kpsestat
+/usr/bin/kpsetool -> /usr/share/texmf-dist/scripts/texlive-extra/kpsetool.sh
+/usr/bin/kpsewhere -> /usr/share/texmf-dist/scripts/texlive-extra/kpsewhere.sh
+/usr/bin/kpsewhich
+/usr/bin/kpsexpand -> /usr/bin/kpsetool
+/usr/bin/lacheck
+/usr/bin/latex -> /usr/bin/pdftex
+/usr/bin/latex-git-log -> /usr/share/texmf-dist/scripts/latex-git-log/latex-git-log
+/usr/bin/latex-papersize -> /usr/share/texmf-dist/scripts/latex-papersize/latex-papersize.py
+/usr/bin/latex2man -> /usr/share/texmf-dist/scripts/latex2man/latex2man
+/usr/bin/latex2nemeth -> /usr/share/texmf-dist/scripts/latex2nemeth/latex2nemeth
+/usr/bin/latexdef -> /usr/bin/texdef
+/usr/bin/latexdiff -> /usr/share/texmf-dist/scripts/latexdiff/latexdiff.pl
+/usr/bin/latexdiff-vc -> /usr/share/texmf-dist/scripts/latexdiff/latexdiff-vc.pl
+/usr/bin/latexfileversion -> /usr/share/texmf-dist/scripts/latexfileversion/latexfileversion
+/usr/bin/latexindent -> /usr/share/texmf-dist/scripts/latexindent/latexindent.pl
+/usr/bin/latexpand -> /usr/share/texmf-dist/scripts/latexpand/latexpand
+/usr/bin/latexrevise -> /usr/share/texmf-dist/scripts/latexdiff/latexrevise.pl
+/usr/bin/lily-glyph-commands -> ../share/texmf-dist/scripts/lilyglyphs/lily-glyph-commands.py
+/usr/bin/lily-image-commands -> ../share/texmf-dist/scripts/lilyglyphs/lily-image-commands.py
+/usr/bin/lily-rebuild-pdfs -> ../share/texmf-dist/scripts/lilyglyphs/lily-rebuild-pdfs.py
+/usr/bin/listbib -> /usr/share/texmf-dist/scripts/listbib/listbib
+/usr/bin/listings-ext.sh -> /usr/share/texmf-dist/scripts/listings-ext/listings-ext.sh
+/usr/bin/llatex -> /usr/bin/pdftex
+/usr/bin/llmk -> /usr/share/texmf-dist/scripts/light-latex-make/llmk.lua
+/usr/bin/lollipop -> /usr/bin/tex
+/usr/bin/ltx2crossrefxml -> /usr/share/texmf-dist/scripts/crossrefware/ltx2crossrefxml.pl
+/usr/bin/ltxfileinfo -> /usr/share/texmf-dist/scripts/ltxfileinfo/ltxfileinfo
+/usr/bin/ltximg -> /usr/share/texmf-dist/scripts/ltximg/ltximg.pl
+/usr/bin/mag
+/usr/bin/make4ht -> /usr/share/texmf-dist/scripts/make4ht/make4ht
+/usr/bin/makedtx -> /usr/share/texmf-dist/scripts/makedtx/makedtx.pl
+/usr/bin/makeglossaries -> /usr/share/texmf-dist/scripts/glossaries/makeglossaries
+/usr/bin/makeindex
+/usr/bin/makejvf
+/usr/bin/match_parens -> /usr/share/texmf-dist/scripts/match_parens/match_parens
+/usr/bin/mathspic -> ../share/texmf-dist/scripts/mathspic/mathspic.pl
+/usr/bin/mendex
+/usr/bin/mex -> /usr/bin/pdftex
+/usr/bin/mf
+/usr/bin/mf-nowin
+/usr/bin/mf2pt1 -> /usr/share/texmf-dist/scripts/mf2pt1/mf2pt1.pl
+/usr/bin/mfplain -> /usr/bin/mpost
+/usr/bin/mft
+/usr/bin/mkgrkindex -> ../share/texmf-dist/scripts/mkgrkindex/mkgrkindex
+/usr/bin/mkindex
+/usr/bin/mkjobtexmf -> /usr/share/texmf-dist/scripts/mkjobtexmf/mkjobtexmf.pl
+/usr/bin/mkocp
+/usr/bin/mkofm
+/usr/bin/mkpic -> ../share/texmf-dist/scripts/mkpic/mkpic
+/usr/bin/mkt1font -> /usr/share/texmf-dist/scripts/accfonts/mkt1font
+/usr/bin/mktexfmt -> /usr/bin/fmtutil
+/usr/bin/mktexlsr -> /usr/share/texmf-dist/scripts/texlive/mktexlsr
+/usr/bin/mktexmf -> /usr/share/texmf-dist/scripts/texlive/mktexmf
+/usr/bin/mktexpk -> /usr/share/texmf-dist/scripts/texlive/mktexpk
+/usr/bin/mktextfm -> /usr/share/texmf-dist/scripts/texlive/mktextfm
+/usr/bin/mllatex -> /usr/bin/pdftex
+/usr/bin/mltex -> /usr/bin/pdftex
+/usr/bin/mpost
+/usr/bin/mptopdf -> /usr/share/texmf-dist/scripts/context/perl/mptopdf.pl
+/usr/bin/msxlint
+/usr/bin/multibibliography -> /usr/share/texmf-dist/scripts/multibibliography/multibibliography.pl
+/usr/bin/odvicopy
+/usr/bin/odvitype
+/usr/bin/ofm2opl -> /usr/bin/omfonts
+/usr/bin/omfonts
+/usr/bin/opl2ofm -> /usr/bin/omfonts
+/usr/bin/optexcount -> /usr/share/texmf-dist/scripts/optexcount/optexcount
+/usr/bin/ot2kpx -> /usr/share/texmf-dist/scripts/fontools/ot2kpx
+/usr/bin/otangle
+/usr/bin/otp2ocp
+/usr/bin/outocp
+/usr/bin/ovf2ovp -> /usr/bin/omfonts
+/usr/bin/ovp2ovf -> /usr/bin/omfonts
+/usr/bin/pagelayoutapi -> /usr/share/texmf-dist/scripts/pagelayout/pagelayoutapi
+/usr/bin/pamphletangler -> /usr/share/texmf-dist/scripts/clojure-pamphlet/pamphletangler
+/usr/bin/patgen
+/usr/bin/pbibtex -> /usr/bin/upbibtex
+/usr/bin/pdfannotextractor -> /usr/share/texmf-dist/scripts/pax/pdfannotextractor.pl
+/usr/bin/pdfatfi -> /usr/share/texmf-dist/scripts/attachfile2/pdfatfi.pl
+/usr/bin/pdfbook2 -> /usr/share/texmf-dist/scripts/pdfbook2/pdfbook2
+/usr/bin/pdfcrop -> /usr/share/texmf-dist/scripts/pdfcrop/pdfcrop.pl
+/usr/bin/pdfcslatex -> /usr/bin/pdftex
+/usr/bin/pdfcsplain -> /usr/bin/pdftex
+/usr/bin/pdfetex -> /usr/bin/pdftex
+/usr/bin/pdfjadetex -> /usr/bin/pdftex
+/usr/bin/pdfjam -> /usr/share/texmf-dist/scripts/pdfjam/pdfjam
+/usr/bin/pdflatex -> /usr/bin/pdftex
+/usr/bin/pdflatexpicscale -> /usr/share/texmf-dist/scripts/pdflatexpicscale/pdflatexpicscale.pl
+/usr/bin/pdfmex -> /usr/bin/pdftex
+/usr/bin/pdftex
+/usr/bin/pdftex-quiet -> /usr/share/texmf-dist/scripts/pdftex-quiet/pdftex-quiet
+/usr/bin/pdftosrc
+/usr/bin/pdfxmltex -> /usr/bin/pdftex
+/usr/bin/pdfxup -> /usr/share/texmf-dist/scripts/pdfxup/pdfxup
+/usr/bin/pdvitomp -> /usr/bin/pmpost
+/usr/bin/pdvitype -> /usr/bin/updvitype
+/usr/bin/pedigree -> ../share/texmf-dist/scripts/pedigree-perl/pedigree.pl
+/usr/bin/perltex -> /usr/share/texmf-dist/scripts/perltex/perltex.pl
+/usr/bin/pfarrei -> /usr/share/texmf-dist/scripts/pfarrei/pfarrei.tlu
+/usr/bin/pfb2pfa
+/usr/bin/pk2bm
+/usr/bin/pkfix -> /usr/share/texmf-dist/scripts/pkfix/pkfix.pl
+/usr/bin/pkfix-helper -> /usr/share/texmf-dist/scripts/pkfix-helper/pkfix-helper
+/usr/bin/pktogf
+/usr/bin/pktype
+/usr/bin/platex -> /usr/bin/eptex
+/usr/bin/pltotf
+/usr/bin/pmpost
+/usr/bin/pmxab
+/usr/bin/pn2pdf -> /usr/share/texmf-dist/scripts/petri-nets/pn2pdf
+/usr/bin/pooltype
+/usr/bin/ppltotf -> /usr/bin/uppltotf
+/usr/bin/prepmx
+/usr/bin/ps2eps -> /usr/share/texmf-dist/scripts/ps2eps/ps2eps.pl
+/usr/bin/ps2frag -> /usr/share/texmf-dist/scripts/texlive-extra/ps2frag.sh
+/usr/bin/ps2pk
+/usr/bin/ps4pdf -> ../share/texmf-dist/scripts/pst-pdf/ps4pdf
+/usr/bin/pslatex -> /usr/share/texmf-dist/scripts/texlive-extra/pslatex.sh
+/usr/bin/pst2pdf -> ../share/texmf-dist/scripts/pst2pdf/pst2pdf.pl
+/usr/bin/ptex -> /usr/bin/eptex
+/usr/bin/ptftopl -> /usr/bin/uptftopl
+/usr/bin/purifyeps -> /usr/share/texmf-dist/scripts/purifyeps/purifyeps
+/usr/bin/pygmentex -> ../share/texmf-dist/scripts/pygmentex/pygmentex.py
+/usr/bin/r-mpost -> /usr/bin/mpost
+/usr/bin/r-pmpost -> /usr/bin/pmpost
+/usr/bin/r-upmpost -> /usr/bin/upmpost
+/usr/bin/repstopdf -> /usr/bin/epstopdf
+/usr/bin/rpdfcrop -> /usr/bin/pdfcrop
+/usr/bin/rubibtex -> ../share/texmf-dist/scripts/texlive-extra/rubibtex.sh
+/usr/bin/rubikrotation -> ../share/texmf-dist/scripts/rubik/rubikrotation.pl
+/usr/bin/rumakeindex -> ../share/texmf-dist/scripts/texlive-extra/rumakeindex.sh
+/usr/bin/rungs -> /usr/share/texmf-dist/scripts/texlive/rungs.lua
+/usr/bin/scor2prt
+/usr/bin/simpdftex -> /usr/share/texmf-dist/scripts/simpdftex/simpdftex
+/usr/bin/spix -> /usr/share/texmf-dist/scripts/spix/spix.py
+/usr/bin/splitindex -> /usr/share/texmf-dist/scripts/splitindex/splitindex.pl
+/usr/bin/srcredact -> /usr/share/texmf-dist/scripts/srcredact/srcredact.pl
+/usr/bin/sty2dtx -> /usr/share/texmf-dist/scripts/sty2dtx/sty2dtx.pl
+/usr/bin/svn-multi -> /usr/share/texmf-dist/scripts/svn-multi/svn-multi.pl
+/usr/bin/synctex
+/usr/bin/tangle
+/usr/bin/tex
+/usr/bin/tex2aspc
+/usr/bin/tex4ebook -> /usr/share/texmf-dist/scripts/tex4ebook/tex4ebook
+/usr/bin/texaccents -> /usr/share/texmf-dist/scripts/texaccents/texaccents.sno
+/usr/bin/texconfig -> /usr/share/texmf-dist/scripts/texlive-extra/texconfig.sh
+/usr/bin/texconfig-dialog -> /usr/share/texmf-dist/scripts/texlive-extra/texconfig-dialog.sh
+/usr/bin/texconfig-sys -> /usr/share/texmf-dist/scripts/texlive-extra/texconfig-sys.sh
+/usr/bin/texcount -> /usr/share/texmf-dist/scripts/texcount/texcount.pl
+/usr/bin/texdef -> /usr/share/texmf-dist/scripts/texdef/texdef.pl
+/usr/bin/texdiff -> /usr/share/texmf-dist/scripts/texdiff/texdiff
+/usr/bin/texdirflatten -> /usr/share/texmf-dist/scripts/texdirflatten/texdirflatten
+/usr/bin/texdoc -> /usr/share/texmf-dist/scripts/texdoc/texdoc.tlu
+/usr/bin/texdoctk -> /usr/share/texmf-dist/scripts/texdoctk/texdoctk.pl
+/usr/bin/texfot -> /usr/share/texmf-dist/scripts/texfot/texfot.pl
+/usr/bin/texhash -> /usr/bin/mktexlsr
+/usr/bin/texlinks -> /usr/share/texmf-dist/scripts/texlive-extra/texlinks.sh
+/usr/bin/texliveonfly -> /usr/share/texmf-dist/scripts/texliveonfly/texliveonfly.py
+/usr/bin/texloganalyser -> /usr/share/texmf-dist/scripts/texloganalyser/texloganalyser
+/usr/bin/texlogfilter -> /usr/share/texmf-dist/scripts/texlogfilter/texlogfilter
+/usr/bin/texlogsieve -> /usr/share/texmf-dist/scripts/texlogsieve/texlogsieve
+/usr/bin/texosquery -> /usr/share/texmf-dist/scripts/texosquery/texosquery.sh
+/usr/bin/texosquery-jre5 -> /usr/share/texmf-dist/scripts/texosquery/texosquery-jre5.sh
+/usr/bin/texosquery-jre8 -> /usr/share/texmf-dist/scripts/texosquery/texosquery-jre8.sh
+/usr/bin/texplate -> /usr/share/texmf-dist/scripts/texplate/texplate.sh
+/usr/bin/texsis -> /usr/bin/pdftex
+/usr/bin/textestvis -> /usr/share/texmf-dist/scripts/pagelayout/textestvis
+/usr/bin/tftopl
+/usr/bin/thumbpdf -> /usr/share/texmf-dist/scripts/thumbpdf/thumbpdf.pl
+/usr/bin/tie
+/usr/bin/tikztosvg -> ../share/texmf-dist/scripts/tikztosvg/tikztosvg
+/usr/bin/tl-epsffit
+/usr/bin/tlcockpit -> /usr/share/texmf-dist/scripts/tlcockpit/tlcockpit.sh
+/usr/bin/tlmgr
+/usr/bin/tlshell -> /usr/share/texmf-dist/scripts/tlshell/tlshell.tcl
+/usr/bin/tpic2pdftex
+/usr/bin/ttf2afm
+/usr/bin/ttf2kotexfont -> ../share/texmf-dist/scripts/kotex-utils/ttf2kotexfont.pl
+/usr/bin/ttfdump
+/usr/bin/twill
+/usr/bin/typeoutfileinfo -> /usr/share/texmf-dist/scripts/typeoutfileinfo/typeoutfileinfo.sh
+/usr/bin/ulqda -> ../share/texmf-dist/scripts/ulqda/ulqda.pl
+/usr/bin/upbibtex
+/usr/bin/updmap -> /usr/share/texmf-dist/scripts/texlive/updmap.pl
+/usr/bin/updmap-sys -> /usr/share/texmf-dist/scripts/texlive/updmap-sys.sh
+/usr/bin/updmap-user -> /usr/share/texmf-dist/scripts/texlive/updmap-user.sh
+/usr/bin/updvitomp -> /usr/bin/upmpost
+/usr/bin/updvitype
+/usr/bin/uplatex -> /usr/bin/euptex
+/usr/bin/upmendex
+/usr/bin/upmpost
+/usr/bin/uppltotf
+/usr/bin/uptex -> /usr/bin/euptex
+/usr/bin/uptftopl
+/usr/bin/urlbst -> /usr/share/texmf-dist/scripts/urlbst/urlbst
+/usr/bin/utf8mex -> /usr/bin/pdftex
+/usr/bin/vftovp
+/usr/bin/vpe -> /usr/share/texmf-dist/scripts/vpe/vpe.pl
+/usr/bin/vpl2ovp -> /usr/share/texmf-dist/scripts/accfonts/vpl2ovp
+/usr/bin/vpl2vpl -> /usr/share/texmf-dist/scripts/accfonts/vpl2vpl
+/usr/bin/vptovf
+/usr/bin/weave
+/usr/bin/webquiz -> /usr/share/texmf-dist/scripts/webquiz/webquiz.py
+/usr/bin/wofm2opl
+/usr/bin/wopl2ofm
+/usr/bin/wordcount -> /usr/share/texmf-dist/scripts/wordcount/wordcount.sh
+/usr/bin/wovf2ovp
+/usr/bin/wovp2ovf
+/usr/bin/xelatex-unsafe -> ../share/texmf-dist/scripts/texlive-extra/xelatex-unsafe.sh
+/usr/bin/xetex-unsafe -> ../share/texmf-dist/scripts/texlive-extra/xetex-unsafe.sh
+/usr/bin/xml2pmx
+/usr/bin/xmltex -> /usr/bin/pdftex
+/usr/bin/yplan -> /usr/share/texmf-dist/scripts/yplan/yplan
+/usr/lib/libkpathsea.so.6 -> /usr/lib/libkpathsea.so.6.3.5
+/usr/lib/libkpathsea.so.6.3.5
+/usr/lib/libptexenc.so.1 -> /usr/lib/libptexenc.so.1.4.3
+/usr/lib/libptexenc.so.1.4.3
+/usr/share/info/dvipng.info.gz
+/usr/share/info/dvips.info.gz
+/usr/share/info/kpathsea.info.gz
+/usr/share/info/tlbuild.info.gz
+/usr/share/info/web2c.info.gz
+/usr/share/man/man1/afm2pl.1
+/usr/share/man/man1/aleph.1
+/usr/share/man/man1/allcm.1
+/usr/share/man/man1/allec.1
+/usr/share/man/man1/allneeded.1
+/usr/share/man/man1/amstex.1
+/usr/share/man/man1/autosp.1
+/usr/share/man/man1/axohelp.1
+/usr/share/man/man1/chkdvifont.1
+/usr/share/man/man1/ctangle.1
+/usr/share/man/man1/ctie.1
+/usr/share/man/man1/ctwill-refsort.1
+/usr/share/man/man1/ctwill-twinx.1
+/usr/share/man/man1/ctwill.1
+/usr/share/man/man1/cweave.1
+/usr/share/man/man1/cweb.1
+/usr/share/man/man1/devnag.1
+/usr/share/man/man1/dt2dv.1
+/usr/share/man/man1/dv2dt.1
+/usr/share/man/man1/dvi2fax.1
+/usr/share/man/man1/dvibook.1
+/usr/share/man/man1/dviconcat.1
+/usr/share/man/man1/dvicopy.1
+/usr/share/man/man1/dvidvi.1
+/usr/share/man/man1/dvigif.1
+/usr/share/man/man1/dvihp.1
+/usr/share/man/man1/dvilj.1
+/usr/share/man/man1/dvilj2p.1
+/usr/share/man/man1/dvilj4.1
+/usr/share/man/man1/dvilj4l.1
+/usr/share/man/man1/dvilj6.1
+/usr/share/man/man1/dvilualatex-dev.1
+/usr/share/man/man1/dviluatex.1
+/usr/share/man/man1/dvipdfm.1
+/usr/share/man/man1/dvipdfmx.1
+/usr/share/man/man1/dvipdft.1
+/usr/share/man/man1/dvipng.1
+/usr/share/man/man1/dvipos.1
+/usr/share/man/man1/dvips.1
+/usr/share/man/man1/dvired.1
+/usr/share/man/man1/dviselect.1
+/usr/share/man/man1/dvispc.1
+/usr/share/man/man1/dvitodvi.1
+/usr/share/man/man1/dvitomp.1
+/usr/share/man/man1/dvitype.1
+/usr/share/man/man1/e2pall.1
+/usr/share/man/man1/ebb.1
+/usr/share/man/man1/eptex.1
+/usr/share/man/man1/euptex.1
+/usr/share/man/man1/extractbb.1
+/usr/share/man/man1/fmtutil-sys.1
+/usr/share/man/man1/fmtutil.1
+/usr/share/man/man1/fontinst.1
+/usr/share/man/man1/gftodvi.1
+/usr/share/man/man1/gftopk.1
+/usr/share/man/man1/gftype.1
+/usr/share/man/man1/gsftopk.1
+/usr/share/man/man1/hishrink.1
+/usr/share/man/man1/histretch.1
+/usr/share/man/man1/hitex.1
+/usr/share/man/man1/inimf.1
+/usr/share/man/man1/initex.1
+/usr/share/man/man1/kpseaccess.1
+/usr/share/man/man1/kpsepath.1
+/usr/share/man/man1/kpsereadlink.1
+/usr/share/man/man1/kpsestat.1
+/usr/share/man/man1/kpsetool.1
+/usr/share/man/man1/kpsewhere.1
+/usr/share/man/man1/kpsewhich.1
+/usr/share/man/man1/kpsexpand.1
+/usr/share/man/man1/lacheck.1
+/usr/share/man/man1/latex-dev.1
+/usr/share/man/man1/latex.1
+/usr/share/man/man1/luahbtex.1
+/usr/share/man/man1/luajittex.1
+/usr/share/man/man1/lualatex-dev.1
+/usr/share/man/man1/mag.1
+/usr/share/man/man1/makeindex.1
+/usr/share/man/man1/makejvf.1
+/usr/share/man/man1/mendex.1
+/usr/share/man/man1/mf-nowin.1
+/usr/share/man/man1/mf.1
+/usr/share/man/man1/mft.1
+/usr/share/man/man1/mkindex.1
+/usr/share/man/man1/mkocp.1
+/usr/share/man/man1/mkofm.1
+/usr/share/man/man1/mktexfmt.1
+/usr/share/man/man1/mktexlsr.1
+/usr/share/man/man1/mktexmf.1
+/usr/share/man/man1/mktexpk.1
+/usr/share/man/man1/mktextfm.1
+/usr/share/man/man1/mpost.1
+/usr/share/man/man1/msxlint.1
+/usr/share/man/man1/odvicopy.1
+/usr/share/man/man1/odvitype.1
+/usr/share/man/man1/ofm2opl.1
+/usr/share/man/man1/opl2ofm.1
+/usr/share/man/man1/otangle.1
+/usr/share/man/man1/otp2ocp.1
+/usr/share/man/man1/outocp.1
+/usr/share/man/man1/ovf2ovp.1
+/usr/share/man/man1/ovp2ovf.1
+/usr/share/man/man1/patgen.1
+/usr/share/man/man1/pbibtex.1
+/usr/share/man/man1/pdfetex.1
+/usr/share/man/man1/pdflatex-dev.1
+/usr/share/man/man1/pdflatex.1
+/usr/share/man/man1/pdftex.1
+/usr/share/man/man1/pdftosrc.1
+/usr/share/man/man1/pfb2pfa.1
+/usr/share/man/man1/pk2bm.1
+/usr/share/man/man1/pktogf.1
+/usr/share/man/man1/pktype.1
+/usr/share/man/man1/platex-dev.1
+/usr/share/man/man1/pltotf.1
+/usr/share/man/man1/pmxab.1
+/usr/share/man/man1/pooltype.1
+/usr/share/man/man1/ppltotf.1
+/usr/share/man/man1/prepmx.1
+/usr/share/man/man1/ps2eps.1
+/usr/share/man/man1/ps2frag.1
+/usr/share/man/man1/ps2pk.1
+/usr/share/man/man1/pslatex.1
+/usr/share/man/man1/psutils.1
+/usr/share/man/man1/ptex.1
+/usr/share/man/man1/ptftopl.1
+/usr/share/man/man1/rubibtex.1
+/usr/share/man/man1/rumakeindex.1
+/usr/share/man/man1/scor2prt.1
+/usr/share/man/man1/synctex.1
+/usr/share/man/man1/tangle.1
+/usr/share/man/man1/tex.1
+/usr/share/man/man1/tex2aspc.1
+/usr/share/man/man1/texconfig-sys.1
+/usr/share/man/man1/texconfig.1
+/usr/share/man/man1/texdoctk.1
+/usr/share/man/man1/texhash.1
+/usr/share/man/man1/texlinks.1
+/usr/share/man/man1/tftopl.1
+/usr/share/man/man1/tie.1
+/usr/share/man/man1/tl-epsffit.1
+/usr/share/man/man1/tpic2pdftex.1
+/usr/share/man/man1/ttf2afm.1
+/usr/share/man/man1/ttfdump.1
+/usr/share/man/man1/twill.1
+/usr/share/man/man1/upbibtex.1
+/usr/share/man/man1/updmap-sys.1
+/usr/share/man/man1/updmap.1
+/usr/share/man/man1/uplatex-dev.1
+/usr/share/man/man1/uppltotf.1
+/usr/share/man/man1/uptex.1
+/usr/share/man/man1/uptftopl.1
+/usr/share/man/man1/vftovp.1
+/usr/share/man/man1/vptovf.1
+/usr/share/man/man1/weave.1
+/usr/share/man/man1/xml2pmx.1
+/usr/share/man/man5/fmtutil.cnf.5
+/usr/share/man/man5/synctex.5
+/usr/share/man/man5/updmap.cfg.5
+/usr/share/texlive/removed/texlive.txt
+/usr/share/texmf-dist/dvipdfmx/dvipdfmx.cfg
+/usr/share/texmf-dist/dvips/base/color.pro
+/usr/share/texmf-dist/dvips/base/crop.pro
+/usr/share/texmf-dist/dvips/base/finclude.pro
+/usr/share/texmf-dist/dvips/base/hps.pro
+/usr/share/texmf-dist/dvips/base/special.pro
+/usr/share/texmf-dist/dvips/base/tex.pro
+/usr/share/texmf-dist/dvips/base/texc.pro
+/usr/share/texmf-dist/dvips/base/texps.pro
+/usr/share/texmf-dist/dvips/gsftopk/render.ps
+/usr/share/texmf-dist/dvips/xdvi/config.xdvi
+/usr/share/texmf-dist/fonts/cmap/dvipdfmx/EUC-UCS2
+/usr/share/texmf-dist/fonts/enc/dvips/base/dvips-all.enc
+/usr/share/texmf-dist/fonts/map/dvipdfmx/cid-x.map
+/usr/share/texmf-dist/fonts/map/glyphlist/glyphlist.txt
+/usr/share/texmf-dist/fonts/map/glyphlist/pdfglyphlist.txt
+/usr/share/texmf-dist/psutils/paper.cfg
+/usr/share/texmf-dist/scripts/a2ping/a2ping.pl
+/usr/share/texmf-dist/scripts/accfonts/mkt1font
+/usr/share/texmf-dist/scripts/accfonts/vpl2ovp
+/usr/share/texmf-dist/scripts/accfonts/vpl2vpl
+/usr/share/texmf-dist/scripts/adhocfilelist/adhocfilelist.sh
+/usr/share/texmf-dist/scripts/albatross/albatross.sh
+/usr/share/texmf-dist/scripts/arara/arara.sh
+/usr/share/texmf-dist/scripts/attachfile2/pdfatfi.pl
+/usr/share/texmf-dist/scripts/authorindex/authorindex
+/usr/share/texmf-dist/scripts/bundledoc/arlatex
+/usr/share/texmf-dist/scripts/bundledoc/bundledoc
+/usr/share/texmf-dist/scripts/checklistings/checklistings.sh
+/usr/share/texmf-dist/scripts/chklref/chklref.pl
+/usr/share/texmf-dist/scripts/citation-style-language/citeproc-lua.lua
+/usr/share/texmf-dist/scripts/cjk-gs-integrate/cjk-gs-integrate.pl
+/usr/share/texmf-dist/scripts/clojure-pamphlet/pamphletangler
+/usr/share/texmf-dist/scripts/context/perl/mptopdf.pl
+/usr/share/texmf-dist/scripts/crossrefware/bbl2bib.pl
+/usr/share/texmf-dist/scripts/crossrefware/bibdoiadd.pl
+/usr/share/texmf-dist/scripts/crossrefware/bibmradd.pl
+/usr/share/texmf-dist/scripts/crossrefware/biburl2doi.pl
+/usr/share/texmf-dist/scripts/crossrefware/bibzbladd.pl
+/usr/share/texmf-dist/scripts/crossrefware/ltx2crossrefxml.pl
+/usr/share/texmf-dist/scripts/ctan-o-mat/ctan-o-mat.pl
+/usr/share/texmf-dist/scripts/ctanbib/ctanbib
+/usr/share/texmf-dist/scripts/ctanify/ctanify
+/usr/share/texmf-dist/scripts/ctanupload/ctanupload.pl
+/usr/share/texmf-dist/scripts/de-macro/de-macro
+/usr/share/texmf-dist/scripts/dosepsbin/dosepsbin.pl
+/usr/share/texmf-dist/scripts/dtxgen/dtxgen
+/usr/share/texmf-dist/scripts/dviasm/dviasm.py
+/usr/share/texmf-dist/scripts/dviinfox/dviinfox.pl
+/usr/share/texmf-dist/scripts/ebong/ebong.py
+/usr/share/texmf-dist/scripts/epspdf/epspdf.tlu
+/usr/share/texmf-dist/scripts/epspdf/epspdftk.tcl
+/usr/share/texmf-dist/scripts/epstopdf/epstopdf.pl
+/usr/share/texmf-dist/scripts/exceltex/exceltex
+/usr/share/texmf-dist/scripts/findhyph/findhyph
+/usr/share/texmf-dist/scripts/fontools/afm2afm
+/usr/share/texmf-dist/scripts/fontools/autoinst
+/usr/share/texmf-dist/scripts/fontools/ot2kpx
+/usr/share/texmf-dist/scripts/fragmaster/fragmaster.pl
+/usr/share/texmf-dist/scripts/git-latexdiff/git-latexdiff
+/usr/share/texmf-dist/scripts/glossaries/makeglossaries
+/usr/share/texmf-dist/scripts/hyperxmp/hyperxmp-add-bytecount.pl
+/usr/share/texmf-dist/scripts/installfont/installfont-tl
+/usr/share/texmf-dist/scripts/jfmutil/jfmutil.pl
+/usr/share/texmf-dist/scripts/ketcindy/ketcindy.pl
+/usr/share/texmf-dist/scripts/latex-git-log/latex-git-log
+/usr/share/texmf-dist/scripts/latex-papersize/latex-papersize.py
+/usr/share/texmf-dist/scripts/latex2man/latex2man
+/usr/share/texmf-dist/scripts/latex2nemeth/latex2nemeth
+/usr/share/texmf-dist/scripts/latexdiff/latexdiff-vc.pl
+/usr/share/texmf-dist/scripts/latexdiff/latexdiff.pl
+/usr/share/texmf-dist/scripts/latexdiff/latexrevise.pl
+/usr/share/texmf-dist/scripts/latexfileversion/latexfileversion
+/usr/share/texmf-dist/scripts/latexindent/latexindent.pl
+/usr/share/texmf-dist/scripts/latexpand/latexpand
+/usr/share/texmf-dist/scripts/light-latex-make/llmk.lua
+/usr/share/texmf-dist/scripts/listbib/listbib
+/usr/share/texmf-dist/scripts/listings-ext/listings-ext.sh
+/usr/share/texmf-dist/scripts/ltxfileinfo/ltxfileinfo
+/usr/share/texmf-dist/scripts/ltximg/ltximg.pl
+/usr/share/texmf-dist/scripts/make4ht/make4ht
+/usr/share/texmf-dist/scripts/makedtx/makedtx.pl
+/usr/share/texmf-dist/scripts/match_parens/match_parens
+/usr/share/texmf-dist/scripts/mf2pt1/mf2pt1.pl
+/usr/share/texmf-dist/scripts/mkjobtexmf/mkjobtexmf.pl
+/usr/share/texmf-dist/scripts/multibibliography/multibibliography.pl
+/usr/share/texmf-dist/scripts/optexcount/optexcount
+/usr/share/texmf-dist/scripts/pagelayout/pagelayoutapi
+/usr/share/texmf-dist/scripts/pagelayout/textestvis
+/usr/share/texmf-dist/scripts/pax/pdfannotextractor.pl
+/usr/share/texmf-dist/scripts/pdfbook2/pdfbook2
+/usr/share/texmf-dist/scripts/pdfcrop/pdfcrop.pl
+/usr/share/texmf-dist/scripts/pdfjam/pdfjam
+/usr/share/texmf-dist/scripts/pdflatexpicscale/pdflatexpicscale.pl
+/usr/share/texmf-dist/scripts/pdftex-quiet/pdftex-quiet
+/usr/share/texmf-dist/scripts/pdfxup/pdfxup
+/usr/share/texmf-dist/scripts/perltex/perltex.pl
+/usr/share/texmf-dist/scripts/petri-nets/pn2pdf
+/usr/share/texmf-dist/scripts/pfarrei/a5toa4.tlu
+/usr/share/texmf-dist/scripts/pfarrei/pfarrei.tlu
+/usr/share/texmf-dist/scripts/pkfix-helper/pkfix-helper
+/usr/share/texmf-dist/scripts/pkfix/pkfix.pl
+/usr/share/texmf-dist/scripts/ps2eps/ps2eps.pl
+/usr/share/texmf-dist/scripts/psutils/extractres.pl
+/usr/share/texmf-dist/scripts/psutils/includeres.pl
+/usr/share/texmf-dist/scripts/psutils/psjoin.pl
+/usr/share/texmf-dist/scripts/purifyeps/purifyeps
+/usr/share/texmf-dist/scripts/simpdftex/simpdftex
+/usr/share/texmf-dist/scripts/spix/spix.py
+/usr/share/texmf-dist/scripts/splitindex/splitindex.pl
+/usr/share/texmf-dist/scripts/srcredact/srcredact.pl
+/usr/share/texmf-dist/scripts/sty2dtx/sty2dtx.pl
+/usr/share/texmf-dist/scripts/svn-multi/svn-multi.pl
+/usr/share/texmf-dist/scripts/tex4ebook/tex4ebook
+/usr/share/texmf-dist/scripts/texaccents/texaccents.sno
+/usr/share/texmf-dist/scripts/texcount/texcount.pl
+/usr/share/texmf-dist/scripts/texdef/texdef.pl
+/usr/share/texmf-dist/scripts/texdiff/texdiff
+/usr/share/texmf-dist/scripts/texdirflatten/texdirflatten
+/usr/share/texmf-dist/scripts/texdoc/texdoc.tlu
+/usr/share/texmf-dist/scripts/texdoctk/texdoctk.pl
+/usr/share/texmf-dist/scripts/texfot/texfot.pl
+/usr/share/texmf-dist/scripts/texlive-extra/allcm.sh
+/usr/share/texmf-dist/scripts/texlive-extra/allneeded.sh
+/usr/share/texmf-dist/scripts/texlive-extra/dvi2fax.sh
+/usr/share/texmf-dist/scripts/texlive-extra/dvired.sh
+/usr/share/texmf-dist/scripts/texlive-extra/e2pall.pl
+/usr/share/texmf-dist/scripts/texlive-extra/fontinst.sh
+/usr/share/texmf-dist/scripts/texlive-extra/kpsetool.sh
+/usr/share/texmf-dist/scripts/texlive-extra/kpsewhere.sh
+/usr/share/texmf-dist/scripts/texlive-extra/ps2frag.sh
+/usr/share/texmf-dist/scripts/texlive-extra/pslatex.sh
+/usr/share/texmf-dist/scripts/texlive-extra/texconfig-dialog.sh
+/usr/share/texmf-dist/scripts/texlive-extra/texconfig-sys.sh
+/usr/share/texmf-dist/scripts/texlive-extra/texconfig.sh
+/usr/share/texmf-dist/scripts/texlive-extra/texlinks.sh
+/usr/share/texmf-dist/scripts/texlive/TeXLive/TLConfig.pm
+/usr/share/texmf-dist/scripts/texlive/TeXLive/TLUtils.pm
+/usr/share/texmf-dist/scripts/texlive/fmtutil-sys.sh
+/usr/share/texmf-dist/scripts/texlive/fmtutil-user.sh
+/usr/share/texmf-dist/scripts/texlive/fmtutil.pl
+/usr/share/texmf-dist/scripts/texlive/mktexlsr
+/usr/share/texmf-dist/scripts/texlive/mktexmf
+/usr/share/texmf-dist/scripts/texlive/mktexpk
+/usr/share/texmf-dist/scripts/texlive/mktextfm
+/usr/share/texmf-dist/scripts/texlive/rungs.lua
+/usr/share/texmf-dist/scripts/texlive/tlmgr.pl
+/usr/share/texmf-dist/scripts/texlive/updmap-sys.sh
+/usr/share/texmf-dist/scripts/texlive/updmap-user.sh
+/usr/share/texmf-dist/scripts/texlive/updmap.pl
+/usr/share/texmf-dist/scripts/texliveonfly/texliveonfly.py
+/usr/share/texmf-dist/scripts/texloganalyser/texloganalyser
+/usr/share/texmf-dist/scripts/texlogfilter/texlogfilter
+/usr/share/texmf-dist/scripts/texlogsieve/texlogsieve
+/usr/share/texmf-dist/scripts/texosquery/texosquery-jre5.sh
+/usr/share/texmf-dist/scripts/texosquery/texosquery-jre8.sh
+/usr/share/texmf-dist/scripts/texosquery/texosquery.sh
+/usr/share/texmf-dist/scripts/texplate/texplate.sh
+/usr/share/texmf-dist/scripts/thumbpdf/thumbpdf.pl
+/usr/share/texmf-dist/scripts/tlcockpit/tlcockpit.sh
+/usr/share/texmf-dist/scripts/tlshell/tlshell.tcl
+/usr/share/texmf-dist/scripts/typeoutfileinfo/typeoutfileinfo.sh
+/usr/share/texmf-dist/scripts/urlbst/urlbst
+/usr/share/texmf-dist/scripts/vpe/vpe.pl
+/usr/share/texmf-dist/scripts/webquiz/webquiz.py
+/usr/share/texmf-dist/scripts/wordcount/wordcount.sh
+/usr/share/texmf-dist/scripts/yplan/yplan
+/usr/share/texmf-dist/texconfig/tcfmgr
+/usr/share/texmf-dist/texconfig/tcfmgr.map
+/usr/share/texmf-dist/web2c/fmtutil.cnf
+/usr/share/texmf-dist/web2c/texmf.cnf

@@ -1,0 +1,13 @@
+/etc/axelrc
+/usr/bin/axel
+/usr/share/locale/de/LC_MESSAGES/axel.mo
+/usr/share/locale/es/LC_MESSAGES/axel.mo
+/usr/share/locale/id_ID/LC_MESSAGES/axel.mo
+/usr/share/locale/it/LC_MESSAGES/axel.mo
+/usr/share/locale/ja/LC_MESSAGES/axel.mo
+/usr/share/locale/nl/LC_MESSAGES/axel.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/axel.mo
+/usr/share/locale/ru/LC_MESSAGES/axel.mo
+/usr/share/locale/tr/LC_MESSAGES/axel.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/axel.mo
+/usr/share/man/man1/axel.1

@@ -1,0 +1,5 @@
+/etc/fonts/conf.d/70-noto-fonts-cjk-sans-variable.conf -> /usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-sans-variable.conf
+/usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-sans-variable.conf
+/usr/share/fonts/noto/NotoSansCJK-VF.otf.ttc
+/usr/share/fonts/noto/NotoSansMonoCJK-VF.otf.ttc
+/usr/share/licenses/noto-fonts-cjk-sans-variable/LICENSE

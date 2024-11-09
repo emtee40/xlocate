@@ -1,0 +1,6 @@
+/usr/bin/trietool
+/usr/bin/trietool-0.2 -> /usr/bin/trietool
+/usr/lib/libdatrie.so.1 -> /usr/lib/libdatrie.so.1.4.0
+/usr/lib/libdatrie.so.1.4.0
+/usr/share/man/man1/trietool-0.2.1 -> /usr/share/man/man1/trietool.1
+/usr/share/man/man1/trietool.1

@@ -1,0 +1,6 @@
+/usr/bin/stoken
+/usr/lib/libstoken.so.1 -> /usr/lib/libstoken.so.1.3.0
+/usr/lib/libstoken.so.1.3.0
+/usr/share/doc/stoken/README.md
+/usr/share/doc/stoken/sdtid-test.pl
+/usr/share/man/man1/stoken.1

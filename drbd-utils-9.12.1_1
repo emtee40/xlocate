@@ -1,0 +1,42 @@
+/etc/drbd.conf
+/etc/drbd.d/global_common.conf
+/etc/sv/drbd/finish
+/etc/sv/drbd/run
+/etc/sv/drbd/supervise -> /run/runit/supervise.drbd
+/usr/bin/drbdadm
+/usr/bin/drbdmeta
+/usr/bin/drbdsetup
+/usr/lib/udev/rules.d/65-drbd.rules
+/usr/libexec/drbd
+/usr/libexec/drbdadm-84
+/usr/libexec/drbdsetup-84
+/usr/libexec/notify-emergency-reboot.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-emergency-shutdown.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-io-error.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-out-of-sync.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-pri-lost-after-sb.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-pri-lost.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-pri-on-incon-degr.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify-split-brain.sh -> /usr/libexec/notify.sh
+/usr/libexec/notify.sh
+/usr/libexec/outdate-peer.sh
+/usr/libexec/snapshot-resync-target-lvm.sh
+/usr/libexec/stonith_admin-fence-peer.sh
+/usr/libexec/unsnapshot-resync-target-lvm.sh -> /usr/libexec/snapshot-resync-target-lvm.sh
+/usr/share/bash-completion/completions/drbdadm
+/usr/share/man/man5/drbd.conf-8.4.5
+/usr/share/man/man5/drbd.conf-9.0.5
+/usr/share/man/man5/drbd.conf.5 -> /usr/share/man/man5/drbd.conf-8.4.5
+/usr/share/man/man7/ocf_linbit_drbd.7
+/usr/share/man/man8/drbd-8.4.8
+/usr/share/man/man8/drbd-9.0.8
+/usr/share/man/man8/drbd.8 -> /usr/share/man/man8/drbd-8.4.8
+/usr/share/man/man8/drbdadm-8.4.8
+/usr/share/man/man8/drbdadm-9.0.8
+/usr/share/man/man8/drbdadm.8 -> /usr/share/man/man8/drbdadm-8.4.8
+/usr/share/man/man8/drbdmeta-8.4.8
+/usr/share/man/man8/drbdmeta-9.0.8
+/usr/share/man/man8/drbdmeta.8 -> /usr/share/man/man8/drbdmeta-8.4.8
+/usr/share/man/man8/drbdsetup-8.4.8
+/usr/share/man/man8/drbdsetup-9.0.8
+/usr/share/man/man8/drbdsetup.8 -> /usr/share/man/man8/drbdsetup-8.4.8

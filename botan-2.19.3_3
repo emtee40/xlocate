@@ -1,0 +1,5 @@
+/usr/bin/botan
+/usr/lib/libbotan-2.so.19 -> /usr/lib/libbotan-2.so.19.19.3
+/usr/lib/libbotan-2.so.19.19.3
+/usr/lib/python3.12/site-packages/botan2.py
+/usr/share/licenses/botan/license.txt

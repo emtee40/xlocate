@@ -1,0 +1,11 @@
+/usr/bin/repc-qt5 -> /usr/lib/qt5/bin/repc
+/usr/lib/libQt5RemoteObjects.so.5 -> /usr/lib/libQt5RemoteObjects.so.5.15.11
+/usr/lib/libQt5RemoteObjects.so.5.15 -> /usr/lib/libQt5RemoteObjects.so.5.15.11
+/usr/lib/libQt5RemoteObjects.so.5.15.11
+/usr/lib/qt5/bin/repc
+/usr/lib/qt5/qml/QtQml/RemoteObjects/libqtqmlremoteobjects.so
+/usr/lib/qt5/qml/QtQml/RemoteObjects/plugins.qmltypes
+/usr/lib/qt5/qml/QtQml/RemoteObjects/qmldir
+/usr/lib/qt5/qml/QtRemoteObjects/libqtremoteobjects.so
+/usr/lib/qt5/qml/QtRemoteObjects/plugins.qmltypes
+/usr/lib/qt5/qml/QtRemoteObjects/qmldir

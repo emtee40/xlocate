@@ -1,0 +1,26 @@
+/usr/include/KF5/Kirigami2/Kirigami/KirigamiPluginFactory
+/usr/include/KF5/Kirigami2/Kirigami/PlatformTheme
+/usr/include/KF5/Kirigami2/Kirigami/TabletModeWatcher
+/usr/include/KF5/Kirigami2/Kirigami/Units
+/usr/include/KF5/Kirigami2/Kirigami/VirtualKeyboardWatcher
+/usr/include/KF5/Kirigami2/KirigamiPluginFactory
+/usr/include/KF5/Kirigami2/PlatformTheme
+/usr/include/KF5/Kirigami2/TabletModeWatcher
+/usr/include/KF5/Kirigami2/Units
+/usr/include/KF5/Kirigami2/kirigami/kirigami2_export.h
+/usr/include/KF5/Kirigami2/kirigami/kirigamipluginfactory.h
+/usr/include/KF5/Kirigami2/kirigami/platformtheme.h
+/usr/include/KF5/Kirigami2/kirigami/tabletmodewatcher.h
+/usr/include/KF5/Kirigami2/kirigami/units.h
+/usr/include/KF5/Kirigami2/kirigami/virtualkeyboardwatcher.h
+/usr/include/KF5/Kirigami2/kirigamipluginfactory.h
+/usr/include/KF5/Kirigami2/platformtheme.h
+/usr/include/KF5/Kirigami2/tabletmodewatcher.h
+/usr/include/KF5/Kirigami2/units.h
+/usr/lib/cmake/KF5Kirigami2/KF5Kirigami2Config.cmake
+/usr/lib/cmake/KF5Kirigami2/KF5Kirigami2ConfigVersion.cmake
+/usr/lib/cmake/KF5Kirigami2/KF5Kirigami2Macros.cmake
+/usr/lib/cmake/KF5Kirigami2/KF5Kirigami2Targets-none.cmake
+/usr/lib/cmake/KF5Kirigami2/KF5Kirigami2Targets.cmake
+/usr/lib/libKF5Kirigami2.so -> /usr/lib/libKF5Kirigami2.so.5
+/usr/lib/qt5/mkspecs/modules/qt_Kirigami2.pri

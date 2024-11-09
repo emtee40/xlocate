@@ -1,0 +1,22 @@
+/etc/sv/ead/log/run
+/etc/sv/ead/log/supervise -> /run/runit/supervise.ead-log
+/etc/sv/ead/run
+/etc/sv/ead/supervise -> /run/runit/supervise.ead
+/etc/sv/iwd/log/run
+/etc/sv/iwd/log/supervise -> /run/runit/supervise.iwd-log
+/etc/sv/iwd/run
+/etc/sv/iwd/supervise -> /run/runit/supervise.iwd
+/usr/bin/iwctl
+/usr/bin/iwmon
+/usr/libexec/ead
+/usr/libexec/iwd
+/usr/share/dbus-1/system.d/ead-dbus.conf
+/usr/share/dbus-1/system.d/iwd-dbus.conf
+/usr/share/man/man1/iwctl.1
+/usr/share/man/man1/iwmon.1
+/usr/share/man/man5/iwd.ap.5
+/usr/share/man/man5/iwd.config.5
+/usr/share/man/man5/iwd.network.5
+/usr/share/man/man7/iwd.debug.7
+/usr/share/man/man8/ead.8
+/usr/share/man/man8/iwd.8

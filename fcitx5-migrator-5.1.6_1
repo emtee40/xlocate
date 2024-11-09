@@ -1,0 +1,5 @@
+/usr/bin/fcitx5-migrator
+/usr/lib/libFcitx5Migrator.so -> /usr/lib/libFcitx5Migrator.so.1
+/usr/lib/libFcitx5Migrator.so.1 -> /usr/lib/libFcitx5Migrator.so.5.1.6
+/usr/lib/libFcitx5Migrator.so.5.1.6
+/usr/share/applications/org.fcitx.fcitx5-migrator.desktop

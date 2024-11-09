@@ -1,0 +1,10 @@
+/usr/lib32/libqhull.so -> /usr/lib32/libqhull.so.8.0
+/usr/lib32/libqhull_r.so -> /usr/lib32/libqhull_r.so.8.0
+/usr/lib32/libqhullcpp.a
+/usr/lib32/libqhullstatic.a
+/usr/lib32/libqhullstatic_r.a
+/usr/lib32/pkgconfig/qhull.pc
+/usr/lib32/pkgconfig/qhull_r.pc
+/usr/lib32/pkgconfig/qhullcpp.pc
+/usr/lib32/pkgconfig/qhullstatic.pc
+/usr/lib32/pkgconfig/qhullstatic_r.pc

@@ -1,0 +1,7 @@
+/etc/nagios/nrpe.cfg
+/etc/sv/nrpe/log/run
+/etc/sv/nrpe/log/supervise -> /run/runit/supervise.nrpe-log
+/etc/sv/nrpe/run
+/etc/sv/nrpe/supervise -> /run/runit/supervise.nrpe
+/usr/bin/nrpe
+/usr/lib/monitoring-plugins/check_nrpe

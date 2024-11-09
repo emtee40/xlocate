@@ -1,0 +1,3 @@
+/usr/lib/libopenh264.so.2.4.1
+/usr/lib/libopenh264.so.7 -> /usr/lib/libopenh264.so.2.4.1
+/usr/share/licenses/openh264/LICENSE

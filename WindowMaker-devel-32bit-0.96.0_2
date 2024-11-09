@@ -1,0 +1,8 @@
+/usr/lib32/libWINGs.so -> /usr/lib32/libWINGs.so.3.2.0
+/usr/lib32/libWMaker.so -> /usr/lib32/libWMaker.so.1.0.1
+/usr/lib32/libWUtil.so -> /usr/lib32/libWUtil.so.5.0.0
+/usr/lib32/libwraster.so -> /usr/lib32/libwraster.so.6.1.0
+/usr/lib32/pkgconfig/WINGs.pc
+/usr/lib32/pkgconfig/WUtil.pc
+/usr/lib32/pkgconfig/wmlib.pc
+/usr/lib32/pkgconfig/wrlib.pc

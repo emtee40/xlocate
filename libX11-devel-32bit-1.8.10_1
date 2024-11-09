@@ -1,0 +1,6 @@
+/usr/lib32/libX11-xcb.a
+/usr/lib32/libX11-xcb.so -> /usr/lib32/libX11-xcb.so.1.0.0
+/usr/lib32/libX11.a
+/usr/lib32/libX11.so -> /usr/lib32/libX11.so.6.4.0
+/usr/lib32/pkgconfig/x11-xcb.pc
+/usr/lib32/pkgconfig/x11.pc

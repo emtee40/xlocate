@@ -1,0 +1,6 @@
+/usr/lib32/libsigrok.a
+/usr/lib32/libsigrok.so -> /usr/lib32/libsigrok.so.4.1.1
+/usr/lib32/libsigrokcxx.a
+/usr/lib32/libsigrokcxx.so -> /usr/lib32/libsigrokcxx.so.4.1.1
+/usr/lib32/pkgconfig/libsigrok.pc
+/usr/lib32/pkgconfig/libsigrokcxx.pc

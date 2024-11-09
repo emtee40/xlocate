@@ -1,0 +1,10 @@
+/usr/include/nextcloudsync/creds/abstractcredentials.h
+/usr/include/nextcloudsync/creds/httpcredentials.h
+/usr/include/nextcloudsync/mirall/account.h
+/usr/include/nextcloudsync/mirall/configfile.h
+/usr/include/nextcloudsync/mirall/networkjobs.h
+/usr/include/nextcloudsync/mirall/progressdispatcher.h
+/usr/include/nextcloudsync/mirall/syncengine.h
+/usr/include/nextcloudsync/mirall/syncfileitem.h
+/usr/include/nextcloudsync/mirall/syncresult.h
+/usr/lib/libnextcloudsync.so -> /usr/lib/libnextcloudsync.so.0

@@ -1,0 +1,6 @@
+/usr/lib32/libopensm.so.9 -> /usr/lib32/libopensm.so.9.2.0
+/usr/lib32/libopensm.so.9.2.0
+/usr/lib32/libosmcomp.so.5 -> /usr/lib32/libosmcomp.so.5.0.1
+/usr/lib32/libosmcomp.so.5.0.1
+/usr/lib32/libosmvendor.so.5 -> /usr/lib32/libosmvendor.so.5.0.0
+/usr/lib32/libosmvendor.so.5.0.0

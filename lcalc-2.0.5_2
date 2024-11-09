@@ -1,0 +1,17 @@
+/usr/bin/lcalc
+/usr/lib/libLfunction.so.1 -> /usr/lib/libLfunction.so.1.0.1
+/usr/lib/libLfunction.so.1.0.1
+/usr/share/doc/lcalc/CONTRIBUTORS
+/usr/share/doc/lcalc/ChangeLog
+/usr/share/doc/lcalc/INSTALL
+/usr/share/doc/lcalc/INSTALL.automake
+/usr/share/doc/lcalc/README.md
+/usr/share/doc/lcalc/examples/Makefile.example
+/usr/share/doc/lcalc/examples/README
+/usr/share/doc/lcalc/examples/data/README
+/usr/share/doc/lcalc/examples/data/data_L4
+/usr/share/doc/lcalc/examples/data/data_dedekind_Q_sqrt_minus_3
+/usr/share/doc/lcalc/examples/data/data_maass
+/usr/share/doc/lcalc/examples/data/data_tau
+/usr/share/doc/lcalc/examples/example.cc
+/usr/share/man/man1/lcalc.1

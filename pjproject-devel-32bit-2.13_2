@@ -1,0 +1,29 @@
+/usr/lib32/libg7221codec.a
+/usr/lib32/libg7221codec.so -> /usr/lib32/libg7221codec.so.2
+/usr/lib32/libilbccodec.a
+/usr/lib32/libilbccodec.so -> /usr/lib32/libilbccodec.so.2
+/usr/lib32/libpj.a
+/usr/lib32/libpj.so -> /usr/lib32/libpj.so.2
+/usr/lib32/libpjlib-util.a
+/usr/lib32/libpjlib-util.so -> /usr/lib32/libpjlib-util.so.2
+/usr/lib32/libpjmedia-audiodev.a
+/usr/lib32/libpjmedia-audiodev.so -> /usr/lib32/libpjmedia-audiodev.so.2
+/usr/lib32/libpjmedia-codec.a
+/usr/lib32/libpjmedia-codec.so -> /usr/lib32/libpjmedia-codec.so.2
+/usr/lib32/libpjmedia-videodev.a
+/usr/lib32/libpjmedia-videodev.so -> /usr/lib32/libpjmedia-videodev.so.2
+/usr/lib32/libpjmedia.a
+/usr/lib32/libpjmedia.so -> /usr/lib32/libpjmedia.so.2
+/usr/lib32/libpjnath.a
+/usr/lib32/libpjnath.so -> /usr/lib32/libpjnath.so.2
+/usr/lib32/libpjsip-simple.a
+/usr/lib32/libpjsip-simple.so -> /usr/lib32/libpjsip-simple.so.2
+/usr/lib32/libpjsip-ua.a
+/usr/lib32/libpjsip-ua.so -> /usr/lib32/libpjsip-ua.so.2
+/usr/lib32/libpjsip.a
+/usr/lib32/libpjsip.so -> /usr/lib32/libpjsip.so.2
+/usr/lib32/libpjsua.a
+/usr/lib32/libpjsua.so -> /usr/lib32/libpjsua.so.2
+/usr/lib32/libpjsua2.a
+/usr/lib32/libpjsua2.so -> /usr/lib32/libpjsua2.so.2
+/usr/lib32/pkgconfig/libpjproject.pc

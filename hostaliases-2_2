@@ -1,0 +1,3 @@
+/etc/profile.d/hostaliases.sh
+/usr/lib/hostaliases.so
+/usr/share/licenses/hostaliases/LICENSE

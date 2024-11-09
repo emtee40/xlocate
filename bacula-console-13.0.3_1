@@ -1,0 +1,4 @@
+/etc/bacula/bconsole.conf
+/etc/bacula/scripts/bconsole
+/usr/bin/bconsole
+/usr/share/man/man8/bconsole.8

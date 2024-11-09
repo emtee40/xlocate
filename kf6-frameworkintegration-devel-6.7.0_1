@@ -1,0 +1,9 @@
+/usr/include/KF6/FrameworkIntegration/frameworkintegration_version.h
+/usr/include/KF6/KStyle/KStyle
+/usr/include/KF6/KStyle/kstyle.h
+/usr/include/KF6/KStyle/kstyle_export.h
+/usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationConfig.cmake
+/usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationConfigVersion.cmake
+/usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationTargets-none.cmake
+/usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationTargets.cmake
+/usr/lib/libKF6Style.so -> /usr/lib/libKF6Style.so.6

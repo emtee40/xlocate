@@ -1,0 +1,4 @@
+/usr/include/rnnoise.h
+/usr/lib/librnnoise.a
+/usr/lib/librnnoise.so -> /usr/lib/librnnoise.so.0.4.1
+/usr/lib/pkgconfig/rnnoise.pc

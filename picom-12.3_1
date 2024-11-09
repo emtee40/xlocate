@@ -1,0 +1,19 @@
+/etc/xdg/autostart/picom.desktop
+/usr/bin/compton -> /usr/bin/picom
+/usr/bin/compton-trans -> /usr/bin/picom-trans
+/usr/bin/picom
+/usr/bin/picom-inspect -> /usr/bin/picom
+/usr/bin/picom-trans
+/usr/lib/pkgconfig/picom-api.pc
+/usr/share/applications/compton.desktop
+/usr/share/applications/picom.desktop
+/usr/share/examples/picom/compton-default-fshader-win.glsl
+/usr/share/examples/picom/compton-fake-transparency-fshader-win.glsl
+/usr/share/examples/picom/picom.sample.conf
+/usr/share/icons/hicolor/48x48/apps/compton.png
+/usr/share/icons/hicolor/scalable/apps/compton.svg
+/usr/share/licenses/picom/COPYING
+/usr/share/licenses/picom/MIT
+/usr/share/man/man1/picom-inspect.1
+/usr/share/man/man1/picom-trans.1
+/usr/share/man/man1/picom.1

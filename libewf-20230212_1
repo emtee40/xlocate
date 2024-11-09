@@ -1,0 +1,17 @@
+/usr/bin/ewfacquire
+/usr/bin/ewfacquirestream
+/usr/bin/ewfdebug
+/usr/bin/ewfexport
+/usr/bin/ewfinfo
+/usr/bin/ewfmount
+/usr/bin/ewfrecover
+/usr/bin/ewfverify
+/usr/lib/libewf.so.3 -> /usr/lib/libewf.so.3.0.0
+/usr/lib/libewf.so.3.0.0
+/usr/share/man/man1/ewfacquire.1
+/usr/share/man/man1/ewfacquirestream.1
+/usr/share/man/man1/ewfexport.1
+/usr/share/man/man1/ewfinfo.1
+/usr/share/man/man1/ewfmount.1
+/usr/share/man/man1/ewfrecover.1
+/usr/share/man/man1/ewfverify.1

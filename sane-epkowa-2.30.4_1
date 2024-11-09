@@ -1,0 +1,9 @@
+/etc/sane.d/dll.d/epkowa.conf
+/etc/sane.d/epkowa.conf
+/usr/bin/iscan-registry
+/usr/lib/sane/libsane-epkowa.a
+/usr/lib/sane/libsane-epkowa.so -> /usr/lib/sane/libsane-epkowa.so.1.0.15
+/usr/lib/sane/libsane-epkowa.so.1 -> /usr/lib/sane/libsane-epkowa.so.1.0.15
+/usr/lib/sane/libsane-epkowa.so.1.0.15
+/usr/share/man/man5/sane-epkowa.5
+/usr/share/man/man8/iscan-registry.8

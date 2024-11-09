@@ -1,0 +1,5 @@
+/usr/lib32/libmatemixer.so.0 -> /usr/lib32/libmatemixer.so.0.0.0
+/usr/lib32/libmatemixer.so.0.0.0
+/usr/lib32/libmatemixer/libmatemixer-alsa.so
+/usr/lib32/libmatemixer/libmatemixer-null.so
+/usr/lib32/libmatemixer/libmatemixer-pulse.so

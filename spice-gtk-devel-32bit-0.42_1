@@ -1,0 +1,4 @@
+/usr/lib32/libspice-client-glib-2.0.so -> /usr/lib32/libspice-client-glib-2.0.so.8
+/usr/lib32/libspice-client-gtk-3.0.so -> /usr/lib32/libspice-client-gtk-3.0.so.5
+/usr/lib32/pkgconfig/spice-client-glib-2.0.pc
+/usr/lib32/pkgconfig/spice-client-gtk-3.0.pc

@@ -1,0 +1,4 @@
+/usr/include/libgfshare.h
+/usr/lib/libgfshare.a
+/usr/lib/libgfshare.so -> /usr/lib/libgfshare.so.2.0.0
+/usr/lib/pkgconfig/libgfshare.pc

@@ -1,0 +1,41 @@
+/usr/bin/megacopy -> /usr/bin/megatools
+/usr/bin/megadf -> /usr/bin/megatools
+/usr/bin/megadl -> /usr/bin/megatools
+/usr/bin/megaexport -> /usr/bin/megatools
+/usr/bin/megaget -> /usr/bin/megatools
+/usr/bin/megals -> /usr/bin/megatools
+/usr/bin/megamkdir -> /usr/bin/megatools
+/usr/bin/megaput -> /usr/bin/megatools
+/usr/bin/megareg -> /usr/bin/megatools
+/usr/bin/megarm -> /usr/bin/megatools
+/usr/bin/megatest -> /usr/bin/megatools
+/usr/bin/megatools
+/usr/share/bash-completion/completions/megacopy -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megadf -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megadl -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megaexport -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megaget -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megals -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megamkdir -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megaput -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megareg -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megarm -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megatest -> /usr/share/bash-completion/completions/megatools
+/usr/share/bash-completion/completions/megatools
+/usr/share/doc/megatools/LICENSE
+/usr/share/doc/megatools/NEWS
+/usr/share/doc/megatools/README
+/usr/share/doc/megatools/TODO
+/usr/share/man/man1/megatools-copy.1
+/usr/share/man/man1/megatools-df.1
+/usr/share/man/man1/megatools-dl.1
+/usr/share/man/man1/megatools-export.1
+/usr/share/man/man1/megatools-get.1
+/usr/share/man/man1/megatools-ls.1
+/usr/share/man/man1/megatools-mkdir.1
+/usr/share/man/man1/megatools-put.1
+/usr/share/man/man1/megatools-reg.1
+/usr/share/man/man1/megatools-rm.1
+/usr/share/man/man1/megatools-test.1
+/usr/share/man/man1/megatools.1
+/usr/share/man/man5/megarc.5

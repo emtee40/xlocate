@@ -1,0 +1,21 @@
+/etc/influxdb/influxdb.conf
+/etc/sv/influxdb/log/run
+/etc/sv/influxdb/log/supervise -> /run/runit/supervise.influxdb-log
+/etc/sv/influxdb/run
+/etc/sv/influxdb/supervise -> /run/runit/supervise.influxdb
+/usr/bin/influx
+/usr/bin/influx_inspect
+/usr/bin/influx_stress
+/usr/bin/influx_tsm
+/usr/bin/influxd
+/usr/share/licenses/influxdb/LICENSE
+/usr/share/man/man1/influx.1
+/usr/share/man/man1/influx_inspect.1
+/usr/share/man/man1/influx_stress.1
+/usr/share/man/man1/influx_tsm.1
+/usr/share/man/man1/influxd-backup.1
+/usr/share/man/man1/influxd-config.1
+/usr/share/man/man1/influxd-restore.1
+/usr/share/man/man1/influxd-run.1
+/usr/share/man/man1/influxd-version.1
+/usr/share/man/man1/influxd.1

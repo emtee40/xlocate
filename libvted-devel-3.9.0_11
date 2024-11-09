@@ -1,0 +1,10 @@
+/usr/include/d/gtkd-3/vte/Pty.d
+/usr/include/d/gtkd-3/vte/Regex.d
+/usr/include/d/gtkd-3/vte/Terminal.d
+/usr/include/d/gtkd-3/vte/Version.d
+/usr/include/d/gtkd-3/vte/c/functions.d
+/usr/include/d/gtkd-3/vte/c/types.d
+/usr/include/d/gtkd-3/vtec/vte.d
+/usr/include/d/gtkd-3/vtec/vtetypes.d
+/usr/lib/libvted-3.so -> /usr/lib/libvted-3.so.0
+/usr/lib/pkgconfig/vted-3.pc

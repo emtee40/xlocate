@@ -1,0 +1,15 @@
+/usr/libexec/installed-tests/libjcat/jcat-self-test
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin.asc
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin.ed25519
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin.p7b
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin.p7c
+/usr/share/installed-tests/libjcat/colorhug/firmware.bin.sha256.p7c
+/usr/share/installed-tests/libjcat/libjcat.test
+/usr/share/installed-tests/libjcat/pki/GPG-KEY-Linux-Vendor-Firmware-Service
+/usr/share/installed-tests/libjcat/pki/LVFS-CA.pem
+/usr/share/installed-tests/libjcat/pki/test.ed25519
+/usr/share/installed-tests/libjcat/pki/test.pem
+/usr/share/installed-tests/libjcat/secret.ed25519
+/usr/share/installed-tests/libjcat/test.btcheckpoint
+/usr/share/installed-tests/libjcat/test.btverifier

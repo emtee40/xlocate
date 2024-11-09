@@ -1,0 +1,69 @@
+/usr/lib32/libXrdAppUtils.so -> /usr/lib32/libXrdAppUtils.so.2
+/usr/lib32/libXrdAppUtils.so.2 -> /usr/lib32/libXrdAppUtils.so.2.0.0
+/usr/lib32/libXrdAppUtils.so.2.0.0
+/usr/lib32/libXrdBlacklistDecision-5.so
+/usr/lib32/libXrdBwm-5.so
+/usr/lib32/libXrdCksCalczcrc32-5.so
+/usr/lib32/libXrdCl.so -> /usr/lib32/libXrdCl.so.3
+/usr/lib32/libXrdCl.so.3 -> /usr/lib32/libXrdCl.so.3.0.0
+/usr/lib32/libXrdCl.so.3.0.0
+/usr/lib32/libXrdClProxyPlugin-5.so
+/usr/lib32/libXrdClRecorder-5.so
+/usr/lib32/libXrdCmsRedirectLocal-5.so
+/usr/lib32/libXrdCrypto.so -> /usr/lib32/libXrdCrypto.so.2
+/usr/lib32/libXrdCrypto.so.2 -> /usr/lib32/libXrdCrypto.so.2.0.0
+/usr/lib32/libXrdCrypto.so.2.0.0
+/usr/lib32/libXrdCryptoLite.so -> /usr/lib32/libXrdCryptoLite.so.2
+/usr/lib32/libXrdCryptoLite.so.2 -> /usr/lib32/libXrdCryptoLite.so.2.0.0
+/usr/lib32/libXrdCryptoLite.so.2.0.0
+/usr/lib32/libXrdCryptossl-5.so
+/usr/lib32/libXrdFfs.so -> /usr/lib32/libXrdFfs.so.3
+/usr/lib32/libXrdFfs.so.3 -> /usr/lib32/libXrdFfs.so.3.0.0
+/usr/lib32/libXrdFfs.so.3.0.0
+/usr/lib32/libXrdFileCache-5.so -> /usr/lib32/libXrdPfc-5.so
+/usr/lib32/libXrdHttp-5.so
+/usr/lib32/libXrdHttpTPC-5.so
+/usr/lib32/libXrdHttpUtils.so -> /usr/lib32/libXrdHttpUtils.so.2
+/usr/lib32/libXrdHttpUtils.so.2 -> /usr/lib32/libXrdHttpUtils.so.2.0.0
+/usr/lib32/libXrdHttpUtils.so.2.0.0
+/usr/lib32/libXrdN2No2p-5.so
+/usr/lib32/libXrdOfsPrepGPI-5.so
+/usr/lib32/libXrdOssCsi-5.so
+/usr/lib32/libXrdOssSIgpfsT-5.so
+/usr/lib32/libXrdPfc-5.so
+/usr/lib32/libXrdPosix.so -> /usr/lib32/libXrdPosix.so.3
+/usr/lib32/libXrdPosix.so.3 -> /usr/lib32/libXrdPosix.so.3.0.0
+/usr/lib32/libXrdPosix.so.3.0.0
+/usr/lib32/libXrdPosixPreload.so -> /usr/lib32/libXrdPosixPreload.so.2
+/usr/lib32/libXrdPosixPreload.so.2 -> /usr/lib32/libXrdPosixPreload.so.2.0.0
+/usr/lib32/libXrdPosixPreload.so.2.0.0
+/usr/lib32/libXrdPss-5.so
+/usr/lib32/libXrdSec-5.so
+/usr/lib32/libXrdSecProt-5.so
+/usr/lib32/libXrdSecgsi-5.so
+/usr/lib32/libXrdSecgsiAUTHZVO-5.so
+/usr/lib32/libXrdSecgsiGMAPDN-5.so
+/usr/lib32/libXrdSeckrb5-5.so
+/usr/lib32/libXrdSecpwd-5.so
+/usr/lib32/libXrdSecsss-5.so
+/usr/lib32/libXrdSecunix-5.so
+/usr/lib32/libXrdSecztn-5.so
+/usr/lib32/libXrdServer.so -> /usr/lib32/libXrdServer.so.3
+/usr/lib32/libXrdServer.so.3 -> /usr/lib32/libXrdServer.so.3.0.0
+/usr/lib32/libXrdServer.so.3.0.0
+/usr/lib32/libXrdSsi-5.so
+/usr/lib32/libXrdSsiLib.so -> /usr/lib32/libXrdSsiLib.so.2
+/usr/lib32/libXrdSsiLib.so.2 -> /usr/lib32/libXrdSsiLib.so.2.0.0
+/usr/lib32/libXrdSsiLib.so.2.0.0
+/usr/lib32/libXrdSsiLog-5.so
+/usr/lib32/libXrdSsiShMap.so -> /usr/lib32/libXrdSsiShMap.so.2
+/usr/lib32/libXrdSsiShMap.so.2 -> /usr/lib32/libXrdSsiShMap.so.2.0.0
+/usr/lib32/libXrdSsiShMap.so.2.0.0
+/usr/lib32/libXrdThrottle-5.so
+/usr/lib32/libXrdUtils.so -> /usr/lib32/libXrdUtils.so.3
+/usr/lib32/libXrdUtils.so.3 -> /usr/lib32/libXrdUtils.so.3.0.0
+/usr/lib32/libXrdUtils.so.3.0.0
+/usr/lib32/libXrdXml.so -> /usr/lib32/libXrdXml.so.3
+/usr/lib32/libXrdXml.so.3 -> /usr/lib32/libXrdXml.so.3.0.0
+/usr/lib32/libXrdXml.so.3.0.0
+/usr/lib32/libXrdXrootd-5.so

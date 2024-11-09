@@ -1,0 +1,6 @@
+/etc/sv/wireproxy/log/run
+/etc/sv/wireproxy/log/supervise -> /run/runit/supervise.wireproxy-log
+/etc/sv/wireproxy/run
+/etc/sv/wireproxy/supervise -> /run/runit/supervise.wireproxy
+/usr/bin/wireproxy
+/usr/share/licenses/wireproxy/LICENSE

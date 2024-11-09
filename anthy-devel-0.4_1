@@ -1,0 +1,7 @@
+/usr/include/anthy/anthy.h
+/usr/include/anthy/dicutil.h
+/usr/include/anthy/input.h
+/usr/lib/libanthy.so -> /usr/lib/libanthy.so.1.1.2
+/usr/lib/libanthydic.so -> /usr/lib/libanthydic.so.1.1.3
+/usr/lib/libanthyinput.so -> /usr/lib/libanthyinput.so.0.0.0
+/usr/lib/pkgconfig/anthy.pc

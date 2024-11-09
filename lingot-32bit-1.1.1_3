@@ -1,0 +1,5 @@
+/usr/lib32/liblingot.a
+/usr/lib32/liblingot.so -> /usr/lib32/liblingot.so.0.0.0
+/usr/lib32/liblingot.so.0 -> /usr/lib32/liblingot.so.0.0.0
+/usr/lib32/liblingot.so.0.0.0
+/usr/lib32/pkgconfig/lingot.pc

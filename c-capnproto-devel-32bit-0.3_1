@@ -1,0 +1,3 @@
+/usr/lib32/libcapnp_c.a
+/usr/lib32/libcapnp_c.so -> /usr/lib32/libcapnp_c.so.0.0.0
+/usr/lib32/pkgconfig/c-capnproto.pc

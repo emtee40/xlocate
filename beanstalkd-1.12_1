@@ -1,0 +1,9 @@
+/etc/sv/beanstalkd/log/run
+/etc/sv/beanstalkd/log/supervise -> /run/runit/supervise.beanstalkd-log
+/etc/sv/beanstalkd/run
+/etc/sv/beanstalkd/supervise -> /run/runit/supervise.beanstalkd
+/usr/bin/beanstalkd
+/usr/share/doc/beanstalkd/README
+/usr/share/doc/beanstalkd/protocol.txt
+/usr/share/licenses/beanstalkd/LICENSE
+/usr/share/man/man1/beanstalkd.1

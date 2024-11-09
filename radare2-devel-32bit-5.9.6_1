@@ -1,0 +1,47 @@
+/usr/lib32/libr_anal.so -> /usr/lib32/libr_anal.so.5.9.6
+/usr/lib32/libr_arch.so -> /usr/lib32/libr_arch.so.5.9.6
+/usr/lib32/libr_asm.so -> /usr/lib32/libr_asm.so.5.9.6
+/usr/lib32/libr_bin.so -> /usr/lib32/libr_bin.so.5.9.6
+/usr/lib32/libr_bp.so -> /usr/lib32/libr_bp.so.5.9.6
+/usr/lib32/libr_config.so -> /usr/lib32/libr_config.so.5.9.6
+/usr/lib32/libr_cons.so -> /usr/lib32/libr_cons.so.5.9.6
+/usr/lib32/libr_core.so -> /usr/lib32/libr_core.so.5.9.6
+/usr/lib32/libr_crypto.so -> /usr/lib32/libr_crypto.so.5.9.6
+/usr/lib32/libr_debug.so -> /usr/lib32/libr_debug.so.5.9.6
+/usr/lib32/libr_egg.so -> /usr/lib32/libr_egg.so.5.9.6
+/usr/lib32/libr_esil.so -> /usr/lib32/libr_esil.so.5.9.6
+/usr/lib32/libr_flag.so -> /usr/lib32/libr_flag.so.5.9.6
+/usr/lib32/libr_fs.so -> /usr/lib32/libr_fs.so.5.9.6
+/usr/lib32/libr_io.so -> /usr/lib32/libr_io.so.5.9.6
+/usr/lib32/libr_lang.so -> /usr/lib32/libr_lang.so.5.9.6
+/usr/lib32/libr_magic.so -> /usr/lib32/libr_magic.so.5.9.6
+/usr/lib32/libr_main.so -> /usr/lib32/libr_main.so.5.9.6
+/usr/lib32/libr_reg.so -> /usr/lib32/libr_reg.so.5.9.6
+/usr/lib32/libr_search.so -> /usr/lib32/libr_search.so.5.9.6
+/usr/lib32/libr_socket.so -> /usr/lib32/libr_socket.so.5.9.6
+/usr/lib32/libr_syscall.so -> /usr/lib32/libr_syscall.so.5.9.6
+/usr/lib32/libr_util.so -> /usr/lib32/libr_util.so.5.9.6
+/usr/lib32/pkgconfig/libr.pc
+/usr/lib32/pkgconfig/r_anal.pc
+/usr/lib32/pkgconfig/r_arch.pc
+/usr/lib32/pkgconfig/r_asm.pc
+/usr/lib32/pkgconfig/r_bin.pc
+/usr/lib32/pkgconfig/r_bp.pc
+/usr/lib32/pkgconfig/r_config.pc
+/usr/lib32/pkgconfig/r_cons.pc
+/usr/lib32/pkgconfig/r_core.pc
+/usr/lib32/pkgconfig/r_crypto.pc
+/usr/lib32/pkgconfig/r_debug.pc
+/usr/lib32/pkgconfig/r_egg.pc
+/usr/lib32/pkgconfig/r_esil.pc
+/usr/lib32/pkgconfig/r_flag.pc
+/usr/lib32/pkgconfig/r_fs.pc
+/usr/lib32/pkgconfig/r_io.pc
+/usr/lib32/pkgconfig/r_lang.pc
+/usr/lib32/pkgconfig/r_magic.pc
+/usr/lib32/pkgconfig/r_main.pc
+/usr/lib32/pkgconfig/r_reg.pc
+/usr/lib32/pkgconfig/r_search.pc
+/usr/lib32/pkgconfig/r_socket.pc
+/usr/lib32/pkgconfig/r_syscall.pc
+/usr/lib32/pkgconfig/r_util.pc

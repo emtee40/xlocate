@@ -1,0 +1,4 @@
+/usr/include/X11/xshmfence.h
+/usr/lib/libxshmfence.a
+/usr/lib/libxshmfence.so -> /usr/lib/libxshmfence.so.1.0.0
+/usr/lib/pkgconfig/xshmfence.pc

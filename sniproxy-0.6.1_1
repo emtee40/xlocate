@@ -1,0 +1,5 @@
+/etc/sniproxy.conf
+/usr/bin/sniproxy
+/usr/share/licenses/sniproxy/COPYING
+/usr/share/man/man5/sniproxy.conf.5
+/usr/share/man/man8/sniproxy.8

@@ -1,0 +1,12 @@
+/usr/include/libmsi-1.0/libmsi-database.h
+/usr/include/libmsi-1.0/libmsi-enums.h
+/usr/include/libmsi-1.0/libmsi-query.h
+/usr/include/libmsi-1.0/libmsi-record.h
+/usr/include/libmsi-1.0/libmsi-summary-info.h
+/usr/include/libmsi-1.0/libmsi-types.h
+/usr/include/libmsi-1.0/libmsi.h
+/usr/lib/libmsi-1.0.so -> /usr/lib/libmsi-1.0.so.0
+/usr/lib/pkgconfig/libmsi-1.0.pc
+/usr/share/gir-1.0/Libmsi-1.0.gir
+/usr/share/vala/vapi/libmsi-1.0.deps
+/usr/share/vala/vapi/libmsi-1.0.vapi

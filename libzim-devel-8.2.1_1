@@ -1,0 +1,19 @@
+/usr/include/zim/archive.h
+/usr/include/zim/blob.h
+/usr/include/zim/entry.h
+/usr/include/zim/error.h
+/usr/include/zim/item.h
+/usr/include/zim/search.h
+/usr/include/zim/search_iterator.h
+/usr/include/zim/suggestion.h
+/usr/include/zim/suggestion_iterator.h
+/usr/include/zim/tools.h
+/usr/include/zim/uuid.h
+/usr/include/zim/version.h
+/usr/include/zim/writer/contentProvider.h
+/usr/include/zim/writer/creator.h
+/usr/include/zim/writer/item.h
+/usr/include/zim/zim.h
+/usr/include/zim/zim_config.h
+/usr/lib/libzim.so -> /usr/lib/libzim.so.8
+/usr/lib/pkgconfig/libzim.pc

@@ -1,0 +1,4 @@
+/etc/openfortivpn/config
+/usr/bin/openfortivpn
+/usr/share/man/man1/openfortivpn.1
+/usr/share/openfortivpn/config.template

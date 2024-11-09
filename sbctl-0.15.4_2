@@ -1,0 +1,6 @@
+/usr/bin/sbctl
+/usr/share/bash-completion/completions/sbctl
+/usr/share/fish/vendor_completions.d/sbctl.fish
+/usr/share/licenses/sbctl/LICENSE
+/usr/share/man/man8/sbctl.8
+/usr/share/zsh/site-functions/_sbctl

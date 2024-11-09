@@ -1,0 +1,31 @@
+/usr/bin/pa-info
+/usr/bin/pacat
+/usr/bin/pacmd
+/usr/bin/pactl
+/usr/bin/padsp
+/usr/bin/pamon -> /usr/bin/pacat
+/usr/bin/paplay -> /usr/bin/pacat
+/usr/bin/parec -> /usr/bin/pacat
+/usr/bin/parecord -> /usr/bin/pacat
+/usr/bin/pasuspender
+/usr/bin/pax11publish
+/usr/share/bash-completion/completions/pacat -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/pacmd -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/padsp -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/paplay -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/parec -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/parecord -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/pasuspender -> /usr/share/bash-completion/completions/pactl
+/usr/share/bash-completion/completions/pulseaudio -> /usr/share/bash-completion/completions/pactl
+/usr/share/man/man1/pacat.1
+/usr/share/man/man1/pacmd.1
+/usr/share/man/man1/pactl.1
+/usr/share/man/man1/padsp.1
+/usr/share/man/man1/pamon.1 -> /usr/share/man/man1/pacat.1
+/usr/share/man/man1/paplay.1 -> /usr/share/man/man1/pacat.1
+/usr/share/man/man1/parec.1 -> /usr/share/man/man1/pacat.1
+/usr/share/man/man1/parecord.1 -> /usr/share/man/man1/pacat.1
+/usr/share/man/man1/pasuspender.1
+/usr/share/man/man1/pax11publish.1
+/usr/share/zsh/site-functions/_pulseaudio

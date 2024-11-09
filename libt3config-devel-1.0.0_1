@@ -1,0 +1,5 @@
+/usr/include/t3/config/t3config/config.h
+/usr/include/t3/config/t3config/config_api.h
+/usr/include/t3/config/t3config/config_errors.h
+/usr/lib/libt3config.so -> /usr/lib/libt3config.so.0.0.1
+/usr/lib/pkgconfig/libt3config.pc

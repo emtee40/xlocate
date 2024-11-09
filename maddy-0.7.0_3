@@ -1,0 +1,9 @@
+/etc/sv/maddy/log/run
+/etc/sv/maddy/log/supervise -> /run/runit/supervise.maddy-log
+/etc/sv/maddy/run
+/etc/sv/maddy/supervise -> /run/runit/supervise.maddy
+/usr/bin/maddy
+/usr/bin/maddy-pam-helper
+/usr/bin/maddy-shadow-helper
+/usr/share/examples/maddy/maddy.conf
+/usr/share/man/man1/maddy.1

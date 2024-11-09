@@ -1,0 +1,8 @@
+/etc/fwknop/access.conf
+/etc/fwknop/fwknopd.conf
+/etc/sv/fwknopd/log/run
+/etc/sv/fwknopd/log/supervise -> /run/runit/supervise.fwknopd-log
+/etc/sv/fwknopd/run
+/etc/sv/fwknopd/supervise -> /run/runit/supervise.fwknopd
+/usr/bin/fwknopd
+/usr/share/man/man8/fwknopd.8

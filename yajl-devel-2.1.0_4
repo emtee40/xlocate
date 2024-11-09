@@ -1,0 +1,8 @@
+/usr/include/yajl/yajl_common.h
+/usr/include/yajl/yajl_gen.h
+/usr/include/yajl/yajl_parse.h
+/usr/include/yajl/yajl_tree.h
+/usr/include/yajl/yajl_version.h
+/usr/lib/libyajl.so -> /usr/lib/libyajl.so.2
+/usr/lib/libyajl_s.a
+/usr/lib/pkgconfig/yajl.pc

@@ -1,0 +1,41 @@
+/usr/lib/fcitx/fcitx-autoeng.so
+/usr/lib/fcitx/fcitx-chttrans.so
+/usr/lib/fcitx/fcitx-classic-ui.so
+/usr/lib/fcitx/fcitx-clipboard.so
+/usr/lib/fcitx/fcitx-dbus.so
+/usr/lib/fcitx/fcitx-freedesktop-notify.so
+/usr/lib/fcitx/fcitx-fullwidth-char.so
+/usr/lib/fcitx/fcitx-imselector.so
+/usr/lib/fcitx/fcitx-ipc.so
+/usr/lib/fcitx/fcitx-ipcportal.so
+/usr/lib/fcitx/fcitx-keyboard.so
+/usr/lib/fcitx/fcitx-kimpanel-ui.so
+/usr/lib/fcitx/fcitx-notificationitem.so
+/usr/lib/fcitx/fcitx-pinyin-enhance.so
+/usr/lib/fcitx/fcitx-pinyin.so
+/usr/lib/fcitx/fcitx-punc.so
+/usr/lib/fcitx/fcitx-quickphrase.so
+/usr/lib/fcitx/fcitx-qw.so
+/usr/lib/fcitx/fcitx-remote-module.so
+/usr/lib/fcitx/fcitx-spell.so
+/usr/lib/fcitx/fcitx-table.so
+/usr/lib/fcitx/fcitx-unicode.so
+/usr/lib/fcitx/fcitx-vk.so
+/usr/lib/fcitx/fcitx-x11.so
+/usr/lib/fcitx/fcitx-xim.so
+/usr/lib/fcitx/fcitx-xkb.so
+/usr/lib/fcitx/fcitx-xkbdbus.so
+/usr/lib/fcitx/libexec/comp-spell-dict
+/usr/lib/fcitx/libexec/fcitx-po-parser
+/usr/lib/fcitx/libexec/fcitx-scanner
+/usr/lib/girepository-1.0/Fcitx-1.0.typelib
+/usr/lib/libfcitx-config.so.4 -> /usr/lib/libfcitx-config.so.4.1
+/usr/lib/libfcitx-config.so.4.1
+/usr/lib/libfcitx-core.so.0 -> /usr/lib/libfcitx-core.so.0.3
+/usr/lib/libfcitx-core.so.0.3
+/usr/lib/libfcitx-gclient.so.0.2
+/usr/lib/libfcitx-gclient.so.1 -> /usr/lib/libfcitx-gclient.so.0.2
+/usr/lib/libfcitx-utils.so.0 -> /usr/lib/libfcitx-utils.so.0.1
+/usr/lib/libfcitx-utils.so.0.1
+/usr/share/licenses/libfcitx/COPYING.LIBS
+/usr/share/licenses/libfcitx/COPYING.MIT

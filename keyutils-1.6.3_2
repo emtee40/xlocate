@@ -1,0 +1,12 @@
+/etc/request-key.conf
+/usr/bin/key.dns_resolver
+/usr/bin/keyctl
+/usr/bin/request-key
+/usr/share/keyutils/request-key-debug.sh
+/usr/share/man/man1/keyctl.1
+/usr/share/man/man5/key.dns_resolver.conf.5
+/usr/share/man/man5/request-key.conf.5
+/usr/share/man/man7/asymmetric-key.7
+/usr/share/man/man7/keyutils.7
+/usr/share/man/man8/key.dns_resolver.8
+/usr/share/man/man8/request-key.8

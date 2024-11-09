@@ -1,0 +1,7 @@
+/usr/lib/perl5/vendor_perl/IO/Pty.pm
+/usr/lib/perl5/vendor_perl/IO/Tty.pm
+/usr/lib/perl5/vendor_perl/IO/Tty/Constant.pm
+/usr/lib/perl5/vendor_perl/auto/IO/Tty/Tty.so
+/usr/share/man/man3/IO::Pty.3p
+/usr/share/man/man3/IO::Tty.3p
+/usr/share/man/man3/IO::Tty::Constant.3p

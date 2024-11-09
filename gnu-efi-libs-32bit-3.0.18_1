@@ -1,0 +1,4 @@
+/usr/lib32/crt0-efi-ia32.o
+/usr/lib32/libefi.a
+/usr/lib32/libgnuefi.a
+/usr/lib32/pkgconfig/gnu-efi.pc

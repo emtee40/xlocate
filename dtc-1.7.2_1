@@ -1,0 +1,9 @@
+/usr/bin/convert-dtsv0
+/usr/bin/dtc
+/usr/bin/dtdiff
+/usr/bin/fdtdump
+/usr/bin/fdtget
+/usr/bin/fdtoverlay
+/usr/bin/fdtput
+/usr/lib/libfdt.so.1 -> /usr/lib/libfdt.so.1.7.2
+/usr/lib/libfdt.so.1.7.2

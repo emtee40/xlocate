@@ -1,0 +1,7 @@
+/usr/include/shapefil.h
+/usr/include/shapelib/shapefil.h
+/usr/lib/libshp.so -> /usr/lib/libshp.so.4
+/usr/share/shapelib/shapelib-config-version.cmake
+/usr/share/shapelib/shapelib-config.cmake
+/usr/share/shapelib/shapelib-targets-none.cmake
+/usr/share/shapelib/shapelib-targets.cmake

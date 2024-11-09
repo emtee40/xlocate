@@ -1,0 +1,7 @@
+/usr/bin/orc-bugreport
+/usr/bin/orcc
+/usr/lib/liborc-0.4.so.0 -> /usr/lib/liborc-0.4.so.0.39.0
+/usr/lib/liborc-0.4.so.0.39.0
+/usr/lib/liborc-test-0.4.so.0 -> /usr/lib/liborc-test-0.4.so.0.39.0
+/usr/lib/liborc-test-0.4.so.0.39.0
+/usr/share/licenses/orc/COPYING

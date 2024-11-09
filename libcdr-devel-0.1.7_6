@@ -1,0 +1,6 @@
+/usr/include/libcdr-0.1/libcdr/CDRDocument.h
+/usr/include/libcdr-0.1/libcdr/CMXDocument.h
+/usr/include/libcdr-0.1/libcdr/libcdr.h
+/usr/include/libcdr-0.1/libcdr/libcdr_api.h
+/usr/lib/libcdr-0.1.so -> /usr/lib/libcdr-0.1.so.1.0.7
+/usr/lib/pkgconfig/libcdr-0.1.pc

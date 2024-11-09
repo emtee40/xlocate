@@ -1,0 +1,12 @@
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/__init__.py
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/_version.py
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/dispatchers.py
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/endpoint.py
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/exceptions.py
+/usr/lib/python3.12/site-packages/pylsp_jsonrpc/streams.py
+/usr/lib/python3.12/site-packages/python_lsp_jsonrpc-1.1.1.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/python_lsp_jsonrpc-1.1.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/python_lsp_jsonrpc-1.1.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/python_lsp_jsonrpc-1.1.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/python_lsp_jsonrpc-1.1.1.dist-info/top_level.txt
+/usr/share/licenses/python3-lsp-jsonrpc/LICENSE

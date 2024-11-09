@@ -1,0 +1,6 @@
+/etc/sv/netauth-ldap/log/run
+/etc/sv/netauth-ldap/log/supervise -> /run/runit/supervise.netauth-ldap-log
+/etc/sv/netauth-ldap/run
+/etc/sv/netauth-ldap/supervise -> /run/runit/supervise.netauth-ldap
+/usr/bin/ldap
+/usr/share/licenses/NetAuth-ldap/LICENSE

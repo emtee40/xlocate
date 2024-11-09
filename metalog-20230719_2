@@ -1,0 +1,6 @@
+/etc/metalog.conf
+/etc/sv/metalog/run
+/etc/sv/metalog/supervise -> /run/runit/supervise.metalog
+/usr/bin/metalog
+/usr/share/man/man5/metalog.conf.5
+/usr/share/man/man8/metalog.8

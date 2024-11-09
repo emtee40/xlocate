@@ -1,0 +1,4 @@
+/etc/pam.d/i3lock
+/usr/bin/i3lock
+/usr/share/licenses/i3lock-color/LICENSE
+/usr/share/man/man1/i3lock.1

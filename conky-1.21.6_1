@@ -1,0 +1,14 @@
+/etc/conky/conky.conf
+/etc/conky/conky_no_x11.conf
+/usr/bin/conky
+/usr/lib/conky/libcairo.so
+/usr/lib/conky/libcairo_imlib2_helper.so
+/usr/lib/conky/libcairo_xlib.so
+/usr/lib/conky/libimlib2.so
+/usr/lib/conky/librsvg.so
+/usr/lib/libconky_core.a
+/usr/lib/libtcp-portmon.a
+/usr/share/applications/conky.desktop
+/usr/share/icons/hicolor/scalable/apps/conky-logomark-violet.svg
+/usr/share/licenses/conky/COPYING
+/usr/share/man/man1/conky.1

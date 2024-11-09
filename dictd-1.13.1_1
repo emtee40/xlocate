@@ -1,0 +1,32 @@
+/etc/dict/dictd.conf
+/etc/dict/site.info
+/etc/sv/dictd/log/run
+/etc/sv/dictd/log/supervise -> /run/runit/supervise.dictd-log
+/etc/sv/dictd/run
+/etc/sv/dictd/supervise -> /run/runit/supervise.dictd
+/etc/xinetd.d/dictd
+/usr/bin/dictd
+/usr/bin/dictdplugin-config
+/usr/bin/dictfmt
+/usr/bin/dictfmt_index2suffix
+/usr/bin/dictfmt_index2word
+/usr/bin/dictunformat
+/usr/bin/dictzip
+/usr/include/dictdplugin.h
+/usr/share/examples/dictd/dictd1.conf
+/usr/share/examples/dictd/dictd2.conf
+/usr/share/examples/dictd/dictd3.conf
+/usr/share/examples/dictd/dictd4.conf
+/usr/share/examples/dictd/dictd_complex.conf
+/usr/share/examples/dictd/dictd_mime.conf
+/usr/share/examples/dictd/dictd_plugin_dbi.conf
+/usr/share/examples/dictd/dictd_popen.conf
+/usr/share/examples/dictd/dictd_popen.conf.in
+/usr/share/examples/dictd/dictd_site.txt
+/usr/share/examples/dictd/dictd_virtual.conf
+/usr/share/man/man1/dictfmt.1
+/usr/share/man/man1/dictfmt_index2suffix.1
+/usr/share/man/man1/dictfmt_index2word.1
+/usr/share/man/man1/dictunformat.1
+/usr/share/man/man1/dictzip.1
+/usr/share/man/man8/dictd.8

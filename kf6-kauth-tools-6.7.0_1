@@ -1,0 +1,3 @@
+/usr/lib/cmake/KF6Auth/KF6AuthToolsTargets-none.cmake
+/usr/lib/cmake/KF6Auth/KF6AuthToolsTargets.cmake
+/usr/libexec/kf6/kauth/kauth-policy-gen

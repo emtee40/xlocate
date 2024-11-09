@@ -1,0 +1,21 @@
+/usr/include/planarity/appconst.h
+/usr/include/planarity/graph.h
+/usr/include/planarity/graphDrawPlanar.h
+/usr/include/planarity/graphDrawPlanar.private.h
+/usr/include/planarity/graphExtensions.h
+/usr/include/planarity/graphExtensions.private.h
+/usr/include/planarity/graphFunctionTable.h
+/usr/include/planarity/graphK23Search.h
+/usr/include/planarity/graphK23Search.private.h
+/usr/include/planarity/graphK33Search.h
+/usr/include/planarity/graphK33Search.private.h
+/usr/include/planarity/graphK4Search.h
+/usr/include/planarity/graphK4Search.private.h
+/usr/include/planarity/graphStructures.h
+/usr/include/planarity/listcoll.h
+/usr/include/planarity/planarity.h
+/usr/include/planarity/platformTime.h
+/usr/include/planarity/stack.h
+/usr/include/planarity/strbuf.h
+/usr/lib/libplanarity.a
+/usr/lib/libplanarity.so -> /usr/lib/libplanarity.so.0.1.0

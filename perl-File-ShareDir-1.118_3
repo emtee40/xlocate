@@ -1,0 +1,5 @@
+/usr/share/man/man3/File::ShareDir.3p
+/usr/share/perl5/vendor_perl/File/ShareDir.pm
+/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir/sample.txt
+/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir/subdir/sample.txt
+/usr/share/perl5/vendor_perl/auto/share/module/File-ShareDir/test_file.txt

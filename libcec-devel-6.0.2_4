@@ -1,0 +1,8 @@
+/usr/include/libcec/cec.h
+/usr/include/libcec/cecc.h
+/usr/include/libcec/ceccloader.h
+/usr/include/libcec/cecloader.h
+/usr/include/libcec/cectypes.h
+/usr/include/libcec/version.h
+/usr/lib/libcec.so -> /usr/lib/libcec.so.6
+/usr/lib/pkgconfig/libcec.pc

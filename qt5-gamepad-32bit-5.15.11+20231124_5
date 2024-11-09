@@ -1,0 +1,6 @@
+/usr/lib32/libQt5Gamepad.so.5 -> /usr/lib32/libQt5Gamepad.so.5.15.11
+/usr/lib32/libQt5Gamepad.so.5.15 -> /usr/lib32/libQt5Gamepad.so.5.15.11
+/usr/lib32/libQt5Gamepad.so.5.15.11
+/usr/lib32/qt5/plugins/gamepads/libevdevgamepad.so
+/usr/lib32/qt5/plugins/gamepads/libsdl2gamepad.so
+/usr/lib32/qt5/qml/QtGamepad/libdeclarative_gamepad.so

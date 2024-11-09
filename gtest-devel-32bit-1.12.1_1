@@ -1,0 +1,8 @@
+/usr/lib32/libgmock.so -> /usr/lib32/libgmock.so.1.12.1
+/usr/lib32/libgmock_main.so -> /usr/lib32/libgmock_main.so.1.12.1
+/usr/lib32/libgtest.so -> /usr/lib32/libgtest.so.1.12.1
+/usr/lib32/libgtest_main.so -> /usr/lib32/libgtest_main.so.1.12.1
+/usr/lib32/pkgconfig/gmock.pc
+/usr/lib32/pkgconfig/gmock_main.pc
+/usr/lib32/pkgconfig/gtest.pc
+/usr/lib32/pkgconfig/gtest_main.pc

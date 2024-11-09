@@ -1,0 +1,3 @@
+/usr/lib32/libssh2.a
+/usr/lib32/libssh2.so -> /usr/lib32/libssh2.so.1
+/usr/lib32/pkgconfig/libssh2.pc

@@ -1,0 +1,3 @@
+/usr/lib32/libyajl.so -> /usr/lib32/libyajl.so.2
+/usr/lib32/libyajl_s.a
+/usr/lib32/pkgconfig/yajl.pc

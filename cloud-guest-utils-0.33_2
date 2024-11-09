@@ -1,0 +1,6 @@
+/etc/default/growpart
+/etc/runit/core-services/10-resize-root.sh
+/usr/bin/growpart
+/usr/bin/vcs-run
+/usr/share/doc/cloud-guest-utils/README.voidlinux
+/usr/share/man/man1/growpart.1

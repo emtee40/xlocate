@@ -1,0 +1,6 @@
+/usr/bin/mbim-network
+/usr/bin/mbimcli
+/usr/lib/girepository-1.0/Mbim-1.0.typelib
+/usr/lib/libmbim-glib.so.4 -> /usr/lib/libmbim-glib.so.4.6.0
+/usr/lib/libmbim-glib.so.4.6.0
+/usr/libexec/mbim-proxy

@@ -1,0 +1,4 @@
+/usr/bin/kind
+/usr/share/bash-completion/completions/kind
+/usr/share/fish/vendor_completions.d/kind.fish
+/usr/share/zsh/site-functions/_kind

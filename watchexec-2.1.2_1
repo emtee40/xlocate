@@ -1,0 +1,5 @@
+/usr/bin/watchexec
+/usr/share/bash-completion/completions/watchexec
+/usr/share/fish/vendor_completions.d/watchexec.fish
+/usr/share/man/man1/watchexec.1
+/usr/share/zsh/site-functions/_watchexec

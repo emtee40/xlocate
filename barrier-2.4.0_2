@@ -1,0 +1,14 @@
+/etc/sv/barrierc/log/run
+/etc/sv/barrierc/log/supervise -> /run/runit/supervise.barrierc-log
+/etc/sv/barrierc/run
+/etc/sv/barrierc/supervise -> /run/runit/supervise.barrierc
+/etc/sv/barriers/log/run
+/etc/sv/barriers/log/supervise -> /run/runit/supervise.barriers-log
+/etc/sv/barriers/run
+/etc/sv/barriers/supervise -> /run/runit/supervise.barriers
+/usr/bin/barrierc
+/usr/bin/barriers
+/usr/share/examples/barrier/barrier.conf.example
+/usr/share/examples/barrier/barrier.conf.example-advanced
+/usr/share/examples/barrier/barrier.conf.example-barebones
+/usr/share/examples/barrier/barrier.conf.example-basic

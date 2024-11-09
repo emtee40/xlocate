@@ -1,0 +1,3 @@
+/usr/lib32/libgts.a
+/usr/lib32/libgts.so -> /usr/lib32/libgts-0.7.so.5.0.1
+/usr/lib32/pkgconfig/gts.pc

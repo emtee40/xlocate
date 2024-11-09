@@ -1,0 +1,87 @@
+/etc/exports
+/etc/sv/nfs-server/finish
+/etc/sv/nfs-server/log/run
+/etc/sv/nfs-server/log/supervise -> /run/runit/supervise.nfs-server-log
+/etc/sv/nfs-server/run
+/etc/sv/nfs-server/supervise -> /run/runit/supervise.nfs-server
+/etc/sv/rpcblkmapd/log/run
+/etc/sv/rpcblkmapd/log/supervise -> /run/runit/supervise.rpcblkmapd-log
+/etc/sv/rpcblkmapd/run
+/etc/sv/rpcblkmapd/supervise -> /run/runit/supervise.rpcblkmapd
+/etc/sv/rpcgssd/log/run
+/etc/sv/rpcgssd/log/supervise -> /run/runit/supervise.rpcgssd-log
+/etc/sv/rpcgssd/run
+/etc/sv/rpcgssd/supervise -> /run/runit/supervise.rpcgssd
+/etc/sv/rpcsvcgssd/log/run
+/etc/sv/rpcsvcgssd/log/supervise -> /run/runit/supervise.rpcsvcgssd-log
+/etc/sv/rpcsvcgssd/run
+/etc/sv/rpcsvcgssd/supervise -> /run/runit/supervise.rpcsvcgssd
+/etc/sv/statd/log/run
+/etc/sv/statd/log/supervise -> /run/runit/supervise.statd-log
+/etc/sv/statd/run
+/etc/sv/statd/supervise -> /run/runit/supervise.statd
+/usr/bin/blkmapd
+/usr/bin/exportfs
+/usr/bin/fsidd
+/usr/bin/mount.nfs
+/usr/bin/mount.nfs4 -> /usr/bin/mount.nfs
+/usr/bin/mountstats
+/usr/bin/nfsconf
+/usr/bin/nfsdcld
+/usr/bin/nfsdclddb
+/usr/bin/nfsdclnts
+/usr/bin/nfsdcltrack
+/usr/bin/nfsidmap
+/usr/bin/nfsiostat
+/usr/bin/nfsref
+/usr/bin/nfsstat
+/usr/bin/rpc.gssd
+/usr/bin/rpc.mountd
+/usr/bin/rpc.nfsd
+/usr/bin/rpc.statd
+/usr/bin/rpc.svcgssd
+/usr/bin/rpcctl
+/usr/bin/rpcdebug
+/usr/bin/showmount
+/usr/bin/sm-notify
+/usr/bin/start-statd
+/usr/bin/umount.nfs -> /usr/bin/mount.nfs
+/usr/bin/umount.nfs4 -> /usr/bin/mount.nfs
+/usr/lib/udev/rules.d/99-nfs.rules
+/usr/libexec/nfsrahead
+/usr/share/man/man5/exports.5
+/usr/share/man/man5/nfs.5
+/usr/share/man/man5/nfs.conf.5
+/usr/share/man/man5/nfsmount.conf.5
+/usr/share/man/man5/nfsrahead.5
+/usr/share/man/man7/nfs.systemd.7
+/usr/share/man/man7/nfsd.7
+/usr/share/man/man8/blkmapd.8
+/usr/share/man/man8/exportfs.8
+/usr/share/man/man8/gssd.8
+/usr/share/man/man8/mount.nfs.8
+/usr/share/man/man8/mountd.8
+/usr/share/man/man8/mountstats.8
+/usr/share/man/man8/nfsconf.8
+/usr/share/man/man8/nfsd.8
+/usr/share/man/man8/nfsdcld.8
+/usr/share/man/man8/nfsdclddb.8
+/usr/share/man/man8/nfsdclnts.8
+/usr/share/man/man8/nfsdcltrack.8
+/usr/share/man/man8/nfsidmap.8
+/usr/share/man/man8/nfsiostat.8
+/usr/share/man/man8/nfsref.8
+/usr/share/man/man8/nfsstat.8
+/usr/share/man/man8/rpc.gssd.8 -> /usr/share/man/man8/gssd.8
+/usr/share/man/man8/rpc.mountd.8 -> /usr/share/man/man8/mountd.8
+/usr/share/man/man8/rpc.nfsd.8 -> /usr/share/man/man8/nfsd.8
+/usr/share/man/man8/rpc.sm-notify.8 -> /usr/share/man/man8/sm-notify.8
+/usr/share/man/man8/rpc.statd.8 -> /usr/share/man/man8/statd.8
+/usr/share/man/man8/rpc.svcgssd.8 -> /usr/share/man/man8/svcgssd.8
+/usr/share/man/man8/rpcctl.8
+/usr/share/man/man8/rpcdebug.8
+/usr/share/man/man8/showmount.8
+/usr/share/man/man8/sm-notify.8
+/usr/share/man/man8/statd.8
+/usr/share/man/man8/svcgssd.8
+/usr/share/man/man8/umount.nfs.8

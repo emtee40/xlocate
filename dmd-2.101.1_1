@@ -1,0 +1,4 @@
+/etc/dmd.conf
+/usr/bin/dmd
+/usr/share/man/man1/dmd.1
+/usr/share/man/man5/dmd.conf.5

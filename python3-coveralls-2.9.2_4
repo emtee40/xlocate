@@ -1,0 +1,13 @@
+/usr/bin/coveralls
+/usr/lib/python3.12/site-packages/coveralls/__init__.py
+/usr/lib/python3.12/site-packages/coveralls/api.py
+/usr/lib/python3.12/site-packages/coveralls/control.py
+/usr/lib/python3.12/site-packages/coveralls/report.py
+/usr/lib/python3.12/site-packages/coveralls/repository.py
+/usr/lib/python3.12/site-packages/coveralls/tests.py
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/python_coveralls-2.9.2-py3.12.egg-info/top_level.txt

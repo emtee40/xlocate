@@ -1,0 +1,19 @@
+/etc/sv/lsyncd/log/run
+/etc/sv/lsyncd/log/supervise -> /run/runit/supervise.lsyncd-log
+/etc/sv/lsyncd/run
+/etc/sv/lsyncd/supervise -> /run/runit/supervise.lsyncd
+/usr/bin/lsyncd
+/usr/share/examples/lsyncd/lalarm.lua
+/usr/share/examples/lsyncd/lbash.lua
+/usr/share/examples/lsyncd/lecho.lua
+/usr/share/examples/lsyncd/lftp.lua
+/usr/share/examples/lsyncd/lgforce.lua
+/usr/share/examples/lsyncd/limagemagic.lua
+/usr/share/examples/lsyncd/lpostcmd.lua
+/usr/share/examples/lsyncd/lrsync.lua
+/usr/share/examples/lsyncd/lrsyncssh-advanced.lua
+/usr/share/examples/lsyncd/lrsyncssh-tunnel.lua
+/usr/share/examples/lsyncd/lrsyncssh.lua
+/usr/share/examples/lsyncd/ls3.lua
+/usr/share/examples/lsyncd/lsayirc.lua
+/usr/share/man/man1/lsyncd.1

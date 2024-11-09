@@ -1,0 +1,3 @@
+/usr/lib32/libfido2.a
+/usr/lib32/libfido2.so -> /usr/lib32/libfido2.so.1
+/usr/lib32/pkgconfig/libfido2.pc

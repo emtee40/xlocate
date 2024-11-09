@@ -1,0 +1,3 @@
+/usr/include/libcli.h
+/usr/lib/libcli.a
+/usr/lib/libcli.so -> /usr/lib/libcli.so.1.10

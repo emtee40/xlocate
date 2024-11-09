@@ -1,0 +1,11 @@
+/etc/ipp-usb/ipp-usb.conf
+/etc/sv/ipp-usb/log/run
+/etc/sv/ipp-usb/log/supervise -> /run/runit/supervise.ipp-usb-log
+/etc/sv/ipp-usb/run
+/etc/sv/ipp-usb/supervise -> /run/runit/supervise.ipp-usb
+/usr/bin/ipp-usb
+/usr/share/doc/ipp-usb/71-ipp-usb.rules
+/usr/share/doc/ipp-usb/README.md
+/usr/share/doc/ipp-usb/README.voidlinux
+/usr/share/licenses/ipp-usb/LICENSE
+/usr/share/man/man8/ipp-usb.8

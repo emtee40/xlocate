@@ -1,0 +1,13 @@
+/etc/biosdisk.conf
+/usr/bin/biosdisk
+/usr/share/biosdisk/42_biosdisk
+/usr/share/biosdisk/freedos-iso/boot.catalog
+/usr/share/biosdisk/freedos-iso/freedos/licences.txt
+/usr/share/biosdisk/freedos-iso/freedos/setup/odin/ctmouse.exe
+/usr/share/biosdisk/freedos-iso/isolinux/boot.cat
+/usr/share/biosdisk/freedos-iso/isolinux/data/fdboot.img
+/usr/share/biosdisk/freedos-iso/isolinux/data/memdisk
+/usr/share/biosdisk/freedos-iso/isolinux/isolinux.bin
+/usr/share/biosdisk/freedos-iso/isolinux/isolinux.cfg
+/usr/share/biosdisk/freedos-iso/setup.bat
+/usr/share/man/man8/biosdisk.8

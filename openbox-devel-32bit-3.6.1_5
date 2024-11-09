@@ -1,0 +1,6 @@
+/usr/lib32/libobrender.a
+/usr/lib32/libobrender.so -> /usr/lib32/libobrender.so.32.0.0
+/usr/lib32/libobt.a
+/usr/lib32/libobt.so -> /usr/lib32/libobt.so.2.0.2
+/usr/lib32/pkgconfig/obrender-3.5.pc
+/usr/lib32/pkgconfig/obt-3.5.pc

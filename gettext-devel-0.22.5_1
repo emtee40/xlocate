@@ -1,0 +1,22 @@
+/usr/include/gettext-po.h
+/usr/include/textstyle.h
+/usr/include/textstyle/stdbool.h
+/usr/include/textstyle/version.h
+/usr/include/textstyle/woe32dll.h
+/usr/lib/libgettextlib.a
+/usr/lib/libgettextlib.so -> /usr/lib/libgettextlib-0.22.5.so
+/usr/lib/libgettextpo.a
+/usr/lib/libgettextpo.so -> /usr/lib/libgettextpo.so.0.5.10
+/usr/lib/libgettextsrc.a
+/usr/lib/libgettextsrc.so -> /usr/lib/libgettextsrc-0.22.5.so
+/usr/lib/libtextstyle.a
+/usr/lib/libtextstyle.so -> /usr/lib/libtextstyle.so.0.2.1
+/usr/share/man/man3/bind_textdomain_codeset.3
+/usr/share/man/man3/bindtextdomain.3
+/usr/share/man/man3/dcgettext.3
+/usr/share/man/man3/dcngettext.3
+/usr/share/man/man3/dgettext.3
+/usr/share/man/man3/dngettext.3
+/usr/share/man/man3/gettext.3
+/usr/share/man/man3/ngettext.3
+/usr/share/man/man3/textdomain.3

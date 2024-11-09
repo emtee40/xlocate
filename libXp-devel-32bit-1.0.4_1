@@ -1,0 +1,3 @@
+/usr/lib32/libXp.a
+/usr/lib32/libXp.so -> /usr/lib32/libXp.so.6.2.0
+/usr/lib32/pkgconfig/xp.pc

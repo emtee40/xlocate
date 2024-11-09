@@ -1,0 +1,7 @@
+/usr/include/bcg729/decoder.h
+/usr/include/bcg729/encoder.h
+/usr/lib/cmake/Bcg729/Bcg729Config.cmake
+/usr/lib/cmake/Bcg729/Bcg729ConfigVersion.cmake
+/usr/lib/cmake/Bcg729/Bcg729Targets-none.cmake
+/usr/lib/cmake/Bcg729/Bcg729Targets.cmake
+/usr/lib/libbcg729.so -> /usr/lib/libbcg729.so.0

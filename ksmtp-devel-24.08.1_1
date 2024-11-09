@@ -1,0 +1,17 @@
+/usr/include/KPim6/KSMTP/KSMTP/Job
+/usr/include/KPim6/KSMTP/KSMTP/LoginJob
+/usr/include/KPim6/KSMTP/KSMTP/SendJob
+/usr/include/KPim6/KSMTP/KSMTP/Session
+/usr/include/KPim6/KSMTP/KSMTP/SessionUiProxy
+/usr/include/KPim6/KSMTP/ksmtp/job.h
+/usr/include/KPim6/KSMTP/ksmtp/ksmtp_export.h
+/usr/include/KPim6/KSMTP/ksmtp/loginjob.h
+/usr/include/KPim6/KSMTP/ksmtp/sendjob.h
+/usr/include/KPim6/KSMTP/ksmtp/session.h
+/usr/include/KPim6/KSMTP/ksmtp/sessionuiproxy.h
+/usr/include/KPim6/KSMTP/ksmtp_version.h
+/usr/lib/cmake/KPim6SMTP/KPim6SMTPConfig.cmake
+/usr/lib/cmake/KPim6SMTP/KPim6SMTPConfigVersion.cmake
+/usr/lib/cmake/KPim6SMTP/KPim6SMTPTargets-none.cmake
+/usr/lib/cmake/KPim6SMTP/KPim6SMTPTargets.cmake
+/usr/lib/libKPim6SMTP.so -> /usr/lib/libKPim6SMTP.so.6

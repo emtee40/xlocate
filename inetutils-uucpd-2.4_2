@@ -1,0 +1,3 @@
+/etc/xinetd.d/uucp
+/usr/bin/uucpd
+/usr/share/man/man8/uucpd.8

@@ -1,0 +1,6 @@
+/etc/sv/espeakup/log/run
+/etc/sv/espeakup/log/supervise -> /run/runit/supervise.espeakup-log
+/etc/sv/espeakup/run
+/etc/sv/espeakup/supervise -> /run/runit/supervise.espeakup
+/usr/bin/espeakup
+/usr/share/man/man8/espeakup.8

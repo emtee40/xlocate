@@ -1,0 +1,4 @@
+/usr/lib32/libusrsctp.so -> /usr/lib32/libusrsctp.so.2
+/usr/lib32/libusrsctp.so.2 -> /usr/lib32/libusrsctp.so.2.0.0
+/usr/lib32/libusrsctp.so.2.0.0
+/usr/lib32/pkgconfig/usrsctp.pc

@@ -1,0 +1,9 @@
+/etc/fastd/fastd.conf
+/etc/fastd/secret.conf
+/etc/sv/fastd/log/run
+/etc/sv/fastd/log/supervise -> /run/runit/supervise.fastd-log
+/etc/sv/fastd/run
+/etc/sv/fastd/supervise -> /run/runit/supervise.fastd
+/usr/bin/fastd
+/usr/share/licenses/fastd/COPYRIGHT
+/usr/share/man/man1/fastd.1

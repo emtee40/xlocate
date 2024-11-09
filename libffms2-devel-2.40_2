@@ -1,0 +1,4 @@
+/usr/include/ffms.h
+/usr/include/ffmscompat.h
+/usr/lib/libffms2.so -> /usr/lib/libffms2.so.4.0.0
+/usr/lib/pkgconfig/ffms2.pc

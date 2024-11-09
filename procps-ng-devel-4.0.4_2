@@ -1,0 +1,14 @@
+/usr/include/libproc2/diskstats.h
+/usr/include/libproc2/meminfo.h
+/usr/include/libproc2/misc.h
+/usr/include/libproc2/pids.h
+/usr/include/libproc2/slabinfo.h
+/usr/include/libproc2/stat.h
+/usr/include/libproc2/vmstat.h
+/usr/include/libproc2/xtra-procps-debug.h
+/usr/lib/libproc2.a
+/usr/lib/libproc2.so -> /usr/lib/libproc2.so.0.0.2
+/usr/lib/pkgconfig/libproc2.pc
+/usr/share/man/man3/procps.3
+/usr/share/man/man3/procps_misc.3
+/usr/share/man/man3/procps_pids.3

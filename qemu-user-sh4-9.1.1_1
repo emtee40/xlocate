@@ -1,0 +1,3 @@
+/usr/bin/qemu-sh4
+/usr/bin/qemu-sh4-static -> /usr/bin/qemu-sh4
+/usr/share/binfmts/qemu-sh4

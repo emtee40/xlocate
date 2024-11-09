@@ -1,0 +1,5 @@
+/etc/pam.d/fscrypt
+/usr/bin/fscrypt
+/usr/lib/security/pam_fscrypt.so
+/usr/share/bash-completion/completions/fscrypt
+/usr/share/doc/fscrypt/README.md

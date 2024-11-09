@@ -1,0 +1,8 @@
+/usr/bin/cachedel
+/usr/bin/cachestats
+/usr/bin/nocache
+/usr/lib/nocache.so
+/usr/share/licenses/nocache/COPYING
+/usr/share/man/man1/cachedel.1
+/usr/share/man/man1/cachestats.1
+/usr/share/man/man1/nocache.1

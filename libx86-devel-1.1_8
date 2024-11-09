@@ -1,0 +1,3 @@
+/usr/include/libx86.h
+/usr/lib/libx86.a
+/usr/lib/libx86.so -> /usr/lib/libx86.so.1

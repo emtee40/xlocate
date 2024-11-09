@@ -1,0 +1,5 @@
+/usr/bin/ledger
+/usr/lib/lib64 -> /usr/lib/lib
+/usr/share/bash-completion/completions/ledger
+/usr/share/licenses/ledger/LICENSE.md
+/usr/share/man/man1/ledger.1

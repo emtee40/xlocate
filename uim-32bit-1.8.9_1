@@ -1,0 +1,13 @@
+/usr/lib32/libuim-custom.so.2 -> /usr/lib32/libuim-custom.so.2.1.0
+/usr/lib32/libuim-custom.so.2.1.0
+/usr/lib32/libuim-scm.so.0 -> /usr/lib32/libuim-scm.so.0.1.0
+/usr/lib32/libuim-scm.so.0.1.0
+/usr/lib32/libuim.so.8 -> /usr/lib32/libuim.so.8.0.0
+/usr/lib32/libuim.so.8.0.0
+/usr/lib32/uim/plugin/libuim-custom-enabler.so
+/usr/lib32/uim/plugin/libuim-fileio.so
+/usr/lib32/uim/plugin/libuim-lolevel.so
+/usr/lib32/uim/plugin/libuim-look.so
+/usr/lib32/uim/plugin/libuim-process.so
+/usr/lib32/uim/plugin/libuim-socket.so
+/usr/lib32/uim/plugin/libuim-xkb.so

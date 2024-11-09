@@ -1,0 +1,5 @@
+/usr/bin/sqv
+/usr/share/bash-completion/completions/sequoia-sqv
+/usr/share/fish/vendor_completions.d/sequoia-sqv.fish
+/usr/share/man/man1/sqv.1
+/usr/share/zsh/site-functions/_sequoia-sqv

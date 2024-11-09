@@ -1,0 +1,5 @@
+/usr/include/sombok.h
+/usr/include/sombok_constants.h
+/usr/lib/libsombok.a
+/usr/lib/libsombok.so -> /usr/lib/libsombok.so.3.1.7
+/usr/lib/pkgconfig/sombok.pc

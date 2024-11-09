@@ -1,0 +1,18 @@
+/usr/lib32/apl/lib_file_io.a
+/usr/lib32/apl/lib_file_io.so
+/usr/lib32/apl/lib_sql.a
+/usr/lib32/apl/lib_sql.so -> /usr/lib32/apl/lib_sql.so.0.0.0
+/usr/lib32/apl/lib_sql.so.0 -> /usr/lib32/apl/lib_sql.so.0.0.0
+/usr/lib32/apl/lib_sql.so.0.0.0
+/usr/lib32/apl/lib_template_F0.a
+/usr/lib32/apl/lib_template_F0.so
+/usr/lib32/apl/lib_template_F12.a
+/usr/lib32/apl/lib_template_F12.so
+/usr/lib32/apl/lib_template_OP1.a
+/usr/lib32/apl/lib_template_OP1.so
+/usr/lib32/apl/lib_template_OP2.a
+/usr/lib32/apl/lib_template_OP2.so
+/usr/lib32/apl/libemacs.a
+/usr/lib32/apl/libemacs.so -> /usr/lib32/apl/libemacs.so.0.0.0
+/usr/lib32/apl/libemacs.so.0 -> /usr/lib32/apl/libemacs.so.0.0.0
+/usr/lib32/apl/libemacs.so.0.0.0

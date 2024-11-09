@@ -1,0 +1,4 @@
+/usr/lib/libitm.a
+/usr/lib/libitm.so -> /usr/lib/libitm.so.1.0.0
+/usr/lib/libitm.spec
+/usr/share/info/libitm.info.gz

@@ -1,0 +1,5 @@
+/usr/lib/libsvn_auth_kwallet-1.so -> /usr/lib/libsvn_auth_kwallet-1.so.0.0.0
+/usr/lib/libsvn_auth_kwallet-1.so.0 -> /usr/lib/libsvn_auth_kwallet-1.so.0.0.0
+/usr/lib/libsvn_auth_kwallet-1.so.0.0.0
+/usr/share/licenses/subversion-kwallet-auth/LICENSE
+/usr/share/pkgconfig/libsvn_auth_kwallet.pc

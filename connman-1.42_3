@@ -1,0 +1,27 @@
+/etc/sv/connmand/log/run
+/etc/sv/connmand/log/supervise -> /run/runit/supervise.connmand-log
+/etc/sv/connmand/run
+/etc/sv/connmand/supervise -> /run/runit/supervise.connmand
+/usr/bin/connman-vpnd
+/usr/bin/connmanctl
+/usr/bin/connmand
+/usr/bin/connmand-wait-online
+/usr/lib/connman/plugins-vpn/openconnect.so
+/usr/lib/connman/plugins-vpn/openvpn.so
+/usr/lib/connman/plugins-vpn/wireguard.so
+/usr/lib/connman/scripts/openvpn-script
+/usr/lib/connman/scripts/vpn-script
+/usr/share/dbus-1/system-services/net.connman.vpn.service
+/usr/share/dbus-1/system.d/connman-nmcompat.conf
+/usr/share/dbus-1/system.d/connman-vpn-dbus.conf
+/usr/share/dbus-1/system.d/connman.conf
+/usr/share/dbus-1/system.d/connmand.conf
+/usr/share/man/man1/connmanctl.1
+/usr/share/man/man5/connman-service.config.5
+/usr/share/man/man5/connman-vpn-provider.config.5
+/usr/share/man/man5/connman-vpn.conf.5
+/usr/share/man/man5/connman.conf.5
+/usr/share/man/man8/connman-vpn.8
+/usr/share/man/man8/connman.8
+/usr/share/polkit-1/actions/net.connman.policy
+/usr/share/polkit-1/actions/net.connman.vpn.policy

@@ -1,0 +1,12 @@
+/usr/include/nrsc5/api.h
+/usr/include/nrsc5/hdc_encoder.h
+/usr/include/nrsc5/l1_am_encoder.h
+/usr/include/nrsc5/l1_fm_encoder.h
+/usr/include/nrsc5/l2_encoder.h
+/usr/include/nrsc5/psd_encoder.h
+/usr/include/nrsc5/sis_encoder.h
+/usr/lib/cmake/nrsc5/gnuradio-nrsc5Config.cmake
+/usr/lib/cmake/nrsc5/gnuradio-nrsc5Targets-none.cmake
+/usr/lib/cmake/nrsc5/gnuradio-nrsc5Targets.cmake
+/usr/lib/cmake/nrsc5/nrsc5Config.cmake
+/usr/lib/libgnuradio-nrsc5.so -> /usr/lib/libgnuradio-nrsc5.so.2.0.0git

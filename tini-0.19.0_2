@@ -1,0 +1,4 @@
+/usr/bin/docker-init -> /usr/bin/tini-static
+/usr/bin/tini
+/usr/bin/tini-static
+/usr/share/licenses/tini/LICENSE

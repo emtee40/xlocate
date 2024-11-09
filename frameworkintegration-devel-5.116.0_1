@@ -1,0 +1,9 @@
+/usr/include/KF5/FrameworkIntegration/frameworkintegration_version.h
+/usr/include/KF5/KStyle/KStyle
+/usr/include/KF5/KStyle/kstyle.h
+/usr/include/KF5/KStyle/kstyle_export.h
+/usr/lib/cmake/KF5FrameworkIntegration/KF5FrameworkIntegrationConfig.cmake
+/usr/lib/cmake/KF5FrameworkIntegration/KF5FrameworkIntegrationConfigVersion.cmake
+/usr/lib/cmake/KF5FrameworkIntegration/KF5FrameworkIntegrationTargets-none.cmake
+/usr/lib/cmake/KF5FrameworkIntegration/KF5FrameworkIntegrationTargets.cmake
+/usr/lib/libKF5Style.so -> /usr/lib/libKF5Style.so.5

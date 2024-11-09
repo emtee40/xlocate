@@ -1,0 +1,6 @@
+/usr/bin/JxrDecApp
+/usr/bin/JxrEncApp
+/usr/lib/libjpegxr.so.0 -> /usr/lib/libjpegxr.so.1.1
+/usr/lib/libjpegxr.so.1.1
+/usr/lib/libjxrglue.so.0 -> /usr/lib/libjxrglue.so.1.1
+/usr/lib/libjxrglue.so.1.1

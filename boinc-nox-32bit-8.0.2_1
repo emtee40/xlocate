@@ -1,0 +1,11 @@
+/usr/lib32/libboinc_api.so.8 -> /usr/lib32/libboinc_api.so.8.0.2
+/usr/lib32/libboinc_api.so.8.0.2
+/usr/lib32/libboinc_graphics2.so.8 -> /usr/lib32/libboinc_graphics2.so.8.0.2
+/usr/lib32/libboinc_graphics2.so.8.0.2
+/usr/lib32/libboinc_opencl.so.8 -> /usr/lib32/libboinc_opencl.so.8.0.2
+/usr/lib32/libboinc_opencl.so.8.0.2
+/usr/lib32/pkgconfig/libboinc.pc
+/usr/lib32/pkgconfig/libboinc_api.pc
+/usr/lib32/pkgconfig/libboinc_crypt.pc
+/usr/lib32/pkgconfig/libboinc_graphics2.pc
+/usr/lib32/pkgconfig/libboinc_opencl.pc

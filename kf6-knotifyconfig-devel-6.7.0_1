@@ -1,0 +1,9 @@
+/usr/include/KF6/KNotifyConfig/KNotifyConfigWidget
+/usr/include/KF6/KNotifyConfig/knotifyconfig_export.h
+/usr/include/KF6/KNotifyConfig/knotifyconfig_version.h
+/usr/include/KF6/KNotifyConfig/knotifyconfigwidget.h
+/usr/lib/cmake/KF6NotifyConfig/KF6NotifyConfigConfig.cmake
+/usr/lib/cmake/KF6NotifyConfig/KF6NotifyConfigConfigVersion.cmake
+/usr/lib/cmake/KF6NotifyConfig/KF6NotifyConfigTargets-none.cmake
+/usr/lib/cmake/KF6NotifyConfig/KF6NotifyConfigTargets.cmake
+/usr/lib/libKF6NotifyConfig.so -> /usr/lib/libKF6NotifyConfig.so.6

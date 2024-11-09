@@ -1,0 +1,45 @@
+/usr/lib32/libxmlrpc++.so.8 -> /usr/lib32/libxmlrpc++.so.8.51
+/usr/lib32/libxmlrpc++.so.8.51
+/usr/lib32/libxmlrpc.so.3 -> /usr/lib32/libxmlrpc.so.3.51
+/usr/lib32/libxmlrpc.so.3.51
+/usr/lib32/libxmlrpc_abyss++.so.8 -> /usr/lib32/libxmlrpc_abyss++.so.8.51
+/usr/lib32/libxmlrpc_abyss++.so.8.51
+/usr/lib32/libxmlrpc_abyss.so.3 -> /usr/lib32/libxmlrpc_abyss.so.3.51
+/usr/lib32/libxmlrpc_abyss.so.3.51
+/usr/lib32/libxmlrpc_client++.so.8 -> /usr/lib32/libxmlrpc_client++.so.8.51
+/usr/lib32/libxmlrpc_client++.so.8.51
+/usr/lib32/libxmlrpc_client.so.3 -> /usr/lib32/libxmlrpc_client.so.3.51
+/usr/lib32/libxmlrpc_client.so.3.51
+/usr/lib32/libxmlrpc_cpp.so.8 -> /usr/lib32/libxmlrpc_cpp.so.8.51
+/usr/lib32/libxmlrpc_cpp.so.8.51
+/usr/lib32/libxmlrpc_packetsocket.so.8 -> /usr/lib32/libxmlrpc_packetsocket.so.8.51
+/usr/lib32/libxmlrpc_packetsocket.so.8.51
+/usr/lib32/libxmlrpc_server++.so.8 -> /usr/lib32/libxmlrpc_server++.so.8.51
+/usr/lib32/libxmlrpc_server++.so.8.51
+/usr/lib32/libxmlrpc_server.so.3 -> /usr/lib32/libxmlrpc_server.so.3.51
+/usr/lib32/libxmlrpc_server.so.3.51
+/usr/lib32/libxmlrpc_server_abyss++.so.8 -> /usr/lib32/libxmlrpc_server_abyss++.so.8.51
+/usr/lib32/libxmlrpc_server_abyss++.so.8.51
+/usr/lib32/libxmlrpc_server_abyss.so.3 -> /usr/lib32/libxmlrpc_server_abyss.so.3.51
+/usr/lib32/libxmlrpc_server_abyss.so.3.51
+/usr/lib32/libxmlrpc_server_cgi++.so.8 -> /usr/lib32/libxmlrpc_server_cgi++.so.8.51
+/usr/lib32/libxmlrpc_server_cgi++.so.8.51
+/usr/lib32/libxmlrpc_server_pstream++.so.8 -> /usr/lib32/libxmlrpc_server_pstream++.so.8.51
+/usr/lib32/libxmlrpc_server_pstream++.so.8.51
+/usr/lib32/libxmlrpc_util++.so.8 -> /usr/lib32/libxmlrpc_util++.so.8.51
+/usr/lib32/libxmlrpc_util++.so.8.51
+/usr/lib32/libxmlrpc_util.so.4 -> /usr/lib32/libxmlrpc_util.so.4.51
+/usr/lib32/libxmlrpc_util.so.4.51
+/usr/lib32/pkgconfig/xmlrpc++.pc
+/usr/lib32/pkgconfig/xmlrpc.pc
+/usr/lib32/pkgconfig/xmlrpc_abyss++.pc
+/usr/lib32/pkgconfig/xmlrpc_abyss.pc
+/usr/lib32/pkgconfig/xmlrpc_client++.pc
+/usr/lib32/pkgconfig/xmlrpc_client.pc
+/usr/lib32/pkgconfig/xmlrpc_server++.pc
+/usr/lib32/pkgconfig/xmlrpc_server.pc
+/usr/lib32/pkgconfig/xmlrpc_server_abyss.pc
+/usr/lib32/pkgconfig/xmlrpc_server_cgi.pc
+/usr/lib32/pkgconfig/xmlrpc_server_pstream++.pc
+/usr/lib32/pkgconfig/xmlrpc_util++.pc
+/usr/lib32/pkgconfig/xmlrpc_util.pc

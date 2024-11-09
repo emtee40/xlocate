@@ -1,0 +1,4 @@
+/usr/lib32/libwebsockets.a
+/usr/lib32/libwebsockets.so -> /usr/lib32/libwebsockets.so.19
+/usr/lib32/pkgconfig/libwebsockets.pc
+/usr/lib32/pkgconfig/libwebsockets_static.pc

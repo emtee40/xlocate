@@ -1,0 +1,15 @@
+/usr/include/socket_wrapper.h
+/usr/lib/cmake/socket_wrapper/socket_wrapper-config-version.cmake
+/usr/lib/cmake/socket_wrapper/socket_wrapper-config.cmake
+/usr/lib/cmake/socket_wrapper/socket_wrapper_noop-config-none.cmake
+/usr/lib/cmake/socket_wrapper/socket_wrapper_noop-config.cmake
+/usr/lib/libsocket_wrapper.so -> /usr/lib/libsocket_wrapper.so.0
+/usr/lib/libsocket_wrapper.so.0 -> /usr/lib/libsocket_wrapper.so.0.4.1
+/usr/lib/libsocket_wrapper.so.0.4.1
+/usr/lib/libsocket_wrapper_noop.so -> /usr/lib/libsocket_wrapper_noop.so.0
+/usr/lib/libsocket_wrapper_noop.so.0 -> /usr/lib/libsocket_wrapper_noop.so.0.0.1
+/usr/lib/libsocket_wrapper_noop.so.0.0.1
+/usr/lib/pkgconfig/socket_wrapper.pc
+/usr/lib/pkgconfig/socket_wrapper_noop.pc
+/usr/share/licenses/socket_wrapper/LICENSE
+/usr/share/man/man1/socket_wrapper.1

@@ -1,0 +1,8 @@
+/usr/bin/iodbctest
+/usr/bin/iodbctestw
+/usr/lib/libiodbc.so.2 -> /usr/lib/libiodbc.so.2.1.25
+/usr/lib/libiodbc.so.2.1.25
+/usr/lib/libiodbcinst.so.2 -> /usr/lib/libiodbcinst.so.2.1.25
+/usr/lib/libiodbcinst.so.2.1.25
+/usr/share/man/man1/iodbctest.1
+/usr/share/man/man1/iodbctestw.1

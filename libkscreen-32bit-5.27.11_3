@@ -1,0 +1,9 @@
+/usr/lib32/libKF5Screen.so.5.27.11
+/usr/lib32/libKF5Screen.so.8 -> /usr/lib32/libKF5Screen.so.5.27.11
+/usr/lib32/libKF5ScreenDpms.so.5.27.11
+/usr/lib32/libKF5ScreenDpms.so.8 -> /usr/lib32/libKF5ScreenDpms.so.5.27.11
+/usr/lib32/qt5/plugins/kf5/kscreen/KSC_Fake.so
+/usr/lib32/qt5/plugins/kf5/kscreen/KSC_KWayland.so
+/usr/lib32/qt5/plugins/kf5/kscreen/KSC_QScreen.so
+/usr/lib32/qt5/plugins/kf5/kscreen/KSC_XRandR.so
+/usr/lib32/qt5/plugins/kf5/kscreen/KSC_XRandR11.so

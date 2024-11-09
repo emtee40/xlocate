@@ -1,0 +1,37 @@
+/usr/lib/libaddress_sorting.so.38 -> /usr/lib/libaddress_sorting.so.38.0.0
+/usr/lib/libaddress_sorting.so.38.0.0
+/usr/lib/libgpr.so.38 -> /usr/lib/libgpr.so.38.0.0
+/usr/lib/libgpr.so.38.0.0
+/usr/lib/libgrpc++.so.1.61 -> /usr/lib/libgrpc++.so.1.61.1
+/usr/lib/libgrpc++.so.1.61.1
+/usr/lib/libgrpc++_alts.so.1.61 -> /usr/lib/libgrpc++_alts.so.1.61.1
+/usr/lib/libgrpc++_alts.so.1.61.1
+/usr/lib/libgrpc++_error_details.so.1.61 -> /usr/lib/libgrpc++_error_details.so.1.61.1
+/usr/lib/libgrpc++_error_details.so.1.61.1
+/usr/lib/libgrpc++_reflection.so.1.61 -> /usr/lib/libgrpc++_reflection.so.1.61.1
+/usr/lib/libgrpc++_reflection.so.1.61.1
+/usr/lib/libgrpc++_unsecure.so.1.61 -> /usr/lib/libgrpc++_unsecure.so.1.61.1
+/usr/lib/libgrpc++_unsecure.so.1.61.1
+/usr/lib/libgrpc.so.38 -> /usr/lib/libgrpc.so.38.0.0
+/usr/lib/libgrpc.so.38.0.0
+/usr/lib/libgrpc_authorization_provider.so.1.61 -> /usr/lib/libgrpc_authorization_provider.so.1.61.1
+/usr/lib/libgrpc_authorization_provider.so.1.61.1
+/usr/lib/libgrpc_plugin_support.so.1.61 -> /usr/lib/libgrpc_plugin_support.so.1.61.1
+/usr/lib/libgrpc_plugin_support.so.1.61.1
+/usr/lib/libgrpc_unsecure.so.38 -> /usr/lib/libgrpc_unsecure.so.38.0.0
+/usr/lib/libgrpc_unsecure.so.38.0.0
+/usr/lib/libgrpcpp_channelz.so.1.61 -> /usr/lib/libgrpcpp_channelz.so.1.61.1
+/usr/lib/libgrpcpp_channelz.so.1.61.1
+/usr/lib/libupb_base_lib.so.38 -> /usr/lib/libupb_base_lib.so.38.0.0
+/usr/lib/libupb_base_lib.so.38.0.0
+/usr/lib/libupb_json_lib.so.38 -> /usr/lib/libupb_json_lib.so.38.0.0
+/usr/lib/libupb_json_lib.so.38.0.0
+/usr/lib/libupb_mem_lib.so.38 -> /usr/lib/libupb_mem_lib.so.38.0.0
+/usr/lib/libupb_mem_lib.so.38.0.0
+/usr/lib/libupb_message_lib.so.38 -> /usr/lib/libupb_message_lib.so.38.0.0
+/usr/lib/libupb_message_lib.so.38.0.0
+/usr/lib/libupb_textformat_lib.so.38 -> /usr/lib/libupb_textformat_lib.so.38.0.0
+/usr/lib/libupb_textformat_lib.so.38.0.0
+/usr/lib/libutf8_range_lib.so.38 -> /usr/lib/libutf8_range_lib.so.38.0.0
+/usr/lib/libutf8_range_lib.so.38.0.0
+/usr/share/grpc/roots.pem

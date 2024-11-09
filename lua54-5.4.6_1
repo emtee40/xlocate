@@ -1,0 +1,7 @@
+/usr/bin/lua5.4
+/usr/bin/luac5.4
+/usr/lib/liblua5.4.so.5.4 -> /usr/lib/liblua5.4.so.5.4.6
+/usr/lib/liblua5.4.so.5.4.6
+/usr/share/licenses/lua54/readme.html
+/usr/share/man/man1/lua5.4.1
+/usr/share/man/man1/luac5.4.1

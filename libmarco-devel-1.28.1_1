@@ -1,0 +1,9 @@
+/usr/include/marco-1/marco-private/boxes.h
+/usr/include/marco-1/marco-private/common.h
+/usr/include/marco-1/marco-private/gradient.h
+/usr/include/marco-1/marco-private/preview-widget.h
+/usr/include/marco-1/marco-private/theme-parser.h
+/usr/include/marco-1/marco-private/theme.h
+/usr/include/marco-1/marco-private/util.h
+/usr/lib/libmarco-private.so -> /usr/lib/libmarco-private.so.2
+/usr/lib/pkgconfig/libmarco-private.pc

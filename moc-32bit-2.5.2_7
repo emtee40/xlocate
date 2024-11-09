@@ -1,0 +1,10 @@
+/usr/lib32/moc/decoder_plugins/libaac_decoder.so
+/usr/lib32/moc/decoder_plugins/libffmpeg_decoder.so
+/usr/lib32/moc/decoder_plugins/libflac_decoder.so
+/usr/lib32/moc/decoder_plugins/libmodplug_decoder.so
+/usr/lib32/moc/decoder_plugins/libmp3_decoder.so
+/usr/lib32/moc/decoder_plugins/libmusepack_decoder.so
+/usr/lib32/moc/decoder_plugins/libsndfile_decoder.so
+/usr/lib32/moc/decoder_plugins/libspeex_decoder.so
+/usr/lib32/moc/decoder_plugins/libvorbis_decoder.so
+/usr/lib32/moc/decoder_plugins/libwavpack_decoder.so

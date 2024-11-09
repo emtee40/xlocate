@@ -1,0 +1,6 @@
+/usr/include/icu4lua/formatting.h
+/usr/include/icu4lua/icu4lua.h
+/usr/include/icu4lua/matchengine.h
+/usr/lib/libicu4lua.so -> /usr/lib/libicu4lua.so.0
+/usr/lib/pkgconfig/icu4lua.pc
+/usr/share/doc/icu4lua/index.html

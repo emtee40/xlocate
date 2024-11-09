@@ -1,0 +1,3 @@
+/usr/lib32/libgd.a
+/usr/lib32/libgd.so -> /usr/lib32/libgd.so.3.0.11
+/usr/lib32/pkgconfig/gdlib.pc

@@ -1,0 +1,8 @@
+/usr/include/libairspy/airspy.h
+/usr/include/libairspy/airspy_commands.h
+/usr/include/libairspy/filters.h
+/usr/include/libairspy/iqconverter_float.h
+/usr/include/libairspy/iqconverter_int16.h
+/usr/lib/libairspy.a
+/usr/lib/libairspy.so -> /usr/lib/libairspy.so.0
+/usr/lib/pkgconfig/libairspy.pc

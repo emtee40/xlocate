@@ -1,0 +1,6 @@
+/usr/include/gtk-layer-shell/gtk-layer-shell.h
+/usr/lib/libgtk-layer-shell.so -> /usr/lib/libgtk-layer-shell.so.0
+/usr/lib/pkgconfig/gtk-layer-shell-0.pc
+/usr/share/gir-1.0/GtkLayerShell-0.1.gir
+/usr/share/vala/vapi/gtk-layer-shell-0.deps
+/usr/share/vala/vapi/gtk-layer-shell-0.vapi

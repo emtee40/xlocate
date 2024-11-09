@@ -1,0 +1,7 @@
+/usr/bin/fsck.hfs
+/usr/bin/fsck.hfsplus -> /usr/bin/fsck.hfs
+/usr/bin/mkfs.hfsplus
+/usr/share/licenses/hfsprogs/APSL-2.0
+/usr/share/man/man8/fsck.hfs.8
+/usr/share/man/man8/fsck.hfsplus.8 -> /usr/share/man/man8/fsck.hfs.8
+/usr/share/man/man8/mkfs.hfsplus.8

@@ -1,0 +1,9 @@
+/usr/lib32/rygel-2.8/engines/librygel-media-engine-gst.so
+/usr/lib32/rygel-2.8/engines/librygel-media-engine-simple.so
+/usr/lib32/rygel-2.8/plugins/librygel-external.so
+/usr/lib32/rygel-2.8/plugins/librygel-gst-launch.so
+/usr/lib32/rygel-2.8/plugins/librygel-media-export.so
+/usr/lib32/rygel-2.8/plugins/librygel-mpris.so
+/usr/lib32/rygel-2.8/plugins/librygel-playbin.so
+/usr/lib32/rygel-2.8/plugins/librygel-ruih.so
+/usr/lib32/rygel-2.8/plugins/librygel-tracker3.so

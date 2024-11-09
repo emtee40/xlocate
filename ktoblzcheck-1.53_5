@@ -1,0 +1,9 @@
+/usr/bin/ibanchk
+/usr/bin/ktoblzcheck
+/usr/lib/libktoblzcheck.so.1 -> /usr/lib/libktoblzcheck.so.1.5.26
+/usr/lib/libktoblzcheck.so.1.5.26
+/usr/lib/python3.12/site-packages/ktoblzcheck.py
+/usr/share/ktoblzcheck/bankdata_20200420.txt
+/usr/share/ktoblzcheck/ibandata.txt
+/usr/share/man/man1/ibanchk.1
+/usr/share/man/man1/ktoblzcheck.1

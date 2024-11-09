@@ -1,0 +1,9 @@
+/usr/include/libyang/dict.h
+/usr/include/libyang/extensions.h
+/usr/include/libyang/libyang.h
+/usr/include/libyang/tree_data.h
+/usr/include/libyang/tree_schema.h
+/usr/include/libyang/user_types.h
+/usr/include/libyang/xml.h
+/usr/lib/libyang.so -> /usr/lib/libyang.so.1
+/usr/lib/pkgconfig/libyang.pc

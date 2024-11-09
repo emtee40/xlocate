@@ -1,0 +1,15 @@
+/usr/lib32/libKPim6AkonadiSearchCore.so.6 -> /usr/lib32/libKPim6AkonadiSearchCore.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchCore.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchDebug.so.6 -> /usr/lib32/libKPim6AkonadiSearchDebug.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchDebug.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchPIM.so.6 -> /usr/lib32/libKPim6AkonadiSearchPIM.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchPIM.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchXapian.so.6 -> /usr/lib32/libKPim6AkonadiSearchXapian.so.6.2.1
+/usr/lib32/libKPim6AkonadiSearchXapian.so.6.2.1
+/usr/lib32/qt6/plugins/kf6/krunner/kcms/kcm_krunner_pimcontacts.so
+/usr/lib32/qt6/plugins/kf6/krunner/krunner_pimcontacts.so
+/usr/lib32/qt6/plugins/pim6/akonadi/akonadi_search_plugin.so
+/usr/lib32/qt6/plugins/pim6/akonadi/calendarsearchstore.so
+/usr/lib32/qt6/plugins/pim6/akonadi/contactsearchstore.so
+/usr/lib32/qt6/plugins/pim6/akonadi/emailsearchstore.so
+/usr/lib32/qt6/plugins/pim6/akonadi/notesearchstore.so

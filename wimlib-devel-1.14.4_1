@@ -1,0 +1,4 @@
+/usr/include/wimlib.h
+/usr/lib/libwim.a
+/usr/lib/libwim.so -> /usr/lib/libwim.so.15.26.0
+/usr/lib/pkgconfig/wimlib.pc

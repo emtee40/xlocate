@@ -1,0 +1,1216 @@
+/usr/lib/firmware/3com/typhoon.bin
+/usr/lib/firmware/acenic/tg1.bin
+/usr/lib/firmware/acenic/tg2.bin
+/usr/lib/firmware/adaptec/starfire_rx.bin
+/usr/lib/firmware/adaptec/starfire_tx.bin -> /usr/lib/firmware/adaptec/starfire_rx.bin
+/usr/lib/firmware/agere_ap_fw.bin
+/usr/lib/firmware/agere_sta_fw.bin
+/usr/lib/firmware/airoha/EthMD32.DSP.bin
+/usr/lib/firmware/airoha/EthMD32.dm.bin
+/usr/lib/firmware/amlogic/aml_w155s2_bt_uart.bin
+/usr/lib/firmware/amlogic/aml_w265s1_bt_uart.bin
+/usr/lib/firmware/amlogic/aml_w265s2_bt_uart.bin
+/usr/lib/firmware/ar3k/1020200/PS_ASIC.pst
+/usr/lib/firmware/ar3k/1020200/RamPatch.txt
+/usr/lib/firmware/ar3k/1020200/ar3kbdaddr.pst
+/usr/lib/firmware/ar3k/1020201/PS_ASIC.pst
+/usr/lib/firmware/ar3k/1020201/RamPatch.txt
+/usr/lib/firmware/ar3k/1020201coex/ramps_0x01020201_26_HighPriority.dfu
+/usr/lib/firmware/ar3k/30000/PS_ASIC.pst
+/usr/lib/firmware/ar3k/30000/RamPatch.txt
+/usr/lib/firmware/ar3k/30000/ar3kbdaddr.pst -> /usr/lib/firmware/ar3k/1020200/ar3kbdaddr.pst
+/usr/lib/firmware/ar3k/30101/PS_ASIC.pst
+/usr/lib/firmware/ar3k/30101/RamPatch.txt
+/usr/lib/firmware/ar3k/30101/ar3kbdaddr.pst -> /usr/lib/firmware/ar3k/1020200/ar3kbdaddr.pst
+/usr/lib/firmware/ar3k/30101coex/PS_ASIC.pst
+/usr/lib/firmware/ar3k/30101coex/PS_ASIC_aclHighPri.pst
+/usr/lib/firmware/ar3k/30101coex/PS_ASIC_aclLowPri.pst
+/usr/lib/firmware/ar3k/30101coex/RamPatch.txt
+/usr/lib/firmware/ar3k/30101coex/ar3kbdaddr.pst
+/usr/lib/firmware/ar3k/AthrBT_0x01020001.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x01020200.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x01020201.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x11020000.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x11020100.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x31010000.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x31010100.dfu
+/usr/lib/firmware/ar3k/AthrBT_0x41020000.dfu
+/usr/lib/firmware/ar3k/ramps_0x01020001_26.dfu
+/usr/lib/firmware/ar3k/ramps_0x01020200_26.dfu
+/usr/lib/firmware/ar3k/ramps_0x01020200_40.dfu
+/usr/lib/firmware/ar3k/ramps_0x01020201_26.dfu
+/usr/lib/firmware/ar3k/ramps_0x01020201_40.dfu -> /usr/lib/firmware/ar3k/ramps_0x01020201_26.dfu
+/usr/lib/firmware/ar3k/ramps_0x11020000_40.dfu
+/usr/lib/firmware/ar3k/ramps_0x11020100_40.dfu
+/usr/lib/firmware/ar3k/ramps_0x31010000_40.dfu
+/usr/lib/firmware/ar3k/ramps_0x31010100_40.dfu
+/usr/lib/firmware/ar3k/ramps_0x41020000_40.dfu
+/usr/lib/firmware/ar5523.bin
+/usr/lib/firmware/ar7010.fw
+/usr/lib/firmware/ar7010_1_1.fw
+/usr/lib/firmware/ar9170-1.fw
+/usr/lib/firmware/ar9170-2.fw
+/usr/lib/firmware/ar9271.fw
+/usr/lib/firmware/arm/mali/arch10.8/mali_csffw.bin
+/usr/lib/firmware/ath10k/QCA4019/hw1.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA4019/hw1.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
+/usr/lib/firmware/ath10k/QCA6174/hw2.1/board.bin
+/usr/lib/firmware/ath10k/QCA6174/hw2.1/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA6174/hw2.1/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/board.bin
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/firmware-4.bin
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/firmware-6.bin
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/firmware-sdio-6.bin
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-4.txt
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-6.txt
+/usr/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-sdio-6.txt -> /usr/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-6.txt
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/board.bin
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/firmware-6.bin
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/firmware-sdio-5.bin
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-6.txt -> /usr/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-6.txt
+/usr/lib/firmware/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-sdio-5.txt -> /usr/lib/firmware/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA9887/hw1.0/board.bin
+/usr/lib/firmware/ath10k/QCA9887/hw1.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA9887/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA9888/hw2.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA9888/hw2.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA9888/hw2.0/notice_ath10k_firmware-5.txt -> /usr/lib/firmware/ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA988X/hw2.0/board.bin
+/usr/lib/firmware/ath10k/QCA988X/hw2.0/firmware-4.bin
+/usr/lib/firmware/ath10k/QCA988X/hw2.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-4.txt
+/usr/lib/firmware/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-5.txt -> /usr/lib/firmware/ath10k/QCA9887/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA9984/hw1.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA9984/hw1.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA9984/hw1.0/notice_ath10k_firmware-5.txt -> /usr/lib/firmware/ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/QCA99X0/hw2.0/board-2.bin
+/usr/lib/firmware/ath10k/QCA99X0/hw2.0/firmware-5.bin
+/usr/lib/firmware/ath10k/QCA99X0/hw2.0/notice_ath10k_firmware-5.txt
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/board-2.bin
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/firmware-5.bin
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/notice.txt_wlanmdsp
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/qcm2290/firmware-5.bin
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/qcm2290/wlanmdsp.mbn
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/qrb4210/firmware-5.bin -> /usr/lib/firmware/ath10k/WCN3990/hw1.0/qcm2290/firmware-5.bin
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/qrb4210/wlanmdsp.mbn -> /usr/lib/firmware/ath10k/WCN3990/hw1.0/qcm2290/wlanmdsp.mbn
+/usr/lib/firmware/ath10k/WCN3990/hw1.0/wlanmdsp.mbn
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/Notice.txt
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/board-2.bin
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.b00
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.b01
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.b02
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.flist
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.mdt
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b00
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b01
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b02
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b03
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b04
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b05
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b07
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b08
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b09
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b10
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b11
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b13
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b14
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.flist
+/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.mdt
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/Notice.txt -> /usr/lib/firmware/ath11k/IPQ5018/hw1.0/Notice.txt
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/board-2.bin
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.b00
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.b01
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.b02
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.flist
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.mdt
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b00
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b01
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b02
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b03
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b04
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b05
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b07
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.b08
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.flist
+/usr/lib/firmware/ath11k/IPQ6018/hw1.0/q6_fw.mdt
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/Notice.txt -> /usr/lib/firmware/ath11k/IPQ5018/hw1.0/Notice.txt
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/board-2.bin
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.b00
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.b01
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.b02
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.flist
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.mdt
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b00
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b01
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b02
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b03
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b04
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b05
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b07
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b08
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.flist
+/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.mdt
+/usr/lib/firmware/ath11k/QCA2066/hw2.1/Notice.txt
+/usr/lib/firmware/ath11k/QCA2066/hw2.1/amss.bin
+/usr/lib/firmware/ath11k/QCA2066/hw2.1/board-2.bin
+/usr/lib/firmware/ath11k/QCA2066/hw2.1/m3.bin
+/usr/lib/firmware/ath11k/QCA6390/hw2.0/Notice.txt
+/usr/lib/firmware/ath11k/QCA6390/hw2.0/amss.bin
+/usr/lib/firmware/ath11k/QCA6390/hw2.0/board-2.bin
+/usr/lib/firmware/ath11k/QCA6390/hw2.0/m3.bin
+/usr/lib/firmware/ath11k/QCN9074/hw1.0/Notice.txt -> /usr/lib/firmware/ath11k/IPQ5018/hw1.0/Notice.txt
+/usr/lib/firmware/ath11k/QCN9074/hw1.0/amss.bin
+/usr/lib/firmware/ath11k/QCN9074/hw1.0/board-2.bin
+/usr/lib/firmware/ath11k/QCN9074/hw1.0/m3.bin
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/Notice.txt
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/board-2.bin
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b00
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b01
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b02
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b03
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b04
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b05
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b06
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b07
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b08
+/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.mdt
+/usr/lib/firmware/ath11k/WCN6855/hw2.0/Notice.txt -> /usr/lib/firmware/ath11k/QCA2066/hw2.1/Notice.txt
+/usr/lib/firmware/ath11k/WCN6855/hw2.0/amss.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.0/board-2.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.0/m3.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.0/regdb.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.1/amss.bin -> /usr/lib/firmware/ath11k/WCN6855/hw2.0/amss.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.1/board-2.bin -> /usr/lib/firmware/ath11k/WCN6855/hw2.0/board-2.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.1/m3.bin -> /usr/lib/firmware/ath11k/WCN6855/hw2.0/m3.bin
+/usr/lib/firmware/ath11k/WCN6855/hw2.1/regdb.bin -> /usr/lib/firmware/ath11k/WCN6855/hw2.0/regdb.bin
+/usr/lib/firmware/ath12k/QCN9274/hw2.0/Notice.txt
+/usr/lib/firmware/ath12k/QCN9274/hw2.0/board-2.bin
+/usr/lib/firmware/ath12k/QCN9274/hw2.0/firmware-2.bin
+/usr/lib/firmware/ath12k/WCN7850/hw2.0/Notice.txt
+/usr/lib/firmware/ath12k/WCN7850/hw2.0/amss.bin
+/usr/lib/firmware/ath12k/WCN7850/hw2.0/board-2.bin
+/usr/lib/firmware/ath12k/WCN7850/hw2.0/m3.bin
+/usr/lib/firmware/ath3k-1.fw
+/usr/lib/firmware/ath6k/AR6002/athwlan.bin.z77
+/usr/lib/firmware/ath6k/AR6002/data.patch.hw2_0.bin
+/usr/lib/firmware/ath6k/AR6002/eeprom.bin
+/usr/lib/firmware/ath6k/AR6002/eeprom.data
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/athwlan.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD32.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.WB31.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/data.patch.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/endpointping.bin
+/usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/otp.bin
+/usr/lib/firmware/ath6k/AR6003/hw1.0/athwlan.bin.z77
+/usr/lib/firmware/ath6k/AR6003/hw1.0/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw1.0/bdata.SD32.bin
+/usr/lib/firmware/ath6k/AR6003/hw1.0/bdata.WB31.bin -> /usr/lib/firmware/ath6k/AR6003/hw1.0/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw1.0/data.patch.bin
+/usr/lib/firmware/ath6k/AR6003/hw1.0/otp.bin.z77
+/usr/lib/firmware/ath6k/AR6003/hw2.0/athwlan.bin.z77
+/usr/lib/firmware/ath6k/AR6003/hw2.0/bdata.SD31.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.0/bdata.SD32.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.0/bdata.WB31.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.0/data.patch.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.0/otp.bin.z77
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/athwlan.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/bdata.SD31.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/bdata.SD32.bin -> /usr/lib/firmware/ath6k/AR6003/hw2.0/bdata.SD32.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/bdata.WB31.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/bdata.SD31.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/data.patch.bin -> /usr/lib/firmware/ath6k/AR6003.1/hw2.1.1/data.patch.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/endpointping.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/fw-2.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/fw-3.bin
+/usr/lib/firmware/ath6k/AR6003/hw2.1.1/otp.bin
+/usr/lib/firmware/ath6k/AR6004/hw1.2/bdata.bin
+/usr/lib/firmware/ath6k/AR6004/hw1.2/fw-2.bin
+/usr/lib/firmware/ath6k/AR6004/hw1.3/bdata.bin
+/usr/lib/firmware/ath6k/AR6004/hw1.3/fw-3.bin
+/usr/lib/firmware/ath9k_htc/htc_7010-1.4.0.fw
+/usr/lib/firmware/ath9k_htc/htc_9271-1.4.0.fw
+/usr/lib/firmware/atmel/wilc1000_ap_fw.bin
+/usr/lib/firmware/atmel/wilc1000_fw.bin
+/usr/lib/firmware/atmel/wilc1000_p2p_fw.bin
+/usr/lib/firmware/atmel/wilc1000_wifi_firmware-1.bin
+/usr/lib/firmware/atmel/wilc1000_wifi_firmware.bin
+/usr/lib/firmware/atusb/atusb-0.2.dfu
+/usr/lib/firmware/atusb/atusb-0.3.dfu
+/usr/lib/firmware/atusb/rzusb-0.3.bin
+/usr/lib/firmware/bnx2/bnx2-mips-06-6.2.3.fw
+/usr/lib/firmware/bnx2/bnx2-mips-09-6.2.1b.fw
+/usr/lib/firmware/bnx2/bnx2-rv2p-06-6.0.15.fw
+/usr/lib/firmware/bnx2/bnx2-rv2p-09-6.0.17.fw
+/usr/lib/firmware/bnx2/bnx2-rv2p-09ax-6.0.17.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1-7.13.1.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1-7.13.11.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1-7.13.15.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1-7.13.21.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1h-7.13.1.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1h-7.13.11.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1h-7.13.15.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e1h-7.13.21.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e2-7.13.1.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e2-7.13.11.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e2-7.13.15.0.fw
+/usr/lib/firmware/bnx2x/bnx2x-e2-7.13.21.0.fw
+/usr/lib/firmware/carl9170-1.fw
+/usr/lib/firmware/cbfw-3.2.5.1.bin
+/usr/lib/firmware/ct2fw-3.2.5.1.bin
+/usr/lib/firmware/ctfw-3.2.5.1.bin
+/usr/lib/firmware/cxgb3/ael2005_opt_edc.bin
+/usr/lib/firmware/cxgb3/ael2005_twx_edc.bin
+/usr/lib/firmware/cxgb3/ael2020_twx_edc.bin
+/usr/lib/firmware/cxgb3/t3b_psram-1.1.0.bin
+/usr/lib/firmware/cxgb3/t3c_psram-1.1.0.bin
+/usr/lib/firmware/cxgb3/t3fw-7.0.0.bin
+/usr/lib/firmware/cxgb3/t3fw-7.1.0.bin
+/usr/lib/firmware/cxgb3/t3fw-7.10.0.bin
+/usr/lib/firmware/cxgb3/t3fw-7.12.0.bin
+/usr/lib/firmware/cxgb3/t3fw-7.4.0.bin
+/usr/lib/firmware/cxgb4/aq1202_fw.cld
+/usr/lib/firmware/cxgb4/bcm8483.bin
+/usr/lib/firmware/cxgb4/configs/t4-config-default.txt
+/usr/lib/firmware/cxgb4/configs/t5-config-default.txt
+/usr/lib/firmware/cxgb4/configs/t5-config-hashfilter.txt
+/usr/lib/firmware/cxgb4/configs/t6-config-default.txt
+/usr/lib/firmware/cxgb4/configs/t6-config-hashfilter.txt
+/usr/lib/firmware/cxgb4/t4-config.txt -> /usr/lib/firmware/cxgb4/configs/t4-config-default.txt
+/usr/lib/firmware/cxgb4/t4fw-1.14.4.0.bin
+/usr/lib/firmware/cxgb4/t4fw-1.15.37.0.bin
+/usr/lib/firmware/cxgb4/t4fw-1.27.5.0.bin
+/usr/lib/firmware/cxgb4/t4fw.bin -> /usr/lib/firmware/cxgb4/t4fw-1.27.5.0.bin
+/usr/lib/firmware/cxgb4/t5-config.txt -> /usr/lib/firmware/cxgb4/configs/t5-config-default.txt
+/usr/lib/firmware/cxgb4/t5fw-1.14.4.0.bin
+/usr/lib/firmware/cxgb4/t5fw-1.15.37.0.bin
+/usr/lib/firmware/cxgb4/t5fw-1.27.5.0.bin
+/usr/lib/firmware/cxgb4/t5fw.bin -> /usr/lib/firmware/cxgb4/t5fw-1.27.5.0.bin
+/usr/lib/firmware/cxgb4/t6-config.txt -> /usr/lib/firmware/cxgb4/configs/t6-config-default.txt
+/usr/lib/firmware/cxgb4/t6fw-1.27.5.0.bin
+/usr/lib/firmware/cxgb4/t6fw.bin -> /usr/lib/firmware/cxgb4/t6fw-1.27.5.0.bin
+/usr/lib/firmware/e100/d101m_ucode.bin
+/usr/lib/firmware/e100/d101s_ucode.bin
+/usr/lib/firmware/e100/d102e_ucode.bin
+/usr/lib/firmware/hfi1_dc8051.fw
+/usr/lib/firmware/hfi1_fabric.fw
+/usr/lib/firmware/hfi1_pcie.fw
+/usr/lib/firmware/hfi1_sbus.fw
+/usr/lib/firmware/htc_7010.fw
+/usr/lib/firmware/htc_9271.fw
+/usr/lib/firmware/intel/IntcSST2.bin -> /usr/lib/firmware/intel/catpt/bdw/dsp_basefw.bin
+/usr/lib/firmware/intel/avs/apl/dsp_basefw.bin
+/usr/lib/firmware/intel/avs/cnl/dsp_basefw.bin
+/usr/lib/firmware/intel/avs/da7219-tplg.bin
+/usr/lib/firmware/intel/avs/dmic-tplg.bin
+/usr/lib/firmware/intel/avs/hda-8086-generic-tplg.bin -> /usr/lib/firmware/intel/avs/hda-808628xx-3ep-tplg.bin
+/usr/lib/firmware/intel/avs/hda-808628xx-3ep-tplg.bin
+/usr/lib/firmware/intel/avs/hda-generic-1ep-tplg.bin
+/usr/lib/firmware/intel/avs/hda-generic-tplg.bin -> /usr/lib/firmware/intel/avs/hda-generic-1ep-tplg.bin
+/usr/lib/firmware/intel/avs/max98357a-tplg.bin
+/usr/lib/firmware/intel/avs/max98373-tplg.bin
+/usr/lib/firmware/intel/avs/max98927-tplg.bin
+/usr/lib/firmware/intel/avs/nau8825-tplg.bin
+/usr/lib/firmware/intel/avs/rt274-tplg.bin
+/usr/lib/firmware/intel/avs/rt286-tplg.bin
+/usr/lib/firmware/intel/avs/rt298-tplg.bin
+/usr/lib/firmware/intel/avs/rt5514-tplg.bin
+/usr/lib/firmware/intel/avs/rt5640-tplg.bin
+/usr/lib/firmware/intel/avs/rt5663-tplg.bin
+/usr/lib/firmware/intel/avs/skl/dsp_basefw.bin
+/usr/lib/firmware/intel/avs/skl/dsp_mod_7CAD0808-AB10-CD23-EF45-12AB34CD56EF.bin
+/usr/lib/firmware/intel/avs/ssm4567-tplg.bin
+/usr/lib/firmware/intel/catpt/bdw/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_bxtn.bin -> /usr/lib/firmware/intel/avs/apl/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_bxtn_v2219.bin
+/usr/lib/firmware/intel/dsp_fw_bxtn_v3366.bin
+/usr/lib/firmware/intel/dsp_fw_cnl.bin -> /usr/lib/firmware/intel/avs/cnl/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_cnl_v1191.bin
+/usr/lib/firmware/intel/dsp_fw_cnl_v1858.bin
+/usr/lib/firmware/intel/dsp_fw_glk.bin -> /usr/lib/firmware/intel/avs/apl/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_glk_v1814.bin
+/usr/lib/firmware/intel/dsp_fw_glk_v2768.bin
+/usr/lib/firmware/intel/dsp_fw_glk_v2880.bin
+/usr/lib/firmware/intel/dsp_fw_glk_v3366.bin -> /usr/lib/firmware/intel/dsp_fw_bxtn_v3366.bin
+/usr/lib/firmware/intel/dsp_fw_kbl.bin -> /usr/lib/firmware/intel/avs/skl/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v1037.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v2042.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v2630.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v3266.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v3402.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v3420.bin
+/usr/lib/firmware/intel/dsp_fw_kbl_v701.bin
+/usr/lib/firmware/intel/dsp_fw_release.bin -> /usr/lib/firmware/intel/avs/skl/dsp_basefw.bin
+/usr/lib/firmware/intel/dsp_fw_release_v3402.bin -> /usr/lib/firmware/intel/dsp_fw_kbl_v3402.bin
+/usr/lib/firmware/intel/dsp_fw_release_v969.bin
+/usr/lib/firmware/intel/fw_sst_0f28.bin
+/usr/lib/firmware/intel/fw_sst_0f28.bin-48kHz_i2s_master
+/usr/lib/firmware/intel/fw_sst_0f28_ssp0.bin
+/usr/lib/firmware/intel/fw_sst_22a8.bin
+/usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0040-0041.sfi
+/usr/lib/firmware/intel/ibt-0040-1020.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0040-1020.sfi
+/usr/lib/firmware/intel/ibt-0040-1050.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0040-1050.sfi
+/usr/lib/firmware/intel/ibt-0040-2120.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0040-2120.sfi -> /usr/lib/firmware/intel/ibt-0040-1020.sfi
+/usr/lib/firmware/intel/ibt-0040-4150.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0040-4150.sfi -> /usr/lib/firmware/intel/ibt-0040-0041.sfi
+/usr/lib/firmware/intel/ibt-0041-0041.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0041-0041.sfi
+/usr/lib/firmware/intel/ibt-0180-0041.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0180-0041.sfi
+/usr/lib/firmware/intel/ibt-0180-1050.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0180-1050.sfi -> /usr/lib/firmware/intel/ibt-0180-0041.sfi
+/usr/lib/firmware/intel/ibt-0180-4150.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0180-4150.sfi -> /usr/lib/firmware/intel/ibt-0180-0041.sfi
+/usr/lib/firmware/intel/ibt-0291-0291.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-0291-0291.sfi
+/usr/lib/firmware/intel/ibt-1040-0041.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-1040-0041.sfi -> /usr/lib/firmware/intel/ibt-0040-0041.sfi
+/usr/lib/firmware/intel/ibt-1040-1020.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-1040-1020.sfi -> /usr/lib/firmware/intel/ibt-0040-1020.sfi
+/usr/lib/firmware/intel/ibt-1040-1050.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-1040-1050.sfi
+/usr/lib/firmware/intel/ibt-1040-2120.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-1040-2120.sfi -> /usr/lib/firmware/intel/ibt-0040-1020.sfi
+/usr/lib/firmware/intel/ibt-1040-4150.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-1040-4150.sfi -> /usr/lib/firmware/intel/ibt-0040-0041.sfi
+/usr/lib/firmware/intel/ibt-11-5.ddc
+/usr/lib/firmware/intel/ibt-11-5.sfi
+/usr/lib/firmware/intel/ibt-12-16.ddc
+/usr/lib/firmware/intel/ibt-12-16.sfi
+/usr/lib/firmware/intel/ibt-17-0-1.ddc
+/usr/lib/firmware/intel/ibt-17-0-1.sfi
+/usr/lib/firmware/intel/ibt-17-1.ddc -> /usr/lib/firmware/intel/ibt-17-0-1.ddc
+/usr/lib/firmware/intel/ibt-17-1.sfi -> /usr/lib/firmware/intel/ibt-17-0-1.sfi
+/usr/lib/firmware/intel/ibt-17-16-1.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-17-16-1.sfi
+/usr/lib/firmware/intel/ibt-17-2.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-17-2.sfi -> /usr/lib/firmware/intel/ibt-17-16-1.sfi
+/usr/lib/firmware/intel/ibt-18-0-1.ddc -> /usr/lib/firmware/intel/ibt-17-0-1.ddc
+/usr/lib/firmware/intel/ibt-18-0-1.sfi -> /usr/lib/firmware/intel/ibt-17-0-1.sfi
+/usr/lib/firmware/intel/ibt-18-1.ddc -> /usr/lib/firmware/intel/ibt-17-0-1.ddc
+/usr/lib/firmware/intel/ibt-18-1.sfi -> /usr/lib/firmware/intel/ibt-17-0-1.sfi
+/usr/lib/firmware/intel/ibt-18-16-1.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-18-16-1.sfi -> /usr/lib/firmware/intel/ibt-17-16-1.sfi
+/usr/lib/firmware/intel/ibt-18-2.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-18-2.sfi -> /usr/lib/firmware/intel/ibt-17-16-1.sfi
+/usr/lib/firmware/intel/ibt-19-0-0.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-0-1.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-0-1.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-0-3.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-0-3.sfi
+/usr/lib/firmware/intel/ibt-19-0-4.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-0-4.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-16-4.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-16-4.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-240-1.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-240-1.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-240-4.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-240-4.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-32-0.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-32-0.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-32-1.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-32-1.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-19-32-4.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-19-32-4.sfi -> /usr/lib/firmware/intel/ibt-19-0-0.sfi
+/usr/lib/firmware/intel/ibt-20-0-3.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-20-0-3.sfi
+/usr/lib/firmware/intel/ibt-20-1-3.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-20-1-3.sfi
+/usr/lib/firmware/intel/ibt-20-1-4.ddc -> /usr/lib/firmware/intel/ibt-0040-0041.ddc
+/usr/lib/firmware/intel/ibt-20-1-4.sfi
+/usr/lib/firmware/intel/ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq
+/usr/lib/firmware/intel/ibt-hw-37.7.10-fw-1.0.2.3.d.bseq
+/usr/lib/firmware/intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+/usr/lib/firmware/intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq
+/usr/lib/firmware/intel/ibt-hw-37.7.bseq
+/usr/lib/firmware/intel/ibt-hw-37.8.10-fw-1.10.2.27.d.bseq
+/usr/lib/firmware/intel/ibt-hw-37.8.10-fw-1.10.3.11.e.bseq
+/usr/lib/firmware/intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq
+/usr/lib/firmware/intel/ibt-hw-37.8.bseq
+/usr/lib/firmware/intel/ice/ddp-comms/ice_comms-1.3.45.0.pkg
+/usr/lib/firmware/intel/ice/ddp-lag/ice_lag-1.3.1.0.pkg
+/usr/lib/firmware/intel/ice/ddp-wireless_edge/ice_wireless_edge-1.3.13.0.pkg
+/usr/lib/firmware/intel/ice/ddp/ice-1.3.36.0.pkg
+/usr/lib/firmware/intel/ice/ddp/ice.pkg -> /usr/lib/firmware/intel/ice/ddp/ice-1.3.36.0.pkg
+/usr/lib/firmware/intel/ipu/ipu6_fw.bin
+/usr/lib/firmware/intel/ipu/ipu6ep_fw.bin
+/usr/lib/firmware/intel/ipu/ipu6epadln_fw.bin
+/usr/lib/firmware/intel/ipu/ipu6epmtl_fw.bin
+/usr/lib/firmware/intel/ipu/ipu6se_fw.bin
+/usr/lib/firmware/intel/ipu/irci_irci_ecr-master_20161208_0213_20170112_1500.bin
+/usr/lib/firmware/intel/ipu/shisp_2400b0_v21.bin
+/usr/lib/firmware/intel/ipu/shisp_2401a0_v21.bin
+/usr/lib/firmware/intel/ipu3-fw.bin -> /usr/lib/firmware/intel/ipu/irci_irci_ecr-master_20161208_0213_20170112_1500.bin
+/usr/lib/firmware/intel/irci_irci_ecr-master_20161208_0213_20170112_1500.bin -> /usr/lib/firmware/intel/ipu/irci_irci_ecr-master_20161208_0213_20170112_1500.bin
+/usr/lib/firmware/intel/ish/ish_lnlm.bin
+/usr/lib/firmware/intel/vsc/ivsc_fw.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_hi556_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_himx11b1_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_himx2170_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_himx2172_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_int3537_0.bin -> /usr/lib/firmware/intel/vsc/ivsc_pkg_hi556_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti01a0_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti01af_0.bin -> /usr/lib/firmware/intel/vsc/ivsc_pkg_ovti01a0_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti01as_0.bin -> /usr/lib/firmware/intel/vsc/ivsc_pkg_ovti01a0_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti02c1_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti02e1_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti2740_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti5678_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti9734_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_pkg_ovti9738_0.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_hi556_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_himx11b1_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_himx2170_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_himx2172_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_int3537_0_1.bin -> /usr/lib/firmware/intel/vsc/ivsc_skucfg_hi556_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti01a0_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti01af_0_1.bin -> /usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti01a0_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti01as_0_1.bin -> /usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti01a0_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti02c1_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti02e1_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti2740_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti5678_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti9734_0_1.bin
+/usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti9738_0_1.bin -> /usr/lib/firmware/intel/vsc/ivsc_skucfg_ovti2740_0_1.bin
+/usr/lib/firmware/iwlwifi-100-5.ucode
+/usr/lib/firmware/iwlwifi-1000-5.ucode
+/usr/lib/firmware/iwlwifi-105-6.ucode
+/usr/lib/firmware/iwlwifi-135-6.ucode
+/usr/lib/firmware/iwlwifi-2000-6.ucode
+/usr/lib/firmware/iwlwifi-2030-6.ucode
+/usr/lib/firmware/iwlwifi-3160-17.ucode
+/usr/lib/firmware/iwlwifi-3168-29.ucode
+/usr/lib/firmware/iwlwifi-3945-2.ucode
+/usr/lib/firmware/iwlwifi-4965-2.ucode
+/usr/lib/firmware/iwlwifi-5000-5.ucode
+/usr/lib/firmware/iwlwifi-5150-2.ucode
+/usr/lib/firmware/iwlwifi-6000-4.ucode
+/usr/lib/firmware/iwlwifi-6000g2a-6.ucode
+/usr/lib/firmware/iwlwifi-6000g2b-6.ucode
+/usr/lib/firmware/iwlwifi-6050-5.ucode
+/usr/lib/firmware/iwlwifi-7260-17.ucode
+/usr/lib/firmware/iwlwifi-7265-17.ucode
+/usr/lib/firmware/iwlwifi-7265D-29.ucode
+/usr/lib/firmware/iwlwifi-8000C-34.ucode
+/usr/lib/firmware/iwlwifi-8000C-36.ucode
+/usr/lib/firmware/iwlwifi-8265-34.ucode
+/usr/lib/firmware/iwlwifi-8265-36.ucode
+/usr/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-34.ucode
+/usr/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-38.ucode
+/usr/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-46.ucode
+/usr/lib/firmware/iwlwifi-9260-th-b0-jf-b0-34.ucode
+/usr/lib/firmware/iwlwifi-9260-th-b0-jf-b0-38.ucode
+/usr/lib/firmware/iwlwifi-9260-th-b0-jf-b0-46.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-50.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-59.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-66.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-72.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-73.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-74.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-hr-b0-77.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-50.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-59.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-66.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-72.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-73.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-74.ucode
+/usr/lib/firmware/iwlwifi-Qu-b0-jf-b0-77.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-50.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-59.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-66.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-72.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-73.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-74.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-hr-b0-77.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-50.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-59.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-66.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-72.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-73.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-74.ucode
+/usr/lib/firmware/iwlwifi-Qu-c0-jf-b0-77.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-50.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-59.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-66.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-72.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-73.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-74.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-hr-b0-77.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-50.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-59.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-66.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-72.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-73.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-74.ucode
+/usr/lib/firmware/iwlwifi-QuZ-a0-jf-b0-77.ucode
+/usr/lib/firmware/iwlwifi-bz-b0-fm-c0-92.ucode
+/usr/lib/firmware/iwlwifi-bz-b0-fm-c0-94.ucode
+/usr/lib/firmware/iwlwifi-bz-b0-fm-c0.pnvm
+/usr/lib/firmware/iwlwifi-cc-a0-50.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-59.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-66.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-72.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-73.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-74.ucode
+/usr/lib/firmware/iwlwifi-cc-a0-77.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0-83.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0-86.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0-90.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0-92.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0-94.ucode
+/usr/lib/firmware/iwlwifi-gl-c0-fm-c0.pnvm
+/usr/lib/firmware/iwlwifi-ma-b0-gf-a0-83.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf-a0-86.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf-a0-89.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf-a0.pnvm
+/usr/lib/firmware/iwlwifi-ma-b0-gf4-a0-83.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf4-a0-86.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf4-a0-89.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-gf4-a0.pnvm
+/usr/lib/firmware/iwlwifi-ma-b0-hr-b0-83.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-hr-b0-86.ucode
+/usr/lib/firmware/iwlwifi-ma-b0-hr-b0-89.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-72.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-73.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-74.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-77.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-78.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-79.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-81.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-83.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-84.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-86.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0-89.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf-a0.pnvm
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-72.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-73.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-74.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-77.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-78.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-79.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-81.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-83.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-84.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-86.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-89.ucode
+/usr/lib/firmware/iwlwifi-so-a0-gf4-a0.pnvm
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-72.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-73.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-74.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-77.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-79.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-81.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-83.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-84.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-86.ucode
+/usr/lib/firmware/iwlwifi-so-a0-hr-b0-89.ucode
+/usr/lib/firmware/iwlwifi-so-a0-jf-b0-72.ucode
+/usr/lib/firmware/iwlwifi-so-a0-jf-b0-73.ucode
+/usr/lib/firmware/iwlwifi-so-a0-jf-b0-74.ucode
+/usr/lib/firmware/iwlwifi-so-a0-jf-b0-77.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-59.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-66.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-72.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-73.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-74.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-77.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-78.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-79.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-81.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-83.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-84.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-86.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-89.ucode
+/usr/lib/firmware/iwlwifi-ty-a0-gf-a0.pnvm
+/usr/lib/firmware/ixp4xx/NPE-A
+/usr/lib/firmware/ixp4xx/NPE-A-HSS
+/usr/lib/firmware/ixp4xx/NPE-B
+/usr/lib/firmware/ixp4xx/NPE-C
+/usr/lib/firmware/kaweth/new_code.bin
+/usr/lib/firmware/kaweth/new_code_fix.bin
+/usr/lib/firmware/kaweth/trigger_code.bin
+/usr/lib/firmware/kaweth/trigger_code_fix.bin
+/usr/lib/firmware/lbtf_usb.bin
+/usr/lib/firmware/libertas/cf8381.bin
+/usr/lib/firmware/libertas/cf8381_helper.bin
+/usr/lib/firmware/libertas/cf8385.bin
+/usr/lib/firmware/libertas/cf8385_helper.bin
+/usr/lib/firmware/libertas/gspi8682.bin
+/usr/lib/firmware/libertas/gspi8682_helper.bin
+/usr/lib/firmware/libertas/gspi8686_v9.bin
+/usr/lib/firmware/libertas/gspi8686_v9_helper.bin -> /usr/lib/firmware/libertas/gspi8682_helper.bin
+/usr/lib/firmware/libertas/gspi8688.bin
+/usr/lib/firmware/libertas/gspi8688_helper.bin -> /usr/lib/firmware/libertas/gspi8682_helper.bin
+/usr/lib/firmware/libertas/lbtf_sdio.bin
+/usr/lib/firmware/libertas/sd8385.bin
+/usr/lib/firmware/libertas/sd8385_helper.bin
+/usr/lib/firmware/libertas/sd8682.bin
+/usr/lib/firmware/libertas/sd8682_helper.bin
+/usr/lib/firmware/libertas/sd8686_v8.bin
+/usr/lib/firmware/libertas/sd8686_v8_helper.bin
+/usr/lib/firmware/libertas/sd8686_v9.bin
+/usr/lib/firmware/libertas/sd8686_v9_helper.bin
+/usr/lib/firmware/libertas/sd8688.bin -> /usr/lib/firmware/mrvl/sd8688.bin
+/usr/lib/firmware/libertas/sd8688_helper.bin -> /usr/lib/firmware/libertas/sd8682_helper.bin
+/usr/lib/firmware/libertas/usb8388_olpc.bin
+/usr/lib/firmware/libertas/usb8388_v5.bin
+/usr/lib/firmware/libertas/usb8388_v9.bin
+/usr/lib/firmware/libertas/usb8682.bin
+/usr/lib/firmware/liquidio/lio_210nv_nic.bin
+/usr/lib/firmware/liquidio/lio_210sv_nic.bin
+/usr/lib/firmware/liquidio/lio_23xx_nic.bin
+/usr/lib/firmware/liquidio/lio_410nv_nic.bin
+/usr/lib/firmware/mediatek/BT_RAM_CODE_MT7922_1_1_hdr.bin
+/usr/lib/firmware/mediatek/BT_RAM_CODE_MT7961_1_2_hdr.bin
+/usr/lib/firmware/mediatek/BT_RAM_CODE_MT7961_1a_2_hdr.bin
+/usr/lib/firmware/mediatek/WIFI_MT7922_patch_mcu_1_1_hdr.bin
+/usr/lib/firmware/mediatek/WIFI_MT7961_patch_mcu_1_2_hdr.bin
+/usr/lib/firmware/mediatek/WIFI_MT7961_patch_mcu_1a_2_hdr.bin
+/usr/lib/firmware/mediatek/WIFI_RAM_CODE_MT7922_1.bin
+/usr/lib/firmware/mediatek/WIFI_RAM_CODE_MT7961_1.bin
+/usr/lib/firmware/mediatek/WIFI_RAM_CODE_MT7961_1a.bin
+/usr/lib/firmware/mediatek/mt7601u.bin
+/usr/lib/firmware/mediatek/mt7610e.bin
+/usr/lib/firmware/mediatek/mt7610u.bin
+/usr/lib/firmware/mediatek/mt7615_cr4.bin
+/usr/lib/firmware/mediatek/mt7615_n9.bin
+/usr/lib/firmware/mediatek/mt7615_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7622_n9.bin
+/usr/lib/firmware/mediatek/mt7622_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7622pr2h.bin
+/usr/lib/firmware/mediatek/mt7650.bin
+/usr/lib/firmware/mediatek/mt7650e.bin
+/usr/lib/firmware/mediatek/mt7662.bin
+/usr/lib/firmware/mediatek/mt7662_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7662u.bin
+/usr/lib/firmware/mediatek/mt7662u_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7663_n9_rebb.bin
+/usr/lib/firmware/mediatek/mt7663_n9_v3.bin
+/usr/lib/firmware/mediatek/mt7663pr2h.bin
+/usr/lib/firmware/mediatek/mt7663pr2h_rebb.bin
+/usr/lib/firmware/mediatek/mt7668pr2h.bin
+/usr/lib/firmware/mediatek/mt7915_eeprom.bin
+/usr/lib/firmware/mediatek/mt7915_eeprom_dbdc.bin
+/usr/lib/firmware/mediatek/mt7915_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7915_wa.bin
+/usr/lib/firmware/mediatek/mt7915_wm.bin
+/usr/lib/firmware/mediatek/mt7916_eeprom.bin
+/usr/lib/firmware/mediatek/mt7916_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7916_wa.bin
+/usr/lib/firmware/mediatek/mt7916_wm.bin
+/usr/lib/firmware/mediatek/mt7925/BT_RAM_CODE_MT7925_1_1_hdr.bin
+/usr/lib/firmware/mediatek/mt7925/WIFI_MT7925_PATCH_MCU_1_1_hdr.bin
+/usr/lib/firmware/mediatek/mt7925/WIFI_RAM_CODE_MT7925_1_1.bin
+/usr/lib/firmware/mediatek/mt7988/i2p5ge-phy-pmb.bin
+/usr/lib/firmware/mediatek/mt7988/mt7988_wo_0.bin
+/usr/lib/firmware/mediatek/mt7988/mt7988_wo_1.bin
+/usr/lib/firmware/mediatek/mt7988_wo_0.bin -> /usr/lib/firmware/mediatek/mt7988/mt7988_wo_0.bin
+/usr/lib/firmware/mediatek/mt7988_wo_1.bin -> /usr/lib/firmware/mediatek/mt7988/mt7988_wo_1.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_dsp.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_dsp_23.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_eeprom.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_eeprom_23.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_eeprom_23_2i5i.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_eeprom_2i5e.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_eeprom_2i5i.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_rom_patch_23.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_wa.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_wa_23.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_wm.bin
+/usr/lib/firmware/mediatek/mt7996/mt7992_wm_23.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_dsp.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_eeprom.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_eeprom_233.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_eeprom_233_2i5i6i.bin -> /usr/lib/firmware/mediatek/mt7996/mt7996_eeprom_233.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_eeprom_2i5i6i.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_rom_patch_233.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_wa.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_wa_233.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_wm.bin
+/usr/lib/firmware/mediatek/mt7996/mt7996_wm_233.bin
+/usr/lib/firmware/mellanox/lc_ini_bundle_2010_1006.bin
+/usr/lib/firmware/mellanox/lc_ini_bundle_2010_1502.bin -> /usr/lib/firmware/mellanox/lc_ini_bundle_2010_1006.bin
+/usr/lib/firmware/mellanox/lc_ini_bundle_2010_3020.bin -> /usr/lib/firmware/mellanox/lc_ini_bundle_2010_1006.bin
+/usr/lib/firmware/mellanox/lc_ini_bundle_2010_3146.bin -> /usr/lib/firmware/mellanox/lc_ini_bundle_2010_1006.bin
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1420.122.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1530.152.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1620.192.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1702.6.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1703.4.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.1910.622.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2000.1122.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2000.1886.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2000.2308.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2000.2714.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2007.1168.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.1036.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.1310.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.1312.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.2018.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.2304.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.2406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.2438.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.2946.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2008.3326.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.1006.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.1232.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.1406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.1502.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.3020.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2010.3146.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum-13.2012.1012.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2000.2308.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2000.2714.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2007.1168.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.1036.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.1310.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.1312.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.2018.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.2304.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.2406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.2438.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.2946.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2008.3326.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.1006.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.1232.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.1406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.1502.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.3020.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.3146.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2012.1012.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2007.1168.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.1036.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.1310.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.1312.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.2018.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.2304.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.2406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.2438.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.2946.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2008.3326.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.1006.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.1232.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.1406.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.1502.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.3020.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2010.3146.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum3-30.2012.1012.mfa2
+/usr/lib/firmware/mellanox/mlxsw_spectrum4-34.2012.1012.mfa2
+/usr/lib/firmware/microchip/mscc_vsc8574_revb_int8051_29e8.bin
+/usr/lib/firmware/microchip/mscc_vsc8584_revb_int8051_fb48.bin
+/usr/lib/firmware/mrvl/cpt01/ae.out
+/usr/lib/firmware/mrvl/cpt01/ie.out
+/usr/lib/firmware/mrvl/cpt01/se.out
+/usr/lib/firmware/mrvl/cpt02/ae.out
+/usr/lib/firmware/mrvl/cpt02/ie.out
+/usr/lib/firmware/mrvl/cpt02/se.out
+/usr/lib/firmware/mrvl/cpt03/ae.out
+/usr/lib/firmware/mrvl/cpt03/ie.out
+/usr/lib/firmware/mrvl/cpt03/se.out
+/usr/lib/firmware/mrvl/cpt04/ae.out
+/usr/lib/firmware/mrvl/cpt04/ie.out
+/usr/lib/firmware/mrvl/cpt04/se.out
+/usr/lib/firmware/mrvl/pcie8897_uapsta.bin
+/usr/lib/firmware/mrvl/pcie8997_wlan_v4.bin
+/usr/lib/firmware/mrvl/pcieuart8997_combo_v4.bin
+/usr/lib/firmware/mrvl/pcieusb8997_combo_v4.bin
+/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw-v2.0.img
+/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw-v3.0.img
+/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw-v4.0.img
+/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw-v4.1.img
+/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw_arm64-v4.1.img
+/usr/lib/firmware/mrvl/sd8688.bin
+/usr/lib/firmware/mrvl/sd8688_helper.bin -> /usr/lib/firmware/libertas/sd8682_helper.bin
+/usr/lib/firmware/mrvl/sd8787_uapsta.bin
+/usr/lib/firmware/mrvl/sd8797_uapsta.bin
+/usr/lib/firmware/mrvl/sd8801_uapsta.bin
+/usr/lib/firmware/mrvl/sd8887_uapsta.bin
+/usr/lib/firmware/mrvl/sd8897_uapsta.bin
+/usr/lib/firmware/mrvl/sdsd8977_combo_v2.bin
+/usr/lib/firmware/mrvl/sdsd8997_combo_v4.bin
+/usr/lib/firmware/mrvl/usb8766_uapsta.bin
+/usr/lib/firmware/mrvl/usb8797_uapsta.bin
+/usr/lib/firmware/mrvl/usb8801_uapsta.bin
+/usr/lib/firmware/mrvl/usb8897_uapsta.bin
+/usr/lib/firmware/mrvl/usbusb8997_combo_v4.bin
+/usr/lib/firmware/mt7601u.bin -> /usr/lib/firmware/mediatek/mt7601u.bin
+/usr/lib/firmware/mt7650.bin -> /usr/lib/firmware/mediatek/mt7650.bin
+/usr/lib/firmware/mt7662.bin -> /usr/lib/firmware/mediatek/mt7662.bin
+/usr/lib/firmware/mt7662_rom_patch.bin -> /usr/lib/firmware/mediatek/mt7662_rom_patch.bin
+/usr/lib/firmware/mts_cdma.fw
+/usr/lib/firmware/mts_edge.fw
+/usr/lib/firmware/mts_gsm.fw -> /usr/lib/firmware/mts_cdma.fw
+/usr/lib/firmware/mts_mt9234mu.fw
+/usr/lib/firmware/mts_mt9234zba.fw
+/usr/lib/firmware/mwl8k/fmimage_8366.fw
+/usr/lib/firmware/mwl8k/fmimage_8366_ap-1.fw
+/usr/lib/firmware/mwl8k/fmimage_8366_ap-2.fw
+/usr/lib/firmware/mwl8k/fmimage_8366_ap-3.fw
+/usr/lib/firmware/mwl8k/fmimage_8687.fw
+/usr/lib/firmware/mwl8k/fmimage_8764_ap-1.fw
+/usr/lib/firmware/mwl8k/helper_8366.fw
+/usr/lib/firmware/mwl8k/helper_8687.fw
+/usr/lib/firmware/myri10ge_eth_big_z8e.dat
+/usr/lib/firmware/myri10ge_eth_z8e.dat
+/usr/lib/firmware/myri10ge_ethp_big_z8e.dat
+/usr/lib/firmware/myri10ge_ethp_z8e.dat
+/usr/lib/firmware/myri10ge_rss_eth_big_z8e.dat
+/usr/lib/firmware/myri10ge_rss_eth_z8e.dat
+/usr/lib/firmware/myri10ge_rss_ethp_big_z8e.dat
+/usr/lib/firmware/myri10ge_rss_ethp_z8e.dat
+/usr/lib/firmware/myricom/lanai.bin
+/usr/lib/firmware/nxp/helper_uart_3000000.bin
+/usr/lib/firmware/nxp/sr150_fw.bin
+/usr/lib/firmware/nxp/uartiw416_bt_v0.bin
+/usr/lib/firmware/nxp/uartspi_n61x_v1.bin.se
+/usr/lib/firmware/nxp/uartuart8987_bt.bin
+/usr/lib/firmware/nxp/uartuart8997_bt_v4.bin
+/usr/lib/firmware/nxp/uartuart9098_bt_v1.bin
+/usr/lib/firmware/phanfw.bin
+/usr/lib/firmware/qca/apbtfw10.tlv
+/usr/lib/firmware/qca/apbtfw11.tlv
+/usr/lib/firmware/qca/apnv10.bin
+/usr/lib/firmware/qca/apnv11.bin
+/usr/lib/firmware/qca/crbtfw21.tlv
+/usr/lib/firmware/qca/crbtfw32.tlv
+/usr/lib/firmware/qca/crnv21.bin
+/usr/lib/firmware/qca/crnv32.bin
+/usr/lib/firmware/qca/crnv32u.bin
+/usr/lib/firmware/qca/hmtbtfw20.tlv
+/usr/lib/firmware/qca/hmtnv20.b10f
+/usr/lib/firmware/qca/hmtnv20.b112 -> /usr/lib/firmware/qca/hmtnv20.b10f
+/usr/lib/firmware/qca/hmtnv20.bin
+/usr/lib/firmware/qca/hpbtfw21.tlv
+/usr/lib/firmware/qca/hpnv21.301
+/usr/lib/firmware/qca/hpnv21.302 -> /usr/lib/firmware/qca/hpnv21.301
+/usr/lib/firmware/qca/hpnv21.309
+/usr/lib/firmware/qca/hpnv21.bin
+/usr/lib/firmware/qca/hpnv21g.301
+/usr/lib/firmware/qca/hpnv21g.302 -> /usr/lib/firmware/qca/hpnv21g.301
+/usr/lib/firmware/qca/hpnv21g.309
+/usr/lib/firmware/qca/hpnv21g.bin
+/usr/lib/firmware/qca/htbtfw20.tlv
+/usr/lib/firmware/qca/htnv20.bin
+/usr/lib/firmware/qca/msbtfw11.mbn
+/usr/lib/firmware/qca/msbtfw11.tlv
+/usr/lib/firmware/qca/msnv11.b09
+/usr/lib/firmware/qca/msnv11.b0a
+/usr/lib/firmware/qca/msnv11.bin
+/usr/lib/firmware/qca/nvm_00130300.bin
+/usr/lib/firmware/qca/nvm_00130302.bin
+/usr/lib/firmware/qca/nvm_00230302.bin
+/usr/lib/firmware/qca/nvm_00440302.bin
+/usr/lib/firmware/qca/nvm_00440302_eu.bin
+/usr/lib/firmware/qca/nvm_00440302_i2s_eu.bin
+/usr/lib/firmware/qca/nvm_usb_00000200.bin
+/usr/lib/firmware/qca/nvm_usb_00000201.bin -> /usr/lib/firmware/qca/nvm_usb_00000200.bin
+/usr/lib/firmware/qca/nvm_usb_00000300.bin
+/usr/lib/firmware/qca/nvm_usb_00000302.bin
+/usr/lib/firmware/qca/nvm_usb_00000302_eu.bin
+/usr/lib/firmware/qca/nvm_usb_00130200.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0104.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0105.bin -> /usr/lib/firmware/qca/nvm_usb_00130200_0104.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0106.bin -> /usr/lib/firmware/qca/nvm_usb_00130200.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0107.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0109.bin -> /usr/lib/firmware/qca/nvm_usb_00130200.bin
+/usr/lib/firmware/qca/nvm_usb_00130200_0110.bin -> /usr/lib/firmware/qca/nvm_usb_00130200_0104.bin
+/usr/lib/firmware/qca/nvm_usb_00130201.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_010a.bin -> /usr/lib/firmware/qca/nvm_usb_00130201.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_010b.bin -> /usr/lib/firmware/qca/nvm_usb_00130201.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_0303.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_gf.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_gf_010a.bin -> /usr/lib/firmware/qca/nvm_usb_00130201_gf.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_gf_010b.bin -> /usr/lib/firmware/qca/nvm_usb_00130201_gf.bin
+/usr/lib/firmware/qca/nvm_usb_00130201_gf_0303.bin
+/usr/lib/firmware/qca/nvm_usb_00190200.bin
+/usr/lib/firmware/qca/rampatch_00130300.bin
+/usr/lib/firmware/qca/rampatch_00130302.bin
+/usr/lib/firmware/qca/rampatch_00230302.bin
+/usr/lib/firmware/qca/rampatch_00440302.bin
+/usr/lib/firmware/qca/rampatch_usb_00000200.bin
+/usr/lib/firmware/qca/rampatch_usb_00000201.bin -> /usr/lib/firmware/qca/rampatch_usb_00000200.bin
+/usr/lib/firmware/qca/rampatch_usb_00000300.bin
+/usr/lib/firmware/qca/rampatch_usb_00000302.bin
+/usr/lib/firmware/qca/rampatch_usb_00130200.bin
+/usr/lib/firmware/qca/rampatch_usb_00130201.bin
+/usr/lib/firmware/qca/rampatch_usb_00190200.bin
+/usr/lib/firmware/qed/qed_init_values-8.10.9.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.14.6.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.18.9.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.20.0.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.30.12.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.33.12.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.37.7.0.bin
+/usr/lib/firmware/qed/qed_init_values-8.40.33.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.10.10.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.10.5.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.15.3.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.20.0.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.33.1.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.33.11.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.37.2.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.37.7.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.4.2.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.42.2.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.59.1.0.bin
+/usr/lib/firmware/qed/qed_init_values_zipped-8.7.3.0.bin
+/usr/lib/firmware/ql2100_fw.bin
+/usr/lib/firmware/ql2200_fw.bin
+/usr/lib/firmware/ql2300_fw.bin
+/usr/lib/firmware/ql2322_fw.bin
+/usr/lib/firmware/ql2400_fw.bin
+/usr/lib/firmware/ql2500_fw.bin
+/usr/lib/firmware/qlogic/1040.bin
+/usr/lib/firmware/qlogic/12160.bin
+/usr/lib/firmware/qlogic/1280.bin
+/usr/lib/firmware/qlogic/isp1000.bin
+/usr/lib/firmware/qlogic/sd7220.fw
+/usr/lib/firmware/rsi/rs9113_ap_bt_dual_mode.rps
+/usr/lib/firmware/rsi/rs9113_wlan_bt_dual_mode.rps
+/usr/lib/firmware/rsi/rs9113_wlan_qspi.rps
+/usr/lib/firmware/rsi/rs9116_wlan.rps
+/usr/lib/firmware/rsi/rs9116_wlan_bt_classic.rps
+/usr/lib/firmware/rsi_91x.fw
+/usr/lib/firmware/rt2561.bin
+/usr/lib/firmware/rt2561s.bin
+/usr/lib/firmware/rt2661.bin
+/usr/lib/firmware/rt2860.bin
+/usr/lib/firmware/rt2870.bin
+/usr/lib/firmware/rt3070.bin -> /usr/lib/firmware/rt2870.bin
+/usr/lib/firmware/rt3071.bin
+/usr/lib/firmware/rt3090.bin -> /usr/lib/firmware/rt2860.bin
+/usr/lib/firmware/rt3290.bin
+/usr/lib/firmware/rt73.bin
+/usr/lib/firmware/rtl_bt/rtl8192ee_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8192eu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8723a_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8723b_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8723bs_config-OBDA0623.bin -> /usr/lib/firmware/rtl_bt/rtl8723bs_config.bin
+/usr/lib/firmware/rtl_bt/rtl8723bs_config-OBDA8723.bin -> /usr/lib/firmware/rtl_bt/rtl8723bs_config.bin
+/usr/lib/firmware/rtl_bt/rtl8723bs_config.bin
+/usr/lib/firmware/rtl_bt/rtl8723bs_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8723cs_xx_config.bin -> /usr/lib/firmware/rtl_bt/rtl8723bs_config.bin
+/usr/lib/firmware/rtl_bt/rtl8723cs_xx_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8723d_config.bin -> /usr/lib/firmware/rtl_bt/rtl8821c_config.bin
+/usr/lib/firmware/rtl_bt/rtl8723d_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8761a_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8761b_config.bin
+/usr/lib/firmware/rtl_bt/rtl8761b_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8761bu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8812ae_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8821a_config.bin -> /usr/lib/firmware/rtl_bt/rtl8821c_config.bin
+/usr/lib/firmware/rtl_bt/rtl8821a_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8821c_config.bin
+/usr/lib/firmware/rtl_bt/rtl8821c_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8821cs_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761b_config.bin
+/usr/lib/firmware/rtl_bt/rtl8821cs_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8822b_config.bin
+/usr/lib/firmware/rtl_bt/rtl8822b_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8822cs_config.bin
+/usr/lib/firmware/rtl_bt/rtl8822cs_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8822cu_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8822cu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8851bu_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8851bu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8852au_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8852au_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8852btu_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8852btu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8852bu_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8852bu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8852cu_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8852cu_fw.bin
+/usr/lib/firmware/rtl_bt/rtl8852cu_fw_v2.bin
+/usr/lib/firmware/rtl_bt/rtl8922au_config.bin -> /usr/lib/firmware/rtl_bt/rtl8761bu_config.bin
+/usr/lib/firmware/rtl_bt/rtl8922au_fw.bin
+/usr/lib/firmware/rtl_nic/rtl8105e-1.fw
+/usr/lib/firmware/rtl_nic/rtl8106e-1.fw
+/usr/lib/firmware/rtl_nic/rtl8106e-2.fw
+/usr/lib/firmware/rtl_nic/rtl8107e-1.fw
+/usr/lib/firmware/rtl_nic/rtl8107e-2.fw
+/usr/lib/firmware/rtl_nic/rtl8125a-3.fw
+/usr/lib/firmware/rtl_nic/rtl8125b-1.fw
+/usr/lib/firmware/rtl_nic/rtl8125b-2.fw
+/usr/lib/firmware/rtl_nic/rtl8125d-1.fw
+/usr/lib/firmware/rtl_nic/rtl8126a-2.fw
+/usr/lib/firmware/rtl_nic/rtl8126a-3.fw
+/usr/lib/firmware/rtl_nic/rtl8153a-2.fw
+/usr/lib/firmware/rtl_nic/rtl8153a-3.fw
+/usr/lib/firmware/rtl_nic/rtl8153a-4.fw
+/usr/lib/firmware/rtl_nic/rtl8153b-2.fw
+/usr/lib/firmware/rtl_nic/rtl8153c-1.fw
+/usr/lib/firmware/rtl_nic/rtl8156a-2.fw
+/usr/lib/firmware/rtl_nic/rtl8156b-2.fw
+/usr/lib/firmware/rtl_nic/rtl8168d-1.fw
+/usr/lib/firmware/rtl_nic/rtl8168d-2.fw
+/usr/lib/firmware/rtl_nic/rtl8168e-1.fw
+/usr/lib/firmware/rtl_nic/rtl8168e-2.fw
+/usr/lib/firmware/rtl_nic/rtl8168e-3.fw
+/usr/lib/firmware/rtl_nic/rtl8168f-1.fw
+/usr/lib/firmware/rtl_nic/rtl8168f-2.fw
+/usr/lib/firmware/rtl_nic/rtl8168fp-3.fw
+/usr/lib/firmware/rtl_nic/rtl8168g-1.fw
+/usr/lib/firmware/rtl_nic/rtl8168g-2.fw
+/usr/lib/firmware/rtl_nic/rtl8168g-3.fw
+/usr/lib/firmware/rtl_nic/rtl8168h-1.fw
+/usr/lib/firmware/rtl_nic/rtl8168h-2.fw
+/usr/lib/firmware/rtl_nic/rtl8402-1.fw
+/usr/lib/firmware/rtl_nic/rtl8411-1.fw
+/usr/lib/firmware/rtl_nic/rtl8411-2.fw
+/usr/lib/firmware/rtlwifi/rtl8188efw.bin
+/usr/lib/firmware/rtlwifi/rtl8188eufw.bin
+/usr/lib/firmware/rtlwifi/rtl8188fufw.bin
+/usr/lib/firmware/rtlwifi/rtl8192cfw.bin
+/usr/lib/firmware/rtlwifi/rtl8192cfwU.bin
+/usr/lib/firmware/rtlwifi/rtl8192cfwU_B.bin
+/usr/lib/firmware/rtlwifi/rtl8192cufw.bin
+/usr/lib/firmware/rtlwifi/rtl8192cufw_A.bin
+/usr/lib/firmware/rtlwifi/rtl8192cufw_B.bin
+/usr/lib/firmware/rtlwifi/rtl8192cufw_TMSC.bin
+/usr/lib/firmware/rtlwifi/rtl8192defw.bin
+/usr/lib/firmware/rtlwifi/rtl8192dufw.bin
+/usr/lib/firmware/rtlwifi/rtl8192eefw.bin -> /usr/lib/firmware/rtlwifi/rtl8192eu_nic.bin
+/usr/lib/firmware/rtlwifi/rtl8192eu_ap_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8192eu_nic.bin
+/usr/lib/firmware/rtlwifi/rtl8192eu_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8192fufw.bin
+/usr/lib/firmware/rtlwifi/rtl8192sefw.bin
+/usr/lib/firmware/rtlwifi/rtl8710bufw_SMIC.bin
+/usr/lib/firmware/rtlwifi/rtl8710bufw_UMC.bin
+/usr/lib/firmware/rtlwifi/rtl8712u.bin
+/usr/lib/firmware/rtlwifi/rtl8723aufw_A.bin
+/usr/lib/firmware/rtlwifi/rtl8723aufw_B.bin
+/usr/lib/firmware/rtlwifi/rtl8723aufw_B_NoBT.bin
+/usr/lib/firmware/rtlwifi/rtl8723befw.bin
+/usr/lib/firmware/rtlwifi/rtl8723befw_36.bin
+/usr/lib/firmware/rtlwifi/rtl8723bs_ap_wowlan.bin -> /usr/lib/firmware/rtlwifi/rtl8723bu_ap_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8723bs_bt.bin
+/usr/lib/firmware/rtlwifi/rtl8723bs_nic.bin -> /usr/lib/firmware/rtlwifi/rtl8723bu_nic.bin
+/usr/lib/firmware/rtlwifi/rtl8723bs_wowlan.bin -> /usr/lib/firmware/rtlwifi/rtl8723bu_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8723bu_ap_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8723bu_nic.bin
+/usr/lib/firmware/rtlwifi/rtl8723bu_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8723defw.bin
+/usr/lib/firmware/rtlwifi/rtl8723fw.bin
+/usr/lib/firmware/rtlwifi/rtl8723fw_B.bin
+/usr/lib/firmware/rtlwifi/rtl8812aefw.bin
+/usr/lib/firmware/rtlwifi/rtl8812aefw_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8821aefw.bin
+/usr/lib/firmware/rtlwifi/rtl8821aefw_29.bin
+/usr/lib/firmware/rtlwifi/rtl8821aefw_wowlan.bin
+/usr/lib/firmware/rtlwifi/rtl8822befw.bin
+/usr/lib/firmware/rtw88/README
+/usr/lib/firmware/rtw88/rtw8703b_fw.bin
+/usr/lib/firmware/rtw88/rtw8703b_wow_fw.bin
+/usr/lib/firmware/rtw88/rtw8723d_fw.bin
+/usr/lib/firmware/rtw88/rtw8821a_fw.bin
+/usr/lib/firmware/rtw88/rtw8821c_fw.bin
+/usr/lib/firmware/rtw88/rtw8822b_fw.bin
+/usr/lib/firmware/rtw88/rtw8822c_fw.bin
+/usr/lib/firmware/rtw88/rtw8822c_wow_fw.bin
+/usr/lib/firmware/rtw89/rtw8851b_fw.bin
+/usr/lib/firmware/rtw89/rtw8852a_fw.bin
+/usr/lib/firmware/rtw89/rtw8852b_fw-1.bin
+/usr/lib/firmware/rtw89/rtw8852b_fw.bin
+/usr/lib/firmware/rtw89/rtw8852bt_fw.bin
+/usr/lib/firmware/rtw89/rtw8852c_fw-1.bin
+/usr/lib/firmware/rtw89/rtw8852c_fw.bin
+/usr/lib/firmware/rtw89/rtw8922a_fw-1.bin
+/usr/lib/firmware/rtw89/rtw8922a_fw-2.bin
+/usr/lib/firmware/rtw89/rtw8922a_fw.bin
+/usr/lib/firmware/sdd_sagrad_1091_1098.bin
+/usr/lib/firmware/slicoss/gbdownload.sys
+/usr/lib/firmware/slicoss/gbrcvucode.sys
+/usr/lib/firmware/slicoss/oasisdbgdownload.sys
+/usr/lib/firmware/slicoss/oasisdownload.sys
+/usr/lib/firmware/slicoss/oasisrcvucode.sys
+/usr/lib/firmware/sun/cassini.bin
+/usr/lib/firmware/tehuti/bdx.bin
+/usr/lib/firmware/ti-connectivity/TIInit_6.2.31.bts
+/usr/lib/firmware/ti-connectivity/TIInit_6.6.15.bts
+/usr/lib/firmware/ti-connectivity/TIInit_7.2.31.bts
+/usr/lib/firmware/ti-connectivity/cc33xx-conf.bin
+/usr/lib/firmware/ti-connectivity/cc33xx_2nd_loader.bin
+/usr/lib/firmware/ti-connectivity/cc33xx_fw.bin
+/usr/lib/firmware/ti-connectivity/wl1251-fw.bin
+/usr/lib/firmware/ti-connectivity/wl1251-nvs.bin
+/usr/lib/firmware/ti-connectivity/wl1271-fw-2.bin
+/usr/lib/firmware/ti-connectivity/wl1271-fw-ap.bin
+/usr/lib/firmware/ti-connectivity/wl1271-fw.bin
+/usr/lib/firmware/ti-connectivity/wl1271-nvs.bin -> /usr/lib/firmware/ti-connectivity/wl127x-nvs.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-3.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-4-mr.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-4-plt.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-4-sr.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-5-mr.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-5-plt.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-5-sr.bin
+/usr/lib/firmware/ti-connectivity/wl127x-fw-plt-3.bin
+/usr/lib/firmware/ti-connectivity/wl127x-nvs.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-3.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-4-mr.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-4-plt.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-4-sr.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-5-mr.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-5-plt.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-5-sr.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-ap.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw-plt-3.bin
+/usr/lib/firmware/ti-connectivity/wl128x-fw.bin
+/usr/lib/firmware/ti-connectivity/wl128x-nvs.bin
+/usr/lib/firmware/ti-connectivity/wl12xx-nvs.bin -> /usr/lib/firmware/ti-connectivity/wl127x-nvs.bin
+/usr/lib/firmware/ti-connectivity/wl18xx-fw-2.bin
+/usr/lib/firmware/ti-connectivity/wl18xx-fw-3.bin
+/usr/lib/firmware/ti-connectivity/wl18xx-fw-4.bin
+/usr/lib/firmware/ti-connectivity/wl18xx-fw.bin
+/usr/lib/firmware/tigon/tg3.bin
+/usr/lib/firmware/tigon/tg357766.bin
+/usr/lib/firmware/tigon/tg3_tso.bin
+/usr/lib/firmware/tigon/tg3_tso5.bin
+/usr/lib/firmware/ueagle-atm/930-fpga.bin
+/usr/lib/firmware/ueagle-atm/CMV4p.bin.v2
+/usr/lib/firmware/ueagle-atm/CMV9i.bin
+/usr/lib/firmware/ueagle-atm/CMV9p.bin
+/usr/lib/firmware/ueagle-atm/CMVei.bin
+/usr/lib/firmware/ueagle-atm/CMVeiWO.bin -> /usr/lib/firmware/ueagle-atm/CMVei.bin
+/usr/lib/firmware/ueagle-atm/CMVep.bin
+/usr/lib/firmware/ueagle-atm/CMVepES.bin
+/usr/lib/firmware/ueagle-atm/CMVepES03.bin
+/usr/lib/firmware/ueagle-atm/CMVepFR.bin
+/usr/lib/firmware/ueagle-atm/CMVepFR04.bin
+/usr/lib/firmware/ueagle-atm/CMVepFR10.bin
+/usr/lib/firmware/ueagle-atm/CMVepIT.bin
+/usr/lib/firmware/ueagle-atm/CMVepWO.bin -> /usr/lib/firmware/ueagle-atm/CMVepFR.bin
+/usr/lib/firmware/ueagle-atm/DSP4p.bin
+/usr/lib/firmware/ueagle-atm/DSP9i.bin
+/usr/lib/firmware/ueagle-atm/DSP9p.bin
+/usr/lib/firmware/ueagle-atm/DSPei.bin
+/usr/lib/firmware/ueagle-atm/DSPep.bin
+/usr/lib/firmware/ueagle-atm/adi930.fw
+/usr/lib/firmware/ueagle-atm/eagleI.fw
+/usr/lib/firmware/ueagle-atm/eagleII.fw
+/usr/lib/firmware/ueagle-atm/eagleIII.fw
+/usr/lib/firmware/ueagle-atm/eagleIV.fw
+/usr/lib/firmware/vntwusb.fw
+/usr/lib/firmware/vxge/X3fw-pxe.ncf
+/usr/lib/firmware/vxge/X3fw.ncf
+/usr/lib/firmware/wfx/brd4001a.pds
+/usr/lib/firmware/wfx/brd8022a.pds
+/usr/lib/firmware/wfx/brd8023a.pds -> /usr/lib/firmware/wfx/brd4001a.pds
+/usr/lib/firmware/wfx/wfm_wf200_C0.sec
+/usr/lib/firmware/wil6210.brd
+/usr/lib/firmware/wil6210.fw
+/usr/lib/firmware/wsm_22.bin

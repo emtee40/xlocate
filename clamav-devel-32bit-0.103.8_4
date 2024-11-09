@@ -1,0 +1,5 @@
+/usr/lib32/libclamav.so -> /usr/lib32/libclamav.so.9.0.5
+/usr/lib32/libclamunrar.so -> /usr/lib32/libclamunrar.so.9.0.5
+/usr/lib32/libclamunrar_iface.so -> /usr/lib32/libclamunrar_iface.so.9.0.5
+/usr/lib32/libfreshclam.so -> /usr/lib32/libfreshclam.so.2.0.1
+/usr/lib32/pkgconfig/libclamav.pc

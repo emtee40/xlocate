@@ -1,0 +1,4 @@
+/usr/lib32/libmfsio.a
+/usr/lib32/libmfsio.so -> /usr/lib32/libmfsio.so.1.0.0
+/usr/lib32/libmfsio.so.1 -> /usr/lib32/libmfsio.so.1.0.0
+/usr/lib32/libmfsio.so.1.0.0

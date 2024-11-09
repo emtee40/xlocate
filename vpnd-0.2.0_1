@@ -1,0 +1,10 @@
+/etc/sv/vpnd/run
+/etc/sv/vpnd/supervise -> /run/runit/supervise.vpnd
+/etc/vpnd.conf
+/usr/bin/vpnd
+/usr/share/icons/vpnd/abgrund.png
+/usr/share/icons/vpnd/blinky.png
+/usr/share/icons/vpnd/ghost-edible.png
+/usr/share/icons/vpnd/inky.png
+/usr/share/icons/vpnd/ungeheuern-krank.png
+/usr/share/icons/vpnd/ungeheuern.png

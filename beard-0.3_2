@@ -1,0 +1,5 @@
+/etc/sv/beard/run
+/etc/sv/beard/supervise -> /run/runit/supervise.beard
+/usr/bin/beard
+/usr/share/licenses/beard/LICENSE
+/usr/share/man/man8/beard.8

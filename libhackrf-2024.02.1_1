@@ -1,0 +1,3 @@
+/usr/lib/libhackrf.so.0 -> /usr/lib/libhackrf.so.0.9.0
+/usr/lib/libhackrf.so.0.9.0
+/usr/lib/udev/rules.d/53-hackrf.rules

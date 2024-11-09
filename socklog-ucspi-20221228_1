@@ -1,0 +1,4 @@
+/etc/sv/socklog-ucspi-tcp/log/run
+/etc/sv/socklog-ucspi-tcp/log/supervise -> /run/runit/supervise.socklog-ucspi-tcp-log
+/etc/sv/socklog-ucspi-tcp/run
+/etc/sv/socklog-ucspi-tcp/supervise -> /run/runit/supervise.socklog-ucspi-tcp

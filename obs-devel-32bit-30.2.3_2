@@ -1,0 +1,5 @@
+/usr/lib32/libobs-frontend-api.so -> /usr/lib32/libobs-frontend-api.so.0
+/usr/lib32/libobs-opengl.so -> /usr/lib32/libobs-opengl.so.1
+/usr/lib32/libobs-scripting.so -> /usr/lib32/libobs-scripting.so.1
+/usr/lib32/libobs.so -> /usr/lib32/libobs.so.0
+/usr/lib32/pkgconfig/libobs.pc

@@ -1,0 +1,14 @@
+/usr/lib32/libQt6Multimedia.so.6 -> /usr/lib32/libQt6Multimedia.so.6.7.2
+/usr/lib32/libQt6Multimedia.so.6.7.2
+/usr/lib32/libQt6MultimediaQuick.so.6 -> /usr/lib32/libQt6MultimediaQuick.so.6.7.2
+/usr/lib32/libQt6MultimediaQuick.so.6.7.2
+/usr/lib32/libQt6MultimediaWidgets.so.6 -> /usr/lib32/libQt6MultimediaWidgets.so.6.7.2
+/usr/lib32/libQt6MultimediaWidgets.so.6.7.2
+/usr/lib32/libQt6Quick3DSpatialAudio.so.6 -> /usr/lib32/libQt6Quick3DSpatialAudio.so.6.7.2
+/usr/lib32/libQt6Quick3DSpatialAudio.so.6.7.2
+/usr/lib32/libQt6SpatialAudio.so.6 -> /usr/lib32/libQt6SpatialAudio.so.6.7.2
+/usr/lib32/libQt6SpatialAudio.so.6.7.2
+/usr/lib32/qt6/plugins/multimedia/libffmpegmediaplugin.so
+/usr/lib32/qt6/plugins/multimedia/libgstreamermediaplugin.so
+/usr/lib32/qt6/qml/QtMultimedia/libquickmultimediaplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/SpatialAudio/libquick3dspatialaudioplugin.so

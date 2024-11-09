@@ -1,0 +1,27 @@
+/usr/include/devhelp-3/devhelp/devhelp.h
+/usr/include/devhelp-3/devhelp/dh-application-window.h
+/usr/include/devhelp-3/devhelp/dh-assistant-view.h
+/usr/include/devhelp-3/devhelp/dh-book-list-builder.h
+/usr/include/devhelp-3/devhelp/dh-book-list-directory.h
+/usr/include/devhelp-3/devhelp/dh-book-list.h
+/usr/include/devhelp-3/devhelp/dh-book-manager.h
+/usr/include/devhelp-3/devhelp/dh-book-tree.h
+/usr/include/devhelp-3/devhelp/dh-book.h
+/usr/include/devhelp-3/devhelp/dh-completion.h
+/usr/include/devhelp-3/devhelp/dh-enum-types.h
+/usr/include/devhelp-3/devhelp/dh-init.h
+/usr/include/devhelp-3/devhelp/dh-keyword-model.h
+/usr/include/devhelp-3/devhelp/dh-link.h
+/usr/include/devhelp-3/devhelp/dh-notebook.h
+/usr/include/devhelp-3/devhelp/dh-profile-builder.h
+/usr/include/devhelp-3/devhelp/dh-profile.h
+/usr/include/devhelp-3/devhelp/dh-search-bar.h
+/usr/include/devhelp-3/devhelp/dh-settings-builder.h
+/usr/include/devhelp-3/devhelp/dh-settings.h
+/usr/include/devhelp-3/devhelp/dh-sidebar.h
+/usr/include/devhelp-3/devhelp/dh-tab-label.h
+/usr/include/devhelp-3/devhelp/dh-tab.h
+/usr/include/devhelp-3/devhelp/dh-web-view.h
+/usr/lib/libdevhelp-3.so -> /usr/lib/libdevhelp-3.so.6
+/usr/lib/pkgconfig/libdevhelp-3.0.pc
+/usr/share/gir-1.0/Devhelp-3.0.gir

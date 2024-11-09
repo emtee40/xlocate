@@ -1,0 +1,30 @@
+/usr/bin/cdxa2mpeg
+/usr/bin/vcd-info
+/usr/bin/vcdimager
+/usr/bin/vcdxbuild
+/usr/bin/vcdxgen
+/usr/bin/vcdxminfo
+/usr/bin/vcdxrip
+/usr/include/libvcd/files.h
+/usr/include/libvcd/files_private.h
+/usr/include/libvcd/inf.h
+/usr/include/libvcd/info.h
+/usr/include/libvcd/logging.h
+/usr/include/libvcd/sector.h
+/usr/include/libvcd/types.h
+/usr/include/libvcd/version.h
+/usr/lib/libvcdinfo.a
+/usr/lib/libvcdinfo.so -> /usr/lib/libvcdinfo.so.0.2.0
+/usr/lib/libvcdinfo.so.0 -> /usr/lib/libvcdinfo.so.0.2.0
+/usr/lib/libvcdinfo.so.0.2.0
+/usr/lib/pkgconfig/libvcdinfo.pc
+/usr/share/info/vcd-info.info.gz
+/usr/share/info/vcdimager.info.gz
+/usr/share/info/vcdxrip.info.gz
+/usr/share/man/man1/cdxa2mpeg.1
+/usr/share/man/man1/vcd-info.1
+/usr/share/man/man1/vcdimager.1
+/usr/share/man/man1/vcdxbuild.1
+/usr/share/man/man1/vcdxgen.1
+/usr/share/man/man1/vcdxminfo.1
+/usr/share/man/man1/vcdxrip.1

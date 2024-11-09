@@ -1,0 +1,2 @@
+/usr/lib32/libspeechd.so -> /usr/lib32/libspeechd.so.2.6.0
+/usr/lib32/pkgconfig/speech-dispatcher.pc

@@ -1,0 +1,13 @@
+/usr/include/s6/accessrules.h
+/usr/include/s6/auto.h
+/usr/include/s6/compat.h
+/usr/include/s6/config.h
+/usr/include/s6/fdholder.h
+/usr/include/s6/ftrigr.h
+/usr/include/s6/ftrigw.h
+/usr/include/s6/lock.h
+/usr/include/s6/s6.h
+/usr/include/s6/servicedir.h
+/usr/include/s6/supervise.h
+/usr/lib/libs6.a
+/usr/lib/libs6auto.a

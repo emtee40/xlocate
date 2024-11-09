@@ -1,0 +1,14 @@
+/usr/lib32/rhythmbox/plugins/android/libandroid.so
+/usr/lib32/rhythmbox/plugins/audiocd/libaudiocd.so
+/usr/lib32/rhythmbox/plugins/audioscrobbler/libaudioscrobbler.so
+/usr/lib32/rhythmbox/plugins/daap/libdaap.so
+/usr/lib32/rhythmbox/plugins/dbus-media-server/libdbus-media-server.so
+/usr/lib32/rhythmbox/plugins/fmradio/libfmradio.so
+/usr/lib32/rhythmbox/plugins/generic-player/libgeneric-player.so
+/usr/lib32/rhythmbox/plugins/grilo/libgrilo.so
+/usr/lib32/rhythmbox/plugins/ipod/libipod.so
+/usr/lib32/rhythmbox/plugins/iradio/libiradio.so
+/usr/lib32/rhythmbox/plugins/mpris/libmpris.so
+/usr/lib32/rhythmbox/plugins/mtpdevice/libmtpdevice.so
+/usr/lib32/rhythmbox/plugins/notification/libnotification.so
+/usr/lib32/rhythmbox/plugins/power-manager/libpower-manager.so

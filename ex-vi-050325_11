@@ -1,0 +1,8 @@
+/usr/bin/ex-ex
+/usr/bin/ex-vi -> /usr/bin/ex-ex
+/usr/bin/ex-view -> /usr/bin/ex-ex
+/usr/libexec/expreserve
+/usr/libexec/exrecover
+/usr/share/licenses/ex-vi/LICENSE
+/usr/share/man/man1/ex-ex.1
+/usr/share/man/man1/ex-vi.1

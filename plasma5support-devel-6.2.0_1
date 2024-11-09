@@ -1,0 +1,23 @@
+/usr/include/Plasma5Support/Plasma5Support/DataContainer
+/usr/include/Plasma5Support/Plasma5Support/DataEngine
+/usr/include/Plasma5Support/Plasma5Support/DataEngineConsumer
+/usr/include/Plasma5Support/Plasma5Support/Plasma5Support
+/usr/include/Plasma5Support/Plasma5Support/PluginLoader
+/usr/include/Plasma5Support/Plasma5Support/Service
+/usr/include/Plasma5Support/Plasma5Support/ServiceJob
+/usr/include/Plasma5Support/plasma5support/datacontainer.h
+/usr/include/Plasma5Support/plasma5support/dataengine.h
+/usr/include/Plasma5Support/plasma5support/dataengineconsumer.h
+/usr/include/Plasma5Support/plasma5support/plasma5support.h
+/usr/include/Plasma5Support/plasma5support/plasma5support_export.h
+/usr/include/Plasma5Support/plasma5support/pluginloader.h
+/usr/include/Plasma5Support/plasma5support/service.h
+/usr/include/Plasma5Support/plasma5support/servicejob.h
+/usr/include/Plasma5Support/plasma5support/version.h
+/usr/include/Plasma5Support/plasma5support_version.h
+/usr/lib/cmake/Plasma5Support/Plasma5SupportConfig.cmake
+/usr/lib/cmake/Plasma5Support/Plasma5SupportConfigVersion.cmake
+/usr/lib/cmake/Plasma5Support/Plasma5SupportMacros.cmake
+/usr/lib/cmake/Plasma5Support/Plasma5SupportTargets-none.cmake
+/usr/lib/cmake/Plasma5Support/Plasma5SupportTargets.cmake
+/usr/lib/libPlasma5Support.so -> /usr/lib/libPlasma5Support.so.6

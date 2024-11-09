@@ -1,0 +1,21 @@
+/usr/include/sndfile.h
+/usr/include/sndfile.hh
+/usr/lib/libsndfile.a
+/usr/lib/libsndfile.so -> /usr/lib/libsndfile.so.1.0.37
+/usr/lib/pkgconfig/sndfile.pc
+/usr/share/doc/libsndfile/FAQ.md
+/usr/share/doc/libsndfile/api.md
+/usr/share/doc/libsndfile/bugs.md
+/usr/share/doc/libsndfile/command.md
+/usr/share/doc/libsndfile/embedded_files.md
+/usr/share/doc/libsndfile/formats.md
+/usr/share/doc/libsndfile/index.md
+/usr/share/doc/libsndfile/libsndfile.css
+/usr/share/doc/libsndfile/libsndfile.jpg
+/usr/share/doc/libsndfile/lists.md
+/usr/share/doc/libsndfile/new_file_type_howto.md
+/usr/share/doc/libsndfile/octave.md
+/usr/share/doc/libsndfile/print.css
+/usr/share/doc/libsndfile/sndfile_info.md
+/usr/share/doc/libsndfile/tutorial.md
+/usr/share/doc/libsndfile/win32.md

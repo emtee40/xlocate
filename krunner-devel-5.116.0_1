@@ -1,0 +1,21 @@
+/usr/include/KF5/KRunner/KRunner/AbstractRunner
+/usr/include/KF5/KRunner/KRunner/AbstractRunnerTest
+/usr/include/KF5/KRunner/KRunner/QueryMatch
+/usr/include/KF5/KRunner/KRunner/RunnerContext
+/usr/include/KF5/KRunner/KRunner/RunnerManager
+/usr/include/KF5/KRunner/KRunner/RunnerSyntax
+/usr/include/KF5/KRunner/krunner/abstractrunner.h
+/usr/include/KF5/KRunner/krunner/abstractrunnertest.h
+/usr/include/KF5/KRunner/krunner/krunner_export.h
+/usr/include/KF5/KRunner/krunner/querymatch.h
+/usr/include/KF5/KRunner/krunner/runnercontext.h
+/usr/include/KF5/KRunner/krunner/runnermanager.h
+/usr/include/KF5/KRunner/krunner/runnersyntax.h
+/usr/include/KF5/KRunner/krunner_version.h
+/usr/lib/cmake/KF5Runner/KF5KRunnerMacros.cmake
+/usr/lib/cmake/KF5Runner/KF5RunnerConfig.cmake
+/usr/lib/cmake/KF5Runner/KF5RunnerConfigVersion.cmake
+/usr/lib/cmake/KF5Runner/KF5RunnerTargets-none.cmake
+/usr/lib/cmake/KF5Runner/KF5RunnerTargets.cmake
+/usr/lib/libKF5Runner.so -> /usr/lib/libKF5Runner.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KRunner.pri

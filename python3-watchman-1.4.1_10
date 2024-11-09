@@ -1,0 +1,15 @@
+/usr/bin/watchman-make
+/usr/bin/watchman-wait
+/usr/lib/python3.12/site-packages/pywatchman-1.4.1-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/pywatchman-1.4.1-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/pywatchman-1.4.1-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/pywatchman-1.4.1-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/pywatchman-1.4.1-py3.12.egg-info/zip-safe
+/usr/lib/python3.12/site-packages/pywatchman/__init__.py
+/usr/lib/python3.12/site-packages/pywatchman/bser.so
+/usr/lib/python3.12/site-packages/pywatchman/capabilities.py
+/usr/lib/python3.12/site-packages/pywatchman/compat.py
+/usr/lib/python3.12/site-packages/pywatchman/encoding.py
+/usr/lib/python3.12/site-packages/pywatchman/load.py
+/usr/lib/python3.12/site-packages/pywatchman/pybser.py
+/usr/share/licenses/python3-watchman/LICENSE.txt

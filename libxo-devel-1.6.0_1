@@ -1,0 +1,41 @@
+/usr/bin/libxo-config
+/usr/include/libxo/xo.h
+/usr/include/libxo/xo_encoder.h
+/usr/lib/libxo.a
+/usr/lib/libxo.so -> /usr/lib/libxo.so.0.0.0
+/usr/lib/libxo/encoder/libenc_cbor.a
+/usr/lib/libxo/encoder/libenc_cbor.so -> /usr/lib/libxo/encoder/libenc_cbor.so.0.0.0
+/usr/lib/libxo/encoder/libenc_csv.a
+/usr/lib/libxo/encoder/libenc_csv.so -> /usr/lib/libxo/encoder/libenc_csv.so.0.0.0
+/usr/lib/libxo/encoder/libenc_test.a
+/usr/lib/libxo/encoder/libenc_test.so -> /usr/lib/libxo/encoder/libenc_test.so.0.0.0
+/usr/lib/pkgconfig/libxo.pc
+/usr/share/libxo/external/jquery.js
+/usr/share/libxo/external/jquery.qtip.css
+/usr/share/libxo/external/jquery.qtip.js
+/usr/share/libxo/xohtml.css
+/usr/share/libxo/xohtml.js
+/usr/share/man/man3/libxo.3
+/usr/share/man/man3/xo_attr.3
+/usr/share/man/man3/xo_create.3
+/usr/share/man/man3/xo_emit.3
+/usr/share/man/man3/xo_emit_err.3
+/usr/share/man/man3/xo_err.3
+/usr/share/man/man3/xo_error.3
+/usr/share/man/man3/xo_finish.3
+/usr/share/man/man3/xo_flush.3
+/usr/share/man/man3/xo_message.3
+/usr/share/man/man3/xo_no_setlocale.3
+/usr/share/man/man3/xo_open_container.3
+/usr/share/man/man3/xo_open_list.3
+/usr/share/man/man3/xo_open_marker.3
+/usr/share/man/man3/xo_parse_args.3
+/usr/share/man/man3/xo_set_allocator.3
+/usr/share/man/man3/xo_set_flags.3
+/usr/share/man/man3/xo_set_info.3
+/usr/share/man/man3/xo_set_options.3
+/usr/share/man/man3/xo_set_style.3
+/usr/share/man/man3/xo_set_syslog_enterprise_id.3
+/usr/share/man/man3/xo_set_version.3
+/usr/share/man/man3/xo_set_writer.3
+/usr/share/man/man3/xo_syslog.3

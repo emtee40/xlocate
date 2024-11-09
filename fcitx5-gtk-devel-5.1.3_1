@@ -1,0 +1,9 @@
+/usr/include/Fcitx5/GClient/fcitx-gclient/fcitxgclient.h
+/usr/include/Fcitx5/GClient/fcitx-gclient/fcitxgwatcher.h
+/usr/lib/cmake/Fcitx5GClient/Fcitx5GClientConfig.cmake
+/usr/lib/cmake/Fcitx5GClient/Fcitx5GClientConfigVersion.cmake
+/usr/lib/cmake/Fcitx5GClient/Fcitx5GClientTargets-none.cmake
+/usr/lib/cmake/Fcitx5GClient/Fcitx5GClientTargets.cmake
+/usr/lib/libFcitx5GClient.so -> /usr/lib/libFcitx5GClient.so.2
+/usr/lib/pkgconfig/Fcitx5GClient.pc
+/usr/share/gir-1.0/FcitxG-1.0.gir

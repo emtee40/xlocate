@@ -1,0 +1,15 @@
+/usr/bin/hjson
+/usr/lib/python3.12/site-packages/hjson-3.1.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/hjson-3.1.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/hjson-3.1.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/hjson-3.1.0-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/hjson-3.1.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/hjson/__init__.py
+/usr/lib/python3.12/site-packages/hjson/compat.py
+/usr/lib/python3.12/site-packages/hjson/decoder.py
+/usr/lib/python3.12/site-packages/hjson/encoder.py
+/usr/lib/python3.12/site-packages/hjson/encoderH.py
+/usr/lib/python3.12/site-packages/hjson/ordered_dict.py
+/usr/lib/python3.12/site-packages/hjson/scanner.py
+/usr/lib/python3.12/site-packages/hjson/tool.py
+/usr/share/licenses/python3-hjson/LICENSE.txt

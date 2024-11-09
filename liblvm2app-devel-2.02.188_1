@@ -1,0 +1,3 @@
+/usr/include/lvm2app.h
+/usr/lib/liblvm2app.so -> ../lib64/liblvm2app.so.2.2
+/usr/lib/pkgconfig/lvm2app.pc

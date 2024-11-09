@@ -1,0 +1,37 @@
+/usr/lib32/libdcerpc-binding.so -> /usr/lib32/libdcerpc-binding.so.0.0.1
+/usr/lib32/libdcerpc-samr.so -> /usr/lib32/libdcerpc-samr.so.0.0.1
+/usr/lib32/libdcerpc-server-core.so -> /usr/lib32/libdcerpc-server-core.so.0.0.1
+/usr/lib32/libdcerpc-server.so -> /usr/lib32/libdcerpc-server.so.0.0.1
+/usr/lib32/libdcerpc.so -> /usr/lib32/libdcerpc.so.0.0.1
+/usr/lib32/libndr-krb5pac.so -> /usr/lib32/libndr-krb5pac.so.0.0.1
+/usr/lib32/libndr-nbt.so -> /usr/lib32/libndr-nbt.so.0.0.1
+/usr/lib32/libndr-standard.so -> /usr/lib32/libndr-standard.so.0.0.1
+/usr/lib32/libndr.so -> /usr/lib32/libndr.so.4.0.0
+/usr/lib32/libnetapi.so -> /usr/lib32/libnetapi.so.1.0.0
+/usr/lib32/libsamba-credentials.so -> /usr/lib32/libsamba-credentials.so.1.0.0
+/usr/lib32/libsamba-errors.so -> /usr/lib32/libsamba-errors.so.1.0.0
+/usr/lib32/libsamba-hostconfig.so -> /usr/lib32/libsamba-hostconfig.so.0.0.1
+/usr/lib32/libsamba-passdb.so -> /usr/lib32/libsamba-passdb.so.0.28.0
+/usr/lib32/libsamba-policy.so -> /usr/lib32/libsamba-policy.so.0.0.1
+/usr/lib32/libsamba-util.so -> /usr/lib32/libsamba-util.so.0.0.1
+/usr/lib32/libsamdb.so -> /usr/lib32/libsamdb.so.0.0.1
+/usr/lib32/libsmbclient.so -> /usr/lib32/libsmbclient.so.0.8.0
+/usr/lib32/libsmbconf.so -> /usr/lib32/libsmbconf.so.0.0.1
+/usr/lib32/libsmbldap.so -> /usr/lib32/libsmbldap.so.2.1.0
+/usr/lib32/libtevent-util.so -> /usr/lib32/libtevent-util.so.0.0.1
+/usr/lib32/libwbclient.so -> /usr/lib32/libwbclient.so.0.16
+/usr/lib32/pkgconfig/dcerpc.pc
+/usr/lib32/pkgconfig/dcerpc_samr.pc
+/usr/lib32/pkgconfig/dcerpc_server.pc
+/usr/lib32/pkgconfig/ndr.pc
+/usr/lib32/pkgconfig/ndr_krb5pac.pc
+/usr/lib32/pkgconfig/ndr_nbt.pc
+/usr/lib32/pkgconfig/ndr_standard.pc
+/usr/lib32/pkgconfig/netapi.pc
+/usr/lib32/pkgconfig/samba-credentials.pc
+/usr/lib32/pkgconfig/samba-hostconfig.pc
+/usr/lib32/pkgconfig/samba-policy.pc
+/usr/lib32/pkgconfig/samba-util.pc
+/usr/lib32/pkgconfig/samdb.pc
+/usr/lib32/pkgconfig/smbclient.pc
+/usr/lib32/pkgconfig/wbclient.pc

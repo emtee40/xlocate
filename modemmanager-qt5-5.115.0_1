@@ -1,0 +1,4 @@
+/usr/lib/libKF5ModemManagerQt.so.5.115.0
+/usr/lib/libKF5ModemManagerQt.so.6 -> /usr/lib/libKF5ModemManagerQt.so.5.115.0
+/usr/share/qlogging-categories5/modemmanagerqt.categories
+/usr/share/qlogging-categories5/modemmanagerqt.renamecategories

@@ -1,0 +1,3 @@
+/usr/include/ngspice/sharedspice.h
+/usr/lib/libngspice.so -> /usr/lib/libngspice.so.0.0.4
+/usr/lib/pkgconfig/ngspice.pc

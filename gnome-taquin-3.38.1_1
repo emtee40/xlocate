@@ -1,0 +1,212 @@
+/usr/bin/gnome-taquin
+/usr/share/applications/org.gnome.Taquin.desktop
+/usr/share/dbus-1/services/org.gnome.Taquin.service
+/usr/share/glib-2.0/schemas/org.gnome.Taquin.gschema.xml
+/usr/share/gnome-taquin/sounds/gameover.ogg
+/usr/share/gnome-taquin/sounds/sliding-1.ogg
+/usr/share/gnome-taquin/sounds/sliding-n.ogg
+/usr/share/gnome-taquin/themes/cats/1-Cat_face_day.jpg
+/usr/share/gnome-taquin/themes/cats/1-Jasmina.jpg
+/usr/share/gnome-taquin/themes/cats/1-Tortoiseshell.jpg
+/usr/share/gnome-taquin/themes/cats/1-maine.jpg
+/usr/share/gnome-taquin/themes/cats/1-march.jpg
+/usr/share/gnome-taquin/themes/numbers/03-numbers.svg
+/usr/share/gnome-taquin/themes/numbers/04-numbers.svg
+/usr/share/gnome-taquin/themes/numbers/05-numbers.svg
+/usr/share/gnome-taquin/themes/numbers/3-numbers.png
+/usr/share/gnome-taquin/themes/numbers/4-numbers.png
+/usr/share/gnome-taquin/themes/numbers/5-numbers.png
+/usr/share/help/C/gnome-taquin/15-Puzzle.page
+/usr/share/help/C/gnome-taquin/16-Puzzle.page
+/usr/share/help/C/gnome-taquin/beginning.page
+/usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/C/gnome-taquin/index.page
+/usr/share/help/C/gnome-taquin/legal.xml
+/usr/share/help/C/gnome-taquin/license.page
+/usr/share/help/C/gnome-taquin/shortcuts.page
+/usr/share/help/C/gnome-taquin/start-screen.page
+/usr/share/help/ca/gnome-taquin/15-Puzzle.page
+/usr/share/help/ca/gnome-taquin/16-Puzzle.page
+/usr/share/help/ca/gnome-taquin/beginning.page
+/usr/share/help/ca/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/ca/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/ca/gnome-taquin/index.page
+/usr/share/help/ca/gnome-taquin/legal.xml
+/usr/share/help/ca/gnome-taquin/license.page
+/usr/share/help/ca/gnome-taquin/shortcuts.page
+/usr/share/help/ca/gnome-taquin/start-screen.page
+/usr/share/help/cs/gnome-taquin/15-Puzzle.page
+/usr/share/help/cs/gnome-taquin/16-Puzzle.page
+/usr/share/help/cs/gnome-taquin/beginning.page
+/usr/share/help/cs/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/cs/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/cs/gnome-taquin/index.page
+/usr/share/help/cs/gnome-taquin/legal.xml
+/usr/share/help/cs/gnome-taquin/license.page
+/usr/share/help/cs/gnome-taquin/shortcuts.page
+/usr/share/help/cs/gnome-taquin/start-screen.page
+/usr/share/help/da/gnome-taquin/15-Puzzle.page
+/usr/share/help/da/gnome-taquin/16-Puzzle.page
+/usr/share/help/da/gnome-taquin/beginning.page
+/usr/share/help/da/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/da/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/da/gnome-taquin/index.page
+/usr/share/help/da/gnome-taquin/legal.xml
+/usr/share/help/da/gnome-taquin/license.page
+/usr/share/help/da/gnome-taquin/shortcuts.page
+/usr/share/help/da/gnome-taquin/start-screen.page
+/usr/share/help/de/gnome-taquin/15-Puzzle.page
+/usr/share/help/de/gnome-taquin/16-Puzzle.page
+/usr/share/help/de/gnome-taquin/beginning.page
+/usr/share/help/de/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/de/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/de/gnome-taquin/index.page
+/usr/share/help/de/gnome-taquin/legal.xml
+/usr/share/help/de/gnome-taquin/license.page
+/usr/share/help/de/gnome-taquin/shortcuts.page
+/usr/share/help/de/gnome-taquin/start-screen.page
+/usr/share/help/el/gnome-taquin/15-Puzzle.page
+/usr/share/help/el/gnome-taquin/16-Puzzle.page
+/usr/share/help/el/gnome-taquin/beginning.page
+/usr/share/help/el/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/el/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/el/gnome-taquin/index.page
+/usr/share/help/el/gnome-taquin/legal.xml
+/usr/share/help/el/gnome-taquin/license.page
+/usr/share/help/el/gnome-taquin/shortcuts.page
+/usr/share/help/el/gnome-taquin/start-screen.page
+/usr/share/help/es/gnome-taquin/15-Puzzle.page
+/usr/share/help/es/gnome-taquin/16-Puzzle.page
+/usr/share/help/es/gnome-taquin/beginning.page
+/usr/share/help/es/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/es/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/es/gnome-taquin/index.page
+/usr/share/help/es/gnome-taquin/legal.xml
+/usr/share/help/es/gnome-taquin/license.page
+/usr/share/help/es/gnome-taquin/shortcuts.page
+/usr/share/help/es/gnome-taquin/start-screen.page
+/usr/share/help/fr/gnome-taquin/15-Puzzle.page
+/usr/share/help/fr/gnome-taquin/16-Puzzle.page
+/usr/share/help/fr/gnome-taquin/beginning.page
+/usr/share/help/fr/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/fr/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/fr/gnome-taquin/index.page
+/usr/share/help/fr/gnome-taquin/legal.xml
+/usr/share/help/fr/gnome-taquin/license.page
+/usr/share/help/fr/gnome-taquin/shortcuts.page
+/usr/share/help/fr/gnome-taquin/start-screen.page
+/usr/share/help/gl/gnome-taquin/15-Puzzle.page
+/usr/share/help/gl/gnome-taquin/16-Puzzle.page
+/usr/share/help/gl/gnome-taquin/beginning.page
+/usr/share/help/gl/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/gl/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/gl/gnome-taquin/index.page
+/usr/share/help/gl/gnome-taquin/legal.xml
+/usr/share/help/gl/gnome-taquin/license.page
+/usr/share/help/gl/gnome-taquin/shortcuts.page
+/usr/share/help/gl/gnome-taquin/start-screen.page
+/usr/share/help/hu/gnome-taquin/15-Puzzle.page
+/usr/share/help/hu/gnome-taquin/16-Puzzle.page
+/usr/share/help/hu/gnome-taquin/beginning.page
+/usr/share/help/hu/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/hu/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/hu/gnome-taquin/index.page
+/usr/share/help/hu/gnome-taquin/legal.xml
+/usr/share/help/hu/gnome-taquin/license.page
+/usr/share/help/hu/gnome-taquin/shortcuts.page
+/usr/share/help/hu/gnome-taquin/start-screen.page
+/usr/share/help/pl/gnome-taquin/15-Puzzle.page
+/usr/share/help/pl/gnome-taquin/16-Puzzle.page
+/usr/share/help/pl/gnome-taquin/beginning.page
+/usr/share/help/pl/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/pl/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/pl/gnome-taquin/index.page
+/usr/share/help/pl/gnome-taquin/legal.xml
+/usr/share/help/pl/gnome-taquin/license.page
+/usr/share/help/pl/gnome-taquin/shortcuts.page
+/usr/share/help/pl/gnome-taquin/start-screen.page
+/usr/share/help/pt_BR/gnome-taquin/15-Puzzle.page
+/usr/share/help/pt_BR/gnome-taquin/16-Puzzle.page
+/usr/share/help/pt_BR/gnome-taquin/beginning.page
+/usr/share/help/pt_BR/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/pt_BR/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/pt_BR/gnome-taquin/index.page
+/usr/share/help/pt_BR/gnome-taquin/legal.xml
+/usr/share/help/pt_BR/gnome-taquin/license.page
+/usr/share/help/pt_BR/gnome-taquin/shortcuts.page
+/usr/share/help/pt_BR/gnome-taquin/start-screen.page
+/usr/share/help/sv/gnome-taquin/15-Puzzle.page
+/usr/share/help/sv/gnome-taquin/16-Puzzle.page
+/usr/share/help/sv/gnome-taquin/beginning.page
+/usr/share/help/sv/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/sv/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/sv/gnome-taquin/index.page
+/usr/share/help/sv/gnome-taquin/legal.xml
+/usr/share/help/sv/gnome-taquin/license.page
+/usr/share/help/sv/gnome-taquin/shortcuts.page
+/usr/share/help/sv/gnome-taquin/start-screen.page
+/usr/share/help/uk/gnome-taquin/15-Puzzle.page
+/usr/share/help/uk/gnome-taquin/16-Puzzle.page
+/usr/share/help/uk/gnome-taquin/beginning.page
+/usr/share/help/uk/gnome-taquin/figures/logo.png -> /usr/share/help/C/gnome-taquin/figures/logo.png
+/usr/share/help/uk/gnome-taquin/figures/logo32.png -> /usr/share/help/C/gnome-taquin/figures/logo32.png
+/usr/share/help/uk/gnome-taquin/index.page
+/usr/share/help/uk/gnome-taquin/legal.xml
+/usr/share/help/uk/gnome-taquin/license.page
+/usr/share/help/uk/gnome-taquin/shortcuts.page
+/usr/share/help/uk/gnome-taquin/start-screen.page
+/usr/share/icons/hicolor/scalable/apps/org.gnome.Taquin.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.Taquin-symbolic.svg
+/usr/share/locale/an/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/bg/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/bs/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ca/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/cs/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/da/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/de/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/el/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/en_GB/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/eo/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/es/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/eu/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/fa/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/fi/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/fr/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/fur/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/gl/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/he/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/hr/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/hu/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/id/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/it/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/kk/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ko/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/lt/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/lv/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ml/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ms/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/nb/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ne/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/nl/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/oc/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/pa/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/pl/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/pt/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ro/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/ru/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/sk/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/sl/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/sr/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/sv/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/tr/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/uk/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/vi/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/gnome-taquin.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/gnome-taquin.mo
+/usr/share/man/man6/gnome-taquin.6
+/usr/share/metainfo/org.gnome.Taquin.appdata.xml

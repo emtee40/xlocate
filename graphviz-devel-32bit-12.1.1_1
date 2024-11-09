@@ -1,0 +1,12 @@
+/usr/lib32/libcdt.so -> /usr/lib32/libcdt.so.5.0.0
+/usr/lib32/libcgraph.so -> /usr/lib32/libcgraph.so.6.0.0
+/usr/lib32/libgvc.so -> /usr/lib32/libgvc.so.6.0.0
+/usr/lib32/libgvpr.so -> /usr/lib32/libgvpr.so.2.0.0
+/usr/lib32/libpathplan.so -> /usr/lib32/libpathplan.so.4.0.0
+/usr/lib32/libxdot.so -> /usr/lib32/libxdot.so.4.0.0
+/usr/lib32/pkgconfig/libcdt.pc
+/usr/lib32/pkgconfig/libcgraph.pc
+/usr/lib32/pkgconfig/libgvc.pc
+/usr/lib32/pkgconfig/libgvpr.pc
+/usr/lib32/pkgconfig/libpathplan.pc
+/usr/lib32/pkgconfig/libxdot.pc

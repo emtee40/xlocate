@@ -1,0 +1,11 @@
+/boot/grub/fonts/terminus12.pf2
+/boot/grub/fonts/terminus14.pf2
+/boot/grub/fonts/terminus16.pf2
+/boot/grub/fonts/terminus18.pf2
+/boot/grub/fonts/terminus20.pf2
+/boot/grub/fonts/terminus22.pf2
+/boot/grub/fonts/terminus24.pf2
+/boot/grub/fonts/terminus28.pf2
+/boot/grub/fonts/terminus32.pf2
+/usr/bin/grub-terminus
+/usr/share/licenses/grub-terminus/OFL.txt

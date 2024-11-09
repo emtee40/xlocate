@@ -1,0 +1,8 @@
+/etc/bacula/scripts/create_postgresql_database
+/etc/bacula/scripts/drop_postgresql_database
+/etc/bacula/scripts/drop_postgresql_tables
+/etc/bacula/scripts/grant_postgresql_privileges
+/etc/bacula/scripts/make_postgresql_tables
+/etc/bacula/scripts/update_postgresql_tables
+/usr/lib/libbaccats-postgresql-13.0.3.so
+/usr/lib/libbaccats-postgresql.so -> /usr/lib/libbaccats-postgresql-13.0.3.so

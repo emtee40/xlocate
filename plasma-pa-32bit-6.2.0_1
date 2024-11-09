@@ -1,0 +1,5 @@
+/usr/lib32/libplasma-volume.so.6 -> /usr/lib32/libplasma-volume.so.6.2.0
+/usr/lib32/libplasma-volume.so.6.2.0
+/usr/lib32/qt6/plugins/kf6/kded/audioshortcutsservice.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_pulseaudio.so
+/usr/lib32/qt6/qml/org/kde/plasma/private/volume/libplasma-volume-declarative.so

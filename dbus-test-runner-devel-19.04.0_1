@@ -1,0 +1,9 @@
+/usr/include/libdbustest-1/libdbustest/bustle.h
+/usr/include/libdbustest-1/libdbustest/dbus-mock.h
+/usr/include/libdbustest-1/libdbustest/dbus-test.h
+/usr/include/libdbustest-1/libdbustest/process.h
+/usr/include/libdbustest-1/libdbustest/service.h
+/usr/include/libdbustest-1/libdbustest/task.h
+/usr/lib/libdbustest.a
+/usr/lib/libdbustest.so -> /usr/lib/libdbustest.so.1.0.0
+/usr/lib/pkgconfig/dbustest-1.pc

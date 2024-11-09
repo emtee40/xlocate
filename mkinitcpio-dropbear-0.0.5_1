@@ -1,0 +1,3 @@
+/usr/lib/initcpio/hooks/dropbear
+/usr/lib/initcpio/install/dropbear
+/usr/share/licenses/mkinitcpio-dropbear/LICENSE

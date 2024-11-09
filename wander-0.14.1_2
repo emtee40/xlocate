@@ -1,0 +1,5 @@
+/usr/bin/wander
+/usr/share/bash-completion/completions/wander
+/usr/share/fish/vendor_completions.d/wander.fish
+/usr/share/licenses/wander/LICENSE
+/usr/share/zsh/site-functions/_wander

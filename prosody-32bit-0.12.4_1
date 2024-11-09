@@ -1,0 +1,12 @@
+/usr/lib32/prosody/util/compat.so
+/usr/lib32/prosody/util/encodings.so
+/usr/lib32/prosody/util/hashes.so
+/usr/lib32/prosody/util/net.so
+/usr/lib32/prosody/util/poll.so
+/usr/lib32/prosody/util/pposix.so
+/usr/lib32/prosody/util/ringbuffer.so
+/usr/lib32/prosody/util/signal.so
+/usr/lib32/prosody/util/strbitop.so
+/usr/lib32/prosody/util/struct.so
+/usr/lib32/prosody/util/table.so
+/usr/lib32/prosody/util/time.so

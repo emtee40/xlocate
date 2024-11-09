@@ -1,0 +1,13 @@
+/usr/lib/libkaccounts.so.2 -> /usr/lib/libkaccounts.so.23.08.5
+/usr/lib/libkaccounts.so.23.08.5
+/usr/lib/qt5/plugins/kaccounts/daemonplugins/kaccounts_kio_webdav_plugin.so
+/usr/lib/qt5/plugins/kf5/kded/kded_accounts.so
+/usr/lib/qt5/plugins/plasma/kcms/systemsettings/kcm_kaccounts.so
+/usr/lib/qt5/qml/org/kde/kaccounts/libkaccountsdeclarativeplugin.so
+/usr/lib/qt5/qml/org/kde/kaccounts/qmldir
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/AccountDetails.qml
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/AvailableAccounts.qml
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/MessageBoxSheet.qml
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/RemoveAccountDialog.qml
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/RenameAccountDialog.qml
+/usr/share/kpackage/kcms/kcm_kaccounts/contents/ui/main.qml

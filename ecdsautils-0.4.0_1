@@ -1,0 +1,10 @@
+/usr/bin/ecdsakeygen -> /usr/bin/ecdsautil
+/usr/bin/ecdsasign -> /usr/bin/ecdsautil
+/usr/bin/ecdsautil
+/usr/bin/ecdsaverify -> /usr/bin/ecdsautil
+/usr/include/ecdsautil-0.4.0/ecdsautil/ecdsa.h
+/usr/include/ecdsautil-0.4.0/ecdsautil/sha256.h
+/usr/lib/libecdsautil.so -> /usr/lib/libecdsautil.so.0
+/usr/lib/libecdsautil.so.0
+/usr/lib/pkgconfig/ecdsautil.pc
+/usr/share/licenses/ecdsautils/COPYRIGHT

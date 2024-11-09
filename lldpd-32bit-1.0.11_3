@@ -1,0 +1,5 @@
+/usr/lib32/liblldpctl.a
+/usr/lib32/liblldpctl.so -> /usr/lib32/liblldpctl.so.4.9.0
+/usr/lib32/liblldpctl.so.4 -> /usr/lib32/liblldpctl.so.4.9.0
+/usr/lib32/liblldpctl.so.4.9.0
+/usr/lib32/pkgconfig/lldpctl.pc

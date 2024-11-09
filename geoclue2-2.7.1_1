@@ -1,0 +1,22 @@
+/etc/geoclue/geoclue.conf
+/etc/xdg/autostart/geoclue-demo-agent.desktop
+/usr/lib/girepository-1.0/Geoclue-2.0.typelib
+/usr/lib/libgeoclue-2.so.0 -> /usr/lib/libgeoclue-2.so.0.0.0
+/usr/lib/libgeoclue-2.so.0.0.0
+/usr/libexec/geoclue
+/usr/libexec/geoclue-2.0/demos/agent
+/usr/libexec/geoclue-2.0/demos/where-am-i
+/usr/share/applications/geoclue-demo-agent.desktop
+/usr/share/applications/geoclue-where-am-i.desktop
+/usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Agent.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Client.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Location.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.Manager.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.GeoClue2.xml
+/usr/share/dbus-1/system-services/org.freedesktop.GeoClue2.service
+/usr/share/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf
+/usr/share/dbus-1/system.d/org.freedesktop.GeoClue2.conf
+/usr/share/man/man5/geoclue.5
+/usr/share/polkit-1/rules.d/org.freedesktop.GeoClue2.rules
+/usr/share/vala/vapi/libgeoclue-2.0.deps
+/usr/share/vala/vapi/libgeoclue-2.0.vapi

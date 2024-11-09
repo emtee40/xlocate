@@ -1,0 +1,12 @@
+/etc/cupshelpers/preferreddrivers.xml
+/usr/lib/python3.12/site-packages/cupshelpers-1.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/cupshelpers-1.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/cupshelpers-1.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/cupshelpers-1.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/cupshelpers/__init__.py
+/usr/lib/python3.12/site-packages/cupshelpers/config.py
+/usr/lib/python3.12/site-packages/cupshelpers/cupshelpers.py
+/usr/lib/python3.12/site-packages/cupshelpers/installdriver.py
+/usr/lib/python3.12/site-packages/cupshelpers/openprinting.py
+/usr/lib/python3.12/site-packages/cupshelpers/ppds.py
+/usr/lib/python3.12/site-packages/cupshelpers/xmldriverprefs.py

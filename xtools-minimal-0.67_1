@@ -1,0 +1,46 @@
+/usr/bin/xcheckrestart
+/usr/bin/xchroot
+/usr/bin/xclash
+/usr/bin/xdbg
+/usr/bin/xdiff
+/usr/bin/xdistdir
+/usr/bin/xdowngrade
+/usr/bin/xetcchanges
+/usr/bin/xgrep
+/usr/bin/xhog
+/usr/bin/xi
+/usr/bin/xilog
+/usr/bin/xls
+/usr/bin/xmksv
+/usr/bin/xnodev
+/usr/bin/xoptdiff
+/usr/bin/xpkg
+/usr/bin/xq
+/usr/bin/xrs
+/usr/bin/xtree -> /usr/bin/xls
+/usr/bin/xuname
+/usr/bin/xvoidstrap
+/usr/share/man/man1/xcheckrestart.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xchroot.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xclash.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xdbg.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xdiff.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xdistdir.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xdowngrade.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xetcchanges.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xgrep.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xhog.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xi.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xilog.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xls.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xmksv.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xnodev.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xoptdiff.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xpkg.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xq.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xrs.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xtools.1
+/usr/share/man/man1/xtree.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xuname.1 -> /usr/share/man/man1/xtools.1
+/usr/share/man/man1/xvoidstrap.1 -> /usr/share/man/man1/xtools.1
+/usr/share/zsh/site-functions/_xtools

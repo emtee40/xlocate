@@ -1,0 +1,6 @@
+/usr/lib32/libQt5Multimedia.so -> /usr/lib32/libQt5Multimedia.so.5.15.11
+/usr/lib32/libQt5MultimediaGstTools.so -> /usr/lib32/libQt5MultimediaGstTools.so.5.15.11
+/usr/lib32/libQt5MultimediaQuick.so -> /usr/lib32/libQt5MultimediaQuick.so.5.15.11
+/usr/lib32/libQt5MultimediaWidgets.so -> /usr/lib32/libQt5MultimediaWidgets.so.5.15.11
+/usr/lib32/pkgconfig/Qt5Multimedia.pc
+/usr/lib32/pkgconfig/Qt5MultimediaWidgets.pc

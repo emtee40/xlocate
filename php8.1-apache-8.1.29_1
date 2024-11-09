@@ -1,0 +1,2 @@
+/etc/apache/extra/php8.1_module.conf
+/usr/libexec/httpd/modules/libphp8.1.so

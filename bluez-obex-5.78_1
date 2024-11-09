@@ -1,0 +1,13 @@
+/usr/libexec/bluetooth/obexd
+/usr/share/dbus-1/services/org.bluez.obex.service
+/usr/share/man/man5/org.bluez.obex.Agent.5
+/usr/share/man/man5/org.bluez.obex.AgentManager.5
+/usr/share/man/man5/org.bluez.obex.Client.5
+/usr/share/man/man5/org.bluez.obex.FileTransfer.5
+/usr/share/man/man5/org.bluez.obex.Message.5
+/usr/share/man/man5/org.bluez.obex.MessageAccess.5
+/usr/share/man/man5/org.bluez.obex.ObjectPush.5
+/usr/share/man/man5/org.bluez.obex.PhonebookAccess.5
+/usr/share/man/man5/org.bluez.obex.Session.5
+/usr/share/man/man5/org.bluez.obex.Synchronization.5
+/usr/share/man/man5/org.bluez.obex.Transfer.5

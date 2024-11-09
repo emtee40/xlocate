@@ -1,0 +1,13 @@
+/usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so -> /usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0
+/usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0 -> /usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0.0.1
+/usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0.0.1
+/usr/lib32/GNUstep/Frameworks/GormCore.framework/libGormCore.so -> ./Versions/Current/libGormCore.so
+/usr/lib32/libGormCore.so -> ./GNUstep/Frameworks/GormCore.framework/Versions/Current/libGormCore.so
+/usr/lib32/libGormCore.so.0 -> /usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0.0.1
+/usr/lib32/libGormCore.so.0.0.1 -> /usr/lib32/GNUstep/Frameworks/GormCore.framework/Versions/0/libGormCore.so.0.0.1
+/usr/lib32/libGormObjCHeaderParser.so -> /usr/lib32/libGormObjCHeaderParser.so.0
+/usr/lib32/libGormObjCHeaderParser.so.0 -> /usr/lib32/libGormObjCHeaderParser.so.0.0.1
+/usr/lib32/libGormObjCHeaderParser.so.0.0.1
+/usr/lib32/libInterfaceBuilder.so -> /usr/lib32/libInterfaceBuilder.so.1
+/usr/lib32/libInterfaceBuilder.so.1 -> /usr/lib32/libInterfaceBuilder.so.1.1.0
+/usr/lib32/libInterfaceBuilder.so.1.1.0

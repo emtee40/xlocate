@@ -1,0 +1,24 @@
+/etc/dhcpcd.conf
+/etc/sv/dhcpcd-eth0/log/run
+/etc/sv/dhcpcd-eth0/log/supervise -> /run/runit/supervise.dhcpcd-eth0-log
+/etc/sv/dhcpcd-eth0/run
+/etc/sv/dhcpcd-eth0/supervise -> /run/runit/supervise.dhcpcd-eth0
+/etc/sv/dhcpcd/log/run
+/etc/sv/dhcpcd/log/supervise -> /run/runit/supervise.dhcpcd-log
+/etc/sv/dhcpcd/run
+/etc/sv/dhcpcd/supervise -> /run/runit/supervise.dhcpcd
+/usr/bin/dhcpcd
+/usr/lib/dhcpcd/dev/udev.so
+/usr/libexec/dhcpcd-hooks/01-test
+/usr/libexec/dhcpcd-hooks/20-resolv.conf
+/usr/libexec/dhcpcd-hooks/30-hostname
+/usr/libexec/dhcpcd-hooks/50-ntp.conf
+/usr/libexec/dhcpcd-run-hooks
+/usr/share/dhcpcd/hooks/10-wpa_supplicant
+/usr/share/dhcpcd/hooks/15-timezone
+/usr/share/dhcpcd/hooks/29-lookup-hostname
+/usr/share/dhcpcd/hooks/50-yp.conf
+/usr/share/licenses/dhcpcd/LICENSE
+/usr/share/man/man5/dhcpcd.conf.5
+/usr/share/man/man8/dhcpcd-run-hooks.8
+/usr/share/man/man8/dhcpcd.8

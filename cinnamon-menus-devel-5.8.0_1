@@ -1,0 +1,5 @@
+/usr/include/cinnamon-menus-3.0/gmenu-desktopappinfo.h
+/usr/include/cinnamon-menus-3.0/gmenu-tree.h
+/usr/lib/libcinnamon-menu-3.so -> /usr/lib/libcinnamon-menu-3.so.0
+/usr/lib/pkgconfig/libcinnamon-menu-3.0.pc
+/usr/share/gir-1.0/CMenu-3.0.gir

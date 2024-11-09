@@ -1,0 +1,41 @@
+/usr/lib32/libamd.so.3 -> /usr/lib32/libamd.so.3.3.3
+/usr/lib32/libamd.so.3.3.3
+/usr/lib32/libbtf.so.2 -> /usr/lib32/libbtf.so.2.3.2
+/usr/lib32/libbtf.so.2.3.2
+/usr/lib32/libcamd.so.3 -> /usr/lib32/libcamd.so.3.3.3
+/usr/lib32/libcamd.so.3.3.3
+/usr/lib32/libccolamd.so.3 -> /usr/lib32/libccolamd.so.3.3.4
+/usr/lib32/libccolamd.so.3.3.4
+/usr/lib32/libcholmod.so.5 -> /usr/lib32/libcholmod.so.5.3.0
+/usr/lib32/libcholmod.so.5.3.0
+/usr/lib32/libcolamd.so.3 -> /usr/lib32/libcolamd.so.3.3.4
+/usr/lib32/libcolamd.so.3.3.4
+/usr/lib32/libcxsparse.so.4 -> /usr/lib32/libcxsparse.so.4.4.1
+/usr/lib32/libcxsparse.so.4.4.1
+/usr/lib32/libgraphblas.so.9 -> /usr/lib32/libgraphblas.so.9.3.1
+/usr/lib32/libgraphblas.so.9.3.1
+/usr/lib32/libklu.so.2 -> /usr/lib32/libklu.so.2.3.5
+/usr/lib32/libklu.so.2.3.5
+/usr/lib32/libklu_cholmod.so.2 -> /usr/lib32/libklu_cholmod.so.2.3.5
+/usr/lib32/libklu_cholmod.so.2.3.5
+/usr/lib32/liblagraph.so.1 -> /usr/lib32/liblagraph.so.1.1.4
+/usr/lib32/liblagraph.so.1.1.4
+/usr/lib32/liblagraphx.so.1 -> /usr/lib32/liblagraphx.so.1.1.4
+/usr/lib32/liblagraphx.so.1.1.4
+/usr/lib32/libldl.so.3 -> /usr/lib32/libldl.so.3.3.2
+/usr/lib32/libldl.so.3.3.2
+/usr/lib32/libparu.so.1 -> /usr/lib32/libparu.so.1.0.0
+/usr/lib32/libparu.so.1.0.0
+/usr/lib32/librbio.so.4 -> /usr/lib32/librbio.so.4.3.4
+/usr/lib32/librbio.so.4.3.4
+/usr/lib32/libspex.so.3 -> /usr/lib32/libspex.so.3.2.1
+/usr/lib32/libspex.so.3.2.1
+/usr/lib32/libspexpython.so.3 -> /usr/lib32/libspexpython.so.3.2.1
+/usr/lib32/libspexpython.so.3.2.1
+/usr/lib32/libspqr.so.4 -> /usr/lib32/libspqr.so.4.3.4
+/usr/lib32/libspqr.so.4.3.4
+/usr/lib32/libsuitesparse_mongoose.so.3
+/usr/lib32/libsuitesparseconfig.so.7 -> /usr/lib32/libsuitesparseconfig.so.7.8.3
+/usr/lib32/libsuitesparseconfig.so.7.8.3
+/usr/lib32/libumfpack.so.6 -> /usr/lib32/libumfpack.so.6.3.5
+/usr/lib32/libumfpack.so.6.3.5

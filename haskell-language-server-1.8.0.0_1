@@ -1,0 +1,4 @@
+/usr/bin/ghcide
+/usr/bin/ghcide-test-preprocessor
+/usr/bin/haskell-language-server
+/usr/bin/haskell-language-server-wrapper

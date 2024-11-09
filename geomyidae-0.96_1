@@ -1,0 +1,7 @@
+/etc/sv/geomyidae/log/run
+/etc/sv/geomyidae/log/supervise -> /run/runit/supervise.geomyidae-log
+/etc/sv/geomyidae/run
+/etc/sv/geomyidae/supervise -> /run/runit/supervise.geomyidae
+/usr/bin/geomyidae
+/usr/share/licenses/geomyidae/LICENSE
+/usr/share/man/man8/geomyidae.8

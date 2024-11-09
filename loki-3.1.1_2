@@ -1,0 +1,4 @@
+/usr/bin/logcli
+/usr/bin/loki
+/usr/bin/loki-canary
+/usr/bin/promtail

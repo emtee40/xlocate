@@ -1,0 +1,9 @@
+/etc/dbus-1/system.d/org.clightd.clightd.conf
+/etc/sv/Clightd/log/run
+/etc/sv/Clightd/log/supervise -> /run/runit/supervise.Clightd-log
+/etc/sv/Clightd/run
+/etc/sv/Clightd/supervise -> /run/runit/supervise.Clightd
+/usr/lib/modules-load.d/i2c_clightd.conf
+/usr/libexec/clightd
+/usr/share/dbus-1/system-services/org.clightd.clightd.service
+/usr/share/polkit-1/actions/org.clightd.clightd.policy

@@ -1,0 +1,11 @@
+/usr/lib32/libecpg.a
+/usr/lib32/libecpg_compat.a
+/usr/lib32/libpgcommon.a
+/usr/lib32/libpgfeutils.a
+/usr/lib32/libpgport.a
+/usr/lib32/libpgtypes.a
+/usr/lib32/libpq.a
+/usr/lib32/pkgconfig/libecpg.pc
+/usr/lib32/pkgconfig/libecpg_compat.pc
+/usr/lib32/pkgconfig/libpgtypes.pc
+/usr/lib32/pkgconfig/libpq.pc

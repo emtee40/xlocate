@@ -1,0 +1,8 @@
+/usr/lib32/libbooster.a
+/usr/lib32/libbooster.so -> /usr/lib32/libbooster.so.0
+/usr/lib32/libbooster.so.0 -> /usr/lib32/libbooster.so.0.2.0
+/usr/lib32/libbooster.so.0.2.0
+/usr/lib32/libcppcms.a
+/usr/lib32/libcppcms.so -> /usr/lib32/libcppcms.so.1
+/usr/lib32/libcppcms.so.1 -> /usr/lib32/libcppcms.so.1.2.1
+/usr/lib32/libcppcms.so.1.2.1

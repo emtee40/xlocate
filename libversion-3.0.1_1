@@ -1,0 +1,5 @@
+/usr/bin/version_compare
+/usr/bin/version_sort
+/usr/lib/libversion.so.1 -> /usr/lib/libversion.so.1.0.0
+/usr/lib/libversion.so.1.0.0
+/usr/share/licenses/libversion/COPYING

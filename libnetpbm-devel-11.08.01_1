@@ -1,0 +1,21 @@
+/usr/include/netpbm/colorname.h
+/usr/include/netpbm/mallocvar.h
+/usr/include/netpbm/pam.h
+/usr/include/netpbm/pamdraw.h
+/usr/include/netpbm/pammap.h
+/usr/include/netpbm/pbm.h
+/usr/include/netpbm/pbmfont.h
+/usr/include/netpbm/pbmfontdata.h
+/usr/include/netpbm/pgm.h
+/usr/include/netpbm/pm.h
+/usr/include/netpbm/pm_config.h
+/usr/include/netpbm/pm_gamma.h
+/usr/include/netpbm/pm_system.h
+/usr/include/netpbm/pnm.h
+/usr/include/netpbm/ppm.h
+/usr/include/netpbm/ppmcmap.h
+/usr/include/netpbm/ppmdfont.h
+/usr/include/netpbm/ppmdraw.h
+/usr/include/netpbm/runlength.h
+/usr/include/netpbm/shhopt.h
+/usr/lib/libnetpbm.so -> ../lib/libnetpbm.so.11

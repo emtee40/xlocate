@@ -1,0 +1,4 @@
+/usr/lib/password-store/extensions/update.bash
+/usr/share/bash-completion/completions/pass-update
+/usr/share/man/man1/pass-update.1
+/usr/share/zsh/site-functions/_pass-update

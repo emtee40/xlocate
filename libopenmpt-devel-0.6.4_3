@@ -1,0 +1,18 @@
+/usr/include/libopenmpt/libopenmpt.h
+/usr/include/libopenmpt/libopenmpt.hpp
+/usr/include/libopenmpt/libopenmpt_config.h
+/usr/include/libopenmpt/libopenmpt_ext.h
+/usr/include/libopenmpt/libopenmpt_ext.hpp
+/usr/include/libopenmpt/libopenmpt_stream_callbacks_buffer.h
+/usr/include/libopenmpt/libopenmpt_stream_callbacks_fd.h
+/usr/include/libopenmpt/libopenmpt_stream_callbacks_file.h
+/usr/include/libopenmpt/libopenmpt_version.h
+/usr/lib/libopenmpt.a
+/usr/lib/libopenmpt.so -> /usr/lib/libopenmpt.so.0.3.3
+/usr/lib/pkgconfig/libopenmpt.pc
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_c.c
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_c_mem.c
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_c_probe.c
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_c_stdout.c
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_c_unsafe.c
+/usr/share/doc/libopenmpt/examples/libopenmpt_example_cxx.cpp

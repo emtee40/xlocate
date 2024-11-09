@@ -1,0 +1,16 @@
+/usr/bin/padthv1_jack
+/usr/lib/lv2/padthv1.lv2/manifest.ttl
+/usr/lib/lv2/padthv1.lv2/padthv1.so
+/usr/lib/lv2/padthv1.lv2/padthv1.ttl
+/usr/lib/lv2/padthv1.lv2/padthv1_ui.ttl
+/usr/share/applications/org.rncbc.padthv1.desktop
+/usr/share/icons/hicolor/32x32/apps/org.rncbc.padthv1.png
+/usr/share/icons/hicolor/32x32/mimetypes/org.rncbc.padthv1.application-x-padthv1-preset.png
+/usr/share/icons/hicolor/scalable/apps/org.rncbc.padthv1.svg
+/usr/share/icons/hicolor/scalable/mimetypes/org.rncbc.padthv1.application-x-padthv1-preset.svg
+/usr/share/man/fr/man1/padthv1.1
+/usr/share/man/man1/padthv1.1
+/usr/share/metainfo/org.rncbc.padthv1.metainfo.xml
+/usr/share/mime/packages/org.rncbc.padthv1.xml
+/usr/share/padthv1/palette/KXStudio.conf
+/usr/share/padthv1/palette/Wonton Soup.conf

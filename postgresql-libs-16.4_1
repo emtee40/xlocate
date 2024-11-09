@@ -1,0 +1,30 @@
+/usr/lib/libecpg.so -> /usr/lib/libecpg.so.6.16
+/usr/lib/libecpg.so.6 -> /usr/lib/libecpg.so.6.16
+/usr/lib/libecpg.so.6.16
+/usr/lib/libecpg_compat.so -> /usr/lib/libecpg_compat.so.3.16
+/usr/lib/libecpg_compat.so.3 -> /usr/lib/libecpg_compat.so.3.16
+/usr/lib/libecpg_compat.so.3.16
+/usr/lib/libpgtypes.so -> /usr/lib/libpgtypes.so.3.16
+/usr/lib/libpgtypes.so.3 -> /usr/lib/libpgtypes.so.3.16
+/usr/lib/libpgtypes.so.3.16
+/usr/lib/libpq.so -> /usr/lib/libpq.so.5.16
+/usr/lib/libpq.so.5 -> /usr/lib/libpq.so.5.16
+/usr/lib/libpq.so.5.16
+/usr/lib/psql16/share/locale/cs/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/de/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/el/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/es/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/fr/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/he/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/it/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/ja/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/ka/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/ko/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/pl/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/pt_BR/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/ru/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/sv/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/tr/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/uk/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/zh_CN/LC_MESSAGES/libpq5-16.mo
+/usr/lib/psql16/share/locale/zh_TW/LC_MESSAGES/libpq5-16.mo

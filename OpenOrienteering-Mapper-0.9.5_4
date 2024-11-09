@@ -1,0 +1,103 @@
+/usr/bin/Mapper
+/usr/share/applications/Mapper.desktop
+/usr/share/doc/openorienteering-mapper/Mapper None_0.9.5 Manual.qch
+/usr/share/doc/openorienteering-mapper/Mapper None_0.9.5 Manual.qhc
+/usr/share/icons/hicolor/128x128/apps/Mapper.png
+/usr/share/icons/hicolor/128x128/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/128x128/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/16x16/apps/Mapper.png
+/usr/share/icons/hicolor/16x16/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/16x16/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/24x24/apps/Mapper.png
+/usr/share/icons/hicolor/24x24/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/24x24/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/256x256/apps/Mapper.png
+/usr/share/icons/hicolor/256x256/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/256x256/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/32x32/apps/Mapper.png
+/usr/share/icons/hicolor/32x32/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/32x32/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/48x48/apps/Mapper.png
+/usr/share/icons/hicolor/48x48/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/48x48/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/512x512/apps/Mapper.png
+/usr/share/icons/hicolor/512x512/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/512x512/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/icons/hicolor/96x96/apps/Mapper.png
+/usr/share/icons/hicolor/96x96/mimetypes/application-x-openorienteering-ocd.png
+/usr/share/icons/hicolor/96x96/mimetypes/application-x-openorienteering-xmap.png
+/usr/share/man/man1/Mapper.1
+/usr/share/mime/packages/openorienteering-mapper.xml
+/usr/share/openorienteering-mapper/examples/complete map.omap
+/usr/share/openorienteering-mapper/examples/forest sample.omap
+/usr/share/openorienteering-mapper/examples/overprinting.omap
+/usr/share/openorienteering-mapper/gdal/mapper-osmconf.ini
+/usr/share/openorienteering-mapper/symbol sets/10000/Course_Design_10000.omap
+/usr/share/openorienteering-mapper/symbol sets/10000/ISMTBOM_10000.omap
+/usr/share/openorienteering-mapper/symbol sets/10000/ISOM 2017-2_10000.omap
+/usr/share/openorienteering-mapper/symbol sets/10000/ISSkiOM 2019_10000.omap
+/usr/share/openorienteering-mapper/symbol sets/12500/ISSkiOM 2019_12500.omap
+/usr/share/openorienteering-mapper/symbol sets/15000/Course_Design_15000.omap
+/usr/share/openorienteering-mapper/symbol sets/15000/ISMTBOM_15000.omap
+/usr/share/openorienteering-mapper/symbol sets/15000/ISOM 2017-2_15000.omap
+/usr/share/openorienteering-mapper/symbol sets/15000/ISSkiOM 2019_15000.omap
+/usr/share/openorienteering-mapper/symbol sets/20000/ISMTBOM_20000.omap
+/usr/share/openorienteering-mapper/symbol sets/4000/Course_Design_4000.omap
+/usr/share/openorienteering-mapper/symbol sets/4000/ISSprOM 2019_4000.omap
+/usr/share/openorienteering-mapper/symbol sets/5000/Course_Design_5000.omap
+/usr/share/openorienteering-mapper/symbol sets/5000/ISMTBOM_5000.omap
+/usr/share/openorienteering-mapper/symbol sets/5000/ISSkiOM 2019_5000.omap
+/usr/share/openorienteering-mapper/symbol sets/7500/ISMTBOM_7500.omap
+/usr/share/openorienteering-mapper/symbol sets/7500/ISSkiOM 2019_7500.omap
+/usr/share/openorienteering-mapper/symbol sets/ISOM 2017-2-ISSkiOM 2019.crt
+/usr/share/openorienteering-mapper/symbol sets/ISOM 2017-2-ISSprOM 2019.crt
+/usr/share/openorienteering-mapper/symbol sets/ISOM2000-ISOM 2017-2.crt
+/usr/share/openorienteering-mapper/symbol sets/ISSOM-ISSprOM 2019.crt
+/usr/share/openorienteering-mapper/symbol sets/OSM-ISOM 2017-2.crt
+/usr/share/openorienteering-mapper/symbol sets/OSM-ISSkiOM 2019.crt
+/usr/share/openorienteering-mapper/symbol sets/OSM-ISSprOM 2019.crt
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_cs.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_da.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_de.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_en.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_eo.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_es.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_fi.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_fr.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_he.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_hr.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_hu.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_id.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_it.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_ja.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_lv.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_nb.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_nl.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_pl.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_pt_BR.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_pt_PT.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_ru.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_sv.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_uk.qm
+/usr/share/openorienteering-mapper/translations/OpenOrienteering_zh_CN.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_cs.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_da.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_de.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_eo.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_es.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_fi.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_fr.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_hr.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_hu.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_it.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_nb.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_ru.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_sv.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_tr.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_uk.qm
+/usr/share/openorienteering-mapper/translations/map_symbols_zh_CN.qm
+/usr/share/openorienteering-mapper/translations/qt_eo.qm
+/usr/share/openorienteering-mapper/translations/qt_et.qm
+/usr/share/openorienteering-mapper/translations/qt_id.qm
+/usr/share/openorienteering-mapper/translations/qt_nb.qm
+/usr/share/openorienteering-mapper/translations/qt_nl.qm

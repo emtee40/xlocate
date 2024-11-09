@@ -1,0 +1,7 @@
+/usr/bin/rtmpdump
+/usr/bin/rtmpgw
+/usr/bin/rtmpsrv
+/usr/bin/rtmpsuck
+/usr/share/man/man1/rtmpdump.1
+/usr/share/man/man3/librtmp.3
+/usr/share/man/man8/rtmpgw.8

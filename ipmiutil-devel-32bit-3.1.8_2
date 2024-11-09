@@ -1,0 +1,2 @@
+/usr/lib32/libipmiutil.a
+/usr/lib32/libipmiutil.so -> /usr/lib/libipmiutil.so.1

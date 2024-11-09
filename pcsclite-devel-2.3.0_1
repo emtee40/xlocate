@@ -1,0 +1,10 @@
+/usr/include/PCSC/debuglog.h
+/usr/include/PCSC/ifdhandler.h
+/usr/include/PCSC/pcsclite.h
+/usr/include/PCSC/reader.h
+/usr/include/PCSC/winscard.h
+/usr/include/PCSC/wintypes.h
+/usr/lib/libpcsclite.so -> /usr/lib/libpcsclite.so.1
+/usr/lib/libpcsclite_real.so -> /usr/lib/libpcsclite_real.so.1
+/usr/lib/libpcscspy.so -> /usr/lib/libpcscspy.so.0
+/usr/lib/pkgconfig/libpcsclite.pc

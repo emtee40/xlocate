@@ -1,0 +1,33 @@
+/etc/opt/brother/scanner/brscan4/Brsane4.ini
+/etc/opt/brother/scanner/brscan4/brsanenetdevice4.cfg
+/etc/opt/brother/scanner/brscan4/models4/ext_1.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_10.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_11.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_12.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_13.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_14.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_15.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_16.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_17.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_18.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_19.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_2.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_20.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_21.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_22.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_23.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_24.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_25.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_3.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_4.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_5.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_6.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_7.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_8.ini
+/etc/opt/brother/scanner/brscan4/models4/ext_9.ini
+/usr/bin/brsaneconfig4
+/usr/lib/sane/libsane-brother4.so -> /usr/lib/sane/libsane-brother4.so.1.0.7
+/usr/lib/sane/libsane-brother4.so.1 -> /usr/lib/sane/libsane-brother4.so.1.0.7
+/usr/lib/sane/libsane-brother4.so.1.0.7
+/usr/share/licenses/brother-brscan4/LICENSE.html
+/usr/share/licenses/brother-brscan4/readme.txt

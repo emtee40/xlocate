@@ -1,0 +1,4 @@
+/usr/include/X11/extensions/dri2.h
+/usr/lib/libdri2.a
+/usr/lib/libdri2.so -> /usr/lib/libdri2.so.1.0.0
+/usr/lib/pkgconfig/dri2.pc

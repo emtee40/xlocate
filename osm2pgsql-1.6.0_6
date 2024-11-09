@@ -1,0 +1,6 @@
+/usr/bin/osm2pgsql
+/usr/bin/osm2pgsql-replication
+/usr/share/man/man1/osm2pgsql-replication.1
+/usr/share/man/man1/osm2pgsql.1
+/usr/share/osm2pgsql/default.style
+/usr/share/osm2pgsql/empty.style

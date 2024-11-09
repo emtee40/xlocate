@@ -1,0 +1,8 @@
+/usr/lib32/libqca-qt5.so.2 -> /usr/lib32/libqca-qt5.so.2.3.8
+/usr/lib32/libqca-qt5.so.2.3.8
+/usr/lib32/qca-qt5/crypto/libqca-botan.so
+/usr/lib32/qca-qt5/crypto/libqca-gcrypt.so
+/usr/lib32/qca-qt5/crypto/libqca-gnupg.so
+/usr/lib32/qca-qt5/crypto/libqca-logger.so
+/usr/lib32/qca-qt5/crypto/libqca-nss.so
+/usr/lib32/qca-qt5/crypto/libqca-softstore.so

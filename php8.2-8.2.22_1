@@ -1,0 +1,27 @@
+/etc/php8.2/php.ini
+/usr/bin/phar8.2 -> /usr/bin/phar8.2.phar
+/usr/bin/phar8.2.phar
+/usr/bin/php8.2
+/usr/lib/php8.2/modules/bcmath.so
+/usr/lib/php8.2/modules/bz2.so
+/usr/lib/php8.2/modules/calendar.so
+/usr/lib/php8.2/modules/curl.so
+/usr/lib/php8.2/modules/exif.so
+/usr/lib/php8.2/modules/ftp.so
+/usr/lib/php8.2/modules/gettext.so
+/usr/lib/php8.2/modules/gmp.so
+/usr/lib/php8.2/modules/iconv.so
+/usr/lib/php8.2/modules/opcache.so
+/usr/lib/php8.2/modules/openssl.so
+/usr/lib/php8.2/modules/phar.so
+/usr/lib/php8.2/modules/posix.so
+/usr/lib/php8.2/modules/shmop.so
+/usr/lib/php8.2/modules/soap.so
+/usr/lib/php8.2/modules/sockets.so
+/usr/lib/php8.2/modules/sysvmsg.so
+/usr/lib/php8.2/modules/sysvsem.so
+/usr/lib/php8.2/modules/sysvshm.so
+/usr/lib/php8.2/modules/zip.so
+/usr/share/man/man1/phar8.2.1
+/usr/share/man/man1/phar8.2.phar.1
+/usr/share/man/man1/php8.2.1

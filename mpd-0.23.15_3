@@ -1,0 +1,14 @@
+/etc/mpd.conf
+/etc/sv/mpd/log/run
+/etc/sv/mpd/log/supervise -> /run/runit/supervise.mpd-log
+/etc/sv/mpd/run
+/etc/sv/mpd/supervise -> /run/runit/supervise.mpd
+/usr/bin/mpd
+/usr/share/doc/mpd/AUTHORS
+/usr/share/doc/mpd/COPYING
+/usr/share/doc/mpd/NEWS
+/usr/share/doc/mpd/README.md
+/usr/share/examples/mpd/mpdconf.example
+/usr/share/icons/hicolor/scalable/apps/mpd.svg
+/usr/share/man/man1/mpd.1
+/usr/share/man/man5/mpd.conf.5

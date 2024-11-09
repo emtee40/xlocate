@@ -1,0 +1,14 @@
+/usr/bin/soapcpp2
+/usr/bin/wsdl2h
+/usr/lib/libgsoap++-2.8.124.so
+/usr/lib/libgsoap++.so -> /usr/lib/libgsoap++-2.8.124.so
+/usr/lib/libgsoap-2.8.124.so
+/usr/lib/libgsoap.so -> /usr/lib/libgsoap-2.8.124.so
+/usr/lib/libgsoapck++-2.8.124.so
+/usr/lib/libgsoapck++.so -> /usr/lib/libgsoapck++-2.8.124.so
+/usr/lib/libgsoapck-2.8.124.so
+/usr/lib/libgsoapck.so -> /usr/lib/libgsoapck-2.8.124.so
+/usr/lib/libgsoapssl++-2.8.124.so
+/usr/lib/libgsoapssl++.so -> /usr/lib/libgsoapssl++-2.8.124.so
+/usr/lib/libgsoapssl-2.8.124.so
+/usr/lib/libgsoapssl.so -> /usr/lib/libgsoapssl-2.8.124.so

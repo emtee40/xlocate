@@ -1,0 +1,9 @@
+/usr/lib32/gcc/i686-pc-linux-gnu/13.2/adalib/libgmem.a
+/usr/lib32/gcc/i686-pc-linux-gnu/13.2/adalib/libgnarl.a
+/usr/lib32/gcc/i686-pc-linux-gnu/13.2/adalib/libgnarl_pic.a
+/usr/lib32/gcc/i686-pc-linux-gnu/13.2/adalib/libgnat.a
+/usr/lib32/gcc/i686-pc-linux-gnu/13.2/adalib/libgnat_pic.a
+/usr/lib32/libgnarl-13.so
+/usr/lib32/libgnarl.so -> /usr/lib32/libgnarl-13.so
+/usr/lib32/libgnat-13.so
+/usr/lib32/libgnat.so -> /usr/lib32/libgnat-13.so

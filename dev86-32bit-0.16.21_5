@@ -1,0 +1,9 @@
+/usr/lib32/bcc/crt0.o
+/usr/lib32/bcc/i386/crt0.o
+/usr/lib32/bcc/i386/libc.a
+/usr/lib32/bcc/libbcc.a
+/usr/lib32/bcc/libbsd.a
+/usr/lib32/bcc/libc.a
+/usr/lib32/bcc/libc_f.a
+/usr/lib32/bcc/libc_s.a
+/usr/lib32/bcc/libdos.a

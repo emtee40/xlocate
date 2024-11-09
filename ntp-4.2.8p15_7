@@ -1,0 +1,27 @@
+/etc/ntp.conf
+/etc/sv/isc-ntpd/log/run
+/etc/sv/isc-ntpd/log/supervise -> /run/runit/supervise.isc-ntpd-log
+/etc/sv/isc-ntpd/run
+/etc/sv/isc-ntpd/supervise -> /run/runit/supervise.isc-ntpd
+/usr/bin/calc_tickadj
+/usr/bin/isc-ntpd
+/usr/bin/ntp-keygen
+/usr/bin/ntpdate
+/usr/bin/ntpdc
+/usr/bin/ntpq
+/usr/bin/ntptime
+/usr/bin/sntp
+/usr/bin/tickadj
+/usr/bin/update-leap
+/usr/share/licenses/ntp/COPYRIGHT
+/usr/share/man/man1/calc_tickadj.1
+/usr/share/man/man1/ntp-keygen.1
+/usr/share/man/man1/ntp-wait.1
+/usr/share/man/man1/ntpdc.1
+/usr/share/man/man1/ntpq.1
+/usr/share/man/man1/ntptrace.1
+/usr/share/man/man1/sntp.1
+/usr/share/man/man1/update-leap.1
+/usr/share/man/man5/ntp.conf.5
+/usr/share/man/man5/ntp.keys.5
+/usr/share/man/man8/isc-ntpd.8

@@ -1,0 +1,5 @@
+/usr/include/liblouis/liblouis.h
+/usr/lib/liblouis.a
+/usr/lib/liblouis.so -> /usr/lib/liblouis.so.20.0.3
+/usr/lib/pkgconfig/liblouis.pc
+/usr/share/info/liblouis.info

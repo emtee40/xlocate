@@ -1,0 +1,7 @@
+/usr/lib/libLayerShellQtInterface.so.6 -> /usr/lib/libLayerShellQtInterface.so.6.2.0
+/usr/lib/libLayerShellQtInterface.so.6.2.0
+/usr/lib/qt6/plugins/wayland-shell-integration/liblayer-shell.so
+/usr/lib/qt6/qml/org/kde/layershell/LayerShellQtQml.qmltypes
+/usr/lib/qt6/qml/org/kde/layershell/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/layershell/libLayerShellQtQml.so
+/usr/lib/qt6/qml/org/kde/layershell/qmldir

@@ -1,0 +1,5 @@
+/usr/include/yascreen.h
+/usr/lib/libyascreen.a
+/usr/lib/libyascreen.so -> /usr/lib/libyascreen.so.0
+/usr/lib/pkgconfig/yascreen.pc
+/usr/share/man/man3/yascreen.3

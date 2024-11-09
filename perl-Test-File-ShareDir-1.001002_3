@@ -1,0 +1,16 @@
+/usr/share/man/man3/Test::File::ShareDir.3p
+/usr/share/man/man3/Test::File::ShareDir::Dist.3p
+/usr/share/man/man3/Test::File::ShareDir::Module.3p
+/usr/share/man/man3/Test::File::ShareDir::Object::Dist.3p
+/usr/share/man/man3/Test::File::ShareDir::Object::Inc.3p
+/usr/share/man/man3/Test::File::ShareDir::Object::Module.3p
+/usr/share/man/man3/Test::File::ShareDir::TempDirObject.3p
+/usr/share/man/man3/Test::File::ShareDir::Utils.3p
+/usr/share/perl5/vendor_perl/Test/File/ShareDir.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Dist.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Module.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Object/Dist.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Object/Inc.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Object/Module.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/TempDirObject.pm
+/usr/share/perl5/vendor_perl/Test/File/ShareDir/Utils.pm

@@ -1,0 +1,9 @@
+/usr/include/KF5/KSane/KSaneWidget
+/usr/include/KF5/KSane/ksane_export.h
+/usr/include/KF5/KSane/ksane_version.h
+/usr/include/KF5/KSane/ksanewidget.h
+/usr/lib/cmake/KF5Sane/KF5SaneConfig.cmake
+/usr/lib/cmake/KF5Sane/KF5SaneConfigVersion.cmake
+/usr/lib/cmake/KF5Sane/KF5SaneTargets-none.cmake
+/usr/lib/cmake/KF5Sane/KF5SaneTargets.cmake
+/usr/lib/libKF5Sane.so -> /usr/lib/libKF5Sane.so.6

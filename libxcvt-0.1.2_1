@@ -1,0 +1,5 @@
+/usr/bin/cvt
+/usr/lib/libxcvt.so.0 -> /usr/lib/libxcvt.so.0.1.2
+/usr/lib/libxcvt.so.0.1.2
+/usr/share/licenses/libxcvt/COPYING
+/usr/share/man/man1/cvt.1

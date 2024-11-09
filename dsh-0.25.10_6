@@ -1,0 +1,5 @@
+/etc/dsh.conf
+/usr/bin/dsh
+/usr/share/locale/ja/LC_MESSAGES/dsh.mo
+/usr/share/man/man1/dsh.1
+/usr/share/man/man5/dsh.conf.5

@@ -1,0 +1,2 @@
+/usr/bin/xsane-gimp
+/usr/lib/gimp/2.0/plug-ins/xsane -> /usr/bin/xsane-gimp

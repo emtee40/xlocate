@@ -1,0 +1,6 @@
+/etc/sv/edac/run
+/etc/sv/edac/supervise -> /run/runit/supervise.edac
+/usr/bin/edac-ctl
+/usr/bin/edac-util
+/usr/share/man/man1/edac-util.1
+/usr/share/man/man8/edac-ctl.8

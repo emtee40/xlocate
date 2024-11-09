@@ -1,0 +1,8 @@
+/etc/iwgtk.conf
+/etc/xdg/autostart/iwgtk-indicator.desktop
+/usr/bin/iwgtk
+/usr/lib/systemd/user/iwgtk.service
+/usr/share/applications/iwgtk.desktop
+/usr/share/icons/hicolor/scalable/apps/iwgtk.svg
+/usr/share/man/man1/iwgtk.1
+/usr/share/man/man5/iwgtk.5

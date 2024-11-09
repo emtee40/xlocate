@@ -1,0 +1,5 @@
+/usr/lib32/libcord.a
+/usr/lib32/libcord.so -> /usr/lib32/libcord.so.1.5.1
+/usr/lib32/libgc.a
+/usr/lib32/libgc.so -> /usr/lib32/libgc.so.1.5.4
+/usr/lib32/pkgconfig/bdw-gc.pc

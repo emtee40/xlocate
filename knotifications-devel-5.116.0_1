@@ -1,0 +1,24 @@
+/usr/include/KF5/KNotifications/KNotification
+/usr/include/KF5/KNotifications/KNotificationJobUiDelegate
+/usr/include/KF5/KNotifications/KNotificationPlugin
+/usr/include/KF5/KNotifications/KNotificationReplyAction
+/usr/include/KF5/KNotifications/KNotificationRestrictions
+/usr/include/KF5/KNotifications/KNotifyConfig
+/usr/include/KF5/KNotifications/KPassivePopup
+/usr/include/KF5/KNotifications/KStatusNotifierItem
+/usr/include/KF5/KNotifications/knotification.h
+/usr/include/KF5/KNotifications/knotificationjobuidelegate.h
+/usr/include/KF5/KNotifications/knotificationplugin.h
+/usr/include/KF5/KNotifications/knotificationreplyaction.h
+/usr/include/KF5/KNotifications/knotificationrestrictions.h
+/usr/include/KF5/KNotifications/knotifications_export.h
+/usr/include/KF5/KNotifications/knotifications_version.h
+/usr/include/KF5/KNotifications/knotifyconfig.h
+/usr/include/KF5/KNotifications/kpassivepopup.h
+/usr/include/KF5/KNotifications/kstatusnotifieritem.h
+/usr/lib/cmake/KF5Notifications/KF5NotificationsConfig.cmake
+/usr/lib/cmake/KF5Notifications/KF5NotificationsConfigVersion.cmake
+/usr/lib/cmake/KF5Notifications/KF5NotificationsTargets-none.cmake
+/usr/lib/cmake/KF5Notifications/KF5NotificationsTargets.cmake
+/usr/lib/libKF5Notifications.so -> /usr/lib/libKF5Notifications.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KNotifications.pri

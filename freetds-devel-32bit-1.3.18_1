@@ -1,0 +1,6 @@
+/usr/lib32/libct.a
+/usr/lib32/libct.so -> /usr/lib32/libct.so.4.0.0
+/usr/lib32/libsybdb.a
+/usr/lib32/libsybdb.so -> /usr/lib32/libsybdb.so.5.1.0
+/usr/lib32/libtdsodbc.a
+/usr/lib32/libtdsodbc.so -> /usr/lib32/libtdsodbc.so.0.0.0

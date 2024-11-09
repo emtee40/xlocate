@@ -1,0 +1,9 @@
+/etc/sv/rmilter/log/run
+/etc/sv/rmilter/log/supervise -> /run/runit/supervise.rmilter-log
+/etc/sv/rmilter/run
+/etc/sv/rmilter/supervise -> /run/runit/supervise.rmilter
+/usr/bin/rmilter
+/usr/share/doc/rmilter/rmilter-grey.conf
+/usr/share/doc/rmilter/rmilter.conf.sample
+/usr/share/licenses/rmilter/btrie.LICENSE
+/usr/share/licenses/rmilter/rmilter.LICENSE

@@ -1,0 +1,6 @@
+/usr/bin/avfs-config
+/usr/include/avfs.h
+/usr/include/virtual.h
+/usr/lib/libavfs.a
+/usr/lib/libavfs.so -> /usr/lib/libavfs.so.0.0.2
+/usr/lib/pkgconfig/avfs.pc

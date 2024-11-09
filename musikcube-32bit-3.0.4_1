@@ -1,0 +1,10 @@
+/usr/lib32/libmusikcore.so
+/usr/lib32/musikcube/plugins/libffmpegdecoder.so
+/usr/lib32/musikcube/plugins/libhttpdatastream.so
+/usr/lib32/musikcube/plugins/libmpris.so
+/usr/lib32/musikcube/plugins/libnullout.so
+/usr/lib32/musikcube/plugins/libpulseout.so
+/usr/lib32/musikcube/plugins/libserver.so
+/usr/lib32/musikcube/plugins/libstockencoders.so
+/usr/lib32/musikcube/plugins/libsupereqdsp.so
+/usr/lib32/musikcube/plugins/libtaglibreader.so

@@ -1,0 +1,9 @@
+/etc/default/minio
+/etc/minio/config.json
+/etc/sv/minio/log/run
+/etc/sv/minio/log/supervise -> /run/runit/supervise.minio-log
+/etc/sv/minio/run
+/etc/sv/minio/supervise -> /run/runit/supervise.minio
+/usr/bin/minio
+/usr/share/doc/minio/README.md
+/usr/share/doc/minio/README.voidlinux

@@ -1,0 +1,28 @@
+/etc/sv/activityrelay/log/run
+/etc/sv/activityrelay/log/supervise -> /run/runit/supervise.activityrelay-log
+/etc/sv/activityrelay/run
+/etc/sv/activityrelay/supervise -> /run/runit/supervise.activityrelay
+/usr/bin/activityrelay
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/not-zip-safe
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/relay-0.2.4-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/relay/__init__.py
+/usr/lib/python3.12/site-packages/relay/__main__.py
+/usr/lib/python3.12/site-packages/relay/application.py
+/usr/lib/python3.12/site-packages/relay/config.py
+/usr/lib/python3.12/site-packages/relay/database.py
+/usr/lib/python3.12/site-packages/relay/http_client.py
+/usr/lib/python3.12/site-packages/relay/logger.py
+/usr/lib/python3.12/site-packages/relay/manage.py
+/usr/lib/python3.12/site-packages/relay/misc.py
+/usr/lib/python3.12/site-packages/relay/processors.py
+/usr/lib/python3.12/site-packages/relay/views.py
+/usr/share/examples/activityrelay/Dockerfile
+/usr/share/examples/activityrelay/relay.caddy
+/usr/share/examples/activityrelay/relay.nginx
+/usr/share/examples/activityrelay/relay.yaml.example
+/usr/share/licenses/activityrelay/LICENSE

@@ -1,0 +1,15 @@
+/usr/bin/sasm
+/usr/share/applications/sasm.desktop
+/usr/share/doc/sasm/changelog.gz
+/usr/share/doc/sasm/copyright
+/usr/share/sasm/NASM/macro.c
+/usr/share/sasm/Projects/FASMHello.asm
+/usr/share/sasm/Projects/FASMHellox64.asm
+/usr/share/sasm/Projects/GASHello.asm
+/usr/share/sasm/Projects/GASHellox64.asm
+/usr/share/sasm/Projects/NASMHello.asm
+/usr/share/sasm/Projects/NASMHellox64.asm
+/usr/share/sasm/include/io.inc
+/usr/share/sasm/include/io64.inc
+/usr/share/sasm/keys.ini
+/usr/share/sasm/sasm.png

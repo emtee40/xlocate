@@ -1,0 +1,11 @@
+/usr/include/gnome-bluetooth/bluetooth-chooser-button.h
+/usr/include/gnome-bluetooth/bluetooth-chooser-combo.h
+/usr/include/gnome-bluetooth/bluetooth-chooser.h
+/usr/include/gnome-bluetooth/bluetooth-client.h
+/usr/include/gnome-bluetooth/bluetooth-enums.h
+/usr/include/gnome-bluetooth/bluetooth-filter-widget.h
+/usr/include/gnome-bluetooth/bluetooth-settings-widget.h
+/usr/include/gnome-bluetooth/bluetooth-utils.h
+/usr/lib/libgnome-bluetooth.so -> /usr/lib/libgnome-bluetooth.so.13
+/usr/lib/pkgconfig/gnome-bluetooth-1.0.pc
+/usr/share/gir-1.0/GnomeBluetooth-1.0.gir

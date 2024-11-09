@@ -1,0 +1,4 @@
+/usr/lib32/libKRdp.so -> /usr/lib32/libKRdp.so.6
+/usr/lib32/libKRdp.so.6 -> /usr/lib32/libKRdp.so.6.2.0
+/usr/lib32/libKRdp.so.6.2.0
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_krdpserver.so

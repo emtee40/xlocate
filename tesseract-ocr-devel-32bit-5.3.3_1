@@ -1,0 +1,3 @@
+/usr/lib32/libtesseract.a
+/usr/lib32/libtesseract.so -> /usr/lib32/libtesseract.so.5.0.3
+/usr/lib32/pkgconfig/tesseract.pc

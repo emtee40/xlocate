@@ -1,0 +1,9 @@
+/usr/lib32/libbudgie-appindexer.so -> /usr/lib32/libbudgie-appindexer.so.0
+/usr/lib32/libbudgie-plugin.so -> /usr/lib32/libbudgie-plugin.so.0
+/usr/lib32/libbudgie-private.so -> /usr/lib32/libbudgie-private.so.0
+/usr/lib32/libbudgie-raven-plugin.so -> /usr/lib32/libbudgie-raven-plugin.so.0
+/usr/lib32/libbudgietheme.so -> /usr/lib32/libbudgietheme.so.0
+/usr/lib32/libraven.so -> /usr/lib32/libraven.so.0
+/usr/lib32/pkgconfig/budgie-1.0.pc
+/usr/lib32/pkgconfig/budgie-raven-plugin-1.0.pc
+/usr/lib32/pkgconfig/budgie-theme-1.0.pc

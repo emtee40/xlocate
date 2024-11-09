@@ -1,0 +1,2 @@
+/usr/lib32/libbaccats-postgresql-13.0.3.so
+/usr/lib32/libbaccats-postgresql.so -> /usr/lib32/libbaccats-postgresql-13.0.3.so

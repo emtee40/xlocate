@@ -1,0 +1,6 @@
+/usr/bin/qFlipper
+/usr/bin/qFlipper-cli
+/usr/lib/qFlipper/plugins/libflipperproto0.so
+/usr/lib/udev/rules.d/42-flipperzero.rules
+/usr/share/applications/qFlipper.desktop
+/usr/share/icons/hicolor/512x512/apps/qFlipper.png

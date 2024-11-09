@@ -1,0 +1,6 @@
+/usr/bin/dumpelf
+/usr/bin/lddtree
+/usr/bin/pspax
+/usr/bin/scanelf
+/usr/bin/scanmacho
+/usr/bin/symtree

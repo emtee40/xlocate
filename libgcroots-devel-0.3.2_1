@@ -1,0 +1,4 @@
+/usr/include/gcroots.h
+/usr/lib/libgcroots.a
+/usr/lib/libgcroots.so -> /usr/lib/libgcroots.so.0.1.0
+/usr/lib/pkgconfig/gcroots.pc

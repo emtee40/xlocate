@@ -1,0 +1,8 @@
+/usr/lib/cmake/uid_wrapper/uid_wrapper-config-version.cmake
+/usr/lib/cmake/uid_wrapper/uid_wrapper-config.cmake
+/usr/lib/libuid_wrapper.so -> /usr/lib/libuid_wrapper.so.0
+/usr/lib/libuid_wrapper.so.0 -> /usr/lib/libuid_wrapper.so.0.2.0
+/usr/lib/libuid_wrapper.so.0.2.0
+/usr/lib/pkgconfig/uid_wrapper.pc
+/usr/share/licenses/uid_wrapper/LICENSE
+/usr/share/man/man1/uid_wrapper.1

@@ -1,0 +1,10 @@
+/etc/oidentd.conf
+/etc/oidentd_masq.conf
+/etc/sv/oidentd/log/run
+/etc/sv/oidentd/log/supervise -> /run/runit/supervise.oidentd-log
+/etc/sv/oidentd/run
+/etc/sv/oidentd/supervise -> /run/runit/supervise.oidentd
+/usr/bin/oidentd
+/usr/share/man/man5/oidentd.conf.5
+/usr/share/man/man5/oidentd_masq.conf.5
+/usr/share/man/man8/oidentd.8

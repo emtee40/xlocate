@@ -1,0 +1,35 @@
+/usr/lib32/libttsmimic.a
+/usr/lib32/libttsmimic.so -> /usr/lib32/libttsmimic.so.0.0.0
+/usr/lib32/libttsmimic_lang_all_langs.a
+/usr/lib32/libttsmimic_lang_all_langs.so -> /usr/lib32/libttsmimic_lang_all_langs.so.0.0.0
+/usr/lib32/libttsmimic_lang_all_voices.a
+/usr/lib32/libttsmimic_lang_all_voices.so -> /usr/lib32/libttsmimic_lang_all_voices.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_grapheme_lang.a
+/usr/lib32/libttsmimic_lang_cmu_grapheme_lang.so -> /usr/lib32/libttsmimic_lang_cmu_grapheme_lang.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_grapheme_lex.a
+/usr/lib32/libttsmimic_lang_cmu_grapheme_lex.so -> /usr/lib32/libttsmimic_lang_cmu_grapheme_lex.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_indic_lang.a
+/usr/lib32/libttsmimic_lang_cmu_indic_lang.so -> /usr/lib32/libttsmimic_lang_cmu_indic_lang.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_indic_lex.a
+/usr/lib32/libttsmimic_lang_cmu_indic_lex.so -> /usr/lib32/libttsmimic_lang_cmu_indic_lex.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_time_awb.a
+/usr/lib32/libttsmimic_lang_cmu_time_awb.so -> /usr/lib32/libttsmimic_lang_cmu_time_awb.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_awb.a
+/usr/lib32/libttsmimic_lang_cmu_us_awb.so -> /usr/lib32/libttsmimic_lang_cmu_us_awb.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_kal.a
+/usr/lib32/libttsmimic_lang_cmu_us_kal.so -> /usr/lib32/libttsmimic_lang_cmu_us_kal.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_kal16.a
+/usr/lib32/libttsmimic_lang_cmu_us_kal16.so -> /usr/lib32/libttsmimic_lang_cmu_us_kal16.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_rms.a
+/usr/lib32/libttsmimic_lang_cmu_us_rms.so -> /usr/lib32/libttsmimic_lang_cmu_us_rms.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_slt.a
+/usr/lib32/libttsmimic_lang_cmu_us_slt.so -> /usr/lib32/libttsmimic_lang_cmu_us_slt.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmu_us_slt_hts.a
+/usr/lib32/libttsmimic_lang_cmu_us_slt_hts.so -> /usr/lib32/libttsmimic_lang_cmu_us_slt_hts.so.0.0.0
+/usr/lib32/libttsmimic_lang_cmulex.a
+/usr/lib32/libttsmimic_lang_cmulex.so -> /usr/lib32/libttsmimic_lang_cmulex.so.0.0.0
+/usr/lib32/libttsmimic_lang_usenglish.a
+/usr/lib32/libttsmimic_lang_usenglish.so -> /usr/lib32/libttsmimic_lang_usenglish.so.0.0.0
+/usr/lib32/libttsmimic_lang_vid_gb_ap.a
+/usr/lib32/libttsmimic_lang_vid_gb_ap.so -> /usr/lib32/libttsmimic_lang_vid_gb_ap.so.0.0.0
+/usr/lib32/pkgconfig/mimic.pc

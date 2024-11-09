@@ -1,0 +1,13 @@
+/usr/include/kernelshark/KsCmakeDef.hpp
+/usr/include/kernelshark/KsPlotTools.hpp
+/usr/include/kernelshark/KsPlugins.hpp
+/usr/include/kernelshark/KsPluginsGUI.hpp
+/usr/include/kernelshark/libkshark-model.h
+/usr/include/kernelshark/libkshark-plot.h
+/usr/include/kernelshark/libkshark-plugin.h
+/usr/include/kernelshark/libkshark-tepdata.h
+/usr/include/kernelshark/libkshark.h
+/usr/include/kernelshark/plugins/common_sched.h
+/usr/include/kernelshark/stb_truetype.h
+/usr/lib/libkshark.so -> /usr/lib/libkshark.so.2
+/usr/lib/pkgconfig/libkshark.pc

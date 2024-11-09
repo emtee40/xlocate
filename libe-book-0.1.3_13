@@ -1,0 +1,5 @@
+/usr/bin/ebook2html
+/usr/bin/ebook2raw
+/usr/bin/ebook2text
+/usr/lib/libe-book-0.1.so.1 -> /usr/lib/libe-book-0.1.so.1.0.3
+/usr/lib/libe-book-0.1.so.1.0.3

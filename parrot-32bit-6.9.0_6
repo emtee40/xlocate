@@ -1,0 +1,15 @@
+/usr/lib32/libparrot.so.6.9.0
+/usr/lib32/parrot/6.9.0/dynext/bit_ops.so
+/usr/lib32/parrot/6.9.0/dynext/debug_ops.so
+/usr/lib32/parrot/6.9.0/dynext/dynlexpad.so
+/usr/lib32/parrot/6.9.0/dynext/file.so
+/usr/lib32/parrot/6.9.0/dynext/io_ops.so
+/usr/lib32/parrot/6.9.0/dynext/math_ops.so
+/usr/lib32/parrot/6.9.0/dynext/obscure_ops.so
+/usr/lib32/parrot/6.9.0/dynext/os.so
+/usr/lib32/parrot/6.9.0/dynext/rational.so
+/usr/lib32/parrot/6.9.0/dynext/select.so
+/usr/lib32/parrot/6.9.0/dynext/subproxy.so
+/usr/lib32/parrot/6.9.0/dynext/sys_ops.so
+/usr/lib32/parrot/6.9.0/dynext/trans_ops.so
+/usr/lib32/parrot/6.9.0/parrot_config.o

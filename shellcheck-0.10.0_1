@@ -1,0 +1,7 @@
+/usr/bin/shellcheck
+/usr/share/doc/shellcheck/README.html
+/usr/share/doc/shellcheck/doc/emacs-flycheck.png
+/usr/share/doc/shellcheck/doc/shellcheck_logo.svg
+/usr/share/doc/shellcheck/doc/terminal.png
+/usr/share/doc/shellcheck/doc/vim-syntastic.png
+/usr/share/man/man1/shellcheck.1

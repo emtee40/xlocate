@@ -1,0 +1,5 @@
+/usr/lib32/libqtforkawesome.so -> /usr/lib32/libqtforkawesome.so.1
+/usr/lib32/libqtquickforkawesome.so -> /usr/lib32/libqtquickforkawesome.so.1
+/usr/lib32/pkgconfig/qtforkawesome.pc
+/usr/lib32/pkgconfig/qtforkawesomeiconengine.pc
+/usr/lib32/pkgconfig/qtquickforkawesome.pc

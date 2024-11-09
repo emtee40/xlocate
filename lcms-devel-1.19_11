@@ -1,0 +1,4 @@
+/usr/include/icc34.h
+/usr/include/lcms.h
+/usr/lib/liblcms.so -> /usr/lib/liblcms.so.1.0.19
+/usr/lib/pkgconfig/lcms.pc

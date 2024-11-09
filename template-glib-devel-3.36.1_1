@@ -1,0 +1,17 @@
+/usr/include/template-glib-1.0/tmpl-debug.h
+/usr/include/template-glib-1.0/tmpl-enums.h
+/usr/include/template-glib-1.0/tmpl-error.h
+/usr/include/template-glib-1.0/tmpl-expr-types.h
+/usr/include/template-glib-1.0/tmpl-expr.h
+/usr/include/template-glib-1.0/tmpl-glib.h
+/usr/include/template-glib-1.0/tmpl-scope.h
+/usr/include/template-glib-1.0/tmpl-symbol.h
+/usr/include/template-glib-1.0/tmpl-template-locator.h
+/usr/include/template-glib-1.0/tmpl-template.h
+/usr/include/template-glib-1.0/tmpl-version-macros.h
+/usr/include/template-glib-1.0/tmpl-version.h
+/usr/lib/libtemplate_glib-1.0.so -> /usr/lib/libtemplate_glib-1.0.so.0
+/usr/lib/pkgconfig/template-glib-1.0.pc
+/usr/share/gir-1.0/Template-1.0.gir
+/usr/share/vala/vapi/template-glib-1.0.deps
+/usr/share/vala/vapi/template-glib-1.0.vapi

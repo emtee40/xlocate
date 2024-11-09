@@ -1,0 +1,9 @@
+/usr/include/cfortran.h
+/usr/include/drvrsmem.h
+/usr/include/f77_wrap.h
+/usr/include/fitsio.h
+/usr/include/fitsio2.h
+/usr/include/longnam.h
+/usr/include/region.h
+/usr/lib/libcfitsio.so -> /usr/lib/libcfitsio.so.10.0.0
+/usr/lib/pkgconfig/cfitsio.pc

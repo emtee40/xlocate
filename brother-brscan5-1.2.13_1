@@ -1,0 +1,43 @@
+/etc/opt/brother/scanner/brscan5/brsanenetdevice.cfg -> /opt/brother/scanner/brscan5/brsanenetdevice.cfg
+/etc/opt/brother/scanner/brscan5/brscan5.ini -> /opt/brother/scanner/brscan5/brscan5.ini
+/etc/opt/brother/scanner/brscan5/models -> /opt/brother/scanner/brscan5/models
+/opt/brother/scanner/brscan5/brsaneconfig5
+/opt/brother/scanner/brscan5/brsanenetdevice.cfg
+/opt/brother/scanner/brscan5/brscan5.ini
+/opt/brother/scanner/brscan5/brscan_cnetconfig
+/opt/brother/scanner/brscan5/brscan_gnetconfig
+/opt/brother/scanner/brscan5/models/brscan5ext_0.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_1.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_10.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_11.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_12.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_13.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_2.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_3.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_4.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_5.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_6.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_7.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_8.ini
+/opt/brother/scanner/brscan5/models/brscan5ext_9.ini
+/usr/bin/brsaneconfig5
+/usr/lib/libLxBsDeviceAccs.so -> /usr/lib/libLxBsDeviceAccs.so.1.0.0
+/usr/lib/libLxBsDeviceAccs.so.1 -> /usr/lib/libLxBsDeviceAccs.so.1.0.0
+/usr/lib/libLxBsDeviceAccs.so.1.0.0
+/usr/lib/libLxBsNetDevAccs.so -> /usr/lib/libLxBsNetDevAccs.so.1.0.0
+/usr/lib/libLxBsNetDevAccs.so.1 -> /usr/lib/libLxBsNetDevAccs.so.1.0.0
+/usr/lib/libLxBsNetDevAccs.so.1.0.0
+/usr/lib/libLxBsScanCoreApi.so -> /usr/lib/libLxBsScanCoreApi.so.3.2.0
+/usr/lib/libLxBsScanCoreApi.so.3 -> /usr/lib/libLxBsScanCoreApi.so.3.2.0
+/usr/lib/libLxBsScanCoreApi.so.3.2.0
+/usr/lib/libLxBsUsbDevAccs.so -> /usr/lib/libLxBsUsbDevAccs.so.1.0.0
+/usr/lib/libLxBsUsbDevAccs.so.1 -> /usr/lib/libLxBsUsbDevAccs.so.1.0.0
+/usr/lib/libLxBsUsbDevAccs.so.1.0.0
+/usr/lib/sane/libsane-brother5.so -> /usr/lib/sane/libsane-brother5.so.1.0.7
+/usr/lib/sane/libsane-brother5.so.1 -> /usr/lib/sane/libsane-brother5.so.1.0.7
+/usr/lib/sane/libsane-brother5.so.1.0.7
+/usr/lib/udev/rules.d/40-brother-mfp-brscan5-1.0.2-2.rules
+/usr/share/doc/brother-brscan5/README.voidlinux
+/usr/share/licenses/brother-brscan5/LICENSE_ENG.txt
+/usr/share/licenses/brother-brscan5/LICENSE_JPN.txt
+/usr/share/licenses/brother-brscan5/readme.txt

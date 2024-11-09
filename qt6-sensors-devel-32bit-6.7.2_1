@@ -1,0 +1,4 @@
+/usr/lib32/libQt6Sensors.so -> /usr/lib32/libQt6Sensors.so.6
+/usr/lib32/libQt6SensorsQuick.so -> /usr/lib32/libQt6SensorsQuick.so.6
+/usr/lib32/pkgconfig/Qt6Sensors.pc
+/usr/lib32/pkgconfig/Qt6SensorsQuick.pc

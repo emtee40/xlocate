@@ -1,0 +1,6 @@
+/usr/bin/ndpiReader
+/usr/lib/libndpi.so.3 -> /usr/lib/libndpi.so.3.4.0
+/usr/lib/libndpi.so.3.4.0
+/usr/share/doc/ndpi/nDPI_QuickStartGuide.pdf
+/usr/share/ndpi/ndpiCustomCategory.txt
+/usr/share/ndpi/ndpiProtos.txt

@@ -1,0 +1,7 @@
+/usr/bin/color_matrix
+/usr/bin/colored_dmesg
+/usr/bin/colorfg
+/usr/bin/show_all_colors
+/usr/bin/uncolor
+/usr/share/man/man3/Term::ExtendedColor.3p
+/usr/share/perl5/vendor_perl/Term/ExtendedColor.pm

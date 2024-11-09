@@ -1,0 +1,12 @@
+/usr/bin/glslang
+/usr/bin/glslangValidator -> /usr/bin/glslang
+/usr/bin/spirv-remap
+/usr/lib/libSPIRV.so.15 -> /usr/lib/libSPIRV.so.15.0.0
+/usr/lib/libSPIRV.so.15.0.0
+/usr/lib/libSPVRemapper.so.15 -> /usr/lib/libSPVRemapper.so.15.0.0
+/usr/lib/libSPVRemapper.so.15.0.0
+/usr/lib/libglslang-default-resource-limits.so.15 -> /usr/lib/libglslang-default-resource-limits.so.15.0.0
+/usr/lib/libglslang-default-resource-limits.so.15.0.0
+/usr/lib/libglslang.so.15 -> /usr/lib/libglslang.so.15.0.0
+/usr/lib/libglslang.so.15.0.0
+/usr/share/licenses/glslang/LICENSE

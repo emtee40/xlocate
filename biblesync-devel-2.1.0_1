@@ -1,0 +1,4 @@
+/usr/include/biblesync/biblesync-version.hh
+/usr/include/biblesync/biblesync.hh
+/usr/lib/libbiblesync.so -> /usr/lib/libbiblesync.so.2.1.0
+/usr/lib/pkgconfig/biblesync.pc

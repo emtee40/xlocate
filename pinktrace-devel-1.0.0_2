@@ -1,0 +1,18 @@
+/usr/include/pinktrace-1.0/pinktrace/abi.h
+/usr/include/pinktrace-1.0/pinktrace/about.h
+/usr/include/pinktrace-1.0/pinktrace/compat.h
+/usr/include/pinktrace-1.0/pinktrace/compiler.h
+/usr/include/pinktrace-1.0/pinktrace/event.h
+/usr/include/pinktrace-1.0/pinktrace/name.h
+/usr/include/pinktrace-1.0/pinktrace/pink.h
+/usr/include/pinktrace-1.0/pinktrace/pipe.h
+/usr/include/pinktrace-1.0/pinktrace/read.h
+/usr/include/pinktrace-1.0/pinktrace/regset.h
+/usr/include/pinktrace-1.0/pinktrace/socket.h
+/usr/include/pinktrace-1.0/pinktrace/system.h
+/usr/include/pinktrace-1.0/pinktrace/trace.h
+/usr/include/pinktrace-1.0/pinktrace/vm.h
+/usr/include/pinktrace-1.0/pinktrace/write.h
+/usr/lib/libpinktrace_1.0.a
+/usr/lib/libpinktrace_1.0.so -> /usr/lib/libpinktrace_1.0.so.100.0.0
+/usr/lib/pkgconfig/pinktrace.pc

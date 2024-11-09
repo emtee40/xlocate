@@ -1,0 +1,3 @@
+/usr/lib32/libtls.a
+/usr/lib32/libtls.so -> /usr/lib32/libtls.so.31.0.0
+/usr/lib32/pkgconfig/libtls.pc

@@ -1,0 +1,23 @@
+/etc/diod.conf
+/etc/sv/diod/run
+/etc/sv/diod/supervise -> /run/runit/supervise.diod
+/usr/bin/diod
+/usr/bin/diodcat
+/usr/bin/dioddate
+/usr/bin/diodload
+/usr/bin/diodls
+/usr/bin/diodmount
+/usr/bin/diodshowmount
+/usr/bin/dtop
+/usr/bin/mount.diod -> /usr/bin/diodmount
+/usr/share/examples/diod/auto.diod
+/usr/share/man/man5/diod.conf.5
+/usr/share/man/man8/diod.8
+/usr/share/man/man8/diodcat.8
+/usr/share/man/man8/dioddate.8
+/usr/share/man/man8/diodload.8
+/usr/share/man/man8/diodls.8
+/usr/share/man/man8/diodmount.8
+/usr/share/man/man8/diodshowmount.8
+/usr/share/man/man8/dtop.8
+/usr/share/man/man8/mount.diod.8 -> /usr/share/man/man8/diodmount.8

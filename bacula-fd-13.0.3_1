@@ -1,0 +1,8 @@
+/etc/bacula/bacula-fd.conf
+/etc/sv/bacula-fd/log/run
+/etc/sv/bacula-fd/log/supervise -> /run/runit/supervise.bacula-fd-log
+/etc/sv/bacula-fd/run
+/etc/sv/bacula-fd/supervise -> /run/runit/supervise.bacula-fd
+/usr/bin/bacula-fd
+/usr/lib/bpipe-fd.so
+/usr/share/man/man8/bacula-fd.8

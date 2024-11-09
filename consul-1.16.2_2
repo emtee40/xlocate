@@ -1,0 +1,6 @@
+/etc/sv/consul/log/run
+/etc/sv/consul/log/supervise -> /run/runit/supervise.consul-log
+/etc/sv/consul/run
+/etc/sv/consul/supervise -> /run/runit/supervise.consul
+/usr/bin/consul
+/usr/share/licenses/consul/LICENSE

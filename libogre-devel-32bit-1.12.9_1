@@ -1,0 +1,19 @@
+/usr/lib32/libOgreBites.so -> /usr/lib32/libOgreBites.so.1.12.9
+/usr/lib32/libOgreMain.so -> /usr/lib32/libOgreMain.so.1.12.9
+/usr/lib32/libOgreMeshLodGenerator.so -> /usr/lib32/libOgreMeshLodGenerator.so.1.12.9
+/usr/lib32/libOgreOverlay.so -> /usr/lib32/libOgreOverlay.so.1.12.9
+/usr/lib32/libOgrePaging.so -> /usr/lib32/libOgrePaging.so.1.12.9
+/usr/lib32/libOgreProperty.so -> /usr/lib32/libOgreProperty.so.1.12.9
+/usr/lib32/libOgreRTShaderSystem.so -> /usr/lib32/libOgreRTShaderSystem.so.1.12.9
+/usr/lib32/libOgreTerrain.so -> /usr/lib32/libOgreTerrain.so.1.12.9
+/usr/lib32/libOgreVolume.so -> /usr/lib32/libOgreVolume.so.1.12.9
+/usr/lib32/pkgconfig/OGRE-Bites.pc
+/usr/lib32/pkgconfig/OGRE-MeshLodGenerator.pc
+/usr/lib32/pkgconfig/OGRE-Overlay.pc
+/usr/lib32/pkgconfig/OGRE-PCZ.pc
+/usr/lib32/pkgconfig/OGRE-Paging.pc
+/usr/lib32/pkgconfig/OGRE-Property.pc
+/usr/lib32/pkgconfig/OGRE-RTShaderSystem.pc
+/usr/lib32/pkgconfig/OGRE-Terrain.pc
+/usr/lib32/pkgconfig/OGRE-Volume.pc
+/usr/lib32/pkgconfig/OGRE.pc

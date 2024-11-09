@@ -1,0 +1,4 @@
+/usr/bin/gwhois
+/usr/share/bash-completion/completions/gwhois
+/usr/share/man/man1/gwhois.1
+/usr/share/man/man5/whois.conf.5

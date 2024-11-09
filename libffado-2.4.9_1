@@ -1,0 +1,25 @@
+/usr/bin/ffado-bridgeco-downloader
+/usr/bin/ffado-dbus-server
+/usr/bin/ffado-diag
+/usr/bin/ffado-dice-firmware
+/usr/bin/ffado-fireworks-downloader
+/usr/bin/ffado-mixer
+/usr/bin/ffado-set-nickname
+/usr/lib/libffado.so.2 -> /usr/lib/libffado.so.2.4.9
+/usr/lib/libffado.so.2.4.9
+/usr/lib/udev/rules.d/60-ffado.rules
+/usr/share/applications/org.ffado.FfadoMixer.desktop
+/usr/share/dbus-1/services/org.ffado.Control.service
+/usr/share/icons/hicolor/64x64/apps/hi64-apps-ffado.png
+/usr/share/libffado/configuration
+/usr/share/libffado/fw410.xml
+/usr/share/libffado/fwap.xml
+/usr/share/libffado/icons/hi64-apps-ffado.png
+/usr/share/libffado/refdesign.xml
+/usr/share/man/man1/ffado-bridgeco-downloader.1
+/usr/share/man/man1/ffado-dbus-server.1
+/usr/share/man/man1/ffado-diag.1
+/usr/share/man/man1/ffado-dice-firmware.1
+/usr/share/man/man1/ffado-fireworks-downloader.1
+/usr/share/man/man1/ffado-mixer.1
+/usr/share/metainfo/org.ffado.FfadoMixer.metainfo.xml

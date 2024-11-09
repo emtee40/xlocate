@@ -1,0 +1,7 @@
+/usr/bin/castxml
+/usr/share/castxml/clang/include -> /usr/lib/clang/17.0.6/include
+/usr/share/castxml/detect_vs.c
+/usr/share/castxml/detect_vs.cpp
+/usr/share/castxml/empty.c
+/usr/share/castxml/empty.cpp
+/usr/share/man/man1/castxml.1

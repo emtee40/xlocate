@@ -1,0 +1,8 @@
+/usr/include/transcript/transcript/api.h
+/usr/include/transcript/transcript/bool.h
+/usr/include/transcript/transcript/handle.h
+/usr/include/transcript/transcript/moduledefs.h
+/usr/include/transcript/transcript/transcript.h
+/usr/include/transcript/transcript/utf.h
+/usr/lib/libtranscript.so -> /usr/lib/libtranscript.so.1.0.0
+/usr/lib/pkgconfig/libtranscript.pc

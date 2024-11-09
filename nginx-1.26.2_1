@@ -1,0 +1,21 @@
+/etc/nginx/fastcgi.conf
+/etc/nginx/fastcgi_params
+/etc/nginx/koi-utf
+/etc/nginx/koi-win
+/etc/nginx/mime.types
+/etc/nginx/nginx.conf
+/etc/nginx/scgi_params
+/etc/nginx/uwsgi_params
+/etc/nginx/win-utf
+/etc/sv/nginx/log/run
+/etc/sv/nginx/log/supervise -> /run/runit/supervise.nginx-log
+/etc/sv/nginx/run
+/etc/sv/nginx/supervise -> /run/runit/supervise.nginx
+/usr/bin/nginx
+/usr/lib/perl5/site_perl/auto/nginx/nginx.so
+/usr/lib/perl5/site_perl/nginx.pm
+/usr/share/licenses/nginx/LICENSE
+/usr/share/man/man3/nginx.3p
+/usr/share/man/man8/nginx.8
+/usr/share/nginx/html/50x.html
+/usr/share/nginx/html/index.html

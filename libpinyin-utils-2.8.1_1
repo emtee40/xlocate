@@ -1,0 +1,4 @@
+/usr/bin/gen_binary_files
+/usr/bin/gen_unigram
+/usr/bin/import_interpolation
+/usr/share/man/man1/libpinyin.1

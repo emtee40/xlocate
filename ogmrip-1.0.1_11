@@ -1,0 +1,137 @@
+/usr/bin/avibox
+/usr/bin/dvdcpy
+/usr/bin/subp2pgm
+/usr/bin/subp2png -> /usr/bin/subp2pgm
+/usr/bin/subp2tiff -> /usr/bin/subp2pgm
+/usr/bin/subptools
+/usr/bin/theoraenc
+/usr/lib/libogmdvd.so -> /usr/lib/libogmdvd.so.1.0.0
+/usr/lib/libogmdvd.so.1 -> /usr/lib/libogmdvd.so.1.0.0
+/usr/lib/libogmdvd.so.1.0.0
+/usr/lib/libogmjob.so -> /usr/lib/libogmjob.so.1.0.0
+/usr/lib/libogmjob.so.1 -> /usr/lib/libogmjob.so.1.0.0
+/usr/lib/libogmjob.so.1.0.0
+/usr/lib/libogmrip-lavc.so -> /usr/lib/libogmrip-lavc.so.1.0.0
+/usr/lib/libogmrip-lavc.so.1 -> /usr/lib/libogmrip-lavc.so.1.0.0
+/usr/lib/libogmrip-lavc.so.1.0.0
+/usr/lib/libogmrip-mplayer.so -> /usr/lib/libogmrip-mplayer.so.1.0.0
+/usr/lib/libogmrip-mplayer.so.1 -> /usr/lib/libogmrip-mplayer.so.1.0.0
+/usr/lib/libogmrip-mplayer.so.1.0.0
+/usr/lib/libogmrip.so -> /usr/lib/libogmrip.so.1.0.0
+/usr/lib/libogmrip.so.1 -> /usr/lib/libogmrip.so.1.0.0
+/usr/lib/libogmrip.so.1.0.0
+/usr/lib/ogmrip/audio-plugins/libogmrip-aac.so
+/usr/lib/ogmrip/audio-plugins/libogmrip-acopy.so
+/usr/lib/ogmrip/audio-plugins/libogmrip-mp3.so
+/usr/lib/ogmrip/audio-plugins/libogmrip-vorbis.so
+/usr/lib/ogmrip/audio-plugins/libogmrip-wav.so
+/usr/lib/ogmrip/container-plugins/libogmrip-avi.so
+/usr/lib/ogmrip/container-plugins/libogmrip-mkv.so
+/usr/lib/ogmrip/container-plugins/libogmrip-mov.so
+/usr/lib/ogmrip/container-plugins/libogmrip-mp4.so
+/usr/lib/ogmrip/container-plugins/libogmrip-ogg.so
+/usr/lib/ogmrip/subp-plugins/libogmrip-srt.so
+/usr/lib/ogmrip/subp-plugins/libogmrip-vobsub.so
+/usr/lib/ogmrip/video-plugins/libogmrip-lavc-mpeg4.so
+/usr/lib/ogmrip/video-plugins/libogmrip-theora.so
+/usr/lib/ogmrip/video-plugins/libogmrip-x264.so
+/usr/lib/ogmrip/video-plugins/libogmrip-xvid.so
+/usr/lib/ogmrip/video-plugins/ogmrip-lavc-mpeg4.h
+/usr/lib/ogmrip/video-plugins/ogmrip-x264.h
+/usr/lib/ogmrip/video-plugins/ogmrip-xvid.h
+/usr/share/gtk-doc/html/ogmdvd/home.png
+/usr/share/gtk-doc/html/ogmdvd/index.html
+/usr/share/gtk-doc/html/ogmdvd/index.sgml
+/usr/share/gtk-doc/html/ogmdvd/left-insensitive.png
+/usr/share/gtk-doc/html/ogmdvd/left.png
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-Conversion-functions.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-Enumerations.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdAudio.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdDisc.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdDrive.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdMonitor.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdStream.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdSubp.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-OGMDvdTitle.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-Parser.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-Reader.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-Types.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-api.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd-ref.html
+/usr/share/gtk-doc/html/ogmdvd/ogmdvd.devhelp2
+/usr/share/gtk-doc/html/ogmdvd/right-insensitive.png
+/usr/share/gtk-doc/html/ogmdvd/right.png
+/usr/share/gtk-doc/html/ogmdvd/style.css
+/usr/share/gtk-doc/html/ogmdvd/up-insensitive.png
+/usr/share/gtk-doc/html/ogmdvd/up.png
+/usr/share/gtk-doc/html/ogmjob/OGMJobBin.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobContainer.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobExec.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobList.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobPipeline.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobQueue.html
+/usr/share/gtk-doc/html/ogmjob/OGMJobSpawn.html
+/usr/share/gtk-doc/html/ogmjob/abstract-classes.html
+/usr/share/gtk-doc/html/ogmjob/home.png
+/usr/share/gtk-doc/html/ogmjob/index.html
+/usr/share/gtk-doc/html/ogmjob/index.sgml
+/usr/share/gtk-doc/html/ogmjob/left-insensitive.png
+/usr/share/gtk-doc/html/ogmjob/left.png
+/usr/share/gtk-doc/html/ogmjob/ogmjob-Logs.html
+/usr/share/gtk-doc/html/ogmjob/ogmjob-api.html
+/usr/share/gtk-doc/html/ogmjob/ogmjob-ref.html
+/usr/share/gtk-doc/html/ogmjob/ogmjob.devhelp2
+/usr/share/gtk-doc/html/ogmjob/right-insensitive.png
+/usr/share/gtk-doc/html/ogmjob/right.png
+/usr/share/gtk-doc/html/ogmjob/spawn-classes.html
+/usr/share/gtk-doc/html/ogmjob/style.css
+/usr/share/gtk-doc/html/ogmjob/up-insensitive.png
+/usr/share/gtk-doc/html/ogmjob/up.png
+/usr/share/gtk-doc/html/ogmrip/OGMRipAudioCodec.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipChapters.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipCodec.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipContainer.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipDvdCpy.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipEncoding.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipEncodingManager.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipSubpCodec.html
+/usr/share/gtk-doc/html/ogmrip/OGMRipVideoCodec.html
+/usr/share/gtk-doc/html/ogmrip/abstract-classes.html
+/usr/share/gtk-doc/html/ogmrip/encoding.html
+/usr/share/gtk-doc/html/ogmrip/home.png
+/usr/share/gtk-doc/html/ogmrip/index.html
+/usr/share/gtk-doc/html/ogmrip/index.sgml
+/usr/share/gtk-doc/html/ogmrip/left-insensitive.png
+/usr/share/gtk-doc/html/ogmrip/left.png
+/usr/share/gtk-doc/html/ogmrip/misc.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-Edit-Decision-List.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-Filesystem.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-Mplayer.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-OGMRipFile.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-OGMRipKeyFileSettings.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-OGMRipLavc.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-OGMRipOptions.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-OGMRipPlayer.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-Plugins-System.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-Settings.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-api.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-ogmrip-enums.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-ogmrip-version.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip-ref.html
+/usr/share/gtk-doc/html/ogmrip/ogmrip.devhelp2
+/usr/share/gtk-doc/html/ogmrip/right-insensitive.png
+/usr/share/gtk-doc/html/ogmrip/right.png
+/usr/share/gtk-doc/html/ogmrip/settings.html
+/usr/share/gtk-doc/html/ogmrip/style.css
+/usr/share/gtk-doc/html/ogmrip/up-insensitive.png
+/usr/share/gtk-doc/html/ogmrip/up.png
+/usr/share/locale/cs/LC_MESSAGES/ogmrip.mo
+/usr/share/locale/de/LC_MESSAGES/ogmrip.mo
+/usr/share/locale/fr/LC_MESSAGES/ogmrip.mo
+/usr/share/locale/nb/LC_MESSAGES/ogmrip.mo
+/usr/share/locale/ru/LC_MESSAGES/ogmrip.mo
+/usr/share/locale/sk/LC_MESSAGES/ogmrip.mo
+/usr/share/man/man1/avibox.1
+/usr/share/man/man1/dvdcpy.1
+/usr/share/man/man1/subp2pgm.1
+/usr/share/man/man1/subptools.1

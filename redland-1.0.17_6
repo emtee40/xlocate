@@ -1,0 +1,7 @@
+/usr/bin/rdfproc
+/usr/bin/redland-db-upgrade
+/usr/share/man/man1/rdfproc.1
+/usr/share/man/man1/redland-db-upgrade.1
+/usr/share/redland/Redland.i
+/usr/share/redland/mysql-v1.ttl
+/usr/share/redland/mysql-v2.ttl

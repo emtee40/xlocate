@@ -1,0 +1,3 @@
+/usr/lib32/libtorrent.a
+/usr/lib32/libtorrent.so -> /usr/lib32/libtorrent.so.21.0.0
+/usr/lib32/pkgconfig/libtorrent.pc

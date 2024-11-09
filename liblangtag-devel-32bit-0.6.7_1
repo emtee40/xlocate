@@ -1,0 +1,4 @@
+/usr/lib32/liblangtag-gobject.so -> /usr/lib32/liblangtag-gobject.so.0.3.0
+/usr/lib32/liblangtag.so -> /usr/lib32/liblangtag.so.1.4.1
+/usr/lib32/pkgconfig/liblangtag-gobject.pc
+/usr/lib32/pkgconfig/liblangtag.pc

@@ -1,0 +1,13 @@
+/usr/lib/libicudata.so.73 -> /usr/lib/libicudata.so.73.2
+/usr/lib/libicudata.so.73.2
+/usr/lib/libicui18n.so.73 -> /usr/lib/libicui18n.so.73.2
+/usr/lib/libicui18n.so.73.2
+/usr/lib/libicuio.so.73 -> /usr/lib/libicuio.so.73.2
+/usr/lib/libicuio.so.73.2
+/usr/lib/libicutest.so.73 -> /usr/lib/libicutest.so.73.2
+/usr/lib/libicutest.so.73.2
+/usr/lib/libicutu.so.73 -> /usr/lib/libicutu.so.73.2
+/usr/lib/libicutu.so.73.2
+/usr/lib/libicuuc.so.73 -> /usr/lib/libicuuc.so.73.2
+/usr/lib/libicuuc.so.73.2
+/usr/share/icu/73.2/icudt73l.dat

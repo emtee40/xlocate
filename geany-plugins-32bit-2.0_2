@@ -1,0 +1,36 @@
+/usr/lib32/geany/addons.so
+/usr/lib32/geany/autoclose.so
+/usr/lib32/geany/automark.so
+/usr/lib32/geany/codenav.so
+/usr/lib32/geany/commander.so
+/usr/lib32/geany/defineformat.so
+/usr/lib32/geany/geanyctags.so
+/usr/lib32/geany/geanydoc.so
+/usr/lib32/geany/geanyextrasel.so
+/usr/lib32/geany/geanyinsertnum.so
+/usr/lib32/geany/geanymacro.so
+/usr/lib32/geany/geanyminiscript.so
+/usr/lib32/geany/geanynumberedbookmarks.so
+/usr/lib32/geany/geanyprj.so
+/usr/lib32/geany/geanyvc.so
+/usr/lib32/geany/keyrecord.so
+/usr/lib32/geany/latex.so
+/usr/lib32/geany/lineoperations.so
+/usr/lib32/geany/lipsum.so
+/usr/lib32/geany/markdown.so
+/usr/lib32/geany/overview.so
+/usr/lib32/geany/pairtaghighlighter.so
+/usr/lib32/geany/pohelper.so
+/usr/lib32/geany/projectorganizer.so
+/usr/lib32/geany/scope.so
+/usr/lib32/geany/sendmail.so
+/usr/lib32/geany/shiftcolumn.so
+/usr/lib32/geany/tableconvert.so
+/usr/lib32/geany/treebrowser.so
+/usr/lib32/geany/vimode.so
+/usr/lib32/geany/webhelper.so
+/usr/lib32/geany/workbench.so
+/usr/lib32/geany/xmlsnippets.so
+/usr/lib32/libgeanypluginutils.so -> /usr/lib32/libgeanypluginutils.so.0.0.0
+/usr/lib32/libgeanypluginutils.so.0 -> /usr/lib32/libgeanypluginutils.so.0.0.0
+/usr/lib32/libgeanypluginutils.so.0.0.0

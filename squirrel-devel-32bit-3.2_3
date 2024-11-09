@@ -1,0 +1,4 @@
+/usr/lib32/libsqstdlib.so -> /usr/lib32/libsqstdlib.so.0
+/usr/lib32/libsqstdlib_static.a
+/usr/lib32/libsquirrel.so -> /usr/lib32/libsquirrel.so.0
+/usr/lib32/libsquirrel_static.a

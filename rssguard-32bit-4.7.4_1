@@ -1,0 +1,8 @@
+/usr/lib32/librssguard.so
+/usr/lib32/rssguard/librssguard-feedly.so
+/usr/lib32/rssguard/librssguard-gmail.so
+/usr/lib32/rssguard/librssguard-greader.so
+/usr/lib32/rssguard/librssguard-nextcloud.so
+/usr/lib32/rssguard/librssguard-reddit.so
+/usr/lib32/rssguard/librssguard-standard.so
+/usr/lib32/rssguard/librssguard-ttrss.so

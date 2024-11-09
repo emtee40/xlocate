@@ -1,0 +1,16 @@
+/usr/bin/dvdauthor
+/usr/bin/dvddirdel
+/usr/bin/dvdunauthor
+/usr/bin/mpeg2desc
+/usr/bin/spumux
+/usr/bin/spuunmux
+/usr/share/dvdauthor/common.xsd
+/usr/share/dvdauthor/dvdauthor.xsd
+/usr/share/dvdauthor/spumux.xsd
+/usr/share/man/man1/dvdauthor.1
+/usr/share/man/man1/dvddirdel.1
+/usr/share/man/man1/dvdunauthor.1
+/usr/share/man/man1/mpeg2desc.1
+/usr/share/man/man1/spumux.1
+/usr/share/man/man1/spuunmux.1
+/usr/share/man/man7/video_format.7

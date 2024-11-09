@@ -1,0 +1,3 @@
+/usr/lib/udev/rules.d/70-printers.rules
+/usr/lib/udev/udev-add-printer
+/usr/lib/udev/udev-configure-printer

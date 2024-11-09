@@ -1,0 +1,8 @@
+/usr/lib32/libgcalc-2.so -> /usr/lib32/libgcalc-2.so.1.0.1
+/usr/lib32/libgcalc-2.so.1
+/usr/lib32/libgcalc-2.so.1.0.1 -> /usr/lib32/libgcalc-2.so.1
+/usr/lib32/libgci-1.so -> /usr/lib32/libgci-1.so.0.0.0
+/usr/lib32/libgci-1.so.0
+/usr/lib32/libgci-1.so.0.0.0 -> /usr/lib32/libgci-1.so.0
+/usr/lib32/pkgconfig/gcalc-2.pc
+/usr/lib32/pkgconfig/gci-1.pc

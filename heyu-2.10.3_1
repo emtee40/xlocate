@@ -1,0 +1,13 @@
+/etc/heyu/x10.conf
+/usr/bin/heyu
+/usr/share/man/man1/heyu.1
+/usr/share/man/man5/x10aux.5
+/usr/share/man/man5/x10cm17a.5
+/usr/share/man/man5/x10config.5
+/usr/share/man/man5/x10digimax.5
+/usr/share/man/man5/x10kaku.5
+/usr/share/man/man5/x10oregon.5
+/usr/share/man/man5/x10rfxmeters.5
+/usr/share/man/man5/x10rfxsensors.5
+/usr/share/man/man5/x10sched.5
+/usr/share/man/man5/x10scripts.5

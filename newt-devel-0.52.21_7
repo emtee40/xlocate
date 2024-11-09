@@ -1,0 +1,4 @@
+/usr/include/newt.h
+/usr/lib/libnewt.a
+/usr/lib/libnewt.so -> /usr/lib/libnewt.so.0.52
+/usr/lib/pkgconfig/libnewt.pc

@@ -1,0 +1,9 @@
+/usr/bin/doxygen2man
+/usr/bin/qb-blackbox
+/usr/lib/libqb.so.100 -> /usr/lib/libqb.so.100.0.0
+/usr/lib/libqb.so.100.0.0
+/usr/share/doc/libqb/COPYING
+/usr/share/doc/libqb/INSTALL
+/usr/share/doc/libqb/README.markdown
+/usr/share/man/man1/doxygen2man.1
+/usr/share/man/man8/qb-blackbox.8

@@ -1,0 +1,7 @@
+/etc/darch/hooks/fstab/hook
+/etc/darch/hooks/hostname/hook
+/etc/darch/hooks/machine-id/hook
+/etc/darch/hooks/ssh/hook
+/etc/grub.d/60_darch
+/usr/bin/darch
+/usr/share/licenses/darch/LICENSE

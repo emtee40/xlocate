@@ -1,0 +1,3 @@
+/usr/lib32/libuninameslist.a
+/usr/lib32/libuninameslist.so -> /usr/lib32/libuninameslist.so.1.0.15
+/usr/lib32/pkgconfig/libuninameslist.pc

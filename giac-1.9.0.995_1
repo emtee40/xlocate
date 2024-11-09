@@ -1,0 +1,35 @@
+/usr/bin/cas_help
+/usr/bin/en_cas_help -> /usr/bin/cas_help
+/usr/bin/es_cas_help -> /usr/bin/cas_help
+/usr/bin/fr_cas_help -> /usr/bin/cas_help
+/usr/bin/giac -> /usr/bin/icas
+/usr/bin/hevea2mml
+/usr/bin/icas
+/usr/bin/pgiac
+/usr/bin/xcas
+/usr/bin/xcasnew -> /usr/bin/xcas
+/usr/share/application-registry/xcas.applications
+/usr/share/applications/xcas.desktop
+/usr/share/giac/aide_cas
+/usr/share/icons/hicolor/128x128/apps/xcas.png
+/usr/share/icons/hicolor/128x128/mimetypes/application-x-xcas.png
+/usr/share/icons/hicolor/16x16/apps/xcas.png
+/usr/share/icons/hicolor/16x16/mimetypes/application-x-xcas.png
+/usr/share/icons/hicolor/256x256/apps/xcas.png
+/usr/share/icons/hicolor/256x256/mimetypes/application-x-xcas.png
+/usr/share/icons/hicolor/32x32/apps/xcas.png
+/usr/share/icons/hicolor/32x32/mimetypes/application-x-xcas.png
+/usr/share/icons/hicolor/64x64/apps/xcas.png
+/usr/share/icons/hicolor/64x64/mimetypes/application-x-xcas.png
+/usr/share/info/giac_es.info
+/usr/share/info/giac_us.info
+/usr/share/locale/de/LC_MESSAGES/giac.mo
+/usr/share/locale/el/LC_MESSAGES/giac.mo
+/usr/share/locale/en/LC_MESSAGES/giac.mo
+/usr/share/locale/es/LC_MESSAGES/giac.mo
+/usr/share/locale/fr/LC_MESSAGES/giac.mo
+/usr/share/locale/it/LC_MESSAGES/giac.mo
+/usr/share/locale/pt/LC_MESSAGES/giac.mo
+/usr/share/locale/zh/LC_MESSAGES/giac.mo
+/usr/share/metainfo/xcas.metainfo.xml
+/usr/share/pixmaps/xcas.xpm

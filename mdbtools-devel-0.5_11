@@ -1,0 +1,7 @@
+/usr/include/mdbodbc.h
+/usr/include/mdbsql.h
+/usr/include/mdbtools.h
+/usr/lib/libmdb.a
+/usr/lib/libmdb.so -> /usr/lib/libmdb.so.0.0.0
+/usr/lib/libmdbsql.a
+/usr/lib/libmdbsql.so -> /usr/lib/libmdbsql.so.0.0.0

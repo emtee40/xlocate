@@ -1,0 +1,4 @@
+/usr/include/psflib.h
+/usr/include/psfutils.h
+/usr/lib/libpsf.a
+/usr/lib/libpsf.so -> /usr/lib/libpsf.so.0.1.1

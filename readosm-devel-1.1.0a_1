@@ -1,0 +1,4 @@
+/usr/include/readosm.h
+/usr/lib/libreadosm.a
+/usr/lib/libreadosm.so -> /usr/lib/libreadosm.so.1.0.1
+/usr/lib/pkgconfig/readosm.pc

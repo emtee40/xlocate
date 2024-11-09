@@ -1,0 +1,32 @@
+/usr/bin/fixqt4headers.pl-qt5 -> /usr/lib/qt5/bin/fixqt4headers.pl
+/usr/bin/lconvert-qt5 -> /usr/lib/qt5/bin/lconvert
+/usr/bin/lprodump-qt5 -> /usr/lib/qt5/bin/lprodump
+/usr/bin/lrelease-pro-qt5 -> /usr/lib/qt5/bin/lrelease-pro
+/usr/bin/lrelease-qt5 -> /usr/lib/qt5/bin/lrelease
+/usr/bin/lupdate-pro-qt5 -> /usr/lib/qt5/bin/lupdate-pro
+/usr/bin/lupdate-qt5 -> /usr/lib/qt5/bin/lupdate
+/usr/bin/moc-qt5 -> /usr/lib/qt5/bin/moc
+/usr/bin/qdbuscpp2xml-qt5 -> /usr/lib/qt5/bin/qdbuscpp2xml
+/usr/bin/qdbusxml2cpp-qt5 -> /usr/lib/qt5/bin/qdbusxml2cpp
+/usr/bin/qlalr-qt5 -> /usr/lib/qt5/bin/qlalr
+/usr/bin/qvkgen-qt5 -> /usr/lib/qt5/bin/qvkgen
+/usr/bin/rcc-qt5 -> /usr/lib/qt5/bin/rcc
+/usr/bin/syncqt.pl-qt5 -> /usr/lib/qt5/bin/syncqt.pl
+/usr/bin/tracegen-qt5 -> /usr/lib/qt5/bin/tracegen
+/usr/bin/uic-qt5 -> /usr/lib/qt5/bin/uic
+/usr/lib/qt5/bin/fixqt4headers.pl
+/usr/lib/qt5/bin/lconvert
+/usr/lib/qt5/bin/lprodump
+/usr/lib/qt5/bin/lrelease
+/usr/lib/qt5/bin/lrelease-pro
+/usr/lib/qt5/bin/lupdate
+/usr/lib/qt5/bin/lupdate-pro
+/usr/lib/qt5/bin/moc
+/usr/lib/qt5/bin/qdbuscpp2xml
+/usr/lib/qt5/bin/qdbusxml2cpp
+/usr/lib/qt5/bin/qlalr
+/usr/lib/qt5/bin/qvkgen
+/usr/lib/qt5/bin/rcc
+/usr/lib/qt5/bin/syncqt.pl
+/usr/lib/qt5/bin/tracegen
+/usr/lib/qt5/bin/uic

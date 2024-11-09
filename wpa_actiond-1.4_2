@@ -1,0 +1,4 @@
+/etc/sv/wpa_actiond/run
+/etc/sv/wpa_actiond/supervise -> /run/runit/supervise.wpa_actiond
+/usr/bin/wpa_actiond
+/usr/bin/wpa_log

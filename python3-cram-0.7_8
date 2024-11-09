@@ -1,0 +1,15 @@
+/usr/bin/cram
+/usr/lib/python3.12/site-packages/cram-0.7-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/cram-0.7-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/cram-0.7-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/cram-0.7-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/cram/__init__.py
+/usr/lib/python3.12/site-packages/cram/__main__.py
+/usr/lib/python3.12/site-packages/cram/_cli.py
+/usr/lib/python3.12/site-packages/cram/_diff.py
+/usr/lib/python3.12/site-packages/cram/_encoding.py
+/usr/lib/python3.12/site-packages/cram/_main.py
+/usr/lib/python3.12/site-packages/cram/_process.py
+/usr/lib/python3.12/site-packages/cram/_run.py
+/usr/lib/python3.12/site-packages/cram/_test.py
+/usr/lib/python3.12/site-packages/cram/_xunit.py

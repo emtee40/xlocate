@@ -1,0 +1,4 @@
+/usr/lib32/libQt6Positioning.so -> /usr/lib32/libQt6Positioning.so.6
+/usr/lib32/libQt6PositioningQuick.so -> /usr/lib32/libQt6PositioningQuick.so.6
+/usr/lib32/pkgconfig/Qt6Positioning.pc
+/usr/lib32/pkgconfig/Qt6PositioningQuick.pc

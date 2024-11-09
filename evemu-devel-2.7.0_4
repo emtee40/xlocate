@@ -1,0 +1,4 @@
+/usr/include/evemu.h
+/usr/lib/libevemu.a
+/usr/lib/libevemu.so -> /usr/lib/libevemu.so.3.0.4
+/usr/lib/pkgconfig/evemu.pc

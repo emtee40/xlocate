@@ -1,0 +1,5 @@
+/usr/include/gupnp-igd-1.0/libgupnp-igd/gupnp-simple-igd-thread.h
+/usr/include/gupnp-igd-1.0/libgupnp-igd/gupnp-simple-igd.h
+/usr/lib/libgupnp-igd-1.0.so -> /usr/lib/libgupnp-igd-1.0.so.4
+/usr/lib/pkgconfig/gupnp-igd-1.0.pc
+/usr/share/gir-1.0/GUPnPIgd-1.0.gir

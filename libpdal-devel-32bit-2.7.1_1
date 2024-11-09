@@ -1,0 +1,3 @@
+/usr/lib32/libpdal_plugin_kernel_fauxplugin.so -> /usr/lib32/libpdal_plugin_kernel_fauxplugin.so.17
+/usr/lib32/libpdalcpp.so -> /usr/lib32/libpdalcpp.so.17
+/usr/lib32/pkgconfig/pdal.pc

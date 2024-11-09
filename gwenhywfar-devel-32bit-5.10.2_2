@@ -1,0 +1,7 @@
+/usr/lib32/libgwengui-cpp.so -> /usr/lib32/libgwengui-cpp.so.79.10.2
+/usr/lib32/libgwengui-gtk3.so -> /usr/lib32/libgwengui-gtk3.so.79.10.2
+/usr/lib32/libgwengui-qt5.so -> /usr/lib32/libgwengui-qt5.so.79.10.2
+/usr/lib32/libgwenhywfar.so -> /usr/lib32/libgwenhywfar.so.79.10.2
+/usr/lib32/pkgconfig/gwengui-gtk3.pc
+/usr/lib32/pkgconfig/gwengui-qt5.pc
+/usr/lib32/pkgconfig/gwenhywfar.pc

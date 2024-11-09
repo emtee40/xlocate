@@ -1,0 +1,30 @@
+/usr/lib32/libakonadi-filestore.so.5 -> /usr/lib32/libakonadi-filestore.so.5.24.5
+/usr/lib32/libakonadi-filestore.so.5.24.5
+/usr/lib32/libakonadi-singlefileresource.so.5 -> /usr/lib32/libakonadi-singlefileresource.so.5.24.5
+/usr/lib32/libakonadi-singlefileresource.so.5.24.5
+/usr/lib32/libfolderarchivesettings.so.5 -> /usr/lib32/libfolderarchivesettings.so.5.24.5
+/usr/lib32/libfolderarchivesettings.so.5.24.5
+/usr/lib32/libkmindexreader.so.5 -> /usr/lib32/libkmindexreader.so.5.24.5
+/usr/lib32/libkmindexreader.so.5.24.5
+/usr/lib32/libmaildir.so.5 -> /usr/lib32/libmaildir.so.5.24.5
+/usr/lib32/libmaildir.so.5.24.5
+/usr/lib32/qt5/plugins/kf5/kio/akonadi.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/akonotesconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/birthdaysconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/contactsconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/googleconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/icalconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/icaldirconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/maildirconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/maildispatcherconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/mboxconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/mixedmaildirconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/newmailnotifierconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/notesconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/openxchangeconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/pop3config.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/tomboynotesconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/vcardconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/vcarddirconfig.so
+/usr/lib32/qt5/plugins/pim5/kcms/kaddressbook/kcm_ldap.so
+/usr/lib32/qt5/plugins/pim5/mailtransport/mailtransport_akonadiplugin.so

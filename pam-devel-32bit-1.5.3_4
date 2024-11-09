@@ -1,0 +1,6 @@
+/usr/lib32/libpam.so -> /usr/lib32/libpam.so.0.85.1
+/usr/lib32/libpam_misc.so -> /usr/lib32/libpam_misc.so.0.82.1
+/usr/lib32/libpamc.so -> /usr/lib32/libpamc.so.0.82.1
+/usr/lib32/pkgconfig/pam.pc
+/usr/lib32/pkgconfig/pam_misc.pc
+/usr/lib32/pkgconfig/pamc.pc

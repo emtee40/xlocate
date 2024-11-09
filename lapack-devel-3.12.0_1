@@ -1,0 +1,8 @@
+/usr/include/lapack.h
+/usr/lib/cmake/lapack-3.12.0/lapack-config-version.cmake
+/usr/lib/cmake/lapack-3.12.0/lapack-config.cmake
+/usr/lib/cmake/lapack-3.12.0/lapack-targets-none.cmake
+/usr/lib/cmake/lapack-3.12.0/lapack-targets.cmake
+/usr/lib/liblapack.a
+/usr/lib/liblapack.so -> /usr/lib/liblapack.so.3
+/usr/lib/pkgconfig/lapack.pc

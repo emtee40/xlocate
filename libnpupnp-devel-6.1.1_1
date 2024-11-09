@@ -1,0 +1,9 @@
+/usr/include/npupnp/UpnpGlobal.h
+/usr/include/npupnp/netif.h
+/usr/include/npupnp/upnp.h
+/usr/include/npupnp/upnpconfig.h
+/usr/include/npupnp/upnpdebug.h
+/usr/include/npupnp/upnpdescription.h
+/usr/include/npupnp/upnptools.h
+/usr/lib/libnpupnp.so -> /usr/lib/libnpupnp.so.13.1.0
+/usr/lib/pkgconfig/libnpupnp.pc

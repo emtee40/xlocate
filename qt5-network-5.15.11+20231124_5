@@ -1,0 +1,7 @@
+/usr/lib/libQt5Network.so -> /usr/lib/libQt5Network.so.5.15.11
+/usr/lib/libQt5Network.so.5 -> /usr/lib/libQt5Network.so.5.15.11
+/usr/lib/libQt5Network.so.5.15 -> /usr/lib/libQt5Network.so.5.15.11
+/usr/lib/libQt5Network.so.5.15.11
+/usr/lib/qt5/plugins/bearer/libqconnmanbearer.so
+/usr/lib/qt5/plugins/bearer/libqgenericbearer.so
+/usr/lib/qt5/plugins/bearer/libqnmbearer.so

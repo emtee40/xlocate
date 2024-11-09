@@ -1,0 +1,13 @@
+/usr/bin/sockd
+/usr/bin/socksify
+/usr/include/socks.h
+/usr/lib/libdsocks.so
+/usr/lib/libsocks.a
+/usr/lib/libsocks.so -> /usr/lib/libsocks.so.0.1.1
+/usr/lib/libsocks.so.0 -> /usr/lib/libsocks.so.0.1.1
+/usr/lib/libsocks.so.0.1.1
+/usr/share/licenses/dante/LICENSE
+/usr/share/man/man1/socksify.1
+/usr/share/man/man5/sockd.conf.5
+/usr/share/man/man5/socks.conf.5
+/usr/share/man/man8/sockd.8

@@ -1,0 +1,4 @@
+/usr/include/gmic.h
+/usr/include/gmic_libc.h
+/usr/lib/libcgmic.so -> /usr/lib/libcgmic.so.3
+/usr/lib/libgmic.so -> /usr/lib/libgmic.so.3

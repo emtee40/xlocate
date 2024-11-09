@@ -1,0 +1,11 @@
+/usr/bin/cbfstool
+/usr/bin/cbmem
+/usr/bin/ectool
+/usr/bin/ifdtool
+/usr/bin/intelmetool
+/usr/bin/inteltool
+/usr/bin/nvramtool
+/usr/bin/superiotool
+/usr/share/man/man8/inteltool.8
+/usr/share/man/man8/nvramtool.8
+/usr/share/man/man8/superiotool.8

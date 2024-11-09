@@ -1,0 +1,5 @@
+/usr/lib32/libmupdf-pkcs7.a
+/usr/lib32/libmupdf-third.a
+/usr/lib32/libmupdf-threads.a
+/usr/lib32/libmupdf.a
+/usr/lib32/pkgconfig/mupdf.pc

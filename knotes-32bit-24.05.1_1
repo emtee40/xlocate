@@ -1,0 +1,13 @@
+/usr/lib32/libknotesprivate.so.6 -> /usr/lib32/libknotesprivate.so.6.1.1
+/usr/lib32/libknotesprivate.so.6.1.1
+/usr/lib32/libnotesharedprivate.so.6 -> /usr/lib32/libnotesharedprivate.so.6.1.1
+/usr/lib32/libnotesharedprivate.so.6.1.1
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_action.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_collection.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_display.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_editor.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_misc.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_network.so
+/usr/lib32/qt6/plugins/pim6/kcms/knotes/kcm_knote_print.so
+/usr/lib32/qt6/plugins/pim6/kcms/summary/kcmknotessummary.so
+/usr/lib32/qt6/plugins/pim6/kontact/kontact_knotesplugin.so

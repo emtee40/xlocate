@@ -1,0 +1,10 @@
+/usr/lib/libKF5BluezQt.so.5.115.0
+/usr/lib/libKF5BluezQt.so.6 -> /usr/lib/libKF5BluezQt.so.5.115.0
+/usr/lib/pkgconfig/KF5BluezQt.pc
+/usr/lib/qt5/qml/org/kde/bluezqt/DevicesModel.qml
+/usr/lib/qt5/qml/org/kde/bluezqt/libbluezqtextensionplugin.so
+/usr/lib/qt5/qml/org/kde/bluezqt/qmldir
+/usr/lib/udev/rules.d/61-kde-bluetooth-rfkill.rules
+/usr/share/doc/bluez-qt5/README.voidlinux
+/usr/share/qlogging-categories5/bluezqt.categories
+/usr/share/qlogging-categories5/bluezqt.renamecategories

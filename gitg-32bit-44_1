@@ -1,0 +1,10 @@
+/usr/lib32/gitg/plugins/libdiff.so
+/usr/lib32/gitg/plugins/libfiles.so
+/usr/lib32/libgitg-1.0.so -> /usr/lib32/libgitg-1.0.so.0
+/usr/lib32/libgitg-1.0.so.0 -> /usr/lib32/libgitg-1.0.so.0.0.0
+/usr/lib32/libgitg-1.0.so.0.0.0
+/usr/lib32/libgitg-ext-1.0.so -> /usr/lib32/libgitg-ext-1.0.so.0
+/usr/lib32/libgitg-ext-1.0.so.0 -> /usr/lib32/libgitg-ext-1.0.so.0.0.0
+/usr/lib32/libgitg-ext-1.0.so.0.0.0
+/usr/lib32/pkgconfig/libgitg-1.0.pc
+/usr/lib32/pkgconfig/libgitg-ext-1.0.pc

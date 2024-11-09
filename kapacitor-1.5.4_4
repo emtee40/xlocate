@@ -1,0 +1,9 @@
+/etc/kapacitor/kapacitor.conf
+/etc/sv/kapacitor/log/run
+/etc/sv/kapacitor/log/supervise -> /run/runit/supervise.kapacitor-log
+/etc/sv/kapacitor/run
+/etc/sv/kapacitor/supervise -> /run/runit/supervise.kapacitor
+/usr/bin/kapacitor
+/usr/bin/kapacitord
+/usr/share/bash-completion/completions/kapacitor
+/usr/share/licenses/kapacitor/LICENSE

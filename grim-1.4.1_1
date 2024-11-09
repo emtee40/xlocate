@@ -1,0 +1,5 @@
+/usr/bin/grim
+/usr/share/bash-completion/completions/grim
+/usr/share/fish/vendor_completions.d/grim.fish
+/usr/share/licenses/grim/LICENSE
+/usr/share/man/man1/grim.1

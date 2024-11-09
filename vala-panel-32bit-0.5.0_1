@@ -1,0 +1,16 @@
+/usr/lib32/libvalapanel.so.0 -> /usr/lib32/libvalapanel.so.0.5.0
+/usr/lib32/libvalapanel.so.0.5.0
+/usr/lib32/vala-panel/applets/libbuttons.so
+/usr/lib32/vala-panel/applets/libclock.so
+/usr/lib32/vala-panel/applets/libcpu.so
+/usr/lib32/vala-panel/applets/libdeskno.so
+/usr/lib32/vala-panel/applets/libdirmenu.so
+/usr/lib32/vala-panel/applets/libkbled.so
+/usr/lib32/vala-panel/applets/liblaunchbar.so
+/usr/lib32/vala-panel/applets/libmenumodel.so
+/usr/lib32/vala-panel/applets/libmonitors.so
+/usr/lib32/vala-panel/applets/libnetmon.so
+/usr/lib32/vala-panel/applets/libpager.so
+/usr/lib32/vala-panel/applets/libseparator.so
+/usr/lib32/vala-panel/applets/libtasklist-xfce.so
+/usr/lib32/vala-panel/applets/libwincmd.so

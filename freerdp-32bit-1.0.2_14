@@ -1,0 +1,16 @@
+/usr/lib32/freerdp/audin.so
+/usr/lib32/freerdp/audin_alsa.so
+/usr/lib32/freerdp/cliprdr.so
+/usr/lib32/freerdp/disk.so
+/usr/lib32/freerdp/drdynvc.so
+/usr/lib32/freerdp/parallel.so
+/usr/lib32/freerdp/printer.so
+/usr/lib32/freerdp/rail.so
+/usr/lib32/freerdp/rdpdbg.so
+/usr/lib32/freerdp/rdpdr.so
+/usr/lib32/freerdp/rdpsnd.so
+/usr/lib32/freerdp/rdpsnd_alsa.so
+/usr/lib32/freerdp/serial.so
+/usr/lib32/freerdp/tsmf.so
+/usr/lib32/freerdp/tsmf_alsa.so
+/usr/lib32/freerdp/tsmf_ffmpeg.so

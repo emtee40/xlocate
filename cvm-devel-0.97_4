@@ -1,0 +1,30 @@
+/usr/include/cvm-sasl.h -> /usr/include/cvm/sasl.h
+/usr/include/cvm/client.h -> /usr/include/cvm/v2client.h
+/usr/include/cvm/credentials.h
+/usr/include/cvm/errors.h
+/usr/include/cvm/facts.h
+/usr/include/cvm/module.h
+/usr/include/cvm/protocol.h
+/usr/include/cvm/sasl.h
+/usr/include/cvm/v1client.h
+/usr/include/cvm/v2client.h
+/usr/lib/libcvm-client.a -> /usr/lib/libcvm-v2client.a
+/usr/lib/libcvm-client.so -> /usr/lib/libcvm-v2client.so
+/usr/lib/libcvm-command.a
+/usr/lib/libcvm-command.so -> /usr/lib/libcvm-command.so.1.1.0
+/usr/lib/libcvm-local.a
+/usr/lib/libcvm-local.so -> /usr/lib/libcvm-local.so.1.1.0
+/usr/lib/libcvm-module.a
+/usr/lib/libcvm-module.so -> /usr/lib/libcvm-module.so.1.1.0
+/usr/lib/libcvm-qmail.a
+/usr/lib/libcvm-qmail.so -> /usr/lib/libcvm-qmail.so.1.1.0
+/usr/lib/libcvm-sasl.a
+/usr/lib/libcvm-sasl.so -> /usr/lib/libcvm-sasl.so.1.1.0
+/usr/lib/libcvm-sql.a
+/usr/lib/libcvm-sql.so -> /usr/lib/libcvm-sql.so.1.1.0
+/usr/lib/libcvm-udp.a
+/usr/lib/libcvm-udp.so -> /usr/lib/libcvm-udp.so.1.1.0
+/usr/lib/libcvm-v1client.a
+/usr/lib/libcvm-v1client.so -> /usr/lib/libcvm-v1client.so.1.1.0
+/usr/lib/libcvm-v2client.a
+/usr/lib/libcvm-v2client.so -> /usr/lib/libcvm-v2client.so.1.1.0

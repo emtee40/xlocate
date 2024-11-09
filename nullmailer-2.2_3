@@ -1,0 +1,22 @@
+/etc/nullmailer/remotes
+/etc/sv/nullmailer/log/run
+/etc/sv/nullmailer/log/supervise -> /run/runit/supervise.nullmailer-log
+/etc/sv/nullmailer/run
+/etc/sv/nullmailer/supervise -> /run/runit/supervise.nullmailer
+/usr/bin/mailq -> /usr/bin/nullmailer-mailq
+/usr/bin/nullmailer-dsn
+/usr/bin/nullmailer-inject
+/usr/bin/nullmailer-mailq
+/usr/bin/nullmailer-queue
+/usr/bin/nullmailer-send
+/usr/bin/nullmailer-sendmail
+/usr/bin/nullmailer-smtpd
+/usr/bin/sendmail -> /usr/bin/nullmailer-sendmail
+/usr/libexec/nullmailer/qmqp
+/usr/libexec/nullmailer/smtp
+/usr/share/man/man1/nullmailer-dsn.1
+/usr/share/man/man1/nullmailer-inject.1
+/usr/share/man/man1/sendmail.1
+/usr/share/man/man7/nullmailer.7
+/usr/share/man/man8/nullmailer-queue.8
+/usr/share/man/man8/nullmailer-send.8

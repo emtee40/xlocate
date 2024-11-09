@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/__init__.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/_ffi.so
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/cffi/build.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/cffi/cairo_buffer.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/cffi/libinput.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/core.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/drawer.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/inputs.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/layer.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/output.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/window.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/wlrq.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/xdgwindow.py
+/usr/lib/python3.12/site-packages/libqtile/backend/wayland/xwindow.py
+/usr/share/wayland-sessions/qtile-wayland.desktop

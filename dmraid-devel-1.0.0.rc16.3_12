@@ -1,0 +1,13 @@
+/usr/include/dmraid/display.h
+/usr/include/dmraid/dmraid.h
+/usr/include/dmraid/dmreg.h
+/usr/include/dmraid/format.h
+/usr/include/dmraid/lib_context.h
+/usr/include/dmraid/list.h
+/usr/include/dmraid/locking.h
+/usr/include/dmraid/metadata.h
+/usr/include/dmraid/misc.h
+/usr/include/dmraid/reconfig.h
+/usr/lib/libdmraid-events-isw.so -> /usr/lib/device-mapper/libdmraid-events-isw.so
+/usr/lib/libdmraid.a
+/usr/lib/libdmraid.so -> ../lib64/libdmraid.so.1.0.0

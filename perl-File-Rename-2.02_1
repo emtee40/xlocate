@@ -1,0 +1,10 @@
+/usr/bin/prename
+/usr/bin/unsafe-rename
+/usr/share/man/man1/rename.1p
+/usr/share/man/man1/unsafe-rename.1p
+/usr/share/man/man3/File::File::Rename.3p
+/usr/share/man/man3/File::File::Rename::Options.3p
+/usr/share/man/man3/File::File::Rename::Unicode.3p
+/usr/share/perl5/vendor_perl/File/Rename.pm
+/usr/share/perl5/vendor_perl/File/Rename/Options.pm
+/usr/share/perl5/vendor_perl/File/Rename/Unicode.pm

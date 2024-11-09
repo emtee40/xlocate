@@ -1,0 +1,14 @@
+/etc/sv/boltd/log/run
+/etc/sv/boltd/log/supervise -> /run/runit/supervise.boltd-log
+/etc/sv/boltd/run
+/etc/sv/boltd/supervise -> /run/runit/supervise.boltd
+/usr/bin/boltctl
+/usr/lib/udev/rules.d/90-bolt.rules
+/usr/libexec/boltd
+/usr/share/dbus-1/interfaces/org.freedesktop.bolt.xml
+/usr/share/dbus-1/system-services/org.freedesktop.bolt.service
+/usr/share/dbus-1/system.d/org.freedesktop.bolt.conf
+/usr/share/man/man1/boltctl.1
+/usr/share/man/man8/boltd.8
+/usr/share/polkit-1/actions/org.freedesktop.bolt.policy
+/usr/share/polkit-1/rules.d/org.freedesktop.bolt.rules

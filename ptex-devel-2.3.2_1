@@ -1,0 +1,10 @@
+/usr/include/PtexHalf.h
+/usr/include/PtexInt.h
+/usr/include/PtexUtils.h
+/usr/include/PtexVersion.h
+/usr/include/Ptexture.h
+/usr/lib/libPtex.a
+/usr/share/cmake/Ptex/ptex-config.cmake
+/usr/share/cmake/Ptex/ptex-exports-none.cmake
+/usr/share/cmake/Ptex/ptex-exports.cmake
+/usr/share/cmake/Ptex/ptex-version.cmake

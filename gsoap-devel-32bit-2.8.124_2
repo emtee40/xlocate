@@ -1,0 +1,12 @@
+/usr/lib32/libgsoap++.a
+/usr/lib32/libgsoap.a
+/usr/lib32/libgsoapck++.a
+/usr/lib32/libgsoapck.a
+/usr/lib32/libgsoapssl++.a
+/usr/lib32/libgsoapssl.a
+/usr/lib32/pkgconfig/gsoap++.pc
+/usr/lib32/pkgconfig/gsoap.pc
+/usr/lib32/pkgconfig/gsoapck++.pc
+/usr/lib32/pkgconfig/gsoapck.pc
+/usr/lib32/pkgconfig/gsoapssl++.pc
+/usr/lib32/pkgconfig/gsoapssl.pc

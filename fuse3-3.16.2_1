@@ -1,0 +1,8 @@
+/etc/fuse.conf
+/usr/bin/fusermount3
+/usr/bin/mount.fuse3
+/usr/lib/libfuse3.so.3 -> /usr/lib/libfuse3.so.3.16.2
+/usr/lib/libfuse3.so.3.16.2
+/usr/lib/udev/rules.d/99-fuse3.rules
+/usr/share/man/man1/fusermount3.1
+/usr/share/man/man8/mount.fuse3.8

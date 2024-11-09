@@ -1,0 +1,7 @@
+/etc/bftpd.conf
+/etc/sv/bftpd/log/run
+/etc/sv/bftpd/log/supervise -> /run/runit/supervise.bftpd-log
+/etc/sv/bftpd/run
+/etc/sv/bftpd/supervise -> /run/runit/supervise.bftpd
+/usr/bin/bftpd
+/usr/share/man/man8/bftpd.8

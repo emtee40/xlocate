@@ -1,0 +1,11 @@
+/usr/bin/blind_id
+/usr/bin/xonotic-dedicated
+/usr/bin/xonotic-glx
+/usr/bin/xonotic-sdl
+/usr/lib/libd0_blind_id.so -> /usr/lib/libd0_blind_id.so.0.7.1
+/usr/lib/libd0_blind_id.so.0 -> /usr/lib/libd0_blind_id.so.0.7.1
+/usr/lib/libd0_blind_id.so.0.7.1
+/usr/share/applications/xonotic-glx.desktop
+/usr/share/applications/xonotic-sdl.desktop
+/usr/share/licenses/xonotic/COPYING
+/usr/share/pixmaps/xonotic.png

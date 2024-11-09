@@ -1,0 +1,4 @@
+/usr/include/gnome-menus-3.0/gmenu-tree.h
+/usr/lib/libgnome-menu-3.so -> /usr/lib/libgnome-menu-3.so.0.0.1
+/usr/lib/pkgconfig/libgnome-menu-3.0.pc
+/usr/share/gir-1.0/GMenu-3.0.gir

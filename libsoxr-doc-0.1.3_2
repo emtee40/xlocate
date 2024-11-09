@@ -1,0 +1,11 @@
+/usr/share/doc/libsoxr/LICENCE
+/usr/share/doc/libsoxr/NEWS
+/usr/share/doc/libsoxr/README
+/usr/share/doc/libsoxr/examples/1-single-block.c
+/usr/share/doc/libsoxr/examples/1a-lsr.c
+/usr/share/doc/libsoxr/examples/2-stream.C
+/usr/share/doc/libsoxr/examples/3-options-input-fn.c
+/usr/share/doc/libsoxr/examples/4-split-channels.c
+/usr/share/doc/libsoxr/examples/5-variable-rate.c
+/usr/share/doc/libsoxr/examples/README
+/usr/share/doc/libsoxr/examples/examples-common.h

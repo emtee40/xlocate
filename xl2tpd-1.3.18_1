@@ -1,0 +1,12 @@
+/etc/ppp/options.l2tp
+/etc/sv/xl2tpd/run
+/etc/sv/xl2tpd/supervise -> /run/runit/supervise.xl2tpd
+/etc/xl2tpd/xl2tpd.conf
+/usr/bin/pfc
+/usr/bin/xl2tpd
+/usr/bin/xl2tpd-control
+/usr/share/man/man1/pfc.1
+/usr/share/man/man5/l2tp-secrets.5
+/usr/share/man/man5/xl2tpd.conf.5
+/usr/share/man/man8/xl2tpd-control.8
+/usr/share/man/man8/xl2tpd.8

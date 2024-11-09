@@ -1,0 +1,5 @@
+/usr/share/man/man3/Stream::Buffered.3p
+/usr/share/perl5/vendor_perl/Stream/Buffered.pm
+/usr/share/perl5/vendor_perl/Stream/Buffered/Auto.pm
+/usr/share/perl5/vendor_perl/Stream/Buffered/File.pm
+/usr/share/perl5/vendor_perl/Stream/Buffered/PerlIO.pm

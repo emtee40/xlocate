@@ -1,0 +1,4 @@
+/usr/bin/plistutil
+/usr/lib/libplist-2.0.so.3 -> /usr/lib/libplist-2.0.so.3.3.0
+/usr/lib/libplist-2.0.so.3.3.0
+/usr/share/man/man1/plistutil.1

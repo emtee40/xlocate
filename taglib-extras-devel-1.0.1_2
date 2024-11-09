@@ -1,0 +1,11 @@
+/usr/bin/taglib-extras-config
+/usr/include/taglib-extras/audiblefile.h
+/usr/include/taglib-extras/audiblefiletyperesolver.h
+/usr/include/taglib-extras/audibleproperties.h
+/usr/include/taglib-extras/audibletag.h
+/usr/include/taglib-extras/realmediafile.h
+/usr/include/taglib-extras/realmediafiletyperesolver.h
+/usr/include/taglib-extras/taglib-extras_export.h
+/usr/include/taglib-extras/tfile_helper.h
+/usr/lib/libtag-extras.so -> /usr/lib/libtag-extras.so.1
+/usr/lib/pkgconfig/taglib-extras.pc

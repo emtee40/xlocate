@@ -1,0 +1,9 @@
+/usr/lib32/spa-0.2/bluez5/libspa-bluez5.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-aac.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-aptx.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-faststream.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-lc3.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-ldac.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-opus-g.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-opus.so
+/usr/lib32/spa-0.2/bluez5/libspa-codec-bluez5-sbc.so

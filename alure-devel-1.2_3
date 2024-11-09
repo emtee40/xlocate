@@ -1,0 +1,5 @@
+/usr/include/AL/alure.h
+/usr/lib/libalure-static.a
+/usr/lib/libalure.so -> /usr/lib/libalure.so.1
+/usr/lib/pkgconfig/alure-static.pc
+/usr/lib/pkgconfig/alure.pc

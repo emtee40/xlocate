@@ -1,0 +1,11 @@
+/usr/include/IL/il.h
+/usr/include/IL/ilu.h
+/usr/include/IL/ilut.h
+/usr/lib/libIL.so -> /usr/lib/libIL.so.1
+/usr/lib/libILU.so -> /usr/lib/libILU.so.1
+/usr/lib/libILUT.so -> /usr/lib/libILUT.so.1
+/usr/lib/pkgconfig/IL.pc
+/usr/lib/pkgconfig/ILU.pc
+/usr/lib/pkgconfig/ILUT.pc
+/usr/share/doc/devil/DevIL Manual.pdf
+/usr/share/doc/devil/DevIL Reference Guide.pdf

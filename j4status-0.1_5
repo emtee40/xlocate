@@ -1,0 +1,21 @@
+/usr/bin/j4status
+/usr/lib/j4status/plugins/debug.so
+/usr/lib/j4status/plugins/file-monitor.so
+/usr/lib/j4status/plugins/flat.so
+/usr/lib/j4status/plugins/i3bar.so
+/usr/lib/j4status/plugins/mpd.so
+/usr/lib/j4status/plugins/pulseaudio.so
+/usr/lib/j4status/plugins/sensors.so
+/usr/lib/j4status/plugins/time.so
+/usr/lib/j4status/plugins/upower.so
+/usr/lib/libj4status-plugin.so.0 -> /usr/lib/libj4status-plugin.so.0.0.0
+/usr/lib/libj4status-plugin.so.0.0.0
+/usr/share/man/man1/j4status.1
+/usr/share/man/man5/j4status-file-monitor.conf.5
+/usr/share/man/man5/j4status-flat.conf.5
+/usr/share/man/man5/j4status-i3bar.conf.5
+/usr/share/man/man5/j4status-mpd.conf.5
+/usr/share/man/man5/j4status-pulseaudio.conf.5
+/usr/share/man/man5/j4status-sensors.conf.5
+/usr/share/man/man5/j4status-time.conf.5
+/usr/share/man/man5/j4status.conf.5

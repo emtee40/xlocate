@@ -1,0 +1,8 @@
+/usr/lib32/libKF5KrossCore.so.5 -> /usr/lib32/libKF5KrossCore.so.5.116.0
+/usr/lib32/libKF5KrossCore.so.5.116.0
+/usr/lib32/libKF5KrossUi.so.5 -> /usr/lib32/libKF5KrossUi.so.5.116.0
+/usr/lib32/libKF5KrossUi.so.5.116.0
+/usr/lib32/qt5/plugins/krossmoduleforms.so
+/usr/lib32/qt5/plugins/krossmodulekdetranslation.so
+/usr/lib32/qt5/plugins/krossqts.so
+/usr/lib32/qt5/plugins/script/krossqtsplugin.so

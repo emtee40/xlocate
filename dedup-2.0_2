@@ -1,0 +1,15 @@
+/usr/bin/dup-check
+/usr/bin/dup-gc
+/usr/bin/dup-init
+/usr/bin/dup-keygen
+/usr/bin/dup-pack
+/usr/bin/dup-rm
+/usr/bin/dup-unpack
+/usr/share/licenses/dedup/LICENSE
+/usr/share/man/man1/dup-check.1
+/usr/share/man/man1/dup-gc.1
+/usr/share/man/man1/dup-init.1
+/usr/share/man/man1/dup-keygen.1
+/usr/share/man/man1/dup-pack.1
+/usr/share/man/man1/dup-rm.1
+/usr/share/man/man1/dup-unpack.1

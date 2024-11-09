@@ -1,0 +1,3 @@
+/usr/lib32/libhamlib++.so -> /usr/lib32/libhamlib++.so.4.0.6
+/usr/lib32/libhamlib.so -> /usr/lib32/libhamlib.so.4.0.6
+/usr/lib32/pkgconfig/hamlib.pc

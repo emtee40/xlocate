@@ -1,0 +1,5 @@
+/usr/include/iml.h
+/usr/lib/libiml.a
+/usr/lib/libiml.so -> /usr/lib/libiml.so.0.1.1
+/usr/share/iml/liblink
+/usr/share/iml/libroutines

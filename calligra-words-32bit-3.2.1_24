@@ -1,0 +1,5 @@
+/usr/lib32/libkdeinit5_calligrawords.so
+/usr/lib32/libwordsprivate.so -> /usr/lib32/libwordsprivate.so.17
+/usr/lib32/libwordsprivate.so.17 -> /usr/lib32/libwordsprivate.so.17.0.0
+/usr/lib32/libwordsprivate.so.17.0.0
+/usr/lib32/qt5/plugins/calligra/parts/calligrawordspart.so

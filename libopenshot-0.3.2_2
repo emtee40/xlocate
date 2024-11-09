@@ -1,0 +1,4 @@
+/usr/lib/libopenshot.so.0.3.2
+/usr/lib/libopenshot.so.25 -> /usr/lib/libopenshot.so.0.3.2
+/usr/lib/python3.12/site-packages/_openshot.so
+/usr/lib/python3.12/site-packages/openshot.py

@@ -1,0 +1,15 @@
+/usr/bin/LimeQuickTest
+/usr/bin/LimeSuiteGUI
+/usr/bin/LimeUtil
+/usr/lib/libLimeSuite.so.23.11-1 -> /usr/lib/libLimeSuite.so.23.11.0
+/usr/lib/libLimeSuite.so.23.11.0
+/usr/lib/octave/8.4.0/site/oct/x86_64-unknown-linux-gnu/LimeSuite.oct
+/usr/lib/udev/rules.d/64-limesuite.rules
+/usr/share/applications/lime-suite.desktop
+/usr/share/icons/hicolor/128x128/apps/lime-suite.png
+/usr/share/icons/hicolor/16x16/apps/lime-suite.png
+/usr/share/icons/hicolor/22x22/apps/lime-suite.png
+/usr/share/icons/hicolor/32x32/apps/lime-suite.png
+/usr/share/icons/hicolor/48x48/apps/lime-suite.png
+/usr/share/icons/hicolor/64x64/apps/lime-suite.png
+/usr/share/octave/8.4.0/site/m/LoadLimeSuite.m

@@ -1,0 +1,3 @@
+/usr/include/SDL/SDL_net.h
+/usr/lib/libSDL_net.so -> /usr/lib/libSDL_net-1.2.so.0.8.0
+/usr/lib/pkgconfig/SDL_net.pc

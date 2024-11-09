@@ -1,0 +1,3 @@
+/usr/include/lwipv6.h
+/usr/lib/liblwipv6.a
+/usr/lib/liblwipv6.so -> /usr/lib/liblwipv6.so.2.0.0

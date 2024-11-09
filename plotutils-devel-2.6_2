@@ -1,0 +1,4 @@
+/usr/include/plot.h
+/usr/include/plotcompat.h
+/usr/lib/libplot.a
+/usr/lib/libplot.so -> /usr/lib/libplot.so.2.2.4

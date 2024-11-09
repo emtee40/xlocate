@@ -1,0 +1,5 @@
+/usr/bin/bootiso
+/usr/share/bash-completion/completions/bootiso
+/usr/share/doc/bootiso/readme.md
+/usr/share/man/man1/bootiso.1
+/usr/share/zsh/site-functions/_bootiso

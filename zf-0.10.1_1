@@ -1,0 +1,6 @@
+/usr/bin/zf
+/usr/share/bash-completion/completions/zf
+/usr/share/fish/vendor_completions.d/zf.fish
+/usr/share/licenses/zf/LICENSE
+/usr/share/man/man1/zf.1
+/usr/share/zsh/site-functions/_zf

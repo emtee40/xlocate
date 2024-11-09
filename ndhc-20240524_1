@@ -1,0 +1,7 @@
+/etc/sv/ndhc/log/run
+/etc/sv/ndhc/log/supervise -> /run/runit/supervise.ndhc-log
+/etc/sv/ndhc/run
+/etc/sv/ndhc/supervise -> /run/runit/supervise.ndhc
+/usr/bin/ndhc
+/usr/share/licenses/ndhc/LICENSE
+/usr/share/man/man8/ndhc.8

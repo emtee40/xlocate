@@ -1,0 +1,14 @@
+/etc/sv/mpDris2/run
+/etc/sv/mpDris2/supervise -> /run/runit/supervise.mpDris2
+/etc/xdg/autostart/mpdris2.desktop
+/usr/bin/mpDris2
+/usr/share/applications/mpdris2.desktop
+/usr/share/dbus-1/services/org.mpris.MediaPlayer2.mpd.service
+/usr/share/doc/mpDris2/README.md
+/usr/share/doc/mpdris2/AUTHORS
+/usr/share/doc/mpdris2/COPYING
+/usr/share/doc/mpdris2/README
+/usr/share/doc/mpdris2/mpDris2.conf
+/usr/share/examples/mpDris2/mpDris2.conf
+/usr/share/locale/fr/LC_MESSAGES/mpDris2.mo
+/usr/share/locale/nl/LC_MESSAGES/mpDris2.mo

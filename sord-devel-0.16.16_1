@@ -1,0 +1,4 @@
+/usr/include/sord-0/sord/sord.h
+/usr/include/sord-0/sord/sordmm.hpp
+/usr/lib/libsord-0.so -> /usr/lib/libsord-0.so.0
+/usr/lib/pkgconfig/sord-0.pc

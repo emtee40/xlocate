@@ -1,0 +1,7 @@
+/usr/bin/dust
+/usr/share/bash-completion/completions/dust
+/usr/share/doc/dust/README.md
+/usr/share/examples/dust/config.toml
+/usr/share/fish/vendor_completions.d/dust.fish
+/usr/share/man/man1/dust.1
+/usr/share/zsh/site-functions/_dust

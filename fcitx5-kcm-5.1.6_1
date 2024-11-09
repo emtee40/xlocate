@@ -1,0 +1,16 @@
+/usr/bin/fcitx5-plasma-theme-generator
+/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_fcitx5.so
+/usr/share/applications/kcm_fcitx5.desktop
+/usr/share/locale/ca/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/da/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/de/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/es/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/fr/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/he/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/ja/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/ko/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/ru/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/tr/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/vi/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/kcm_fcitx5.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/kcm_fcitx5.mo

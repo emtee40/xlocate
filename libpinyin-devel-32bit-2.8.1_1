@@ -1,0 +1,3 @@
+/usr/lib32/libpinyin.a
+/usr/lib32/libpinyin.so -> /usr/lib32/libpinyin.so.15.0.0
+/usr/lib32/pkgconfig/libpinyin.pc

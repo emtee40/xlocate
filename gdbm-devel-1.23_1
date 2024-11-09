@@ -1,0 +1,12 @@
+/usr/include/dbm.h
+/usr/include/gdbm.h
+/usr/include/gdbm/dbm.h -> /usr/include/dbm.h
+/usr/include/gdbm/gdbm.h -> /usr/include/gdbm.h
+/usr/include/gdbm/ndbm.h -> /usr/include/ndbm.h
+/usr/include/ndbm.h
+/usr/lib/libgdbm.a
+/usr/lib/libgdbm.so -> /usr/lib/libgdbm.so.6.0.0
+/usr/lib/libgdbm_compat.a
+/usr/lib/libgdbm_compat.so -> /usr/lib/libgdbm_compat.so.4.0.0
+/usr/share/info/gdbm.info
+/usr/share/man/man3/gdbm.3

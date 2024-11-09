@@ -1,0 +1,31 @@
+/usr/lib/libwireshark.so.17 -> /usr/lib/libwireshark.so.17.0.6
+/usr/lib/libwireshark.so.17.0.6
+/usr/lib/libwiretap.so.14 -> /usr/lib/libwiretap.so.14.1.6
+/usr/lib/libwiretap.so.14.1.6
+/usr/lib/libwsutil.so.15 -> /usr/lib/libwsutil.so.15.0.0
+/usr/lib/libwsutil.so.15.0.0
+/usr/lib/wireshark/extcap/androiddump
+/usr/lib/wireshark/extcap/ciscodump
+/usr/lib/wireshark/extcap/dpauxmon
+/usr/lib/wireshark/extcap/randpktdump
+/usr/lib/wireshark/extcap/sshdump
+/usr/lib/wireshark/extcap/udpdump
+/usr/lib/wireshark/extcap/wifidump
+/usr/lib/wireshark/plugins/4.2/codecs/g711.so
+/usr/lib/wireshark/plugins/4.2/codecs/g722.so
+/usr/lib/wireshark/plugins/4.2/codecs/g726.so
+/usr/lib/wireshark/plugins/4.2/codecs/l16mono.so
+/usr/lib/wireshark/plugins/4.2/codecs/sbc.so
+/usr/lib/wireshark/plugins/4.2/epan/ethercat.so
+/usr/lib/wireshark/plugins/4.2/epan/gryphon.so
+/usr/lib/wireshark/plugins/4.2/epan/irda.so
+/usr/lib/wireshark/plugins/4.2/epan/mate.so
+/usr/lib/wireshark/plugins/4.2/epan/opcua.so
+/usr/lib/wireshark/plugins/4.2/epan/profinet.so
+/usr/lib/wireshark/plugins/4.2/epan/stats_tree.so
+/usr/lib/wireshark/plugins/4.2/epan/transum.so
+/usr/lib/wireshark/plugins/4.2/epan/unistim.so
+/usr/lib/wireshark/plugins/4.2/epan/wimax.so
+/usr/lib/wireshark/plugins/4.2/epan/wimaxasncp.so
+/usr/lib/wireshark/plugins/4.2/epan/wimaxmacphy.so
+/usr/lib/wireshark/plugins/4.2/wiretap/usbdump.so

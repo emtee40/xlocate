@@ -1,0 +1,15 @@
+/usr/lib32/gambit/libgambit.so -> /usr/lib32/gambit/libgambit.so.4
+/usr/lib32/gambit/libgambit.so.4 -> /usr/lib32/gambit/libgambit.so.4.9.5
+/usr/lib32/gambit/libgambit.so.4.9.5
+/usr/lib32/gambit/libgambitgsc.so -> /usr/lib32/gambit/libgambitgsc.so.4
+/usr/lib32/gambit/libgambitgsc.so.4 -> /usr/lib32/gambit/libgambitgsc.so.4.9.5
+/usr/lib32/gambit/libgambitgsc.so.4.9.5
+/usr/lib32/gambit/libgambitgsi.so -> /usr/lib32/gambit/libgambitgsi.so.4
+/usr/lib32/gambit/libgambitgsi.so.4 -> /usr/lib32/gambit/libgambitgsi.so.4.9.5
+/usr/lib32/gambit/libgambitgsi.so.4.9.5
+/usr/lib32/libgambit.so.4 -> /usr/lib32/gambit/libgambit.so.4.9.5
+/usr/lib32/libgambit.so.4.9.5 -> /usr/lib32/gambit/libgambit.so.4.9.5
+/usr/lib32/libgambitgsc.so.4 -> /usr/lib32/gambit/libgambitgsc.so.4.9.5
+/usr/lib32/libgambitgsc.so.4.9.5 -> /usr/lib32/gambit/libgambitgsc.so.4.9.5
+/usr/lib32/libgambitgsi.so.4 -> /usr/lib32/gambit/libgambitgsi.so.4.9.5
+/usr/lib32/libgambitgsi.so.4.9.5 -> /usr/lib32/gambit/libgambitgsi.so.4.9.5

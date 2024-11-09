@@ -1,0 +1,4 @@
+/usr/include/mrss.h
+/usr/lib/libmrss.a
+/usr/lib/libmrss.so -> /usr/lib/libmrss.so.0.19.2
+/usr/lib/pkgconfig/mrss.pc

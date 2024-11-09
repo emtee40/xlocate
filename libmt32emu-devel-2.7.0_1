@@ -1,0 +1,17 @@
+/usr/include/mt32emu.h
+/usr/include/mt32emu/Enumerations.h
+/usr/include/mt32emu/File.h
+/usr/include/mt32emu/FileStream.h
+/usr/include/mt32emu/MidiStreamParser.h
+/usr/include/mt32emu/ROMInfo.h
+/usr/include/mt32emu/SampleRateConverter.h
+/usr/include/mt32emu/Synth.h
+/usr/include/mt32emu/Types.h
+/usr/include/mt32emu/c_interface/c_interface.h
+/usr/include/mt32emu/c_interface/c_types.h
+/usr/include/mt32emu/c_interface/cpp_interface.h
+/usr/include/mt32emu/config.h
+/usr/include/mt32emu/globals.h
+/usr/include/mt32emu/mt32emu.h
+/usr/lib/libmt32emu.so -> /usr/lib/libmt32emu.so.2
+/usr/lib/pkgconfig/mt32emu.pc

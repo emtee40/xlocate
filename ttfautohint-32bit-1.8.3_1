@@ -1,0 +1,5 @@
+/usr/lib32/libttfautohint.a
+/usr/lib32/libttfautohint.so -> /usr/lib32/libttfautohint.so.1.0.2
+/usr/lib32/libttfautohint.so.1 -> /usr/lib32/libttfautohint.so.1.0.2
+/usr/lib32/libttfautohint.so.1.0.2
+/usr/lib32/pkgconfig/ttfautohint.pc

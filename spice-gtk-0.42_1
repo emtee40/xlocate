@@ -1,0 +1,18 @@
+/usr/bin/spicy
+/usr/bin/spicy-screenshot
+/usr/bin/spicy-stats
+/usr/lib/girepository-1.0/SpiceClientGLib-2.0.typelib
+/usr/lib/girepository-1.0/SpiceClientGtk-3.0.typelib
+/usr/lib/libspice-client-glib-2.0.so.8 -> /usr/lib/libspice-client-glib-2.0.so.8.8.2
+/usr/lib/libspice-client-glib-2.0.so.8.8.2
+/usr/lib/libspice-client-gtk-3.0.so.5 -> /usr/lib/libspice-client-gtk-3.0.so.5.1.1
+/usr/lib/libspice-client-gtk-3.0.so.5.1.1
+/usr/libexec/spice-client-glib-usb-acl-helper
+/usr/share/locale/cs/LC_MESSAGES/spice-gtk.mo
+/usr/share/locale/de/LC_MESSAGES/spice-gtk.mo
+/usr/share/locale/fr/LC_MESSAGES/spice-gtk.mo
+/usr/share/locale/it/LC_MESSAGES/spice-gtk.mo
+/usr/share/locale/ka/LC_MESSAGES/spice-gtk.mo
+/usr/share/locale/ru/LC_MESSAGES/spice-gtk.mo
+/usr/share/man/man1/spice-client.1
+/usr/share/polkit-1/actions/org.spice-space.lowlevelusbaccess.policy

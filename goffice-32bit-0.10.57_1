@@ -1,0 +1,11 @@
+/usr/lib32/goffice/0.10.57/plugins/plot_barcol/barcol.so
+/usr/lib32/goffice/0.10.57/plugins/plot_distrib/distrib.so
+/usr/lib32/goffice/0.10.57/plugins/plot_pie/pie.so
+/usr/lib32/goffice/0.10.57/plugins/plot_radar/radar.so
+/usr/lib32/goffice/0.10.57/plugins/plot_surface/surface.so
+/usr/lib32/goffice/0.10.57/plugins/plot_xy/xy.so
+/usr/lib32/goffice/0.10.57/plugins/reg_linear/linreg.so
+/usr/lib32/goffice/0.10.57/plugins/reg_logfit/logfit.so
+/usr/lib32/goffice/0.10.57/plugins/smoothing/smoothing.so
+/usr/lib32/libgoffice-0.10.so.10 -> /usr/lib32/libgoffice-0.10.so.10.0.57
+/usr/lib32/libgoffice-0.10.so.10.0.57

@@ -1,0 +1,36 @@
+/usr/lib32/libmef.so -> /usr/lib32/libmef.so.3.0.1
+/usr/lib32/libmef.so.3 -> /usr/lib32/libmef.so.3.0.1
+/usr/lib32/libmef.so.3.0.1
+/usr/lib32/libmlterm_coreotl.so
+/usr/lib32/libpobl.so -> /usr/lib32/libpobl.so.2.0.1
+/usr/lib32/libpobl.so.2 -> /usr/lib32/libpobl.so.2.0.1
+/usr/lib32/libpobl.so.2.0.1
+/usr/lib32/mef/libmef_8bits.so
+/usr/lib32/mef/libmef_jajp.so
+/usr/lib32/mef/libmef_kokr.so
+/usr/lib32/mef/libmef_zh.so
+/usr/lib32/mlterm/libathena.so
+/usr/lib32/mlterm/libctl_bidi.so
+/usr/lib32/mlterm/libctl_iscii.so
+/usr/lib32/mlterm/libim-kbd.so
+/usr/lib32/mlterm/libim-skk.so
+/usr/lib32/mlterm/libind_assamese.so
+/usr/lib32/mlterm/libind_bengali.so
+/usr/lib32/mlterm/libind_gujarati.so
+/usr/lib32/mlterm/libind_hindi.so
+/usr/lib32/mlterm/libind_iitkeyb.so
+/usr/lib32/mlterm/libind_inscript.so
+/usr/lib32/mlterm/libind_kannada.so
+/usr/lib32/mlterm/libind_malayalam.so
+/usr/lib32/mlterm/libind_oriya.so
+/usr/lib32/mlterm/libind_punjabi.so
+/usr/lib32/mlterm/libind_telugu.so
+/usr/lib32/mlterm/libmotif.so
+/usr/lib32/mlterm/libmozmodern.so
+/usr/lib32/mlterm/libnext.so
+/usr/lib32/mlterm/libotl.so
+/usr/lib32/mlterm/libpixmap_engine.so
+/usr/lib32/mlterm/libsample.so
+/usr/lib32/mlterm/libtype_cairo.so
+/usr/lib32/mlterm/libtype_xft.so
+/usr/lib32/mlterm/libzmodem.so

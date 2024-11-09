@@ -1,0 +1,8 @@
+/usr/include/libvoikko/voikko.h
+/usr/include/libvoikko/voikko_defines.h
+/usr/include/libvoikko/voikko_deprecated.h
+/usr/include/libvoikko/voikko_enums.h
+/usr/include/libvoikko/voikko_structs.h
+/usr/lib/libvoikko.a
+/usr/lib/libvoikko.so -> /usr/lib/libvoikko.so.1.16.2
+/usr/lib/pkgconfig/libvoikko.pc

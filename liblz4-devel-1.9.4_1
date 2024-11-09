@@ -1,0 +1,7 @@
+/usr/include/lz4.h
+/usr/include/lz4frame.h
+/usr/include/lz4frame_static.h
+/usr/include/lz4hc.h
+/usr/lib/liblz4.a
+/usr/lib/liblz4.so -> /usr/lib/liblz4.so.1.9.4
+/usr/lib/pkgconfig/liblz4.pc

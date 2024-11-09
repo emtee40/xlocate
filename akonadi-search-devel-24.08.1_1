@@ -1,0 +1,36 @@
+/usr/include/KPim6/AkonadiSearch/Core/Query
+/usr/include/KPim6/AkonadiSearch/Core/ResultIterator
+/usr/include/KPim6/AkonadiSearch/Core/SearchStore
+/usr/include/KPim6/AkonadiSearch/Core/Term
+/usr/include/KPim6/AkonadiSearch/Debug/akonadisearchdebugdialog.h
+/usr/include/KPim6/AkonadiSearch/Debug/akonadisearchdebugsearchpathcombobox.h
+/usr/include/KPim6/AkonadiSearch/Debug/search_debug_export.h
+/usr/include/KPim6/AkonadiSearch/PIM/collectionquery.h
+/usr/include/KPim6/AkonadiSearch/PIM/contactcompleter.h
+/usr/include/KPim6/AkonadiSearch/PIM/contactquery.h
+/usr/include/KPim6/AkonadiSearch/PIM/emailquery.h
+/usr/include/KPim6/AkonadiSearch/PIM/indexeditems.h
+/usr/include/KPim6/AkonadiSearch/PIM/notequery.h
+/usr/include/KPim6/AkonadiSearch/PIM/query.h
+/usr/include/KPim6/AkonadiSearch/PIM/resultiterator.h
+/usr/include/KPim6/AkonadiSearch/PIM/search_pim_export.h
+/usr/include/KPim6/AkonadiSearch/Xapian/search_xapian_export.h
+/usr/include/KPim6/AkonadiSearch/Xapian/xapiandatabase.h
+/usr/include/KPim6/AkonadiSearch/Xapian/xapiandocument.h
+/usr/include/KPim6/AkonadiSearch/Xapian/xapianqueryparser.h
+/usr/include/KPim6/AkonadiSearch/Xapian/xapiansearchstore.h
+/usr/include/KPim6/AkonadiSearch/Xapian/xapiantermgenerator.h
+/usr/include/KPim6/AkonadiSearch/akonadi_search_version.h
+/usr/include/KPim6/AkonadiSearch/core/query.h
+/usr/include/KPim6/AkonadiSearch/core/resultiterator.h
+/usr/include/KPim6/AkonadiSearch/core/searchstore.h
+/usr/include/KPim6/AkonadiSearch/core/term.h
+/usr/include/KPim6/AkonadiSearch/search_core_export.h
+/usr/lib/cmake/KPim6AkonadiSearch/KPim6AkonadiSearchConfig.cmake
+/usr/lib/cmake/KPim6AkonadiSearch/KPim6AkonadiSearchConfigVersion.cmake
+/usr/lib/cmake/KPim6AkonadiSearch/KPim6AkonadiSearchTargets-none.cmake
+/usr/lib/cmake/KPim6AkonadiSearch/KPim6AkonadiSearchTargets.cmake
+/usr/lib/libKPim6AkonadiSearchCore.so -> /usr/lib/libKPim6AkonadiSearchCore.so.6
+/usr/lib/libKPim6AkonadiSearchDebug.so -> /usr/lib/libKPim6AkonadiSearchDebug.so.6
+/usr/lib/libKPim6AkonadiSearchPIM.so -> /usr/lib/libKPim6AkonadiSearchPIM.so.6
+/usr/lib/libKPim6AkonadiSearchXapian.so -> /usr/lib/libKPim6AkonadiSearchXapian.so.6

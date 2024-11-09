@@ -1,0 +1,4 @@
+/usr/include/dqlite.h
+/usr/lib/libdqlite.a
+/usr/lib/libdqlite.so -> /usr/lib/libdqlite.so.0.0.1
+/usr/lib/pkgconfig/dqlite.pc

@@ -1,0 +1,17 @@
+/usr/include/libltdl/lt_dlloader.h
+/usr/include/libltdl/lt_error.h
+/usr/include/libltdl/lt_system.h
+/usr/include/ltdl.h
+/usr/lib/libltdl.a
+/usr/lib/libltdl.so -> /usr/lib/libltdl.so.7.3.2
+/usr/share/aclocal/ltdl.m4
+/usr/share/libtool/libltdl/lt__alloc.h
+/usr/share/libtool/libltdl/lt__argz_.h
+/usr/share/libtool/libltdl/lt__dirent.h
+/usr/share/libtool/libltdl/lt__glibc.h
+/usr/share/libtool/libltdl/lt__private.h
+/usr/share/libtool/libltdl/lt__strl.h
+/usr/share/libtool/libltdl/lt_dlloader.h
+/usr/share/libtool/libltdl/lt_error.h
+/usr/share/libtool/libltdl/lt_system.h
+/usr/share/libtool/libltdl/slist.h

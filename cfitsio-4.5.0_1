@@ -1,0 +1,13 @@
+/usr/bin/cookbook
+/usr/bin/fitscopy
+/usr/bin/fitsverify
+/usr/bin/fpack
+/usr/bin/funpack
+/usr/bin/imcopy
+/usr/bin/smem
+/usr/bin/speed
+/usr/lib/libcfitsio.a
+/usr/lib/libcfitsio.so.10 -> /usr/lib/libcfitsio.so.10.0.0
+/usr/lib/libcfitsio.so.10.0.0
+/usr/lib/libcfitsio.so.10.4.5.0 -> /usr/lib/libcfitsio.so.10.0.0
+/usr/share/licenses/cfitsio/License.txt

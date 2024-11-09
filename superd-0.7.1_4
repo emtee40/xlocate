@@ -1,0 +1,7 @@
+/usr/bin/superctl
+/usr/bin/superd
+/usr/share/bash-completion/completions/superctl
+/usr/share/man/man1/superctl.1
+/usr/share/man/man1/superd.1
+/usr/share/man/man5/superd.service.5
+/usr/share/zsh/site-functions/_superctl

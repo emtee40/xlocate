@@ -1,0 +1,33 @@
+/usr/lib/fcitx5/zhuyin.so
+/usr/share/fcitx5/addon/zhuyin.conf
+/usr/share/fcitx5/inputmethod/zhuyin.conf
+/usr/share/fcitx5/lua/imeapi/extensions/zhuyin.lua
+/usr/share/fcitx5/zhuyin/addon_phrase_index.bin
+/usr/share/fcitx5/zhuyin/addon_pinyin_index.bin
+/usr/share/fcitx5/zhuyin/bigram.db
+/usr/share/fcitx5/zhuyin/easysymbols.txt
+/usr/share/fcitx5/zhuyin/gb_char.bin
+/usr/share/fcitx5/zhuyin/gbk_char.bin
+/usr/share/fcitx5/zhuyin/merged.bin
+/usr/share/fcitx5/zhuyin/phrase_index.bin
+/usr/share/fcitx5/zhuyin/pinyin_index.bin
+/usr/share/fcitx5/zhuyin/table.conf
+/usr/share/icons/hicolor/16x16/apps/fcitx-zhuyin.png -> /usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/16x16/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/22x22/apps/fcitx-zhuyin.png -> /usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/22x22/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/24x24/apps/fcitx-zhuyin.png -> /usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/24x24/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/48x48/apps/fcitx-zhuyin.png -> /usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.fcitx-zhuyin.png
+/usr/share/locale/ca/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/he/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-zhuyin.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.Zhuyin.metainfo.xml

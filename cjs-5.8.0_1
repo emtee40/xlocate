@@ -1,0 +1,7 @@
+/usr/bin/cjs -> /usr/bin/cjs-console
+/usr/bin/cjs-console
+/usr/lib/cjs/girepository-1.0/CjsPrivate-1.0.typelib
+/usr/lib/libcjs.so.0 -> /usr/lib/libcjs.so.0.0.0
+/usr/lib/libcjs.so.0.0.0
+/usr/share/cjs-1.0/lsan/lsan.supp
+/usr/share/cjs-1.0/valgrind/gjs.supp

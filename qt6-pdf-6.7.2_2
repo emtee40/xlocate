@@ -1,0 +1,28 @@
+/usr/lib/cmake/Qt6/FindGPerf.cmake
+/usr/lib/cmake/Qt6/FindGn.cmake
+/usr/lib/cmake/Qt6/FindNinja.cmake
+/usr/lib/cmake/Qt6/FindNodejs.cmake
+/usr/lib/cmake/Qt6/FindPkgConfigHost.cmake
+/usr/lib/cmake/Qt6/FindSnappy.cmake
+/usr/lib/cmake/Qt6BuildInternals/StandaloneTests/QtWebEngineTestsConfig.cmake
+/usr/lib/libQt6Pdf.so.6 -> /usr/lib/libQt6Pdf.so.6.7.2
+/usr/lib/libQt6Pdf.so.6.7.2
+/usr/lib/libQt6PdfQuick.so.6 -> /usr/lib/libQt6PdfQuick.so.6.7.2
+/usr/lib/libQt6PdfQuick.so.6.7.2
+/usr/lib/libQt6PdfWidgets.so.6 -> /usr/lib/libQt6PdfWidgets.so.6.7.2
+/usr/lib/libQt6PdfWidgets.so.6.7.2
+/usr/lib/qt6/metatypes/qt6pdf_none_metatypes.json
+/usr/lib/qt6/metatypes/qt6pdfquick_none_metatypes.json
+/usr/lib/qt6/metatypes/qt6pdfwidgets_none_metatypes.json
+/usr/lib/qt6/plugins/imageformats/libqpdf.so
+/usr/lib/qt6/qml/QtQuick/Pdf/+Material/PdfStyle.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/+Universal/PdfStyle.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/PdfLinkDelegate.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/PdfMultiPageView.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/PdfPageView.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/PdfScrollablePageView.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/PdfStyle.qml
+/usr/lib/qt6/qml/QtQuick/Pdf/libpdfquickplugin.so
+/usr/lib/qt6/qml/QtQuick/Pdf/plugins.qmltypes
+/usr/lib/qt6/qml/QtQuick/Pdf/qmldir
+/usr/share/licenses/qt6-pdf/LICENSE

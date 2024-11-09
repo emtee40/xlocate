@@ -1,0 +1,40 @@
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-bg-crossfade.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-bg-slide-show.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-bg.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-desktop-thumbnail.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-desktop-version.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-idle-monitor.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-languages.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-pnp-ids.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-rr-config.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-rr.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-systemd.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-wall-clock.h
+/usr/include/gnome-desktop-3.0/libgnome-desktop/gnome-xkb-info.h
+/usr/include/gnome-desktop-4.0/gnome-bg/gnome-bg-slide-show.h
+/usr/include/gnome-desktop-4.0/gnome-bg/gnome-bg.h
+/usr/include/gnome-desktop-4.0/gnome-rr/gnome-rr-config.h
+/usr/include/gnome-desktop-4.0/gnome-rr/gnome-rr-output-info.h
+/usr/include/gnome-desktop-4.0/gnome-rr/gnome-rr-screen.h
+/usr/include/gnome-desktop-4.0/gnome-rr/gnome-rr-types.h
+/usr/include/gnome-desktop-4.0/gnome-rr/gnome-rr.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-desktop-thumbnail.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-desktop-version.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-idle-monitor.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-languages.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-pnp-ids.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-systemd.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-wall-clock.h
+/usr/include/gnome-desktop-4.0/libgnome-desktop/gnome-xkb-info.h
+/usr/lib/libgnome-bg-4.so -> /usr/lib/libgnome-bg-4.so.2
+/usr/lib/libgnome-desktop-3.so -> /usr/lib/libgnome-desktop-3.so.20
+/usr/lib/libgnome-desktop-4.so -> /usr/lib/libgnome-desktop-4.so.2
+/usr/lib/libgnome-rr-4.so -> /usr/lib/libgnome-rr-4.so.2
+/usr/lib/pkgconfig/gnome-bg-4.pc
+/usr/lib/pkgconfig/gnome-desktop-3.0.pc
+/usr/lib/pkgconfig/gnome-desktop-4.pc
+/usr/lib/pkgconfig/gnome-rr-4.pc
+/usr/share/gir-1.0/GnomeBG-4.0.gir
+/usr/share/gir-1.0/GnomeDesktop-3.0.gir
+/usr/share/gir-1.0/GnomeDesktop-4.0.gir
+/usr/share/gir-1.0/GnomeRR-4.0.gir

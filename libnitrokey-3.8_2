@@ -1,0 +1,4 @@
+/usr/lib/libnitrokey.so -> /usr/lib/libnitrokey.so.3
+/usr/lib/libnitrokey.so.3 -> /usr/lib/libnitrokey.so.3.7.0
+/usr/lib/libnitrokey.so.3.7.0
+/usr/lib/udev/rules.d/41-nitrokey.rules

@@ -1,0 +1,14 @@
+/etc/sv/synergyc/log/run
+/etc/sv/synergyc/log/supervise -> /run/runit/supervise.synergyc-log
+/etc/sv/synergyc/run
+/etc/sv/synergyc/supervise -> /run/runit/supervise.synergyc
+/etc/sv/synergys/log/run
+/etc/sv/synergys/log/supervise -> /run/runit/supervise.synergys-log
+/etc/sv/synergys/run
+/etc/sv/synergys/supervise -> /run/runit/supervise.synergys
+/usr/bin/synergyc
+/usr/bin/synergys
+/usr/bin/syntool
+/usr/share/examples/synergy/synergy.conf.example
+/usr/share/examples/synergy/synergy.conf.example-advanced
+/usr/share/examples/synergy/synergy.conf.example-basic

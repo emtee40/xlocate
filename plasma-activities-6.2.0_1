@@ -1,0 +1,9 @@
+/usr/bin/plasma-activities-cli6
+/usr/lib/libPlasmaActivities.so.6 -> /usr/lib/libPlasmaActivities.so.6.2.0
+/usr/lib/libPlasmaActivities.so.6.2.0
+/usr/lib/qt6/qml/org/kde/activities/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/activities/libplasmaactivitiesextensionplugin.so
+/usr/lib/qt6/qml/org/kde/activities/plasmaactivitiesextensionplugin.qmltypes
+/usr/lib/qt6/qml/org/kde/activities/qmldir
+/usr/share/qlogging-categories6/plasma-activities.categories
+/usr/share/qlogging-categories6/plasma-activities.renamecategories

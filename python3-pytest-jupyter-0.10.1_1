@@ -1,0 +1,14 @@
+/usr/lib/python3.12/site-packages/pytest_jupyter-0.10.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/pytest_jupyter-0.10.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/pytest_jupyter-0.10.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/pytest_jupyter-0.10.1.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/pytest_jupyter/__init__.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/_version.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/echo_kernel.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/jupyter_client.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/jupyter_core.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/jupyter_server.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/py.typed
+/usr/lib/python3.12/site-packages/pytest_jupyter/pytest_tornasync.py
+/usr/lib/python3.12/site-packages/pytest_jupyter/utils.py
+/usr/share/licenses/python3-pytest-jupyter/LICENSE

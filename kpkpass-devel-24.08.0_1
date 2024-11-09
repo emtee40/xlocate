@@ -1,0 +1,17 @@
+/usr/include/KPim6/KPkPass/Barcode
+/usr/include/KPim6/KPkPass/BoardingPass
+/usr/include/KPim6/KPkPass/Field
+/usr/include/KPim6/KPkPass/Location
+/usr/include/KPim6/KPkPass/Pass
+/usr/include/KPim6/KPkPass/barcode.h
+/usr/include/KPim6/KPkPass/boardingpass.h
+/usr/include/KPim6/KPkPass/field.h
+/usr/include/KPim6/KPkPass/kpkpass_export.h
+/usr/include/KPim6/KPkPass/kpkpass_version.h
+/usr/include/KPim6/KPkPass/location.h
+/usr/include/KPim6/KPkPass/pass.h
+/usr/lib/cmake/KPim6PkPass/KPim6PkPassConfig.cmake
+/usr/lib/cmake/KPim6PkPass/KPim6PkPassConfigVersion.cmake
+/usr/lib/cmake/KPim6PkPass/KPim6PkPassTargets-none.cmake
+/usr/lib/cmake/KPim6PkPass/KPim6PkPassTargets.cmake
+/usr/lib/libKPim6PkPass.so -> /usr/lib/libKPim6PkPass.so.6

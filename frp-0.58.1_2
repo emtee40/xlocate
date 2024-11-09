@@ -1,0 +1,14 @@
+/etc/frp/frpc.toml
+/etc/frp/frpc_full_example.toml
+/etc/frp/frps.toml
+/etc/frp/frps_full_example.toml
+/etc/sv/frpc/log/run
+/etc/sv/frpc/log/supervise -> /run/runit/supervise.frpc-log
+/etc/sv/frpc/run
+/etc/sv/frpc/supervise -> /run/runit/supervise.frpc
+/etc/sv/frps/log/run
+/etc/sv/frps/log/supervise -> /run/runit/supervise.frps-log
+/etc/sv/frps/run
+/etc/sv/frps/supervise -> /run/runit/supervise.frps
+/usr/bin/frpc
+/usr/bin/frps

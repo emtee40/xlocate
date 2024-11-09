@@ -1,0 +1,5 @@
+/usr/bin/vgm2pcm
+/usr/bin/vgm2wav
+/usr/bin/vgmplay
+/usr/share/man/man1/vgmplay.1
+/usr/share/vgmplay/vgmplay.ini

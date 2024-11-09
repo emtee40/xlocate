@@ -1,0 +1,4 @@
+/etc/zzz.d/resume/99-user-script
+/etc/zzz.d/suspend/99-user-script
+/etc/zzz.d/user-script
+/usr/share/licenses/zzz-user-hooks/LICENSE

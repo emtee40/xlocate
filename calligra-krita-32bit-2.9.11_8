@@ -1,0 +1,141 @@
+/usr/lib32/calligra/imports/org/krita/draganddrop/libdraganddropplugin.so
+/usr/lib32/kde4/krita_colorspaces_extensions.so
+/usr/lib32/kde4/krita_raw_import.so
+/usr/lib32/kde4/kritaartisticcolorselector.so
+/usr/lib32/kde4/kritabigbrother.so
+/usr/lib32/kde4/kritablurfilter.so
+/usr/lib32/kde4/kritabmpexport.so
+/usr/lib32/kde4/kritabmpimport.so
+/usr/lib32/kde4/kritachalkpaintop.so
+/usr/lib32/kde4/kritachanneldocker.so
+/usr/lib32/kde4/kritaclonesarray.so
+/usr/lib32/kde4/kritacolorgenerator.so
+/usr/lib32/kde4/kritacolorrange.so
+/usr/lib32/kde4/kritacolorselectorng.so
+/usr/lib32/kde4/kritacolorsfilters.so
+/usr/lib32/kde4/kritacolorslider.so
+/usr/lib32/kde4/kritacolorsmudgepaintop.so
+/usr/lib32/kde4/kritacolorspaceconversion.so
+/usr/lib32/kde4/kritacompositiondocker.so
+/usr/lib32/kde4/kritaconvolutionfilters.so
+/usr/lib32/kde4/kritacurvepaintop.so
+/usr/lib32/kde4/kritadefaultdockers.so
+/usr/lib32/kde4/kritadefaultpaintops.so
+/usr/lib32/kde4/kritadefaulttools.so
+/usr/lib32/kde4/kritadeformpaintop.so
+/usr/lib32/kde4/kritadigitalmixer.so
+/usr/lib32/kde4/kritadodgeburn.so
+/usr/lib32/kde4/kritadynapaintop.so
+/usr/lib32/kde4/kritaembossfilter.so
+/usr/lib32/kde4/kritaexample.so
+/usr/lib32/kde4/kritaexperimentpaintop.so
+/usr/lib32/kde4/kritaexrexport.so
+/usr/lib32/kde4/kritaexrimport.so
+/usr/lib32/kde4/kritaextensioncolorsfilters.so
+/usr/lib32/kde4/kritafastcolortransferfilter.so
+/usr/lib32/kde4/kritafilterop.so
+/usr/lib32/kde4/kritagmic.so
+/usr/lib32/kde4/kritagridpaintop.so
+/usr/lib32/kde4/kritahairypaintop.so
+/usr/lib32/kde4/kritahatchingpaintop.so
+/usr/lib32/kde4/kritaheightmapexport.so
+/usr/lib32/kde4/kritaheightmapimport.so
+/usr/lib32/kde4/kritahistogram.so
+/usr/lib32/kde4/kritahistorydocker.so
+/usr/lib32/kde4/kritaimagedocker.so
+/usr/lib32/kde4/kritaimageenhancement.so
+/usr/lib32/kde4/kritaimagesize.so
+/usr/lib32/kde4/kritaimagesplit.so
+/usr/lib32/kde4/kritaindexcolors.so
+/usr/lib32/kde4/kritajp2export.so
+/usr/lib32/kde4/kritajp2import.so
+/usr/lib32/kde4/kritajpegexport.so
+/usr/lib32/kde4/kritajpegimport.so
+/usr/lib32/kde4/kritalayergroupswitcher.so
+/usr/lib32/kde4/kritalayersplit.so
+/usr/lib32/kde4/kritalevelfilter.so
+/usr/lib32/kde4/kritalutdocker.so
+/usr/lib32/kde4/kritametadataeditor.so
+/usr/lib32/kde4/kritamodifyselection.so
+/usr/lib32/kde4/kritanoisefilter.so
+/usr/lib32/kde4/kritanormalize.so
+/usr/lib32/kde4/kritaodgimport.so
+/usr/lib32/kde4/kritaoffsetimage.so
+/usr/lib32/kde4/kritaoilpaintfilter.so
+/usr/lib32/kde4/kritaoraexport.so
+/usr/lib32/kde4/kritaoraimport.so
+/usr/lib32/kde4/kritaoverviewdocker.so
+/usr/lib32/kde4/kritapalettedocker.so
+/usr/lib32/kde4/kritaparticlepaintop.so
+/usr/lib32/kde4/kritapatterndocker.so
+/usr/lib32/kde4/kritapatterngenerator.so
+/usr/lib32/kde4/kritapdfimport.so
+/usr/lib32/kde4/kritaphongbumpmap.so
+/usr/lib32/kde4/kritapixelizefilter.so
+/usr/lib32/kde4/kritapngexport.so
+/usr/lib32/kde4/kritapngimport.so
+/usr/lib32/kde4/kritaposterize.so
+/usr/lib32/kde4/kritappmexport.so
+/usr/lib32/kde4/kritappmimport.so
+/usr/lib32/kde4/kritapresetdocker.so
+/usr/lib32/kde4/kritapresethistory.so
+/usr/lib32/kde4/kritapsdexport.so
+/usr/lib32/kde4/kritapsdimport.so
+/usr/lib32/kde4/kritaqmlexport.so
+/usr/lib32/kde4/kritaraindropsfilter.so
+/usr/lib32/kde4/kritarandompickfilter.so
+/usr/lib32/kde4/kritaresourcemanager.so
+/usr/lib32/kde4/kritarotateimage.so
+/usr/lib32/kde4/kritaroundcornersfilter.so
+/usr/lib32/kde4/kritarulerassistanttool.so
+/usr/lib32/kde4/kritaselectiontools.so
+/usr/lib32/kde4/kritaseparatechannels.so
+/usr/lib32/kde4/kritashearimage.so
+/usr/lib32/kde4/kritasketchpaintop.so
+/usr/lib32/kde4/kritasmallcolorselector.so
+/usr/lib32/kde4/kritasmalltilesfilter.so
+/usr/lib32/kde4/kritasobelfilter.so
+/usr/lib32/kde4/kritaspecificcolorselector.so
+/usr/lib32/kde4/kritaspraypaintop.so
+/usr/lib32/kde4/kritatangentnormalpaintop.so
+/usr/lib32/kde4/kritatasksetdocker.so
+/usr/lib32/kde4/kritatgaexport.so
+/usr/lib32/kde4/kritatgaimport.so
+/usr/lib32/kde4/kritathumbnail.so
+/usr/lib32/kde4/kritatiffexport.so
+/usr/lib32/kde4/kritatiffimport.so
+/usr/lib32/kde4/kritatoolcrop.so
+/usr/lib32/kde4/kritatooldyna.so
+/usr/lib32/kde4/kritatoolgrid.so
+/usr/lib32/kde4/kritatoolperspectivegrid.so
+/usr/lib32/kde4/kritatoolpolygon.so
+/usr/lib32/kde4/kritatoolpolyline.so
+/usr/lib32/kde4/kritatooltext.so
+/usr/lib32/kde4/kritatooltransform.so
+/usr/lib32/kde4/kritaunsharpfilter.so
+/usr/lib32/kde4/kritawavefilter.so
+/usr/lib32/kde4/kritaxcfimport.so
+/usr/lib32/kde4/plugins/imageformats/kimg_kra.so
+/usr/lib32/kde4/plugins/imageformats/kimg_ora.so
+/usr/lib32/libkritacolor.so -> /usr/lib32/libkritacolor.so.14
+/usr/lib32/libkritacolor.so.14 -> /usr/lib32/libkritacolor.so.14.0.0
+/usr/lib32/libkritacolor.so.14.0.0
+/usr/lib32/libkritacolord.so
+/usr/lib32/libkritaglobal.so -> /usr/lib32/libkritaglobal.so.14
+/usr/lib32/libkritaglobal.so.14 -> /usr/lib32/libkritaglobal.so.14.0.0
+/usr/lib32/libkritaglobal.so.14.0.0
+/usr/lib32/libkritaimage.so -> /usr/lib32/libkritaimage.so.14
+/usr/lib32/libkritaimage.so.14 -> /usr/lib32/libkritaimage.so.14.0.0
+/usr/lib32/libkritaimage.so.14.0.0
+/usr/lib32/libkritalibbrush.so -> /usr/lib32/libkritalibbrush.so.14
+/usr/lib32/libkritalibbrush.so.14 -> /usr/lib32/libkritalibbrush.so.14.0.0
+/usr/lib32/libkritalibbrush.so.14.0.0
+/usr/lib32/libkritalibpaintop.so -> /usr/lib32/libkritalibpaintop.so.14
+/usr/lib32/libkritalibpaintop.so.14 -> /usr/lib32/libkritalibpaintop.so.14.0.0
+/usr/lib32/libkritalibpaintop.so.14.0.0
+/usr/lib32/libkritapsd.so -> /usr/lib32/libkritapsd.so.14
+/usr/lib32/libkritapsd.so.14 -> /usr/lib32/libkritapsd.so.14.0.0
+/usr/lib32/libkritapsd.so.14.0.0
+/usr/lib32/libkritaui.so -> /usr/lib32/libkritaui.so.14
+/usr/lib32/libkritaui.so.14 -> /usr/lib32/libkritaui.so.14.0.0
+/usr/lib32/libkritaui.so.14.0.0

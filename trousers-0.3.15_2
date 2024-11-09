@@ -1,0 +1,11 @@
+/etc/sv/tcsd/log/run
+/etc/sv/tcsd/log/supervise -> /run/runit/supervise.tcsd-log
+/etc/sv/tcsd/run
+/etc/sv/tcsd/supervise -> /run/runit/supervise.tcsd
+/etc/tcsd.conf
+/usr/bin/tcsd
+/usr/lib/libtspi.so.1 -> /usr/lib/libtspi.so.1.2.0
+/usr/lib/libtspi.so.1.2.0
+/usr/share/licenses/trousers/LICENSE
+/usr/share/man/man5/tcsd.conf.5
+/usr/share/man/man8/tcsd.8

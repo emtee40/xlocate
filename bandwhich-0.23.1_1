@@ -1,0 +1,6 @@
+/usr/bin/bandwhich
+/usr/share/bash-completion/completions/bandwhich
+/usr/share/fish/vendor_completions.d/bandwhich.fish
+/usr/share/licenses/bandwhich/LICENSE.md
+/usr/share/man/man1/bandwhich.1
+/usr/share/zsh/site-functions/_bandwhich

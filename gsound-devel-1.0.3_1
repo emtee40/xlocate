@@ -1,0 +1,24 @@
+/usr/include/gsound-attr.h
+/usr/include/gsound-context.h
+/usr/include/gsound.h
+/usr/lib/libgsound.so -> /usr/lib/libgsound.so.0
+/usr/lib/pkgconfig/gsound.pc
+/usr/share/gir-1.0/GSound-1.0.gir
+/usr/share/gtk-doc/html/gsound-1.0.3/GSoundContext.html
+/usr/share/gtk-doc/html/gsound-1.0.3/annotation-glossary.html
+/usr/share/gtk-doc/html/gsound-1.0.3/api-index-full.html
+/usr/share/gtk-doc/html/gsound-1.0.3/ch01.html
+/usr/share/gtk-doc/html/gsound-1.0.3/gsound-1.0.3.devhelp2
+/usr/share/gtk-doc/html/gsound-1.0.3/gsound-GSound-Attributes.html
+/usr/share/gtk-doc/html/gsound-1.0.3/home.png
+/usr/share/gtk-doc/html/gsound-1.0.3/index.html
+/usr/share/gtk-doc/html/gsound-1.0.3/left-insensitive.png
+/usr/share/gtk-doc/html/gsound-1.0.3/left.png
+/usr/share/gtk-doc/html/gsound-1.0.3/object-tree.html
+/usr/share/gtk-doc/html/gsound-1.0.3/right-insensitive.png
+/usr/share/gtk-doc/html/gsound-1.0.3/right.png
+/usr/share/gtk-doc/html/gsound-1.0.3/style.css
+/usr/share/gtk-doc/html/gsound-1.0.3/up-insensitive.png
+/usr/share/gtk-doc/html/gsound-1.0.3/up.png
+/usr/share/vala/vapi/gsound.deps
+/usr/share/vala/vapi/gsound.vapi

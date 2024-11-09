@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/aiofiles-24.1.0.dist-info/licenses/NOTICE
+/usr/lib/python3.12/site-packages/aiofiles/__init__.py
+/usr/lib/python3.12/site-packages/aiofiles/base.py
+/usr/lib/python3.12/site-packages/aiofiles/os.py
+/usr/lib/python3.12/site-packages/aiofiles/ospath.py
+/usr/lib/python3.12/site-packages/aiofiles/tempfile/__init__.py
+/usr/lib/python3.12/site-packages/aiofiles/tempfile/temptypes.py
+/usr/lib/python3.12/site-packages/aiofiles/threadpool/__init__.py
+/usr/lib/python3.12/site-packages/aiofiles/threadpool/binary.py
+/usr/lib/python3.12/site-packages/aiofiles/threadpool/text.py
+/usr/lib/python3.12/site-packages/aiofiles/threadpool/utils.py

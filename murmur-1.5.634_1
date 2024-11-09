@@ -1,0 +1,7 @@
+/etc/sv/mumble-server/log/run
+/etc/sv/mumble-server/log/supervise -> /run/runit/supervise.mumble-server-log
+/etc/sv/mumble-server/run
+/etc/sv/mumble-server/supervise -> /run/runit/supervise.mumble-server
+/usr/bin/mumble-server
+/usr/share/man/man1/mumble-server-user-wrapper.1
+/usr/share/man/man1/mumble-server.1 -> /usr/share/man/man1/murmurd.1

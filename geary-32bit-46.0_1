@@ -1,0 +1,9 @@
+/usr/lib32/geary/libgeary-client-46.0.so
+/usr/lib32/geary/plugins/desktop-notifications/libdesktop-notifications.so
+/usr/lib32/geary/plugins/email-templates/libemail-templates.so
+/usr/lib32/geary/plugins/folder-highlight/libfolder-highlight.so
+/usr/lib32/geary/plugins/mail-merge/libmail-merge.so
+/usr/lib32/geary/plugins/notification-badge/libnotification-badge.so
+/usr/lib32/geary/plugins/sent-sound/libsent-sound.so
+/usr/lib32/geary/plugins/special-folders/libspecial-folders.so
+/usr/lib32/geary/web-extensions/libgeary-web-process.so

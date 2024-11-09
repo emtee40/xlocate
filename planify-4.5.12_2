@@ -1,0 +1,25 @@
+/usr/bin/io.github.alainm23.planify
+/usr/bin/io.github.alainm23.planify.quick-add
+/usr/include/planify/planify.h
+/usr/lib/libplanify.so -> /usr/lib/libplanify.so.0
+/usr/lib/libplanify.so.0 -> /usr/lib/libplanify.so.0.1
+/usr/lib/libplanify.so.0.1
+/usr/lib/pkgconfig/planify.pc
+/usr/share/appdata/io.github.alainm23.planify.appdata.xml
+/usr/share/applications/io.github.alainm23.planify.desktop
+/usr/share/glib-2.0/schemas/io.github.alainm23.planify.gschema.xml
+/usr/share/icons/hicolor/scalable/apps/io.github.alainm23.planify.Devel.svg
+/usr/share/icons/hicolor/scalable/apps/io.github.alainm23.planify.svg
+/usr/share/icons/hicolor/symbolic/apps/io.github.alainm23.planify-symbolic.svg
+/usr/share/locale/de/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/es/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/fr/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/hi/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/nl/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/pt_PT/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/ru/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/tr/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/io.github.alainm23.planify.mo
+/usr/share/vala/vapi/planify.deps
+/usr/share/vala/vapi/planify.vapi

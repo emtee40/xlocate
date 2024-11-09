@@ -1,0 +1,6 @@
+/usr/lib32/libbg-cli.a
+/usr/lib32/libbg.a
+/usr/lib32/libbg.so -> /usr/lib32/libbg.so.2.0.0
+/usr/lib32/libpwcmp-module.a
+/usr/lib32/libpwcmp.a
+/usr/lib32/libvmailmgr.a

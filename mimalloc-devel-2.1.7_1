@@ -1,0 +1,11 @@
+/usr/include/mimalloc-2.1/mimalloc-new-delete.h
+/usr/include/mimalloc-2.1/mimalloc-override.h
+/usr/include/mimalloc-2.1/mimalloc.h
+/usr/lib/cmake/mimalloc-2.1/mimalloc-config-version.cmake
+/usr/lib/cmake/mimalloc-2.1/mimalloc-config.cmake
+/usr/lib/cmake/mimalloc-2.1/mimalloc-none.cmake
+/usr/lib/cmake/mimalloc-2.1/mimalloc.cmake
+/usr/lib/libmimalloc.so -> /usr/lib/libmimalloc.so.2
+/usr/lib/mimalloc-2.1/libmimalloc.a
+/usr/lib/mimalloc-2.1/mimalloc.o
+/usr/lib/pkgconfig/mimalloc.pc

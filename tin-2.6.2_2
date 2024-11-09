@@ -1,0 +1,16 @@
+/usr/bin/metamutt
+/usr/bin/opt-case.pl
+/usr/bin/rtin -> /usr/bin/tin
+/usr/bin/tin
+/usr/bin/tinews.pl
+/usr/bin/url_handler.pl
+/usr/bin/w2r.pl
+/usr/share/licenses/tin/LICENSE
+/usr/share/man/man1/opt-case.pl.1
+/usr/share/man/man1/rtin.1 -> /usr/share/man/man1/tin.1
+/usr/share/man/man1/tin.1
+/usr/share/man/man1/tinews.pl.1
+/usr/share/man/man1/url_handler.pl.1
+/usr/share/man/man1/w2r.pl.1
+/usr/share/man/man5/rtin.5
+/usr/share/man/man5/tin.5

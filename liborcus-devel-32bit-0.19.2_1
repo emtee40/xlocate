@@ -1,0 +1,6 @@
+/usr/lib32/liborcus-0.18.so -> /usr/lib32/liborcus-0.18.so.0.0.0
+/usr/lib32/liborcus-mso-0.18.so -> /usr/lib32/liborcus-mso-0.18.so.0.0.0
+/usr/lib32/liborcus-parser-0.18.so -> /usr/lib32/liborcus-parser-0.18.so.0.0.0
+/usr/lib32/liborcus-spreadsheet-model-0.18.so -> /usr/lib32/liborcus-spreadsheet-model-0.18.so.0.0.0
+/usr/lib32/pkgconfig/liborcus-0.18.pc
+/usr/lib32/pkgconfig/liborcus-spreadsheet-model-0.18.pc

@@ -1,0 +1,3 @@
+/usr/lib32/libcryptopp.a
+/usr/lib32/libcryptopp.so -> /usr/lib32/libcryptopp.so.8.3.0
+/usr/lib32/pkgconfig/libcryptopp.pc

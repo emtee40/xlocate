@@ -1,0 +1,7 @@
+/etc/sv/tuntox/log/run
+/etc/sv/tuntox/log/supervise -> /run/runit/supervise.tuntox-log
+/etc/sv/tuntox/run
+/etc/sv/tuntox/supervise -> /run/runit/supervise.tuntox
+/usr/bin/tokssh
+/usr/bin/tuntox
+/usr/share/doc/tuntox/README.voidlinux

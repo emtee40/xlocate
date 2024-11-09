@@ -1,0 +1,12 @@
+/usr/bin/targetcli
+/usr/bin/targetclid
+/usr/lib/python3.12/site-packages/targetcli/__init__.py
+/usr/lib/python3.12/site-packages/targetcli/ui_backstore.py
+/usr/lib/python3.12/site-packages/targetcli/ui_node.py
+/usr/lib/python3.12/site-packages/targetcli/ui_root.py
+/usr/lib/python3.12/site-packages/targetcli/ui_target.py
+/usr/lib/python3.12/site-packages/targetcli/version.py
+/usr/lib/python3.12/site-packages/targetcli_fb-2.1.54-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/targetcli_fb-2.1.54-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/targetcli_fb-2.1.54-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/targetcli_fb-2.1.54-py3.12.egg-info/top_level.txt

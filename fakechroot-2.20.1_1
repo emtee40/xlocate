@@ -1,0 +1,9 @@
+/etc/fakechroot/chroot.env
+/etc/fakechroot/debootstrap.env
+/etc/fakechroot/rinse.env
+/usr/bin/chroot.fakechroot
+/usr/bin/env.fakechroot
+/usr/bin/fakechroot
+/usr/bin/ldd.fakechroot
+/usr/lib/fakechroot/libfakechroot.so
+/usr/share/man/man1/fakechroot.1

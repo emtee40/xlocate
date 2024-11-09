@@ -1,0 +1,20 @@
+/usr/lib32/libQt6HunspellInputMethod.so.6 -> /usr/lib32/libQt6HunspellInputMethod.so.6.7.2
+/usr/lib32/libQt6HunspellInputMethod.so.6.7.2
+/usr/lib32/libQt6VirtualKeyboard.so.6 -> /usr/lib32/libQt6VirtualKeyboard.so.6.7.2
+/usr/lib32/libQt6VirtualKeyboard.so.6.7.2
+/usr/lib32/libQt6VirtualKeyboardSettings.so.6 -> /usr/lib32/libQt6VirtualKeyboardSettings.so.6.7.2
+/usr/lib32/libQt6VirtualKeyboardSettings.so.6.7.2
+/usr/lib32/qt6/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Components/libqtvkbcomponentsplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Layouts/libqtvkblayoutsplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/Hangul/libqtvkbhangulplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/Hunspell/libqtvkbhunspellplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/OpenWNN/libqtvkbopenwnnplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/Pinyin/libqtvkbpinyinplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/TCIme/libqtvkbtcimeplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/Thai/libqtvkbthaiplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Plugins/libqtvkbpluginsplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Settings/libqtvkbsettingsplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Styles/Builtin/libqtvkbbuiltinstylesplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/Styles/libqtvkbstylesplugin.so
+/usr/lib32/qt6/qml/QtQuick/VirtualKeyboard/libqtvkbplugin.so

@@ -1,0 +1,4 @@
+/usr/lib32/icinga2/libmysql_shim.so -> /usr/lib32/icinga2/libmysql_shim.so.2.9.2
+/usr/lib32/icinga2/libmysql_shim.so.2.9.2
+/usr/lib32/icinga2/libpgsql_shim.so -> /usr/lib32/icinga2/libpgsql_shim.so.2.9.2
+/usr/lib32/icinga2/libpgsql_shim.so.2.9.2

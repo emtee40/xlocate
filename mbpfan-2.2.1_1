@@ -1,0 +1,6 @@
+/etc/mbpfan.conf
+/etc/sv/mbpfan/run
+/etc/sv/mbpfan/supervise -> /run/runit/supervise.mbpfan
+/usr/bin/mbpfan
+/usr/share/doc/mbpfan/README.md
+/usr/share/man/man8/mbpfan.8

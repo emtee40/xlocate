@@ -1,0 +1,4 @@
+/usr/include/libgccjit++.h
+/usr/include/libgccjit.h
+/usr/lib/libgccjit.so -> /usr/lib/libgccjit.so.0
+/usr/share/info/libgccjit.info.gz

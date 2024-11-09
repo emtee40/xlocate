@@ -1,0 +1,4 @@
+/usr/include/slang.h
+/usr/include/slcurses.h
+/usr/lib/libslang.so -> /usr/lib/libslang.so.2
+/usr/lib/pkgconfig/slang.pc

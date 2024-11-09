@@ -1,0 +1,14 @@
+/usr/lib/farstream-0.2/libmulticast-transmitter.so
+/usr/lib/farstream-0.2/libnice-transmitter.so
+/usr/lib/farstream-0.2/librawudp-transmitter.so
+/usr/lib/farstream-0.2/libshm-transmitter.so
+/usr/lib/girepository-1.0/Farstream-0.2.typelib
+/usr/lib/gstreamer-1.0/libfsrawconference.so
+/usr/lib/gstreamer-1.0/libfsrtpconference.so
+/usr/lib/gstreamer-1.0/libfsrtpxdata.so
+/usr/lib/gstreamer-1.0/libfsvideoanyrate.so
+/usr/lib/libfarstream-0.2.so.5 -> /usr/lib/libfarstream-0.2.so.5.1.1
+/usr/lib/libfarstream-0.2.so.5.1.1
+/usr/share/farstream/0.2/fsrawconference/default-element-properties
+/usr/share/farstream/0.2/fsrtpconference/default-codec-preferences
+/usr/share/farstream/0.2/fsrtpconference/default-element-properties

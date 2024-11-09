@@ -1,0 +1,5 @@
+/etc/bashmount.conf
+/usr/bin/bashmount
+/usr/share/doc/bashmount/NEWS
+/usr/share/doc/bashmount/README.md
+/usr/share/man/man1/bashmount.1

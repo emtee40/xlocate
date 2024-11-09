@@ -1,0 +1,8 @@
+/usr/include/ykpers-1/ykcore.h
+/usr/include/ykpers-1/ykdef.h
+/usr/include/ykpers-1/ykpbkdf2.h
+/usr/include/ykpers-1/ykpers-version.h
+/usr/include/ykpers-1/ykpers.h
+/usr/include/ykpers-1/ykstatus.h
+/usr/lib/libykpers-1.so -> /usr/lib/libykpers-1.so.1.20.0
+/usr/lib/pkgconfig/ykpers-1.pc

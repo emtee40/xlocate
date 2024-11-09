@@ -1,0 +1,8 @@
+/etc/sv/ldm/run
+/etc/sv/ldm/supervise -> /run/runit/supervise.ldm
+/usr/bin/ldm
+/usr/bin/ldmc
+/usr/bin/umount.ldm
+/usr/share/licenses/ldm/LICENSE
+/usr/share/man/man1/ldm.1
+/usr/share/man/man1/ldmc.1

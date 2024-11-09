@@ -1,0 +1,17 @@
+/usr/lib32/libQt5PacketProtocol.a
+/usr/lib32/libQt5Qml.so -> /usr/lib32/libQt5Qml.so.5.15.11
+/usr/lib32/libQt5QmlDebug.a
+/usr/lib32/libQt5QmlDevTools.a
+/usr/lib32/libQt5QmlModels.so -> /usr/lib32/libQt5QmlModels.so.5.15.11
+/usr/lib32/libQt5QmlWorkerScript.so -> /usr/lib32/libQt5QmlWorkerScript.so.5.15.11
+/usr/lib32/libQt5Quick.so -> /usr/lib32/libQt5Quick.so.5.15.11
+/usr/lib32/libQt5QuickParticles.so -> /usr/lib32/libQt5QuickParticles.so.5.15.11
+/usr/lib32/libQt5QuickShapes.so -> /usr/lib32/libQt5QuickShapes.so.5.15.11
+/usr/lib32/libQt5QuickTest.so -> /usr/lib32/libQt5QuickTest.so.5.15.11
+/usr/lib32/libQt5QuickWidgets.so -> /usr/lib32/libQt5QuickWidgets.so.5.15.11
+/usr/lib32/pkgconfig/Qt5Qml.pc
+/usr/lib32/pkgconfig/Qt5QmlModels.pc
+/usr/lib32/pkgconfig/Qt5QmlWorkerScript.pc
+/usr/lib32/pkgconfig/Qt5Quick.pc
+/usr/lib32/pkgconfig/Qt5QuickTest.pc
+/usr/lib32/pkgconfig/Qt5QuickWidgets.pc

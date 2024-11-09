@@ -1,0 +1,16 @@
+/usr/lib32/libosmocodec.so -> /usr/lib32/libosmocodec.so.0.1.1
+/usr/lib32/libosmocoding.so -> /usr/lib32/libosmocoding.so.0.1.1
+/usr/lib32/libosmocore.so -> /usr/lib32/libosmocore.so.12.2.0
+/usr/lib32/libosmoctrl.so -> /usr/lib32/libosmoctrl.so.0.4.0
+/usr/lib32/libosmogb.so -> /usr/lib32/libosmogb.so.9.0.1
+/usr/lib32/libosmogsm.so -> /usr/lib32/libosmogsm.so.13.0.0
+/usr/lib32/libosmosim.so -> /usr/lib32/libosmosim.so.0.1.1
+/usr/lib32/libosmovty.so -> /usr/lib32/libosmovty.so.4.4.0
+/usr/lib32/pkgconfig/libosmocodec.pc
+/usr/lib32/pkgconfig/libosmocoding.pc
+/usr/lib32/pkgconfig/libosmocore.pc
+/usr/lib32/pkgconfig/libosmoctrl.pc
+/usr/lib32/pkgconfig/libosmogb.pc
+/usr/lib32/pkgconfig/libosmogsm.pc
+/usr/lib32/pkgconfig/libosmosim.pc
+/usr/lib32/pkgconfig/libosmovty.pc

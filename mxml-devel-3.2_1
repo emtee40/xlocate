@@ -1,0 +1,4 @@
+/usr/include/mxml.h
+/usr/lib/libmxml.a
+/usr/lib/libmxml.so -> /usr/lib/libmxml.so.1.6
+/usr/lib/pkgconfig/mxml.pc

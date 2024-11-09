@@ -1,0 +1,44 @@
+/etc/bacula/scripts/bacula
+/etc/bacula/scripts/bacula-ctl-dir
+/etc/bacula/scripts/bacula-ctl-fd
+/etc/bacula/scripts/bacula-ctl-sd
+/etc/bacula/scripts/bacula-tray-monitor.desktop
+/etc/bacula/scripts/bacula_config
+/etc/bacula/scripts/baculabackupreport
+/etc/bacula/scripts/btraceback.dbx
+/etc/bacula/scripts/btraceback.gdb
+/etc/bacula/scripts/btraceback.mdb
+/etc/bacula/scripts/create_sqlite3_database
+/etc/bacula/scripts/disk-changer
+/etc/bacula/scripts/drop_sqlite3_database
+/etc/bacula/scripts/drop_sqlite3_tables
+/etc/bacula/scripts/grant_sqlite3_privileges
+/etc/bacula/scripts/isworm
+/etc/bacula/scripts/make_sqlite3_tables
+/etc/bacula/scripts/mtx-changer
+/etc/bacula/scripts/mtx-changer.conf
+/etc/bacula/scripts/tapealert
+/etc/bacula/scripts/update_sqlite3_tables
+/usr/bin/bbconsjson
+/usr/bin/bdirjson
+/usr/bin/bfdjson
+/usr/bin/bsdjson
+/usr/bin/btraceback
+/usr/lib/libbac-13.0.3.so
+/usr/lib/libbac.so -> /usr/lib/libbac-13.0.3.so
+/usr/lib/libbaccats-13.0.3.so -> /usr/lib/libbaccats-postgresql.so
+/usr/lib/libbaccats-sqlite3-13.0.3.so
+/usr/lib/libbaccats-sqlite3.so -> /usr/lib/libbaccats-sqlite3-13.0.3.so
+/usr/lib/libbaccats.so -> /usr/lib/libbaccats-13.0.3.so
+/usr/lib/libbaccfg-13.0.3.so
+/usr/lib/libbaccfg.so -> /usr/lib/libbaccfg-13.0.3.so
+/usr/lib/libbacfind-13.0.3.so
+/usr/lib/libbacfind.so -> /usr/lib/libbacfind-13.0.3.so
+/usr/lib/libbacsd-13.0.3.so
+/usr/lib/libbacsd.so -> /usr/lib/libbacsd-13.0.3.so
+/usr/lib/libbacsql-13.0.3.so
+/usr/lib/libbacsql.so -> /usr/lib/libbacsql-13.0.3.so
+/usr/share/licenses/bacula-common/LICENSE
+/usr/share/licenses/bacula-common/LICENSE-FOSS
+/usr/share/man/man8/bacula.8
+/usr/share/man/man8/btraceback.8

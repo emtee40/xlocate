@@ -1,0 +1,4 @@
+/usr/lib32/libgpod.a
+/usr/lib32/libgpod.so -> /usr/lib32/libgpod.so.4.3.2
+/usr/lib32/pkgconfig/libgpod-1.0.pc
+/usr/lib32/pkgconfig/libgpod-sharp.pc

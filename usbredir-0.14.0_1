@@ -1,0 +1,6 @@
+/usr/bin/usbredirect
+/usr/lib/libusbredirhost.so.1 -> /usr/lib/libusbredirhost.so.1.0.3
+/usr/lib/libusbredirhost.so.1.0.3
+/usr/lib/libusbredirparser.so.1 -> /usr/lib/libusbredirparser.so.1.2.1
+/usr/lib/libusbredirparser.so.1.2.1
+/usr/share/man/man1/usbredirect.1

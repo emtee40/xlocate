@@ -1,0 +1,6 @@
+/usr/lib/xorg/modules/drivers/ati_drv.so
+/usr/lib/xorg/modules/drivers/radeon_drv.so
+/usr/share/X11/xorg.conf.d/10-radeon.conf
+/usr/share/licenses/xf86-video-ati/COPYING
+/usr/share/man/man4/ati.4
+/usr/share/man/man4/radeon.4

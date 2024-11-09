@@ -1,0 +1,5 @@
+/usr/libexec/ibus-engine-libthai
+/usr/libexec/ibus-setup-libthai
+/usr/share/ibus-libthai/icons/ibus-libthai.svg
+/usr/share/ibus/component/libthai.xml
+/usr/share/locale/th/LC_MESSAGES/ibus-libthai.mo

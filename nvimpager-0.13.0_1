@@ -1,0 +1,10 @@
+/usr/bin/nvimpager
+/usr/share/licenses/nvimpager/LICENSE
+/usr/share/man/man1/nvimpager.1
+/usr/share/nvimpager/runtime/lua/nvimpager/ansi2highlight.lua
+/usr/share/nvimpager/runtime/lua/nvimpager/cat.lua
+/usr/share/nvimpager/runtime/lua/nvimpager/init.lua
+/usr/share/nvimpager/runtime/lua/nvimpager/options.lua
+/usr/share/nvimpager/runtime/lua/nvimpager/pager.lua
+/usr/share/nvimpager/runtime/lua/nvimpager/util.lua
+/usr/share/zsh/site-functions/_nvimpager

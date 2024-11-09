@@ -1,0 +1,7 @@
+/etc/usb_modeswitch.conf
+/usr/bin/usb_modeswitch
+/usr/bin/usb_modeswitch_dispatcher
+/usr/lib/udev/usb_modeswitch
+/usr/share/licenses/usb-modeswitch/LICENSE
+/usr/share/man/man1/usb_modeswitch.1
+/usr/share/man/man1/usb_modeswitch_dispatcher.1

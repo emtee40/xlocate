@@ -1,0 +1,14 @@
+/usr/lib32/libbac-13.0.3.so
+/usr/lib32/libbac.so -> /usr/lib32/libbac-13.0.3.so
+/usr/lib32/libbaccats-13.0.3.so -> /usr/lib32/libbaccats-postgresql.so
+/usr/lib32/libbaccats-sqlite3-13.0.3.so
+/usr/lib32/libbaccats-sqlite3.so -> /usr/lib32/libbaccats-sqlite3-13.0.3.so
+/usr/lib32/libbaccats.so -> /usr/lib32/libbaccats-13.0.3.so
+/usr/lib32/libbaccfg-13.0.3.so
+/usr/lib32/libbaccfg.so -> /usr/lib32/libbaccfg-13.0.3.so
+/usr/lib32/libbacfind-13.0.3.so
+/usr/lib32/libbacfind.so -> /usr/lib32/libbacfind-13.0.3.so
+/usr/lib32/libbacsd-13.0.3.so
+/usr/lib32/libbacsd.so -> /usr/lib32/libbacsd-13.0.3.so
+/usr/lib32/libbacsql-13.0.3.so
+/usr/lib32/libbacsql.so -> /usr/lib32/libbacsql-13.0.3.so

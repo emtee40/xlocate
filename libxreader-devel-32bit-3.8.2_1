@@ -1,0 +1,4 @@
+/usr/lib32/libxreaderdocument.so -> /usr/lib32/libxreaderdocument.so.3
+/usr/lib32/libxreaderview.so -> /usr/lib32/libxreaderview.so.3
+/usr/lib32/pkgconfig/xreader-document-1.5.pc
+/usr/lib32/pkgconfig/xreader-view-1.5.pc

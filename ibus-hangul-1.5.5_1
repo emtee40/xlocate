@@ -1,0 +1,20 @@
+/usr/bin/ibus-setup-hangul -> ../../../usr/lib/ibus/ibus-setup-hangul
+/usr/lib/ibus/ibus-engine-hangul
+/usr/lib/ibus/ibus-setup-hangul
+/usr/share/applications/ibus-setup-hangul.desktop
+/usr/share/glib-2.0/schemas/org.freedesktop.ibus.engine.hangul.gschema.xml
+/usr/share/ibus-hangul/data/symbol.txt
+/usr/share/ibus-hangul/icons/ibus-hangul.png
+/usr/share/ibus-hangul/icons/ibus-hangul.svg
+/usr/share/ibus-hangul/setup/config.py
+/usr/share/ibus-hangul/setup/keycapturedialog.py
+/usr/share/ibus-hangul/setup/main.py
+/usr/share/ibus-hangul/setup/setup.ui
+/usr/share/ibus/component/hangul.xml
+/usr/share/icons/hicolor/64x64/apps/ibus-hangul.png
+/usr/share/icons/hicolor/64x64/apps/ibus-setup-hangul.png
+/usr/share/icons/hicolor/scalable/apps/ibus-hangul.svg
+/usr/share/icons/hicolor/scalable/apps/ibus-setup-hangul.svg
+/usr/share/locale/ko/LC_MESSAGES/ibus-hangul.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/ibus-hangul.mo
+/usr/share/metainfo/org.freedesktop.ibus.engine.hangul.metainfo.xml

@@ -1,0 +1,7 @@
+/usr/lib32/monkey/monkey-auth.so
+/usr/lib32/monkey/monkey-cgi.so
+/usr/lib32/monkey/monkey-cheetah.so
+/usr/lib32/monkey/monkey-dirlisting.so
+/usr/lib32/monkey/monkey-fastcgi.so
+/usr/lib32/monkey/monkey-logger.so
+/usr/lib32/monkey/monkey-mandril.so

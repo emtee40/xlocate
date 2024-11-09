@@ -1,0 +1,6 @@
+/usr/lib/libKF5MediaPlayer.so.5 -> /usr/lib/libKF5MediaPlayer.so.5.115.0
+/usr/lib/libKF5MediaPlayer.so.5.115.0
+/usr/share/dbus-1/interfaces/kf5_org.kde.KMediaPlayer.xml
+/usr/share/kservicetypes5/kmediaplayer-engine.desktop
+/usr/share/kservicetypes5/kmediaplayer-player.desktop
+/usr/share/licenses/kmediaplayer/LICENSE

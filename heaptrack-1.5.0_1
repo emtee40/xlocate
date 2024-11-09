@@ -1,0 +1,7 @@
+/usr/bin/heaptrack
+/usr/bin/heaptrack_print
+/usr/include/heaptrack_api.h
+/usr/lib/heaptrack/libexec/heaptrack_env
+/usr/lib/heaptrack/libexec/heaptrack_interpret
+/usr/lib/heaptrack/libheaptrack_inject.so
+/usr/lib/heaptrack/libheaptrack_preload.so

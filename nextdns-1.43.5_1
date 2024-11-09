@@ -1,0 +1,6 @@
+/etc/sv/nextdns/log/run
+/etc/sv/nextdns/log/supervise -> /run/runit/supervise.nextdns-log
+/etc/sv/nextdns/run
+/etc/sv/nextdns/supervise -> /run/runit/supervise.nextdns
+/usr/bin/nextdns
+/usr/share/licenses/nextdns/LICENSE

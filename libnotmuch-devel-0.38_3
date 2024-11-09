@@ -1,0 +1,2 @@
+/usr/include/notmuch.h
+/usr/lib/libnotmuch.so -> /usr/lib/libnotmuch.so.5.6.0

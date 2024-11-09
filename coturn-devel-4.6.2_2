@@ -1,0 +1,8 @@
+/usr/include/turn/client/TurnMsgLib.h
+/usr/include/turn/client/ns_turn_ioaddr.h
+/usr/include/turn/client/ns_turn_msg.h
+/usr/include/turn/client/ns_turn_msg_addr.h
+/usr/include/turn/client/ns_turn_msg_defs.h
+/usr/include/turn/client/ns_turn_msg_defs_experimental.h
+/usr/include/turn/ns_turn_defs.h
+/usr/lib/libturnclient.a

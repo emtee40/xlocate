@@ -1,0 +1,5 @@
+/usr/bin/glewinfo
+/usr/bin/visualinfo
+/usr/lib/libGLEW.so.2.2 -> /usr/lib/libGLEW.so.2.2.0
+/usr/lib/libGLEW.so.2.2.0
+/usr/share/licenses/glew/LICENSE.txt

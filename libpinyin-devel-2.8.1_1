@@ -1,0 +1,5 @@
+/usr/include/libpinyin-2.8.1/pinyin.h
+/usr/include/libpinyin-2.8.1/pinyin_custom2.h
+/usr/lib/libpinyin.a
+/usr/lib/libpinyin.so -> /usr/lib/libpinyin.so.15.0.0
+/usr/lib/pkgconfig/libpinyin.pc

@@ -1,0 +1,12 @@
+/usr/lib32/liblttng-ust-ctl.so -> /usr/lib32/liblttng-ust-ctl.so.4.0.0
+/usr/lib32/liblttng-ust-cyg-profile-fast.so -> /usr/lib32/liblttng-ust-cyg-profile-fast.so.0.0.0
+/usr/lib32/liblttng-ust-cyg-profile.so -> /usr/lib32/liblttng-ust-cyg-profile.so.0.0.0
+/usr/lib32/liblttng-ust-dl.so -> /usr/lib32/liblttng-ust-dl.so.0.0.0
+/usr/lib32/liblttng-ust-fd.so -> /usr/lib32/liblttng-ust-fd.so.0.0.0
+/usr/lib32/liblttng-ust-fork.so -> /usr/lib32/liblttng-ust-fork.so.0.0.0
+/usr/lib32/liblttng-ust-libc-wrapper.so -> /usr/lib32/liblttng-ust-libc-wrapper.so.0.0.0
+/usr/lib32/liblttng-ust-pthread-wrapper.so -> /usr/lib32/liblttng-ust-pthread-wrapper.so.0.0.0
+/usr/lib32/liblttng-ust-tracepoint.so -> /usr/lib32/liblttng-ust-tracepoint.so.0.0.0
+/usr/lib32/liblttng-ust.so -> /usr/lib32/liblttng-ust.so.0.0.0
+/usr/lib32/pkgconfig/lttng-ust-ctl.pc
+/usr/lib32/pkgconfig/lttng-ust.pc

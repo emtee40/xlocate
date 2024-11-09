@@ -1,0 +1,12 @@
+/usr/bin/otpclient
+/usr/bin/otpclient-cli
+/usr/share/applications/com.github.paolostivanin.OTPClient.desktop
+/usr/share/icons/hicolor/scalable/apps/com.github.paolostivanin.OTPClient-symbolic.svg
+/usr/share/icons/hicolor/scalable/apps/com.github.paolostivanin.OTPClient.svg
+/usr/share/man/man1/otpclient-cli.1
+/usr/share/man/man1/otpclient.1
+/usr/share/metainfo/com.github.paolostivanin.OTPClient.appdata.xml
+/usr/share/otpclient/add_popover.ui
+/usr/share/otpclient/otpclient.ui
+/usr/share/otpclient/settings_popover.ui
+/usr/share/otpclient/shortcuts.ui

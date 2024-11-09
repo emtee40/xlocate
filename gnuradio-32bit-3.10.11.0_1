@@ -1,0 +1,66 @@
+/usr/lib32/libgnuradio-analog.so.3.10.11 -> /usr/lib32/libgnuradio-analog.so.3.10.11.0
+/usr/lib32/libgnuradio-analog.so.3.10.11.0
+/usr/lib32/libgnuradio-audio.so.3.10.11 -> /usr/lib32/libgnuradio-audio.so.3.10.11.0
+/usr/lib32/libgnuradio-audio.so.3.10.11.0
+/usr/lib32/libgnuradio-blocks.so.3.10.11 -> /usr/lib32/libgnuradio-blocks.so.3.10.11.0
+/usr/lib32/libgnuradio-blocks.so.3.10.11.0
+/usr/lib32/libgnuradio-channels.so.3.10.11 -> /usr/lib32/libgnuradio-channels.so.3.10.11.0
+/usr/lib32/libgnuradio-channels.so.3.10.11.0
+/usr/lib32/libgnuradio-digital.so.3.10.11 -> /usr/lib32/libgnuradio-digital.so.3.10.11.0
+/usr/lib32/libgnuradio-digital.so.3.10.11.0
+/usr/lib32/libgnuradio-dtv.so.3.10.11 -> /usr/lib32/libgnuradio-dtv.so.3.10.11.0
+/usr/lib32/libgnuradio-dtv.so.3.10.11.0
+/usr/lib32/libgnuradio-fec.so.3.10.11 -> /usr/lib32/libgnuradio-fec.so.3.10.11.0
+/usr/lib32/libgnuradio-fec.so.3.10.11.0
+/usr/lib32/libgnuradio-fft.so.3.10.11 -> /usr/lib32/libgnuradio-fft.so.3.10.11.0
+/usr/lib32/libgnuradio-fft.so.3.10.11.0
+/usr/lib32/libgnuradio-filter.so.3.10.11 -> /usr/lib32/libgnuradio-filter.so.3.10.11.0
+/usr/lib32/libgnuradio-filter.so.3.10.11.0
+/usr/lib32/libgnuradio-iio.so.3.10.11 -> /usr/lib32/libgnuradio-iio.so.3.10.11.0
+/usr/lib32/libgnuradio-iio.so.3.10.11.0
+/usr/lib32/libgnuradio-network.so.3.10.11 -> /usr/lib32/libgnuradio-network.so.3.10.11.0
+/usr/lib32/libgnuradio-network.so.3.10.11.0
+/usr/lib32/libgnuradio-pdu.so.3.10.11 -> /usr/lib32/libgnuradio-pdu.so.3.10.11.0
+/usr/lib32/libgnuradio-pdu.so.3.10.11.0
+/usr/lib32/libgnuradio-pmt.so.3.10.11 -> /usr/lib32/libgnuradio-pmt.so.3.10.11.0
+/usr/lib32/libgnuradio-pmt.so.3.10.11.0
+/usr/lib32/libgnuradio-qtgui.so.3.10.11 -> /usr/lib32/libgnuradio-qtgui.so.3.10.11.0
+/usr/lib32/libgnuradio-qtgui.so.3.10.11.0
+/usr/lib32/libgnuradio-runtime.so.3.10.11 -> /usr/lib32/libgnuradio-runtime.so.3.10.11.0
+/usr/lib32/libgnuradio-runtime.so.3.10.11.0
+/usr/lib32/libgnuradio-soapy.so.3.10.11 -> /usr/lib32/libgnuradio-soapy.so.3.10.11.0
+/usr/lib32/libgnuradio-soapy.so.3.10.11.0
+/usr/lib32/libgnuradio-trellis.so.3.10.11 -> /usr/lib32/libgnuradio-trellis.so.3.10.11.0
+/usr/lib32/libgnuradio-trellis.so.3.10.11.0
+/usr/lib32/libgnuradio-uhd.so.3.10.11 -> /usr/lib32/libgnuradio-uhd.so.3.10.11.0
+/usr/lib32/libgnuradio-uhd.so.3.10.11.0
+/usr/lib32/libgnuradio-video-sdl.so.3.10.11 -> /usr/lib32/libgnuradio-video-sdl.so.3.10.11.0
+/usr/lib32/libgnuradio-video-sdl.so.3.10.11.0
+/usr/lib32/libgnuradio-vocoder.so.3.10.11 -> /usr/lib32/libgnuradio-vocoder.so.3.10.11.0
+/usr/lib32/libgnuradio-vocoder.so.3.10.11.0
+/usr/lib32/libgnuradio-wavelet.so.3.10.11 -> /usr/lib32/libgnuradio-wavelet.so.3.10.11.0
+/usr/lib32/libgnuradio-wavelet.so.3.10.11.0
+/usr/lib32/libgnuradio-zeromq.so.3.10.11 -> /usr/lib32/libgnuradio-zeromq.so.3.10.11.0
+/usr/lib32/libgnuradio-zeromq.so.3.10.11.0
+/usr/lib32/python3.12/site-packages/gnuradio/analog/analog_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/audio/audio_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/blocks/blocks_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/channels/channels_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/digital/digital_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/dtv/dtv_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/fec/fec_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/fft/fft_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/filter/filter_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/gr/gr_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/iio/iio_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/network/network_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/pdu/pdu_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/qtgui/qtgui_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/soapy/soapy_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/trellis/trellis_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/uhd/uhd_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/video_sdl/video_sdl_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/vocoder/vocoder_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/wavelet/wavelet_python.so
+/usr/lib32/python3.12/site-packages/gnuradio/zeromq/zeromq_python.so
+/usr/lib32/python3.12/site-packages/pmt/pmt_python.so

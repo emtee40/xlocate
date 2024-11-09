@@ -1,0 +1,15 @@
+/usr/bin/nc-config
+/usr/include/netcdf.h
+/usr/include/netcdf_aux.h
+/usr/include/netcdf_dispatch.h
+/usr/include/netcdf_filter.h
+/usr/include/netcdf_filter_build.h
+/usr/include/netcdf_filter_hdf5_build.h
+/usr/include/netcdf_json.h
+/usr/include/netcdf_mem.h
+/usr/include/netcdf_meta.h
+/usr/lib/libnetcdf.a
+/usr/lib/libnetcdf.settings
+/usr/lib/libnetcdf.so -> /usr/lib/libnetcdf.so.19.2.2
+/usr/lib/pkgconfig/netcdf.pc
+/usr/share/man/man3/netcdf.3

@@ -1,0 +1,11 @@
+/etc/mpdscribble.conf
+/etc/sv/mpdscribble/log/run
+/etc/sv/mpdscribble/log/supervise -> /run/runit/supervise.mpdscribble-log
+/etc/sv/mpdscribble/run
+/etc/sv/mpdscribble/supervise -> /run/runit/supervise.mpdscribble
+/usr/bin/mpdscribble
+/usr/share/doc/mpdscribble/AUTHORS
+/usr/share/doc/mpdscribble/COPYING
+/usr/share/doc/mpdscribble/NEWS
+/usr/share/doc/mpdscribble/README.rst
+/usr/share/man/man1/mpdscribble.1

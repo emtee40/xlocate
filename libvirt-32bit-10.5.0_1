@@ -1,0 +1,28 @@
+/usr/lib32/libnss_libvirt.so.2
+/usr/lib32/libnss_libvirt_guest.so.2
+/usr/lib32/libvirt-admin.so.0 -> /usr/lib32/libvirt-admin.so.0.10005.0
+/usr/lib32/libvirt-admin.so.0.10005.0
+/usr/lib32/libvirt-lxc.so.0 -> /usr/lib32/libvirt-lxc.so.0.10005.0
+/usr/lib32/libvirt-lxc.so.0.10005.0
+/usr/lib32/libvirt-qemu.so.0 -> /usr/lib32/libvirt-qemu.so.0.10005.0
+/usr/lib32/libvirt-qemu.so.0.10005.0
+/usr/lib32/libvirt.so.0 -> /usr/lib32/libvirt.so.0.10005.0
+/usr/lib32/libvirt.so.0.10005.0
+/usr/lib32/libvirt/connection-driver/libvirt_driver_interface.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_lxc.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_network.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_nodedev.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_nwfilter.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_qemu.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_secret.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_storage.so
+/usr/lib32/libvirt/connection-driver/libvirt_driver_vbox.so
+/usr/lib32/libvirt/lock-driver/lockd.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_disk.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_fs.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_logical.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_mpath.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_scsi.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_vstorage.so
+/usr/lib32/libvirt/storage-backend/libvirt_storage_backend_zfs.so
+/usr/lib32/libvirt/storage-file/libvirt_storage_file_fs.so

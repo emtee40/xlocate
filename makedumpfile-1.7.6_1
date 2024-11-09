@@ -1,0 +1,5 @@
+/usr/bin/makedumpfile
+/usr/bin/makedumpfile-R.pl
+/usr/share/examples/makedumpfile/makedumpfile.conf
+/usr/share/man/man5/makedumpfile.conf.5
+/usr/share/man/man8/makedumpfile.8

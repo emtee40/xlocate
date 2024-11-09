@@ -1,0 +1,23 @@
+/usr/include/KPim6/KMime/KMime/Content
+/usr/include/KPim6/KMime/KMime/ContentIndex
+/usr/include/KPim6/KMime/KMime/HeaderParsing
+/usr/include/KPim6/KMime/KMime/Headers
+/usr/include/KPim6/KMime/KMime/MDN
+/usr/include/KPim6/KMime/KMime/Message
+/usr/include/KPim6/KMime/KMime/Types
+/usr/include/KPim6/KMime/KMime/Util
+/usr/include/KPim6/KMime/kmime/content.h
+/usr/include/KPim6/KMime/kmime/contentindex.h
+/usr/include/KPim6/KMime/kmime/headerparsing.h
+/usr/include/KPim6/KMime/kmime/headers.h
+/usr/include/KPim6/KMime/kmime/kmime_export.h
+/usr/include/KPim6/KMime/kmime/mdn.h
+/usr/include/KPim6/KMime/kmime/message.h
+/usr/include/KPim6/KMime/kmime/types.h
+/usr/include/KPim6/KMime/kmime/util.h
+/usr/include/KPim6/KMime/kmime_version.h
+/usr/lib/cmake/KPim6Mime/KPim6MimeConfig.cmake
+/usr/lib/cmake/KPim6Mime/KPim6MimeConfigVersion.cmake
+/usr/lib/cmake/KPim6Mime/KPim6MimeTargets-none.cmake
+/usr/lib/cmake/KPim6Mime/KPim6MimeTargets.cmake
+/usr/lib/libKPim6Mime.so -> /usr/lib/libKPim6Mime.so.6

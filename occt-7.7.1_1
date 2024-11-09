@@ -1,0 +1,360 @@
+/etc/profile.d/opencascade.sh
+/usr/bin/DRAWEXE -> /usr/bin/DRAWEXE-7.7.1
+/usr/bin/DRAWEXE-7.7.1
+/usr/bin/ExpToCasExe -> /usr/bin/ExpToCasExe-7.7.1
+/usr/bin/ExpToCasExe-7.7.1
+/usr/bin/draw.sh
+/usr/bin/env.sh
+/usr/lib/libTKBO.so.7.7 -> /usr/lib/libTKBO.so.7.7.1
+/usr/lib/libTKBO.so.7.7.1
+/usr/lib/libTKBRep.so.7.7 -> /usr/lib/libTKBRep.so.7.7.1
+/usr/lib/libTKBRep.so.7.7.1
+/usr/lib/libTKBin.so.7.7 -> /usr/lib/libTKBin.so.7.7.1
+/usr/lib/libTKBin.so.7.7.1
+/usr/lib/libTKBinL.so.7.7 -> /usr/lib/libTKBinL.so.7.7.1
+/usr/lib/libTKBinL.so.7.7.1
+/usr/lib/libTKBinTObj.so.7.7 -> /usr/lib/libTKBinTObj.so.7.7.1
+/usr/lib/libTKBinTObj.so.7.7.1
+/usr/lib/libTKBinXCAF.so.7.7 -> /usr/lib/libTKBinXCAF.so.7.7.1
+/usr/lib/libTKBinXCAF.so.7.7.1
+/usr/lib/libTKBool.so.7.7 -> /usr/lib/libTKBool.so.7.7.1
+/usr/lib/libTKBool.so.7.7.1
+/usr/lib/libTKCAF.so.7.7 -> /usr/lib/libTKCAF.so.7.7.1
+/usr/lib/libTKCAF.so.7.7.1
+/usr/lib/libTKCDF.so.7.7 -> /usr/lib/libTKCDF.so.7.7.1
+/usr/lib/libTKCDF.so.7.7.1
+/usr/lib/libTKDCAF.so.7.7 -> /usr/lib/libTKDCAF.so.7.7.1
+/usr/lib/libTKDCAF.so.7.7.1
+/usr/lib/libTKDraw.so.7.7 -> /usr/lib/libTKDraw.so.7.7.1
+/usr/lib/libTKDraw.so.7.7.1
+/usr/lib/libTKExpress.so.7.7 -> /usr/lib/libTKExpress.so.7.7.1
+/usr/lib/libTKExpress.so.7.7.1
+/usr/lib/libTKFeat.so.7.7 -> /usr/lib/libTKFeat.so.7.7.1
+/usr/lib/libTKFeat.so.7.7.1
+/usr/lib/libTKFillet.so.7.7 -> /usr/lib/libTKFillet.so.7.7.1
+/usr/lib/libTKFillet.so.7.7.1
+/usr/lib/libTKG2d.so.7.7 -> /usr/lib/libTKG2d.so.7.7.1
+/usr/lib/libTKG2d.so.7.7.1
+/usr/lib/libTKG3d.so.7.7 -> /usr/lib/libTKG3d.so.7.7.1
+/usr/lib/libTKG3d.so.7.7.1
+/usr/lib/libTKGeomAlgo.so.7.7 -> /usr/lib/libTKGeomAlgo.so.7.7.1
+/usr/lib/libTKGeomAlgo.so.7.7.1
+/usr/lib/libTKGeomBase.so.7.7 -> /usr/lib/libTKGeomBase.so.7.7.1
+/usr/lib/libTKGeomBase.so.7.7.1
+/usr/lib/libTKHLR.so.7.7 -> /usr/lib/libTKHLR.so.7.7.1
+/usr/lib/libTKHLR.so.7.7.1
+/usr/lib/libTKIGES.so.7.7 -> /usr/lib/libTKIGES.so.7.7.1
+/usr/lib/libTKIGES.so.7.7.1
+/usr/lib/libTKLCAF.so.7.7 -> /usr/lib/libTKLCAF.so.7.7.1
+/usr/lib/libTKLCAF.so.7.7.1
+/usr/lib/libTKMath.so.7.7 -> /usr/lib/libTKMath.so.7.7.1
+/usr/lib/libTKMath.so.7.7.1
+/usr/lib/libTKMesh.so.7.7 -> /usr/lib/libTKMesh.so.7.7.1
+/usr/lib/libTKMesh.so.7.7.1
+/usr/lib/libTKMeshVS.so.7.7 -> /usr/lib/libTKMeshVS.so.7.7.1
+/usr/lib/libTKMeshVS.so.7.7.1
+/usr/lib/libTKOffset.so.7.7 -> /usr/lib/libTKOffset.so.7.7.1
+/usr/lib/libTKOffset.so.7.7.1
+/usr/lib/libTKOpenGl.so.7.7 -> /usr/lib/libTKOpenGl.so.7.7.1
+/usr/lib/libTKOpenGl.so.7.7.1
+/usr/lib/libTKOpenGlTest.so.7.7 -> /usr/lib/libTKOpenGlTest.so.7.7.1
+/usr/lib/libTKOpenGlTest.so.7.7.1
+/usr/lib/libTKPrim.so.7.7 -> /usr/lib/libTKPrim.so.7.7.1
+/usr/lib/libTKPrim.so.7.7.1
+/usr/lib/libTKQADraw.so.7.7 -> /usr/lib/libTKQADraw.so.7.7.1
+/usr/lib/libTKQADraw.so.7.7.1
+/usr/lib/libTKRWMesh.so.7.7 -> /usr/lib/libTKRWMesh.so.7.7.1
+/usr/lib/libTKRWMesh.so.7.7.1
+/usr/lib/libTKSTEP.so.7.7 -> /usr/lib/libTKSTEP.so.7.7.1
+/usr/lib/libTKSTEP.so.7.7.1
+/usr/lib/libTKSTEP209.so.7.7 -> /usr/lib/libTKSTEP209.so.7.7.1
+/usr/lib/libTKSTEP209.so.7.7.1
+/usr/lib/libTKSTEPAttr.so.7.7 -> /usr/lib/libTKSTEPAttr.so.7.7.1
+/usr/lib/libTKSTEPAttr.so.7.7.1
+/usr/lib/libTKSTEPBase.so.7.7 -> /usr/lib/libTKSTEPBase.so.7.7.1
+/usr/lib/libTKSTEPBase.so.7.7.1
+/usr/lib/libTKSTL.so.7.7 -> /usr/lib/libTKSTL.so.7.7.1
+/usr/lib/libTKSTL.so.7.7.1
+/usr/lib/libTKService.so.7.7 -> /usr/lib/libTKService.so.7.7.1
+/usr/lib/libTKService.so.7.7.1
+/usr/lib/libTKShHealing.so.7.7 -> /usr/lib/libTKShHealing.so.7.7.1
+/usr/lib/libTKShHealing.so.7.7.1
+/usr/lib/libTKStd.so.7.7 -> /usr/lib/libTKStd.so.7.7.1
+/usr/lib/libTKStd.so.7.7.1
+/usr/lib/libTKStdL.so.7.7 -> /usr/lib/libTKStdL.so.7.7.1
+/usr/lib/libTKStdL.so.7.7.1
+/usr/lib/libTKTObj.so.7.7 -> /usr/lib/libTKTObj.so.7.7.1
+/usr/lib/libTKTObj.so.7.7.1
+/usr/lib/libTKTObjDRAW.so.7.7 -> /usr/lib/libTKTObjDRAW.so.7.7.1
+/usr/lib/libTKTObjDRAW.so.7.7.1
+/usr/lib/libTKTopAlgo.so.7.7 -> /usr/lib/libTKTopAlgo.so.7.7.1
+/usr/lib/libTKTopAlgo.so.7.7.1
+/usr/lib/libTKTopTest.so.7.7 -> /usr/lib/libTKTopTest.so.7.7.1
+/usr/lib/libTKTopTest.so.7.7.1
+/usr/lib/libTKV3d.so.7.7 -> /usr/lib/libTKV3d.so.7.7.1
+/usr/lib/libTKV3d.so.7.7.1
+/usr/lib/libTKVCAF.so.7.7 -> /usr/lib/libTKVCAF.so.7.7.1
+/usr/lib/libTKVCAF.so.7.7.1
+/usr/lib/libTKVRML.so.7.7 -> /usr/lib/libTKVRML.so.7.7.1
+/usr/lib/libTKVRML.so.7.7.1
+/usr/lib/libTKViewerTest.so.7.7 -> /usr/lib/libTKViewerTest.so.7.7.1
+/usr/lib/libTKViewerTest.so.7.7.1
+/usr/lib/libTKXCAF.so.7.7 -> /usr/lib/libTKXCAF.so.7.7.1
+/usr/lib/libTKXCAF.so.7.7.1
+/usr/lib/libTKXDE.so.7.7 -> /usr/lib/libTKXDE.so.7.7.1
+/usr/lib/libTKXDE.so.7.7.1
+/usr/lib/libTKXDECascade.so.7.7 -> /usr/lib/libTKXDECascade.so.7.7.1
+/usr/lib/libTKXDECascade.so.7.7.1
+/usr/lib/libTKXDEDRAW.so.7.7 -> /usr/lib/libTKXDEDRAW.so.7.7.1
+/usr/lib/libTKXDEDRAW.so.7.7.1
+/usr/lib/libTKXDEIGES.so.7.7 -> /usr/lib/libTKXDEIGES.so.7.7.1
+/usr/lib/libTKXDEIGES.so.7.7.1
+/usr/lib/libTKXDESTEP.so.7.7 -> /usr/lib/libTKXDESTEP.so.7.7.1
+/usr/lib/libTKXDESTEP.so.7.7.1
+/usr/lib/libTKXMesh.so.7.7 -> /usr/lib/libTKXMesh.so.7.7.1
+/usr/lib/libTKXMesh.so.7.7.1
+/usr/lib/libTKXSBase.so.7.7 -> /usr/lib/libTKXSBase.so.7.7.1
+/usr/lib/libTKXSBase.so.7.7.1
+/usr/lib/libTKXSDRAW.so.7.7 -> /usr/lib/libTKXSDRAW.so.7.7.1
+/usr/lib/libTKXSDRAW.so.7.7.1
+/usr/lib/libTKXml.so.7.7 -> /usr/lib/libTKXml.so.7.7.1
+/usr/lib/libTKXml.so.7.7.1
+/usr/lib/libTKXmlL.so.7.7 -> /usr/lib/libTKXmlL.so.7.7.1
+/usr/lib/libTKXmlL.so.7.7.1
+/usr/lib/libTKXmlTObj.so.7.7 -> /usr/lib/libTKXmlTObj.so.7.7.1
+/usr/lib/libTKXmlTObj.so.7.7.1
+/usr/lib/libTKXmlXCAF.so.7.7 -> /usr/lib/libTKXmlXCAF.so.7.7.1
+/usr/lib/libTKXmlXCAF.so.7.7.1
+/usr/lib/libTKernel.so.7.7 -> /usr/lib/libTKernel.so.7.7.1
+/usr/lib/libTKernel.so.7.7.1
+/usr/share/licenses/occt/OCCT_LGPL_EXCEPTION.txt
+/usr/share/opencascade/data/iges/bearing.iges
+/usr/share/opencascade/data/iges/hammer.iges
+/usr/share/opencascade/data/images/Graph.PNG
+/usr/share/opencascade/data/images/carrelage1.gif
+/usr/share/opencascade/data/images/chataignier.gif
+/usr/share/opencascade/data/images/cookerplate.gif
+/usr/share/opencascade/data/images/cyl_4_1.gif
+/usr/share/opencascade/data/images/hatch_1.png
+/usr/share/opencascade/data/images/impexp.bmp
+/usr/share/opencascade/data/images/marker_box1.png
+/usr/share/opencascade/data/images/marker_box2.png
+/usr/share/opencascade/data/images/marker_dot.png
+/usr/share/opencascade/data/images/marker_kr.png
+/usr/share/opencascade/data/images/nut.bmp
+/usr/share/opencascade/data/images/petitsobj.gif
+/usr/share/opencascade/data/images/plancher.gif
+/usr/share/opencascade/data/images/salome_interface04.jpg
+/usr/share/opencascade/data/images/terrain.gif
+/usr/share/opencascade/data/images/wallpaper.gif
+/usr/share/opencascade/data/occ/Axis_of_bearing.brep
+/usr/share/opencascade/data/occ/Ball.brep
+/usr/share/opencascade/data/occ/Bottom.brep
+/usr/share/opencascade/data/occ/CrankArm.brep
+/usr/share/opencascade/data/occ/CrankArm.rle
+/usr/share/opencascade/data/occ/CylinderHead.rle
+/usr/share/opencascade/data/occ/EngineBlock.rle
+/usr/share/opencascade/data/occ/MAT.brep
+/usr/share/opencascade/data/occ/MAT.pnt
+/usr/share/opencascade/data/occ/MODERN_Chair_1.brep
+/usr/share/opencascade/data/occ/MODERN_Cooker_1.brep
+/usr/share/opencascade/data/occ/MODERN_Cooker_1_opened.brep
+/usr/share/opencascade/data/occ/MODERN_Exhaust_1.brep
+/usr/share/opencascade/data/occ/MODERN_MVCooker_1.brep
+/usr/share/opencascade/data/occ/MODERN_MVCooker_1_opened.brep
+/usr/share/opencascade/data/occ/MODERN_Refrigerator_1.brep
+/usr/share/opencascade/data/occ/MODERN_Refrigerator_1_opened.brep
+/usr/share/opencascade/data/occ/MODERN_Sink_1.brep
+/usr/share/opencascade/data/occ/MODERN_Sink_1_opened.brep
+/usr/share/opencascade/data/occ/MODERN_Table_1.brep
+/usr/share/opencascade/data/occ/Motor-c.brep
+/usr/share/opencascade/data/occ/Piston.rle
+/usr/share/opencascade/data/occ/Propeller.rle
+/usr/share/opencascade/data/occ/Pump_Nut.brep
+/usr/share/opencascade/data/occ/Pump_TopCover.brep
+/usr/share/opencascade/data/occ/Room.brep
+/usr/share/opencascade/data/occ/SurfaceFromPoints/sol1.dat
+/usr/share/opencascade/data/occ/SurfaceFromPoints/sol2.dat
+/usr/share/opencascade/data/occ/Top.brep
+/usr/share/opencascade/data/occ/asahi.brep
+/usr/share/opencascade/data/occ/bottle.brep
+/usr/share/opencascade/data/occ/edge.brep
+/usr/share/opencascade/data/occ/face.brep
+/usr/share/opencascade/data/occ/face1.brep
+/usr/share/opencascade/data/occ/face2.brep
+/usr/share/opencascade/data/occ/fuse.brep
+/usr/share/opencascade/data/occ/hammer.brep
+/usr/share/opencascade/data/occ/mal_ecrou.brep
+/usr/share/opencascade/data/occ/mal_tige.brep
+/usr/share/opencascade/data/occ/mal_vis.brep
+/usr/share/opencascade/data/occ/shell1.brep
+/usr/share/opencascade/data/occ/solid.brep
+/usr/share/opencascade/data/occ/terrain.brep
+/usr/share/opencascade/data/occ/wedge_ok.brep
+/usr/share/opencascade/data/occ/wing.brep
+/usr/share/opencascade/data/step/linkrods.step
+/usr/share/opencascade/data/step/screw.step
+/usr/share/opencascade/data/stl/TR12J_OCC.stl
+/usr/share/opencascade/data/stl/TR12J_OCC64K.stl
+/usr/share/opencascade/data/stl/bearing.stl
+/usr/share/opencascade/data/stl/head.stl
+/usr/share/opencascade/data/stl/motor.stl
+/usr/share/opencascade/data/stl/propeller.stl
+/usr/share/opencascade/data/stl/sh1.stl
+/usr/share/opencascade/data/stl/sh2.stl
+/usr/share/opencascade/data/stl/shape.stl
+/usr/share/opencascade/data/stl/video_part.stl
+/usr/share/opencascade/data/vrml/face.vrml
+/usr/share/opencascade/resources/BOPAlgo/BOPAlgo.msg
+/usr/share/opencascade/resources/DrawResources/CURVES.tcl
+/usr/share/opencascade/resources/DrawResources/CheckCommands.tcl
+/usr/share/opencascade/resources/DrawResources/DrawDefault
+/usr/share/opencascade/resources/DrawResources/DrawPlugin
+/usr/share/opencascade/resources/DrawResources/DrawTK.tcl
+/usr/share/opencascade/resources/DrawResources/FILES
+/usr/share/opencascade/resources/DrawResources/Geometry.tcl
+/usr/share/opencascade/resources/DrawResources/InitEnvironment.tcl
+/usr/share/opencascade/resources/DrawResources/Move.tcl
+/usr/share/opencascade/resources/DrawResources/OCC_logo.png
+/usr/share/opencascade/resources/DrawResources/PROFIL.tcl
+/usr/share/opencascade/resources/DrawResources/SCAN.tcl
+/usr/share/opencascade/resources/DrawResources/SURFACES.tcl
+/usr/share/opencascade/resources/DrawResources/StandardCommands.tcl
+/usr/share/opencascade/resources/DrawResources/StandardViews.tcl
+/usr/share/opencascade/resources/DrawResources/TKTopTest.tcl
+/usr/share/opencascade/resources/DrawResources/TestCommands.tcl
+/usr/share/opencascade/resources/DrawResources/Vector.tcl
+/usr/share/opencascade/resources/DrawResources/dfb_attribns.gif
+/usr/share/opencascade/resources/DrawResources/dfb_attribute.gif
+/usr/share/opencascade/resources/DrawResources/dfb_folder.gif
+/usr/share/opencascade/resources/DrawResources/dftree.tcl
+/usr/share/opencascade/resources/DrawResources/lamp.ico
+/usr/share/opencascade/resources/SHMessage/FILES
+/usr/share/opencascade/resources/SHMessage/SHAPE.fr
+/usr/share/opencascade/resources/SHMessage/SHAPE.us
+/usr/share/opencascade/resources/SHMessage/SHMessage_SHAPE_us.pxx
+/usr/share/opencascade/resources/Shaders/Declarations.glsl
+/usr/share/opencascade/resources/Shaders/DeclarationsImpl.glsl
+/usr/share/opencascade/resources/Shaders/Display.fs
+/usr/share/opencascade/resources/Shaders/FILES
+/usr/share/opencascade/resources/Shaders/LightShadow.glsl
+/usr/share/opencascade/resources/Shaders/PBRCookTorrance.glsl
+/usr/share/opencascade/resources/Shaders/PBRDirectionalLight.glsl
+/usr/share/opencascade/resources/Shaders/PBRDistribution.glsl
+/usr/share/opencascade/resources/Shaders/PBREnvBaking.fs
+/usr/share/opencascade/resources/Shaders/PBREnvBaking.vs
+/usr/share/opencascade/resources/Shaders/PBRFresnel.glsl
+/usr/share/opencascade/resources/Shaders/PBRGeometry.glsl
+/usr/share/opencascade/resources/Shaders/PBRIllumination.glsl
+/usr/share/opencascade/resources/Shaders/PBRPointLight.glsl
+/usr/share/opencascade/resources/Shaders/PBRSpotLight.glsl
+/usr/share/opencascade/resources/Shaders/PathtraceBase.fs
+/usr/share/opencascade/resources/Shaders/PhongDirectionalLight.glsl
+/usr/share/opencascade/resources/Shaders/PhongPointLight.glsl
+/usr/share/opencascade/resources/Shaders/PhongShading.fs
+/usr/share/opencascade/resources/Shaders/PhongShading.vs
+/usr/share/opencascade/resources/Shaders/PhongSpotLight.glsl
+/usr/share/opencascade/resources/Shaders/PointLightAttenuation.glsl
+/usr/share/opencascade/resources/Shaders/RaytraceBase.fs
+/usr/share/opencascade/resources/Shaders/RaytraceBase.vs
+/usr/share/opencascade/resources/Shaders/RaytraceRender.fs
+/usr/share/opencascade/resources/Shaders/RaytraceSmooth.fs
+/usr/share/opencascade/resources/Shaders/Shaders_DeclarationsImpl_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_Declarations_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_Display_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_LightShadow_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRCookTorrance_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRDirectionalLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRDistribution_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBREnvBaking_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBREnvBaking_vs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRFresnel_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRGeometry_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRIllumination_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRPointLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PBRSpotLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PathtraceBase_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PhongDirectionalLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PhongPointLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PhongSpotLight_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_PointLightAttenuation_glsl.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_RaytraceBase_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_RaytraceBase_vs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_RaytraceRender_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_RaytraceSmooth_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_SkydomBackground_fs.pxx
+/usr/share/opencascade/resources/Shaders/Shaders_TangentSpaceNormal_glsl.pxx
+/usr/share/opencascade/resources/Shaders/SkydomBackground.fs
+/usr/share/opencascade/resources/Shaders/TangentSpaceNormal.glsl
+/usr/share/opencascade/resources/StdResource/FILES
+/usr/share/opencascade/resources/StdResource/MigrationSheet.txt
+/usr/share/opencascade/resources/StdResource/Plugin
+/usr/share/opencascade/resources/StdResource/Standard
+/usr/share/opencascade/resources/StdResource/StandardLite
+/usr/share/opencascade/resources/StdResource/TObj
+/usr/share/opencascade/resources/StdResource/XCAF
+/usr/share/opencascade/resources/TObj/TObj.msg
+/usr/share/opencascade/resources/Textures/1d_elevation.rgb
+/usr/share/opencascade/resources/Textures/2d_MatraDatavision.rgb
+/usr/share/opencascade/resources/Textures/2d_alienskin.rgb
+/usr/share/opencascade/resources/Textures/2d_aluminum.rgb
+/usr/share/opencascade/resources/Textures/2d_blue_rock.rgb
+/usr/share/opencascade/resources/Textures/2d_bluewhite_paper.rgb
+/usr/share/opencascade/resources/Textures/2d_brushed.rgb
+/usr/share/opencascade/resources/Textures/2d_bubbles.rgb
+/usr/share/opencascade/resources/Textures/2d_bumps.rgb
+/usr/share/opencascade/resources/Textures/2d_cast.rgb
+/usr/share/opencascade/resources/Textures/2d_chess.rgba
+/usr/share/opencascade/resources/Textures/2d_chipbd.rgb
+/usr/share/opencascade/resources/Textures/2d_clouds.rgb
+/usr/share/opencascade/resources/Textures/2d_flesh.rgb
+/usr/share/opencascade/resources/Textures/2d_floor.rgb
+/usr/share/opencascade/resources/Textures/2d_galvnisd.rgb
+/usr/share/opencascade/resources/Textures/2d_grass.rgb
+/usr/share/opencascade/resources/Textures/2d_knurl.rgb
+/usr/share/opencascade/resources/Textures/2d_maple.rgb
+/usr/share/opencascade/resources/Textures/2d_marble.rgb
+/usr/share/opencascade/resources/Textures/2d_mottled.rgb
+/usr/share/opencascade/resources/Textures/2d_rain.rgb
+/usr/share/opencascade/resources/Textures/2d_rock.rgb
+/usr/share/opencascade/resources/Textures/FILES
+/usr/share/opencascade/resources/Textures/Textures_EnvLUT.pxx
+/usr/share/opencascade/resources/Textures/env_clouds.rgb
+/usr/share/opencascade/resources/Textures/env_cv.rgb
+/usr/share/opencascade/resources/Textures/env_lines.rgb
+/usr/share/opencascade/resources/Textures/env_medit.rgb
+/usr/share/opencascade/resources/Textures/env_pearl.rgb
+/usr/share/opencascade/resources/Textures/env_road.rgb
+/usr/share/opencascade/resources/Textures/env_sky1.rgb
+/usr/share/opencascade/resources/Textures/env_sky2.rgb
+/usr/share/opencascade/resources/UnitsAPI/Units.dat
+/usr/share/opencascade/resources/XRResources/FILES
+/usr/share/opencascade/resources/XRResources/occtvr_actions.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_generic.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_holographic_hmd.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_index_hmd.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_rift.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_touch.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_vive.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_vive_controller.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_vive_cosmos.json
+/usr/share/opencascade/resources/XRResources/occtvr_bindings_vive_pro.json
+/usr/share/opencascade/resources/XSMessage/FILES
+/usr/share/opencascade/resources/XSMessage/XSMessage_XSTEP_us.pxx
+/usr/share/opencascade/resources/XSMessage/XSTEP.fr
+/usr/share/opencascade/resources/XSMessage/XSTEP.us
+/usr/share/opencascade/resources/XSTEPResource/FILES
+/usr/share/opencascade/resources/XSTEPResource/IGES
+/usr/share/opencascade/resources/XSTEPResource/STEP
+/usr/share/opencascade/resources/XmlOcafResource/FILES
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_SmallTypes.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TDF.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TDataStd.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TDataStd_Name.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TDocStd.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TFunction.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TNaming.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TNaming_NamedShape.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlOcaf_TPrsStd.xsd
+/usr/share/opencascade/resources/XmlOcafResource/XmlXcaf.xsd

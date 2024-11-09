@@ -1,0 +1,11 @@
+/usr/bin/kmscon
+/usr/lib/kmscon/mod-bbulk.so
+/usr/lib/kmscon/mod-gltex.so
+/usr/lib/kmscon/mod-pango.so
+/usr/lib/kmscon/mod-pixman.so
+/usr/lib/kmscon/mod-unifont.so
+/usr/lib/systemd/system/kmscon.service
+/usr/lib/systemd/system/kmsconvt@.service
+/usr/libexec/kmscon/kmscon
+/usr/share/licenses/kmscon/COPYING
+/usr/share/man/man1/kmscon.1

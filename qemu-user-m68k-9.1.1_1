@@ -1,0 +1,3 @@
+/usr/bin/qemu-m68k
+/usr/bin/qemu-m68k-static -> /usr/bin/qemu-m68k
+/usr/share/binfmts/qemu-m68k

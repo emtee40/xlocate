@@ -1,0 +1,5 @@
+/usr/include/editline.h
+/usr/lib/libeditline.a
+/usr/lib/libeditline.so -> /usr/lib/libeditline.so.1.0.2
+/usr/lib/pkgconfig/libeditline.pc
+/usr/share/man/man3/libeditline.3

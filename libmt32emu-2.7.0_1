@@ -1,0 +1,6 @@
+/usr/lib/cmake/MT32Emu/MT32EmuConfig.cmake
+/usr/lib/cmake/MT32Emu/MT32EmuConfigVersion.cmake
+/usr/lib/cmake/MT32Emu/MT32EmuTargets-none.cmake
+/usr/lib/cmake/MT32Emu/MT32EmuTargets.cmake
+/usr/lib/libmt32emu.so.2 -> /usr/lib/libmt32emu.so.2.7.0
+/usr/lib/libmt32emu.so.2.7.0

@@ -1,0 +1,10 @@
+/usr/bin/caerbannog
+/usr/share/applications/caerbannog.desktop
+/usr/share/caerbannog/caerbannog.gresource
+/usr/share/caerbannog/caerbannog/config.py
+/usr/share/caerbannog/caerbannog/logger.py
+/usr/share/caerbannog/caerbannog/main.py
+/usr/share/caerbannog/caerbannog/passlist.py
+/usr/share/caerbannog/caerbannog/preferences.py
+/usr/share/caerbannog/caerbannog/window.py
+/usr/share/icons/hicolor/scalable/apps/net.craftyguy.caerbannog.svg

@@ -1,0 +1,8 @@
+/usr/share/efitools/efi/HashTool.efi
+/usr/share/efitools/efi/HelloWorld.efi
+/usr/share/efitools/efi/KeyTool.efi
+/usr/share/efitools/efi/Loader.efi
+/usr/share/efitools/efi/ReadVars.efi
+/usr/share/efitools/efi/SetNull.efi
+/usr/share/efitools/efi/ShimReplace.efi
+/usr/share/efitools/efi/UpdateVars.efi

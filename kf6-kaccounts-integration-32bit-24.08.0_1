@@ -1,0 +1,6 @@
+/usr/lib32/libkaccounts6.so.2 -> /usr/lib32/libkaccounts6.so.24.08.0
+/usr/lib32/libkaccounts6.so.24.08.0
+/usr/lib32/qt6/plugins/kaccounts/daemonplugins/kaccounts_kio_webdav_plugin.so
+/usr/lib32/qt6/plugins/kf6/kded/kded_accounts.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_kaccounts.so
+/usr/lib32/qt6/qml/org/kde/kaccounts/libkaccountsdeclarativeplugin.so

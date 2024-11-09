@@ -1,0 +1,6 @@
+/usr/lib32/libQt6Pdf.so -> /usr/lib32/libQt6Pdf.so.6
+/usr/lib32/libQt6PdfQuick.so -> /usr/lib32/libQt6PdfQuick.so.6
+/usr/lib32/libQt6PdfWidgets.so -> /usr/lib32/libQt6PdfWidgets.so.6
+/usr/lib32/pkgconfig/Qt6Pdf.pc
+/usr/lib32/pkgconfig/Qt6PdfQuick.pc
+/usr/lib32/pkgconfig/Qt6PdfWidgets.pc

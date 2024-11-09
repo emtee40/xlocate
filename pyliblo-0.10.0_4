@@ -1,0 +1,10 @@
+/usr/bin/dump_osc
+/usr/bin/send_osc
+/usr/lib/python3.12/site-packages/liblo.so
+/usr/lib/python3.12/site-packages/pyliblo-0.10.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/pyliblo-0.10.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/pyliblo-0.10.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/pyliblo-0.10.0-py3.12.egg-info/not-zip-safe
+/usr/lib/python3.12/site-packages/pyliblo-0.10.0-py3.12.egg-info/top_level.txt
+/usr/share/man/man1/dump_osc.1
+/usr/share/man/man1/send_osc.1

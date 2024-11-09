@@ -1,0 +1,23 @@
+/usr/include/libpamtest.h
+/usr/lib/cmake/pam_wrapper/pam_wrapper-config-version.cmake
+/usr/lib/cmake/pam_wrapper/pam_wrapper-config.cmake
+/usr/lib/cmake/pamtest/pamtest-config-none.cmake
+/usr/lib/cmake/pamtest/pamtest-config-version.cmake
+/usr/lib/cmake/pamtest/pamtest-config.cmake
+/usr/lib/libpam_wrapper.so -> /usr/lib/libpam_wrapper.so.0
+/usr/lib/libpam_wrapper.so.0 -> /usr/lib/libpam_wrapper.so.0.0.8
+/usr/lib/libpam_wrapper.so.0.0.8
+/usr/lib/libpamtest.so -> /usr/lib/libpamtest.so.0
+/usr/lib/libpamtest.so.0 -> /usr/lib/libpamtest.so.0.0.8
+/usr/lib/libpamtest.so.0.0.8
+/usr/lib/pam_wrapper/pam_chatty.so
+/usr/lib/pam_wrapper/pam_get_items.so
+/usr/lib/pam_wrapper/pam_matrix.so
+/usr/lib/pam_wrapper/pam_set_items.so
+/usr/lib/pkgconfig/libpamtest.pc
+/usr/lib/pkgconfig/pam_wrapper.pc
+/usr/share/man/man1/pam_wrapper.1
+/usr/share/man/man8/pam_chatty.8
+/usr/share/man/man8/pam_get_items.8
+/usr/share/man/man8/pam_matrix.8
+/usr/share/man/man8/pam_set_items.8

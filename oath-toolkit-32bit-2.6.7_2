@@ -1,0 +1,5 @@
+/usr/lib32/liboath.so.0 -> /usr/lib32/liboath.so.0.1.3
+/usr/lib32/liboath.so.0.1.3
+/usr/lib32/libpskc.so.0 -> /usr/lib32/libpskc.so.0.0.1
+/usr/lib32/libpskc.so.0.0.1
+/usr/lib32/security/pam_oath.so

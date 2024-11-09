@@ -1,0 +1,7 @@
+/etc/sv/tqftpserv/log/run -> /usr/bin/vlogger
+/etc/sv/tqftpserv/log/supervise -> /run/runit/supervise.tqftpserv-log
+/etc/sv/tqftpserv/run
+/etc/sv/tqftpserv/supervise -> /run/runit/supervise.tqftpserv
+/usr/bin/tqftpserv
+/usr/lib/systemd/system/tqftpserv.service
+/usr/share/licenses/tqftpserv/LICENSE

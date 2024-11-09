@@ -1,0 +1,11 @@
+/usr/bin/voikkogc
+/usr/bin/voikkohyphenate
+/usr/bin/voikkospell
+/usr/bin/voikkovfstc
+/usr/lib/libvoikko.so.1 -> /usr/lib/libvoikko.so.1.16.2
+/usr/lib/libvoikko.so.1.16.2
+/usr/lib/python3.12/site-packages/libvoikko.py
+/usr/share/man/man1/voikkogc.1
+/usr/share/man/man1/voikkohyphenate.1
+/usr/share/man/man1/voikkospell.1
+/usr/share/man/man1/voikkovfstc.1

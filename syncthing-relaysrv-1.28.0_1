@@ -1,0 +1,7 @@
+/etc/sv/relaysrv/log/run
+/etc/sv/relaysrv/log/supervise -> /run/runit/supervise.relaysrv-log
+/etc/sv/relaysrv/run
+/etc/sv/relaysrv/supervise -> /run/runit/supervise.relaysrv
+/usr/bin/strelaysrv
+/usr/share/licenses/syncthing-relaysrv/LICENSE
+/usr/share/man/man1/strelaysrv.1

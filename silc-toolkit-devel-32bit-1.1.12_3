@@ -1,0 +1,6 @@
+/usr/lib32/libsilc.a
+/usr/lib32/libsilc.so -> /usr/lib32/libsilc-1.1.so.4.0.0
+/usr/lib32/libsilcclient.a
+/usr/lib32/libsilcclient.so -> /usr/lib32/libsilcclient-1.1.so.4.0.0
+/usr/lib32/pkgconfig/silc.pc
+/usr/lib32/pkgconfig/silcclient.pc

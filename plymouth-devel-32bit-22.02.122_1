@@ -1,0 +1,7 @@
+/usr/lib32/libply-boot-client.so -> /usr/lib32/libply-boot-client.so.5.0.0
+/usr/lib32/libply-splash-core.so -> /usr/lib32/libply-splash-core.so.5.0.0
+/usr/lib32/libply-splash-graphics.so -> /usr/lib32/libply-splash-graphics.so.5.0.0
+/usr/lib32/libply.so -> /usr/lib32/libply.so.5.0.0
+/usr/lib32/pkgconfig/ply-boot-client.pc
+/usr/lib32/pkgconfig/ply-splash-core.pc
+/usr/lib32/pkgconfig/ply-splash-graphics.pc

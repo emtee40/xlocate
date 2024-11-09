@@ -1,0 +1,6 @@
+/usr/share/hunspell-bdic/bn_BD.bdic
+/usr/share/hunspell-bdic/bn_IN.bdic -> /usr/share/hunspell-bdic/bn_BD.bdic
+/usr/share/hunspell/bn_BD.aff
+/usr/share/hunspell/bn_BD.dic
+/usr/share/hunspell/bn_IN.aff -> /usr/share/hunspell/bn_BD.aff
+/usr/share/hunspell/bn_IN.dic -> /usr/share/hunspell/bn_BD.dic

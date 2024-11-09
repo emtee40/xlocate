@@ -1,0 +1,10 @@
+/usr/lib32/farstream-0.2/libmulticast-transmitter.so
+/usr/lib32/farstream-0.2/libnice-transmitter.so
+/usr/lib32/farstream-0.2/librawudp-transmitter.so
+/usr/lib32/farstream-0.2/libshm-transmitter.so
+/usr/lib32/gstreamer-1.0/libfsrawconference.so
+/usr/lib32/gstreamer-1.0/libfsrtpconference.so
+/usr/lib32/gstreamer-1.0/libfsrtpxdata.so
+/usr/lib32/gstreamer-1.0/libfsvideoanyrate.so
+/usr/lib32/libfarstream-0.2.so.5 -> /usr/lib32/libfarstream-0.2.so.5.1.1
+/usr/lib32/libfarstream-0.2.so.5.1.1

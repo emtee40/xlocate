@@ -1,0 +1,4 @@
+/usr/lib32/libast.so -> /usr/lib32/libast.so.6.0
+/usr/lib32/libcmd.so -> /usr/lib32/libcmd.so.2.0
+/usr/lib32/libdll.so -> /usr/lib32/libdll.so.2.0
+/usr/lib32/libshell.so -> /usr/lib32/libshell.so.2.0

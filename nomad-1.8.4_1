@@ -1,0 +1,6 @@
+/etc/sv/nomad/log/run
+/etc/sv/nomad/log/supervise -> /run/runit/supervise.nomad-log
+/etc/sv/nomad/run
+/etc/sv/nomad/supervise -> /run/runit/supervise.nomad
+/usr/bin/nomad
+/usr/share/licenses/nomad/LICENSE

@@ -1,0 +1,14 @@
+/etc/sv/busybox-klogd/log/run
+/etc/sv/busybox-klogd/log/supervise -> /run/runit/supervise.busybox-klogd-log
+/etc/sv/busybox-klogd/run
+/etc/sv/busybox-klogd/supervise -> /run/runit/supervise.busybox-klogd
+/etc/sv/busybox-ntpd/log/run
+/etc/sv/busybox-ntpd/log/supervise -> /run/runit/supervise.busybox-ntpd-log
+/etc/sv/busybox-ntpd/run
+/etc/sv/busybox-ntpd/supervise -> /run/runit/supervise.busybox-ntpd
+/etc/sv/busybox-syslogd/log/run
+/etc/sv/busybox-syslogd/log/supervise -> /run/runit/supervise.busybox-syslogd-log
+/etc/sv/busybox-syslogd/run
+/etc/sv/busybox-syslogd/supervise -> /run/runit/supervise.busybox-syslogd
+/usr/bin/busybox
+/usr/share/man/man1/busybox.1

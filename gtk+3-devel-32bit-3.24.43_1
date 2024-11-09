@@ -1,0 +1,13 @@
+/usr/lib32/libgailutil-3.so -> /usr/lib32/libgailutil-3.so.0
+/usr/lib32/libgdk-3.so -> /usr/lib32/libgdk-3.so.0
+/usr/lib32/libgtk-3.so -> /usr/lib32/libgtk-3.so.0
+/usr/lib32/pkgconfig/gail-3.0.pc
+/usr/lib32/pkgconfig/gdk-3.0.pc
+/usr/lib32/pkgconfig/gdk-broadway-3.0.pc
+/usr/lib32/pkgconfig/gdk-wayland-3.0.pc
+/usr/lib32/pkgconfig/gdk-x11-3.0.pc
+/usr/lib32/pkgconfig/gtk+-3.0.pc
+/usr/lib32/pkgconfig/gtk+-broadway-3.0.pc
+/usr/lib32/pkgconfig/gtk+-unix-print-3.0.pc
+/usr/lib32/pkgconfig/gtk+-wayland-3.0.pc
+/usr/lib32/pkgconfig/gtk+-x11-3.0.pc

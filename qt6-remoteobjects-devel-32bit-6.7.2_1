@@ -1,0 +1,5 @@
+/usr/lib32/libQt6RemoteObjects.so -> /usr/lib32/libQt6RemoteObjects.so.6
+/usr/lib32/libQt6RemoteObjectsQml.so -> /usr/lib32/libQt6RemoteObjectsQml.so.6
+/usr/lib32/pkgconfig/Qt6RemoteObjects.pc
+/usr/lib32/pkgconfig/Qt6RemoteObjectsQml.pc
+/usr/lib32/pkgconfig/Qt6RepParser.pc

@@ -1,0 +1,6 @@
+/etc/xdg/tessen/config
+/usr/bin/tessen
+/usr/share/bash-completion/completions/tessen
+/usr/share/fish/vendor_completions.d/tessen.fish
+/usr/share/man/man1/tessen.1
+/usr/share/man/man5/tessen.5

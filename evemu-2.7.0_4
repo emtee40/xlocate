@@ -1,0 +1,17 @@
+/usr/bin/evemu-describe
+/usr/bin/evemu-device
+/usr/bin/evemu-event
+/usr/bin/evemu-play
+/usr/bin/evemu-record
+/usr/lib/libevemu.so.3 -> /usr/lib/libevemu.so.3.0.4
+/usr/lib/libevemu.so.3.0.4
+/usr/lib/python3.12/site-packages/evemu/__init__.py
+/usr/lib/python3.12/site-packages/evemu/base.py
+/usr/lib/python3.12/site-packages/evemu/const.py
+/usr/lib/python3.12/site-packages/evemu/exception.py
+/usr/share/licenses/evemu/LICENSE
+/usr/share/man/man1/evemu-describe.1
+/usr/share/man/man1/evemu-device.1
+/usr/share/man/man1/evemu-event.1
+/usr/share/man/man1/evemu-play.1
+/usr/share/man/man1/evemu-record.1

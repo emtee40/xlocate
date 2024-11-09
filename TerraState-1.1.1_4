@@ -1,0 +1,6 @@
+/etc/sv/terrastate/log/run
+/etc/sv/terrastate/log/supervise -> /run/runit/supervise.terrastate-log
+/etc/sv/terrastate/run
+/etc/sv/terrastate/supervise -> /run/runit/supervise.terrastate
+/usr/bin/terrastate
+/usr/share/licenses/TerraState/LICENSE

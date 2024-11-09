@@ -1,0 +1,15 @@
+/usr/include/beid/rsaref220/pkcs11.h
+/usr/include/beid/rsaref220/pkcs11f.h
+/usr/include/beid/rsaref220/pkcs11t.h
+/usr/include/beid/rsaref220/unix.h
+/usr/include/eid-util/utftranslate.h
+/usr/include/eid-viewer/certhelpers.h
+/usr/include/eid-viewer/eid-viewer.h
+/usr/include/eid-viewer/macros.h
+/usr/include/eid-viewer/oslayer.h
+/usr/include/eid-viewer/verify_cert.h
+/usr/lib/libbeidpkcs11.a
+/usr/lib/libbeidpkcs11.so -> /usr/lib/libbeidpkcs11.so.0.0.0
+/usr/lib/libeidviewer.a
+/usr/lib/libeidviewer.so -> /usr/lib/libeidviewer.so.0.1.0
+/usr/lib/pkgconfig/libbeidpkcs11.pc

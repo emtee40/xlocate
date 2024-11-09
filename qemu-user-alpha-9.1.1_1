@@ -1,0 +1,3 @@
+/usr/bin/qemu-alpha
+/usr/bin/qemu-alpha-static -> /usr/bin/qemu-alpha
+/usr/share/binfmts/qemu-alpha

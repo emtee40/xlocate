@@ -1,0 +1,13 @@
+/usr/bin/gmic
+/usr/bin/gmic_qt
+/usr/lib/libcgmic.so.3 -> /usr/lib/libcgmic.so.316
+/usr/lib/libcgmic.so.316
+/usr/lib/libgmic.so.3 -> /usr/lib/libgmic.so.316
+/usr/lib/libgmic.so.316
+/usr/share/applications/gmic_qt.desktop
+/usr/share/bash-completion/completions/gmic
+/usr/share/icons/hicolor/48x48/apps/gmic_qt.png
+/usr/share/icons/hicolor/scalable/apps/gmic_qt.svg
+/usr/share/licenses/gmic/COPYING
+/usr/share/man/fr/man1/gmic.1
+/usr/share/man/man1/gmic.1

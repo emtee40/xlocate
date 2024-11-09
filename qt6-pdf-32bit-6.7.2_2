@@ -1,0 +1,8 @@
+/usr/lib32/libQt6Pdf.so.6 -> /usr/lib32/libQt6Pdf.so.6.7.2
+/usr/lib32/libQt6Pdf.so.6.7.2
+/usr/lib32/libQt6PdfQuick.so.6 -> /usr/lib32/libQt6PdfQuick.so.6.7.2
+/usr/lib32/libQt6PdfQuick.so.6.7.2
+/usr/lib32/libQt6PdfWidgets.so.6 -> /usr/lib32/libQt6PdfWidgets.so.6.7.2
+/usr/lib32/libQt6PdfWidgets.so.6.7.2
+/usr/lib32/qt6/plugins/imageformats/libqpdf.so
+/usr/lib32/qt6/qml/QtQuick/Pdf/libpdfquickplugin.so

@@ -1,0 +1,4 @@
+/usr/lib32/libgeocoding.a
+/usr/lib32/libgeocoding.so -> /usr/lib32/libgeocoding.so.8
+/usr/lib32/libphonenumber.a
+/usr/lib32/libphonenumber.so -> /usr/lib32/libphonenumber.so.8

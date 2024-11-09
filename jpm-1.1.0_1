@@ -1,0 +1,17 @@
+/usr/bin/jpm
+/usr/lib/janet/.manifests/jpm.jdn
+/usr/lib/janet/jpm/cc.janet
+/usr/lib/janet/jpm/cgen.janet
+/usr/lib/janet/jpm/cli.janet
+/usr/lib/janet/jpm/commands.janet
+/usr/lib/janet/jpm/config.janet
+/usr/lib/janet/jpm/dagbuild.janet
+/usr/lib/janet/jpm/declare.janet
+/usr/lib/janet/jpm/default-config.janet
+/usr/lib/janet/jpm/init.janet
+/usr/lib/janet/jpm/make-config.janet
+/usr/lib/janet/jpm/pm.janet
+/usr/lib/janet/jpm/rules.janet
+/usr/lib/janet/jpm/shutil.janet
+/usr/share/licenses/jpm/LICENSE
+/usr/share/man/man1/jpm.1

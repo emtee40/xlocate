@@ -1,0 +1,7 @@
+/usr/include/ucl++.h
+/usr/include/ucl.h
+/usr/lib/libucl.a
+/usr/lib/libucl.so -> /usr/lib/libucl.so.5.1.0
+/usr/lib/pkgconfig/libucl.pc
+/usr/share/licenses/libucl/LICENSE
+/usr/share/man/man3/libucl.3

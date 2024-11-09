@@ -1,0 +1,18 @@
+/usr/lib/libIMECore.so.0 -> /usr/lib/libIMECore.so.1.1.8
+/usr/lib/libIMECore.so.1.1.8
+/usr/lib/libIMEPinyin.so.0 -> /usr/lib/libIMEPinyin.so.1.1.8
+/usr/lib/libIMEPinyin.so.1.1.8
+/usr/lib/libIMETable.so.0 -> /usr/lib/libIMETable.so.1.1.8
+/usr/lib/libIMETable.so.1.1.8
+/usr/lib/libime/zh_CN.lm
+/usr/lib/libime/zh_CN.lm.predict
+/usr/share/libime/cj.main.dict
+/usr/share/libime/db.main.dict
+/usr/share/libime/erbi.main.dict
+/usr/share/libime/extb.dict
+/usr/share/libime/qxm.main.dict
+/usr/share/libime/sc.dict
+/usr/share/libime/wanfeng.main.dict
+/usr/share/libime/wbpy.main.dict
+/usr/share/libime/wbx.main.dict
+/usr/share/libime/zrm.main.dict

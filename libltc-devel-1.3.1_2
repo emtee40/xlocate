@@ -1,0 +1,5 @@
+/usr/include/ltc.h
+/usr/lib/libltc.a
+/usr/lib/libltc.so -> /usr/lib/libltc.so.11.1.0
+/usr/lib/pkgconfig/ltc.pc
+/usr/share/man/man3/ltc.h.3

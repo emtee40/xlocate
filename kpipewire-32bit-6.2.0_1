@@ -1,0 +1,9 @@
+/usr/lib32/libKPipeWire.so.6 -> /usr/lib32/libKPipeWire.so.6.2.0
+/usr/lib32/libKPipeWire.so.6.2.0
+/usr/lib32/libKPipeWireDmaBuf.so.6 -> /usr/lib32/libKPipeWireDmaBuf.so.6.2.0
+/usr/lib32/libKPipeWireDmaBuf.so.6.2.0
+/usr/lib32/libKPipeWireRecord.so.6 -> /usr/lib32/libKPipeWireRecord.so.6.2.0
+/usr/lib32/libKPipeWireRecord.so.6.2.0
+/usr/lib32/qt6/qml/org/kde/pipewire/libKPipeWireDeclarative.so
+/usr/lib32/qt6/qml/org/kde/pipewire/monitor/libKPipeWireMonitorDeclarative.so
+/usr/lib32/qt6/qml/org/kde/pipewire/record/libKPipeWireRecordDeclarative.so

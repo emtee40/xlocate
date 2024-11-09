@@ -1,0 +1,12 @@
+/etc/chrony.conf
+/etc/sv/chronyd/log/run
+/etc/sv/chronyd/log/supervise -> /run/runit/supervise.chronyd-log
+/etc/sv/chronyd/run
+/etc/sv/chronyd/supervise -> /run/runit/supervise.chronyd
+/usr/bin/chronyc
+/usr/bin/chronyd
+/usr/share/examples/chrony/chrony.conf.example2
+/usr/share/examples/chrony/chrony.conf.example3
+/usr/share/man/man1/chronyc.1
+/usr/share/man/man5/chrony.conf.5
+/usr/share/man/man8/chronyd.8

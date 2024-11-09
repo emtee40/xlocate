@@ -1,0 +1,3 @@
+/usr/lib32/libfastjson.a
+/usr/lib32/libfastjson.so -> /usr/lib32/libfastjson.so.4.2.0
+/usr/lib32/pkgconfig/libfastjson.pc

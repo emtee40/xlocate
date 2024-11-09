@@ -1,0 +1,3 @@
+/usr/lib/libfreeimageplus-3.18.0.so
+/usr/lib/libfreeimageplus.so.3 -> /usr/lib/libfreeimageplus-3.18.0.so
+/usr/share/licenses/freeimage-plus/LICENSE

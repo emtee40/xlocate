@@ -1,0 +1,3 @@
+/usr/lib32/libiir.so -> /usr/lib32/libiir.so.1
+/usr/lib32/libiir_static.a
+/usr/lib32/pkgconfig/iir.pc

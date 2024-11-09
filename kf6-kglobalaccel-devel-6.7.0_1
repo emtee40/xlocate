@@ -1,0 +1,11 @@
+/usr/include/KF6/KGlobalAccel/KGlobalAccel
+/usr/include/KF6/KGlobalAccel/KGlobalShortcutInfo
+/usr/include/KF6/KGlobalAccel/kglobalaccel.h
+/usr/include/KF6/KGlobalAccel/kglobalaccel_export.h
+/usr/include/KF6/KGlobalAccel/kglobalaccel_version.h
+/usr/include/KF6/KGlobalAccel/kglobalshortcutinfo.h
+/usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelConfig.cmake
+/usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelConfigVersion.cmake
+/usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelTargets-none.cmake
+/usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelTargets.cmake
+/usr/lib/libKF6GlobalAccel.so -> /usr/lib/libKF6GlobalAccel.so.6

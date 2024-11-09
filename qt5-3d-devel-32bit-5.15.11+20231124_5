@@ -1,0 +1,24 @@
+/usr/lib32/libQt53DAnimation.so -> /usr/lib32/libQt53DAnimation.so.5.15.11
+/usr/lib32/libQt53DCore.so -> /usr/lib32/libQt53DCore.so.5.15.11
+/usr/lib32/libQt53DExtras.so -> /usr/lib32/libQt53DExtras.so.5.15.11
+/usr/lib32/libQt53DInput.so -> /usr/lib32/libQt53DInput.so.5.15.11
+/usr/lib32/libQt53DLogic.so -> /usr/lib32/libQt53DLogic.so.5.15.11
+/usr/lib32/libQt53DQuick.so -> /usr/lib32/libQt53DQuick.so.5.15.11
+/usr/lib32/libQt53DQuickAnimation.so -> /usr/lib32/libQt53DQuickAnimation.so.5.15.11
+/usr/lib32/libQt53DQuickExtras.so -> /usr/lib32/libQt53DQuickExtras.so.5.15.11
+/usr/lib32/libQt53DQuickInput.so -> /usr/lib32/libQt53DQuickInput.so.5.15.11
+/usr/lib32/libQt53DQuickRender.so -> /usr/lib32/libQt53DQuickRender.so.5.15.11
+/usr/lib32/libQt53DQuickScene2D.so -> /usr/lib32/libQt53DQuickScene2D.so.5.15.11
+/usr/lib32/libQt53DRender.so -> /usr/lib32/libQt53DRender.so.5.15.11
+/usr/lib32/pkgconfig/Qt53DAnimation.pc
+/usr/lib32/pkgconfig/Qt53DCore.pc
+/usr/lib32/pkgconfig/Qt53DExtras.pc
+/usr/lib32/pkgconfig/Qt53DInput.pc
+/usr/lib32/pkgconfig/Qt53DLogic.pc
+/usr/lib32/pkgconfig/Qt53DQuick.pc
+/usr/lib32/pkgconfig/Qt53DQuickAnimation.pc
+/usr/lib32/pkgconfig/Qt53DQuickExtras.pc
+/usr/lib32/pkgconfig/Qt53DQuickInput.pc
+/usr/lib32/pkgconfig/Qt53DQuickRender.pc
+/usr/lib32/pkgconfig/Qt53DQuickScene2D.pc
+/usr/lib32/pkgconfig/Qt53DRender.pc

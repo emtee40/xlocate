@@ -1,0 +1,2 @@
+/usr/lib32/libopenjpeg.so.1.5.2
+/usr/lib32/libopenjpeg.so.5 -> /usr/lib32/libopenjpeg.so.1.5.2

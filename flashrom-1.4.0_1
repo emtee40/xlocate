@@ -1,0 +1,5 @@
+/usr/bin/flashrom
+/usr/lib/libflashrom.so.1 -> /usr/lib/libflashrom.so.1.0.0
+/usr/lib/libflashrom.so.1.0.0
+/usr/share/bash-completion/completions/flashrom.bash
+/usr/share/man/man8/flashrom.8

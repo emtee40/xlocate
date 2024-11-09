@@ -1,0 +1,4 @@
+/usr/lib32/libqmmp-1.so -> /usr/lib32/libqmmp-1.so.1
+/usr/lib32/libqmmpui-1.so -> /usr/lib32/libqmmpui-1.so.1
+/usr/lib32/pkgconfig/qmmp-1.pc
+/usr/lib32/pkgconfig/qmmpui-1.pc

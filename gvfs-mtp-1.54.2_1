@@ -1,0 +1,5 @@
+/usr/libexec/gvfs-mtp-volume-monitor
+/usr/libexec/gvfsd-mtp
+/usr/share/dbus-1/services/org.gtk.vfs.MTPVolumeMonitor.service
+/usr/share/gvfs/mounts/mtp.mount
+/usr/share/gvfs/remote-volume-monitors/mtp.monitor

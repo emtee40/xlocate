@@ -1,0 +1,15 @@
+/usr/include/tesseract/baseapi.h
+/usr/include/tesseract/capi.h
+/usr/include/tesseract/export.h
+/usr/include/tesseract/ltrresultiterator.h
+/usr/include/tesseract/ocrclass.h
+/usr/include/tesseract/osdetect.h
+/usr/include/tesseract/pageiterator.h
+/usr/include/tesseract/publictypes.h
+/usr/include/tesseract/renderer.h
+/usr/include/tesseract/resultiterator.h
+/usr/include/tesseract/unichar.h
+/usr/include/tesseract/version.h
+/usr/lib/libtesseract.a
+/usr/lib/libtesseract.so -> /usr/lib/libtesseract.so.5.0.3
+/usr/lib/pkgconfig/tesseract.pc

@@ -1,0 +1,17 @@
+/etc/create_ap.conf
+/usr/bin/create_ap
+/usr/bin/wihotspot
+/usr/bin/wihotspot-gui
+/usr/lib/systemd/system/create_ap.service
+/usr/share/applications/wihotspot.desktop
+/usr/share/bash-completion/completions/create_ap
+/usr/share/doc/create_ap/README.md
+/usr/share/icons/hicolor/256x256/apps/wihotspot.png
+/usr/share/icons/hicolor/48x48/apps/wihotspot.png
+/usr/share/icons/hicolor/512x512/apps/wihotspot.png
+/usr/share/icons/hicolor/64x64/apps/wihotspot.png
+/usr/share/icons/hicolor/scalable/apps/wihotspot.svg
+/usr/share/licenses/linux-wifi-hotspot/LICENSE
+/usr/share/pixmaps/wihotspot.png
+/usr/share/polkit-1/actions/org.opensuse.policykit.wihotspot.policy
+/usr/share/polkit-1/rules.d/90-org.opensuse.policykit.wihotspot.rules

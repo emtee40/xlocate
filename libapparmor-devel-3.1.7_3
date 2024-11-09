@@ -1,0 +1,6 @@
+/usr/include/aalogparse/aalogparse.h
+/usr/include/sys/apparmor.h
+/usr/include/sys/apparmor_private.h
+/usr/lib/libapparmor.a
+/usr/lib/libapparmor.so -> /usr/lib/libapparmor.so.1.12.3
+/usr/lib/pkgconfig/libapparmor.pc

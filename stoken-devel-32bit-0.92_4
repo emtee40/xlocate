@@ -1,0 +1,3 @@
+/usr/lib32/libstoken.a
+/usr/lib32/libstoken.so -> /usr/lib32/libstoken.so.1.3.0
+/usr/lib32/pkgconfig/stoken.pc

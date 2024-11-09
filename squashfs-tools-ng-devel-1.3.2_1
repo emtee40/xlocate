@@ -1,0 +1,24 @@
+/usr/include/sqfs/block.h
+/usr/include/sqfs/block_processor.h
+/usr/include/sqfs/block_writer.h
+/usr/include/sqfs/compressor.h
+/usr/include/sqfs/data_reader.h
+/usr/include/sqfs/dir.h
+/usr/include/sqfs/dir_reader.h
+/usr/include/sqfs/dir_writer.h
+/usr/include/sqfs/error.h
+/usr/include/sqfs/frag_table.h
+/usr/include/sqfs/id_table.h
+/usr/include/sqfs/inode.h
+/usr/include/sqfs/io.h
+/usr/include/sqfs/meta_reader.h
+/usr/include/sqfs/meta_writer.h
+/usr/include/sqfs/predef.h
+/usr/include/sqfs/super.h
+/usr/include/sqfs/table.h
+/usr/include/sqfs/xattr.h
+/usr/include/sqfs/xattr_reader.h
+/usr/include/sqfs/xattr_writer.h
+/usr/lib/libsquashfs.a
+/usr/lib/libsquashfs.so -> /usr/lib/libsquashfs.so.1.4.1
+/usr/lib/pkgconfig/libsquashfs1.pc

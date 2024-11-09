@@ -1,0 +1,17 @@
+/usr/include/tomcrypt.h
+/usr/include/tomcrypt_argchk.h
+/usr/include/tomcrypt_cfg.h
+/usr/include/tomcrypt_cipher.h
+/usr/include/tomcrypt_custom.h
+/usr/include/tomcrypt_hash.h
+/usr/include/tomcrypt_mac.h
+/usr/include/tomcrypt_macros.h
+/usr/include/tomcrypt_math.h
+/usr/include/tomcrypt_misc.h
+/usr/include/tomcrypt_pk.h
+/usr/include/tomcrypt_pkcs.h
+/usr/include/tomcrypt_prng.h
+/usr/lib/libtomcrypt.a
+/usr/lib/libtomcrypt.so -> /usr/lib/libtomcrypt.so.1.0.1
+/usr/lib/pkgconfig/libtomcrypt.pc
+/usr/share/man/man3/libtomcrypt.3

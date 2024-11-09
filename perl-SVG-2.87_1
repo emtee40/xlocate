@@ -1,0 +1,10 @@
+/usr/share/man/man3/SVG.3p
+/usr/share/man/man3/SVG::DOM.3p
+/usr/share/man/man3/SVG::Element.3p
+/usr/share/man/man3/SVG::Extension.3p
+/usr/share/man/man3/SVG::XML.3p
+/usr/share/perl5/vendor_perl/SVG.pm
+/usr/share/perl5/vendor_perl/SVG/DOM.pm
+/usr/share/perl5/vendor_perl/SVG/Element.pm
+/usr/share/perl5/vendor_perl/SVG/Extension.pm
+/usr/share/perl5/vendor_perl/SVG/XML.pm

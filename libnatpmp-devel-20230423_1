@@ -1,0 +1,4 @@
+/usr/include/natpmp.h
+/usr/include/natpmp_declspec.h
+/usr/lib/libnatpmp.a
+/usr/lib/libnatpmp.so -> /usr/lib/libnatpmp.so.1

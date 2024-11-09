@@ -1,0 +1,11 @@
+/usr/lib/freerdp3/server/proxy/plugins/proxy-bitmap-filter-plugin.so
+/usr/lib/freerdp3/server/proxy/plugins/proxy-demo-plugin.so
+/usr/lib/freerdp3/server/proxy/plugins/proxy-dyn-channel-dump-plugin.so
+/usr/lib/libfreerdp-server-proxy3.so.3 -> /usr/lib/libfreerdp-server-proxy3.so.3.9.0
+/usr/lib/libfreerdp-server-proxy3.so.3.9.0
+/usr/lib/libfreerdp-server3.so.3 -> /usr/lib/libfreerdp-server3.so.3.9.0
+/usr/lib/libfreerdp-server3.so.3.9.0
+/usr/lib/libfreerdp-shadow-subsystem3.so.3 -> /usr/lib/libfreerdp-shadow-subsystem3.so.3.9.0
+/usr/lib/libfreerdp-shadow-subsystem3.so.3.9.0
+/usr/lib/libfreerdp-shadow3.so.3 -> /usr/lib/libfreerdp-shadow3.so.3.9.0
+/usr/lib/libfreerdp-shadow3.so.3.9.0

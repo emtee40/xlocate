@@ -1,0 +1,12 @@
+/etc/sv/openrgb/log/run
+/etc/sv/openrgb/log/supervise -> /run/runit/supervise.openrgb-log
+/etc/sv/openrgb/run
+/etc/sv/openrgb/supervise -> /run/runit/supervise.openrgb
+/usr/bin/openrgb
+/usr/lib/modules-load.d/openrgb.conf
+/usr/lib/udev/rules.d/60-openrgb.rules
+/usr/share/applications/OpenRGB.desktop
+/usr/share/doc/openrgb/README.md
+/usr/share/doc/openrgb/README.voidlinux
+/usr/share/icons/hicolor/128x128/apps/OpenRGB.png
+/usr/share/metainfo/org.openrgb.OpenRGB.metainfo.xml

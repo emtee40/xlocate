@@ -1,0 +1,11 @@
+/usr/bin/clementine
+/usr/bin/clementine-tagreader
+/usr/share/applications/org.clementine_player.Clementine.desktop
+/usr/share/icons/hicolor/128x128/apps/org.clementine_player.Clementine.png
+/usr/share/icons/hicolor/64x64/apps/org.clementine_player.Clementine.png
+/usr/share/icons/hicolor/scalable/apps/org.clementine_player.Clementine.svg
+/usr/share/kservices5/clementine-feed.protocol
+/usr/share/kservices5/clementine-itms.protocol
+/usr/share/kservices5/clementine-itpc.protocol
+/usr/share/kservices5/clementine-zune.protocol
+/usr/share/metainfo/org.clementine_player.Clementine.appdata.xml

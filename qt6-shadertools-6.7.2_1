@@ -1,0 +1,10 @@
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsMacros.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsAdditionalTargetInfo.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfig.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfigVersion.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfigVersionImpl.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsDependencies.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsTargets-none.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsTargets.cmake
+/usr/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsVersionlessTargets.cmake
+/usr/lib/qt6/bin/qsb

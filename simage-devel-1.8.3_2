@@ -1,0 +1,7 @@
+/usr/include/simage.h
+/usr/lib/cmake/simage-1.8.3/simage-config-version.cmake
+/usr/lib/cmake/simage-1.8.3/simage-config.cmake
+/usr/lib/cmake/simage-1.8.3/simage-export-none.cmake
+/usr/lib/cmake/simage-1.8.3/simage-export.cmake
+/usr/lib/libsimage.so -> /usr/lib/libsimage.so.20
+/usr/lib/pkgconfig/simage.pc

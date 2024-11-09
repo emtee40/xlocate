@@ -1,0 +1,3 @@
+/usr/lib32/libisofs.a
+/usr/lib32/libisofs.so -> /usr/lib32/libisofs.so.6.92.0
+/usr/lib32/pkgconfig/libisofs-1.pc

@@ -1,0 +1,7 @@
+/usr/share/man/man3/HTTP::Tinyish.3p
+/usr/share/perl5/vendor_perl/HTTP/Tinyish.pm
+/usr/share/perl5/vendor_perl/HTTP/Tinyish/Base.pm
+/usr/share/perl5/vendor_perl/HTTP/Tinyish/Curl.pm
+/usr/share/perl5/vendor_perl/HTTP/Tinyish/HTTPTiny.pm
+/usr/share/perl5/vendor_perl/HTTP/Tinyish/LWP.pm
+/usr/share/perl5/vendor_perl/HTTP/Tinyish/Wget.pm

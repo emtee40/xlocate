@@ -1,0 +1,8 @@
+/etc/fb.modes
+/usr/bin/con2fbmap
+/usr/bin/fbset
+/usr/bin/modeline2fb
+/usr/share/man/man1/con2fbmap.1
+/usr/share/man/man1/fbset.1
+/usr/share/man/man1/modeline2fb.1
+/usr/share/man/man5/fb.modes.5

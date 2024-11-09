@@ -1,0 +1,15 @@
+/usr/bin/zxcvbn
+/usr/lib/python3.12/site-packages/zxcvbn-4.4.28-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/zxcvbn-4.4.28-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/zxcvbn-4.4.28-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/zxcvbn-4.4.28-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/zxcvbn-4.4.28-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/zxcvbn/__init__.py
+/usr/lib/python3.12/site-packages/zxcvbn/__main__.py
+/usr/lib/python3.12/site-packages/zxcvbn/adjacency_graphs.py
+/usr/lib/python3.12/site-packages/zxcvbn/feedback.py
+/usr/lib/python3.12/site-packages/zxcvbn/frequency_lists.py
+/usr/lib/python3.12/site-packages/zxcvbn/matching.py
+/usr/lib/python3.12/site-packages/zxcvbn/scoring.py
+/usr/lib/python3.12/site-packages/zxcvbn/time_estimates.py
+/usr/share/licenses/python3-zxcvbn/LICENSE.txt

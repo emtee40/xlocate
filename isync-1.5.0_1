@@ -1,0 +1,6 @@
+/usr/bin/mbsync
+/usr/bin/mbsync-get-cert
+/usr/bin/mdconvert
+/usr/share/examples/isync/mbsyncrc.sample
+/usr/share/man/man1/mbsync.1
+/usr/share/man/man1/mdconvert.1

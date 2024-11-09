@@ -1,0 +1,5 @@
+/usr/lib32/libavahi-client.so -> /usr/lib32/libavahi-client.so.3.2.9
+/usr/lib32/libavahi-common.so -> /usr/lib32/libavahi-common.so.3.5.4
+/usr/lib32/libavahi-core.so -> /usr/lib32/libavahi-core.so.7.1.0
+/usr/lib32/pkgconfig/avahi-client.pc
+/usr/lib32/pkgconfig/avahi-core.pc

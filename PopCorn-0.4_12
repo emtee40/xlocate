@@ -1,0 +1,6 @@
+/etc/sv/popcorn/log/run
+/etc/sv/popcorn/log/supervise -> /run/runit/supervise.popcorn-log
+/etc/sv/popcorn/run
+/etc/sv/popcorn/supervise -> /run/runit/supervise.popcorn
+/usr/bin/popcorn
+/usr/share/licenses/PopCorn/LICENSE

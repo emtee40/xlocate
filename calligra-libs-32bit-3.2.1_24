@@ -1,0 +1,50 @@
+/usr/lib32/libbasicflakes.so -> /usr/lib32/libbasicflakes.so.17
+/usr/lib32/libbasicflakes.so.17 -> /usr/lib32/libbasicflakes.so.17.0.0
+/usr/lib32/libbasicflakes.so.17.0.0
+/usr/lib32/libflake.so -> /usr/lib32/libflake.so.17
+/usr/lib32/libflake.so.17 -> /usr/lib32/libflake.so.17.0.0
+/usr/lib32/libflake.so.17.0.0
+/usr/lib32/libkokross.so -> /usr/lib32/libkokross.so.17
+/usr/lib32/libkokross.so.17 -> /usr/lib32/libkokross.so.17.0.0
+/usr/lib32/libkokross.so.17.0.0
+/usr/lib32/libkomain.so -> /usr/lib32/libkomain.so.17
+/usr/lib32/libkomain.so.17 -> /usr/lib32/libkomain.so.17.0.0
+/usr/lib32/libkomain.so.17.0.0
+/usr/lib32/libkoodf.so -> /usr/lib32/libkoodf.so.17
+/usr/lib32/libkoodf.so.17 -> /usr/lib32/libkoodf.so.17.0.0
+/usr/lib32/libkoodf.so.17.0.0
+/usr/lib32/libkopageapp.so -> /usr/lib32/libkopageapp.so.17
+/usr/lib32/libkopageapp.so.17 -> /usr/lib32/libkopageapp.so.17.0.0
+/usr/lib32/libkopageapp.so.17.0.0
+/usr/lib32/libkoplugin.so -> /usr/lib32/libkoplugin.so.17
+/usr/lib32/libkoplugin.so.17 -> /usr/lib32/libkoplugin.so.17.0.0
+/usr/lib32/libkoplugin.so.17.0.0
+/usr/lib32/libkostore.so -> /usr/lib32/libkostore.so.17
+/usr/lib32/libkostore.so.17 -> /usr/lib32/libkostore.so.17.0.0
+/usr/lib32/libkostore.so.17.0.0
+/usr/lib32/libkotext.so -> /usr/lib32/libkotext.so.17
+/usr/lib32/libkotext.so.17 -> /usr/lib32/libkotext.so.17.0.0
+/usr/lib32/libkotext.so.17.0.0
+/usr/lib32/libkotextlayout.so -> /usr/lib32/libkotextlayout.so.17
+/usr/lib32/libkotextlayout.so.17 -> /usr/lib32/libkotextlayout.so.17.0.0
+/usr/lib32/libkotextlayout.so.17.0.0
+/usr/lib32/libkovectorimage.so -> /usr/lib32/libkovectorimage.so.17
+/usr/lib32/libkovectorimage.so.17 -> /usr/lib32/libkovectorimage.so.17.0.0
+/usr/lib32/libkovectorimage.so.17.0.0
+/usr/lib32/libkoversion.so -> /usr/lib32/libkoversion.so.17
+/usr/lib32/libkoversion.so.17 -> /usr/lib32/libkoversion.so.17.0.0
+/usr/lib32/libkoversion.so.17.0.0
+/usr/lib32/libkowidgets.so -> /usr/lib32/libkowidgets.so.17
+/usr/lib32/libkowidgets.so.17 -> /usr/lib32/libkowidgets.so.17.0.0
+/usr/lib32/libkowidgets.so.17.0.0
+/usr/lib32/libkowidgetutils.so -> /usr/lib32/libkowidgetutils.so.17
+/usr/lib32/libkowidgetutils.so.17 -> /usr/lib32/libkowidgetutils.so.17.0.0
+/usr/lib32/libkowidgetutils.so.17.0.0
+/usr/lib32/libkundo2.so -> /usr/lib32/libkundo2.so.17
+/usr/lib32/libkundo2.so.17 -> /usr/lib32/libkundo2.so.17.0.0
+/usr/lib32/libkundo2.so.17.0.0
+/usr/lib32/libpigmentcms.so -> /usr/lib32/libpigmentcms.so.17
+/usr/lib32/libpigmentcms.so.17 -> /usr/lib32/libpigmentcms.so.17.0.0
+/usr/lib32/libpigmentcms.so.17.0.0
+/usr/lib32/qt5/plugins/calligra/pageapptools/kopabackgroundtool.so
+/usr/lib32/qt5/plugins/calligra/tools/calligra_tool_basicflakes.so

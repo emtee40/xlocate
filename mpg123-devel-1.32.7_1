@@ -1,0 +1,10 @@
+/usr/include/fmt123.h
+/usr/include/mpg123.h
+/usr/include/out123.h
+/usr/include/syn123.h
+/usr/lib/libmpg123.so -> /usr/lib/libmpg123.so.0.48.2
+/usr/lib/libout123.so -> /usr/lib/libout123.so.0.5.1
+/usr/lib/libsyn123.so -> /usr/lib/libsyn123.so.0.2.3
+/usr/lib/pkgconfig/libmpg123.pc
+/usr/lib/pkgconfig/libout123.pc
+/usr/lib/pkgconfig/libsyn123.pc

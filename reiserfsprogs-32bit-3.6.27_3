@@ -1,0 +1,5 @@
+/usr/lib32/libreiserfscore.a
+/usr/lib32/libreiserfscore.so -> /usr/lib32/libreiserfscore.so.0.0.0
+/usr/lib32/libreiserfscore.so.0 -> /usr/lib32/libreiserfscore.so.0.0.0
+/usr/lib32/libreiserfscore.so.0.0.0
+/usr/lib32/pkgconfig/reiserfscore.pc

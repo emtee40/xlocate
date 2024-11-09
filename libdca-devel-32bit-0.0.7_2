@@ -1,0 +1,4 @@
+/usr/lib32/libdca.a
+/usr/lib32/libdca.so -> /usr/lib32/libdca.so.0.0.0
+/usr/lib32/pkgconfig/libdca.pc
+/usr/lib32/pkgconfig/libdts.pc

@@ -1,0 +1,8 @@
+/usr/lib/libKF6NetworkManagerQt.so.6 -> /usr/lib/libKF6NetworkManagerQt.so.6.7.0
+/usr/lib/libKF6NetworkManagerQt.so.6.7.0
+/usr/lib/qt6/qml/org/kde/networkmanager/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/networkmanager/libnetworkmanagerqtqml.so
+/usr/lib/qt6/qml/org/kde/networkmanager/networkmanagerqtqml.qmltypes
+/usr/lib/qt6/qml/org/kde/networkmanager/qmldir
+/usr/share/qlogging-categories6/networkmanagerqt.categories
+/usr/share/qlogging-categories6/networkmanagerqt.renamecategories

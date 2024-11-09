@@ -1,0 +1,1354 @@
+/usr/lib/firmware/INT8866RCA2.bin -> /usr/lib/firmware/ti/tas2563/INT8866RCA2.bin
+/usr/lib/firmware/TAS2XXX1EB3.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX1EB30.bin
+/usr/lib/firmware/TAS2XXX1EB30.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX1EB30.bin
+/usr/lib/firmware/TAS2XXX1EB31.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX1EB31.bin
+/usr/lib/firmware/TAS2XXX2234.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX2234.bin
+/usr/lib/firmware/TAS2XXX3870.bin -> /usr/lib/firmware/ti/tas2563/TAS2XXX3870.bin
+/usr/lib/firmware/TAS2XXX387D.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX387D.bin
+/usr/lib/firmware/TAS2XXX387E.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX387E.bin
+/usr/lib/firmware/TAS2XXX387F.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX387F.bin
+/usr/lib/firmware/TAS2XXX3880.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3880.bin
+/usr/lib/firmware/TAS2XXX3881.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3881.bin
+/usr/lib/firmware/TAS2XXX3882.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3882.bin
+/usr/lib/firmware/TAS2XXX3884.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3884.bin
+/usr/lib/firmware/TAS2XXX3886.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3886.bin
+/usr/lib/firmware/TAS2XXX38A5.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38A5.bin
+/usr/lib/firmware/TAS2XXX38A7.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38A7.bin
+/usr/lib/firmware/TAS2XXX38A8.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38A8.bin
+/usr/lib/firmware/TAS2XXX38B8.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38B8.bin
+/usr/lib/firmware/TAS2XXX38B9.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38B9.bin
+/usr/lib/firmware/TAS2XXX38BA.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38BA.bin
+/usr/lib/firmware/TAS2XXX38BB.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38BB.bin
+/usr/lib/firmware/TAS2XXX38BE.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38BE.bin
+/usr/lib/firmware/TAS2XXX38BF.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38BF.bin
+/usr/lib/firmware/TAS2XXX38C3.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/TAS2XXX38CB.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38CB.bin
+/usr/lib/firmware/TAS2XXX38CD.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38CD.bin
+/usr/lib/firmware/TAS2XXX38D3.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38D3.bin
+/usr/lib/firmware/TAS2XXX38D4.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38D4.bin
+/usr/lib/firmware/TAS2XXX38D5.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38D5.bin
+/usr/lib/firmware/TAS2XXX38D6.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38D6.bin
+/usr/lib/firmware/TAS2XXX38DF.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38DF.bin
+/usr/lib/firmware/TAS2XXX38E0.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38E0.bin
+/usr/lib/firmware/TIAS2781RCA2.bin -> /usr/lib/firmware/ti/tas2781/TIAS2781RCA2.bin
+/usr/lib/firmware/TIAS2781RCA4.bin -> /usr/lib/firmware/ti/tas2781/TIAS2781RCA4.bin
+/usr/lib/firmware/a300_pfp.fw -> /usr/lib/firmware/qcom/a300_pfp.fw
+/usr/lib/firmware/a300_pm4.fw -> /usr/lib/firmware/qcom/a300_pm4.fw
+/usr/lib/firmware/advansys/3550.bin
+/usr/lib/firmware/advansys/38C0800.bin
+/usr/lib/firmware/advansys/38C1600.bin
+/usr/lib/firmware/advansys/mcode.bin
+/usr/lib/firmware/amphion/vpu/vpu_fw_imx8_dec.bin
+/usr/lib/firmware/amphion/vpu/vpu_fw_imx8_enc.bin
+/usr/lib/firmware/as102_data1_st.hex
+/usr/lib/firmware/as102_data2_st.hex
+/usr/lib/firmware/av7110/bootcode.bin
+/usr/lib/firmware/cadence/mhdp8546.bin
+/usr/lib/firmware/cavium/cnn55xx_ae.fw
+/usr/lib/firmware/cavium/cnn55xx_se.fw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b27-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b27-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b27.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b28-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b28-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b28-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b28-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280b28.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280beb-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280beb-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280beb.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.80.0/halo_cspl_RAM_revB2_29.82.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-r1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid0-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-r1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d-spkid1-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280c4d.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbe-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbe-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbe.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbf-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbf-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbf.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc1-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc1-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc1.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc2-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc2-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc2.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc3-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc3-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc4-spkid0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc4-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cbd-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10280cc4.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c896e-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c896e-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c896e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8971.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8971.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8973.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8973.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8974.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8974.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8975-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8975-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8975.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8981-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8981-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8981-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8981-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8981.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c898e.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8971.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c898e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c898f.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8971.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c898f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8991.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8991.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8992.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8992.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8994.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8973.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8994.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8995.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8973.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8995.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-l1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c6-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c6-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89c6.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89e7-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89e7-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c89e7.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.56.0/halo_cspl_RAM_revB2_29.58.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a28-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a28-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a28-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a28-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a28.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2a-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2a-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2a-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2a-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2a.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2b-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2b-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2b-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2b-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2b.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2d-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2d-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2d-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2d-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2d.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a30-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a30-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a30-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a30-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a30.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a31-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a31-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a31-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a31-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a31.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a6e-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a6e-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a6e-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a6e-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a6e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.68.0/halo_cspl_RAM_revB2_29.70.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ad8.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8972.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ad8.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b3a-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b3a-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b3a-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b3a-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b3a.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b42.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b42.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b43.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b43.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b44.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b44.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b46.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b46.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b47.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b47.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b63-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b63-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b63-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b63-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b63.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b70.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b42.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b70.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b72.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b72.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b74.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b47.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b74.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b77.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b77.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-l1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f-r1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b8f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b92.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b92.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb4.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bde-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bde-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bde-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bde-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bde.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be0-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be0-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be0-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be0-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be0.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be1-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be1-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be1-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be1-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be1.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be2-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be2-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be2-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be2-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be2.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be3-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be3-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a29-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be5-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be5-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be5-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be5-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be5.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be6-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be6-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be6-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be6-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2c-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be6.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be7-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be7-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be7-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be7-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be7.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be8-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be8-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be8-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be8-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8a2e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be8.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be9-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be9-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be9-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be9-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8be9.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c15-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c15-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c15-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c15-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c15.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c17-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c17-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c17-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c17-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c16-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c17.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c26.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8b45.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c26.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c46.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c46.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c47.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c47.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c48.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c48.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c49.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c48.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c49.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4d.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bb3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4f-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4f-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4f-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4f-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c4f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c50-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c50-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c50-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c50-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c50.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c51-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c51-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c51-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c51-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8bdd-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c51.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c68-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c68-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c68-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c68-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c67-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c68.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c6a-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c6a-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c6a-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c6a-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c66-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c6a.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c70.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c46.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c70.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c71.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c47.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c71.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c72.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c48.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8c72.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ca4.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ca4.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ca7.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ca4.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8ca7.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cdd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cdd-spkid1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cdd-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cdd.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cde-spkid0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cde-spkid1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cde.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-r1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-103c8cf5.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104312af.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.63.0/halo_cspl_RAM_revB2_29.65.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431433.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431463-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431463-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431463-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431463-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431463.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431473-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431473-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431473-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431473-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431473.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431493-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431493-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431493-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431493-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431493.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314d3-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314d3-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314d3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314d3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314d3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314e3-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314e3-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314e3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314e3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104314e3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431533-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431533-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431533-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431533-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431533.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431573.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431663-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431663-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431663-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431483-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431663-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431663.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431683-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431683-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431683-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431683-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431683.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316a3-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316a3-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316a3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316a3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316a3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316f3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104317f3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431863.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104318d3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a20.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a30.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a40.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a50.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a60.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a63.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a83-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a83-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a83-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a83-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a83.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431a8f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03-spkid1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c03.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c33-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c33-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c33-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c33-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-104316d3-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c33.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c43.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431c9f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cdf-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cdf-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cdf-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cdf-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cdf.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431d1f-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431d1f-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431d1f-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431d1f-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431503-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431d1f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431da2.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e02-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e02-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e02-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e02-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e02.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431e12.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ed3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ee2-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ee2-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ee2.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f12.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f1f-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f1f-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f1f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431f62.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a20-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a20-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a20-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a20-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431b93-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431ccf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a40-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a40-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a40-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a40-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a30-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a50-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a50-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a50-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a50-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431cef-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a60-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a60-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a60-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10433a60-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-10431caf-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f3-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f3-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f3-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f3-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f3.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2317-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2317-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2317-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2317-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2316-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2317.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2318-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2318-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2318-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2318-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2318.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2319-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2319-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2319-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2319-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa2319.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa231a-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa231a-l0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa231a-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa231a-r0.bincfg -> /usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa231a.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3847-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3847-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3847-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3847-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3847.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.39.0/halo_cspl_RAM_revB2_29.41.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3855.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.47.0/halo_cspl_RAM_revB2_29.49.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3865-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3865-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3865.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.63.0/halo_cspl_RAM_revB2_29.65.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3866-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3866-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3866.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.63.0/halo_cspl_RAM_revB2_29.65.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386f-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386f-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386f.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3877-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3877-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3877.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3878-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3878-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa386e-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa3878.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b5-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b5-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b5-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b5-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b5.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b6-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b6-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b6-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b6-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b6.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b7-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b7-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b7-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b7-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b4-spkid1-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38b7.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-r1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7-spkid0-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c7.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-r1.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8-spkid1-l1.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38c8.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38f9-spkid1-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38f9-spkid1-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38ab-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38f9.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38fa-spkid0-l0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-l0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38fa-spkid0-r0.bin -> /usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38a9-spkid0-r0.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa38fa.wmfw -> /usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot.bin
+/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-prot.wmfw
+/usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-14_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-16_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41/bincfgs/cs35l41-dsp1-19_5dB.bincfg
+/usr/lib/firmware/cirrus/cs35l41/v6.39.0/halo_cspl_RAM_revB2_29.41.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.47.0/halo_cspl_RAM_revB2_29.49.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.56.0/halo_cspl_RAM_revB2_29.58.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.61.1/halo_cspl_RAM_revB2_29.63.1.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.63.0/halo_cspl_RAM_revB2_29.65.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.68.0/halo_cspl_RAM_revB2_29.70.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.78.0/halo_cspl_RAM_revB2_29.80.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.80.0/halo_cspl_RAM_revB2_29.82.0.wmfw
+/usr/lib/firmware/cirrus/cs35l41/v6.83.0/halo_cspl_RAM_revB2_29.85.0.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp3.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp4.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.18.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d08-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d08-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d08-amp3.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp3.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d08-amp4.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d01-amp4.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d08.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.18.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d85-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d85-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d85-amp3.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d85-amp4.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d85.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d86-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d86-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d86-amp3.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d86-amp4.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d86.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8c-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8c-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8c.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8d-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8d-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8d.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8f-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8f-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8f.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d91-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d91-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d91.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e14-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e14-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e14.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e16-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e14-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e16-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e14-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e16.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e17-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e17-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e17.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e18-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e18-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e18.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e19-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e19-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e19.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1a-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1a-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e15-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1a.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1b-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1b-amp2.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1b.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1c-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1b-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1c-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1b-amp1.bin
+/usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8e1c.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid1-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid1-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid0-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid0-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid1-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid1-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c63-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid0-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid0-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid1-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid1-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280c6b-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c52-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c52-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c52-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c52-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c52.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d91-amp1.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d91-amp2.bin -> /usr/lib/firmware/cirrus/cs35l54-b0-dsp1-misc-103c8d8e-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d91.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d92-amp1.bin -> /usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d92-amp2.bin -> /usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d92.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8e2c-amp1.bin -> /usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8e2c-amp2.bin -> /usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8d90-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8e2c.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431b13-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431c63-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431df3-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431df3-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431df3-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431df3-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431df3.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e13-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e13-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e13-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e13-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e13.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e63-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid0-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid0-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid1-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid1-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431e83-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431f43-amp1.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431f43-amp2.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431f43-amp3.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431f43-amp4.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10431f43.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid0-ampl.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid0-ampr.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid0.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.20.wmfw
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid1-ampl.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid1-ampr.bin
+/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-17aa380e-spkid1.wmfw -> /usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.20.wmfw
+/usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.1.wmfw
+/usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.11.wmfw
+/usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw
+/usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.18.wmfw
+/usr/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.20.wmfw
+/usr/lib/firmware/cis/3CCFEM556.cis
+/usr/lib/firmware/cis/3CXEM556.cis
+/usr/lib/firmware/cis/COMpad2.cis
+/usr/lib/firmware/cis/COMpad4.cis
+/usr/lib/firmware/cis/DP83903.cis
+/usr/lib/firmware/cis/LA-PCM.cis
+/usr/lib/firmware/cis/MT5634ZLX.cis
+/usr/lib/firmware/cis/NE2K.cis
+/usr/lib/firmware/cis/PCMLM28.cis
+/usr/lib/firmware/cis/PE-200.cis
+/usr/lib/firmware/cis/PE520.cis
+/usr/lib/firmware/cis/RS-COM-2P.cis
+/usr/lib/firmware/cis/SW_555_SER.cis
+/usr/lib/firmware/cis/SW_7xx_SER.cis
+/usr/lib/firmware/cis/SW_8xx_SER.cis
+/usr/lib/firmware/cis/tamarack.cis
+/usr/lib/firmware/cmmb_vega_12mhz.inp
+/usr/lib/firmware/cmmb_venice_12mhz.inp
+/usr/lib/firmware/cnm/wave521c_k3_codec_fw.bin
+/usr/lib/firmware/cpia2/stv0672_vp4.bin
+/usr/lib/firmware/cs42l43.bin
+/usr/lib/firmware/ctefx.bin
+/usr/lib/firmware/ctspeq.bin
+/usr/lib/firmware/dabusb/bitstream.bin
+/usr/lib/firmware/dabusb/firmware.fw
+/usr/lib/firmware/dpaa2/mc/mc_10.10.0_ls1088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.10.0_ls2088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.10.0_lx2160a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.14.3_ls1088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.14.3_ls2088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.14.3_lx2160a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.16.2_ls1088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.16.2_ls2088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.16.2_lx2160a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.18.0_ls1088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.18.0_ls2088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.18.0_lx2160a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.28.1_ls1088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.28.1_ls2088a.itb
+/usr/lib/firmware/dpaa2/mc/mc_10.28.1_lx2160a.itb
+/usr/lib/firmware/dsp56k/bootstrap.bin
+/usr/lib/firmware/dvb-fe-xc4000-1.4.1.fw
+/usr/lib/firmware/dvb-fe-xc5000-1.6.114.fw
+/usr/lib/firmware/dvb-fe-xc5000c-4.1.30.7.fw
+/usr/lib/firmware/dvb-usb-dib0700-1.20.fw
+/usr/lib/firmware/dvb-usb-it9135-01.fw
+/usr/lib/firmware/dvb-usb-it9135-02.fw
+/usr/lib/firmware/dvb-usb-terratec-h5-drxk.fw
+/usr/lib/firmware/dvb_nova_12mhz.inp
+/usr/lib/firmware/dvb_nova_12mhz_b0.inp
+/usr/lib/firmware/edgeport/boot.fw
+/usr/lib/firmware/edgeport/boot2.fw
+/usr/lib/firmware/edgeport/down.fw
+/usr/lib/firmware/edgeport/down2.fw
+/usr/lib/firmware/edgeport/down3.bin
+/usr/lib/firmware/emi26/bitstream.fw
+/usr/lib/firmware/emi26/firmware.fw
+/usr/lib/firmware/emi26/loader.fw
+/usr/lib/firmware/emi62/bitstream.fw
+/usr/lib/firmware/emi62/loader.fw
+/usr/lib/firmware/emi62/midi.fw
+/usr/lib/firmware/emi62/spdif.fw
+/usr/lib/firmware/ene-ub6250/ms_init.bin
+/usr/lib/firmware/ene-ub6250/ms_rdwr.bin
+/usr/lib/firmware/ene-ub6250/msp_rdwr.bin
+/usr/lib/firmware/ene-ub6250/sd_init1.bin
+/usr/lib/firmware/ene-ub6250/sd_init2.bin
+/usr/lib/firmware/ene-ub6250/sd_rdwr.bin
+/usr/lib/firmware/ess/maestro3_assp_kernel.fw
+/usr/lib/firmware/ess/maestro3_assp_minisrc.fw
+/usr/lib/firmware/f2255usb.bin
+/usr/lib/firmware/go7007/go7007fw.bin
+/usr/lib/firmware/go7007/go7007tv.bin
+/usr/lib/firmware/go7007/lr192.fw
+/usr/lib/firmware/go7007/px-m402u.fw
+/usr/lib/firmware/go7007/px-tv402u.fw
+/usr/lib/firmware/go7007/s2250-1.fw
+/usr/lib/firmware/go7007/s2250-2.fw
+/usr/lib/firmware/go7007/wis-startrek.fw
+/usr/lib/firmware/imx/sdma/sdma-imx6q.bin
+/usr/lib/firmware/imx/sdma/sdma-imx7d.bin
+/usr/lib/firmware/inside-secure/eip197_minifw/ifpp.bin
+/usr/lib/firmware/inside-secure/eip197_minifw/ipue.bin
+/usr/lib/firmware/isci/isci_firmware.bin
+/usr/lib/firmware/isdbt_nova_12mhz.inp
+/usr/lib/firmware/isdbt_nova_12mhz_b0.inp
+/usr/lib/firmware/isdbt_rio.inp
+/usr/lib/firmware/keyspan/mpr.fw
+/usr/lib/firmware/keyspan/usa18x.fw
+/usr/lib/firmware/keyspan/usa19.fw
+/usr/lib/firmware/keyspan/usa19qi.fw
+/usr/lib/firmware/keyspan/usa19qw.fw
+/usr/lib/firmware/keyspan/usa19w.fw
+/usr/lib/firmware/keyspan/usa28.fw
+/usr/lib/firmware/keyspan/usa28x.fw
+/usr/lib/firmware/keyspan/usa28xa.fw
+/usr/lib/firmware/keyspan/usa28xb.fw
+/usr/lib/firmware/keyspan/usa49w.fw
+/usr/lib/firmware/keyspan/usa49wlc.fw
+/usr/lib/firmware/keyspan_pda/keyspan_pda.fw
+/usr/lib/firmware/keyspan_pda/xircom_pgs.fw
+/usr/lib/firmware/korg/k1212.dsp
+/usr/lib/firmware/lgs8g75.fw
+/usr/lib/firmware/lt9611uxc_fw.bin
+/usr/lib/firmware/matrox/g200_warp.fw
+/usr/lib/firmware/matrox/g400_warp.fw
+/usr/lib/firmware/mediatek/mt7981_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7981_wa.bin
+/usr/lib/firmware/mediatek/mt7981_wm.bin
+/usr/lib/firmware/mediatek/mt7981_wo.bin
+/usr/lib/firmware/mediatek/mt7986_eeprom_mt7975_dual.bin
+/usr/lib/firmware/mediatek/mt7986_eeprom_mt7976.bin
+/usr/lib/firmware/mediatek/mt7986_eeprom_mt7976_dbdc.bin
+/usr/lib/firmware/mediatek/mt7986_eeprom_mt7976_dual.bin
+/usr/lib/firmware/mediatek/mt7986_rom_patch.bin
+/usr/lib/firmware/mediatek/mt7986_rom_patch_mt7975.bin
+/usr/lib/firmware/mediatek/mt7986_wa.bin
+/usr/lib/firmware/mediatek/mt7986_wm.bin
+/usr/lib/firmware/mediatek/mt7986_wm_mt7975.bin
+/usr/lib/firmware/mediatek/mt7986_wo_0.bin
+/usr/lib/firmware/mediatek/mt7986_wo_1.bin
+/usr/lib/firmware/mediatek/mt8173/vpu_d.bin
+/usr/lib/firmware/mediatek/mt8173/vpu_p.bin
+/usr/lib/firmware/mediatek/mt8183/scp.img
+/usr/lib/firmware/mediatek/mt8186/scp.img
+/usr/lib/firmware/mediatek/mt8192/scp.img
+/usr/lib/firmware/mediatek/mt8195/scp.img
+/usr/lib/firmware/mediatek/sof-tplg/sof-mt8186.tplg
+/usr/lib/firmware/mediatek/sof-tplg/sof-mt8195-mt6359-rt1019-rt5682.tplg
+/usr/lib/firmware/mediatek/sof/sof-mt8186.ldc
+/usr/lib/firmware/mediatek/sof/sof-mt8186.ri
+/usr/lib/firmware/mediatek/sof/sof-mt8195.ldc
+/usr/lib/firmware/mediatek/sof/sof-mt8195.ri
+/usr/lib/firmware/meson/vdec/g12a_h264.bin
+/usr/lib/firmware/meson/vdec/g12a_hevc_mmu.bin
+/usr/lib/firmware/meson/vdec/g12a_vp9.bin
+/usr/lib/firmware/meson/vdec/gxbb_h264.bin
+/usr/lib/firmware/meson/vdec/gxl_h263.bin
+/usr/lib/firmware/meson/vdec/gxl_h264.bin
+/usr/lib/firmware/meson/vdec/gxl_hevc.bin
+/usr/lib/firmware/meson/vdec/gxl_hevc_mmu.bin
+/usr/lib/firmware/meson/vdec/gxl_mjpeg.bin
+/usr/lib/firmware/meson/vdec/gxl_mpeg12.bin
+/usr/lib/firmware/meson/vdec/gxl_mpeg4_5.bin
+/usr/lib/firmware/meson/vdec/gxl_vp9.bin
+/usr/lib/firmware/meson/vdec/gxm_h264.bin
+/usr/lib/firmware/meson/vdec/sm1_hevc_mmu.bin -> /usr/lib/firmware/meson/vdec/g12a_hevc_mmu.bin
+/usr/lib/firmware/meson/vdec/sm1_vp9_mmu.bin
+/usr/lib/firmware/moxa/moxa-1110.fw
+/usr/lib/firmware/moxa/moxa-1130.fw
+/usr/lib/firmware/moxa/moxa-1131.fw
+/usr/lib/firmware/moxa/moxa-1150.fw
+/usr/lib/firmware/moxa/moxa-1151.fw
+/usr/lib/firmware/moxa/moxa-1250.fw
+/usr/lib/firmware/moxa/moxa-1251.fw
+/usr/lib/firmware/moxa/moxa-1410.fw
+/usr/lib/firmware/moxa/moxa-1450.fw
+/usr/lib/firmware/moxa/moxa-1451.fw
+/usr/lib/firmware/moxa/moxa-1613.fw
+/usr/lib/firmware/moxa/moxa-1618.fw
+/usr/lib/firmware/moxa/moxa-1653.fw
+/usr/lib/firmware/moxa/moxa-1658.fw
+/usr/lib/firmware/mwlwifi/88W8864.bin
+/usr/lib/firmware/mwlwifi/88W8897.bin
+/usr/lib/firmware/netronome/bpf/nic_AMDA0058-0011_2x40.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0058-0012_2x40.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0078-0011_1x100.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0081-0001_1x40.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0081-0001_4x10.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0096-0001_2x10.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0097-0001_2x40.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0097-0001_4x10_1x40.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0097-0001_8x10.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0099-0001_1x10_1x25.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0099-0001_2x10.nffw
+/usr/lib/firmware/netronome/bpf/nic_AMDA0099-0001_2x25.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0011_1x100.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0011_2x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0011_4x10_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0011_8x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0012_1x100.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0012_2x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0012_4x10_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058-0012_8x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0011_1x100.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0011_2x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0011_4x10_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0011_8x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0012_1x100.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0012_2x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0012_4x10_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0078-0012_8x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0058.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0081-0001_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0081-0001_4x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0081.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0096-0001_2x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0096.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0096.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0097-0001_2x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0097-0001_4x10_1x40.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0097-0001_8x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0097.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0099-0001_1x10_1x25.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0099.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0099-0001_2x10.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0099.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0099-0001_2x25.nffw -> /usr/lib/firmware/netronome/flower/nic_AMDA0099.nffw
+/usr/lib/firmware/netronome/flower/nic_AMDA0099.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0058-0011_2x40.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0058-0012_2x40.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0078-0011_1x100.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0081-0001_1x40.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0081-0001_4x10.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0096-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0097-0001_2x40.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0097-0001_4x10_1x40.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0097-0001_8x10.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0099-0001_1x10_1x25.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0099-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic-sriov/nic_AMDA0099-0001_2x25.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0058-0011_2x40.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0058-0012_2x40.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0078-0011_1x100.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0081-0001_1x40.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0081-0001_4x10.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0096-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_2x40.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_4x10_1x40.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_8x10.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_1x10_1x25.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_2x25.nffw
+/usr/lib/firmware/netronome/nic_AMDA0058-0011_2x40.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0058-0011_2x40.nffw
+/usr/lib/firmware/netronome/nic_AMDA0058-0012_2x40.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0058-0012_2x40.nffw
+/usr/lib/firmware/netronome/nic_AMDA0078-0011_1x100.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0078-0011_1x100.nffw
+/usr/lib/firmware/netronome/nic_AMDA0081-0001_1x40.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0081-0001_1x40.nffw
+/usr/lib/firmware/netronome/nic_AMDA0081-0001_4x10.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0081-0001_4x10.nffw
+/usr/lib/firmware/netronome/nic_AMDA0096-0001_2x10.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0096-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic_AMDA0097-0001_2x40.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_2x40.nffw
+/usr/lib/firmware/netronome/nic_AMDA0097-0001_4x10_1x40.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_4x10_1x40.nffw
+/usr/lib/firmware/netronome/nic_AMDA0097-0001_8x10.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0097-0001_8x10.nffw
+/usr/lib/firmware/netronome/nic_AMDA0099-0001_1x10_1x25.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_1x10_1x25.nffw
+/usr/lib/firmware/netronome/nic_AMDA0099-0001_2x10.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_2x10.nffw
+/usr/lib/firmware/netronome/nic_AMDA0099-0001_2x25.nffw -> /usr/lib/firmware/netronome/nic/nic_AMDA0099-0001_2x25.nffw
+/usr/lib/firmware/ositech/Xilinx7OD.bin
+/usr/lib/firmware/powervr/rogue_33.15.11.3_v1.fw
+/usr/lib/firmware/qat_402xx.bin
+/usr/lib/firmware/qat_402xx_mmp.bin
+/usr/lib/firmware/qat_4xxx.bin
+/usr/lib/firmware/qat_4xxx_mmp.bin
+/usr/lib/firmware/qat_895xcc.bin
+/usr/lib/firmware/qat_895xcc_mmp.bin
+/usr/lib/firmware/qat_c3xxx.bin
+/usr/lib/firmware/qat_c3xxx_mmp.bin
+/usr/lib/firmware/qat_c62x.bin
+/usr/lib/firmware/qat_c62x_mmp.bin
+/usr/lib/firmware/qat_mmp.bin -> /usr/lib/firmware/qat_895xcc_mmp.bin
+/usr/lib/firmware/r128/r128_cce.bin
+/usr/lib/firmware/r8a779x_usb3_v1.dlmem
+/usr/lib/firmware/r8a779x_usb3_v2.dlmem
+/usr/lib/firmware/r8a779x_usb3_v3.dlmem
+/usr/lib/firmware/realtek/rt1320/rt1320-patch-code-vab.bin
+/usr/lib/firmware/realtek/rt1320/rt1320-patch-code-vc.bin
+/usr/lib/firmware/rockchip/dptx.bin
+/usr/lib/firmware/rp2.fw
+/usr/lib/firmware/s2250.fw -> /usr/lib/firmware/go7007/s2250-2.fw
+/usr/lib/firmware/s2250_loader.fw -> /usr/lib/firmware/go7007/s2250-1.fw
+/usr/lib/firmware/s5p-mfc-v12.fw
+/usr/lib/firmware/s5p-mfc-v6-v2.fw
+/usr/lib/firmware/s5p-mfc-v6.fw
+/usr/lib/firmware/s5p-mfc-v7.fw
+/usr/lib/firmware/s5p-mfc-v8.fw
+/usr/lib/firmware/s5p-mfc.fw
+/usr/lib/firmware/sb16/alaw_main.csp
+/usr/lib/firmware/sb16/ima_adpcm_capture.csp
+/usr/lib/firmware/sb16/ima_adpcm_init.csp
+/usr/lib/firmware/sb16/ima_adpcm_playback.csp
+/usr/lib/firmware/sb16/mulaw_main.csp
+/usr/lib/firmware/sms1xxx-hcw-55xxx-dvbt-02.fw
+/usr/lib/firmware/sms1xxx-hcw-55xxx-isdbt-02.fw
+/usr/lib/firmware/sms1xxx-nova-a-dvbt-01.fw -> /usr/lib/firmware/sms1xxx-hcw-55xxx-dvbt-02.fw
+/usr/lib/firmware/sms1xxx-nova-b-dvbt-01.fw
+/usr/lib/firmware/sms1xxx-stellar-dvbt-01.fw
+/usr/lib/firmware/sxg/saharadbgdownloadB.sys
+/usr/lib/firmware/sxg/saharadownloadB.sys
+/usr/lib/firmware/tdmb_nova_12mhz.inp
+/usr/lib/firmware/ti-keystone/ks2_qmss_pdsp_acc48_k2_le_1_0_0_9.bin
+/usr/lib/firmware/ti/tas2563/INT8866RCA2.bin
+/usr/lib/firmware/ti/tas2563/TAS2XXX3870.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX1EB30.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX1EB31.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX2234.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX387D.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX387E.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX387F.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX3880.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX3881.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX3882.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX3881.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX3884.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX3886.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38A5.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38A7.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38A8.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38B8.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38B9.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38BA.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38BB.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38BE.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38BF.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38CB.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38CD.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38D3.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38D4.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38D5.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38D6.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38DF.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/ti/tas2781/TAS2XXX38E0.bin -> /usr/lib/firmware/ti/tas2781/TAS2XXX38C3.bin
+/usr/lib/firmware/ti/tas2781/TIAS2781RCA2.bin
+/usr/lib/firmware/ti/tas2781/TIAS2781RCA4.bin
+/usr/lib/firmware/ti/vpdma-1b8.bin
+/usr/lib/firmware/ti_3410.fw
+/usr/lib/firmware/ti_5052.fw
+/usr/lib/firmware/tlg2300_firmware.bin
+/usr/lib/firmware/tsse_firmware.bin
+/usr/lib/firmware/ttusb-budget/dspbootcode.bin
+/usr/lib/firmware/usbdux_firmware.bin
+/usr/lib/firmware/usbduxfast_firmware.bin
+/usr/lib/firmware/usbduxsigma_firmware.bin
+/usr/lib/firmware/v4l-cx231xx-avcore-01.fw
+/usr/lib/firmware/v4l-cx23418-apu.fw
+/usr/lib/firmware/v4l-cx23418-cpu.fw
+/usr/lib/firmware/v4l-cx23418-dig.fw
+/usr/lib/firmware/v4l-cx23885-avcore-01.fw
+/usr/lib/firmware/v4l-cx25840.fw
+/usr/lib/firmware/vicam/firmware.fw
+/usr/lib/firmware/vpu_d.bin -> /usr/lib/firmware/mediatek/mt8173/vpu_d.bin
+/usr/lib/firmware/vpu_p.bin -> /usr/lib/firmware/mediatek/mt8173/vpu_p.bin
+/usr/lib/firmware/whiteheat.fw
+/usr/lib/firmware/whiteheat_loader.fw
+/usr/lib/firmware/xe/bmg_guc_70.bin
+/usr/lib/firmware/xe/bmg_huc.bin
+/usr/lib/firmware/xe/lnl_gsc_1.bin
+/usr/lib/firmware/xe/lnl_guc_70.bin
+/usr/lib/firmware/xe/lnl_huc.bin
+/usr/lib/firmware/yam/1200.bin
+/usr/lib/firmware/yam/9600.bin
+/usr/lib/firmware/yamaha/ds1_ctrl.fw
+/usr/lib/firmware/yamaha/ds1_dsp.fw
+/usr/lib/firmware/yamaha/ds1e_ctrl.fw
+/usr/lib/firmware/yamaha/yss225_registers.bin
+/usr/share/licenses/linux-firmware/LICENCE.Abilis
+/usr/share/licenses/linux-firmware/LICENCE.IntcSST2
+/usr/share/licenses/linux-firmware/LICENCE.Marvell
+/usr/share/licenses/linux-firmware/LICENCE.NXP
+/usr/share/licenses/linux-firmware/LICENCE.Netronome
+/usr/share/licenses/linux-firmware/LICENCE.OLPC
+/usr/share/licenses/linux-firmware/LICENCE.adsp_sst
+/usr/share/licenses/linux-firmware/LICENCE.agere
+/usr/share/licenses/linux-firmware/LICENCE.atheros_firmware
+/usr/share/licenses/linux-firmware/LICENCE.ca0132
+/usr/share/licenses/linux-firmware/LICENCE.cadence
+/usr/share/licenses/linux-firmware/LICENCE.cavium
+/usr/share/licenses/linux-firmware/LICENCE.cavium_liquidio
+/usr/share/licenses/linux-firmware/LICENCE.chelsio_firmware
+/usr/share/licenses/linux-firmware/LICENCE.cnm
+/usr/share/licenses/linux-firmware/LICENCE.cw1200
+/usr/share/licenses/linux-firmware/LICENCE.e100
+/usr/share/licenses/linux-firmware/LICENCE.ene_firmware
+/usr/share/licenses/linux-firmware/LICENCE.fw_sst_0f28
+/usr/share/licenses/linux-firmware/LICENCE.go7007
+/usr/share/licenses/linux-firmware/LICENCE.ibt_firmware
+/usr/share/licenses/linux-firmware/LICENCE.ish
+/usr/share/licenses/linux-firmware/LICENCE.it913x
+/usr/share/licenses/linux-firmware/LICENCE.iwlwifi_firmware
+/usr/share/licenses/linux-firmware/LICENCE.kaweth
+/usr/share/licenses/linux-firmware/LICENCE.linaro
+/usr/share/licenses/linux-firmware/LICENCE.mali_csffw
+/usr/share/licenses/linux-firmware/LICENCE.mediatek
+/usr/share/licenses/linux-firmware/LICENCE.microchip
+/usr/share/licenses/linux-firmware/LICENCE.moxa
+/usr/share/licenses/linux-firmware/LICENCE.myri10ge_firmware
+/usr/share/licenses/linux-firmware/LICENCE.open-ath9k-htc-firmware
+/usr/share/licenses/linux-firmware/LICENCE.phanfw
+/usr/share/licenses/linux-firmware/LICENCE.qat_firmware
+/usr/share/licenses/linux-firmware/LICENCE.qla1280
+/usr/share/licenses/linux-firmware/LICENCE.qla2xxx
+/usr/share/licenses/linux-firmware/LICENCE.r8a779x_usb3
+/usr/share/licenses/linux-firmware/LICENCE.ralink-firmware.txt
+/usr/share/licenses/linux-firmware/LICENCE.ralink_a_mediatek_company_firmware
+/usr/share/licenses/linux-firmware/LICENCE.rockchip
+/usr/share/licenses/linux-firmware/LICENCE.rtlwifi_firmware.txt
+/usr/share/licenses/linux-firmware/LICENCE.siano
+/usr/share/licenses/linux-firmware/LICENCE.ti-connectivity
+/usr/share/licenses/linux-firmware/LICENCE.ti-keystone
+/usr/share/licenses/linux-firmware/LICENCE.ti-tspa
+/usr/share/licenses/linux-firmware/LICENCE.ueagle-atm4-firmware
+/usr/share/licenses/linux-firmware/LICENCE.via_vt6656
+/usr/share/licenses/linux-firmware/LICENCE.wl1251
+/usr/share/licenses/linux-firmware/LICENCE.xc4000
+/usr/share/licenses/linux-firmware/LICENCE.xc5000
+/usr/share/licenses/linux-firmware/LICENCE.xc5000c
+/usr/share/licenses/linux-firmware/LICENSE.Lontium
+/usr/share/licenses/linux-firmware/LICENSE.QualcommAtheros_ar3k
+/usr/share/licenses/linux-firmware/LICENSE.QualcommAtheros_ath10k
+/usr/share/licenses/linux-firmware/LICENSE.airoha
+/usr/share/licenses/linux-firmware/LICENSE.amd-sev
+/usr/share/licenses/linux-firmware/LICENSE.amd_pmf
+/usr/share/licenses/linux-firmware/LICENSE.amdisp
+/usr/share/licenses/linux-firmware/LICENSE.amlogic
+/usr/share/licenses/linux-firmware/LICENSE.amlogic_vdec
+/usr/share/licenses/linux-firmware/LICENSE.amphion_vpu
+/usr/share/licenses/linux-firmware/LICENSE.atmel
+/usr/share/licenses/linux-firmware/LICENSE.cirrus
+/usr/share/licenses/linux-firmware/LICENSE.dib0700
+/usr/share/licenses/linux-firmware/LICENSE.hfi1_firmware
+/usr/share/licenses/linux-firmware/LICENSE.ice
+/usr/share/licenses/linux-firmware/LICENSE.ice_enhanced
+/usr/share/licenses/linux-firmware/LICENSE.ipu3_firmware
+/usr/share/licenses/linux-firmware/LICENSE.ivsc
+/usr/share/licenses/linux-firmware/LICENSE.ixp4xx
+/usr/share/licenses/linux-firmware/LICENSE.montage
+/usr/share/licenses/linux-firmware/LICENSE.nxp
+/usr/share/licenses/linux-firmware/LICENSE.nxp_mc_firmware
+/usr/share/licenses/linux-firmware/LICENSE.powervr
+/usr/share/licenses/linux-firmware/LICENSE.qcom
+/usr/share/licenses/linux-firmware/LICENSE.qcom_yamato
+/usr/share/licenses/linux-firmware/LICENSE.sdma_firmware
+/usr/share/licenses/linux-firmware/LICENSE.xe
+/usr/share/licenses/linux-firmware/WHENCE

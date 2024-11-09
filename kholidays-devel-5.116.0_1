@@ -1,0 +1,20 @@
+/usr/include/KF5/KHolidays/KHolidays/AstroSeasons
+/usr/include/KF5/KHolidays/KHolidays/Holiday
+/usr/include/KF5/KHolidays/KHolidays/HolidayRegion
+/usr/include/KF5/KHolidays/KHolidays/LunarPhase
+/usr/include/KF5/KHolidays/KHolidays/SunRiseSet
+/usr/include/KF5/KHolidays/KHolidays/Zodiac
+/usr/include/KF5/KHolidays/kholidays/astroseasons.h
+/usr/include/KF5/KHolidays/kholidays/holiday.h
+/usr/include/KF5/KHolidays/kholidays/holidayregion.h
+/usr/include/KF5/KHolidays/kholidays/kholidays_export.h
+/usr/include/KF5/KHolidays/kholidays/lunarphase.h
+/usr/include/KF5/KHolidays/kholidays/sunriseset.h
+/usr/include/KF5/KHolidays/kholidays/zodiac.h
+/usr/include/KF5/KHolidays/kholidays_version.h
+/usr/lib/cmake/KF5Holidays/KF5HolidaysConfig.cmake
+/usr/lib/cmake/KF5Holidays/KF5HolidaysConfigVersion.cmake
+/usr/lib/cmake/KF5Holidays/KF5HolidaysTargets-none.cmake
+/usr/lib/cmake/KF5Holidays/KF5HolidaysTargets.cmake
+/usr/lib/libKF5Holidays.so -> /usr/lib/libKF5Holidays.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KHolidays.pri

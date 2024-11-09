@@ -1,0 +1,12 @@
+/usr/lib32/libKPim5AkonadiAgentBase.so.5 -> /usr/lib32/libKPim5AkonadiAgentBase.so.5.24.5
+/usr/lib32/libKPim5AkonadiAgentBase.so.5.24.5
+/usr/lib32/libKPim5AkonadiCore.so.5 -> /usr/lib32/libKPim5AkonadiCore.so.5.24.5
+/usr/lib32/libKPim5AkonadiCore.so.5.24.5
+/usr/lib32/libKPim5AkonadiPrivate.so.5 -> /usr/lib32/libKPim5AkonadiPrivate.so.5.24.5
+/usr/lib32/libKPim5AkonadiPrivate.so.5.24.5
+/usr/lib32/libKPim5AkonadiWidgets.so.5 -> /usr/lib32/libKPim5AkonadiWidgets.so.5.24.5
+/usr/lib32/libKPim5AkonadiWidgets.so.5.24.5
+/usr/lib32/libKPim5AkonadiXml.so.5 -> /usr/lib32/libKPim5AkonadiXml.so.5.24.5
+/usr/lib32/libKPim5AkonadiXml.so.5.24.5
+/usr/lib32/qt5/plugins/designer/akonadi5widgets.so
+/usr/lib32/qt5/plugins/pim5/akonadi/akonadi_test_searchplugin.so

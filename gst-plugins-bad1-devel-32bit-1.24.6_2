@@ -1,0 +1,39 @@
+/usr/lib32/libgstadaptivedemux-1.0.so -> /usr/lib32/libgstadaptivedemux-1.0.so.0
+/usr/lib32/libgstanalytics-1.0.so -> /usr/lib32/libgstanalytics-1.0.so.0
+/usr/lib32/libgstbadaudio-1.0.so -> /usr/lib32/libgstbadaudio-1.0.so.0
+/usr/lib32/libgstbasecamerabinsrc-1.0.so -> /usr/lib32/libgstbasecamerabinsrc-1.0.so.0
+/usr/lib32/libgstcodecparsers-1.0.so -> /usr/lib32/libgstcodecparsers-1.0.so.0
+/usr/lib32/libgstcodecs-1.0.so -> /usr/lib32/libgstcodecs-1.0.so.0
+/usr/lib32/libgstcuda-1.0.so -> /usr/lib32/libgstcuda-1.0.so.0
+/usr/lib32/libgstdxva-1.0.so -> /usr/lib32/libgstdxva-1.0.so.0
+/usr/lib32/libgstinsertbin-1.0.so -> /usr/lib32/libgstinsertbin-1.0.so.0
+/usr/lib32/libgstisoff-1.0.so -> /usr/lib32/libgstisoff-1.0.so.0
+/usr/lib32/libgstmpegts-1.0.so -> /usr/lib32/libgstmpegts-1.0.so.0
+/usr/lib32/libgstmse-1.0.so -> /usr/lib32/libgstmse-1.0.so.0
+/usr/lib32/libgstphotography-1.0.so -> /usr/lib32/libgstphotography-1.0.so.0
+/usr/lib32/libgstplay-1.0.so -> /usr/lib32/libgstplay-1.0.so.0
+/usr/lib32/libgstplayer-1.0.so -> /usr/lib32/libgstplayer-1.0.so.0
+/usr/lib32/libgstsctp-1.0.so -> /usr/lib32/libgstsctp-1.0.so.0
+/usr/lib32/libgsttranscoder-1.0.so -> /usr/lib32/libgsttranscoder-1.0.so.0
+/usr/lib32/libgsturidownloader-1.0.so -> /usr/lib32/libgsturidownloader-1.0.so.0
+/usr/lib32/libgstva-1.0.so -> /usr/lib32/libgstva-1.0.so.0
+/usr/lib32/libgstwayland-1.0.so -> /usr/lib32/libgstwayland-1.0.so.0
+/usr/lib32/libgstwebrtc-1.0.so -> /usr/lib32/libgstwebrtc-1.0.so.0
+/usr/lib32/libgstwebrtcnice-1.0.so -> /usr/lib32/libgstwebrtcnice-1.0.so.0
+/usr/lib32/pkgconfig/gstreamer-analytics-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-bad-audio-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-codecparsers-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-cuda-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-insertbin-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-mpegts-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-mse-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-photography-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-play-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-player-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-plugins-bad-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-sctp-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-transcoder-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-va-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-wayland-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-webrtc-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-webrtc-nice-1.0.pc

@@ -1,0 +1,2 @@
+/usr/lib32/libbaccats-mysql-13.0.3.so
+/usr/lib32/libbaccats-mysql.so -> /usr/lib32/libbaccats-mysql-13.0.3.so

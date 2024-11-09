@@ -1,0 +1,10 @@
+/usr/bin/ges-launch-1.0
+/usr/lib/girepository-1.0/GES-1.0.typelib
+/usr/lib/gst-validate-launcher/python/launcher/apps/geslaunch.py
+/usr/lib/gstreamer-1.0/libgstges.so
+/usr/lib/gstreamer-1.0/libgstnle.so
+/usr/lib/libges-1.0.so.0 -> /usr/lib/libges-1.0.so.0.2406.0
+/usr/lib/libges-1.0.so.0.2406.0
+/usr/lib/python3.12/site-packages/gi/overrides/GES.py
+/usr/share/gstreamer-1.0/validate/scenarios/ges-edit-clip-while-paused.scenario
+/usr/share/man/man1/ges-launch-1.0.1

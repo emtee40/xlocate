@@ -1,0 +1,3 @@
+/usr/lib32/librnnoise.a
+/usr/lib32/librnnoise.so -> /usr/lib32/librnnoise.so.0.4.1
+/usr/lib32/pkgconfig/rnnoise.pc

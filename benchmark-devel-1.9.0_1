@@ -1,0 +1,10 @@
+/usr/include/benchmark/benchmark.h
+/usr/include/benchmark/export.h
+/usr/lib/cmake/benchmark/benchmarkConfig.cmake
+/usr/lib/cmake/benchmark/benchmarkConfigVersion.cmake
+/usr/lib/cmake/benchmark/benchmarkTargets-none.cmake
+/usr/lib/cmake/benchmark/benchmarkTargets.cmake
+/usr/lib/libbenchmark.so -> /usr/lib/libbenchmark.so.1
+/usr/lib/libbenchmark_main.so -> /usr/lib/libbenchmark_main.so.1
+/usr/lib/pkgconfig/benchmark.pc
+/usr/lib/pkgconfig/benchmark_main.pc

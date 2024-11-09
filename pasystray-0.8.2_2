@@ -1,0 +1,7 @@
+/etc/xdg/autostart/pasystray.desktop
+/usr/bin/pasystray
+/usr/share/applications/pasystray.desktop
+/usr/share/icons/hicolor/scalable/apps/pasystray.svg
+/usr/share/man/man1/pasystray.1
+/usr/share/pasystray/pasystray.gtk3.glade
+/usr/share/pixmaps/pasystray.png

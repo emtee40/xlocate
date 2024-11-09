@@ -1,0 +1,7 @@
+/usr/lib32/libnfsidmap.so -> /usr/lib32/libnfsidmap.so.1.0.0
+/usr/lib32/libnfsidmap.so.1 -> /usr/lib32/libnfsidmap.so.1.0.0
+/usr/lib32/libnfsidmap.so.1.0.0
+/usr/lib32/libnfsidmap/nsswitch.so
+/usr/lib32/libnfsidmap/static.so
+/usr/lib32/libnfsidmap/umich_ldap.so
+/usr/lib32/pkgconfig/libnfsidmap.pc

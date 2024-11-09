@@ -1,0 +1,5 @@
+/usr/lib32/libcsfml-audio.so -> /usr/lib32/libcsfml-audio.so.2.5
+/usr/lib32/libcsfml-graphics.so -> /usr/lib32/libcsfml-graphics.so.2.5
+/usr/lib32/libcsfml-network.so -> /usr/lib32/libcsfml-network.so.2.5
+/usr/lib32/libcsfml-system.so -> /usr/lib32/libcsfml-system.so.2.5
+/usr/lib32/libcsfml-window.so -> /usr/lib32/libcsfml-window.so.2.5

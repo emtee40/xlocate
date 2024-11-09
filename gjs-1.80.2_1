@@ -1,0 +1,8 @@
+/usr/bin/gjs -> /usr/bin/gjs-console
+/usr/bin/gjs-console
+/usr/lib/gjs/girepository-1.0/GjsPrivate-1.0.typelib
+/usr/lib/libgjs.so.0 -> /usr/lib/libgjs.so.0.0.0
+/usr/lib/libgjs.so.0.0.0
+/usr/share/gjs-1.0/lsan/lsan.supp
+/usr/share/gjs-1.0/valgrind/gjs.supp
+/usr/share/licenses/gjs/COPYING

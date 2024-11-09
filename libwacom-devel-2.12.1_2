@@ -1,0 +1,3 @@
+/usr/include/libwacom-1.0/libwacom/libwacom.h
+/usr/lib/libwacom.so -> /usr/lib/libwacom.so.9
+/usr/lib/pkgconfig/libwacom.pc

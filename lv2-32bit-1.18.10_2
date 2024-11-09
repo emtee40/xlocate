@@ -1,0 +1,8 @@
+/usr/lib32/lv2/eg-amp.lv2/amp.so
+/usr/lib32/lv2/eg-fifths.lv2/fifths.so
+/usr/lib32/lv2/eg-metro.lv2/metro.so
+/usr/lib32/lv2/eg-midigate.lv2/midigate.so
+/usr/lib32/lv2/eg-params.lv2/params.so
+/usr/lib32/lv2/eg-sampler.lv2/sampler.so
+/usr/lib32/lv2/eg-scope.lv2/examploscope.so
+/usr/lib32/pkgconfig/lv2.pc

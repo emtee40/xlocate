@@ -1,0 +1,5 @@
+/usr/include/oauth.h
+/usr/lib/liboauth.a
+/usr/lib/liboauth.so -> /usr/lib/liboauth.so.0.8.7
+/usr/lib/pkgconfig/oauth.pc
+/usr/share/man/man3/oauth.3

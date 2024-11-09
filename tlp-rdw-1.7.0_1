@@ -1,0 +1,5 @@
+/usr/bin/tlp-rdw
+/usr/lib/NetworkManager/dispatcher.d/99tlp-rdw-nm
+/usr/lib/udev/rules.d/85-tlp-rdw.rules
+/usr/lib/udev/tlp-rdw-udev
+/usr/share/man/man8/tlp-rdw.8

@@ -1,0 +1,76 @@
+/usr/bin/apply
+/usr/bin/calendar
+/usr/bin/jot
+/usr/bin/lam
+/usr/bin/lndir
+/usr/bin/md5
+/usr/bin/rdate
+/usr/bin/rs
+/usr/bin/sha1 -> /usr/bin/md5
+/usr/bin/sha256 -> /usr/bin/md5
+/usr/bin/sha512 -> /usr/bin/md5
+/usr/bin/signify
+/usr/bin/ts
+/usr/bin/unvis
+/usr/bin/vis
+/usr/bin/what
+/usr/share/calendar/calendar.all
+/usr/share/calendar/calendar.birthday
+/usr/share/calendar/calendar.canada
+/usr/share/calendar/calendar.christian
+/usr/share/calendar/calendar.computer
+/usr/share/calendar/calendar.croatian
+/usr/share/calendar/calendar.discord
+/usr/share/calendar/calendar.fictional
+/usr/share/calendar/calendar.french
+/usr/share/calendar/calendar.german
+/usr/share/calendar/calendar.history
+/usr/share/calendar/calendar.holiday
+/usr/share/calendar/calendar.judaic
+/usr/share/calendar/calendar.music
+/usr/share/calendar/calendar.nz
+/usr/share/calendar/calendar.openbsd
+/usr/share/calendar/calendar.pagan
+/usr/share/calendar/calendar.russian
+/usr/share/calendar/calendar.space
+/usr/share/calendar/calendar.uk
+/usr/share/calendar/calendar.ushistory
+/usr/share/calendar/calendar.usholiday
+/usr/share/calendar/calendar.world
+/usr/share/calendar/de_DE.UTF-8/calendar.all
+/usr/share/calendar/de_DE.UTF-8/calendar.feiertag
+/usr/share/calendar/de_DE.UTF-8/calendar.geschichte
+/usr/share/calendar/de_DE.UTF-8/calendar.kirche
+/usr/share/calendar/de_DE.UTF-8/calendar.literatur
+/usr/share/calendar/de_DE.UTF-8/calendar.musik
+/usr/share/calendar/de_DE.UTF-8/calendar.wissenschaft
+/usr/share/calendar/fr_FR.UTF-8/calendar.all
+/usr/share/calendar/fr_FR.UTF-8/calendar.fetes
+/usr/share/calendar/fr_FR.UTF-8/calendar.french
+/usr/share/calendar/fr_FR.UTF-8/calendar.jferies
+/usr/share/calendar/fr_FR.UTF-8/calendar.proverbes
+/usr/share/calendar/hr_HR.UTF-8/calendar.all
+/usr/share/calendar/hr_HR.UTF-8/calendar.praznici
+/usr/share/calendar/ru_RU.UTF-8/calendar.all
+/usr/share/calendar/ru_RU.UTF-8/calendar.common
+/usr/share/calendar/ru_RU.UTF-8/calendar.history
+/usr/share/calendar/ru_RU.UTF-8/calendar.orthodox
+/usr/share/calendar/ru_RU.UTF-8/calendar.pagan
+/usr/share/calendar/ru_RU.UTF-8/calendar.primety
+/usr/share/licenses/outils/LICENSE
+/usr/share/man/man1/apply.1
+/usr/share/man/man1/calendar.1
+/usr/share/man/man1/jot.1
+/usr/share/man/man1/lam.1
+/usr/share/man/man1/lndir.1
+/usr/share/man/man1/md5.1
+/usr/share/man/man1/rs.1
+/usr/share/man/man1/sha1.1 -> /usr/share/man/man1/md5.1
+/usr/share/man/man1/sha256.1 -> /usr/share/man/man1/md5.1
+/usr/share/man/man1/sha512.1 -> /usr/share/man/man1/md5.1
+/usr/share/man/man1/signify.1
+/usr/share/man/man1/ts.1
+/usr/share/man/man1/unvis.1
+/usr/share/man/man1/vis.1
+/usr/share/man/man1/what.1
+/usr/share/man/man8/rdate.8

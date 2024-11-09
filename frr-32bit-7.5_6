@@ -1,0 +1,4 @@
+/usr/lib32/frr/modules/bgpd_bmp.so
+/usr/lib32/frr/modules/dplane_fpm_nl.so
+/usr/lib32/frr/modules/zebra_cumulus_mlag.so
+/usr/lib32/frr/modules/zebra_irdp.so

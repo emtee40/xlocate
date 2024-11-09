@@ -1,0 +1,50 @@
+/usr/bin/checkcites -> /usr/share/texmf-dist/scripts/checkcites/checkcites.lua
+/usr/bin/cllualatex -> /usr/bin/cluttex
+/usr/bin/cluttex -> /usr/share/texmf-dist/scripts/cluttex/cluttex.lua
+/usr/bin/diadia -> ../share/texmf-dist/scripts/diadia/diadia.lua
+/usr/bin/digestif -> /usr/share/texmf-dist/scripts/digestif/digestif.texlua
+/usr/bin/dvilualatex -> /usr/bin/luatex
+/usr/bin/dviluatex -> /usr/bin/luatex
+/usr/bin/getmapdl -> /usr/share/texmf-dist/scripts/getmap/getmapdl.lua
+/usr/bin/l3build -> ../share/texmf-dist/scripts/l3build/l3build.lua
+/usr/bin/luafindfont -> /usr/share/texmf-dist/scripts/luafindfont/luafindfont.lua
+/usr/bin/luahbtex
+/usr/bin/luajithbtex
+/usr/bin/luajittex
+/usr/bin/lualatex -> /usr/bin/luahbtex
+/usr/bin/luaotfload-tool -> /usr/share/texmf-dist/scripts/luaotfload/luaotfload-tool.lua
+/usr/bin/luatex
+/usr/bin/lwarpmk -> /usr/share/texmf-dist/scripts/lwarp/lwarpmk.lua
+/usr/bin/m-tx -> ../share/texmf-dist/scripts/m-tx/m-tx.lua
+/usr/bin/makeglossaries-lite -> /usr/share/texmf-dist/scripts/glossaries/makeglossaries-lite.lua
+/usr/bin/mflua
+/usr/bin/mflua-nowin -> /usr/bin/mflua
+/usr/bin/mfluajit
+/usr/bin/mfluajit-nowin
+/usr/bin/musixflx -> ../share/texmf-dist/scripts/musixtex/musixflx.lua
+/usr/bin/musixtex -> ../share/texmf-dist/scripts/musixtex/musixtex.lua
+/usr/bin/optex -> /usr/bin/luatex
+/usr/bin/pmxchords -> ../share/texmf-dist/scripts/pmxchords/pmxchords.lua
+/usr/bin/ptex2pdf -> /usr/share/texmf-dist/scripts/ptex2pdf/ptex2pdf.lua
+/usr/bin/texlua -> /usr/bin/luatex
+/usr/bin/texluac -> /usr/bin/luatex
+/usr/bin/texluajit -> /usr/bin/luajittex
+/usr/bin/texluajitc -> /usr/bin/luajittex
+/usr/bin/xindex -> /usr/share/texmf-dist/scripts/xindex/xindex.lua
+/usr/lib/libtexlua53.so.5 -> /usr/lib/libtexlua53.so.5.3.6
+/usr/lib/libtexlua53.so.5.3.6
+/usr/lib/libtexluajit.so.2 -> /usr/lib/libtexluajit.so.2.1.0
+/usr/lib/libtexluajit.so.2.1.0
+/usr/share/man/man1/luatex.1
+/usr/share/man/man1/texlua.1
+/usr/share/man/man1/texluac.1
+/usr/share/texmf-dist/scripts/checkcites/checkcites.lua
+/usr/share/texmf-dist/scripts/cluttex/cluttex.lua
+/usr/share/texmf-dist/scripts/digestif/digestif.texlua
+/usr/share/texmf-dist/scripts/getmap/getmapdl.lua
+/usr/share/texmf-dist/scripts/glossaries/makeglossaries-lite.lua
+/usr/share/texmf-dist/scripts/luafindfont/luafindfont.lua
+/usr/share/texmf-dist/scripts/luaotfload/luaotfload-tool.lua
+/usr/share/texmf-dist/scripts/lwarp/lwarpmk.lua
+/usr/share/texmf-dist/scripts/ptex2pdf/ptex2pdf.lua
+/usr/share/texmf-dist/scripts/xindex/xindex.lua

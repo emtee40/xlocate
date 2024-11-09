@@ -1,0 +1,14 @@
+/usr/bin/capnp
+/usr/bin/capnpc -> /usr/bin/capnp
+/usr/bin/capnpc-c++
+/usr/bin/capnpc-capnp
+/usr/lib/libcapnp-0.10.2.so
+/usr/lib/libcapnp-json-0.10.2.so
+/usr/lib/libcapnp-rpc-0.10.2.so
+/usr/lib/libcapnp-websocket-0.10.2.so
+/usr/lib/libcapnpc-0.10.2.so
+/usr/lib/libkj-0.10.2.so
+/usr/lib/libkj-async-0.10.2.so
+/usr/lib/libkj-http-0.10.2.so
+/usr/lib/libkj-test-0.10.2.so
+/usr/share/licenses/capnproto/LICENSE.txt

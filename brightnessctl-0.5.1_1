@@ -1,0 +1,4 @@
+/usr/bin/brightnessctl
+/usr/lib/udev/rules.d/90-brightnessctl.rules
+/usr/share/licenses/brightnessctl/LICENSE
+/usr/share/man/man1/brightnessctl.1

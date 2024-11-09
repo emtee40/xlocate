@@ -1,0 +1,5 @@
+/usr/lib32/libCHART-1.6.a
+/usr/lib32/libCHART-1.6.so -> /usr/lib32/libCHART-1.6.so.0.0.57
+/usr/lib32/libFOX-1.6.a
+/usr/lib32/libFOX-1.6.so -> /usr/lib32/libFOX-1.6.so.0.0.57
+/usr/lib32/pkgconfig/fox.pc

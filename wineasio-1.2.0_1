@@ -1,0 +1,4 @@
+/usr/bin/wineasio-register
+/usr/lib/wine/x86_64-unix/wineasio64.dll.so
+/usr/lib/wine/x86_64-windows/wineasio64.dll
+/usr/share/doc/wineasio/README.voidlinux

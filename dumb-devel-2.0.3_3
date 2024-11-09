@@ -1,0 +1,3 @@
+/usr/include/dumb.h
+/usr/lib/libdumb.so -> /usr/lib/libdumb.so.2
+/usr/lib/pkgconfig/dumb.pc

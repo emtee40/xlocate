@@ -1,0 +1,5 @@
+/usr/lib/sasl2/libxoauth2.a
+/usr/lib/sasl2/libxoauth2.so -> /usr/lib/sasl2/libxoauth2.so.0.0.0
+/usr/lib/sasl2/libxoauth2.so.0 -> /usr/lib/sasl2/libxoauth2.so.0.0.0
+/usr/lib/sasl2/libxoauth2.so.0.0.0
+/usr/share/licenses/cyrus-sasl-xoauth2/COPYING

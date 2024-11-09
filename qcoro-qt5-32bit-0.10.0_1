@@ -1,0 +1,18 @@
+/usr/lib32/libQCoro5Core.so -> /usr/lib32/libQCoro5Core.so.0
+/usr/lib32/libQCoro5Core.so.0 -> /usr/lib32/libQCoro5Core.so.0.10.0
+/usr/lib32/libQCoro5Core.so.0.10.0
+/usr/lib32/libQCoro5DBus.so -> /usr/lib32/libQCoro5DBus.so.0
+/usr/lib32/libQCoro5DBus.so.0 -> /usr/lib32/libQCoro5DBus.so.0.10.0
+/usr/lib32/libQCoro5DBus.so.0.10.0
+/usr/lib32/libQCoro5Network.so -> /usr/lib32/libQCoro5Network.so.0
+/usr/lib32/libQCoro5Network.so.0 -> /usr/lib32/libQCoro5Network.so.0.10.0
+/usr/lib32/libQCoro5Network.so.0.10.0
+/usr/lib32/libQCoro5Qml.so -> /usr/lib32/libQCoro5Qml.so.0
+/usr/lib32/libQCoro5Qml.so.0 -> /usr/lib32/libQCoro5Qml.so.0.10.0
+/usr/lib32/libQCoro5Qml.so.0.10.0
+/usr/lib32/libQCoro5Quick.so -> /usr/lib32/libQCoro5Quick.so.0
+/usr/lib32/libQCoro5Quick.so.0 -> /usr/lib32/libQCoro5Quick.so.0.10.0
+/usr/lib32/libQCoro5Quick.so.0.10.0
+/usr/lib32/libQCoro5WebSockets.so -> /usr/lib32/libQCoro5WebSockets.so.0
+/usr/lib32/libQCoro5WebSockets.so.0 -> /usr/lib32/libQCoro5WebSockets.so.0.10.0
+/usr/lib32/libQCoro5WebSockets.so.0.10.0

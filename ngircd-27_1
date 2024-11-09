@@ -1,0 +1,32 @@
+/etc/ngircd.conf
+/etc/sv/ngircd/log/run
+/etc/sv/ngircd/log/supervise -> /run/runit/supervise.ngircd-log
+/etc/sv/ngircd/run
+/etc/sv/ngircd/supervise -> /run/runit/supervise.ngircd
+/usr/bin/ngircd
+/usr/share/doc/ngircd/AUTHORS.md
+/usr/share/doc/ngircd/Bopm.txt
+/usr/share/doc/ngircd/COPYING
+/usr/share/doc/ngircd/Capabilities.txt
+/usr/share/doc/ngircd/ChangeLog
+/usr/share/doc/ngircd/Commands.txt
+/usr/share/doc/ngircd/Container.md
+/usr/share/doc/ngircd/Contributing.txt
+/usr/share/doc/ngircd/FAQ.md
+/usr/share/doc/ngircd/HowToRelease.txt
+/usr/share/doc/ngircd/INSTALL.md
+/usr/share/doc/ngircd/Modes.txt
+/usr/share/doc/ngircd/NEWS
+/usr/share/doc/ngircd/PAM.txt
+/usr/share/doc/ngircd/Platforms.txt
+/usr/share/doc/ngircd/Protocol.txt
+/usr/share/doc/ngircd/README-AUX.txt
+/usr/share/doc/ngircd/README-BeOS.txt
+/usr/share/doc/ngircd/README-Interix.txt
+/usr/share/doc/ngircd/README.md
+/usr/share/doc/ngircd/RFC.txt
+/usr/share/doc/ngircd/SSL.md
+/usr/share/doc/ngircd/Services.txt
+/usr/share/doc/ngircd/sample-ngircd.conf
+/usr/share/man/man5/ngircd.conf.5
+/usr/share/man/man8/ngircd.8

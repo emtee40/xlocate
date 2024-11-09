@@ -1,0 +1,4 @@
+/usr/lib32/libmd4c-html.so -> /usr/lib32/libmd4c-html.so.0
+/usr/lib32/libmd4c.so -> /usr/lib32/libmd4c.so.0
+/usr/lib32/pkgconfig/md4c-html.pc
+/usr/lib32/pkgconfig/md4c.pc

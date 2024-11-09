@@ -1,0 +1,10 @@
+/usr/include/KPim6/AkonadiNotes/Akonadi/NoteUtils
+/usr/include/KPim6/AkonadiNotes/akonadi-notes_version.h
+/usr/include/KPim6/AkonadiNotes/akonadi/NoteUtils
+/usr/include/KPim6/AkonadiNotes/akonadi/akonadi-notes_export.h
+/usr/include/KPim6/AkonadiNotes/akonadi/noteutils.h
+/usr/lib/cmake/KPim6AkonadiNotes/KPim6AkonadiNotesConfig.cmake
+/usr/lib/cmake/KPim6AkonadiNotes/KPim6AkonadiNotesConfigVersion.cmake
+/usr/lib/cmake/KPim6AkonadiNotes/KPim6AkonadiNotesTargets-none.cmake
+/usr/lib/cmake/KPim6AkonadiNotes/KPim6AkonadiNotesTargets.cmake
+/usr/lib/libKPim6AkonadiNotes.so -> /usr/lib/libKPim6AkonadiNotes.so.6

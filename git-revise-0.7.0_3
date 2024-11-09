@@ -1,0 +1,15 @@
+/usr/bin/git-revise
+/usr/lib/python3.12/site-packages/git_revise-0.7.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/git_revise-0.7.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/git_revise-0.7.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/git_revise-0.7.0-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/git_revise-0.7.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/gitrevise/__init__.py
+/usr/lib/python3.12/site-packages/gitrevise/__main__.py
+/usr/lib/python3.12/site-packages/gitrevise/merge.py
+/usr/lib/python3.12/site-packages/gitrevise/odb.py
+/usr/lib/python3.12/site-packages/gitrevise/todo.py
+/usr/lib/python3.12/site-packages/gitrevise/tui.py
+/usr/lib/python3.12/site-packages/gitrevise/utils.py
+/usr/share/licenses/git-revise/LICENSE
+/usr/share/man/man1/git-revise.1

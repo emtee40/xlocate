@@ -1,0 +1,17 @@
+/usr/lib32/bx/plugins/acro.so
+/usr/lib32/bx/plugins/aim.so
+/usr/lib32/bx/plugins/arcfour.so
+/usr/lib32/bx/plugins/autobot.so
+/usr/lib32/bx/plugins/autocycle.so
+/usr/lib32/bx/plugins/blowfish.so
+/usr/lib32/bx/plugins/cavlink.so
+/usr/lib32/bx/plugins/encrypt.so
+/usr/lib32/bx/plugins/fserv.so
+/usr/lib32/bx/plugins/hint.so
+/usr/lib32/bx/plugins/identd.so
+/usr/lib32/bx/plugins/nap.so
+/usr/lib32/bx/plugins/pkga.so
+/usr/lib32/bx/plugins/possum.so
+/usr/lib32/bx/plugins/qbx.so
+/usr/lib32/bx/plugins/qmail.so
+/usr/lib32/bx/plugins/wavplay.so

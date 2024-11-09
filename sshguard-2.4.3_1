@@ -1,0 +1,21 @@
+/etc/sshguard.conf
+/etc/sv/sshguard-socklog/log/run
+/etc/sv/sshguard-socklog/log/supervise -> /run/runit/supervise.sshguard-socklog-log
+/etc/sv/sshguard-socklog/run
+/etc/sv/sshguard-socklog/supervise -> /run/runit/supervise.sshguard-socklog
+/usr/bin/sshguard
+/usr/libexec/sshg-blocker
+/usr/libexec/sshg-fw-firewalld
+/usr/libexec/sshg-fw-hosts
+/usr/libexec/sshg-fw-ipfilter
+/usr/libexec/sshg-fw-ipfw
+/usr/libexec/sshg-fw-ipset
+/usr/libexec/sshg-fw-iptables
+/usr/libexec/sshg-fw-nft-sets
+/usr/libexec/sshg-fw-null
+/usr/libexec/sshg-fw-pf
+/usr/libexec/sshg-logtail
+/usr/libexec/sshg-parser
+/usr/share/licenses/sshguard/COPYING
+/usr/share/man/man7/sshguard-setup.7
+/usr/share/man/man8/sshguard.8

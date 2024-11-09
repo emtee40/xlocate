@@ -1,0 +1,7 @@
+/usr/bin/gamescope
+/usr/bin/gamescopectl
+/usr/bin/gamescopereaper
+/usr/bin/gamescopestream
+/usr/lib/libVkLayer_FROG_gamescope_wsi_x86_64.so
+/usr/share/licenses/gamescope/LICENSE
+/usr/share/vulkan/implicit_layer.d/VkLayer_FROG_gamescope_wsi.x86_64.json

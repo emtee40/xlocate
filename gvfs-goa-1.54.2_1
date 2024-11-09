@@ -1,0 +1,7 @@
+/usr/libexec/gvfs-goa-volume-monitor
+/usr/libexec/gvfsd-google
+/usr/libexec/gvfsd-onedrive
+/usr/share/dbus-1/services/org.gtk.vfs.GoaVolumeMonitor.service
+/usr/share/gvfs/mounts/google.mount
+/usr/share/gvfs/mounts/onedrive.mount
+/usr/share/gvfs/remote-volume-monitors/goa.monitor

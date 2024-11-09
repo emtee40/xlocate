@@ -1,0 +1,5 @@
+/usr/lib/znc/modperl.so
+/usr/lib/znc/modperl/ZNC.pm
+/usr/lib/znc/modperl/ZNC.so
+/usr/lib/znc/modperl/startup.pl
+/usr/lib/znc/perleval.pm

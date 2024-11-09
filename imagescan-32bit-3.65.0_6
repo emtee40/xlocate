@@ -1,0 +1,27 @@
+/usr/lib32/sane/libsane-utsushi.so -> /usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1
+/usr/lib32/sane/libsane-utsushi.so.1 -> /usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1
+/usr/lib32/sane/libsane-utsushi.so.1.2.1 -> /usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1
+/usr/lib32/utsushi/libcnx-hexdump.so -> /usr/lib32/utsushi/libcnx-hexdump.so.0.0.0
+/usr/lib32/utsushi/libcnx-hexdump.so.0 -> /usr/lib32/utsushi/libcnx-hexdump.so.0.0.0
+/usr/lib32/utsushi/libcnx-hexdump.so.0.0.0
+/usr/lib32/utsushi/libcnx-usb.so -> /usr/lib32/utsushi/libcnx-usb.so.0.0.0
+/usr/lib32/utsushi/libcnx-usb.so.0 -> /usr/lib32/utsushi/libcnx-usb.so.0.0.0
+/usr/lib32/utsushi/libcnx-usb.so.0.0.0
+/usr/lib32/utsushi/libdrv-combo.so -> /usr/lib32/utsushi/libdrv-combo.so.0.0.0
+/usr/lib32/utsushi/libdrv-combo.so.0 -> /usr/lib32/utsushi/libdrv-combo.so.0.0.0
+/usr/lib32/utsushi/libdrv-combo.so.0.0.0
+/usr/lib32/utsushi/libdrv-esci.so -> /usr/lib32/utsushi/libdrv-esci.so.0.0.0
+/usr/lib32/utsushi/libdrv-esci.so.0 -> /usr/lib32/utsushi/libdrv-esci.so.0.0.0
+/usr/lib32/utsushi/libdrv-esci.so.0.0.0
+/usr/lib32/utsushi/libflt-all.so -> /usr/lib32/utsushi/libflt-all.so.0.0.0
+/usr/lib32/utsushi/libflt-all.so.0 -> /usr/lib32/utsushi/libflt-all.so.0.0.0
+/usr/lib32/utsushi/libflt-all.so.0.0.0
+/usr/lib32/utsushi/libutsushi-gtkmm.so -> /usr/lib32/utsushi/libutsushi-gtkmm.so.0.0.0
+/usr/lib32/utsushi/libutsushi-gtkmm.so.0 -> /usr/lib32/utsushi/libutsushi-gtkmm.so.0.0.0
+/usr/lib32/utsushi/libutsushi-gtkmm.so.0.0.0
+/usr/lib32/utsushi/libutsushi.so -> /usr/lib32/utsushi/libutsushi.so.0.0.0
+/usr/lib32/utsushi/libutsushi.so.0 -> /usr/lib32/utsushi/libutsushi.so.0.0.0
+/usr/lib32/utsushi/libutsushi.so.0.0.0
+/usr/lib32/utsushi/sane/libsane-utsushi.so -> /usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1
+/usr/lib32/utsushi/sane/libsane-utsushi.so.1 -> /usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1
+/usr/lib32/utsushi/sane/libsane-utsushi.so.1.2.1

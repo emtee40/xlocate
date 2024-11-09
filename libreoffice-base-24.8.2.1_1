@@ -1,0 +1,27 @@
+/usr/bin/lobase
+/usr/lib/libreoffice/program/classes/flow-engine.jar
+/usr/lib/libreoffice/program/classes/flute-1.1.6.jar
+/usr/lib/libreoffice/program/classes/libbase-1.1.6.jar
+/usr/lib/libreoffice/program/classes/libfonts-1.1.6.jar
+/usr/lib/libreoffice/program/classes/libformula-1.1.7.jar
+/usr/lib/libreoffice/program/classes/liblayout.jar
+/usr/lib/libreoffice/program/classes/libloader-1.1.6.jar
+/usr/lib/libreoffice/program/classes/librepository-1.1.6.jar
+/usr/lib/libreoffice/program/classes/libserializer-1.1.6.jar
+/usr/lib/libreoffice/program/classes/libxml-1.1.7.jar
+/usr/lib/libreoffice/program/classes/reportbuilder.jar
+/usr/lib/libreoffice/program/classes/reportbuilderwizard.jar
+/usr/lib/libreoffice/program/classes/sac.jar
+/usr/lib/libreoffice/program/libabplo.so
+/usr/lib/libreoffice/program/libdbplo.so
+/usr/lib/libreoffice/program/libdbulo.so
+/usr/lib/libreoffice/program/librptlo.so
+/usr/lib/libreoffice/program/librptuilo.so
+/usr/lib/libreoffice/program/librptxmllo.so
+/usr/lib/libreoffice/program/sbase
+/usr/lib/libreoffice/share/registry/base.xcd
+/usr/lib/libreoffice/share/registry/reportbuilder.xcd
+/usr/lib/libreoffice/share/template/common/wizard/report/default.otr
+/usr/share/applications/libreoffice-base.desktop -> /usr/lib/libreoffice/share/xdg/base.desktop
+/usr/share/man/man1/lobase.1
+/usr/share/metainfo/libreoffice-base.appdata.xml

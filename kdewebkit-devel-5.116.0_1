@@ -1,0 +1,18 @@
+/usr/include/KF5/KDEWebKit/KGraphicsWebView
+/usr/include/KF5/KDEWebKit/KWebPage
+/usr/include/KF5/KDEWebKit/KWebPluginFactory
+/usr/include/KF5/KDEWebKit/KWebView
+/usr/include/KF5/KDEWebKit/KWebWallet
+/usr/include/KF5/KDEWebKit/kdewebkit_export.h
+/usr/include/KF5/KDEWebKit/kdewebkit_version.h
+/usr/include/KF5/KDEWebKit/kgraphicswebview.h
+/usr/include/KF5/KDEWebKit/kwebpage.h
+/usr/include/KF5/KDEWebKit/kwebpluginfactory.h
+/usr/include/KF5/KDEWebKit/kwebview.h
+/usr/include/KF5/KDEWebKit/kwebwallet.h
+/usr/lib/cmake/KF5WebKit/KF5WebKitConfig.cmake
+/usr/lib/cmake/KF5WebKit/KF5WebKitConfigVersion.cmake
+/usr/lib/cmake/KF5WebKit/KF5WebKitTargets-none.cmake
+/usr/lib/cmake/KF5WebKit/KF5WebKitTargets.cmake
+/usr/lib/libKF5WebKit.so -> /usr/lib/libKF5WebKit.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KDEWebKit.pri

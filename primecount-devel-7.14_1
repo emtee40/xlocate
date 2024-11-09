@@ -1,0 +1,4 @@
+/usr/include/primecount.h
+/usr/include/primecount.hpp
+/usr/lib/libprimecount.so -> /usr/lib/libprimecount.so.7
+/usr/lib/pkgconfig/primecount.pc

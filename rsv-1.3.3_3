@@ -1,0 +1,4 @@
+/usr/bin/rsv
+/usr/share/bash-completion/completions/rsv
+/usr/share/fish/vendor_completions.d/rsv.fish
+/usr/share/zsh/site-functions/_rsv

@@ -1,0 +1,10 @@
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/QtNetworkAuth.toml
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/QtNetworkAuthmod.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qabstractoauth.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qabstractoauth2.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qabstractoauthreplyhandler.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qoauth1.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qoauth1signature.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qoauth2authorizationcodeflow.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qoauthhttpserverreplyhandler.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtNetworkAuth/qoauthoobreplyhandler.sip

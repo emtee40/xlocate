@@ -1,0 +1,5 @@
+/usr/bin/fgit
+/usr/share/fgit/error.sh
+/usr/share/fgit/usage.sh
+/usr/share/fgit/variables.sh
+/usr/share/fgit/warning.sh

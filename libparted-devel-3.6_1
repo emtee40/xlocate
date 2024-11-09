@@ -1,0 +1,17 @@
+/usr/include/parted/constraint.h
+/usr/include/parted/debug.h
+/usr/include/parted/device.h
+/usr/include/parted/disk.h
+/usr/include/parted/exception.h
+/usr/include/parted/filesys.h
+/usr/include/parted/geom.h
+/usr/include/parted/natmath.h
+/usr/include/parted/parted.h
+/usr/include/parted/timer.h
+/usr/include/parted/unit.h
+/usr/lib/libparted-fs-resize.a
+/usr/lib/libparted-fs-resize.so -> /usr/lib/libparted-fs-resize.so.0.0.5
+/usr/lib/libparted.a
+/usr/lib/libparted.so -> /usr/lib/libparted.so.2.0.5
+/usr/lib/pkgconfig/libparted-fs-resize.pc
+/usr/lib/pkgconfig/libparted.pc

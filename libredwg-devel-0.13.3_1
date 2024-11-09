@@ -1,0 +1,4 @@
+/usr/include/dwg.h
+/usr/include/dwg_api.h
+/usr/lib/libredwg.so -> /usr/lib/libredwg.so.0.0.13
+/usr/lib/pkgconfig/libredwg.pc

@@ -1,0 +1,16 @@
+/usr/lib32/ecl-24.5.10/libasdf.a
+/usr/lib32/ecl-24.5.10/libcmp.a
+/usr/lib32/ecl-24.5.10/libdeflate.a
+/usr/lib32/ecl-24.5.10/libecl-cdb.a
+/usr/lib32/ecl-24.5.10/libecl-curl.a
+/usr/lib32/ecl-24.5.10/libecl-help.a
+/usr/lib32/ecl-24.5.10/libecl-quicklisp.a
+/usr/lib32/ecl-24.5.10/libpackage-locks.a
+/usr/lib32/ecl-24.5.10/libql-minitar.a
+/usr/lib32/ecl-24.5.10/libsb-bsd-sockets.a
+/usr/lib32/ecl-24.5.10/libserve-event.a
+/usr/lib32/ecl-24.5.10/libsockets.a
+/usr/lib32/libecl.so -> /usr/lib32/libecl.so.24.5.10
+/usr/lib32/libecl.so.24 -> /usr/lib32/libecl.so.24.5.10
+/usr/lib32/libecl.so.24.5 -> /usr/lib32/libecl.so.24.5.10
+/usr/lib32/libecl.so.24.5.10

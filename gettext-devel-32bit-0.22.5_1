@@ -1,0 +1,8 @@
+/usr/lib32/libgettextlib.a
+/usr/lib32/libgettextlib.so -> /usr/lib32/libgettextlib-0.22.5.so
+/usr/lib32/libgettextpo.a
+/usr/lib32/libgettextpo.so -> /usr/lib32/libgettextpo.so.0.5.10
+/usr/lib32/libgettextsrc.a
+/usr/lib32/libgettextsrc.so -> /usr/lib32/libgettextsrc-0.22.5.so
+/usr/lib32/libtextstyle.a
+/usr/lib32/libtextstyle.so -> /usr/lib32/libtextstyle.so.0.2.1

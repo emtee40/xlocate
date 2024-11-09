@@ -1,0 +1,12 @@
+/etc/crictl.yaml
+/etc/crio/crio.conf
+/etc/crio/seccomp.json
+/usr/bin/crio
+/usr/libexec/crio/conmon
+/usr/libexec/crio/pause
+/usr/share/examples/cri-o/cni/10-crio-bridge.conf
+/usr/share/examples/cri-o/cni/99-loopback.conf
+/usr/share/examples/cri-o/cni/README.md
+/usr/share/man/man5/crio.conf.5
+/usr/share/man/man8/crio.8
+/usr/share/oci-umount/oci-umount.d/crio-umount.conf

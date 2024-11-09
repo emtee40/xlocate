@@ -1,0 +1,18 @@
+/usr/include/libyelp/yelp-bookmarks.h
+/usr/include/libyelp/yelp-docbook-document.h
+/usr/include/libyelp/yelp-document.h
+/usr/include/libyelp/yelp-help-list.h
+/usr/include/libyelp/yelp-info-document.h
+/usr/include/libyelp/yelp-mallard-document.h
+/usr/include/libyelp/yelp-man-document.h
+/usr/include/libyelp/yelp-search-entry.h
+/usr/include/libyelp/yelp-settings.h
+/usr/include/libyelp/yelp-simple-document.h
+/usr/include/libyelp/yelp-sqlite-storage.h
+/usr/include/libyelp/yelp-storage.h
+/usr/include/libyelp/yelp-transform.h
+/usr/include/libyelp/yelp-types.h
+/usr/include/libyelp/yelp-uri-builder.h
+/usr/include/libyelp/yelp-uri.h
+/usr/include/libyelp/yelp-view.h
+/usr/lib/libyelp.so -> /usr/lib/libyelp.so.0.0.0

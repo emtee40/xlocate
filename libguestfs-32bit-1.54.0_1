@@ -1,0 +1,7 @@
+/usr/lib32/libguestfs.so.0 -> /usr/lib32/libguestfs.so.0.515.0
+/usr/lib32/libguestfs.so.0.515.0
+/usr/lib32/ocaml/guestfs/libmlguestfs.a
+/usr/lib32/ocaml/stublibs/dllmlguestfs.so
+/usr/lib32/ocaml/stublibs/dllmlguestfs.so.owner
+/usr/lib32/perl5/vendor_perl/auto/Sys/Guestfs/Guestfs.so
+/usr/lib32/ruby/vendor_ruby/3.3.0/i686-linux/_guestfs.so

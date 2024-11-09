@@ -1,0 +1,3 @@
+/usr/lib32/libxbps.a
+/usr/lib32/libxbps.so -> /usr/lib32/libxbps.so.5.0.0
+/usr/lib32/pkgconfig/libxbps.pc

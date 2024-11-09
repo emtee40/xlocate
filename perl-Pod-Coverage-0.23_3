@@ -1,0 +1,9 @@
+/usr/bin/pod_cover
+/usr/share/man/man3/Pod::Coverage.3p
+/usr/share/man/man3/Pod::Coverage::CountParents.3p
+/usr/share/man/man3/Pod::Coverage::ExportOnly.3p
+/usr/share/man/man3/Pod::Coverage::Overloader.3p
+/usr/share/perl5/vendor_perl/Pod/Coverage.pm
+/usr/share/perl5/vendor_perl/Pod/Coverage/CountParents.pm
+/usr/share/perl5/vendor_perl/Pod/Coverage/ExportOnly.pm
+/usr/share/perl5/vendor_perl/Pod/Coverage/Overloader.pm

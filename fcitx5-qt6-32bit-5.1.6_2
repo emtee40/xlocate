@@ -1,0 +1,6 @@
+/usr/lib32/fcitx5/qt6/libfcitx-quickphrase-editor5.so
+/usr/lib32/libFcitx5Qt6DBusAddons.so.1 -> /usr/lib32/libFcitx5Qt6DBusAddons.so.5.1.6
+/usr/lib32/libFcitx5Qt6DBusAddons.so.5.1.6
+/usr/lib32/libFcitx5Qt6WidgetsAddons.so.2 -> /usr/lib32/libFcitx5Qt6WidgetsAddons.so.5.1.6
+/usr/lib32/libFcitx5Qt6WidgetsAddons.so.5.1.6
+/usr/lib32/qt6/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so

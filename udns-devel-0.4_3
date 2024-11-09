@@ -1,0 +1,3 @@
+/usr/include/udns.h
+/usr/lib/libudns.so -> /usr/lib/libudns.so.0
+/usr/share/man/man3/udns.3

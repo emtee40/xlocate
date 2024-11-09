@@ -1,0 +1,9 @@
+/usr/include/jbig.h
+/usr/include/jbig85.h
+/usr/include/jbig_ar.h
+/usr/lib/libjbig.a
+/usr/lib/libjbig.so -> /usr/lib/libjbig.so.0.0.0
+/usr/lib/libjbig85.a
+/usr/lib/libjbig85.so -> /usr/lib/libjbig85.so.0.0.0
+/usr/lib/pkgconfig/jbigkit.pc
+/usr/lib/pkgconfig/jbigkit85.pc

@@ -1,0 +1,19 @@
+/usr/include/KPim6/KCalUtils/KCalUtils/DndFactory
+/usr/include/KPim6/KCalUtils/KCalUtils/ICalDrag
+/usr/include/KPim6/KCalUtils/KCalUtils/IncidenceFormatter
+/usr/include/KPim6/KCalUtils/KCalUtils/RecurrenceActions
+/usr/include/KPim6/KCalUtils/KCalUtils/Stringify
+/usr/include/KPim6/KCalUtils/KCalUtils/VCalDrag
+/usr/include/KPim6/KCalUtils/kcalutils/dndfactory.h
+/usr/include/KPim6/KCalUtils/kcalutils/icaldrag.h
+/usr/include/KPim6/KCalUtils/kcalutils/incidenceformatter.h
+/usr/include/KPim6/KCalUtils/kcalutils/kcalutils_export.h
+/usr/include/KPim6/KCalUtils/kcalutils/recurrenceactions.h
+/usr/include/KPim6/KCalUtils/kcalutils/stringify.h
+/usr/include/KPim6/KCalUtils/kcalutils/vcaldrag.h
+/usr/include/KPim6/KCalUtils/kcalutils_version.h
+/usr/lib/cmake/KPim6CalendarUtils/KPim6CalendarUtilsConfig.cmake
+/usr/lib/cmake/KPim6CalendarUtils/KPim6CalendarUtilsConfigVersion.cmake
+/usr/lib/cmake/KPim6CalendarUtils/KPim6CalendarUtilsTargets-none.cmake
+/usr/lib/cmake/KPim6CalendarUtils/KPim6CalendarUtilsTargets.cmake
+/usr/lib/libKPim6CalendarUtils.so -> /usr/lib/libKPim6CalendarUtils.so.6

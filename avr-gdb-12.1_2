@@ -1,0 +1,8 @@
+/usr/bin/avr-gdb
+/usr/bin/avr-gdb-add-index
+/usr/bin/avr-run
+/usr/lib/libavr-sim.a
+/usr/share/man/man1/avr-gdb-add-index.1
+/usr/share/man/man1/avr-gdb.1
+/usr/share/man/man1/avr-gdbserver.1
+/usr/share/man/man5/avr-gdbinit.5

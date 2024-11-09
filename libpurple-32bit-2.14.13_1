@@ -1,0 +1,27 @@
+/usr/lib32/libpurple-client.so.0 -> /usr/lib32/libpurple-client.so.0.14.13
+/usr/lib32/libpurple-client.so.0.14.13
+/usr/lib32/libpurple.so.0 -> /usr/lib32/libpurple.so.0.14.13
+/usr/lib32/libpurple.so.0.14.13
+/usr/lib32/purple-2/autoaccept.so
+/usr/lib32/purple-2/buddynote.so
+/usr/lib32/purple-2/dbus-example.so
+/usr/lib32/purple-2/idle.so
+/usr/lib32/purple-2/joinpart.so
+/usr/lib32/purple-2/libbonjour.so
+/usr/lib32/purple-2/libgg.so
+/usr/lib32/purple-2/libirc.so
+/usr/lib32/purple-2/libjabber.so -> /usr/lib32/purple-2/libjabber.so.0.0.0
+/usr/lib32/purple-2/libjabber.so.0 -> /usr/lib32/purple-2/libjabber.so.0.0.0
+/usr/lib32/purple-2/libjabber.so.0.0.0
+/usr/lib32/purple-2/libnovell.so
+/usr/lib32/purple-2/libsimple.so
+/usr/lib32/purple-2/libxmpp.so
+/usr/lib32/purple-2/libzephyr.so
+/usr/lib32/purple-2/log_reader.so
+/usr/lib32/purple-2/newline.so
+/usr/lib32/purple-2/nss-prefs.so
+/usr/lib32/purple-2/offlinemsg.so
+/usr/lib32/purple-2/psychic.so
+/usr/lib32/purple-2/ssl-nss.so
+/usr/lib32/purple-2/ssl.so
+/usr/lib32/purple-2/statenotify.so

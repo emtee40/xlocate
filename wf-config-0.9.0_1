@@ -1,0 +1,3 @@
+/usr/lib/libwf-config.so.0.9.0
+/usr/lib/libwf-config.so.1 -> /usr/lib/libwf-config.so.0.9.0
+/usr/share/licenses/wf-config/LICENSE

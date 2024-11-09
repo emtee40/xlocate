@@ -1,0 +1,4 @@
+/usr/lib32/libKPim6AkonadiSearchCore.so -> /usr/lib32/libKPim6AkonadiSearchCore.so.6
+/usr/lib32/libKPim6AkonadiSearchDebug.so -> /usr/lib32/libKPim6AkonadiSearchDebug.so.6
+/usr/lib32/libKPim6AkonadiSearchPIM.so -> /usr/lib32/libKPim6AkonadiSearchPIM.so.6
+/usr/lib32/libKPim6AkonadiSearchXapian.so -> /usr/lib32/libKPim6AkonadiSearchXapian.so.6

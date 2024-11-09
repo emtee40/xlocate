@@ -1,0 +1,8 @@
+/usr/include/pkgconf/libpkgconf/bsdstubs.h
+/usr/include/pkgconf/libpkgconf/iter.h
+/usr/include/pkgconf/libpkgconf/libpkgconf-api.h
+/usr/include/pkgconf/libpkgconf/libpkgconf.h
+/usr/include/pkgconf/libpkgconf/stdinc.h
+/usr/lib/libpkgconf.a
+/usr/lib/libpkgconf.so -> /usr/lib/libpkgconf.so.4.0.0
+/usr/lib/pkgconfig/libpkgconf.pc

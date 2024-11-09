@@ -1,0 +1,7 @@
+/usr/lib32/libcrypto.a
+/usr/lib32/libcrypto.so -> /usr/lib32/libcrypto.so.3
+/usr/lib32/libssl.a
+/usr/lib32/libssl.so -> /usr/lib32/libssl.so.3
+/usr/lib32/pkgconfig/libcrypto.pc
+/usr/lib32/pkgconfig/libssl.pc
+/usr/lib32/pkgconfig/openssl.pc

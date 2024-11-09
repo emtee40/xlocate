@@ -1,0 +1,4 @@
+/usr/bin/handlr
+/usr/share/fish/vendor_completions.d/handlr.fish
+/usr/share/licenses/handlr/LICENSE
+/usr/share/zsh/site-functions/_handlr

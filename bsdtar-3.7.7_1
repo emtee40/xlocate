@@ -1,0 +1,12 @@
+/usr/bin/bsdcat
+/usr/bin/bsdcpio
+/usr/bin/bsdtar
+/usr/bin/bsdunzip
+/usr/share/man/man1/bsdcat.1
+/usr/share/man/man1/bsdcpio.1
+/usr/share/man/man1/bsdtar.1
+/usr/share/man/man1/bsdunzip.1
+/usr/share/man/man5/cpio.5
+/usr/share/man/man5/libarchive-formats.5
+/usr/share/man/man5/libarchive-mtree.5
+/usr/share/man/man5/tar.5

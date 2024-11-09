@@ -1,0 +1,9 @@
+/etc/sv/v2ray/log/run
+/etc/sv/v2ray/log/supervise -> /run/runit/supervise.v2ray-log
+/etc/sv/v2ray/run
+/etc/sv/v2ray/supervise -> /run/runit/supervise.v2ray
+/etc/v2ray/config.json
+/etc/v2ray/vpoint_socks_vmess.json
+/etc/v2ray/vpoint_vmess_freedom.json
+/usr/bin/v2ray
+/usr/share/licenses/v2ray/LICENSE

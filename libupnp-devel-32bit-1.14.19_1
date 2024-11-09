@@ -1,0 +1,5 @@
+/usr/lib32/libixml.a
+/usr/lib32/libixml.so -> /usr/lib32/libixml.so.11.1.2
+/usr/lib32/libupnp.a
+/usr/lib32/libupnp.so -> /usr/lib32/libupnp.so.17.1.10
+/usr/lib32/pkgconfig/libupnp.pc

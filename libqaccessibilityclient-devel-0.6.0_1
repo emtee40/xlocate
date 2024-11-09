@@ -1,0 +1,10 @@
+/usr/include/QAccessibilityClient6/qaccessibilityclient/accessibleobject.h
+/usr/include/QAccessibilityClient6/qaccessibilityclient/libqaccessibilityclient-version.h
+/usr/include/QAccessibilityClient6/qaccessibilityclient/qaccessibilityclient_export.h
+/usr/include/QAccessibilityClient6/qaccessibilityclient/registry.h
+/usr/include/QAccessibilityClient6/qaccessibilityclient/registrycache_p.h
+/usr/lib/cmake/QAccessibilityClient6/QAccessibilityClient6Config.cmake
+/usr/lib/cmake/QAccessibilityClient6/QAccessibilityClient6ConfigVersion.cmake
+/usr/lib/cmake/QAccessibilityClient6/QAccessibilityClient6Targets-none.cmake
+/usr/lib/cmake/QAccessibilityClient6/QAccessibilityClient6Targets.cmake
+/usr/lib/libqaccessibilityclient-qt6.so -> /usr/lib/libqaccessibilityclient-qt6.so.0

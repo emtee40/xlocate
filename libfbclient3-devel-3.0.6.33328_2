@@ -1,0 +1,37 @@
+/usr/bin/fb_config -> /usr/lib/firebird/bin/fb_config
+/usr/include/firebird/firebird/Firebird.pas
+/usr/include/firebird/firebird/IdlFbInterfaces.h
+/usr/include/firebird/firebird/Interface.h
+/usr/include/firebird/firebird/Message.h
+/usr/include/firebird/firebird/UdrCppEngine.h
+/usr/include/firebird/firebird/impl/boost/preprocessor/arithmetic/dec.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/arithmetic/inc.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/cat.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/config/config.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/control/expr_if.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/control/expr_iif.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/control/if.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/control/iif.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/debug/error.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/detail/auto_rec.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/detail/dmc/auto_rec.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/facilities/empty.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/logical/bool.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/repetition/detail/dmc/for.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/repetition/detail/edg/for.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/repetition/detail/for.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/repetition/detail/msvc/for.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/repetition/for.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/seq/elem.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/seq/for_each_i.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/seq/seq.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/seq/size.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/tuple/eat.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/tuple/elem.hpp
+/usr/include/firebird/firebird/impl/boost/preprocessor/tuple/rem.hpp
+/usr/include/firebird/ib_util.h
+/usr/include/firebird/ibase.h
+/usr/include/firebird/iberror.h
+/usr/include/firebird/perf.h
+/usr/lib/firebird/bin/fb_config
+/usr/lib/libfbclient.so -> /usr/lib/libfbclient.so.2

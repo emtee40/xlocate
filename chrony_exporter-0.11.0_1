@@ -1,0 +1,5 @@
+/etc/sv/chrony_exporter/log/run
+/etc/sv/chrony_exporter/log/supervise -> /run/runit/supervise.chrony_exporter-log
+/etc/sv/chrony_exporter/run
+/etc/sv/chrony_exporter/supervise -> /run/runit/supervise.chrony_exporter
+/usr/bin/chrony_exporter

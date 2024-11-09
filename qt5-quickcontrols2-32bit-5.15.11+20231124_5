@@ -1,0 +1,14 @@
+/usr/lib32/libQt5QuickControls2.so.5 -> /usr/lib32/libQt5QuickControls2.so.5.15.11
+/usr/lib32/libQt5QuickControls2.so.5.15 -> /usr/lib32/libQt5QuickControls2.so.5.15.11
+/usr/lib32/libQt5QuickControls2.so.5.15.11
+/usr/lib32/libQt5QuickTemplates2.so.5 -> /usr/lib32/libQt5QuickTemplates2.so.5.15.11
+/usr/lib32/libQt5QuickTemplates2.so.5.15 -> /usr/lib32/libQt5QuickTemplates2.so.5.15.11
+/usr/lib32/libQt5QuickTemplates2.so.5.15.11
+/usr/lib32/qt5/qml/Qt/labs/calendar/libqtlabscalendarplugin.so
+/usr/lib32/qt5/qml/Qt/labs/platform/libqtlabsplatformplugin.so
+/usr/lib32/qt5/qml/QtQuick/Controls.2/Fusion/libqtquickcontrols2fusionstyleplugin.so
+/usr/lib32/qt5/qml/QtQuick/Controls.2/Imagine/libqtquickcontrols2imaginestyleplugin.so
+/usr/lib32/qt5/qml/QtQuick/Controls.2/Material/libqqc2materialstyleplugin.so
+/usr/lib32/qt5/qml/QtQuick/Controls.2/Universal/libqtquickcontrols2universalstyleplugin.so
+/usr/lib32/qt5/qml/QtQuick/Controls.2/libqtquickcontrols2plugin.so
+/usr/lib32/qt5/qml/QtQuick/Templates.2/libqtquicktemplates2plugin.so

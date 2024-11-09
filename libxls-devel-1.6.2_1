@@ -1,0 +1,12 @@
+/usr/include/libxls/brdb.c.h
+/usr/include/libxls/brdb.h
+/usr/include/libxls/endian.h
+/usr/include/libxls/locale.h
+/usr/include/libxls/ole.h
+/usr/include/libxls/xlsstruct.h
+/usr/include/libxls/xlstool.h
+/usr/include/libxls/xlstypes.h
+/usr/include/xls.h
+/usr/lib/libxlsreader.a
+/usr/lib/libxlsreader.so -> /usr/lib/libxlsreader.so.8.0.2
+/usr/lib/pkgconfig/libxls.pc

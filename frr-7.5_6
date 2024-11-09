@@ -1,0 +1,172 @@
+/etc/frr/babeld.conf
+/etc/frr/bfdd.conf
+/etc/frr/bgpd.conf
+/etc/frr/eigrpd.conf
+/etc/frr/fabricd.conf
+/etc/frr/isisd.conf
+/etc/frr/ldpd.conf
+/etc/frr/nhrpd.conf
+/etc/frr/ospf6d.conf
+/etc/frr/ospfd.conf
+/etc/frr/pbrd.conf
+/etc/frr/pimd.conf
+/etc/frr/ripd.conf
+/etc/frr/ripngd.conf
+/etc/frr/sharpd.conf
+/etc/frr/staticd.conf
+/etc/frr/vtysh.conf
+/etc/frr/zebra.conf
+/etc/sv/babeld/check -> /etc/sv/frr-generic/check
+/etc/sv/babeld/log/run
+/etc/sv/babeld/log/supervise -> /run/runit/supervise.babeld-log
+/etc/sv/babeld/run -> /etc/sv/frr-generic/run
+/etc/sv/babeld/supervise -> /run/runit/supervise.babeld
+/etc/sv/bfdd/check -> /etc/sv/frr-generic/check
+/etc/sv/bfdd/log/run
+/etc/sv/bfdd/log/supervise -> /run/runit/supervise.bfdd-log
+/etc/sv/bfdd/run -> /etc/sv/frr-generic/run
+/etc/sv/bfdd/supervise -> /run/runit/supervise.bfdd
+/etc/sv/bgpd/check -> /etc/sv/frr-generic/check
+/etc/sv/bgpd/log/run
+/etc/sv/bgpd/log/supervise -> /run/runit/supervise.bgpd-log
+/etc/sv/bgpd/run -> /etc/sv/frr-generic/run
+/etc/sv/bgpd/supervise -> /run/runit/supervise.bgpd
+/etc/sv/eigrpd/check -> /etc/sv/frr-generic/check
+/etc/sv/eigrpd/log/run
+/etc/sv/eigrpd/log/supervise -> /run/runit/supervise.eigrpd-log
+/etc/sv/eigrpd/run -> /etc/sv/frr-generic/run
+/etc/sv/eigrpd/supervise -> /run/runit/supervise.eigrpd
+/etc/sv/fabricd/check -> /etc/sv/frr-generic/check
+/etc/sv/fabricd/log/run
+/etc/sv/fabricd/log/supervise -> /run/runit/supervise.fabricd-log
+/etc/sv/fabricd/run -> /etc/sv/frr-generic/run
+/etc/sv/fabricd/supervise -> /run/runit/supervise.fabricd
+/etc/sv/frr-generic/check
+/etc/sv/frr-generic/log/run
+/etc/sv/frr-generic/log/supervise -> /run/runit/supervise.frr-generic-log
+/etc/sv/frr-generic/run
+/etc/sv/frr-generic/supervise -> /run/runit/supervise.frr-generic
+/etc/sv/isisd/check -> /etc/sv/frr-generic/check
+/etc/sv/isisd/log/run
+/etc/sv/isisd/log/supervise -> /run/runit/supervise.isisd-log
+/etc/sv/isisd/run -> /etc/sv/frr-generic/run
+/etc/sv/isisd/supervise -> /run/runit/supervise.isisd
+/etc/sv/ldpd/check -> /etc/sv/frr-generic/check
+/etc/sv/ldpd/log/run
+/etc/sv/ldpd/log/supervise -> /run/runit/supervise.ldpd-log
+/etc/sv/ldpd/run -> /etc/sv/frr-generic/run
+/etc/sv/ldpd/supervise -> /run/runit/supervise.ldpd
+/etc/sv/nhrpd/check -> /etc/sv/frr-generic/check
+/etc/sv/nhrpd/log/run
+/etc/sv/nhrpd/log/supervise -> /run/runit/supervise.nhrpd-log
+/etc/sv/nhrpd/run -> /etc/sv/frr-generic/run
+/etc/sv/nhrpd/supervise -> /run/runit/supervise.nhrpd
+/etc/sv/ospf6d/check -> /etc/sv/frr-generic/check
+/etc/sv/ospf6d/log/run
+/etc/sv/ospf6d/log/supervise -> /run/runit/supervise.ospf6d-log
+/etc/sv/ospf6d/run -> /etc/sv/frr-generic/run
+/etc/sv/ospf6d/supervise -> /run/runit/supervise.ospf6d
+/etc/sv/ospfd/check -> /etc/sv/frr-generic/check
+/etc/sv/ospfd/log/run
+/etc/sv/ospfd/log/supervise -> /run/runit/supervise.ospfd-log
+/etc/sv/ospfd/run -> /etc/sv/frr-generic/run
+/etc/sv/ospfd/supervise -> /run/runit/supervise.ospfd
+/etc/sv/pbrd/check -> /etc/sv/frr-generic/check
+/etc/sv/pbrd/log/run
+/etc/sv/pbrd/log/supervise -> /run/runit/supervise.pbrd-log
+/etc/sv/pbrd/run -> /etc/sv/frr-generic/run
+/etc/sv/pbrd/supervise -> /run/runit/supervise.pbrd
+/etc/sv/pimd/check -> /etc/sv/frr-generic/check
+/etc/sv/pimd/log/run
+/etc/sv/pimd/log/supervise -> /run/runit/supervise.pimd-log
+/etc/sv/pimd/run -> /etc/sv/frr-generic/run
+/etc/sv/pimd/supervise -> /run/runit/supervise.pimd
+/etc/sv/ripd/check -> /etc/sv/frr-generic/check
+/etc/sv/ripd/log/run
+/etc/sv/ripd/log/supervise -> /run/runit/supervise.ripd-log
+/etc/sv/ripd/run -> /etc/sv/frr-generic/run
+/etc/sv/ripd/supervise -> /run/runit/supervise.ripd
+/etc/sv/ripngd/check -> /etc/sv/frr-generic/check
+/etc/sv/ripngd/log/run
+/etc/sv/ripngd/log/supervise -> /run/runit/supervise.ripngd-log
+/etc/sv/ripngd/run -> /etc/sv/frr-generic/run
+/etc/sv/ripngd/supervise -> /run/runit/supervise.ripngd
+/etc/sv/sharpd/check -> /etc/sv/frr-generic/check
+/etc/sv/sharpd/log/run
+/etc/sv/sharpd/log/supervise -> /run/runit/supervise.sharpd-log
+/etc/sv/sharpd/run -> /etc/sv/frr-generic/run
+/etc/sv/sharpd/supervise -> /run/runit/supervise.sharpd
+/etc/sv/staticd/check -> /etc/sv/frr-generic/check
+/etc/sv/staticd/log/run
+/etc/sv/staticd/log/supervise -> /run/runit/supervise.staticd-log
+/etc/sv/staticd/run -> /etc/sv/frr-generic/run
+/etc/sv/staticd/supervise -> /run/runit/supervise.staticd
+/etc/sv/zebra/check -> /etc/sv/frr-generic/check
+/etc/sv/zebra/log/run
+/etc/sv/zebra/log/supervise -> /run/runit/supervise.zebra-log
+/etc/sv/zebra/run -> /etc/sv/frr-generic/run
+/etc/sv/zebra/supervise -> /run/runit/supervise.zebra
+/usr/bin/babeld
+/usr/bin/bfdd
+/usr/bin/bgpd
+/usr/bin/eigrpd
+/usr/bin/fabricd
+/usr/bin/isisd
+/usr/bin/ldpd
+/usr/bin/mtracebis
+/usr/bin/nhrpd
+/usr/bin/ospf6d
+/usr/bin/ospfd
+/usr/bin/pbrd
+/usr/bin/pimd
+/usr/bin/ripd
+/usr/bin/ripngd
+/usr/bin/ssd
+/usr/bin/staticd
+/usr/bin/vrrpd
+/usr/bin/vtysh
+/usr/bin/zebra
+/usr/lib/frr/modules/bgpd_bmp.so
+/usr/lib/frr/modules/dplane_fpm_nl.so
+/usr/lib/frr/modules/zebra_cumulus_mlag.so
+/usr/lib/frr/modules/zebra_irdp.so
+/usr/share/examples/frr/babeld.conf.sample
+/usr/share/examples/frr/bfdd.conf.sample
+/usr/share/examples/frr/bgpd.conf.sample
+/usr/share/examples/frr/bgpd.conf.sample2
+/usr/share/examples/frr/bgpd.conf.vnc.sample
+/usr/share/examples/frr/eigrpd.conf.sample
+/usr/share/examples/frr/fabricd.conf.sample
+/usr/share/examples/frr/isisd.conf.sample
+/usr/share/examples/frr/ldpd.conf.sample
+/usr/share/examples/frr/ospf6d.conf.sample
+/usr/share/examples/frr/ospfd.conf.sample
+/usr/share/examples/frr/pbrd.conf.sample
+/usr/share/examples/frr/pimd.conf.sample
+/usr/share/examples/frr/ripd.conf.sample
+/usr/share/examples/frr/ripngd.conf.sample
+/usr/share/examples/frr/staticd.conf.sample
+/usr/share/examples/frr/vtysh.conf.sample
+/usr/share/examples/frr/zebra.conf.sample
+/usr/share/yang/frr-bfdd.yang
+/usr/share/yang/frr-eigrpd.yang
+/usr/share/yang/frr-filter.yang
+/usr/share/yang/frr-igmp.yang
+/usr/share/yang/frr-interface.yang
+/usr/share/yang/frr-isisd.yang
+/usr/share/yang/frr-module-translator.yang
+/usr/share/yang/frr-nexthop.yang
+/usr/share/yang/frr-pim-rp.yang
+/usr/share/yang/frr-pim.yang
+/usr/share/yang/frr-ripd.yang
+/usr/share/yang/frr-ripngd.yang
+/usr/share/yang/frr-route-map.yang
+/usr/share/yang/frr-route-types.yang
+/usr/share/yang/frr-routing.yang
+/usr/share/yang/frr-staticd.yang
+/usr/share/yang/frr-test-module.yang
+/usr/share/yang/frr-vrf.yang
+/usr/share/yang/frr-vrrpd.yang
+/usr/share/yang/frr-zebra.yang
+/usr/share/yang/ietf-interfaces.yang
+/usr/share/yang/ietf-routing-types.yang

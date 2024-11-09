@@ -1,0 +1,5 @@
+/usr/bin/py-spy
+/usr/share/bash-completion/completions/py-spy
+/usr/share/fish/vendor_completions.d/py-spy.fish
+/usr/share/licenses/py-spy/LICENSE
+/usr/share/zsh/site-functions/_py-spy

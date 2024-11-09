@@ -1,0 +1,4 @@
+/usr/include/libdwarf/dwarf.h
+/usr/include/libdwarf/libdwarf.h
+/usr/lib/libdwarf.a
+/usr/lib/libdwarf.so -> /usr/lib/libdwarf.so.1.0.0

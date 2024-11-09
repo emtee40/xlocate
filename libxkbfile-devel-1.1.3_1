@@ -1,0 +1,9 @@
+/usr/include/X11/extensions/XKBbells.h
+/usr/include/X11/extensions/XKBconfig.h
+/usr/include/X11/extensions/XKBfile.h
+/usr/include/X11/extensions/XKBrules.h
+/usr/include/X11/extensions/XKM.h
+/usr/include/X11/extensions/XKMformat.h
+/usr/lib/libxkbfile.a
+/usr/lib/libxkbfile.so -> /usr/lib/libxkbfile.so.1.0.2
+/usr/lib/pkgconfig/xkbfile.pc

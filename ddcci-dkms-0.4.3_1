@@ -1,0 +1,12 @@
+/usr/share/doc/ddcci-dkms/README.md
+/usr/src/ddcci-0.4.3/Makefile
+/usr/src/ddcci-0.4.3/Makefile.dkms
+/usr/src/ddcci-0.4.3/ddcci-backlight/Makefile
+/usr/src/ddcci-0.4.3/ddcci-backlight/ddcci-backlight.c
+/usr/src/ddcci-0.4.3/ddcci/Makefile
+/usr/src/ddcci-0.4.3/ddcci/ddcci.c
+/usr/src/ddcci-0.4.3/dkms.conf
+/usr/src/ddcci-0.4.3/include/linux/ddcci.h
+/usr/src/ddcci-0.4.3/linux-6.2.diff
+/usr/src/ddcci-0.4.3/linux-6.3.diff
+/usr/src/ddcci-0.4.3/linux-6.4.diff

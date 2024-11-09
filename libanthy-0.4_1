@@ -1,0 +1,11 @@
+/etc/anthy-conf
+/usr/lib/libanthy.so.1 -> /usr/lib/libanthy.so.1.1.2
+/usr/lib/libanthy.so.1.1.2
+/usr/lib/libanthydic.so.1 -> /usr/lib/libanthydic.so.1.1.3
+/usr/lib/libanthydic.so.1.1.3
+/usr/lib/libanthyinput.so.0 -> /usr/lib/libanthyinput.so.0.0.0
+/usr/lib/libanthyinput.so.0.0.0
+/usr/share/anthy/anthy.dic
+/usr/share/anthy/dic-tool-usage.txt
+/usr/share/anthy/typetab
+/usr/share/anthy/zipcode.t

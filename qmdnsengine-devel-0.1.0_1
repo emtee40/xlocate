@@ -1,0 +1,20 @@
+/usr/include/qmdnsengine/abstractserver.h
+/usr/include/qmdnsengine/bitmap.h
+/usr/include/qmdnsengine/browser.h
+/usr/include/qmdnsengine/cache.h
+/usr/include/qmdnsengine/dns.h
+/usr/include/qmdnsengine/hostname.h
+/usr/include/qmdnsengine/mdns.h
+/usr/include/qmdnsengine/message.h
+/usr/include/qmdnsengine/prober.h
+/usr/include/qmdnsengine/provider.h
+/usr/include/qmdnsengine/qmdnsengine_export.h
+/usr/include/qmdnsengine/query.h
+/usr/include/qmdnsengine/record.h
+/usr/include/qmdnsengine/resolver.h
+/usr/include/qmdnsengine/server.h
+/usr/include/qmdnsengine/service.h
+/usr/lib/cmake/qmdnsengine/qmdnsengineConfig-relwithdebinfo.cmake
+/usr/lib/cmake/qmdnsengine/qmdnsengineConfig.cmake
+/usr/lib/cmake/qmdnsengine/qmdnsengineConfigVersion.cmake
+/usr/lib/libqmdnsengine.so -> /usr/lib/libqmdnsengine.so.0

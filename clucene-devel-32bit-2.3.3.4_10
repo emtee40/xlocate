@@ -1,0 +1,4 @@
+/usr/lib32/libclucene-contribs-lib.so -> /usr/lib32/libclucene-contribs-lib.so.1
+/usr/lib32/libclucene-core.so -> /usr/lib32/libclucene-core.so.1
+/usr/lib32/libclucene-shared.so -> /usr/lib32/libclucene-shared.so.1
+/usr/lib32/pkgconfig/libclucene-core.pc

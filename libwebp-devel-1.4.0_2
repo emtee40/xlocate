@@ -1,0 +1,18 @@
+/usr/include/webp/decode.h
+/usr/include/webp/demux.h
+/usr/include/webp/encode.h
+/usr/include/webp/mux.h
+/usr/include/webp/mux_types.h
+/usr/include/webp/types.h
+/usr/lib/libwebp.a
+/usr/lib/libwebp.so -> /usr/lib/libwebp.so.7.1.9
+/usr/lib/libwebpdecoder.a
+/usr/lib/libwebpdecoder.so -> /usr/lib/libwebpdecoder.so.3.1.9
+/usr/lib/libwebpdemux.a
+/usr/lib/libwebpdemux.so -> /usr/lib/libwebpdemux.so.2.0.15
+/usr/lib/libwebpmux.a
+/usr/lib/libwebpmux.so -> /usr/lib/libwebpmux.so.3.1.0
+/usr/lib/pkgconfig/libwebp.pc
+/usr/lib/pkgconfig/libwebpdecoder.pc
+/usr/lib/pkgconfig/libwebpdemux.pc
+/usr/lib/pkgconfig/libwebpmux.pc

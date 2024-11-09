@@ -1,0 +1,2 @@
+/usr/lib32/libijs-0.35.so
+/usr/lib32/libijs.so -> /usr/lib32/libijs-0.35.so

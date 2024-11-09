@@ -1,0 +1,11 @@
+/usr/bin/stagit
+/usr/bin/stagit-index
+/usr/share/doc/stagit/README
+/usr/share/doc/stagit/example_create.sh
+/usr/share/doc/stagit/example_post-receive.sh
+/usr/share/doc/stagit/favicon.png
+/usr/share/doc/stagit/logo.png
+/usr/share/doc/stagit/style.css
+/usr/share/licenses/stagit/LICENSE
+/usr/share/man/man1/stagit-index.1
+/usr/share/man/man1/stagit.1

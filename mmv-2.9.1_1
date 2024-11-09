@@ -1,0 +1,9 @@
+/usr/bin/mad -> /usr/bin/mmv
+/usr/bin/mcp -> /usr/bin/mmv
+/usr/bin/mln -> /usr/bin/mmv
+/usr/bin/mmv
+/usr/share/doc/mmv/README.md
+/usr/share/man/man1/mad.1 -> /usr/share/man/man1/mmv.1
+/usr/share/man/man1/mcp.1 -> /usr/share/man/man1/mmv.1
+/usr/share/man/man1/mln.1 -> /usr/share/man/man1/mmv.1
+/usr/share/man/man1/mmv.1

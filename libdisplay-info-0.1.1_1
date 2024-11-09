@@ -1,0 +1,4 @@
+/usr/bin/di-edid-decode
+/usr/lib/libdisplay-info.so.0.1.1
+/usr/lib/libdisplay-info.so.1 -> /usr/lib/libdisplay-info.so.0.1.1
+/usr/share/licenses/libdisplay-info/LICENSE

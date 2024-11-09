@@ -1,0 +1,15 @@
+/usr/include/KF6/KUnitConversion/KUnitConversion/Converter
+/usr/include/KF6/KUnitConversion/KUnitConversion/Unit
+/usr/include/KF6/KUnitConversion/KUnitConversion/UnitCategory
+/usr/include/KF6/KUnitConversion/KUnitConversion/Value
+/usr/include/KF6/KUnitConversion/kunitconversion/converter.h
+/usr/include/KF6/KUnitConversion/kunitconversion/kunitconversion_export.h
+/usr/include/KF6/KUnitConversion/kunitconversion/unit.h
+/usr/include/KF6/KUnitConversion/kunitconversion/unitcategory.h
+/usr/include/KF6/KUnitConversion/kunitconversion/value.h
+/usr/include/KF6/KUnitConversion/kunitconversion_version.h
+/usr/lib/cmake/KF6UnitConversion/KF6UnitConversionConfig.cmake
+/usr/lib/cmake/KF6UnitConversion/KF6UnitConversionConfigVersion.cmake
+/usr/lib/cmake/KF6UnitConversion/KF6UnitConversionTargets-none.cmake
+/usr/lib/cmake/KF6UnitConversion/KF6UnitConversionTargets.cmake
+/usr/lib/libKF6UnitConversion.so -> /usr/lib/libKF6UnitConversion.so.6

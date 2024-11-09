@@ -1,0 +1,11 @@
+/etc/sv/qrtr-ns/log/run -> /usr/bin/vlogger
+/etc/sv/qrtr-ns/log/supervise -> /run/runit/supervise.qrtr-ns-log
+/etc/sv/qrtr-ns/run
+/etc/sv/qrtr-ns/supervise -> /run/runit/supervise.qrtr-ns
+/usr/bin/qrtr-cfg
+/usr/bin/qrtr-lookup
+/usr/bin/qrtr-ns
+/usr/lib/libqrtr.so.1 -> /usr/lib/libqrtr.so.1.0
+/usr/lib/libqrtr.so.1.0
+/usr/lib/systemd/system/qrtr-ns.service
+/usr/share/licenses/qrtr-ns/LICENSE

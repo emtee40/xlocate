@@ -1,0 +1,3 @@
+/usr/include/aml.h
+/usr/lib/libaml.so -> /usr/lib/libaml.so.0
+/usr/lib/pkgconfig/aml.pc

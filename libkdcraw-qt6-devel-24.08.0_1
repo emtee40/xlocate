@@ -1,0 +1,15 @@
+/usr/include/KDcrawQt6/KDCRAW/DcrawInfoContainer
+/usr/include/KDcrawQt6/KDCRAW/KDcraw
+/usr/include/KDcrawQt6/KDCRAW/RawDecodingSettings
+/usr/include/KDcrawQt6/KDCRAW/RawFiles
+/usr/include/KDcrawQt6/kdcraw/dcrawinfocontainer.h
+/usr/include/KDcrawQt6/kdcraw/kdcraw.h
+/usr/include/KDcrawQt6/kdcraw/libkdcraw_export.h
+/usr/include/KDcrawQt6/kdcraw/rawdecodingsettings.h
+/usr/include/KDcrawQt6/kdcraw/rawfiles.h
+/usr/include/KDcrawQt6/libkdcraw_version.h
+/usr/lib/cmake/KDcrawQt6/KDcrawQt6Config.cmake
+/usr/lib/cmake/KDcrawQt6/KDcrawQt6ConfigVersion.cmake
+/usr/lib/cmake/KDcrawQt6/KDcrawQt6Targets-none.cmake
+/usr/lib/cmake/KDcrawQt6/KDcrawQt6Targets.cmake
+/usr/lib/libKDcrawQt6.so -> /usr/lib/libKDcrawQt6.so.5

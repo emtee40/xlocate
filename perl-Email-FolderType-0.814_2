@@ -1,0 +1,10 @@
+/usr/share/man/man3/Email::FolderType.3p
+/usr/share/man/man3/Email::FolderType::Ezmlm.3p
+/usr/share/man/man3/Email::FolderType::MH.3p
+/usr/share/man/man3/Email::FolderType::Maildir.3p
+/usr/share/man/man3/Email::FolderType::Mbox.3p
+/usr/share/perl5/vendor_perl/Email/FolderType.pm
+/usr/share/perl5/vendor_perl/Email/FolderType/Ezmlm.pm
+/usr/share/perl5/vendor_perl/Email/FolderType/MH.pm
+/usr/share/perl5/vendor_perl/Email/FolderType/Maildir.pm
+/usr/share/perl5/vendor_perl/Email/FolderType/Mbox.pm

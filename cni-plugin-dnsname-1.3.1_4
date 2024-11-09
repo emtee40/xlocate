@@ -1,0 +1,4 @@
+/usr/libexec/cni/dnsname
+/usr/share/doc/cni-plugin-dnsname/README.md
+/usr/share/doc/cni-plugin-dnsname/README_PODMAN.md
+/usr/share/examples/cni-plugin-dnsname/foobar.conflist

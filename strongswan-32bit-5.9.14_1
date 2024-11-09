@@ -1,0 +1,67 @@
+/usr/lib32/ipsec/libcharon.so -> /usr/lib32/ipsec/libcharon.so.0.0.0
+/usr/lib32/ipsec/libcharon.so.0 -> /usr/lib32/ipsec/libcharon.so.0.0.0
+/usr/lib32/ipsec/libcharon.so.0.0.0
+/usr/lib32/ipsec/libradius.so -> /usr/lib32/ipsec/libradius.so.0.0.0
+/usr/lib32/ipsec/libradius.so.0 -> /usr/lib32/ipsec/libradius.so.0.0.0
+/usr/lib32/ipsec/libradius.so.0.0.0
+/usr/lib32/ipsec/libstrongswan.so -> /usr/lib32/ipsec/libstrongswan.so.0.0.0
+/usr/lib32/ipsec/libstrongswan.so.0 -> /usr/lib32/ipsec/libstrongswan.so.0.0.0
+/usr/lib32/ipsec/libstrongswan.so.0.0.0
+/usr/lib32/ipsec/libtls.so -> /usr/lib32/ipsec/libtls.so.0.0.0
+/usr/lib32/ipsec/libtls.so.0 -> /usr/lib32/ipsec/libtls.so.0.0.0
+/usr/lib32/ipsec/libtls.so.0.0.0
+/usr/lib32/ipsec/libvici.so -> /usr/lib32/ipsec/libvici.so.0.0.0
+/usr/lib32/ipsec/libvici.so.0 -> /usr/lib32/ipsec/libvici.so.0.0.0
+/usr/lib32/ipsec/libvici.so.0.0.0
+/usr/lib32/ipsec/plugins/libstrongswan-aes.so
+/usr/lib32/ipsec/plugins/libstrongswan-attr.so
+/usr/lib32/ipsec/plugins/libstrongswan-blowfish.so
+/usr/lib32/ipsec/plugins/libstrongswan-chapoly.so
+/usr/lib32/ipsec/plugins/libstrongswan-cmac.so
+/usr/lib32/ipsec/plugins/libstrongswan-constraints.so
+/usr/lib32/ipsec/plugins/libstrongswan-counters.so
+/usr/lib32/ipsec/plugins/libstrongswan-curl.so
+/usr/lib32/ipsec/plugins/libstrongswan-curve25519.so
+/usr/lib32/ipsec/plugins/libstrongswan-dhcp.so
+/usr/lib32/ipsec/plugins/libstrongswan-dnskey.so
+/usr/lib32/ipsec/plugins/libstrongswan-drbg.so
+/usr/lib32/ipsec/plugins/libstrongswan-eap-dynamic.so
+/usr/lib32/ipsec/plugins/libstrongswan-eap-identity.so
+/usr/lib32/ipsec/plugins/libstrongswan-eap-md5.so
+/usr/lib32/ipsec/plugins/libstrongswan-eap-mschapv2.so
+/usr/lib32/ipsec/plugins/libstrongswan-eap-radius.so
+/usr/lib32/ipsec/plugins/libstrongswan-fips-prf.so
+/usr/lib32/ipsec/plugins/libstrongswan-gcm.so
+/usr/lib32/ipsec/plugins/libstrongswan-gmp.so
+/usr/lib32/ipsec/plugins/libstrongswan-ha.so
+/usr/lib32/ipsec/plugins/libstrongswan-hmac.so
+/usr/lib32/ipsec/plugins/libstrongswan-kdf.so
+/usr/lib32/ipsec/plugins/libstrongswan-kernel-netlink.so
+/usr/lib32/ipsec/plugins/libstrongswan-led.so
+/usr/lib32/ipsec/plugins/libstrongswan-md4.so
+/usr/lib32/ipsec/plugins/libstrongswan-md5.so
+/usr/lib32/ipsec/plugins/libstrongswan-mgf1.so
+/usr/lib32/ipsec/plugins/libstrongswan-nonce.so
+/usr/lib32/ipsec/plugins/libstrongswan-openssl.so
+/usr/lib32/ipsec/plugins/libstrongswan-pem.so
+/usr/lib32/ipsec/plugins/libstrongswan-pgp.so
+/usr/lib32/ipsec/plugins/libstrongswan-pkcs1.so
+/usr/lib32/ipsec/plugins/libstrongswan-pkcs11.so
+/usr/lib32/ipsec/plugins/libstrongswan-pkcs12.so
+/usr/lib32/ipsec/plugins/libstrongswan-pkcs7.so
+/usr/lib32/ipsec/plugins/libstrongswan-pkcs8.so
+/usr/lib32/ipsec/plugins/libstrongswan-pubkey.so
+/usr/lib32/ipsec/plugins/libstrongswan-random.so
+/usr/lib32/ipsec/plugins/libstrongswan-rc2.so
+/usr/lib32/ipsec/plugins/libstrongswan-resolve.so
+/usr/lib32/ipsec/plugins/libstrongswan-revocation.so
+/usr/lib32/ipsec/plugins/libstrongswan-sha1.so
+/usr/lib32/ipsec/plugins/libstrongswan-sha2.so
+/usr/lib32/ipsec/plugins/libstrongswan-socket-default.so
+/usr/lib32/ipsec/plugins/libstrongswan-sshkey.so
+/usr/lib32/ipsec/plugins/libstrongswan-stroke.so
+/usr/lib32/ipsec/plugins/libstrongswan-updown.so
+/usr/lib32/ipsec/plugins/libstrongswan-vici.so
+/usr/lib32/ipsec/plugins/libstrongswan-x509.so
+/usr/lib32/ipsec/plugins/libstrongswan-xauth-generic.so
+/usr/lib32/ipsec/plugins/libstrongswan-xcbc.so

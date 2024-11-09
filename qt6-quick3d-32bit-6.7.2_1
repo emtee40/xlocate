@@ -1,0 +1,33 @@
+/usr/lib32/libQt6Quick3D.so.6 -> /usr/lib32/libQt6Quick3D.so.6.7.2
+/usr/lib32/libQt6Quick3D.so.6.7.2
+/usr/lib32/libQt6Quick3DAssetImport.so.6 -> /usr/lib32/libQt6Quick3DAssetImport.so.6.7.2
+/usr/lib32/libQt6Quick3DAssetImport.so.6.7.2
+/usr/lib32/libQt6Quick3DAssetUtils.so.6 -> /usr/lib32/libQt6Quick3DAssetUtils.so.6.7.2
+/usr/lib32/libQt6Quick3DAssetUtils.so.6.7.2
+/usr/lib32/libQt6Quick3DEffects.so.6 -> /usr/lib32/libQt6Quick3DEffects.so.6.7.2
+/usr/lib32/libQt6Quick3DEffects.so.6.7.2
+/usr/lib32/libQt6Quick3DGlslParser.so.6 -> /usr/lib32/libQt6Quick3DGlslParser.so.6.7.2
+/usr/lib32/libQt6Quick3DGlslParser.so.6.7.2
+/usr/lib32/libQt6Quick3DHelpers.so.6 -> /usr/lib32/libQt6Quick3DHelpers.so.6.7.2
+/usr/lib32/libQt6Quick3DHelpers.so.6.7.2
+/usr/lib32/libQt6Quick3DHelpersImpl.so.6 -> /usr/lib32/libQt6Quick3DHelpersImpl.so.6.7.2
+/usr/lib32/libQt6Quick3DHelpersImpl.so.6.7.2
+/usr/lib32/libQt6Quick3DIblBaker.so.6 -> /usr/lib32/libQt6Quick3DIblBaker.so.6.7.2
+/usr/lib32/libQt6Quick3DIblBaker.so.6.7.2
+/usr/lib32/libQt6Quick3DParticleEffects.so.6 -> /usr/lib32/libQt6Quick3DParticleEffects.so.6.7.2
+/usr/lib32/libQt6Quick3DParticleEffects.so.6.7.2
+/usr/lib32/libQt6Quick3DParticles.so.6 -> /usr/lib32/libQt6Quick3DParticles.so.6.7.2
+/usr/lib32/libQt6Quick3DParticles.so.6.7.2
+/usr/lib32/libQt6Quick3DRuntimeRender.so.6 -> /usr/lib32/libQt6Quick3DRuntimeRender.so.6.7.2
+/usr/lib32/libQt6Quick3DRuntimeRender.so.6.7.2
+/usr/lib32/libQt6Quick3DUtils.so.6 -> /usr/lib32/libQt6Quick3DUtils.so.6.7.2
+/usr/lib32/libQt6Quick3DUtils.so.6.7.2
+/usr/lib32/qt6/plugins/assetimporters/libassimp.so
+/usr/lib32/qt6/plugins/qmltooling/libqmldbg_quick3dprofiler.so
+/usr/lib32/qt6/qml/QtQuick3D/AssetUtils/libqtquick3dassetutilsplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/Effects/libqtquick3deffectplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/Helpers/impl/libqtquick3dhelpersimplplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/Helpers/libqtquick3dhelpersplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/ParticleEffects/libqtquick3dparticleeffectsplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/Particles3D/libqtquick3dparticles3dplugin.so
+/usr/lib32/qt6/qml/QtQuick3D/libqquick3dplugin.so

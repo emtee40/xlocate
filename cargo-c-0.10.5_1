@@ -1,0 +1,5 @@
+/usr/bin/cargo-capi
+/usr/bin/cargo-cbuild
+/usr/bin/cargo-cinstall
+/usr/bin/cargo-ctest
+/usr/share/licenses/cargo-c/LICENSE

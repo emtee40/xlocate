@@ -1,0 +1,2 @@
+/usr/lib/libqxmpp.so.1.4.0
+/usr/lib/libqxmpp.so.3 -> /usr/lib/libqxmpp.so.1.4.0

@@ -1,0 +1,11 @@
+/etc/anthy-unicode.conf
+/usr/lib/libanthy-unicode.so.0 -> /usr/lib/libanthy-unicode.so.0.1.0
+/usr/lib/libanthy-unicode.so.0.1.0
+/usr/lib/libanthydic-unicode.so.0 -> /usr/lib/libanthydic-unicode.so.0.1.0
+/usr/lib/libanthydic-unicode.so.0.1.0
+/usr/lib/libanthyinput-unicode.so.0 -> /usr/lib/libanthyinput-unicode.so.0.0.0
+/usr/lib/libanthyinput-unicode.so.0.0.0
+/usr/share/anthy-unicode/anthy.dic
+/usr/share/anthy-unicode/dic-tool-usage.txt
+/usr/share/anthy-unicode/typetab
+/usr/share/anthy-unicode/zipcode.t

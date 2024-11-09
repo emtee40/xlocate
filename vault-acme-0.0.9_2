@@ -1,0 +1,3 @@
+/usr/bin/vault-acme-sidecar
+/usr/libexec/vault/acme
+/usr/share/licenses/vault-acme/LICENSE

@@ -1,0 +1,2 @@
+/usr/lib32/libportmidi.a
+/usr/lib32/libporttime.a -> /usr/lib32/libportmidi.a

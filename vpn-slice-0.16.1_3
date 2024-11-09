@@ -1,0 +1,17 @@
+/usr/bin/vpn-slice
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/vpn_slice-0.16.1-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/vpn_slice/__init__.py
+/usr/lib/python3.12/site-packages/vpn_slice/__main__.py
+/usr/lib/python3.12/site-packages/vpn_slice/dnspython.py
+/usr/lib/python3.12/site-packages/vpn_slice/freebsd.py
+/usr/lib/python3.12/site-packages/vpn_slice/linux.py
+/usr/lib/python3.12/site-packages/vpn_slice/mac.py
+/usr/lib/python3.12/site-packages/vpn_slice/posix.py
+/usr/lib/python3.12/site-packages/vpn_slice/provider.py
+/usr/lib/python3.12/site-packages/vpn_slice/util.py
+/usr/lib/python3.12/site-packages/vpn_slice/version.py

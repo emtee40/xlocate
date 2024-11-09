@@ -1,0 +1,15 @@
+/usr/include/lua5.2/lauxlib.h
+/usr/include/lua5.2/lua.h
+/usr/include/lua5.2/lua.hpp
+/usr/include/lua5.2/luaconf.h
+/usr/include/lua5.2/lualib.h
+/usr/lib/liblua5.2.a
+/usr/lib/liblua5.2.so -> /usr/lib/liblua5.2.so.5.2.4
+/usr/lib/pkgconfig/lua5.2.pc
+/usr/share/doc/lua5.2/contents.html
+/usr/share/doc/lua5.2/logo.gif
+/usr/share/doc/lua5.2/lua.css
+/usr/share/doc/lua5.2/manual.css
+/usr/share/doc/lua5.2/manual.html
+/usr/share/doc/lua5.2/osi-certified-72x60.png
+/usr/share/doc/lua5.2/readme.html

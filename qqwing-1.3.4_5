@@ -1,0 +1,4 @@
+/usr/bin/qqwing
+/usr/lib/libqqwing.so.2 -> /usr/lib/libqqwing.so.2.1.0
+/usr/lib/libqqwing.so.2.1.0
+/usr/share/man/man1/qqwing.1

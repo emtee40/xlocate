@@ -1,0 +1,7 @@
+/usr/lib32/conky/libcairo.so
+/usr/lib32/conky/libcairo_imlib2_helper.so
+/usr/lib32/conky/libcairo_xlib.so
+/usr/lib32/conky/libimlib2.so
+/usr/lib32/conky/librsvg.so
+/usr/lib32/libconky_core.a
+/usr/lib32/libtcp-portmon.a

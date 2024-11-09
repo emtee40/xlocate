@@ -1,0 +1,3 @@
+/usr/lib32/libgta.a
+/usr/lib32/libgta.so -> /usr/lib32/libgta.so.1.0.0
+/usr/lib32/pkgconfig/gta.pc

@@ -1,0 +1,10 @@
+/etc/fonts/conf.d/70-noto-fonts-cjk-serif.conf -> /usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-serif.conf
+/usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-serif.conf
+/usr/share/fonts/noto/NotoSerifCJK-Black.ttc
+/usr/share/fonts/noto/NotoSerifCJK-Bold.ttc
+/usr/share/fonts/noto/NotoSerifCJK-ExtraLight.ttc
+/usr/share/fonts/noto/NotoSerifCJK-Light.ttc
+/usr/share/fonts/noto/NotoSerifCJK-Medium.ttc
+/usr/share/fonts/noto/NotoSerifCJK-Regular.ttc
+/usr/share/fonts/noto/NotoSerifCJK-SemiBold.ttc
+/usr/share/licenses/noto-fonts-cjk-serif/LICENSE

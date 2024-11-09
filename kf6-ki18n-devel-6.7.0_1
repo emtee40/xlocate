@@ -1,0 +1,32 @@
+/usr/include/KF6/KI18n/KLazyLocalizedString
+/usr/include/KF6/KI18n/KLocalization
+/usr/include/KF6/KI18n/KLocalizedContext
+/usr/include/KF6/KI18n/KLocalizedString
+/usr/include/KF6/KI18n/KLocalizedTranslator
+/usr/include/KF6/KI18n/KuitSetup
+/usr/include/KF6/KI18n/ki18n_export.h
+/usr/include/KF6/KI18n/ki18n_version.h
+/usr/include/KF6/KI18n/klazylocalizedstring.h
+/usr/include/KF6/KI18n/klocalization.h
+/usr/include/KF6/KI18n/klocalizedcontext.h
+/usr/include/KF6/KI18n/klocalizedstring.h
+/usr/include/KF6/KI18n/klocalizedtranslator.h
+/usr/include/KF6/KI18n/kuitsetup.h
+/usr/include/KF6/KI18nLocaleData/KCountry
+/usr/include/KF6/KI18nLocaleData/KCountrySubdivision
+/usr/include/KF6/KI18nLocaleData/KTimeZone
+/usr/include/KF6/KI18nLocaleData/kcountry.h
+/usr/include/KF6/KI18nLocaleData/kcountrysubdivision.h
+/usr/include/KF6/KI18nLocaleData/ki18nlocaledata_export.h
+/usr/include/KF6/KI18nLocaleData/ktimezone.h
+/usr/lib/cmake/KF6I18n/KF6I18nConfig.cmake
+/usr/lib/cmake/KF6I18n/KF6I18nConfigVersion.cmake
+/usr/lib/cmake/KF6I18n/KF6I18nMacros.cmake
+/usr/lib/cmake/KF6I18n/KF6I18nTargets-none.cmake
+/usr/lib/cmake/KF6I18n/KF6I18nTargets.cmake
+/usr/lib/cmake/KF6I18n/build-pofiles.cmake
+/usr/lib/cmake/KF6I18n/build-tsfiles.cmake
+/usr/lib/cmake/KF6I18n/kf6i18nuic.cmake
+/usr/lib/cmake/KF6I18n/ts-pmap-compile.py
+/usr/lib/libKF6I18n.so -> /usr/lib/libKF6I18n.so.6
+/usr/lib/libKF6I18nLocaleData.so -> /usr/lib/libKF6I18nLocaleData.so.6

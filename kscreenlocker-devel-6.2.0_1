@@ -1,0 +1,9 @@
+/usr/include/KScreenLocker/KScreenLocker/KsldApp
+/usr/include/KScreenLocker/KScreenLocker/kscreenlocker_export.h
+/usr/include/KScreenLocker/KScreenLocker/ksldapp.h
+/usr/lib/cmake/KScreenLocker/KScreenLockerConfig.cmake
+/usr/lib/cmake/KScreenLocker/KScreenLockerConfigVersion.cmake
+/usr/lib/cmake/KScreenLocker/KScreenLockerTargets-none.cmake
+/usr/lib/cmake/KScreenLocker/KScreenLockerTargets.cmake
+/usr/lib/cmake/ScreenSaverDBusInterface/ScreenSaverDBusInterfaceConfig.cmake
+/usr/lib/libKScreenLocker.so -> /usr/lib/libKScreenLocker.so.6

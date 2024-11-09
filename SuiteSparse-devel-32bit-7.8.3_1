@@ -1,0 +1,59 @@
+/usr/lib32/libamd.a
+/usr/lib32/libamd.so -> /usr/lib32/libamd.so.3
+/usr/lib32/libbtf.a
+/usr/lib32/libbtf.so -> /usr/lib32/libbtf.so.2
+/usr/lib32/libcamd.a
+/usr/lib32/libcamd.so -> /usr/lib32/libcamd.so.3
+/usr/lib32/libccolamd.a
+/usr/lib32/libccolamd.so -> /usr/lib32/libccolamd.so.3
+/usr/lib32/libcholmod.a
+/usr/lib32/libcholmod.so -> /usr/lib32/libcholmod.so.5
+/usr/lib32/libcolamd.a
+/usr/lib32/libcolamd.so -> /usr/lib32/libcolamd.so.3
+/usr/lib32/libcxsparse.a
+/usr/lib32/libcxsparse.so -> /usr/lib32/libcxsparse.so.4
+/usr/lib32/libgraphblas.so -> /usr/lib32/libgraphblas.so.9
+/usr/lib32/libklu.a
+/usr/lib32/libklu.so -> /usr/lib32/libklu.so.2
+/usr/lib32/libklu_cholmod.a
+/usr/lib32/libklu_cholmod.so -> /usr/lib32/libklu_cholmod.so.2
+/usr/lib32/liblagraph.a
+/usr/lib32/liblagraph.so -> /usr/lib32/liblagraph.so.1
+/usr/lib32/liblagraphx.a
+/usr/lib32/liblagraphx.so -> /usr/lib32/liblagraphx.so.1
+/usr/lib32/libldl.a
+/usr/lib32/libldl.so -> /usr/lib32/libldl.so.3
+/usr/lib32/libparu.a
+/usr/lib32/libparu.so -> /usr/lib32/libparu.so.1
+/usr/lib32/librbio.a
+/usr/lib32/librbio.so -> /usr/lib32/librbio.so.4
+/usr/lib32/libspex.a
+/usr/lib32/libspex.so -> /usr/lib32/libspex.so.3
+/usr/lib32/libspexpython.so -> /usr/lib32/libspexpython.so.3
+/usr/lib32/libspqr.a
+/usr/lib32/libspqr.so -> /usr/lib32/libspqr.so.4
+/usr/lib32/libsuitesparse_mongoose.a
+/usr/lib32/libsuitesparse_mongoose.so -> /usr/lib32/libsuitesparse_mongoose.so.3
+/usr/lib32/libsuitesparseconfig.a
+/usr/lib32/libsuitesparseconfig.so -> /usr/lib32/libsuitesparseconfig.so.7
+/usr/lib32/libumfpack.a
+/usr/lib32/libumfpack.so -> /usr/lib32/libumfpack.so.6
+/usr/lib32/pkgconfig/AMD.pc
+/usr/lib32/pkgconfig/BTF.pc
+/usr/lib32/pkgconfig/CAMD.pc
+/usr/lib32/pkgconfig/CCOLAMD.pc
+/usr/lib32/pkgconfig/CHOLMOD.pc
+/usr/lib32/pkgconfig/COLAMD.pc
+/usr/lib32/pkgconfig/CXSparse.pc
+/usr/lib32/pkgconfig/GraphBLAS.pc
+/usr/lib32/pkgconfig/KLU.pc
+/usr/lib32/pkgconfig/KLU_CHOLMOD.pc
+/usr/lib32/pkgconfig/LAGraph.pc
+/usr/lib32/pkgconfig/LDL.pc
+/usr/lib32/pkgconfig/ParU.pc
+/usr/lib32/pkgconfig/RBio.pc
+/usr/lib32/pkgconfig/SPEX.pc
+/usr/lib32/pkgconfig/SPQR.pc
+/usr/lib32/pkgconfig/SuiteSparse_Mongoose.pc
+/usr/lib32/pkgconfig/SuiteSparse_config.pc
+/usr/lib32/pkgconfig/UMFPACK.pc

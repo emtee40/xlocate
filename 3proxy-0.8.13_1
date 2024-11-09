@@ -1,0 +1,24 @@
+/etc/3proxy/3proxy.cfg.sample
+/etc/3proxy/counters.sample
+/etc/sv/3proxy/run
+/etc/sv/3proxy/supervise -> /run/runit/supervise.3proxy
+/usr/bin/3proxy
+/usr/bin/3proxy-proxy
+/usr/bin/dighosts
+/usr/bin/ftppr
+/usr/bin/mycrypt
+/usr/bin/pop3p
+/usr/bin/socks
+/usr/bin/tcppm
+/usr/bin/udppm
+/usr/share/licenses/3proxy/copying
+/usr/share/man/man3/3proxy.cfg.3
+/usr/share/man/man8/3proxy.8
+/usr/share/man/man8/ftppr.8
+/usr/share/man/man8/icqpr.8
+/usr/share/man/man8/pop3p.8
+/usr/share/man/man8/proxy.8
+/usr/share/man/man8/smtpp.8
+/usr/share/man/man8/socks.8
+/usr/share/man/man8/tcppm.8
+/usr/share/man/man8/udppm.8

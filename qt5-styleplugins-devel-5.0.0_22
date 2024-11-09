@@ -1,0 +1,6 @@
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk2ThemePlugin.cmake
+/usr/lib/cmake/Qt5Widgets/Qt5Widgets_QBB10StylePlugin.cmake
+/usr/lib/cmake/Qt5Widgets/Qt5Widgets_QCleanlooksStylePlugin.cmake
+/usr/lib/cmake/Qt5Widgets/Qt5Widgets_QGtk2StylePlugin.cmake
+/usr/lib/cmake/Qt5Widgets/Qt5Widgets_QMotifStylePlugin.cmake
+/usr/lib/cmake/Qt5Widgets/Qt5Widgets_QPlastiqueStylePlugin.cmake

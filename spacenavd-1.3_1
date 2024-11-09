@@ -1,0 +1,7 @@
+/etc/spnavrc
+/etc/sv/spacenavd/log/run
+/etc/sv/spacenavd/log/supervise -> /run/runit/supervise.spacenavd-log
+/etc/sv/spacenavd/run
+/etc/sv/spacenavd/supervise -> /run/runit/supervise.spacenavd
+/usr/bin/spacenavd
+/usr/bin/spnavd_ctl

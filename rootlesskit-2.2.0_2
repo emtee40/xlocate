@@ -1,0 +1,3 @@
+/usr/bin/rootlessctl
+/usr/bin/rootlesskit
+/usr/bin/rootlesskit-docker-proxy

@@ -1,0 +1,11 @@
+/usr/bin/bcachefs
+/usr/bin/fsck.bcachefs -> /usr/bin/bcachefs
+/usr/bin/fsck.fuse.bcachefs -> /usr/bin/bcachefs
+/usr/bin/mkfs.bcachefs -> /usr/bin/bcachefs
+/usr/bin/mkfs.fuse.bcachefs -> /usr/bin/bcachefs
+/usr/bin/mount.bcachefs -> /usr/bin/bcachefs
+/usr/bin/mount.fuse.bcachefs -> /usr/bin/bcachefs
+/usr/lib/udev/rules.d/64-bcachefs.rules
+/usr/share/initramfs-tools/hooks/bcachefs
+/usr/share/initramfs-tools/scripts/local-premount/bcachefs
+/usr/share/man/man8/bcachefs.8

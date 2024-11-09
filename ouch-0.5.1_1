@@ -1,0 +1,9 @@
+/usr/bin/ouch
+/usr/share/bash-completion/completions/ouch
+/usr/share/fish/vendor_completions.d/ouch.fish
+/usr/share/licenses/ouch/LICENSE
+/usr/share/man/man1/ouch-compress.1
+/usr/share/man/man1/ouch-decompress.1
+/usr/share/man/man1/ouch-list.1
+/usr/share/man/man1/ouch.1
+/usr/share/zsh/site-functions/_ouch

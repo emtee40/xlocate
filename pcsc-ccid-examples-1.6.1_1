@@ -1,0 +1,6 @@
+/usr/libexec/pcsc-ccid/examples/GPL-2
+/usr/libexec/pcsc-ccid/examples/GetSetNAD.py
+/usr/libexec/pcsc-ccid/examples/Makefile.am
+/usr/libexec/pcsc-ccid/examples/PCSCv2part10.c
+/usr/libexec/pcsc-ccid/examples/PCSCv2part10.h
+/usr/libexec/pcsc-ccid/examples/scardcontrol.c

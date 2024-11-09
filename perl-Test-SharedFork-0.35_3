@@ -1,0 +1,5 @@
+/usr/share/man/man3/Test::SharedFork.3p
+/usr/share/perl5/vendor_perl/Test/SharedFork.pm
+/usr/share/perl5/vendor_perl/Test/SharedFork/Array.pm
+/usr/share/perl5/vendor_perl/Test/SharedFork/Scalar.pm
+/usr/share/perl5/vendor_perl/Test/SharedFork/Store.pm

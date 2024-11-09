@@ -1,0 +1,7 @@
+/usr/include/gtkspell-3.0/gtkspell/gtkspell.h
+/usr/lib/libgtkspell3-3.a
+/usr/lib/libgtkspell3-3.so -> /usr/lib/libgtkspell3-3.so.0.2.0
+/usr/lib/pkgconfig/gtkspell3-3.0.pc
+/usr/share/gir-1.0/GtkSpell-3.0.gir
+/usr/share/vala/vapi/gtkspell3-3.0.deps
+/usr/share/vala/vapi/gtkspell3-3.0.vapi

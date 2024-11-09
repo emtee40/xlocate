@@ -1,0 +1,6 @@
+/usr/include/CL/cl2.hpp
+/usr/include/CL/opencl.hpp
+/usr/share/cmake/OpenCLHeadersCpp/OpenCLHeadersCppConfig.cmake
+/usr/share/cmake/OpenCLHeadersCpp/OpenCLHeadersCppConfigVersion.cmake
+/usr/share/cmake/OpenCLHeadersCpp/OpenCLHeadersCppTargets.cmake
+/usr/share/pkgconfig/OpenCL-CLHPP.pc

@@ -1,0 +1,36 @@
+/usr/include/KF5/KScreen/KScreen/Config
+/usr/include/KF5/KScreen/KScreen/ConfigMonitor
+/usr/include/KF5/KScreen/KScreen/ConfigOperation
+/usr/include/KF5/KScreen/KScreen/EDID
+/usr/include/KF5/KScreen/KScreen/GetConfigOperation
+/usr/include/KF5/KScreen/KScreen/Log
+/usr/include/KF5/KScreen/KScreen/Mode
+/usr/include/KF5/KScreen/KScreen/Output
+/usr/include/KF5/KScreen/KScreen/Screen
+/usr/include/KF5/KScreen/KScreen/SetConfigOperation
+/usr/include/KF5/KScreen/KScreen/Types
+/usr/include/KF5/KScreen/KScreenDpms/Dpms
+/usr/include/KF5/KScreen/kscreen/backendmanager_p.h
+/usr/include/KF5/KScreen/kscreen/config.h
+/usr/include/KF5/KScreen/kscreen/configmonitor.h
+/usr/include/KF5/KScreen/kscreen/configoperation.h
+/usr/include/KF5/KScreen/kscreen/edid.h
+/usr/include/KF5/KScreen/kscreen/getconfigoperation.h
+/usr/include/KF5/KScreen/kscreen/kscreen_export.h
+/usr/include/KF5/KScreen/kscreen/log.h
+/usr/include/KF5/KScreen/kscreen/mode.h
+/usr/include/KF5/KScreen/kscreen/output.h
+/usr/include/KF5/KScreen/kscreen/screen.h
+/usr/include/KF5/KScreen/kscreen/setconfigoperation.h
+/usr/include/KF5/KScreen/kscreen/types.h
+/usr/include/KF5/KScreen/kscreendpms/dpms.h
+/usr/include/KF5/KScreen/kscreendpms/kscreendpms_export.h
+/usr/include/KF5/kscreen_version.h
+/usr/lib/cmake/KF5Screen/KF5ScreenConfig.cmake
+/usr/lib/cmake/KF5Screen/KF5ScreenConfigVersion.cmake
+/usr/lib/cmake/KF5Screen/KF5ScreenTargets-none.cmake
+/usr/lib/cmake/KF5Screen/KF5ScreenTargets.cmake
+/usr/lib/libKF5Screen.so -> /usr/lib/libKF5Screen.so.8
+/usr/lib/libKF5ScreenDpms.so -> /usr/lib/libKF5ScreenDpms.so.8
+/usr/lib/pkgconfig/kscreen2.pc
+/usr/lib/qt5/mkspecs/modules/qt_KScreen.pri

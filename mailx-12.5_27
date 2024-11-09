@@ -1,0 +1,4 @@
+/etc/mailx.rc
+/usr/bin/mailx
+/usr/share/licenses/mailx/COPYING
+/usr/share/man/man1/mailx.1

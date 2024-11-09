@@ -1,0 +1,8 @@
+/usr/lib32/libCEGUIBase-0.so -> /usr/lib32/libCEGUIBase-0.so.2
+/usr/lib32/libCEGUICommonDialogs-0.so -> /usr/lib32/libCEGUICommonDialogs-0.so.2
+/usr/lib32/libCEGUIIrrlichtRenderer-0.so -> /usr/lib32/libCEGUIIrrlichtRenderer-0.so.2
+/usr/lib32/libCEGUIOpenGLESRenderer-0.so -> /usr/lib32/libCEGUIOpenGLESRenderer-0.so.2
+/usr/lib32/libCEGUIOpenGLRenderer-0.so -> /usr/lib32/libCEGUIOpenGLRenderer-0.so.2
+/usr/lib32/pkgconfig/CEGUI-0-IRRLICHT.pc
+/usr/lib32/pkgconfig/CEGUI-0-OPENGL.pc
+/usr/lib32/pkgconfig/CEGUI-0.pc

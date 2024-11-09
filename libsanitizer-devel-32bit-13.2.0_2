@@ -1,0 +1,5 @@
+/usr/lib32/libasan.a
+/usr/lib32/libasan.so -> /usr/lib32/libasan.so.8.0.0
+/usr/lib32/libasan_preinit.o
+/usr/lib32/libubsan.a
+/usr/lib32/libubsan.so -> /usr/lib32/libubsan.so.1.0.0

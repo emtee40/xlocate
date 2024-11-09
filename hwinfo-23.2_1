@@ -1,0 +1,14 @@
+/usr/bin/check_hd
+/usr/bin/convert_hd
+/usr/bin/getsysinfo
+/usr/bin/hwinfo
+/usr/bin/mk_isdnhwdb
+/usr/lib/libhd.so.23 -> /usr/lib/libhd.so.23.2
+/usr/lib/libhd.so.23.2
+/usr/share/hwinfo/ISDN.CDB.hwdb
+/usr/share/hwinfo/ISDN.CDB.txt
+/usr/share/man/man1/check_hd.1
+/usr/share/man/man1/convert_hd.1
+/usr/share/man/man1/getsysinfo.1
+/usr/share/man/man1/mk_isdnhwdb.1
+/usr/share/man/man8/hwinfo.8

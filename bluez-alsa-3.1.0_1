@@ -1,0 +1,13 @@
+/etc/alsa/conf.d/20-bluealsa.conf
+/etc/dbus-1/system.d/bluealsa.conf
+/etc/sv/bluez-alsa/run
+/etc/sv/bluez-alsa/supervise -> /run/runit/supervise.bluez-alsa
+/usr/bin/bluealsa
+/usr/bin/bluealsa-aplay
+/usr/lib/alsa-lib/libasound_module_ctl_bluealsa.a
+/usr/lib/alsa-lib/libasound_module_ctl_bluealsa.so
+/usr/lib/alsa-lib/libasound_module_pcm_bluealsa.a
+/usr/lib/alsa-lib/libasound_module_pcm_bluealsa.so
+/usr/share/licenses/bluez-alsa/LICENSE
+/usr/share/man/man1/bluealsa-aplay.1
+/usr/share/man/man8/bluealsa.8

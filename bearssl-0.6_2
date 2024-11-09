@@ -1,0 +1,4 @@
+/usr/bin/brssl
+/usr/lib/libbearssl.so.0 -> /usr/lib/libbearssl.so.0.6
+/usr/lib/libbearssl.so.0.6
+/usr/share/licenses/bearssl/LICENSE

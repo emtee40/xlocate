@@ -1,0 +1,13 @@
+/usr/lib32/dri/crocus_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/i915_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/iris_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/kms_swrast_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/nouveau_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/r300_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/r600_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/radeonsi_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/swrast_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/virtio_gpu_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/vmwgfx_dri.so -> /usr/lib32/dri/libdril_dri.so
+/usr/lib32/dri/zink_dri.so -> /usr/lib32/dri/libdril_dri.so

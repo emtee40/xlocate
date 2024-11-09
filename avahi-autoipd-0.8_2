@@ -1,0 +1,4 @@
+/etc/avahi/avahi-autoipd.action
+/usr/bin/avahi-autoipd
+/usr/share/man/man8/avahi-autoipd.8
+/usr/share/man/man8/avahi-autoipd.action.8

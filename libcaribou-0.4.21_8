@@ -1,0 +1,15 @@
+/usr/lib/girepository-1.0/Caribou-1.0.typelib
+/usr/lib/gnome-settings-daemon-3.0/gtk-modules/caribou-gtk-module.desktop
+/usr/lib/gtk-3.0/modules/libcaribou-gtk-module.so
+/usr/lib/libcaribou.so.0 -> /usr/lib/libcaribou.so.0.0.0
+/usr/lib/libcaribou.so.0.0.0
+/usr/share/caribou/layouts/fullscale/de.xml
+/usr/share/caribou/layouts/fullscale/us.xml
+/usr/share/caribou/layouts/scan/us.xml
+/usr/share/caribou/layouts/tablet/de.xml
+/usr/share/caribou/layouts/tablet/us.xml
+/usr/share/caribou/layouts/touch/ara.xml
+/usr/share/caribou/layouts/touch/de.xml
+/usr/share/caribou/layouts/touch/fr.xml
+/usr/share/caribou/layouts/touch/il.xml
+/usr/share/caribou/layouts/touch/us.xml

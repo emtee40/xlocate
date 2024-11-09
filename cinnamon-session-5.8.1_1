@@ -1,0 +1,15 @@
+/usr/bin/cinnamon-session
+/usr/bin/cinnamon-session-quit
+/usr/libexec/cinnamon-session-check-accelerated
+/usr/libexec/cinnamon-session-check-accelerated-helper
+/usr/share/cinnamon-session/csm-inhibit-dialog.glade
+/usr/share/cinnamon-session/hardware-compatibility
+/usr/share/glib-2.0/schemas/org.cinnamon.SessionManager.gschema.xml
+/usr/share/icons/hicolor/16x16/apps/cinnamon-session-properties.png
+/usr/share/icons/hicolor/22x22/apps/cinnamon-session-properties.png
+/usr/share/icons/hicolor/24x24/apps/cinnamon-session-properties.png
+/usr/share/icons/hicolor/32x32/apps/cinnamon-session-properties.png
+/usr/share/icons/hicolor/48x48/apps/cinnamon-session-properties.png
+/usr/share/icons/hicolor/scalable/apps/cinnamon-session-properties.svg
+/usr/share/man/man1/cinnamon-session-quit.1
+/usr/share/man/man1/cinnamon-session.1

@@ -1,0 +1,3 @@
+/usr/lib32/liblapack.a
+/usr/lib32/liblapack.so -> /usr/lib32/liblapack.so.3
+/usr/lib32/pkgconfig/lapack.pc

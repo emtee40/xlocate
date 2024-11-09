@@ -1,0 +1,9 @@
+/usr/include/py3c.h
+/usr/include/py3c/capsulethunk.h
+/usr/include/py3c/comparison.h
+/usr/include/py3c/compat.h
+/usr/include/py3c/fileshim.h
+/usr/include/py3c/py3shims.h
+/usr/include/py3c/tpflags.h
+/usr/share/licenses/py3c/LICENSE.MIT
+/usr/share/pkgconfig/py3c.pc

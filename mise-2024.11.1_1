@@ -1,0 +1,7 @@
+/usr/bin/mise
+/usr/share/bash-completion/completions/mise
+/usr/share/doc/mise/README.md
+/usr/share/fish/vendor_completions.d/mise.fish
+/usr/share/licenses/mise/LICENSE
+/usr/share/man/man1/mise.1
+/usr/share/zsh/site-functions/_mise

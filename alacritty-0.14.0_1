@@ -1,0 +1,10 @@
+/usr/bin/alacritty
+/usr/share/applications/Alacritty.desktop
+/usr/share/bash-completion/completions/alacritty
+/usr/share/fish/vendor_completions.d/alacritty.fish
+/usr/share/icons/hicolor/scalable/apps/Alacritty.svg
+/usr/share/man/man1/alacritty-msg.1
+/usr/share/man/man1/alacritty.1
+/usr/share/man/man5/alacritty-bindings.5
+/usr/share/man/man5/alacritty.5
+/usr/share/zsh/site-functions/_alacritty

@@ -1,0 +1,15 @@
+/usr/bin/loadp2 -> /usr/libexec/p2tools/bin/loadp2
+/usr/libexec/p2tools/bin/loadp2
+/usr/libexec/p2tools/board/P2ES_flashloader.bin
+/usr/libexec/p2tools/board/P2ES_flashloader.spin2
+/usr/libexec/p2tools/board/P2ES_sdcard.bin
+/usr/libexec/p2tools/board/README.txt
+/usr/libexec/p2tools/board/sdcard/Makefile
+/usr/libexec/p2tools/board/sdcard/diskio.h
+/usr/libexec/p2tools/board/sdcard/ff.c
+/usr/libexec/p2tools/board/sdcard/ff.h
+/usr/libexec/p2tools/board/sdcard/ffconf.h
+/usr/libexec/p2tools/board/sdcard/sdboot.c
+/usr/libexec/p2tools/board/sdcard/sdboot.p2asm
+/usr/libexec/p2tools/board/sdcard/sdmm.c
+/usr/share/licenses/loadp2/LICENSE

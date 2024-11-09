@@ -1,0 +1,15 @@
+/usr/lib32/libmuffin.so.0 -> /usr/lib32/libmuffin.so.0.0.0
+/usr/lib32/libmuffin.so.0.0.0
+/usr/lib32/muffin/libmuffin-clutter-0.so -> /usr/lib32/muffin/libmuffin-clutter-0.so.0
+/usr/lib32/muffin/libmuffin-clutter-0.so.0 -> /usr/lib32/muffin/libmuffin-clutter-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-clutter-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-0.so -> /usr/lib32/muffin/libmuffin-cogl-0.so.0
+/usr/lib32/muffin/libmuffin-cogl-0.so.0 -> /usr/lib32/muffin/libmuffin-cogl-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-pango-0.so -> /usr/lib32/muffin/libmuffin-cogl-pango-0.so.0
+/usr/lib32/muffin/libmuffin-cogl-pango-0.so.0 -> /usr/lib32/muffin/libmuffin-cogl-pango-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-pango-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-path-0.so -> /usr/lib32/muffin/libmuffin-cogl-path-0.so.0
+/usr/lib32/muffin/libmuffin-cogl-path-0.so.0 -> /usr/lib32/muffin/libmuffin-cogl-path-0.so.0.0.0
+/usr/lib32/muffin/libmuffin-cogl-path-0.so.0.0.0
+/usr/lib32/muffin/plugins/libdefault.so

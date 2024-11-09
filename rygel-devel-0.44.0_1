@@ -1,0 +1,33 @@
+/usr/include/rygel-2.8/rygel-core.h
+/usr/include/rygel-2.8/rygel-db.h
+/usr/include/rygel-2.8/rygel-renderer-gst.h
+/usr/include/rygel-2.8/rygel-renderer.h
+/usr/include/rygel-2.8/rygel-ruih.h
+/usr/include/rygel-2.8/rygel-server.h
+/usr/lib/librygel-core-2.8.so -> /usr/lib/librygel-core-2.8.so.0
+/usr/lib/librygel-db-2.8.so -> /usr/lib/librygel-db-2.8.so.0
+/usr/lib/librygel-renderer-2.8.so -> /usr/lib/librygel-renderer-2.8.so.0
+/usr/lib/librygel-renderer-gst-2.8.so -> /usr/lib/librygel-renderer-gst-2.8.so.0
+/usr/lib/librygel-ruih-2.8.so -> /usr/lib/librygel-ruih-2.8.so.0
+/usr/lib/librygel-server-2.8.so -> /usr/lib/librygel-server-2.8.so.0
+/usr/lib/pkgconfig/rygel-core-2.8.pc
+/usr/lib/pkgconfig/rygel-renderer-2.8.pc
+/usr/lib/pkgconfig/rygel-renderer-gst-2.8.pc
+/usr/lib/pkgconfig/rygel-ruih-2.8.pc
+/usr/lib/pkgconfig/rygel-server-2.8.pc
+/usr/share/gir-1.0/RygelCore-2.8.gir
+/usr/share/gir-1.0/RygelRenderer-2.8.gir
+/usr/share/gir-1.0/RygelRendererGst-2.8.gir
+/usr/share/gir-1.0/RygelServer-2.8.gir
+/usr/share/vala/vapi/rygel-core-2.8.deps
+/usr/share/vala/vapi/rygel-core-2.8.vapi
+/usr/share/vala/vapi/rygel-db-2.8.deps
+/usr/share/vala/vapi/rygel-db-2.8.vapi
+/usr/share/vala/vapi/rygel-renderer-2.8.deps
+/usr/share/vala/vapi/rygel-renderer-2.8.vapi
+/usr/share/vala/vapi/rygel-renderer-gst-2.8.deps
+/usr/share/vala/vapi/rygel-renderer-gst-2.8.vapi
+/usr/share/vala/vapi/rygel-ruih-2.8.deps
+/usr/share/vala/vapi/rygel-ruih-2.8.vapi
+/usr/share/vala/vapi/rygel-server-2.8.deps
+/usr/share/vala/vapi/rygel-server-2.8.vapi

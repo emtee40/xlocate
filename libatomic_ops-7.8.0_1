@@ -1,0 +1,14 @@
+/usr/lib/libatomic_ops.so.1 -> /usr/lib/libatomic_ops.so.1.2.0
+/usr/lib/libatomic_ops.so.1.2.0
+/usr/lib/libatomic_ops_gpl.so.1 -> /usr/lib/libatomic_ops_gpl.so.1.2.0
+/usr/lib/libatomic_ops_gpl.so.1.2.0
+/usr/share/doc/libatomic_ops/AUTHORS
+/usr/share/doc/libatomic_ops/COPYING
+/usr/share/doc/libatomic_ops/ChangeLog
+/usr/share/doc/libatomic_ops/LICENSE
+/usr/share/doc/libatomic_ops/README.md
+/usr/share/doc/libatomic_ops/README_details.txt
+/usr/share/doc/libatomic_ops/README_malloc.txt
+/usr/share/doc/libatomic_ops/README_stack.txt
+/usr/share/doc/libatomic_ops/README_win32.txt
+/usr/share/licenses/libatomic_ops/LICENSE

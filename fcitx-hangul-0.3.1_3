@@ -1,0 +1,15 @@
+/usr/lib/fcitx/fcitx-hangul.so
+/usr/share/fcitx/addon/fcitx-hangul.conf
+/usr/share/fcitx/configdesc/fcitx-hangul.desc
+/usr/share/fcitx/hangul/symbol.txt
+/usr/share/fcitx/imicon/hangul.png
+/usr/share/fcitx/inputmethod/hangul.conf
+/usr/share/locale/ca/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx-hangul.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx-hangul.mo

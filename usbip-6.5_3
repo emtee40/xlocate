@@ -1,0 +1,9 @@
+/etc/sv/usbipd/log/run
+/etc/sv/usbipd/log/supervise -> /run/runit/supervise.usbipd-log
+/etc/sv/usbipd/run
+/etc/sv/usbipd/supervise -> /run/runit/supervise.usbipd
+/usr/bin/usbip
+/usr/bin/usbipd
+/usr/lib/modules-load.d/usbip.conf
+/usr/share/man/man8/usbip.8
+/usr/share/man/man8/usbipd.8

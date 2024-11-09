@@ -1,0 +1,4 @@
+/usr/include/libwapcaplet/libwapcaplet.h
+/usr/lib/libwapcaplet.a
+/usr/lib/libwapcaplet.so -> /usr/lib/libwapcaplet.so.0.4.3
+/usr/lib/pkgconfig/libwapcaplet.pc

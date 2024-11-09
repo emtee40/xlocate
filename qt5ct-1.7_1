@@ -1,0 +1,22 @@
+/etc/profile.d/qt5ct.sh
+/usr/bin/qt5ct
+/usr/lib/libqt5ct-common.so -> /usr/lib/libqt5ct-common.so.1.7.0
+/usr/lib/libqt5ct-common.so.1 -> /usr/lib/libqt5ct-common.so.1.7.0
+/usr/lib/libqt5ct-common.so.1.7 -> /usr/lib/libqt5ct-common.so.1.7.0
+/usr/lib/libqt5ct-common.so.1.7.0
+/usr/lib/qt5/plugins/platformthemes/libqt5ct.so
+/usr/lib/qt5/plugins/styles/libqt5ct-style.so
+/usr/share/applications/qt5ct.desktop
+/usr/share/licenses/qt5ct/COPYING
+/usr/share/qt5ct/colors/airy.conf
+/usr/share/qt5ct/colors/darker.conf
+/usr/share/qt5ct/colors/dusk.conf
+/usr/share/qt5ct/colors/ia_ora.conf
+/usr/share/qt5ct/colors/sand.conf
+/usr/share/qt5ct/colors/simple.conf
+/usr/share/qt5ct/colors/waves.conf
+/usr/share/qt5ct/qss/fusion-fixes.qss
+/usr/share/qt5ct/qss/scrollbar-simple.qss
+/usr/share/qt5ct/qss/sliders-simple.qss
+/usr/share/qt5ct/qss/tooltip-simple.qss
+/usr/share/qt5ct/qss/traynotification-simple.qss

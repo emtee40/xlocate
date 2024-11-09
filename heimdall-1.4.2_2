@@ -1,0 +1,4 @@
+/usr/bin/heimdall
+/usr/bin/heimdall-frontend
+/usr/lib/udev/rules.d/60-heimdall.rules
+/usr/share/licenses/heimdall/LICENSE

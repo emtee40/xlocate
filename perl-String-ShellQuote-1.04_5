@@ -1,0 +1,4 @@
+/usr/bin/shell-quote
+/usr/share/man/man1/shell-quote.1p
+/usr/share/man/man3/String::ShellQuote.3p
+/usr/share/perl5/vendor_perl/String/ShellQuote.pm

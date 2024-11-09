@@ -1,0 +1,7 @@
+/usr/lib32/libKF6ConfigCore.so.6 -> /usr/lib32/libKF6ConfigCore.so.6.7.0
+/usr/lib32/libKF6ConfigCore.so.6.7.0
+/usr/lib32/libKF6ConfigGui.so.6 -> /usr/lib32/libKF6ConfigGui.so.6.7.0
+/usr/lib32/libKF6ConfigGui.so.6.7.0
+/usr/lib32/libKF6ConfigQml.so.6 -> /usr/lib32/libKF6ConfigQml.so.6.7.0
+/usr/lib32/libKF6ConfigQml.so.6.7.0
+/usr/lib32/qt6/qml/org/kde/config/libKF6ConfigQmlplugin.so

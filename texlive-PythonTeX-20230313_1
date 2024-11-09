@@ -1,0 +1,4 @@
+/usr/bin/depythontex -> /usr/share/texmf-dist/scripts/pythontex/depythontex.py
+/usr/bin/pythontex -> /usr/share/texmf-dist/scripts/pythontex/pythontex.py
+/usr/share/texmf-dist/scripts/pythontex/depythontex.py
+/usr/share/texmf-dist/scripts/pythontex/pythontex.py

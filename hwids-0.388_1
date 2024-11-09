@@ -1,0 +1,4 @@
+/usr/share/hwdata/pci.ids
+/usr/share/hwdata/pnp.ids
+/usr/share/hwdata/usb.ids
+/usr/share/pkgconfig/hwdata.pc

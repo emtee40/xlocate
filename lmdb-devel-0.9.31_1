@@ -1,0 +1,3 @@
+/usr/include/lmdb.h
+/usr/lib/liblmdb.a
+/usr/lib/liblmdb.so -> /usr/lib/liblmdb.so.0.9

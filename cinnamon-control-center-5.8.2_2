@@ -1,0 +1,36 @@
+/usr/bin/cinnamon-control-center
+/usr/lib/cinnamon-control-center-1/panels/libcolor.so
+/usr/lib/cinnamon-control-center-1/panels/libdisplay.so
+/usr/lib/cinnamon-control-center-1/panels/libnetwork.so
+/usr/lib/cinnamon-control-center-1/panels/libregion.so
+/usr/lib/cinnamon-control-center-1/panels/libwacom-properties.so
+/usr/share/applications/cinnamon-color-panel.desktop
+/usr/share/applications/cinnamon-display-panel.desktop
+/usr/share/applications/cinnamon-network-panel.desktop
+/usr/share/applications/cinnamon-wacom-panel.desktop
+/usr/share/cinnamon-control-center/panels/cinnamon-color-panel.desktop -> /usr/share/applications/cinnamon-color-panel.desktop
+/usr/share/cinnamon-control-center/panels/cinnamon-display-panel.desktop -> /usr/share/applications/cinnamon-display-panel.desktop
+/usr/share/cinnamon-control-center/panels/cinnamon-network-panel.desktop -> /usr/share/applications/cinnamon-network-panel.desktop
+/usr/share/cinnamon-control-center/panels/cinnamon-region-panel.desktop
+/usr/share/cinnamon-control-center/panels/cinnamon-wacom-panel.desktop -> /usr/share/applications/cinnamon-wacom-panel.desktop
+/usr/share/cinnamon-control-center/ui/cinnamon-region-panel-layout-chooser.ui
+/usr/share/cinnamon-control-center/ui/cinnamon-region-panel-options-dialog.ui
+/usr/share/cinnamon-control-center/ui/cinnamon-region-panel.ui
+/usr/share/cinnamon-control-center/ui/color.ui
+/usr/share/cinnamon-control-center/ui/language-chooser.ui
+/usr/share/cinnamon-control-center/ui/network.ui
+/usr/share/cinnamon-control-center/ui/shell.ui
+/usr/share/glib-2.0/schemas/org.cinnamon.control-center.display.gschema.xml
+/usr/share/icons/hicolor/16x16/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/16x16/apps/cinnamon-preferences-desktop-display.png
+/usr/share/icons/hicolor/22x22/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/22x22/apps/cinnamon-preferences-desktop-display.png
+/usr/share/icons/hicolor/24x24/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/24x24/apps/cinnamon-preferences-desktop-display.png
+/usr/share/icons/hicolor/256x256/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/32x32/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/32x32/apps/cinnamon-preferences-desktop-display.png
+/usr/share/icons/hicolor/48x48/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/64x64/apps/cinnamon-preferences-color.png
+/usr/share/icons/hicolor/scalable/apps/cinnamon-preferences-color.svg
+/usr/share/icons/hicolor/scalable/apps/cinnamon-preferences-desktop-display.svg

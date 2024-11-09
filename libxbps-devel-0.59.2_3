@@ -1,0 +1,11 @@
+/usr/include/xbps.h
+/usr/include/xbps/xbps_array.h
+/usr/include/xbps/xbps_bool.h
+/usr/include/xbps/xbps_data.h
+/usr/include/xbps/xbps_dictionary.h
+/usr/include/xbps/xbps_number.h
+/usr/include/xbps/xbps_object.h
+/usr/include/xbps/xbps_string.h
+/usr/lib/libxbps.a
+/usr/lib/libxbps.so -> /usr/lib/libxbps.so.5.0.0
+/usr/lib/pkgconfig/libxbps.pc

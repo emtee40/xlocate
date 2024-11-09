@@ -1,0 +1,9 @@
+/usr/bin/fstrm_capture
+/usr/bin/fstrm_dump
+/usr/bin/fstrm_replay
+/usr/lib/libfstrm.so.0 -> /usr/lib/libfstrm.so.0.1.0
+/usr/lib/libfstrm.so.0.1.0
+/usr/share/licenses/fstrm/LICENSE
+/usr/share/man/man1/fstrm_capture.1
+/usr/share/man/man1/fstrm_dump.1
+/usr/share/man/man1/fstrm_replay.1

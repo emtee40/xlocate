@@ -1,0 +1,4 @@
+/usr/bin/grype
+/usr/share/bash-completion/completions/grype
+/usr/share/fish/vendor_completions.d/grype.fish
+/usr/share/zsh/site-functions/_grype

@@ -1,0 +1,10 @@
+/etc/fonts/conf.d/70-noto-fonts-cjk-sans.conf -> /usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-sans.conf
+/usr/share/fontconfig/conf.avail/70-noto-fonts-cjk-sans.conf
+/usr/share/fonts/noto/NotoSansCJK-Black.ttc
+/usr/share/fonts/noto/NotoSansCJK-Bold.ttc
+/usr/share/fonts/noto/NotoSansCJK-DemiLight.ttc
+/usr/share/fonts/noto/NotoSansCJK-Light.ttc
+/usr/share/fonts/noto/NotoSansCJK-Medium.ttc
+/usr/share/fonts/noto/NotoSansCJK-Regular.ttc
+/usr/share/fonts/noto/NotoSansCJK-Thin.ttc
+/usr/share/licenses/noto-fonts-cjk-sans/LICENSE

@@ -1,0 +1,18 @@
+/etc/sv/twoftpd-anon/env/CHROOT
+/etc/sv/twoftpd-anon/env/HOME
+/etc/sv/twoftpd-anon/run
+/etc/sv/twoftpd-anon/supervise -> /run/runit/supervise.twoftpd-anon
+/usr/bin/twoftpd-anon
+/usr/bin/twoftpd-anon-conf
+/usr/bin/twoftpd-auth
+/usr/bin/twoftpd-bind-port
+/usr/bin/twoftpd-conf
+/usr/bin/twoftpd-drop
+/usr/bin/twoftpd-switch
+/usr/bin/twoftpd-xfer
+/usr/share/doc/twoftpd/ANNOUNCEMENT
+/usr/share/doc/twoftpd/NEWS
+/usr/share/doc/twoftpd/README
+/usr/share/man/man1/twoftpd-auth.1
+/usr/share/man/man1/twoftpd-switch.1
+/usr/share/man/man1/twoftpd-xfer.1

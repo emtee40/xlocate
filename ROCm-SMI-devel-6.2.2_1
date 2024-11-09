@@ -1,0 +1,11 @@
+/usr/include/oam/amd_oam.h
+/usr/include/oam/oam_mapi.h
+/usr/include/rocm_smi/kfd_ioctl.h
+/usr/include/rocm_smi/rocm_smi.h
+/usr/include/rocm_smi/rocm_smi64Config.h
+/usr/lib/cmake/rocm_smi/rocm_smi-config-version.cmake
+/usr/lib/cmake/rocm_smi/rocm_smi-config.cmake
+/usr/lib/cmake/rocm_smi/rocm_smiTargets-none.cmake
+/usr/lib/cmake/rocm_smi/rocm_smiTargets.cmake
+/usr/lib/liboam.so -> /usr/lib/liboam.so.1
+/usr/lib/librocm_smi64.so -> /usr/lib/librocm_smi64.so.1

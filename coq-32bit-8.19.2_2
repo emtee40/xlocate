@@ -1,0 +1,4 @@
+/usr/lib32/coq-core/perf/libcoqperf_stubs.a
+/usr/lib32/coq-core/vm/libcoqrun_stubs.a
+/usr/lib32/stublibs/dllcoqperf_stubs.so
+/usr/lib32/stublibs/dllcoqrun_stubs.so

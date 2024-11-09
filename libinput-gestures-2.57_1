@@ -1,0 +1,6 @@
+/etc/libinput-gestures.conf
+/usr/bin/libinput-gestures
+/usr/bin/libinput-gestures-setup
+/usr/share/applications/libinput-gestures.desktop
+/usr/share/doc/libinput-gestures/README.md
+/usr/share/icons/hicolor/128x128/apps/libinput-gestures.svg

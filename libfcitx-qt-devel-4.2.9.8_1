@@ -1,0 +1,14 @@
+/usr/include/fcitx-qt/fcitxqt_export.h
+/usr/include/fcitx-qt/fcitxqtconfiguifactory.h
+/usr/include/fcitx-qt/fcitxqtconfiguiplugin.h
+/usr/include/fcitx-qt/fcitxqtconfiguiwidget.h
+/usr/include/fcitx-qt/fcitxqtconnection.h
+/usr/include/fcitx-qt/fcitxqtformattedpreedit.h
+/usr/include/fcitx-qt/fcitxqtinputcontextproxy.h
+/usr/include/fcitx-qt/fcitxqtinputmethoditem.h
+/usr/include/fcitx-qt/fcitxqtinputmethodproxy.h
+/usr/include/fcitx-qt/fcitxqtkeyboardlayout.h
+/usr/include/fcitx-qt/fcitxqtkeyboardproxy.h
+/usr/include/fcitx-qt/fcitxqtkeysequencewidget.h
+/usr/lib/libfcitx-qt.so -> /usr/lib/libfcitx-qt.so.0
+/usr/lib/pkgconfig/fcitx-qt.pc

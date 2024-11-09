@@ -1,0 +1,7 @@
+/etc/sv/qemu-ga/log/run
+/etc/sv/qemu-ga/log/supervise -> /run/runit/supervise.qemu-ga-log
+/etc/sv/qemu-ga/run
+/etc/sv/qemu-ga/supervise -> /run/runit/supervise.qemu-ga
+/usr/bin/qemu-ga
+/usr/share/man/man7/qemu-ga-ref.7
+/usr/share/man/man8/qemu-ga.8

@@ -1,0 +1,15 @@
+/usr/include/KF6/KColorScheme/KColorScheme
+/usr/include/KF6/KColorScheme/KColorSchemeManager
+/usr/include/KF6/KColorScheme/KColorSchemeModel
+/usr/include/KF6/KColorScheme/KStatefulBrush
+/usr/include/KF6/KColorScheme/kcolorscheme.h
+/usr/include/KF6/KColorScheme/kcolorscheme_export.h
+/usr/include/KF6/KColorScheme/kcolorscheme_version.h
+/usr/include/KF6/KColorScheme/kcolorschememanager.h
+/usr/include/KF6/KColorScheme/kcolorschememodel.h
+/usr/include/KF6/KColorScheme/kstatefulbrush.h
+/usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeConfig.cmake
+/usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeConfigVersion.cmake
+/usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets-none.cmake
+/usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets.cmake
+/usr/lib/libKF6ColorScheme.so -> /usr/lib/libKF6ColorScheme.so.6

@@ -1,0 +1,7 @@
+/usr/include/quvi/llst.h
+/usr/include/quvi/net.h
+/usr/include/quvi/quvi.h
+/usr/lib/libquvi.a
+/usr/lib/libquvi.so -> /usr/lib/libquvi.so.7.0.1
+/usr/lib/pkgconfig/libquvi.pc
+/usr/share/man/man3/libquvi.3

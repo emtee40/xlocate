@@ -1,0 +1,11 @@
+/usr/include/iniparser/dictionary.h
+/usr/include/iniparser/iniparser.h
+/usr/lib/cmake/iniparser/iniparser-config-version.cmake
+/usr/lib/cmake/iniparser/iniparser-config.cmake
+/usr/lib/cmake/iniparser/iniparser-sharedTargets-none.cmake
+/usr/lib/cmake/iniparser/iniparser-sharedTargets.cmake
+/usr/lib/cmake/iniparser/iniparser-staticTargets-none.cmake
+/usr/lib/cmake/iniparser/iniparser-staticTargets.cmake
+/usr/lib/libiniparser.a
+/usr/lib/libiniparser.so -> /usr/lib/libiniparser.so.4
+/usr/lib/pkgconfig/iniparser.pc

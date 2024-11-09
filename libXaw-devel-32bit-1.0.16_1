@@ -1,0 +1,7 @@
+/usr/lib32/libXaw.so -> /usr/lib32/libXaw7.so
+/usr/lib32/libXaw6.a
+/usr/lib32/libXaw6.so -> /usr/lib32/libXaw6.so.6.0.1
+/usr/lib32/libXaw7.a
+/usr/lib32/libXaw7.so -> /usr/lib32/libXaw7.so.7.0.0
+/usr/lib32/pkgconfig/xaw6.pc
+/usr/lib32/pkgconfig/xaw7.pc

@@ -1,0 +1,137 @@
+/usr/lib/libtranscript.so.1 -> /usr/lib/libtranscript.so.1.0.0
+/usr/lib/libtranscript.so.1.0.0
+/usr/lib/transcript1/aliases.txt
+/usr/lib/transcript1/ascii.ltc
+/usr/lib/transcript1/big5.ltc
+/usr/lib/transcript1/big5hkscs.ltc
+/usr/lib/transcript1/big5hkscs1999.ltc -> /usr/lib/transcript1/big5hkscs.ltc
+/usr/lib/transcript1/big5hkscs2001.ltc -> /usr/lib/transcript1/big5hkscs.ltc
+/usr/lib/transcript1/big5hkscs2004.ltc -> /usr/lib/transcript1/big5hkscs.ltc
+/usr/lib/transcript1/big5hkscs2008.ltc -> /usr/lib/transcript1/big5hkscs.ltc
+/usr/lib/transcript1/cesu8.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/cns116431.ltc
+/usr/lib/transcript1/cns1164319921.ltc -> /usr/lib/transcript1/cns116431.ltc
+/usr/lib/transcript1/cns1164319922.ltc -> /usr/lib/transcript1/cns116432.ltc
+/usr/lib/transcript1/cns1164319923.ltc -> /usr/lib/transcript1/cns116433.ltc
+/usr/lib/transcript1/cns1164319924.ltc -> /usr/lib/transcript1/cns116434.ltc
+/usr/lib/transcript1/cns1164319925.ltc -> /usr/lib/transcript1/cns116435.ltc
+/usr/lib/transcript1/cns1164319926.ltc -> /usr/lib/transcript1/cns116436.ltc
+/usr/lib/transcript1/cns1164319927.ltc -> /usr/lib/transcript1/cns116437.ltc
+/usr/lib/transcript1/cns116431992f.ltc -> /usr/lib/transcript1/cns11643f.ltc
+/usr/lib/transcript1/cns116432.ltc
+/usr/lib/transcript1/cns1164320041.ltc -> /usr/lib/transcript1/cns116431.ltc
+/usr/lib/transcript1/cns1164320042.ltc -> /usr/lib/transcript1/cns116432.ltc
+/usr/lib/transcript1/cns1164320043.ltc -> /usr/lib/transcript1/cns116433.ltc
+/usr/lib/transcript1/cns1164320044.ltc -> /usr/lib/transcript1/cns116434.ltc
+/usr/lib/transcript1/cns1164320045.ltc -> /usr/lib/transcript1/cns116435.ltc
+/usr/lib/transcript1/cns1164320046.ltc -> /usr/lib/transcript1/cns116436.ltc
+/usr/lib/transcript1/cns1164320047.ltc -> /usr/lib/transcript1/cns116437.ltc
+/usr/lib/transcript1/cns116432004b.ltc
+/usr/lib/transcript1/cns116432004c.ltc
+/usr/lib/transcript1/cns116432004d.ltc
+/usr/lib/transcript1/cns116432004e.ltc
+/usr/lib/transcript1/cns116432004f.ltc -> /usr/lib/transcript1/cns11643f.ltc
+/usr/lib/transcript1/cns116433.ltc
+/usr/lib/transcript1/cns116434.ltc
+/usr/lib/transcript1/cns116435.ltc
+/usr/lib/transcript1/cns116436.ltc
+/usr/lib/transcript1/cns116437.ltc
+/usr/lib/transcript1/cns11643f.ltc
+/usr/lib/transcript1/cp949.ltc
+/usr/lib/transcript1/euccn.ltc
+/usr/lib/transcript1/eucjis2004.ltc
+/usr/lib/transcript1/eucjisx213.ltc -> /usr/lib/transcript1/eucjis2004.ltc
+/usr/lib/transcript1/eucjp.ltc
+/usr/lib/transcript1/euckr.ltc
+/usr/lib/transcript1/euctw.ltc
+/usr/lib/transcript1/euctw1992.ltc -> /usr/lib/transcript1/euctw.ltc
+/usr/lib/transcript1/euctw2004.ltc -> /usr/lib/transcript1/euctw.ltc
+/usr/lib/transcript1/gb18030.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/gb18030table.ltc
+/usr/lib/transcript1/ibm1047p1001995.ltc
+/usr/lib/transcript1/ibm1168p1002002.ltc
+/usr/lib/transcript1/ibm37p1001995.ltc
+/usr/lib/transcript1/ibm437p1001995.ltc
+/usr/lib/transcript1/ibm5346p1001998.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm5347p1001998.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm5348p1001997.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm5349p1001998.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm5350p1001998.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm5354p1001998.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm878p1001996.ltc
+/usr/lib/transcript1/ibm9447p1002002.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm9448x1002005.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/ibm9449p1002002.ltc -> /usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso202288591.ltc -> /usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso202288597.ltc -> /usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso2022ascii.ltc -> /usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso2022cn.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022cnext.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022gb2312.ltc
+/usr/lib/transcript1/iso2022jisx201kana.ltc -> /usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso2022jisx201roman.ltc -> /usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso2022jisx208.ltc
+/usr/lib/transcript1/iso2022jisx2081978.ltc -> /usr/lib/transcript1/iso2022jisx208.ltc
+/usr/lib/transcript1/iso2022jisx2081983.ltc -> /usr/lib/transcript1/iso2022jisx208.ltc
+/usr/lib/transcript1/iso2022jisx2081990.ltc -> /usr/lib/transcript1/iso2022jisx208.ltc
+/usr/lib/transcript1/iso2022jisx2121990.ltc
+/usr/lib/transcript1/iso2022jisx213.ltc
+/usr/lib/transcript1/iso2022jisx21320001.ltc -> /usr/lib/transcript1/iso2022jisx213.ltc
+/usr/lib/transcript1/iso2022jisx21320002.ltc -> /usr/lib/transcript1/iso2022jisx213.ltc
+/usr/lib/transcript1/iso2022jisx21320041.ltc -> /usr/lib/transcript1/iso2022jisx213.ltc
+/usr/lib/transcript1/iso2022jp.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022jp1.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022jp2.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022jp2004.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022jp3.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022kr.ltc -> /usr/lib/transcript1/iso2022.ltc
+/usr/lib/transcript1/iso2022ksc5601.ltc
+/usr/lib/transcript1/iso2022sbcs.ltc
+/usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso88591.ltc -> /usr/lib/transcript1/ascii.ltc
+/usr/lib/transcript1/iso8859101998.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso8859112001.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso8859131998.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso8859141998.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso8859151999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso8859162001.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885921999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885931999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885941998.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885951999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885961999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885971987.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885972003.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885981999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/iso885991999.ltc -> /usr/lib/transcript1/iso8859.ltc
+/usr/lib/transcript1/isoir165.ltc
+/usr/lib/transcript1/jisx2011969.ltc
+/usr/lib/transcript1/koi8ru.ltc
+/usr/lib/transcript1/scsu.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/shiftjis.ltc
+/usr/lib/transcript1/shiftjis2004.ltc
+/usr/lib/transcript1/shiftjisx213.ltc -> /usr/lib/transcript1/shiftjis2004.ltc
+/usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf16.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf16be.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf16le.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf32.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf32be.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf32le.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf7.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/utf8.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/viscii.ltc
+/usr/lib/transcript1/windows125x.ltc
+/usr/lib/transcript1/windows932.ltc
+/usr/lib/transcript1/windows9362000.ltc
+/usr/lib/transcript1/windows950.ltc -> /usr/lib/transcript1/big5.ltc
+/usr/lib/transcript1/xutf16bebom.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/xutf16lebom.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/xutf32bebom.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/xutf32lebom.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/lib/transcript1/xutf8bom.ltc -> /usr/lib/transcript1/unicode.ltc
+/usr/share/doc/libtranscript/COPYING
+/usr/share/doc/libtranscript/Changelog
+/usr/share/doc/libtranscript/README
+/usr/share/doc/libtranscript/motivation.txt

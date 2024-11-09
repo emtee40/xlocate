@@ -1,0 +1,17 @@
+/usr/lib/fcitx/fcitx-chewing.so
+/usr/share/fcitx/addon/fcitx-chewing.conf
+/usr/share/fcitx/configdesc/fcitx-chewing.desc
+/usr/share/fcitx/imicon/chewing.png
+/usr/share/fcitx/inputmethod/chewing.conf
+/usr/share/fcitx/skin/classic/chewing.png
+/usr/share/fcitx/skin/dark/chewing.png
+/usr/share/fcitx/skin/default/chewing.png
+/usr/share/locale/ca/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/da/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/de/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/tr/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx-chewing.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx-chewing.mo

@@ -1,0 +1,13 @@
+/etc/xdg/autostart/ldm-session-init.desktop
+/usr/bin/ldm-session-init
+/usr/bin/linux-driver-management
+/usr/bin/mkmodaliases
+/usr/lib/girepository-1.0/Ldm-1.0.typelib
+/usr/lib/libldm.so.1 -> /usr/lib/libldm.so.1.0.2
+/usr/lib/libldm.so.1.0.2
+/usr/share/examples/sddm/scripts/Xsetup
+/usr/share/gdm/greeter/autostart/ldm-session-init.desktop
+/usr/share/lightdm/lightdm.conf.d/99-ldm.conf
+/usr/share/man/man1/ldm-session-init.1
+/usr/share/man/man1/linux-driver-management.1
+/usr/share/man/man1/mkmodaliases.1

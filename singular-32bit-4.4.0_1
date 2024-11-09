@@ -1,0 +1,20 @@
+/usr/lib32/libSingular-4.4.0.so
+/usr/lib32/libSingular.a
+/usr/lib32/libSingular.so -> /usr/lib32/libSingular-4.4.0.so
+/usr/lib32/libfactory-4.4.0.so
+/usr/lib32/libfactory.a
+/usr/lib32/libfactory.so -> /usr/lib32/libfactory-4.4.0.so
+/usr/lib32/libomalloc-0.9.6.so
+/usr/lib32/libomalloc.a
+/usr/lib32/libomalloc.so -> /usr/lib32/libomalloc-0.9.6.so
+/usr/lib32/libpolys-4.4.0.so
+/usr/lib32/libpolys.a
+/usr/lib32/libpolys.so -> /usr/lib32/libpolys-4.4.0.so
+/usr/lib32/libsingular_resources-4.4.0.so
+/usr/lib32/libsingular_resources.a
+/usr/lib32/libsingular_resources.so -> /usr/lib32/libsingular_resources-4.4.0.so
+/usr/lib32/pkgconfig/Singular.pc
+/usr/lib32/pkgconfig/factory.pc
+/usr/lib32/pkgconfig/libpolys.pc
+/usr/lib32/pkgconfig/omalloc.pc
+/usr/lib32/pkgconfig/singular_resources.pc

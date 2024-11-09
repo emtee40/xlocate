@@ -1,0 +1,14 @@
+/usr/lib32/ldb/libldb-cmdline.so
+/usr/lib32/ldb/libldb-key-value.so
+/usr/lib32/ldb/libldb-tdb-err-map.so
+/usr/lib32/ldb/libldb-tdb-int.so
+/usr/lib32/ldb/modules/ldb/asq.so
+/usr/lib32/ldb/modules/ldb/ldb.so
+/usr/lib32/ldb/modules/ldb/paged_searches.so
+/usr/lib32/ldb/modules/ldb/rdn_name.so
+/usr/lib32/ldb/modules/ldb/sample.so
+/usr/lib32/ldb/modules/ldb/server_sort.so
+/usr/lib32/ldb/modules/ldb/skel.so
+/usr/lib32/ldb/modules/ldb/tdb.so
+/usr/lib32/libldb.so.2 -> /usr/lib32/libldb.so.2.9.0
+/usr/lib32/libldb.so.2.9.0

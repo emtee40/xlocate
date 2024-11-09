@@ -1,0 +1,10 @@
+/usr/include/babl-0.1/babl/babl-introspect.h
+/usr/include/babl-0.1/babl/babl-macros.h
+/usr/include/babl-0.1/babl/babl-types.h
+/usr/include/babl-0.1/babl/babl-version.h
+/usr/include/babl-0.1/babl/babl.h
+/usr/lib/libbabl-0.1.so -> /usr/lib/libbabl-0.1.so.0
+/usr/lib/pkgconfig/babl-0.1.pc
+/usr/share/gir-1.0/Babl-0.1.gir
+/usr/share/vala/vapi/babl-0.1.deps
+/usr/share/vala/vapi/babl-0.1.vapi

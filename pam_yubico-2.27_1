@@ -1,0 +1,5 @@
+/usr/bin/ykpamcfg
+/usr/lib/security/pam_yubico.so
+/usr/share/licenses/pam_yubico/COPYING
+/usr/share/man/man1/ykpamcfg.1
+/usr/share/man/man8/pam_yubico.8

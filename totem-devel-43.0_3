@@ -1,0 +1,7 @@
+/usr/include/totem/1.0/totem-dirs.h
+/usr/include/totem/1.0/totem-interface.h
+/usr/include/totem/1.0/totem-plugin.h
+/usr/include/totem/1.0/totem.h
+/usr/lib/libtotem.so -> /usr/lib/libtotem.so.0
+/usr/lib/pkgconfig/totem.pc
+/usr/share/gir-1.0/Totem-1.0.gir

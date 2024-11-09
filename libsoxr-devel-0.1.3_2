@@ -1,0 +1,6 @@
+/usr/include/soxr-lsr.h
+/usr/include/soxr.h
+/usr/lib/libsoxr-lsr.so -> /usr/lib/libsoxr-lsr.so.0
+/usr/lib/libsoxr.so -> /usr/lib/libsoxr.so.0
+/usr/lib/pkgconfig/soxr-lsr.pc
+/usr/lib/pkgconfig/soxr.pc

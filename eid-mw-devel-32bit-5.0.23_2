@@ -1,0 +1,5 @@
+/usr/lib32/libbeidpkcs11.a
+/usr/lib32/libbeidpkcs11.so -> /usr/lib32/libbeidpkcs11.so.0.0.0
+/usr/lib32/libeidviewer.a
+/usr/lib32/libeidviewer.so -> /usr/lib32/libeidviewer.so.0.1.0
+/usr/lib32/pkgconfig/libbeidpkcs11.pc

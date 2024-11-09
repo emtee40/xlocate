@@ -1,0 +1,3 @@
+/usr/include/glpk.h
+/usr/lib/libglpk.a
+/usr/lib/libglpk.so -> /usr/lib/libglpk.so.40.3.1

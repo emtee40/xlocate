@@ -1,0 +1,4 @@
+/usr/include/bitcoinconsensus.h
+/usr/lib/libbitcoinconsensus.so -> /usr/lib/libbitcoinconsensus.so.0.0.0
+/usr/lib/pkgconfig/libbitcoinconsensus.pc
+/usr/share/doc/bitcoin-devel/shared-libraries.md

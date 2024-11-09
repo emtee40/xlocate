@@ -1,0 +1,9 @@
+/usr/bin/ofx2qif
+/usr/bin/ofxconnect
+/usr/bin/ofxdump
+/usr/lib/libofx.so.7 -> /usr/lib/libofx.so.7.0.4
+/usr/lib/libofx.so.7.0.4
+/usr/share/libofx/dtd/ofc.dtd
+/usr/share/libofx/dtd/ofx160.dtd
+/usr/share/libofx/dtd/ofx201.dtd
+/usr/share/libofx/dtd/opensp.dcl

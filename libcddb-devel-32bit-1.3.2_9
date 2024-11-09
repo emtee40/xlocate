@@ -1,0 +1,3 @@
+/usr/lib32/libcddb.a
+/usr/lib32/libcddb.so -> /usr/lib32/libcddb.so.2.2.3
+/usr/lib32/pkgconfig/libcddb.pc

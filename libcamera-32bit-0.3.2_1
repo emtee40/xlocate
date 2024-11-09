@@ -1,0 +1,9 @@
+/usr/lib32/gstreamer-1.0/libgstlibcamera.so
+/usr/lib32/libcamera-base.so.0.3 -> /usr/lib32/libcamera-base.so.0.3.2
+/usr/lib32/libcamera-base.so.0.3.2
+/usr/lib32/libcamera.so.0.3 -> /usr/lib32/libcamera.so.0.3.2
+/usr/lib32/libcamera.so.0.3.2
+/usr/lib32/libcamera/ipa_ipu3.so
+/usr/lib32/libcamera/ipa_ipu3.so.sign
+/usr/lib32/libcamera/ipa_soft_simple.so
+/usr/lib32/libcamera/ipa_soft_simple.so.sign

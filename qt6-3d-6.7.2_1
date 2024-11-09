@@ -1,0 +1,92 @@
+/usr/lib/libQt63DAnimation.so.6 -> /usr/lib/libQt63DAnimation.so.6.7.2
+/usr/lib/libQt63DAnimation.so.6.7.2
+/usr/lib/libQt63DCore.so.6 -> /usr/lib/libQt63DCore.so.6.7.2
+/usr/lib/libQt63DCore.so.6.7.2
+/usr/lib/libQt63DExtras.so.6 -> /usr/lib/libQt63DExtras.so.6.7.2
+/usr/lib/libQt63DExtras.so.6.7.2
+/usr/lib/libQt63DInput.so.6 -> /usr/lib/libQt63DInput.so.6.7.2
+/usr/lib/libQt63DInput.so.6.7.2
+/usr/lib/libQt63DLogic.so.6 -> /usr/lib/libQt63DLogic.so.6.7.2
+/usr/lib/libQt63DLogic.so.6.7.2
+/usr/lib/libQt63DQuick.so.6 -> /usr/lib/libQt63DQuick.so.6.7.2
+/usr/lib/libQt63DQuick.so.6.7.2
+/usr/lib/libQt63DQuickAnimation.so.6 -> /usr/lib/libQt63DQuickAnimation.so.6.7.2
+/usr/lib/libQt63DQuickAnimation.so.6.7.2
+/usr/lib/libQt63DQuickExtras.so.6 -> /usr/lib/libQt63DQuickExtras.so.6.7.2
+/usr/lib/libQt63DQuickExtras.so.6.7.2
+/usr/lib/libQt63DQuickInput.so.6 -> /usr/lib/libQt63DQuickInput.so.6.7.2
+/usr/lib/libQt63DQuickInput.so.6.7.2
+/usr/lib/libQt63DQuickRender.so.6 -> /usr/lib/libQt63DQuickRender.so.6.7.2
+/usr/lib/libQt63DQuickRender.so.6.7.2
+/usr/lib/libQt63DQuickScene2D.so.6 -> /usr/lib/libQt63DQuickScene2D.so.6.7.2
+/usr/lib/libQt63DQuickScene2D.so.6.7.2
+/usr/lib/libQt63DRender.so.6 -> /usr/lib/libQt63DRender.so.6.7.2
+/usr/lib/libQt63DRender.so.6.7.2
+/usr/lib/pkgconfig/Qt63DAnimation.pc
+/usr/lib/pkgconfig/Qt63DCore.pc
+/usr/lib/pkgconfig/Qt63DExtras.pc
+/usr/lib/pkgconfig/Qt63DInput.pc
+/usr/lib/pkgconfig/Qt63DLogic.pc
+/usr/lib/pkgconfig/Qt63DQuick.pc
+/usr/lib/pkgconfig/Qt63DQuickAnimation.pc
+/usr/lib/pkgconfig/Qt63DQuickExtras.pc
+/usr/lib/pkgconfig/Qt63DQuickInput.pc
+/usr/lib/pkgconfig/Qt63DQuickRender.pc
+/usr/lib/pkgconfig/Qt63DQuickScene2D.pc
+/usr/lib/pkgconfig/Qt63DRender.pc
+/usr/lib/qt6/metatypes/qt63danimation_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dcore_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dextras_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dinput_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dlogic_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquick_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquickanimation_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquickextras_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquickinput_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquickrender_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63dquickscene2d_none_metatypes.json
+/usr/lib/qt6/metatypes/qt63drender_none_metatypes.json
+/usr/lib/qt6/modules/3DAnimation.json
+/usr/lib/qt6/modules/3DCore.json
+/usr/lib/qt6/modules/3DExtras.json
+/usr/lib/qt6/modules/3DInput.json
+/usr/lib/qt6/modules/3DLogic.json
+/usr/lib/qt6/modules/3DQuick.json
+/usr/lib/qt6/modules/3DQuickAnimation.json
+/usr/lib/qt6/modules/3DQuickExtras.json
+/usr/lib/qt6/modules/3DQuickInput.json
+/usr/lib/qt6/modules/3DQuickRender.json
+/usr/lib/qt6/modules/3DQuickScene2D.json
+/usr/lib/qt6/modules/3DRender.json
+/usr/lib/qt6/plugins/geometryloaders/libdefaultgeometryloader.so
+/usr/lib/qt6/plugins/geometryloaders/libgltfgeometryloader.so
+/usr/lib/qt6/plugins/renderers/libopenglrenderer.so
+/usr/lib/qt6/plugins/renderers/librhirenderer.so
+/usr/lib/qt6/plugins/renderplugins/libscene2d.so
+/usr/lib/qt6/plugins/sceneparsers/libassimpsceneimport.so
+/usr/lib/qt6/plugins/sceneparsers/libgltfsceneexport.so
+/usr/lib/qt6/plugins/sceneparsers/libgltfsceneimport.so
+/usr/lib/qt6/qml/Qt3D/Animation/libquick3danimationplugin.so
+/usr/lib/qt6/qml/Qt3D/Animation/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Animation/qmldir
+/usr/lib/qt6/qml/Qt3D/Core/libquick3dcoreplugin.so
+/usr/lib/qt6/qml/Qt3D/Core/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Core/qmldir
+/usr/lib/qt6/qml/Qt3D/Extras/libquick3dextrasplugin.so
+/usr/lib/qt6/qml/Qt3D/Extras/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Extras/qmldir
+/usr/lib/qt6/qml/Qt3D/Input/libquick3dinputplugin.so
+/usr/lib/qt6/qml/Qt3D/Input/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Input/qmldir
+/usr/lib/qt6/qml/Qt3D/Logic/libquick3dlogicplugin.so
+/usr/lib/qt6/qml/Qt3D/Logic/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Logic/qmldir
+/usr/lib/qt6/qml/Qt3D/Render/libquick3drenderplugin.so
+/usr/lib/qt6/qml/Qt3D/Render/plugins.qmltypes
+/usr/lib/qt6/qml/Qt3D/Render/qmldir
+/usr/lib/qt6/qml/QtQuick/Scene2D/libqtquickscene2dplugin.so
+/usr/lib/qt6/qml/QtQuick/Scene2D/plugins.qmltypes
+/usr/lib/qt6/qml/QtQuick/Scene2D/qmldir
+/usr/lib/qt6/qml/QtQuick/Scene3D/libqtquickscene3dplugin.so
+/usr/lib/qt6/qml/QtQuick/Scene3D/plugins.qmltypes
+/usr/lib/qt6/qml/QtQuick/Scene3D/qmldir

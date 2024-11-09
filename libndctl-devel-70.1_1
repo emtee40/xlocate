@@ -1,0 +1,5 @@
+/usr/include/ndctl/libdaxctl.h
+/usr/include/ndctl/libndctl.h
+/usr/include/ndctl/ndctl.h
+/usr/lib/libndctl.so -> /usr/lib/libndctl.so.6.19.1
+/usr/lib/pkgconfig/libndctl.pc

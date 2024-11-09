@@ -1,0 +1,7 @@
+/usr/lib/onepin-opensc-pkcs11.so -> /usr/lib/opensc-pkcs11.so
+/usr/lib/opensc-pkcs11.so
+/usr/lib/pkcs11-spy.so
+/usr/lib/pkcs11/onepin-opensc-pkcs11.so -> /usr/lib/opensc-pkcs11.so
+/usr/lib/pkcs11/opensc-pkcs11.so -> /usr/lib/opensc-pkcs11.so
+/usr/lib/pkcs11/pkcs11-spy.so -> /usr/lib/pkcs11-spy.so
+/usr/lib/pkgconfig/opensc-pkcs11.pc

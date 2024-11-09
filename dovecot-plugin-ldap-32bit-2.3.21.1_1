@@ -1,0 +1,6 @@
+/usr/lib32/dovecot/libdovecot-ldap.la
+/usr/lib32/dovecot/libdovecot-ldap.so -> /usr/lib32/dovecot/libdovecot-ldap.so.0.0.0
+/usr/lib32/dovecot/libdovecot-ldap.so.0 -> /usr/lib32/dovecot/libdovecot-ldap.so.0.0.0
+/usr/lib32/dovecot/libdovecot-ldap.so.0.0.0
+/usr/lib32/dovecot/modules/auth/libauthdb_ldap.so
+/usr/lib32/dovecot/modules/dict/libdict_ldap.so

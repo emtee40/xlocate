@@ -1,0 +1,14 @@
+/usr/bin/saidar
+/usr/bin/statgrab
+/usr/lib/libstatgrab.so.10 -> /usr/lib/libstatgrab.so.10.0.2
+/usr/lib/libstatgrab.so.10.0.2
+/usr/share/doc/libstatgrab/AUTHORS
+/usr/share/doc/libstatgrab/COPYING
+/usr/share/doc/libstatgrab/COPYING.LGPL
+/usr/share/doc/libstatgrab/NEWS
+/usr/share/doc/libstatgrab/PLATFORMS
+/usr/share/doc/libstatgrab/README
+/usr/share/man/man1/saidar.1
+/usr/share/man/man1/statgrab-make-mrtg-config.1
+/usr/share/man/man1/statgrab-make-mrtg-index.1
+/usr/share/man/man1/statgrab.1

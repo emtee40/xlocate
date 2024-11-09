@@ -1,0 +1,6 @@
+/etc/nscd.conf
+/etc/sv/nscd/log/run
+/etc/sv/nscd/log/supervise -> /run/runit/supervise.nscd-log
+/etc/sv/nscd/run
+/etc/sv/nscd/supervise -> /run/runit/supervise.nscd
+/usr/bin/nscd

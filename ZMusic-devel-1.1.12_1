@@ -1,0 +1,3 @@
+/usr/include/zmusic.h
+/usr/lib/libzmusic.so -> /usr/lib/libzmusic.so.1
+/usr/lib/libzmusiclite.so -> /usr/lib/libzmusiclite.so.1

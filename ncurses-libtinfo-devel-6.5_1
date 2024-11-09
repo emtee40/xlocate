@@ -1,0 +1,2 @@
+/usr/lib/libtinfo.so -> /usr/lib/libncursesw.so.6.5
+/usr/lib/pkgconfig/tinfo.pc -> /usr/lib/pkgconfig/ncursesw.pc

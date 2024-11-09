@@ -1,0 +1,10 @@
+/usr/bin/clamav-config
+/usr/include/clamav-types.h
+/usr/include/clamav-version.h
+/usr/include/clamav.h
+/usr/include/libfreshclam.h
+/usr/lib/libclamav.so -> /usr/lib/libclamav.so.9.0.5
+/usr/lib/libclamunrar.so -> /usr/lib/libclamunrar.so.9.0.5
+/usr/lib/libclamunrar_iface.so -> /usr/lib/libclamunrar_iface.so.9.0.5
+/usr/lib/libfreshclam.so -> /usr/lib/libfreshclam.so.2.0.1
+/usr/lib/pkgconfig/libclamav.pc

@@ -1,0 +1,13 @@
+/etc/stubby/stubby.yml
+/etc/sv/stubby/log/run
+/etc/sv/stubby/log/supervise -> /run/runit/supervise.stubby-log
+/etc/sv/stubby/run
+/etc/sv/stubby/supervise -> /run/runit/supervise.stubby
+/usr/bin/stubby
+/usr/share/doc/stubby/AUTHORS
+/usr/share/doc/stubby/COPYING
+/usr/share/doc/stubby/ChangeLog
+/usr/share/doc/stubby/NEWS
+/usr/share/doc/stubby/README.md
+/usr/share/licenses/stubby/COPYING
+/usr/share/man/man1/stubby.1

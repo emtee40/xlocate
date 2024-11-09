@@ -1,0 +1,3 @@
+/usr/lib32/libdill.a
+/usr/lib32/libdill.so -> /usr/lib32/libdill.so.20.5.0
+/usr/lib32/pkgconfig/libdill.pc

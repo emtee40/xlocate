@@ -1,0 +1,45 @@
+/usr/include/gpaste-2/gpaste-gtk3.h
+/usr/include/gpaste-2/gpaste-gtk3/gpaste-gtk-macros.h
+/usr/include/gpaste-2/gpaste-gtk3/gpaste-gtk-settings-ui-panel.h
+/usr/include/gpaste-2/gpaste-gtk3/gpaste-gtk-settings-ui-stack.h
+/usr/include/gpaste-2/gpaste-gtk3/gpaste-gtk-settings-ui-widget.h
+/usr/include/gpaste-2/gpaste-gtk3/gpaste-gtk-util.h
+/usr/include/gpaste-2/gpaste-gtk4.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-macros.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-behaviour-page.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-group.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-history-settings-page.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-manager.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-page.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-shortcuts-page.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-widget.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-preferences-window.h
+/usr/include/gpaste-2/gpaste-gtk4/gpaste-gtk-util.h
+/usr/include/gpaste-2/gpaste.h
+/usr/include/gpaste-2/gpaste/gpaste-client-item.h
+/usr/include/gpaste-2/gpaste/gpaste-client.h
+/usr/include/gpaste-2/gpaste/gpaste-gdbus-defines.h
+/usr/include/gpaste-2/gpaste/gpaste-gdbus-macros.h
+/usr/include/gpaste-2/gpaste/gpaste-gnome-shell-client.h
+/usr/include/gpaste-2/gpaste/gpaste-gsettings-keys.h
+/usr/include/gpaste-2/gpaste/gpaste-item-enums.h
+/usr/include/gpaste-2/gpaste/gpaste-macros.h
+/usr/include/gpaste-2/gpaste/gpaste-screensaver-client.h
+/usr/include/gpaste-2/gpaste/gpaste-settings.h
+/usr/include/gpaste-2/gpaste/gpaste-update-enums.h
+/usr/include/gpaste-2/gpaste/gpaste-util.h
+/usr/lib/libgpaste-2.so -> /usr/lib/libgpaste-2.so.0
+/usr/lib/libgpaste-gtk-3.so -> /usr/lib/libgpaste-gtk-3.so.0
+/usr/lib/libgpaste-gtk4.so -> /usr/lib/libgpaste-gtk4.so.0
+/usr/lib/pkgconfig/gpaste-2.pc
+/usr/lib/pkgconfig/gpaste-gtk-3.pc
+/usr/lib/pkgconfig/gpaste-gtk-4.pc
+/usr/share/gir-1.0/GPaste-2.gir
+/usr/share/gir-1.0/GPasteGtk-3.gir
+/usr/share/gir-1.0/GPasteGtk-4.gir
+/usr/share/vala/vapi/gpaste-2.deps
+/usr/share/vala/vapi/gpaste-2.vapi
+/usr/share/vala/vapi/gpaste-gtk-3.deps
+/usr/share/vala/vapi/gpaste-gtk-3.vapi
+/usr/share/vala/vapi/gpaste-gtk-4.deps
+/usr/share/vala/vapi/gpaste-gtk-4.vapi

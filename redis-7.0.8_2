@@ -1,0 +1,12 @@
+/etc/redis/redis.conf
+/etc/sv/redis/log/run
+/etc/sv/redis/log/supervise -> /run/runit/supervise.redis-log
+/etc/sv/redis/run
+/etc/sv/redis/supervise -> /run/runit/supervise.redis
+/usr/bin/redis-benchmark
+/usr/bin/redis-check-aof -> /usr/bin/redis-server
+/usr/bin/redis-check-rdb -> /usr/bin/redis-server
+/usr/bin/redis-cli
+/usr/bin/redis-sentinel -> /usr/bin/redis-server
+/usr/bin/redis-server
+/usr/share/licenses/redis/COPYING

@@ -1,0 +1,8 @@
+/usr/lib32/libpackagekit-glib2.so.18 -> /usr/lib32/libpackagekit-glib2.so.18.1.3
+/usr/lib32/libpackagekit-glib2.so.18.1.3
+/usr/lib32/packagekit-backend/libpk_backend_dummy.so
+/usr/lib32/packagekit-backend/libpk_backend_test_fail.so
+/usr/lib32/packagekit-backend/libpk_backend_test_nop.so
+/usr/lib32/packagekit-backend/libpk_backend_test_spawn.so
+/usr/lib32/packagekit-backend/libpk_backend_test_succeed.so
+/usr/lib32/packagekit-backend/libpk_backend_test_thread.so

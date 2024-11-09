@@ -1,0 +1,3 @@
+/usr/lib32/libdri2.a
+/usr/lib32/libdri2.so -> /usr/lib32/libdri2.so.1.0.0
+/usr/lib32/pkgconfig/dri2.pc

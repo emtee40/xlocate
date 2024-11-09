@@ -1,0 +1,13 @@
+/usr/bin/t1ascii
+/usr/bin/t1asm
+/usr/bin/t1binary
+/usr/bin/t1disasm
+/usr/bin/t1mac
+/usr/bin/t1unmac
+/usr/share/licenses/t1utils/LICENSE
+/usr/share/man/man1/t1ascii.1
+/usr/share/man/man1/t1asm.1
+/usr/share/man/man1/t1binary.1
+/usr/share/man/man1/t1disasm.1
+/usr/share/man/man1/t1mac.1
+/usr/share/man/man1/t1unmac.1

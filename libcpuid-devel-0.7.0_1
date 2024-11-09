@@ -1,0 +1,19 @@
+/usr/include/libcpuid/libcpuid.h
+/usr/include/libcpuid/libcpuid_constants.h
+/usr/include/libcpuid/libcpuid_types.h
+/usr/lib/cmake/cpuid/cpuidConfig.cmake
+/usr/lib/cmake/cpuid/cpuidConfigVersion.cmake
+/usr/lib/cmake/cpuid/cpuidTargets-none.cmake
+/usr/lib/cmake/cpuid/cpuidTargets.cmake
+/usr/lib/libcpuid.so -> /usr/lib/libcpuid.so.17
+/usr/lib/pkgconfig/libcpuid.pc
+/usr/share/man/man3/cpu_affinity_mask_t.3
+/usr/share/man/man3/cpu_epc_t.3
+/usr/share/man/man3/cpu_id_t.3
+/usr/share/man/man3/cpu_list_t.3
+/usr/share/man/man3/cpu_mark_t.3
+/usr/share/man/man3/cpu_raw_data_array_t.3
+/usr/share/man/man3/cpu_raw_data_t.3
+/usr/share/man/man3/cpu_sgx_t.3
+/usr/share/man/man3/cpuid_tool.3
+/usr/share/man/man3/libcpuid.3

@@ -1,0 +1,7 @@
+/usr/bin/ddgtk
+/usr/share/appdata/org.gnome.Ddgtk.appdata.xml
+/usr/share/applications/org.gnome.Ddgtk.desktop
+/usr/share/ddgtk/ddgtk.gresource
+/usr/share/ddgtk/ddgtk/gi_composites.py
+/usr/share/ddgtk/ddgtk/main.py
+/usr/share/glib-2.0/schemas/org.gnome.Ddgtk.gschema.xml

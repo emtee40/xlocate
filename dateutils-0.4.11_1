@@ -1,0 +1,46 @@
+/usr/bin/dadd -> /usr/bin/dateadd
+/usr/bin/dateadd
+/usr/bin/dateconv
+/usr/bin/datediff
+/usr/bin/dategrep
+/usr/bin/dateround
+/usr/bin/dateseq
+/usr/bin/datesort
+/usr/bin/datetest
+/usr/bin/datezone
+/usr/bin/dconv -> /usr/bin/dateconv
+/usr/bin/ddiff -> /usr/bin/datediff
+/usr/bin/dgrep -> /usr/bin/dategrep
+/usr/bin/dround -> /usr/bin/dateround
+/usr/bin/dseq -> /usr/bin/dateseq
+/usr/bin/dsort -> /usr/bin/datesort
+/usr/bin/dtest -> /usr/bin/datetest
+/usr/bin/dzone -> /usr/bin/datezone
+/usr/bin/strptime
+/usr/share/dateutils/iata.tzmcc
+/usr/share/dateutils/icao.tzmcc
+/usr/share/dateutils/locale
+/usr/share/dateutils/mic.tzmcc
+/usr/share/doc/dateutils/README.md
+/usr/share/info/dateutils.info
+/usr/share/licenses/dateutils/LICENSE
+/usr/share/man/man1/dadd.1
+/usr/share/man/man1/dateadd.1
+/usr/share/man/man1/dateconv.1
+/usr/share/man/man1/datediff.1
+/usr/share/man/man1/dategrep.1
+/usr/share/man/man1/dateround.1
+/usr/share/man/man1/dateseq.1
+/usr/share/man/man1/datesort.1
+/usr/share/man/man1/datetest.1
+/usr/share/man/man1/dateutils.1
+/usr/share/man/man1/datezone.1
+/usr/share/man/man1/dconv.1
+/usr/share/man/man1/ddiff.1
+/usr/share/man/man1/dgrep.1
+/usr/share/man/man1/dround.1
+/usr/share/man/man1/dseq.1
+/usr/share/man/man1/dsort.1
+/usr/share/man/man1/dtest.1
+/usr/share/man/man1/dzone.1
+/usr/share/man/man1/strptime.1

@@ -1,0 +1,31 @@
+/etc/sv/heisenbridge/log/run
+/etc/sv/heisenbridge/log/supervise -> /run/runit/supervise.heisenbridge-log
+/etc/sv/heisenbridge/run
+/etc/sv/heisenbridge/supervise -> /run/runit/supervise.heisenbridge
+/usr/bin/heisenbridge
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/heisenbridge-0.0.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/heisenbridge/__init__.py
+/usr/lib/python3.12/site-packages/heisenbridge/__main__.py
+/usr/lib/python3.12/site-packages/heisenbridge/appservice.py
+/usr/lib/python3.12/site-packages/heisenbridge/channel_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/command_parse.py
+/usr/lib/python3.12/site-packages/heisenbridge/control_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/event_queue.py
+/usr/lib/python3.12/site-packages/heisenbridge/hidden_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/identd.py
+/usr/lib/python3.12/site-packages/heisenbridge/irc.py
+/usr/lib/python3.12/site-packages/heisenbridge/network_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/parser.py
+/usr/lib/python3.12/site-packages/heisenbridge/plumbed_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/private_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/room.py
+/usr/lib/python3.12/site-packages/heisenbridge/space_room.py
+/usr/lib/python3.12/site-packages/heisenbridge/version.py
+/usr/lib/python3.12/site-packages/heisenbridge/version.txt
+/usr/lib/python3.12/site-packages/heisenbridge/websocket.py
+/usr/share/licenses/heisenbridge/LICENSE

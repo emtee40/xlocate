@@ -1,0 +1,4 @@
+/usr/include/nftables/libnftables.h
+/usr/lib/libnftables.so -> /usr/lib/libnftables.so.1.1.0
+/usr/lib/pkgconfig/libnftables.pc
+/usr/share/man/man3/libnftables.3

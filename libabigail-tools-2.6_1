@@ -1,0 +1,14 @@
+/usr/bin/abicompat
+/usr/bin/abidiff
+/usr/bin/abidw
+/usr/bin/abilint
+/usr/bin/abipkgdiff
+/usr/bin/kmidiff
+/usr/share/info/abigail.info.gz
+/usr/share/man/man1/abicompat.1
+/usr/share/man/man1/abidb.1
+/usr/share/man/man1/abidiff.1
+/usr/share/man/man1/abidw.1
+/usr/share/man/man1/abilint.1
+/usr/share/man/man1/abipkgdiff.1
+/usr/share/man/man7/libabigail.7

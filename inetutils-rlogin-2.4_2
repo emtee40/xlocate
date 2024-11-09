@@ -1,0 +1,5 @@
+/etc/xinetd.d/rlogin
+/usr/bin/rlogin
+/usr/bin/rlogind
+/usr/share/man/man1/rlogin.1
+/usr/share/man/man8/rlogind.8

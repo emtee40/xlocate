@@ -1,0 +1,36 @@
+/usr/include/fftw3.f
+/usr/include/fftw3.f03
+/usr/include/fftw3.h
+/usr/include/fftw3l.f03
+/usr/include/fftw3q.f03
+/usr/lib/cmake/fftw3/FFTW3Config.cmake
+/usr/lib/cmake/fftw3/FFTW3ConfigVersion.cmake
+/usr/lib/cmake/fftw3/FFTW3LibraryDepends.cmake
+/usr/lib/cmake/fftw3/FFTW3fConfig.cmake
+/usr/lib/cmake/fftw3/FFTW3fConfigVersion.cmake
+/usr/lib/cmake/fftw3/FFTW3lConfig.cmake
+/usr/lib/cmake/fftw3/FFTW3lConfigVersion.cmake
+/usr/lib/libfftw3.a
+/usr/lib/libfftw3.so -> /usr/lib/libfftw3.so.3.6.10
+/usr/lib/libfftw3_omp.a
+/usr/lib/libfftw3_omp.so -> /usr/lib/libfftw3_omp.so.3.6.10
+/usr/lib/libfftw3_threads.a
+/usr/lib/libfftw3_threads.so -> /usr/lib/libfftw3_threads.so.3.6.10
+/usr/lib/libfftw3f.a
+/usr/lib/libfftw3f.so -> /usr/lib/libfftw3f.so.3.6.10
+/usr/lib/libfftw3f_omp.a
+/usr/lib/libfftw3f_omp.so -> /usr/lib/libfftw3f_omp.so.3.6.10
+/usr/lib/libfftw3f_threads.a
+/usr/lib/libfftw3f_threads.so -> /usr/lib/libfftw3f_threads.so.3.6.10
+/usr/lib/libfftw3l.a
+/usr/lib/libfftw3l.so -> /usr/lib/libfftw3l.so.3.6.10
+/usr/lib/libfftw3l_omp.a
+/usr/lib/libfftw3l_omp.so -> /usr/lib/libfftw3l_omp.so.3.6.10
+/usr/lib/libfftw3l_threads.a
+/usr/lib/libfftw3l_threads.so -> /usr/lib/libfftw3l_threads.so.3.6.10
+/usr/lib/pkgconfig/fftw3.pc
+/usr/lib/pkgconfig/fftw3f.pc
+/usr/lib/pkgconfig/fftw3l.pc
+/usr/share/info/fftw3.info
+/usr/share/info/fftw3.info-1
+/usr/share/info/fftw3.info-2

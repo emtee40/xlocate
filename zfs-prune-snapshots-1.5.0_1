@@ -1,0 +1,3 @@
+/usr/bin/zfs-prune-snapshots
+/usr/share/licenses/zfs-prune-snapshots/LICENSE
+/usr/share/man/man1/zfs-prune-snapshots.1

@@ -1,0 +1,12 @@
+/usr/include/dvdnav/dvd_types.h
+/usr/include/dvdnav/dvdnav.h
+/usr/include/dvdnav/dvdnav_events.h
+/usr/include/dvdnav/version.h
+/usr/lib/libdvdnav.a
+/usr/lib/libdvdnav.so -> /usr/lib/libdvdnav.so.4.3.0
+/usr/lib/pkgconfig/dvdnav.pc
+/usr/share/doc/libdvdnav/AUTHORS
+/usr/share/doc/libdvdnav/COPYING
+/usr/share/doc/libdvdnav/ChangeLog
+/usr/share/doc/libdvdnav/README
+/usr/share/doc/libdvdnav/TODO

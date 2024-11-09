@@ -1,0 +1,7 @@
+/usr/include/libmng.h
+/usr/include/libmng_conf.h
+/usr/include/libmng_types.h
+/usr/lib/libmng.a
+/usr/lib/libmng.so -> /usr/lib/libmng.so.2.0.2
+/usr/lib/pkgconfig/libmng.pc
+/usr/share/man/man3/libmng.3

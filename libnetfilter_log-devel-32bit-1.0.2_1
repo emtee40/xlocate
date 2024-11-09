@@ -1,0 +1,4 @@
+/usr/lib32/libnetfilter_log.so -> /usr/lib32/libnetfilter_log.so.1.2.0
+/usr/lib32/libnetfilter_log_libipulog.so -> /usr/lib32/libnetfilter_log_libipulog.so.1.0.0
+/usr/lib32/pkgconfig/libnetfilter_log.pc
+/usr/lib32/pkgconfig/libnetfilter_log_libipulog.pc

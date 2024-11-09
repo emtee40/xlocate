@@ -1,0 +1,5 @@
+/usr/include/t3/highlight/t3highlight/highlight.h
+/usr/include/t3/highlight/t3highlight/highlight_api.h
+/usr/include/t3/highlight/t3highlight/highlight_errors.h
+/usr/lib/libt3highlight.so -> /usr/lib/libt3highlight.so.2.0.0
+/usr/lib/pkgconfig/libt3highlight.pc

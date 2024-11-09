@@ -1,0 +1,138 @@
+/etc/dbus-1/system.d/skype.conf
+/usr/bin/skype
+/usr/lib32/skype/skype
+/usr/share/applications/skype.desktop
+/usr/share/icons/hicolor/16x16/skype.png
+/usr/share/icons/hicolor/32x32/skype.png
+/usr/share/icons/hicolor/48x48/skype.png
+/usr/share/licenses/skype/LICENSE
+/usr/share/licenses/skype/third-party_attributions.txt
+/usr/share/pixmaps/skype.png
+/usr/share/skype/avatars/Angel Skype.png
+/usr/share/skype/avatars/Architect Skype.png
+/usr/share/skype/avatars/Beach Skype.png
+/usr/share/skype/avatars/Behind Skype.png
+/usr/share/skype/avatars/Business Skype.png
+/usr/share/skype/avatars/Call Me Sweetheart.png
+/usr/share/skype/avatars/Call Me.png
+/usr/share/skype/avatars/Carnaval Skype.png
+/usr/share/skype/avatars/Chic Skype.png
+/usr/share/skype/avatars/Christmas Skype.png
+/usr/share/skype/avatars/College Skype.png
+/usr/share/skype/avatars/DIY Skype.png
+/usr/share/skype/avatars/DJ Skype.png
+/usr/share/skype/avatars/Desert Skype.png
+/usr/share/skype/avatars/Designer Skype.png
+/usr/share/skype/avatars/Devil Skype.png
+/usr/share/skype/avatars/Earbud Skype.png
+/usr/share/skype/avatars/Empire Skype.png
+/usr/share/skype/avatars/Fax Skype.png
+/usr/share/skype/avatars/Geisha Skype.png
+/usr/share/skype/avatars/Hula Skype.png
+/usr/share/skype/avatars/Make Skype Not War.png
+/usr/share/skype/avatars/Metal Skype.png
+/usr/share/skype/avatars/Ninja Skype.png
+/usr/share/skype/avatars/Party Skype.png
+/usr/share/skype/avatars/Pop Skype.png
+/usr/share/skype/avatars/Rice Skype.png
+/usr/share/skype/avatars/Skypahontas.png
+/usr/share/skype/avatars/Skype 502.png
+/usr/share/skype/avatars/Skype Aid.png
+/usr/share/skype/avatars/Skype Artiste.png
+/usr/share/skype/avatars/Skype Beauty.png
+/usr/share/skype/avatars/Skype Bling.png
+/usr/share/skype/avatars/Skype Boarder.png
+/usr/share/skype/avatars/Skype Brrr... .png
+/usr/share/skype/avatars/Skype Candy.png
+/usr/share/skype/avatars/Skype Cola.png
+/usr/share/skype/avatars/Skype Cool Shades.png
+/usr/share/skype/avatars/Skype Extreme.png
+/usr/share/skype/avatars/Skype Goaaaaal.png
+/usr/share/skype/avatars/Skype Headset.png
+/usr/share/skype/avatars/Skype Jah.png
+/usr/share/skype/avatars/Skype Jyve.png
+/usr/share/skype/avatars/Skype Safety.png
+/usr/share/skype/avatars/Skype San.png
+/usr/share/skype/avatars/Skype Shorty.png
+/usr/share/skype/avatars/Skype Smiley.png
+/usr/share/skype/avatars/Skype Time.png
+/usr/share/skype/avatars/Skype in a Bag.png
+/usr/share/skype/avatars/Skype-a-Manger.png
+/usr/share/skype/avatars/Skype-ahoy.png
+/usr/share/skype/avatars/Skype-in-one.png
+/usr/share/skype/avatars/Skype.png
+/usr/share/skype/avatars/Skypers of the Caribbean.png
+/usr/share/skype/avatars/Star Skype.png
+/usr/share/skype/avatars/Sushi Skype.png
+/usr/share/skype/avatars/The Skypeness.png
+/usr/share/skype/avatars/Travel Skype.png
+/usr/share/skype/avatars/Wetsuit Skype.png
+/usr/share/skype/avatars/Yin Yang Skype.png
+/usr/share/skype/lang/skype_bg.qm
+/usr/share/skype/lang/skype_bg.ts
+/usr/share/skype/lang/skype_cs.qm
+/usr/share/skype/lang/skype_cs.ts
+/usr/share/skype/lang/skype_de.qm
+/usr/share/skype/lang/skype_de.ts
+/usr/share/skype/lang/skype_en.qm
+/usr/share/skype/lang/skype_en.ts
+/usr/share/skype/lang/skype_es.qm
+/usr/share/skype/lang/skype_es.ts
+/usr/share/skype/lang/skype_et.qm
+/usr/share/skype/lang/skype_et.ts
+/usr/share/skype/lang/skype_fr.qm
+/usr/share/skype/lang/skype_fr.ts
+/usr/share/skype/lang/skype_it.qm
+/usr/share/skype/lang/skype_it.ts
+/usr/share/skype/lang/skype_ja.qm
+/usr/share/skype/lang/skype_ja.ts
+/usr/share/skype/lang/skype_ko.qm
+/usr/share/skype/lang/skype_ko.ts
+/usr/share/skype/lang/skype_lt.qm
+/usr/share/skype/lang/skype_lt.ts
+/usr/share/skype/lang/skype_lv.qm
+/usr/share/skype/lang/skype_lv.ts
+/usr/share/skype/lang/skype_no.qm
+/usr/share/skype/lang/skype_no.ts
+/usr/share/skype/lang/skype_pl.qm
+/usr/share/skype/lang/skype_pl.ts
+/usr/share/skype/lang/skype_pt_br.qm
+/usr/share/skype/lang/skype_pt_br.ts
+/usr/share/skype/lang/skype_pt_pt.qm
+/usr/share/skype/lang/skype_pt_pt.ts
+/usr/share/skype/lang/skype_ro.qm
+/usr/share/skype/lang/skype_ro.ts
+/usr/share/skype/lang/skype_ru.qm
+/usr/share/skype/lang/skype_ru.ts
+/usr/share/skype/lang/skype_th.qm
+/usr/share/skype/lang/skype_th.ts
+/usr/share/skype/lang/skype_tr.qm
+/usr/share/skype/lang/skype_tr.ts
+/usr/share/skype/lang/skype_uk.qm
+/usr/share/skype/lang/skype_uk.ts
+/usr/share/skype/lang/skype_zh_s.qm
+/usr/share/skype/lang/skype_zh_s.ts
+/usr/share/skype/lang/skype_zh_t.qm
+/usr/share/skype/lang/skype_zh_t.ts
+/usr/share/skype/sounds/CallBusy.wav
+/usr/share/skype/sounds/CallConnecting.wav
+/usr/share/skype/sounds/CallFailed.wav
+/usr/share/skype/sounds/CallHangup.wav
+/usr/share/skype/sounds/CallHold.wav
+/usr/share/skype/sounds/CallRemoteHangup.wav
+/usr/share/skype/sounds/CallResume.wav
+/usr/share/skype/sounds/CallRingingIn.wav
+/usr/share/skype/sounds/CallRingingOut.wav
+/usr/share/skype/sounds/ChatIncoming.wav
+/usr/share/skype/sounds/ChatIncomingInitial.wav
+/usr/share/skype/sounds/ChatOutgoing.wav
+/usr/share/skype/sounds/ContactAdded.wav
+/usr/share/skype/sounds/ContactAuthRequest.wav
+/usr/share/skype/sounds/ContactOffline.wav
+/usr/share/skype/sounds/ContactOnline.wav
+/usr/share/skype/sounds/SkypeLogin.wav
+/usr/share/skype/sounds/SkypeLogout.wav
+/usr/share/skype/sounds/TransferComplete.wav
+/usr/share/skype/sounds/TransferFailed.wav
+/usr/share/skype/sounds/TransferRequest.wav
+/usr/share/skype/sounds/VoicemailReceived.wav

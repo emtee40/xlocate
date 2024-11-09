@@ -1,0 +1,9 @@
+/usr/lib32/libGlacier2.so -> /usr/lib32/libGlacier2.so.37
+/usr/lib32/libIce.so -> /usr/lib32/libIce.so.37
+/usr/lib32/libIceBox.so -> /usr/lib32/libIceBox.so.37
+/usr/lib32/libIceDiscovery.so -> /usr/lib32/libIceDiscovery.so.37
+/usr/lib32/libIceGrid.so -> /usr/lib32/libIceGrid.so.37
+/usr/lib32/libIceLocatorDiscovery.so -> /usr/lib32/libIceLocatorDiscovery.so.37
+/usr/lib32/libIcePatch2.so -> /usr/lib32/libIcePatch2.so.37
+/usr/lib32/libIceSSL.so -> /usr/lib32/libIceSSL.so.37
+/usr/lib32/libIceStorm.so -> /usr/lib32/libIceStorm.so.37

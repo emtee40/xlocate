@@ -1,0 +1,8 @@
+/usr/include/scenefx/render/fx_renderer/fx_effect_framebuffers.h
+/usr/include/scenefx/render/fx_renderer/fx_renderer.h
+/usr/include/scenefx/render/pass.h
+/usr/include/scenefx/types/fx/blur_data.h
+/usr/include/scenefx/types/fx/shadow_data.h
+/usr/include/scenefx/types/wlr_scene.h
+/usr/lib/libscenefx.so -> /usr/lib/libscenefx.so.1
+/usr/lib/pkgconfig/scenefx.pc

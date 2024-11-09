@@ -1,0 +1,8 @@
+/etc/default/rest-server
+/etc/sv/rest-server/log/run
+/etc/sv/rest-server/log/supervise -> /run/runit/supervise.rest-server-log
+/etc/sv/rest-server/run
+/etc/sv/rest-server/supervise -> /run/runit/supervise.rest-server
+/usr/bin/rest-server
+/usr/share/doc/rest-server/README.md
+/usr/share/licenses/rest-server/LICENSE

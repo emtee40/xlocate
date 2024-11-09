@@ -1,0 +1,18 @@
+/usr/include/pstoedit/base64writer.h
+/usr/include/pstoedit/cppcomp.h
+/usr/include/pstoedit/drvbase.h
+/usr/include/pstoedit/drvfuncs.h
+/usr/include/pstoedit/genericints.h
+/usr/include/pstoedit/miscutil.h
+/usr/include/pstoedit/ordlist.h
+/usr/include/pstoedit/papersizes.h
+/usr/include/pstoedit/poptions.h
+/usr/include/pstoedit/psimage.h
+/usr/include/pstoedit/pstoedit.h
+/usr/include/pstoedit/pstoeditoptions.h
+/usr/include/pstoedit/pstoeditoutputlib.h
+/usr/include/pstoedit/pstoedll.h
+/usr/lib/libpstoedit.so -> /usr/lib/libpstoedit.so.0.0.0
+/usr/lib/pkgconfig/pstoedit.pc
+/usr/lib/pstoedit/libp2edrvstd.so -> /usr/lib/pstoedit/libp2edrvstd.so.0.0.0
+/usr/share/aclocal/pstoedit.m4

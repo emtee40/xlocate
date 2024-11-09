@@ -1,0 +1,11 @@
+/etc/sv/sslh/run
+/etc/sv/sslh/supervise -> /run/runit/supervise.sslh
+/usr/bin/sslh
+/usr/share/doc/sslh/README.md
+/usr/share/doc/sslh/basic.cfg
+/usr/share/doc/sslh/echosrv.cfg
+/usr/share/doc/sslh/example.cfg
+/usr/share/doc/sslh/sslhconf.cfg
+/usr/share/doc/sslh/test.cfg
+/usr/share/doc/sslh/udp.cfg
+/usr/share/man/man8/sslh.8

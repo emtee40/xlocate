@@ -1,0 +1,7 @@
+/usr/bin/f3brew
+/usr/bin/f3fix
+/usr/bin/f3probe
+/usr/bin/f3read
+/usr/bin/f3write
+/usr/share/man/man1/f3read.1
+/usr/share/man/man1/f3write.1 -> /usr/share/man/man1/f3read.1

@@ -1,0 +1,4 @@
+/usr/lib32/liblightdm-gobject-1.so -> /usr/lib32/liblightdm-gobject-1.so.0.0.0
+/usr/lib32/liblightdm-qt5-3.so -> /usr/lib32/liblightdm-qt5-3.so.0.0.0
+/usr/lib32/pkgconfig/liblightdm-gobject-1.pc
+/usr/lib32/pkgconfig/liblightdm-qt5-3.pc

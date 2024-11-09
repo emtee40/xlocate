@@ -1,0 +1,6 @@
+/etc/ntfy/server.yml
+/etc/sv/ntfy-server/log/run
+/etc/sv/ntfy-server/log/supervise -> /run/runit/supervise.ntfy-server-log
+/etc/sv/ntfy-server/run
+/etc/sv/ntfy-server/supervise -> /run/runit/supervise.ntfy-server
+/usr/bin/ntfy

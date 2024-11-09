@@ -1,0 +1,5 @@
+/etc/sv/yggdrasil/log/run
+/etc/sv/yggdrasil/log/supervise -> /run/runit/supervise.yggdrasil-log
+/etc/sv/yggdrasil/run
+/etc/sv/yggdrasil/supervise -> /run/runit/supervise.yggdrasil
+/usr/bin/yggdrasil

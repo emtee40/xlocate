@@ -1,0 +1,21 @@
+/usr/include/gdlmm-3.0/gdlmm.h
+/usr/include/gdlmm-3.0/gdlmm/dock.h
+/usr/include/gdlmm-3.0/gdlmm/dockbar.h
+/usr/include/gdlmm-3.0/gdlmm/dockitem.h
+/usr/include/gdlmm-3.0/gdlmm/dockitemgrip.h
+/usr/include/gdlmm-3.0/gdlmm/docklayout.h
+/usr/include/gdlmm-3.0/gdlmm/dockmaster.h
+/usr/include/gdlmm-3.0/gdlmm/dockobject.h
+/usr/include/gdlmm-3.0/gdlmm/dockplaceholder.h
+/usr/include/gdlmm-3.0/gdlmm/init.h
+/usr/include/gdlmm-3.0/gdlmm/private/dock_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockbar_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockitem_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockitemgrip_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/docklayout_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockmaster_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockobject_p.h
+/usr/include/gdlmm-3.0/gdlmm/private/dockplaceholder_p.h
+/usr/include/gdlmm-3.0/gdlmm/wrap_init.h
+/usr/lib/libgdlmm-3.0.so -> /usr/lib/libgdlmm-3.0.so.2.0.0
+/usr/lib/pkgconfig/gdlmm-3.0.pc

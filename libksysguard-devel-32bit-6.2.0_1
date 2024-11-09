@@ -1,0 +1,5 @@
+/usr/lib32/libKSysGuardFormatter.so -> /usr/lib32/libKSysGuardFormatter.so.2
+/usr/lib32/libKSysGuardSensorFaces.so -> /usr/lib32/libKSysGuardSensorFaces.so.2
+/usr/lib32/libKSysGuardSensors.so -> /usr/lib32/libKSysGuardSensors.so.2
+/usr/lib32/libKSysGuardSystemStats.so -> /usr/lib32/libKSysGuardSystemStats.so.2
+/usr/lib32/libprocesscore.so -> /usr/lib32/libprocesscore.so.10

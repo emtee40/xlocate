@@ -1,0 +1,22 @@
+/usr/include/libopenraw-0.1/libopenraw-gnome/gdkpixbuf.h
+/usr/include/libopenraw-0.1/libopenraw/bitmapdata.h
+/usr/include/libopenraw-0.1/libopenraw/cameraids.h
+/usr/include/libopenraw-0.1/libopenraw/cfapattern.h
+/usr/include/libopenraw-0.1/libopenraw/consts.h
+/usr/include/libopenraw-0.1/libopenraw/debug.h
+/usr/include/libopenraw-0.1/libopenraw/demosaic.h
+/usr/include/libopenraw-0.1/libopenraw/exif.h
+/usr/include/libopenraw-0.1/libopenraw/io.h
+/usr/include/libopenraw-0.1/libopenraw/libopenraw.h
+/usr/include/libopenraw-0.1/libopenraw/metadata.h
+/usr/include/libopenraw-0.1/libopenraw/prefix.h
+/usr/include/libopenraw-0.1/libopenraw/rawdata.h
+/usr/include/libopenraw-0.1/libopenraw/rawfile.h
+/usr/include/libopenraw-0.1/libopenraw/thumbnails.h
+/usr/include/libopenraw-0.1/libopenraw/types.h
+/usr/lib/libopenraw.a
+/usr/lib/libopenraw.so -> /usr/lib/libopenraw.so.7.0.3
+/usr/lib/libopenrawgnome.a
+/usr/lib/libopenrawgnome.so -> /usr/lib/libopenrawgnome.so.7.0.3
+/usr/lib/pkgconfig/libopenraw-0.1.pc
+/usr/lib/pkgconfig/libopenraw-gnome-0.1.pc

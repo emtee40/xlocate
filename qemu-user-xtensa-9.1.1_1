@@ -1,0 +1,3 @@
+/usr/bin/qemu-xtensa
+/usr/bin/qemu-xtensa-static -> /usr/bin/qemu-xtensa
+/usr/share/binfmts/qemu-xtensa

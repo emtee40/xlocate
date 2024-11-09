@@ -1,0 +1,36 @@
+/etc/quotagrpadmins
+/etc/quotatab
+/etc/warnquota.conf
+/usr/bin/convertquota
+/usr/bin/edquota
+/usr/bin/quota
+/usr/bin/quota_nld
+/usr/bin/quotacheck
+/usr/bin/quotaoff -> /usr/bin/quotaon
+/usr/bin/quotaon
+/usr/bin/quotastats
+/usr/bin/quotasync
+/usr/bin/repquota
+/usr/bin/setquota
+/usr/bin/warnquota
+/usr/bin/xqmstats
+/usr/share/locale/cs/LC_MESSAGES/quota.mo
+/usr/share/locale/de/LC_MESSAGES/quota.mo
+/usr/share/locale/fr/LC_MESSAGES/quota.mo
+/usr/share/locale/pl/LC_MESSAGES/quota.mo
+/usr/share/man/man1/quota.1
+/usr/share/man/man1/quotasync.1
+/usr/share/man/man5/quotagrpadmins.5
+/usr/share/man/man5/quotatab.5
+/usr/share/man/man5/warnquota.conf.5
+/usr/share/man/man8/convertquota.8
+/usr/share/man/man8/edquota.8
+/usr/share/man/man8/quota_nld.8
+/usr/share/man/man8/quotacheck.8
+/usr/share/man/man8/quotaoff.8 -> /usr/share/man/man8/quotaon.8
+/usr/share/man/man8/quotaon.8
+/usr/share/man/man8/quotastats.8
+/usr/share/man/man8/repquota.8
+/usr/share/man/man8/setquota.8
+/usr/share/man/man8/warnquota.8
+/usr/share/man/man8/xqmstats.8

@@ -1,0 +1,6 @@
+/usr/lib32/libhwy.so -> /usr/lib32/libhwy.so.1
+/usr/lib32/libhwy_contrib.so -> /usr/lib32/libhwy_contrib.so.1
+/usr/lib32/libhwy_test.so -> /usr/lib32/libhwy_test.so.1
+/usr/lib32/pkgconfig/libhwy-contrib.pc
+/usr/lib32/pkgconfig/libhwy-test.pc
+/usr/lib32/pkgconfig/libhwy.pc

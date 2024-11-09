@@ -1,0 +1,11 @@
+/usr/include/twolame.h
+/usr/lib/libtwolame.a
+/usr/lib/libtwolame.so -> /usr/lib/libtwolame.so.0.0.0
+/usr/lib/pkgconfig/twolame.pc
+/usr/share/doc/twolame/AUTHORS
+/usr/share/doc/twolame/COPYING
+/usr/share/doc/twolame/NEWS
+/usr/share/doc/twolame/README
+/usr/share/doc/twolame/api.txt
+/usr/share/doc/twolame/psycho.txt
+/usr/share/doc/twolame/vbr.txt

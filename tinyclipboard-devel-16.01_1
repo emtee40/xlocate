@@ -1,0 +1,7 @@
+/usr/include/tinyclipboard.h
+/usr/lib/libtinyclipboard.a
+/usr/lib/libtinyclipboard.so -> /usr/lib/libtinyclipboard.so.1
+/usr/share/man/man3/tiny_clipnwrite.3
+/usr/share/man/man3/tiny_clipread.3
+/usr/share/man/man3/tiny_clipversion.3
+/usr/share/man/man3/tiny_clipwrite.3

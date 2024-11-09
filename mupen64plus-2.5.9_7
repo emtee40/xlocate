@@ -1,0 +1,18 @@
+/usr/bin/mupen64plus
+/usr/lib/libmupen64plus.so.2 -> /usr/lib/libmupen64plus.so.2.0.0
+/usr/lib/libmupen64plus.so.2.0.0
+/usr/lib/mupen64plus/mupen64plus-audio-sdl.so
+/usr/lib/mupen64plus/mupen64plus-input-sdl.so
+/usr/lib/mupen64plus/mupen64plus-rsp-hle.so
+/usr/lib/mupen64plus/mupen64plus-video-glide64mk2.so
+/usr/lib/mupen64plus/mupen64plus-video-rice.so
+/usr/share/applications/mupen64plus.desktop
+/usr/share/icons/hicolor/48x48/apps/mupen64plus.png
+/usr/share/icons/hicolor/scalable/apps/mupen64plus.svg
+/usr/share/man/man6/mupen64plus.6
+/usr/share/mupen64plus/Glide64mk2.ini
+/usr/share/mupen64plus/InputAutoCfg.ini
+/usr/share/mupen64plus/RiceVideoLinux.ini
+/usr/share/mupen64plus/font.ttf
+/usr/share/mupen64plus/mupen64plus.ini
+/usr/share/mupen64plus/mupencheat.txt

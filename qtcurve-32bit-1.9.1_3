@@ -1,0 +1,9 @@
+/usr/lib32/gtk-2.0/2.10.0/engines/libqtcurve.so
+/usr/lib32/libqtcurve-cairo.so -> /usr/lib32/libqtcurve-cairo.so.1
+/usr/lib32/libqtcurve-cairo.so.1 -> /usr/lib32/libqtcurve-cairo.so.1.0
+/usr/lib32/libqtcurve-cairo.so.1.0
+/usr/lib32/libqtcurve-utils.so -> /usr/lib32/libqtcurve-utils.so.2
+/usr/lib32/libqtcurve-utils.so.2 -> /usr/lib32/libqtcurve-utils.so.2.0
+/usr/lib32/libqtcurve-utils.so.2.0
+/usr/lib32/qt5/plugins/kstyle_qtcurve5_config.so
+/usr/lib32/qt5/plugins/styles/qtcurve.so

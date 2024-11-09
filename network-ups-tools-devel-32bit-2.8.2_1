@@ -1,0 +1,8 @@
+/usr/lib32/libnutclient.so -> /usr/lib32/libnutclient.so.2.0.2
+/usr/lib32/libnutclientstub.so -> /usr/lib32/libnutclientstub.so.1.0.1
+/usr/lib32/libnutscan.so -> /usr/lib32/libnutscan.so.2.0.5
+/usr/lib32/libupsclient.so -> /usr/lib32/libupsclient.so.6.0.1
+/usr/lib32/pkgconfig/libnutclient.pc
+/usr/lib32/pkgconfig/libnutclientstub.pc
+/usr/lib32/pkgconfig/libnutscan.pc
+/usr/lib32/pkgconfig/libupsclient.pc

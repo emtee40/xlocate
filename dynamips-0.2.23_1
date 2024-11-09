@@ -1,0 +1,12 @@
+/usr/bin/dynamips
+/usr/bin/nvram_export
+/usr/share/doc/dynamips/COPYING
+/usr/share/doc/dynamips/ChangeLog
+/usr/share/doc/dynamips/MAINTAINERS
+/usr/share/doc/dynamips/README.hypervisor
+/usr/share/doc/dynamips/README.md
+/usr/share/doc/dynamips/RELEASE-NOTES
+/usr/share/doc/dynamips/TODO
+/usr/share/man/man1/dynamips.1
+/usr/share/man/man1/nvram_export.1
+/usr/share/man/man7/hypervisor_mode.7

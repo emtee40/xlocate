@@ -1,0 +1,10 @@
+/usr/bin/glslScreenSaver
+/usr/bin/glslThumbnailer
+/usr/bin/glslViewer
+/usr/share/applications/glslViewer.desktop
+/usr/share/glslViewer/glslScreenSaver.frag
+/usr/share/glslViewer/glslScreenSaver.yaml
+/usr/share/licenses/glslViewer/LICENSE
+/usr/share/mime/packages/glslViewer-types.xml
+/usr/share/pixmaps/glslViewer.png
+/usr/share/thumbnailers/glslViewer.thumbnailer

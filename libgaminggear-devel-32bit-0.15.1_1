@@ -1,0 +1,4 @@
+/usr/lib32/libgaminggear.so -> /usr/lib32/libgaminggear.so.0
+/usr/lib32/libgaminggearfx.so -> /usr/lib32/libgaminggearfx.so.0
+/usr/lib32/libgaminggearwidget.so -> /usr/lib32/libgaminggearwidget.so.0
+/usr/lib32/pkgconfig/gaminggear-0.pc

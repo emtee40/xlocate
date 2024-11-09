@@ -1,0 +1,8 @@
+/usr/include/libdeflate.h
+/usr/lib/cmake/libdeflate/libdeflate-config-version.cmake
+/usr/lib/cmake/libdeflate/libdeflate-config.cmake
+/usr/lib/cmake/libdeflate/libdeflate-targets-none.cmake
+/usr/lib/cmake/libdeflate/libdeflate-targets.cmake
+/usr/lib/libdeflate.a
+/usr/lib/libdeflate.so -> /usr/lib/libdeflate.so.0
+/usr/lib/pkgconfig/libdeflate.pc

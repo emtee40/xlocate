@@ -1,0 +1,5 @@
+/usr/bin/protoc-c -> /usr/bin/protoc-gen-c
+/usr/bin/protoc-gen-c
+/usr/lib/libprotobuf-c.so.1 -> /usr/lib/libprotobuf-c.so.1.0.0
+/usr/lib/libprotobuf-c.so.1.0.0
+/usr/share/licenses/protobuf-c/LICENSE

@@ -1,0 +1,11 @@
+/usr/bin/unicc
+/usr/share/licenses/unicc/LICENSE
+/usr/share/man/man1/unicc.1
+/usr/share/unicc/LICENSE
+/usr/share/unicc/README.md
+/usr/share/unicc/targets/c++.tlt
+/usr/share/unicc/targets/c.tlt
+/usr/share/unicc/targets/javascript.tlt
+/usr/share/unicc/targets/json.tlt
+/usr/share/unicc/targets/python.tlt
+/usr/share/unicc/unicc.dtd

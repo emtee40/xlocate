@@ -1,0 +1,11 @@
+/usr/bin/ociobakelut
+/usr/bin/ociocheck
+/usr/bin/ociochecklut
+/usr/bin/ociomakeclf
+/usr/bin/ociowrite
+/usr/lib/libOpenColorIO.so.2.1 -> /usr/lib/libOpenColorIO.so.2.1.3
+/usr/lib/libOpenColorIO.so.2.1.3
+/usr/lib/libOpenColorIOoglapphelpers.a
+/usr/lib/python3.12/site-packages/PyOpenColorIO.so
+/usr/share/licenses/opencolorio/LICENSE
+/usr/share/ocio/setup_ocio.sh

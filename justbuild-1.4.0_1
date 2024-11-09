@@ -1,0 +1,13 @@
+/usr/bin/just
+/usr/bin/just-import-git
+/usr/bin/just-mr
+/usr/share/bash-completion/completions/justbuild
+/usr/share/man/man1/just-deduplicate-repos.1
+/usr/share/man/man1/just-import-git.1
+/usr/share/man/man1/just-mr.1
+/usr/share/man/man1/just.1
+/usr/share/man/man5/just-graph-file.5
+/usr/share/man/man5/just-mr-repository-config.5
+/usr/share/man/man5/just-mrrc.5
+/usr/share/man/man5/just-repository-config.5
+/usr/share/man/man5/just-serve-config.5

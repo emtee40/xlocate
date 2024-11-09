@@ -1,0 +1,3 @@
+/usr/include/hd.h
+/usr/lib/libhd.so -> /usr/lib/libhd.so.23
+/usr/lib/pkgconfig/hwinfo.pc

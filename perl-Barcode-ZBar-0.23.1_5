@@ -1,0 +1,11 @@
+/usr/lib/perl5/vendor_perl/Barcode/ZBar.pm
+/usr/lib/perl5/vendor_perl/Barcode/ZBar/Image.pod
+/usr/lib/perl5/vendor_perl/Barcode/ZBar/ImageScanner.pod
+/usr/lib/perl5/vendor_perl/Barcode/ZBar/Processor.pod
+/usr/lib/perl5/vendor_perl/Barcode/ZBar/Symbol.pod
+/usr/lib/perl5/vendor_perl/auto/Barcode/ZBar/ZBar.so
+/usr/share/man/man3/Barcode::ZBar.3p
+/usr/share/man/man3/Barcode::ZBar::Image.3p
+/usr/share/man/man3/Barcode::ZBar::ImageScanner.3p
+/usr/share/man/man3/Barcode::ZBar::Processor.3p
+/usr/share/man/man3/Barcode::ZBar::Symbol.3p

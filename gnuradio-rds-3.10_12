@@ -1,0 +1,9 @@
+/usr/lib/libgnuradio-rds.so.1 -> /usr/lib/libgnuradio-rds.so.1.1.0
+/usr/lib/libgnuradio-rds.so.1.1.0
+/usr/lib/python3.12/site-packages/rds/__init__.py
+/usr/lib/python3.12/site-packages/rds/rds_python.so
+/usr/lib/python3.12/site-packages/rds/rdspanel.py
+/usr/share/gnuradio/grc/blocks/rds_decoder.block.yml
+/usr/share/gnuradio/grc/blocks/rds_encoder.block.yml
+/usr/share/gnuradio/grc/blocks/rds_panel.block.yml
+/usr/share/gnuradio/grc/blocks/rds_parser.block.yml

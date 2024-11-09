@@ -1,0 +1,14 @@
+/etc/weatherrc
+/usr/bin/weather
+/usr/lib/python3.12/site-packages/weather.py
+/usr/share/doc/weather/FAQ
+/usr/share/doc/weather/NEWS
+/usr/share/doc/weather/README
+/usr/share/licenses/weather/LICENSE
+/usr/share/man/man1/weather.1
+/usr/share/man/man5/weatherrc.5
+/usr/share/weather/airports
+/usr/share/weather/places
+/usr/share/weather/stations
+/usr/share/weather/zctas
+/usr/share/weather/zones

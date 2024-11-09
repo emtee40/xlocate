@@ -1,0 +1,13 @@
+/usr/bin/ncftp
+/usr/bin/ncftpbatch
+/usr/bin/ncftpget
+/usr/bin/ncftpls
+/usr/bin/ncftpput
+/usr/bin/ncftpspooler
+/usr/share/licenses/ncftp/LICENSE.txt
+/usr/share/man/man1/ncftp.1
+/usr/share/man/man1/ncftpbatch.1
+/usr/share/man/man1/ncftpget.1
+/usr/share/man/man1/ncftpls.1
+/usr/share/man/man1/ncftpput.1
+/usr/share/man/man1/ncftpspooler.1

@@ -1,0 +1,5 @@
+/usr/bin/gf2pbm
+/usr/bin/mftrace
+/usr/share/man/man1/mftrace.1
+/usr/share/mftrace/afm.py
+/usr/share/mftrace/tfm.py

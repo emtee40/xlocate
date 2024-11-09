@@ -1,0 +1,14 @@
+/usr/lib/libdockapp.a
+/usr/lib/libdockapp.so.3 -> /usr/lib/libdockapp.so.3.0.0
+/usr/lib/libdockapp.so.3.0.0
+/usr/share/doc/libdockapp/README
+/usr/share/doc/libdockapp/basic/Makefile
+/usr/share/doc/libdockapp/basic/README
+/usr/share/doc/libdockapp/basic/ball_red.xpm
+/usr/share/doc/libdockapp/basic/basic.c
+/usr/share/doc/libdockapp/rectangles/Makefile
+/usr/share/doc/libdockapp/rectangles/rectangles.c
+/usr/share/fonts/X11/misc/fonts.dir
+/usr/share/fonts/X11/misc/luxel-ascii-06x09.pcf.gz
+/usr/share/fonts/X11/misc/seg7-ascii-05x07.pcf.gz
+/usr/share/licenses/libdockapp/README

@@ -1,0 +1,5 @@
+/usr/bin/aws-vault
+/usr/share/bash-completion/completions/aws-vault
+/usr/share/fish/vendor_completions.d/aws-vault.fish
+/usr/share/licenses/aws-vault/LICENSE
+/usr/share/zsh/site-functions/_aws-vault

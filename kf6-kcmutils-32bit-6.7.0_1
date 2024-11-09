@@ -1,0 +1,8 @@
+/usr/lib32/libKF6KCMUtils.so.6 -> /usr/lib32/libKF6KCMUtils.so.6.7.0
+/usr/lib32/libKF6KCMUtils.so.6.7.0
+/usr/lib32/libKF6KCMUtilsCore.so.6 -> /usr/lib32/libKF6KCMUtilsCore.so.6.7.0
+/usr/lib32/libKF6KCMUtilsCore.so.6.7.0
+/usr/lib32/libKF6KCMUtilsQuick.so.6 -> /usr/lib32/libKF6KCMUtilsQuick.so.6.7.0
+/usr/lib32/libKF6KCMUtilsQuick.so.6.7.0
+/usr/lib32/qt6/qml/org/kde/kcmutils/libkcmutilsqmlplugin.so
+/usr/lib32/qt6/qml/org/kde/kcmutils/private/libkcmutilsprivateqmlplugin.so

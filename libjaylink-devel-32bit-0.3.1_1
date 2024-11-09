@@ -1,0 +1,3 @@
+/usr/lib32/libjaylink.a
+/usr/lib32/libjaylink.so -> /usr/lib32/libjaylink.so.0.2.0
+/usr/lib32/pkgconfig/libjaylink.pc

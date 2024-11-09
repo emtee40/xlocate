@@ -1,0 +1,12 @@
+/usr/lib32/libgda-5.0.so -> /usr/lib32/libgda-5.0.so.4.1.1
+/usr/lib32/libgda-report-5.0.so -> /usr/lib32/libgda-report-5.0.so.4.1.1
+/usr/lib32/libgda-ui-5.0.so -> /usr/lib32/libgda-ui-5.0.so.4.1.1
+/usr/lib32/libgda-xslt-5.0.so -> /usr/lib32/libgda-xslt-5.0.so.4.1.1
+/usr/lib32/pkgconfig/libgda-5.0.pc
+/usr/lib32/pkgconfig/libgda-bdb-5.0.pc
+/usr/lib32/pkgconfig/libgda-mysql-5.0.pc
+/usr/lib32/pkgconfig/libgda-report-5.0.pc
+/usr/lib32/pkgconfig/libgda-sqlcipher-5.0.pc
+/usr/lib32/pkgconfig/libgda-sqlite-5.0.pc
+/usr/lib32/pkgconfig/libgda-ui-5.0.pc
+/usr/lib32/pkgconfig/libgda-xslt-5.0.pc

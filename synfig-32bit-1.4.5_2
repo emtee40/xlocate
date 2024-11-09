@@ -1,0 +1,24 @@
+/usr/lib32/libsynfig.so.0 -> /usr/lib32/libsynfig.so.0.0.0
+/usr/lib32/libsynfig.so.0.0.0
+/usr/lib32/synfig/modules/liblyr_freetype.so
+/usr/lib32/synfig/modules/liblyr_std.so
+/usr/lib32/synfig/modules/libmod_bmp.so
+/usr/lib32/synfig/modules/libmod_dv.so
+/usr/lib32/synfig/modules/libmod_example.so
+/usr/lib32/synfig/modules/libmod_ffmpeg.so
+/usr/lib32/synfig/modules/libmod_filter.so
+/usr/lib32/synfig/modules/libmod_geometry.so
+/usr/lib32/synfig/modules/libmod_gif.so
+/usr/lib32/synfig/modules/libmod_gradient.so
+/usr/lib32/synfig/modules/libmod_imagemagick.so
+/usr/lib32/synfig/modules/libmod_jpeg.so
+/usr/lib32/synfig/modules/libmod_libavcodec.so
+/usr/lib32/synfig/modules/libmod_magickpp.so
+/usr/lib32/synfig/modules/libmod_mng.so
+/usr/lib32/synfig/modules/libmod_noise.so
+/usr/lib32/synfig/modules/libmod_openexr.so
+/usr/lib32/synfig/modules/libmod_particle.so
+/usr/lib32/synfig/modules/libmod_png.so
+/usr/lib32/synfig/modules/libmod_ppm.so
+/usr/lib32/synfig/modules/libmod_svg.so
+/usr/lib32/synfig/modules/libmod_yuv420p.so

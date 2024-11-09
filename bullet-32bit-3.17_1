@@ -1,0 +1,28 @@
+/usr/lib32/libBullet2FileLoader.so.3.17
+/usr/lib32/libBullet3Collision.so.3.17
+/usr/lib32/libBullet3Common.so.3.17
+/usr/lib32/libBullet3Dynamics.so.3.17
+/usr/lib32/libBullet3Geometry.so.3.17
+/usr/lib32/libBullet3OpenCL_clew.so.3.17
+/usr/lib32/libBulletCollision.so.3.17
+/usr/lib32/libBulletDynamics.so.3.17
+/usr/lib32/libBulletExampleBrowserLib.so.3.17
+/usr/lib32/libBulletFileLoader.so.3.17
+/usr/lib32/libBulletInverseDynamics.so.3.17
+/usr/lib32/libBulletInverseDynamicsUtils.so.3.17
+/usr/lib32/libBulletRobotics.so.3.17
+/usr/lib32/libBulletRoboticsGUI.so.3.17
+/usr/lib32/libBulletSoftBody.so.3.17
+/usr/lib32/libBulletWorldImporter.so.3.17
+/usr/lib32/libBulletXmlWorldImporter.so.3.17
+/usr/lib32/libBussIK.so
+/usr/lib32/libConvexDecomposition.so -> /usr/lib32/libConvexDecomposition.so.3.17
+/usr/lib32/libConvexDecomposition.so.3.17
+/usr/lib32/libGIMPACTUtils.so -> /usr/lib32/libGIMPACTUtils.so.3.17
+/usr/lib32/libGIMPACTUtils.so.3.17
+/usr/lib32/libHACD.so -> /usr/lib32/libHACD.so.3.17
+/usr/lib32/libHACD.so.3.17
+/usr/lib32/libLinearMath.so -> /usr/lib32/libLinearMath.so.3.17
+/usr/lib32/libLinearMath.so.3.17
+/usr/lib32/libOpenGLWindow.so
+/usr/lib32/libgwen.so

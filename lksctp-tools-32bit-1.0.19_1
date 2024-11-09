@@ -1,0 +1,6 @@
+/usr/lib32/libsctp.so.1 -> /usr/lib32/libsctp.so.1.0.19
+/usr/lib32/libsctp.so.1.0.19
+/usr/lib32/lksctp-tools/libwithsctp.a
+/usr/lib32/lksctp-tools/libwithsctp.so -> /usr/lib32/lksctp-tools/libwithsctp.so.1.0.19
+/usr/lib32/lksctp-tools/libwithsctp.so.1 -> /usr/lib32/lksctp-tools/libwithsctp.so.1.0.19
+/usr/lib32/lksctp-tools/libwithsctp.so.1.0.19

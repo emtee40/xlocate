@@ -1,0 +1,11 @@
+/usr/bin/caja-sendto
+/usr/lib/caja-sendto/plugins/libnstburn.so
+/usr/lib/caja-sendto/plugins/libnstemailclient.so
+/usr/lib/caja-sendto/plugins/libnstgajim.so
+/usr/lib/caja-sendto/plugins/libnstpidgin.so
+/usr/lib/caja-sendto/plugins/libnstremovable_devices.so
+/usr/lib/caja-sendto/plugins/libnstupnp.so
+/usr/lib/caja/extensions-2.0/libcaja-sendto.so
+/usr/share/caja/extensions/libcaja-sendto.caja-extension
+/usr/share/glib-2.0/schemas/org.mate.Caja.Sendto.gschema.xml
+/usr/share/man/man1/caja-sendto.1

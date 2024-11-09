@@ -1,0 +1,14 @@
+/usr/share/man/man3/AppConfig.3p
+/usr/share/man/man3/AppConfig::Args.3p
+/usr/share/man/man3/AppConfig::CGI.3p
+/usr/share/man/man3/AppConfig::File.3p
+/usr/share/man/man3/AppConfig::Getopt.3p
+/usr/share/man/man3/AppConfig::State.3p
+/usr/share/man/man3/AppConfig::Sys.3p
+/usr/share/perl5/vendor_perl/AppConfig.pm
+/usr/share/perl5/vendor_perl/AppConfig/Args.pm
+/usr/share/perl5/vendor_perl/AppConfig/CGI.pm
+/usr/share/perl5/vendor_perl/AppConfig/File.pm
+/usr/share/perl5/vendor_perl/AppConfig/Getopt.pm
+/usr/share/perl5/vendor_perl/AppConfig/State.pm
+/usr/share/perl5/vendor_perl/AppConfig/Sys.pm

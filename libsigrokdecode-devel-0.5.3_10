@@ -1,0 +1,5 @@
+/usr/include/libsigrokdecode/libsigrokdecode.h
+/usr/include/libsigrokdecode/version.h
+/usr/lib/libsigrokdecode.a
+/usr/lib/libsigrokdecode.so -> /usr/lib/libsigrokdecode.so.4.2.1
+/usr/lib/pkgconfig/libsigrokdecode.pc

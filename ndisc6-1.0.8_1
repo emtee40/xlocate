@@ -1,0 +1,29 @@
+/etc/rdnssd/merge-hook
+/usr/bin/addr2name
+/usr/bin/dnssort
+/usr/bin/name2addr
+/usr/bin/ndisc6
+/usr/bin/rdisc6
+/usr/bin/rdnssd
+/usr/bin/rltraceroute6
+/usr/bin/tcpspray
+/usr/bin/tcpspray6
+/usr/bin/tcptraceroute6
+/usr/bin/tracert6
+/usr/share/locale/cs/LC_MESSAGES/ndisc6.mo
+/usr/share/locale/de/LC_MESSAGES/ndisc6.mo
+/usr/share/locale/en/LC_MESSAGES/ndisc6.mo
+/usr/share/locale/en_GB/LC_MESSAGES/ndisc6.mo
+/usr/share/locale/fr/LC_MESSAGES/ndisc6.mo
+/usr/share/locale/sv/LC_MESSAGES/ndisc6.mo
+/usr/share/man/man1/addr2name.1
+/usr/share/man/man1/dnssort.1
+/usr/share/man/man1/name2addr.1 -> /usr/share/man/man1/addr2name.1
+/usr/share/man/man1/tcpspray.1
+/usr/share/man/man1/tcpspray6.1 -> /usr/share/man/man1/tcpspray.1
+/usr/share/man/man8/ndisc6.8
+/usr/share/man/man8/rdisc6.8
+/usr/share/man/man8/rdnssd.8
+/usr/share/man/man8/rltraceroute6.8
+/usr/share/man/man8/tcptraceroute6.8 -> /usr/share/man/man8/rltraceroute6.8
+/usr/share/man/man8/tracert6.8 -> /usr/share/man/man8/rltraceroute6.8

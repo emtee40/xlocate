@@ -1,0 +1,18 @@
+/usr/lib32/libcalligrastageprivate.so -> /usr/lib32/libcalligrastageprivate.so.17
+/usr/lib32/libcalligrastageprivate.so.17 -> /usr/lib32/libcalligrastageprivate.so.17.0.0
+/usr/lib32/libcalligrastageprivate.so.17.0.0
+/usr/lib32/libkdeinit5_calligrastage.so
+/usr/lib32/qt5/plugins/calligra/parts/calligrastagepart.so
+/usr/lib32/qt5/plugins/calligra/presentationeventactions/calligrastageeventactions.so
+/usr/lib32/qt5/plugins/calligra/textinlineobjects/kprvariables.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_barwipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_clockwipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_edgewipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_fade.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_iriswipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_matrixwipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_slidewipe.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_spacerotation.so
+/usr/lib32/qt5/plugins/calligrastage/pageeffects/kpr_pageeffect_swapeffect.so
+/usr/lib32/qt5/plugins/calligrastage/shapeanimations/kpr_shapeanimation_example.so
+/usr/lib32/qt5/plugins/calligrastage/tools/calligrastagetoolanimation.so

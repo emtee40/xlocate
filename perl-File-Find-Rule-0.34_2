@@ -1,0 +1,8 @@
+/usr/bin/findrule
+/usr/share/man/man1/findrule.1p
+/usr/share/man/man3/File::Find::Rule.3p
+/usr/share/man/man3/File::Find::Rule::Extending.3p
+/usr/share/man/man3/File::Find::Rule::Procedural.3p
+/usr/share/perl5/vendor_perl/File/Find/Rule.pm
+/usr/share/perl5/vendor_perl/File/Find/Rule/Extending.pod
+/usr/share/perl5/vendor_perl/File/Find/Rule/Procedural.pod

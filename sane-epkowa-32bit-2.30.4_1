@@ -1,0 +1,4 @@
+/usr/lib32/sane/libsane-epkowa.a
+/usr/lib32/sane/libsane-epkowa.so -> /usr/lib32/sane/libsane-epkowa.so.1.0.15
+/usr/lib32/sane/libsane-epkowa.so.1 -> /usr/lib32/sane/libsane-epkowa.so.1.0.15
+/usr/lib32/sane/libsane-epkowa.so.1.0.15

@@ -1,0 +1,7 @@
+/usr/lib/libyang.so.1 -> /usr/lib/libyang.so.1.10.7
+/usr/lib/libyang.so.1.10.7
+/usr/lib/libyang1/extensions/metadata.so
+/usr/lib/libyang1/extensions/nacm.so
+/usr/lib/libyang1/extensions/yangdata.so
+/usr/lib/libyang1/user_types/user_inet_types.so
+/usr/lib/libyang1/user_types/user_yang_types.so

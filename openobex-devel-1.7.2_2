@@ -1,0 +1,9 @@
+/usr/include/openobex/obex.h
+/usr/include/openobex/obex_const.h
+/usr/include/openobex/version.h
+/usr/lib/cmake/OpenObex-1.7.2/openobex-config-version.cmake
+/usr/lib/cmake/OpenObex-1.7.2/openobex-config.cmake
+/usr/lib/cmake/OpenObex-1.7.2/openobex-target-relwithdebinfo.cmake
+/usr/lib/cmake/OpenObex-1.7.2/openobex-target.cmake
+/usr/lib/libopenobex.so -> /usr/lib/libopenobex.so.2
+/usr/lib/pkgconfig/openobex.pc

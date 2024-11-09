@@ -1,0 +1,6 @@
+/usr/include/bezctx.h
+/usr/include/spiro.h
+/usr/include/spiroentrypoints.h
+/usr/lib/libspiro.a
+/usr/lib/libspiro.so -> /usr/lib/libspiro.so.1.0.5
+/usr/lib/pkgconfig/libspiro.pc

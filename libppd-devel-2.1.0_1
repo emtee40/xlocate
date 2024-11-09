@@ -1,0 +1,6 @@
+/usr/include/ppd/ppd-filter.h
+/usr/include/ppd/ppd.h
+/usr/include/ppd/ppdc.h
+/usr/lib/libppd.a
+/usr/lib/libppd.so -> /usr/lib/libppd.so.2.0.0
+/usr/lib/pkgconfig/libppd.pc

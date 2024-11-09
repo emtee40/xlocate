@@ -1,0 +1,5 @@
+/etc/create_ap.conf
+/usr/bin/create_ap
+/usr/share/bash-completion/completions/create_ap
+/usr/share/doc/create_ap/README.md
+/usr/share/licenses/create_ap/LICENSE

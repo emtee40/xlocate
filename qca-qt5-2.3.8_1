@@ -1,0 +1,11 @@
+/usr/bin/mozcerts-qt5
+/usr/bin/qcatool-qt5
+/usr/lib/libqca-qt5.so.2 -> /usr/lib/libqca-qt5.so.2.3.8
+/usr/lib/libqca-qt5.so.2.3.8
+/usr/lib/qca-qt5/crypto/libqca-botan.so
+/usr/lib/qca-qt5/crypto/libqca-gcrypt.so
+/usr/lib/qca-qt5/crypto/libqca-gnupg.so
+/usr/lib/qca-qt5/crypto/libqca-logger.so
+/usr/lib/qca-qt5/crypto/libqca-nss.so
+/usr/lib/qca-qt5/crypto/libqca-softstore.so
+/usr/share/man/man1/qcatool-qt5.1

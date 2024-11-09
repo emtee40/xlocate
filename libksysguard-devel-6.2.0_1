@@ -1,0 +1,46 @@
+/usr/include/ksysguard/faces/FaceLoader.h
+/usr/include/ksysguard/faces/SensorFaceController.h
+/usr/include/ksysguard/faces/SensorFace_p.h
+/usr/include/ksysguard/faces/sensorfaces_export.h
+/usr/include/ksysguard/formatter/Formatter.h
+/usr/include/ksysguard/formatter/FormatterWrapper.h
+/usr/include/ksysguard/formatter/Unit.h
+/usr/include/ksysguard/formatter/formatter_export.h
+/usr/include/ksysguard/processcore/formatter.h
+/usr/include/ksysguard/processcore/process.h
+/usr/include/ksysguard/processcore/process_attribute.h
+/usr/include/ksysguard/processcore/process_attribute_model.h
+/usr/include/ksysguard/processcore/process_controller.h
+/usr/include/ksysguard/processcore/process_data_model.h
+/usr/include/ksysguard/processcore/process_data_provider.h
+/usr/include/ksysguard/processcore/processcore_export.h
+/usr/include/ksysguard/processcore/processes.h
+/usr/include/ksysguard/processcore/unit.h
+/usr/include/ksysguard/sensors/Sensor.h
+/usr/include/ksysguard/sensors/SensorDataModel.h
+/usr/include/ksysguard/sensors/SensorInfo_p.h
+/usr/include/ksysguard/sensors/SensorQuery.h
+/usr/include/ksysguard/sensors/SensorTreeModel.h
+/usr/include/ksysguard/sensors/SensorUnitModel.h
+/usr/include/ksysguard/sensors/sensors_export.h
+/usr/include/ksysguard/systemstats/AggregateSensor.h
+/usr/include/ksysguard/systemstats/DBusInterface.h
+/usr/include/ksysguard/systemstats/SensorContainer.h
+/usr/include/ksysguard/systemstats/SensorInfo.h
+/usr/include/ksysguard/systemstats/SensorObject.h
+/usr/include/ksysguard/systemstats/SensorPlugin.h
+/usr/include/ksysguard/systemstats/SensorProperty.h
+/usr/include/ksysguard/systemstats/SensorsFeatureSensor.h
+/usr/include/ksysguard/systemstats/SysFsSensor.h
+/usr/include/ksysguard/systemstats/SysctlSensor.h
+/usr/include/ksysguard/systemstats/org.kde.ksystemstats1.h
+/usr/include/ksysguard/systemstats/systemstats_export.h
+/usr/lib/cmake/KSysGuard/KSysGuardConfig.cmake
+/usr/lib/cmake/KSysGuard/KSysGuardConfigVersion.cmake
+/usr/lib/cmake/KSysGuard/KSysGuardLibraryTargets-none.cmake
+/usr/lib/cmake/KSysGuard/KSysGuardLibraryTargets.cmake
+/usr/lib/libKSysGuardFormatter.so -> /usr/lib/libKSysGuardFormatter.so.2
+/usr/lib/libKSysGuardSensorFaces.so -> /usr/lib/libKSysGuardSensorFaces.so.2
+/usr/lib/libKSysGuardSensors.so -> /usr/lib/libKSysGuardSensors.so.2
+/usr/lib/libKSysGuardSystemStats.so -> /usr/lib/libKSysGuardSystemStats.so.2
+/usr/lib/libprocesscore.so -> /usr/lib/libprocesscore.so.10

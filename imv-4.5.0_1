@@ -1,0 +1,15 @@
+/etc/imv_config
+/usr/bin/imv
+/usr/bin/imv-dir
+/usr/bin/imv-msg
+/usr/bin/imv-wayland
+/usr/bin/imv-x11
+/usr/share/applications/imv-dir.desktop
+/usr/share/applications/imv.desktop
+/usr/share/licenses/imv/LICENSE
+/usr/share/man/man1/imv-dir.1
+/usr/share/man/man1/imv-msg.1
+/usr/share/man/man1/imv-wayland.1 -> /usr/share/man/man1/imv-x11.1
+/usr/share/man/man1/imv-x11.1
+/usr/share/man/man1/imv.1
+/usr/share/man/man5/imv.5

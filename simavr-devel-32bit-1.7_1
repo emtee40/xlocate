@@ -1,0 +1,7 @@
+/usr/lib32/libsimavr.a
+/usr/lib32/libsimavr.so -> /usr/lib32/libsimavr.so.1
+/usr/lib32/libsimavrparts.a
+/usr/lib32/libsimavrparts.so -> /usr/lib32/libsimavrparts.so.1
+/usr/lib32/pkgconfig/simavr-avr.pc
+/usr/lib32/pkgconfig/simavr.pc
+/usr/lib32/pkgconfig/simavrparts.pc

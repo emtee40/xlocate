@@ -1,0 +1,5 @@
+/usr/lib32/libdsocks.so
+/usr/lib32/libsocks.a
+/usr/lib32/libsocks.so -> /usr/lib32/libsocks.so.0.1.1
+/usr/lib32/libsocks.so.0 -> /usr/lib32/libsocks.so.0.1.1
+/usr/lib32/libsocks.so.0.1.1

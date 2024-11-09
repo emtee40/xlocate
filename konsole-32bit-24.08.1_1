@@ -1,0 +1,5 @@
+/usr/lib32/libkonsoleapp.so.24.08.1
+/usr/lib32/libkonsoleprivate.so.24.08.1
+/usr/lib32/qt6/plugins/kf6/parts/konsolepart.so
+/usr/lib32/qt6/plugins/konsoleplugins/konsole_quickcommandsplugin.so
+/usr/lib32/qt6/plugins/konsoleplugins/konsole_sshmanagerplugin.so

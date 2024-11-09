@@ -1,0 +1,4 @@
+/usr/lib32/libalpm.so -> /usr/lib32/libalpm.so.13
+/usr/lib32/libalpm.so.13 -> /usr/lib32/libalpm.so.13.0.2
+/usr/lib32/libalpm.so.13.0.2
+/usr/lib32/pkgconfig/libalpm.pc

@@ -1,0 +1,4 @@
+/usr/bin/lsd
+/usr/share/bash-completion/completions/lsd
+/usr/share/fish/vendor_completions.d/lsd.fish
+/usr/share/zsh/site-functions/_lsd

@@ -1,0 +1,24 @@
+/etc/X11/xdm/Xaccess
+/etc/X11/xdm/Xresources
+/etc/X11/xdm/Xservers
+/etc/X11/xdm/xdm-config
+/etc/pam.d/xdm
+/etc/sv/xdm/log/run
+/etc/sv/xdm/log/supervise -> /run/runit/supervise.xdm-log
+/etc/sv/xdm/run
+/etc/sv/xdm/supervise -> /run/runit/supervise.xdm
+/usr/bin/xdm
+/usr/lib/X11/xdm/GiveConsole
+/usr/lib/X11/xdm/TakeConsole
+/usr/lib/X11/xdm/Xreset
+/usr/lib/X11/xdm/Xsession
+/usr/lib/X11/xdm/Xsetup_0
+/usr/lib/X11/xdm/Xstartup
+/usr/lib/X11/xdm/Xwilling
+/usr/lib/X11/xdm/chooser
+/usr/lib/X11/xdm/libXdmGreet.so
+/usr/lib/X11/xdm/pixmaps/xorg-bw.xpm
+/usr/lib/X11/xdm/pixmaps/xorg.xpm
+/usr/share/X11/app-defaults/Chooser
+/usr/share/licenses/xdm/COPYING
+/usr/share/man/man8/xdm.8

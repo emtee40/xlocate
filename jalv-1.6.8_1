@@ -1,0 +1,10 @@
+/usr/bin/jalv
+/usr/bin/jalv.gtk3
+/usr/bin/jalv.qt5
+/usr/lib/jack/jalv.so
+/usr/share/applications/jalv.desktop
+/usr/share/licenses/jalv/COPYING
+/usr/share/man/man1/jalv.1
+/usr/share/man/man1/jalv.gtk.1
+/usr/share/man/man1/jalv.gtk3.1
+/usr/share/man/man1/jalv.qt5.1

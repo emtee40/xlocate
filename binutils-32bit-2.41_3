@@ -1,0 +1,7 @@
+/usr/lib32/bfd-plugins/libdep.so
+/usr/lib32/gprofng/libgp-collector.so
+/usr/lib32/gprofng/libgp-collectorAPI.a
+/usr/lib32/gprofng/libgp-collectorAPI.so
+/usr/lib32/gprofng/libgp-heap.so
+/usr/lib32/gprofng/libgp-iotrace.so
+/usr/lib32/gprofng/libgp-sync.so

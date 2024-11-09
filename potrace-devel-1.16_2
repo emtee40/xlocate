@@ -1,0 +1,3 @@
+/usr/include/potracelib.h
+/usr/lib/libpotrace.a
+/usr/lib/libpotrace.so -> /usr/lib/libpotrace.so.0.0.6

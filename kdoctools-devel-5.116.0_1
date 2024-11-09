@@ -1,0 +1,11 @@
+/usr/include/KF5/KDocTools/docbookxslt.h
+/usr/include/KF5/KDocTools/kdoctools_export.h
+/usr/include/KF5/KDocTools/kdoctools_version.h
+/usr/lib/cmake/KF5DocTools/KF5DocToolsConfig.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsConfigVersion.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsMacros.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsTargets-none.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsTargets.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsToolsTargets-none.cmake
+/usr/lib/cmake/KF5DocTools/KF5DocToolsToolsTargets.cmake
+/usr/lib/libKF5DocTools.so -> /usr/lib/libKF5DocTools.so.5

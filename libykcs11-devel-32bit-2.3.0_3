@@ -1,0 +1,3 @@
+/usr/lib32/libykcs11.a
+/usr/lib32/libykcs11.so -> /usr/lib32/libykcs11.so.2
+/usr/lib32/pkgconfig/ykcs11.pc

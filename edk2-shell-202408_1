@@ -1,0 +1,9 @@
+/usr/share/edk2/aarch64/Shell.efi
+/usr/share/edk2/aarch64/Shell_Full.efi
+/usr/share/edk2/arm/Shell.efi
+/usr/share/edk2/arm/Shell_Full.efi
+/usr/share/edk2/ia32/Shell.efi
+/usr/share/edk2/ia32/Shell_Full.efi
+/usr/share/edk2/x64/Shell.efi
+/usr/share/edk2/x64/Shell_Full.efi
+/usr/share/licenses/edk2-shell/License.txt

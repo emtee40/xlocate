@@ -1,0 +1,13 @@
+/usr/include/KF6/KSvg/KSvg/FrameSvg
+/usr/include/KF6/KSvg/KSvg/ImageSet
+/usr/include/KF6/KSvg/KSvg/Svg
+/usr/include/KF6/KSvg/ksvg/framesvg.h
+/usr/include/KF6/KSvg/ksvg/imageset.h
+/usr/include/KF6/KSvg/ksvg/ksvg_export.h
+/usr/include/KF6/KSvg/ksvg/svg.h
+/usr/include/KF6/KSvg/ksvg_version.h
+/usr/lib/cmake/KF6Svg/KF6SvgConfig.cmake
+/usr/lib/cmake/KF6Svg/KF6SvgConfigVersion.cmake
+/usr/lib/cmake/KF6Svg/KF6SvgTargets-none.cmake
+/usr/lib/cmake/KF6Svg/KF6SvgTargets.cmake
+/usr/lib/libKF6Svg.so -> /usr/lib/libKF6Svg.so.6

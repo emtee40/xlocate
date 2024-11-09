@@ -1,0 +1,5 @@
+/etc/sv/usbmuxd/run
+/etc/sv/usbmuxd/supervise -> /run/runit/supervise.usbmuxd
+/usr/bin/usbmuxd
+/usr/lib/udev/rules.d/39-usbmuxd.rules
+/usr/share/man/man8/usbmuxd.8

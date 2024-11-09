@@ -1,0 +1,13 @@
+/usr/lib32/libsignon-extension.so -> /usr/lib32/libsignon-extension.so.1.0.0
+/usr/lib32/libsignon-plugins-common.so -> /usr/lib32/libsignon-plugins-common.so.1.0.0
+/usr/lib32/libsignon-plugins.so -> /usr/lib32/libsignon-plugins.so.1.0.0
+/usr/lib32/libsignon-qt5.a
+/usr/lib32/libsignon-qt5.so -> /usr/lib32/libsignon-qt5.so.1.0.0
+/usr/lib32/libsignon-qt6.a
+/usr/lib32/libsignon-qt6.so -> /usr/lib32/libsignon-qt6.so.1.0.0
+/usr/lib32/pkgconfig/SignOnExtension.pc
+/usr/lib32/pkgconfig/libsignon-qt5.pc
+/usr/lib32/pkgconfig/libsignon-qt6.pc
+/usr/lib32/pkgconfig/signon-plugins-common.pc
+/usr/lib32/pkgconfig/signon-plugins.pc
+/usr/lib32/pkgconfig/signond.pc

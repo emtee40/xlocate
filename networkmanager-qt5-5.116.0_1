@@ -1,0 +1,4 @@
+/usr/lib/libKF5NetworkManagerQt.so.5.116.0
+/usr/lib/libKF5NetworkManagerQt.so.6 -> /usr/lib/libKF5NetworkManagerQt.so.5.116.0
+/usr/share/qlogging-categories5/networkmanagerqt.categories
+/usr/share/qlogging-categories5/networkmanagerqt.renamecategories

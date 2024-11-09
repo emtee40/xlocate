@@ -1,0 +1,10 @@
+/usr/bin/marisa-benchmark
+/usr/bin/marisa-build
+/usr/bin/marisa-common-prefix-search
+/usr/bin/marisa-dump
+/usr/bin/marisa-lookup
+/usr/bin/marisa-predictive-search
+/usr/bin/marisa-reverse-lookup
+/usr/lib/libmarisa.so.0 -> /usr/lib/libmarisa.so.0.0.0
+/usr/lib/libmarisa.so.0.0.0
+/usr/share/licenses/marisa/COPYING.md

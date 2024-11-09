@@ -1,0 +1,7 @@
+/etc/sv/bird_exporter/log/run
+/etc/sv/bird_exporter/log/supervise -> /run/runit/supervise.bird_exporter-log
+/etc/sv/bird_exporter/run
+/etc/sv/bird_exporter/supervise -> /run/runit/supervise.bird_exporter
+/usr/bin/bird_exporter
+/usr/share/licenses/bird_exporter/LICENSE
+/usr/share/man/man1/bird_exporter.1

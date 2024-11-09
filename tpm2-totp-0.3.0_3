@@ -1,0 +1,9 @@
+/etc/initcpio/hooks/tpm2-totp
+/etc/initcpio/install/tpm2-totp
+/usr/bin/tpm2-totp
+/usr/lib/dracut/modules.d/70tpm2-totp/README
+/usr/lib/dracut/modules.d/70tpm2-totp/cleanup-tpm2-totp.sh
+/usr/lib/dracut/modules.d/70tpm2-totp/module-setup.sh
+/usr/lib/dracut/modules.d/70tpm2-totp/show-tpm2-totp.sh
+/usr/libexec/tpm2-totp/show-tpm2-totp
+/usr/share/man/man1/tpm2-totp.1

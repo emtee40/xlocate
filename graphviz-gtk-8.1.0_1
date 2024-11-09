@@ -1,0 +1,6 @@
+/usr/lib/graphviz/libgvplugin_gdk.so -> /usr/lib/graphviz/libgvplugin_gdk.so.6.0.0
+/usr/lib/graphviz/libgvplugin_gdk.so.6 -> /usr/lib/graphviz/libgvplugin_gdk.so.6.0.0
+/usr/lib/graphviz/libgvplugin_gdk.so.6.0.0
+/usr/lib/graphviz/libgvplugin_gtk.so -> /usr/lib/graphviz/libgvplugin_gtk.so.6.0.0
+/usr/lib/graphviz/libgvplugin_gtk.so.6 -> /usr/lib/graphviz/libgvplugin_gtk.so.6.0.0
+/usr/lib/graphviz/libgvplugin_gtk.so.6.0.0

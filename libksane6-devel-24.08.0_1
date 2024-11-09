@@ -1,0 +1,9 @@
+/usr/include/KSaneWidgets6/KSaneWidget
+/usr/include/KSaneWidgets6/ksane_export.h
+/usr/include/KSaneWidgets6/ksane_version.h
+/usr/include/KSaneWidgets6/ksanewidget.h
+/usr/lib/cmake/KSaneWidgets6/KSaneWidgets6Config.cmake
+/usr/lib/cmake/KSaneWidgets6/KSaneWidgets6ConfigVersion.cmake
+/usr/lib/cmake/KSaneWidgets6/KSaneWidgets6Targets-none.cmake
+/usr/lib/cmake/KSaneWidgets6/KSaneWidgets6Targets.cmake
+/usr/lib/libKSaneWidgets6.so -> /usr/lib/libKSaneWidgets6.so.6

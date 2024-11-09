@@ -1,0 +1,13 @@
+/usr/bin/sqsh-cat
+/usr/bin/sqsh-ls
+/usr/bin/sqsh-stat
+/usr/bin/sqsh-unpack
+/usr/bin/sqsh-xattr
+/usr/bin/sqshfs
+/usr/share/licenses/sqsh-tools/LICENSE
+/usr/share/man/man1/sqsh-cat.1
+/usr/share/man/man1/sqsh-ls.1
+/usr/share/man/man1/sqsh-stat.1
+/usr/share/man/man1/sqsh-unpack.1
+/usr/share/man/man1/sqsh-xattr.1
+/usr/share/man/man1/sqshfs.1

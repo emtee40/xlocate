@@ -1,0 +1,21 @@
+/usr/include/xapp/libxapp/xapp-dark-mode-manager.h
+/usr/include/xapp/libxapp/xapp-favorites.h
+/usr/include/xapp/libxapp/xapp-gpu-offload-helper.h
+/usr/include/xapp/libxapp/xapp-gtk-window.h
+/usr/include/xapp/libxapp/xapp-icon-chooser-button.h
+/usr/include/xapp/libxapp/xapp-icon-chooser-dialog.h
+/usr/include/xapp/libxapp/xapp-kbd-layout-controller.h
+/usr/include/xapp/libxapp/xapp-monitor-blanker.h
+/usr/include/xapp/libxapp/xapp-preferences-window.h
+/usr/include/xapp/libxapp/xapp-stack-sidebar.h
+/usr/include/xapp/libxapp/xapp-status-icon-monitor.h
+/usr/include/xapp/libxapp/xapp-status-icon.h
+/usr/include/xapp/libxapp/xapp-statusicon-interface.h
+/usr/include/xapp/libxapp/xapp-style-manager.h
+/usr/include/xapp/libxapp/xapp-util.h
+/usr/include/xapp/libxapp/xapp-visibility-group.h
+/usr/lib/libxapp.so -> /usr/lib/libxapp.so.1
+/usr/lib/pkgconfig/xapp.pc
+/usr/share/gir-1.0/XApp-1.0.gir
+/usr/share/vala/vapi/xapp.deps
+/usr/share/vala/vapi/xapp.vapi

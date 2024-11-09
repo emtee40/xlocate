@@ -1,0 +1,5 @@
+/usr/lib32/libKF6UserFeedbackCore.so.6 -> /usr/lib32/libKF6UserFeedbackCore.so.6.7.0
+/usr/lib32/libKF6UserFeedbackCore.so.6.7.0
+/usr/lib32/libKF6UserFeedbackWidgets.so.6 -> /usr/lib32/libKF6UserFeedbackWidgets.so.6.7.0
+/usr/lib32/libKF6UserFeedbackWidgets.so.6.7.0
+/usr/lib32/qt6/qml/org/kde/userfeedback/libKF6UserFeedbackQml.so

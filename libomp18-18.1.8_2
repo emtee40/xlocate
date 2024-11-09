@@ -1,0 +1,5 @@
+/usr/lib/libomp.so.5
+/usr/lib/libomptarget.rtl.amdgpu.so.18.1
+/usr/lib/libomptarget.rtl.cuda.so.18.1
+/usr/lib/libomptarget.rtl.x86_64.so.18.1
+/usr/lib/libomptarget.so.18.1

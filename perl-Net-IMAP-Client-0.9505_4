@@ -1,0 +1,6 @@
+/usr/share/man/man3/Net::IMAP::Client.3p
+/usr/share/man/man3/Net::IMAP::Client::MsgAddress.3p
+/usr/share/man/man3/Net::IMAP::Client::MsgSummary.3p
+/usr/share/perl5/vendor_perl/Net/IMAP/Client.pm
+/usr/share/perl5/vendor_perl/Net/IMAP/Client/MsgAddress.pm
+/usr/share/perl5/vendor_perl/Net/IMAP/Client/MsgSummary.pm

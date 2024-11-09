@@ -1,0 +1,4 @@
+/usr/bin/nngcat
+/usr/lib/libnng.so.1 -> /usr/lib/libnng.so.1.5.2
+/usr/lib/libnng.so.1.5.2
+/usr/share/licenses/nng/LICENSE.txt

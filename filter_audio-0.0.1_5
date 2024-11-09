@@ -1,0 +1,3 @@
+/usr/lib/libfilteraudio.so -> /usr/lib/libfilteraudio.so.0
+/usr/lib/libfilteraudio.so.0 -> /usr/lib/libfilteraudio.so.0.0.0
+/usr/lib/libfilteraudio.so.0.0.0

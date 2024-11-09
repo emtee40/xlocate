@@ -1,0 +1,6 @@
+/usr/lib32/libqt5ct-common.so -> /usr/lib32/libqt5ct-common.so.1.7.0
+/usr/lib32/libqt5ct-common.so.1 -> /usr/lib32/libqt5ct-common.so.1.7.0
+/usr/lib32/libqt5ct-common.so.1.7 -> /usr/lib32/libqt5ct-common.so.1.7.0
+/usr/lib32/libqt5ct-common.so.1.7.0
+/usr/lib32/qt5/plugins/platformthemes/libqt5ct.so
+/usr/lib32/qt5/plugins/styles/libqt5ct-style.so

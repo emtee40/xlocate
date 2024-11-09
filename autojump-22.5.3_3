@@ -1,0 +1,12 @@
+/etc/profile.d/autojump.sh
+/usr/bin/autojump
+/usr/bin/autojump_argparse.py
+/usr/bin/autojump_data.py
+/usr/bin/autojump_match.py
+/usr/bin/autojump_utils.py
+/usr/share/autojump/autojump.bash
+/usr/share/autojump/autojump.fish
+/usr/share/autojump/autojump.zsh
+/usr/share/autojump/icon.png
+/usr/share/man/man1/autojump.1
+/usr/share/zsh/site-functions/_j

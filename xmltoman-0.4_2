@@ -1,0 +1,5 @@
+/usr/bin/xmlmantohtml
+/usr/bin/xmltoman
+/usr/share/xmltoman/xmltoman.css
+/usr/share/xmltoman/xmltoman.dtd
+/usr/share/xmltoman/xmltoman.xsl

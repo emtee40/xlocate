@@ -1,0 +1,7 @@
+/usr/lib32/libkrdccore.so.24.08.1
+/usr/lib32/libkrdccore.so.5 -> /usr/lib32/libkrdccore.so.24.08.1
+/usr/lib32/qt6/plugins/krdc/kcms/libkcm_krdc_rdpplugin.so
+/usr/lib32/qt6/plugins/krdc/kcms/libkcm_krdc_vncplugin.so
+/usr/lib32/qt6/plugins/krdc/krdc_rdpplugin.so
+/usr/lib32/qt6/plugins/krdc/krdc_testplugin.so
+/usr/lib32/qt6/plugins/krdc/krdc_vncplugin.so

@@ -1,0 +1,4 @@
+/usr/lib32/libt1.a
+/usr/lib32/libt1.so -> /usr/lib32/libt1.so.5.1.2
+/usr/lib32/libt1x.a
+/usr/lib32/libt1x.so -> /usr/lib32/libt1x.so.5.1.2

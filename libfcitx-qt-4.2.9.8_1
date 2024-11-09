@@ -1,0 +1,4 @@
+/usr/lib/fcitx/libexec/fcitx-qt-gui-wrapper
+/usr/lib/libfcitx-qt.so.0 -> /usr/lib/libfcitx-qt.so.0.1
+/usr/lib/libfcitx-qt.so.0.1
+/usr/lib/qt/plugins/inputmethods/qtim-fcitx.so

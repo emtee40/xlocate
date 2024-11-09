@@ -1,0 +1,8 @@
+/usr/lib32/libgnome-bg-4.so -> /usr/lib32/libgnome-bg-4.so.2
+/usr/lib32/libgnome-desktop-3.so -> /usr/lib32/libgnome-desktop-3.so.20
+/usr/lib32/libgnome-desktop-4.so -> /usr/lib32/libgnome-desktop-4.so.2
+/usr/lib32/libgnome-rr-4.so -> /usr/lib32/libgnome-rr-4.so.2
+/usr/lib32/pkgconfig/gnome-bg-4.pc
+/usr/lib32/pkgconfig/gnome-desktop-3.0.pc
+/usr/lib32/pkgconfig/gnome-desktop-4.pc
+/usr/lib32/pkgconfig/gnome-rr-4.pc

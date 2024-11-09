@@ -1,0 +1,3 @@
+/etc/lightdm/lightdm-mini-greeter.conf
+/usr/bin/lightdm-mini-greeter
+/usr/share/xgreeters/lightdm-mini-greeter.desktop

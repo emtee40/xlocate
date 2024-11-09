@@ -1,0 +1,6 @@
+/usr/include/gxml-0.20/gxml/gxml.h
+/usr/lib/libgxml-0.20.so -> /usr/lib/libgxml-0.20.so.2.0.2
+/usr/lib/pkgconfig/gxml-0.20.pc
+/usr/share/gir-1.0/GXml-0.20.gir
+/usr/share/vala/vapi/gxml-0.20.deps
+/usr/share/vala/vapi/gxml-0.20.vapi

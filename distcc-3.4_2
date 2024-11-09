@@ -1,0 +1,71 @@
+/etc/distcc/clients.allow
+/etc/distcc/hosts
+/etc/sv/distccd/log/run
+/etc/sv/distccd/log/supervise -> /run/runit/supervise.distccd-log
+/etc/sv/distccd/run
+/etc/sv/distccd/supervise -> /run/runit/supervise.distccd
+/usr/bin/distcc
+/usr/bin/distccd
+/usr/bin/distccmon-text
+/usr/bin/lsdistcc
+/usr/bin/update-distcc-symlinks
+/usr/lib/distcc/bin/aarch64-linux-gnu-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-gnu-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-gnu-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-gnu-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-gnu-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-musl-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-musl-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-musl-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-musl-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/aarch64-linux-musl-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabi-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabi-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabi-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabi-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabi-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabihf-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabihf-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabihf-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabihf-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-gnueabihf-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-musleabihf-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-musleabihf-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-musleabihf-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-musleabihf-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/arm-linux-musleabihf-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-gnueabihf-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-gnueabihf-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-gnueabihf-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-gnueabihf-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-gnueabihf-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-musleabihf-c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-musleabihf-cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-musleabihf-cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-musleabihf-g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/armv7l-linux-musleabihf-gcc -> /usr/bin/distcc
+/usr/lib/distcc/bin/c++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/cc -> /usr/bin/distcc
+/usr/lib/distcc/bin/clang -> /usr/bin/distcc
+/usr/lib/distcc/bin/clang++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/cpp -> /usr/bin/distcc
+/usr/lib/distcc/bin/g++ -> /usr/bin/distcc
+/usr/lib/distcc/bin/gcc -> /usr/bin/distcc
+/usr/share/doc/distcc/AUTHORS
+/usr/share/doc/distcc/COPYING
+/usr/share/doc/distcc/INSTALL
+/usr/share/doc/distcc/NEWS
+/usr/share/doc/distcc/README
+/usr/share/doc/distcc/TODO
+/usr/share/doc/distcc/protocol-1.txt
+/usr/share/doc/distcc/protocol-2.txt
+/usr/share/doc/distcc/protocol-3-impl.txt
+/usr/share/doc/distcc/protocol-3.txt
+/usr/share/doc/distcc/protocol-gssapi.txt
+/usr/share/doc/distcc/reporting-bugs.txt
+/usr/share/doc/distcc/status-1.txt
+/usr/share/doc/distcc/survey.txt
+/usr/share/man/man1/distcc.1
+/usr/share/man/man1/distccd.1
+/usr/share/man/man1/distccmon-text.1
+/usr/share/man/man1/lsdistcc.1

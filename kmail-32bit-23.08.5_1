@@ -1,0 +1,15 @@
+/usr/lib32/libkmailprivate.so.5 -> /usr/lib32/libkmailprivate.so.5.24.5
+/usr/lib32/libkmailprivate.so.5.24.5
+/usr/lib32/qt5/plugins/kmailpart.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/archivemailagentconfig.so
+/usr/lib32/qt5/plugins/pim5/akonadi/config/followupreminderagentconfig.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_accounts.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_appearance.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_composer.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_misc.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_plugins.so
+/usr/lib32/qt5/plugins/pim5/kcms/kmail/kcm_kmail_security.so
+/usr/lib32/qt5/plugins/pim5/kcms/summary/kcmkmailsummary.so
+/usr/lib32/qt5/plugins/pim5/kcms/summary/kcmkontactsummary.so
+/usr/lib32/qt5/plugins/pim5/kontact/kontact_kmailplugin.so
+/usr/lib32/qt5/plugins/pim5/kontact/kontact_summaryplugin.so

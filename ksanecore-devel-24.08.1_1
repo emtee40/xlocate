@@ -1,0 +1,13 @@
+/usr/include/KSaneCore/KSaneCore/DeviceInformation
+/usr/include/KSaneCore/KSaneCore/Interface
+/usr/include/KSaneCore/KSaneCore/Option
+/usr/include/KSaneCore/ksanecore/deviceinformation.h
+/usr/include/KSaneCore/ksanecore/interface.h
+/usr/include/KSaneCore/ksanecore/option.h
+/usr/include/KSaneCore/ksanecore_export.h
+/usr/include/KSaneCore/ksanecore_version.h
+/usr/lib/cmake/KSaneCore/KSaneCoreConfig.cmake
+/usr/lib/cmake/KSaneCore/KSaneCoreConfigVersion.cmake
+/usr/lib/cmake/KSaneCore/KSaneCoreTargets-none.cmake
+/usr/lib/cmake/KSaneCore/KSaneCoreTargets.cmake
+/usr/lib/libKSaneCore.so -> /usr/lib/libKSaneCore.so.1

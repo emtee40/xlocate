@@ -1,0 +1,17 @@
+/etc/bacula/bacula-sd.conf
+/etc/sv/bacula-sd/log/run
+/etc/sv/bacula-sd/log/supervise -> /run/runit/supervise.bacula-sd-log
+/etc/sv/bacula-sd/run
+/etc/sv/bacula-sd/supervise -> /run/runit/supervise.bacula-sd
+/usr/bin/bacula-sd
+/usr/bin/bcopy
+/usr/bin/bextract
+/usr/bin/bls
+/usr/bin/bscan
+/usr/bin/btape
+/usr/share/man/man8/bacula-sd.8
+/usr/share/man/man8/bcopy.8
+/usr/share/man/man8/bextract.8
+/usr/share/man/man8/bls.8
+/usr/share/man/man8/bscan.8
+/usr/share/man/man8/btape.8

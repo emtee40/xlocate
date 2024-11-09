@@ -1,0 +1,4 @@
+/usr/lib/xorg/modules/input/libinput_drv.so
+/usr/share/X11/xorg.conf.d/40-libinput.conf
+/usr/share/licenses/xf86-input-libinput/COPYING
+/usr/share/man/man4/libinput.4

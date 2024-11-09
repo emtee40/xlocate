@@ -1,0 +1,6 @@
+/usr/lib32/libgemini.so -> /usr/lib32/libgemini.so.17
+/usr/lib32/libgemini.so.17 -> /usr/lib32/libgemini.so.17.0.0
+/usr/lib32/libgemini.so.17.0.0
+/usr/lib32/qt5/qml/Calligra/Gemini/Dropbox/libcalligrageminidropboxplugin.so
+/usr/lib32/qt5/qml/Calligra/Gemini/Git/libcalligrageminigitplugin.so
+/usr/lib32/qt5/qml/org/kde/calligra/libCalligraComponentsPlugin.so

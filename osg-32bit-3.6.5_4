@@ -1,0 +1,131 @@
+/usr/lib32/libOpenThreads.so.21 -> /usr/lib32/libOpenThreads.so.3.3.1
+/usr/lib32/libOpenThreads.so.3.3.1
+/usr/lib32/libosg.so.161 -> /usr/lib32/libosg.so.3.6.5
+/usr/lib32/libosg.so.3.6.5
+/usr/lib32/libosgAnimation.so.161 -> /usr/lib32/libosgAnimation.so.3.6.5
+/usr/lib32/libosgAnimation.so.3.6.5
+/usr/lib32/libosgDB.so.161 -> /usr/lib32/libosgDB.so.3.6.5
+/usr/lib32/libosgDB.so.3.6.5
+/usr/lib32/libosgFX.so.161 -> /usr/lib32/libosgFX.so.3.6.5
+/usr/lib32/libosgFX.so.3.6.5
+/usr/lib32/libosgGA.so.161 -> /usr/lib32/libosgGA.so.3.6.5
+/usr/lib32/libosgGA.so.3.6.5
+/usr/lib32/libosgManipulator.so.161 -> /usr/lib32/libosgManipulator.so.3.6.5
+/usr/lib32/libosgManipulator.so.3.6.5
+/usr/lib32/libosgParticle.so.161 -> /usr/lib32/libosgParticle.so.3.6.5
+/usr/lib32/libosgParticle.so.3.6.5
+/usr/lib32/libosgPresentation.so.161 -> /usr/lib32/libosgPresentation.so.3.6.5
+/usr/lib32/libosgPresentation.so.3.6.5
+/usr/lib32/libosgShadow.so.161 -> /usr/lib32/libosgShadow.so.3.6.5
+/usr/lib32/libosgShadow.so.3.6.5
+/usr/lib32/libosgSim.so.161 -> /usr/lib32/libosgSim.so.3.6.5
+/usr/lib32/libosgSim.so.3.6.5
+/usr/lib32/libosgTerrain.so.161 -> /usr/lib32/libosgTerrain.so.3.6.5
+/usr/lib32/libosgTerrain.so.3.6.5
+/usr/lib32/libosgText.so.161 -> /usr/lib32/libosgText.so.3.6.5
+/usr/lib32/libosgText.so.3.6.5
+/usr/lib32/libosgUI.so.161 -> /usr/lib32/libosgUI.so.3.6.5
+/usr/lib32/libosgUI.so.3.6.5
+/usr/lib32/libosgUtil.so.161 -> /usr/lib32/libosgUtil.so.3.6.5
+/usr/lib32/libosgUtil.so.3.6.5
+/usr/lib32/libosgViewer.so.161 -> /usr/lib32/libosgViewer.so.3.6.5
+/usr/lib32/libosgViewer.so.3.6.5
+/usr/lib32/libosgVolume.so.161 -> /usr/lib32/libosgVolume.so.3.6.5
+/usr/lib32/libosgVolume.so.3.6.5
+/usr/lib32/libosgWidget.so.161 -> /usr/lib32/libosgWidget.so.3.6.5
+/usr/lib32/libosgWidget.so.3.6.5
+/usr/lib32/osgPlugins-3.6.5/osgdb_3dc.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_3ds.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ac.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_bmp.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_bsp.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_bvh.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_cfg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_curl.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_dds.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osganimation.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgfx.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgparticle.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgshadow.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgsim.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgterrain.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgtext.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgviewer.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgvolume.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_deprecated_osgwidget.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_dot.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_dxf.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ffmpeg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_freetype.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gdal.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gif.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gles.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_glsl.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gstreamer.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gta.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_gz.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_hdr.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ive.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_jp2.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_jpeg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ktx.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_logo.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_lua.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_lwo.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_lws.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_md2.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_mdl.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_normals.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_obj.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ogr.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_openflight.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osc.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osga.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osgjs.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osgshadow.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osgterrain.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osgtgz.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_osgviewer.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_p3d.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_pdf.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_pic.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_ply.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_png.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_pnm.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_pov.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_pvr.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_revisions.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_rgb.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_rot.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_scale.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osganimation.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgfx.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgga.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgmanipulator.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgparticle.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgshadow.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgsim.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgterrain.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgtext.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgui.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgutil.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgviewer.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_serializers_osgvolume.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_shp.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_stl.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_svg.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_tf.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_tga.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_tgz.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_tiff.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_trans.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_trk.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_txf.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_txp.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_vnc.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_vtf.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_x.so
+/usr/lib32/osgPlugins-3.6.5/osgdb_zip.so

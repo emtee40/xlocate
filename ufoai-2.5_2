@@ -1,0 +1,16 @@
+/usr/bin/ufo
+/usr/bin/ufoded
+/usr/share/applications/ufoai-safe.desktop
+/usr/share/applications/ufoai.desktop
+/usr/share/applications/ufoded.desktop
+/usr/share/man/man6/ufo.6
+/usr/share/man/man6/ufoded.6
+/usr/share/pixmaps/ufoai.xpm
+/usr/share/pixmaps/ufoded.xpm
+/usr/share/ufoai/base/game.so
+/usr/share/ufoai/memory
+/usr/share/ufoai/ufo
+/usr/share/ufoai/ufo2map
+/usr/share/ufoai/ufoded
+/usr/share/ufoai/ufomodel
+/usr/share/ufoai/ufoslicer

@@ -1,0 +1,6 @@
+/usr/lib32/libgdkglext-x11-1.0.so -> /usr/lib32/libgdkglext-x11-1.0.so.0.0.0
+/usr/lib32/libgtkglext-x11-1.0.so -> /usr/lib32/libgtkglext-x11-1.0.so.0.0.0
+/usr/lib32/pkgconfig/gdkglext-1.0.pc
+/usr/lib32/pkgconfig/gdkglext-x11-1.0.pc
+/usr/lib32/pkgconfig/gtkglext-1.0.pc
+/usr/lib32/pkgconfig/gtkglext-x11-1.0.pc

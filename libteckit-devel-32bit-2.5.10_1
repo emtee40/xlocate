@@ -1,0 +1,5 @@
+/usr/lib32/libTECkit.a
+/usr/lib32/libTECkit.so -> /usr/lib32/libTECkit.so.0.0.0
+/usr/lib32/libTECkit_Compiler.a
+/usr/lib32/libTECkit_Compiler.so -> /usr/lib32/libTECkit_Compiler.so.0.0.0
+/usr/lib32/pkgconfig/teckit.pc

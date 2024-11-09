@@ -1,0 +1,18 @@
+/usr/lib/python2.7/site-packages/pycparser-2.21-py2.7.egg-info/PKG-INFO
+/usr/lib/python2.7/site-packages/pycparser-2.21-py2.7.egg-info/SOURCES.txt
+/usr/lib/python2.7/site-packages/pycparser-2.21-py2.7.egg-info/dependency_links.txt
+/usr/lib/python2.7/site-packages/pycparser-2.21-py2.7.egg-info/top_level.txt
+/usr/lib/python2.7/site-packages/pycparser/__init__.py
+/usr/lib/python2.7/site-packages/pycparser/_ast_gen.py
+/usr/lib/python2.7/site-packages/pycparser/_build_tables.py
+/usr/lib/python2.7/site-packages/pycparser/_c_ast.cfg
+/usr/lib/python2.7/site-packages/pycparser/ast_transforms.py
+/usr/lib/python2.7/site-packages/pycparser/c_ast.py
+/usr/lib/python2.7/site-packages/pycparser/c_generator.py
+/usr/lib/python2.7/site-packages/pycparser/c_lexer.py
+/usr/lib/python2.7/site-packages/pycparser/c_parser.py
+/usr/lib/python2.7/site-packages/pycparser/lextab.py
+/usr/lib/python2.7/site-packages/pycparser/ply -> ../ply
+/usr/lib/python2.7/site-packages/pycparser/plyparser.py
+/usr/lib/python2.7/site-packages/pycparser/yacctab.py
+/usr/share/licenses/python-pycparser/LICENSE

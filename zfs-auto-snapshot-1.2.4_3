@@ -1,0 +1,7 @@
+/etc/cron.d/zfs-auto-snapshot
+/etc/cron.daily/zfs-auto-snapshot
+/etc/cron.hourly/zfs-auto-snapshot
+/etc/cron.monthly/zfs-auto-snapshot
+/etc/cron.weekly/zfs-auto-snapshot
+/usr/bin/zfs-auto-snapshot
+/usr/share/man/man8/zfs-auto-snapshot.8

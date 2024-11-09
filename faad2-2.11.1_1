@@ -1,0 +1,6 @@
+/usr/bin/faad
+/usr/lib/libfaad.so.2 -> /usr/lib/libfaad.so.2.11.1
+/usr/lib/libfaad.so.2.11.1
+/usr/lib/libfaad_drm.so.2 -> /usr/lib/libfaad_drm.so.2.11.1
+/usr/lib/libfaad_drm.so.2.11.1
+/usr/share/man/man1/faad.1

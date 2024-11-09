@@ -1,0 +1,13 @@
+/usr/bin/poly
+/usr/bin/polyc
+/usr/bin/polyimport
+/usr/lib/libpolymain.a
+/usr/lib/libpolyml.a
+/usr/lib/libpolyml.so -> /usr/lib/libpolyml.so.14.0.0
+/usr/lib/libpolyml.so.14 -> /usr/lib/libpolyml.so.14.0.0
+/usr/lib/libpolyml.so.14.0.0
+/usr/lib/pkgconfig/polyml.pc
+/usr/lib/polyml/modules/IntInfAsInt
+/usr/share/man/man1/poly.1
+/usr/share/man/man1/polyc.1
+/usr/share/man/man1/polyimport.1

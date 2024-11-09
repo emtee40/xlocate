@@ -1,0 +1,8 @@
+/usr/lib32/libfreeipmi.so.17 -> /usr/lib32/libfreeipmi.so.17.2.5
+/usr/lib32/libfreeipmi.so.17.2.5
+/usr/lib32/libipmiconsole.so.2 -> /usr/lib32/libipmiconsole.so.2.3.6
+/usr/lib32/libipmiconsole.so.2.3.6
+/usr/lib32/libipmidetect.so.0 -> /usr/lib32/libipmidetect.so.0.0.1
+/usr/lib32/libipmidetect.so.0.0.1
+/usr/lib32/libipmimonitoring.so.6 -> /usr/lib32/libipmimonitoring.so.6.0.8
+/usr/lib32/libipmimonitoring.so.6.0.8

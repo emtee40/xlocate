@@ -1,0 +1,6 @@
+/usr/lib/libqwt-qt6.so -> /usr/lib/libqwt-qt6.so.6.2.0
+/usr/lib/pkgconfig/Qt6Qwt6.pc
+/usr/lib/qt6/mkspecs/features/qwt.prf
+/usr/lib/qt6/mkspecs/features/qwtconfig.pri
+/usr/lib/qt6/mkspecs/features/qwtfunctions.pri
+/usr/lib/qt6/plugins/designer/libqwt_designer_plugin.so

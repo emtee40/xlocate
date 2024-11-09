@@ -1,0 +1,4 @@
+/usr/bin/qjsc
+/usr/include/quickjs/quickjs-libc.h
+/usr/include/quickjs/quickjs.h
+/usr/lib/libquickjs.a

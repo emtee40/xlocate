@@ -1,0 +1,6 @@
+/usr/lib32/libnfdump-1.7.5.so
+/usr/lib32/libnfdump.a
+/usr/lib32/libnfdump.so -> /usr/lib32/libnfdump-1.7.5.so
+/usr/lib32/libnffile-1.7.5.so
+/usr/lib32/libnffile.a
+/usr/lib32/libnffile.so -> /usr/lib32/libnffile-1.7.5.so

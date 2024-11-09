@@ -1,0 +1,7 @@
+/usr/bin/b91dec -> /usr/bin/base91
+/usr/bin/b91enc -> /usr/bin/base91
+/usr/bin/base91
+/usr/share/licenses/base91/LICENSE
+/usr/share/man/man1/b91dec.1 -> /usr/share/man/man1/base91.1
+/usr/share/man/man1/b91enc.1 -> /usr/share/man/man1/base91.1
+/usr/share/man/man1/base91.1

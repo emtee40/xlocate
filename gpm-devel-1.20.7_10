@@ -1,0 +1,3 @@
+/usr/include/gpm.h
+/usr/lib/libgpm.a
+/usr/lib/libgpm.so -> /usr/lib/libgpm.so.2.1.0

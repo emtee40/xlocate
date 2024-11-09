@@ -1,0 +1,11 @@
+/usr/lib32/libsfml-audio.so -> /usr/lib32/libsfml-audio.so.2.6
+/usr/lib32/libsfml-graphics.so -> /usr/lib32/libsfml-graphics.so.2.6
+/usr/lib32/libsfml-network.so -> /usr/lib32/libsfml-network.so.2.6
+/usr/lib32/libsfml-system.so -> /usr/lib32/libsfml-system.so.2.6
+/usr/lib32/libsfml-window.so -> /usr/lib32/libsfml-window.so.2.6
+/usr/lib32/pkgconfig/sfml-all.pc
+/usr/lib32/pkgconfig/sfml-audio.pc
+/usr/lib32/pkgconfig/sfml-graphics.pc
+/usr/lib32/pkgconfig/sfml-network.pc
+/usr/lib32/pkgconfig/sfml-system.pc
+/usr/lib32/pkgconfig/sfml-window.pc

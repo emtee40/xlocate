@@ -1,0 +1,3 @@
+/usr/lib32/libmad.a
+/usr/lib32/libmad.so -> /usr/lib32/libmad.so.0.2.1
+/usr/lib32/pkgconfig/mad.pc

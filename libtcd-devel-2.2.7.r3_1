@@ -1,0 +1,3 @@
+/usr/include/tcd.h
+/usr/lib/libtcd.a
+/usr/lib/libtcd.so -> /usr/lib/libtcd.so.1.0.2

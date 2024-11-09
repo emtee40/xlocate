@@ -1,0 +1,25 @@
+/usr/lib32/libmirage-3.2/filter-cso.so
+/usr/lib32/libmirage-3.2/filter-daa.so
+/usr/lib32/libmirage-3.2/filter-dmg.so
+/usr/lib32/libmirage-3.2/filter-ecm.so
+/usr/lib32/libmirage-3.2/filter-gzip.so
+/usr/lib32/libmirage-3.2/filter-isz.so
+/usr/lib32/libmirage-3.2/filter-macbinary.so
+/usr/lib32/libmirage-3.2/filter-sndfile.so
+/usr/lib32/libmirage-3.2/filter-xz.so
+/usr/lib32/libmirage-3.2/image-b6t.so
+/usr/lib32/libmirage-3.2/image-c2d.so
+/usr/lib32/libmirage-3.2/image-ccd.so
+/usr/lib32/libmirage-3.2/image-cdi.so
+/usr/lib32/libmirage-3.2/image-cif.so
+/usr/lib32/libmirage-3.2/image-cue.so
+/usr/lib32/libmirage-3.2/image-harddisk.so
+/usr/lib32/libmirage-3.2/image-iso.so
+/usr/lib32/libmirage-3.2/image-mds.so
+/usr/lib32/libmirage-3.2/image-mdx.so
+/usr/lib32/libmirage-3.2/image-nrg.so
+/usr/lib32/libmirage-3.2/image-readcd.so
+/usr/lib32/libmirage-3.2/image-toc.so
+/usr/lib32/libmirage-3.2/image-xcdroast.so
+/usr/lib32/libmirage.so.11 -> /usr/lib32/libmirage.so.11.0.0
+/usr/lib32/libmirage.so.11.0.0

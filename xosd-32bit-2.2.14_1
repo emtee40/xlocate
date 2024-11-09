@@ -1,0 +1,4 @@
+/usr/lib32/libxosd.a
+/usr/lib32/libxosd.so -> /usr/lib32/libxosd.so.2.2.14
+/usr/lib32/libxosd.so.2 -> /usr/lib32/libxosd.so.2.2.14
+/usr/lib32/libxosd.so.2.2.14

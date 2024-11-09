@@ -1,0 +1,4 @@
+/usr/include/libhackrf/hackrf.h
+/usr/lib/libhackrf.a
+/usr/lib/libhackrf.so -> /usr/lib/libhackrf.so.0
+/usr/lib/pkgconfig/libhackrf.pc

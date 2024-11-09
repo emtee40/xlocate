@@ -1,0 +1,16 @@
+/usr/bin/gitk
+/usr/share/gitk/lib/msgs/bg.msg
+/usr/share/gitk/lib/msgs/ca.msg
+/usr/share/gitk/lib/msgs/de.msg
+/usr/share/gitk/lib/msgs/es.msg
+/usr/share/gitk/lib/msgs/fr.msg
+/usr/share/gitk/lib/msgs/hu.msg
+/usr/share/gitk/lib/msgs/it.msg
+/usr/share/gitk/lib/msgs/ja.msg
+/usr/share/gitk/lib/msgs/pt_br.msg
+/usr/share/gitk/lib/msgs/pt_pt.msg
+/usr/share/gitk/lib/msgs/ru.msg
+/usr/share/gitk/lib/msgs/sv.msg
+/usr/share/gitk/lib/msgs/vi.msg
+/usr/share/gitk/lib/msgs/zh_cn.msg
+/usr/share/man/man1/gitk.1

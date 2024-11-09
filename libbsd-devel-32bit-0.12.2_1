@@ -1,0 +1,6 @@
+/usr/lib32/libbsd-ctor.a
+/usr/lib32/libbsd.a
+/usr/lib32/libbsd.so
+/usr/lib32/pkgconfig/libbsd-ctor.pc
+/usr/lib32/pkgconfig/libbsd-overlay.pc
+/usr/lib32/pkgconfig/libbsd.pc

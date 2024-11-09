@@ -1,0 +1,159 @@
+/usr/include/_libxl_list.h
+/usr/include/_libxl_types.h
+/usr/include/_libxl_types_json.h
+/usr/include/libxenvchan.h
+/usr/include/libxl.h
+/usr/include/libxl_event.h
+/usr/include/libxl_json.h
+/usr/include/libxl_utils.h
+/usr/include/libxl_uuid.h
+/usr/include/libxlutil.h
+/usr/include/xen/COPYING
+/usr/include/xen/arch-arm.h
+/usr/include/xen/arch-arm/hvm/save.h
+/usr/include/xen/arch-x86/cpufeatureset.h
+/usr/include/xen/arch-x86/cpuid.h
+/usr/include/xen/arch-x86/hvm/save.h
+/usr/include/xen/arch-x86/hvm/start_info.h
+/usr/include/xen/arch-x86/pmu.h
+/usr/include/xen/arch-x86/xen-mca.h
+/usr/include/xen/arch-x86/xen-x86_32.h
+/usr/include/xen/arch-x86/xen-x86_64.h
+/usr/include/xen/arch-x86/xen.h
+/usr/include/xen/arch-x86_32.h
+/usr/include/xen/arch-x86_64.h
+/usr/include/xen/argo.h
+/usr/include/xen/callback.h
+/usr/include/xen/device_tree_defs.h
+/usr/include/xen/dom0_ops.h
+/usr/include/xen/domctl.h
+/usr/include/xen/elfnote.h
+/usr/include/xen/errno.h
+/usr/include/xen/event_channel.h
+/usr/include/xen/features.h
+/usr/include/xen/foreign/arm32.h
+/usr/include/xen/foreign/arm64.h
+/usr/include/xen/foreign/x86_32.h
+/usr/include/xen/foreign/x86_64.h
+/usr/include/xen/grant_table.h
+/usr/include/xen/hvm/dm_op.h
+/usr/include/xen/hvm/e820.h
+/usr/include/xen/hvm/hvm_info_table.h
+/usr/include/xen/hvm/hvm_op.h
+/usr/include/xen/hvm/hvm_vcpu.h
+/usr/include/xen/hvm/hvm_xs_strings.h
+/usr/include/xen/hvm/ioreq.h
+/usr/include/xen/hvm/params.h
+/usr/include/xen/hvm/pvdrivers.h
+/usr/include/xen/hvm/save.h
+/usr/include/xen/hypfs.h
+/usr/include/xen/io/9pfs.h
+/usr/include/xen/io/blkif.h
+/usr/include/xen/io/cameraif.h
+/usr/include/xen/io/console.h
+/usr/include/xen/io/displif.h
+/usr/include/xen/io/fbif.h
+/usr/include/xen/io/fsif.h
+/usr/include/xen/io/kbdif.h
+/usr/include/xen/io/libxenvchan.h
+/usr/include/xen/io/netif.h
+/usr/include/xen/io/pciif.h
+/usr/include/xen/io/protocols.h
+/usr/include/xen/io/pvcalls.h
+/usr/include/xen/io/ring.h
+/usr/include/xen/io/sndif.h
+/usr/include/xen/io/tpmif.h
+/usr/include/xen/io/usbif.h
+/usr/include/xen/io/vscsiif.h
+/usr/include/xen/io/xenbus.h
+/usr/include/xen/io/xs_wire.h
+/usr/include/xen/kexec.h
+/usr/include/xen/memory.h
+/usr/include/xen/nmi.h
+/usr/include/xen/physdev.h
+/usr/include/xen/platform.h
+/usr/include/xen/pmu.h
+/usr/include/xen/sched.h
+/usr/include/xen/sys/evtchn.h
+/usr/include/xen/sys/gntalloc.h
+/usr/include/xen/sys/gntdev.h
+/usr/include/xen/sys/privcmd.h
+/usr/include/xen/sys/xenbus_dev.h
+/usr/include/xen/sysctl.h
+/usr/include/xen/tmem.h
+/usr/include/xen/trace.h
+/usr/include/xen/vcpu.h
+/usr/include/xen/version.h
+/usr/include/xen/vm_event.h
+/usr/include/xen/xen-compat.h
+/usr/include/xen/xen.h
+/usr/include/xen/xencomm.h
+/usr/include/xen/xenoprof.h
+/usr/include/xen/xsm/flask_op.h
+/usr/include/xencall.h
+/usr/include/xenctrl.h
+/usr/include/xenctrl_compat.h
+/usr/include/xendevicemodel.h
+/usr/include/xenevtchn.h
+/usr/include/xenforeignmemory.h
+/usr/include/xenfsimage.h
+/usr/include/xenfsimage_grub.h
+/usr/include/xenfsimage_plugin.h
+/usr/include/xengnttab.h
+/usr/include/xenguest.h
+/usr/include/xenhypfs.h
+/usr/include/xenstat.h
+/usr/include/xenstore-compat/xs.h
+/usr/include/xenstore-compat/xs_lib.h
+/usr/include/xenstore.h
+/usr/include/xenstore_lib.h
+/usr/include/xentoolcore.h
+/usr/include/xentoollog.h
+/usr/include/xs.h -> /usr/include/xenstore-compat/xs.h
+/usr/include/xs_lib.h -> /usr/include/xenstore-compat/xs_lib.h
+/usr/lib/libxencall.a
+/usr/lib/libxencall.so -> /usr/lib/libxencall.so.1
+/usr/lib/libxenctrl.a
+/usr/lib/libxenctrl.so -> /usr/lib/libxenctrl.so.4.14
+/usr/lib/libxendevicemodel.a
+/usr/lib/libxendevicemodel.so -> /usr/lib/libxendevicemodel.so.1
+/usr/lib/libxenevtchn.a
+/usr/lib/libxenevtchn.so -> /usr/lib/libxenevtchn.so.1
+/usr/lib/libxenforeignmemory.a
+/usr/lib/libxenforeignmemory.so -> /usr/lib/libxenforeignmemory.so.1
+/usr/lib/libxenfsimage.so -> /usr/lib/libxenfsimage.so.4.14
+/usr/lib/libxengnttab.a
+/usr/lib/libxengnttab.so -> /usr/lib/libxengnttab.so.1
+/usr/lib/libxenguest.a
+/usr/lib/libxenguest.so -> /usr/lib/libxenguest.so.4.14
+/usr/lib/libxenhypfs.a
+/usr/lib/libxenhypfs.so -> /usr/lib/libxenhypfs.so.1
+/usr/lib/libxenlight.a
+/usr/lib/libxenlight.so -> /usr/lib/libxenlight.so.4.14
+/usr/lib/libxenstat.a
+/usr/lib/libxenstat.so -> /usr/lib/libxenstat.so.4.14
+/usr/lib/libxenstore.a
+/usr/lib/libxenstore.so -> /usr/lib/libxenstore.so.3.0
+/usr/lib/libxentoolcore.a
+/usr/lib/libxentoolcore.so -> /usr/lib/libxentoolcore.so.1
+/usr/lib/libxentoollog.a
+/usr/lib/libxentoollog.so -> /usr/lib/libxentoollog.so.1
+/usr/lib/libxenvchan.a
+/usr/lib/libxenvchan.so -> /usr/lib/libxenvchan.so.4.14
+/usr/lib/libxlutil.a
+/usr/lib/libxlutil.so -> /usr/lib/libxlutil.so.4.14
+/usr/lib/pkgconfig/xencall.pc
+/usr/lib/pkgconfig/xencontrol.pc
+/usr/lib/pkgconfig/xendevicemodel.pc
+/usr/lib/pkgconfig/xenevtchn.pc
+/usr/lib/pkgconfig/xenforeignmemory.pc
+/usr/lib/pkgconfig/xengnttab.pc
+/usr/lib/pkgconfig/xenguest.pc
+/usr/lib/pkgconfig/xenhypfs.pc
+/usr/lib/pkgconfig/xenlight.pc
+/usr/lib/pkgconfig/xenstat.pc
+/usr/lib/pkgconfig/xenstore.pc
+/usr/lib/pkgconfig/xentoolcore.pc
+/usr/lib/pkgconfig/xentoollog.pc
+/usr/lib/pkgconfig/xenvchan.pc
+/usr/lib/pkgconfig/xlutil.pc

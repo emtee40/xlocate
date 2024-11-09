@@ -1,0 +1,37 @@
+/usr/bin/eselect
+/usr/bin/kernel-config -> /usr/bin/eselect
+/usr/bin/profile-config -> /usr/bin/eselect
+/usr/bin/rc-config -> /usr/bin/eselect
+/usr/share/eselect/libs/config.bash
+/usr/share/eselect/libs/core.bash
+/usr/share/eselect/libs/default.eselect
+/usr/share/eselect/libs/editor-variable.bash
+/usr/share/eselect/libs/manip.bash
+/usr/share/eselect/libs/multilib.bash
+/usr/share/eselect/libs/output.bash
+/usr/share/eselect/libs/package-manager.bash
+/usr/share/eselect/libs/path-manipulation.bash
+/usr/share/eselect/libs/skel.bash
+/usr/share/eselect/libs/tests.bash
+/usr/share/eselect/modules/editor.eselect
+/usr/share/eselect/modules/env.eselect
+/usr/share/eselect/modules/kernel.eselect
+/usr/share/eselect/modules/locale.eselect
+/usr/share/eselect/modules/modules.eselect
+/usr/share/eselect/modules/news.eselect
+/usr/share/eselect/modules/pager.eselect
+/usr/share/eselect/modules/profile.eselect
+/usr/share/eselect/modules/rc.eselect
+/usr/share/eselect/modules/visual.eselect
+/usr/share/man/man1/eselect.1
+/usr/share/man/man1/kernel-config.1 -> /usr/share/man/man5/kernel.eselect.5
+/usr/share/man/man1/profile-config.1 -> /usr/share/man/man5/profile.eselect.5
+/usr/share/man/man1/rc-config.1 -> /usr/share/man/man5/rc.eselect.5
+/usr/share/man/man5/editor.eselect.5
+/usr/share/man/man5/env.eselect.5
+/usr/share/man/man5/kernel.eselect.5
+/usr/share/man/man5/news.eselect.5
+/usr/share/man/man5/pager.eselect.5
+/usr/share/man/man5/profile.eselect.5
+/usr/share/man/man5/rc.eselect.5
+/usr/share/man/man5/visual.eselect.5

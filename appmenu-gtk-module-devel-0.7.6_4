@@ -1,0 +1,5 @@
+/usr/include/appmenu-gtk-parser/appmenu-gtk-action-group.h
+/usr/include/appmenu-gtk-parser/appmenu-gtk-menu-shell.h
+/usr/include/appmenu-gtk-parser/appmenu-gtk-parser.h
+/usr/lib/libappmenu-gtk3-parser.so -> /usr/lib/libappmenu-gtk3-parser.so.0
+/usr/lib/pkgconfig/appmenu-gtk3-parser.pc

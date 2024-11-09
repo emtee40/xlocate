@@ -1,0 +1,7 @@
+/usr/bin/json_xs
+/usr/lib/perl5/vendor_perl/JSON/XS.pm
+/usr/lib/perl5/vendor_perl/JSON/XS/Boolean.pm
+/usr/lib/perl5/vendor_perl/auto/JSON/XS/XS.so
+/usr/share/man/man1/json_xs.1p
+/usr/share/man/man3/JSON::XS.3p
+/usr/share/man/man3/JSON::XS::Boolean.3p

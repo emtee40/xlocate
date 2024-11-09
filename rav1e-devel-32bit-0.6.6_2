@@ -1,0 +1,3 @@
+/usr/lib32/librav1e.a
+/usr/lib32/librav1e.so -> /usr/lib32/librav1e.so.0.6.6
+/usr/lib32/pkgconfig/rav1e.pc

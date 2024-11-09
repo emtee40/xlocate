@@ -1,0 +1,27 @@
+/usr/include/KF6/KIconThemes/KIconColors
+/usr/include/KF6/KIconThemes/KIconEffect
+/usr/include/KF6/KIconThemes/KIconEngine
+/usr/include/KF6/KIconThemes/KIconLoader
+/usr/include/KF6/KIconThemes/KIconTheme
+/usr/include/KF6/KIconThemes/KQuickIconProvider
+/usr/include/KF6/KIconThemes/kiconcolors.h
+/usr/include/KF6/KIconThemes/kiconeffect.h
+/usr/include/KF6/KIconThemes/kiconengine.h
+/usr/include/KF6/KIconThemes/kiconloader.h
+/usr/include/KF6/KIconThemes/kicontheme.h
+/usr/include/KF6/KIconThemes/kiconthemes_export.h
+/usr/include/KF6/KIconThemes/kiconthemes_version.h
+/usr/include/KF6/KIconThemes/kquickiconprovider.h
+/usr/include/KF6/KIconWidgets/KIconButton
+/usr/include/KF6/KIconWidgets/KIconDialog
+/usr/include/KF6/KIconWidgets/KPixmapSequenceLoader
+/usr/include/KF6/KIconWidgets/kiconbutton.h
+/usr/include/KF6/KIconWidgets/kicondialog.h
+/usr/include/KF6/KIconWidgets/kiconwidgets_export.h
+/usr/include/KF6/KIconWidgets/kpixmapsequenceloader.h
+/usr/lib/cmake/KF6IconThemes/KF6IconThemesConfig.cmake
+/usr/lib/cmake/KF6IconThemes/KF6IconThemesConfigVersion.cmake
+/usr/lib/cmake/KF6IconThemes/KF6IconThemesTargets-none.cmake
+/usr/lib/cmake/KF6IconThemes/KF6IconThemesTargets.cmake
+/usr/lib/libKF6IconThemes.so -> /usr/lib/libKF6IconThemes.so.6
+/usr/lib/libKF6IconWidgets.so -> /usr/lib/libKF6IconWidgets.so.6

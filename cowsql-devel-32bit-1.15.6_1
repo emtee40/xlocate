@@ -1,0 +1,3 @@
+/usr/lib32/libcowsql.a
+/usr/lib32/libcowsql.so -> /usr/lib32/libcowsql.so.0.0.1
+/usr/lib32/pkgconfig/cowsql.pc

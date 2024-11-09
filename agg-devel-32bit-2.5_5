@@ -1,0 +1,9 @@
+/usr/lib32/libagg.a
+/usr/lib32/libagg.so -> /usr/lib32/libagg.so.2.0.4
+/usr/lib32/libaggfontfreetype.a
+/usr/lib32/libaggfontfreetype.so -> /usr/lib32/libaggfontfreetype.so.2.0.4
+/usr/lib32/libaggplatformX11.a
+/usr/lib32/libaggplatformX11.so -> /usr/lib32/libaggplatformX11.so.2.0.4
+/usr/lib32/libaggplatformsdl.a
+/usr/lib32/libaggplatformsdl.so -> /usr/lib32/libaggplatformsdl.so.2.0.4
+/usr/lib32/pkgconfig/libagg.pc

@@ -1,0 +1,5 @@
+/usr/bin/Xwayland
+/usr/lib/pkgconfig/xwayland.pc
+/usr/share/applications/org.freedesktop.Xwayland.desktop
+/usr/share/licenses/xorg-server-xwayland/COPYING
+/usr/share/man/man1/Xwayland.1

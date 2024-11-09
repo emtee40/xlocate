@@ -1,0 +1,5 @@
+/usr/lib32/libKF5WaylandClient.so.5 -> /usr/lib32/libKF5WaylandClient.so.5.116.0
+/usr/lib32/libKF5WaylandClient.so.5.116.0
+/usr/lib32/libKF5WaylandServer.so.5 -> /usr/lib32/libKF5WaylandServer.so.5.116.0
+/usr/lib32/libKF5WaylandServer.so.5.116.0
+/usr/lib32/pkgconfig/KF5WaylandClient.pc

@@ -1,0 +1,20 @@
+/usr/include/nice/address.h
+/usr/include/nice/agent.h
+/usr/include/nice/candidate.h
+/usr/include/nice/debug.h
+/usr/include/nice/interfaces.h
+/usr/include/nice/nice-version.h
+/usr/include/nice/nice.h
+/usr/include/nice/pseudotcp.h
+/usr/include/stun/constants.h
+/usr/include/stun/debug.h
+/usr/include/stun/stunagent.h
+/usr/include/stun/stunmessage.h
+/usr/include/stun/usages/bind.h
+/usr/include/stun/usages/ice.h
+/usr/include/stun/usages/timer.h
+/usr/include/stun/usages/turn.h
+/usr/include/stun/win32_common.h
+/usr/lib/libnice.so -> /usr/lib/libnice.so.10
+/usr/lib/pkgconfig/nice.pc
+/usr/share/gir-1.0/Nice-0.1.gir

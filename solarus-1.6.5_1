@@ -1,0 +1,30 @@
+/usr/bin/solarus-launcher
+/usr/bin/solarus-run
+/usr/lib/libsolarus-gui.so.1 -> /usr/lib/libsolarus-gui.so.1.6.5
+/usr/lib/libsolarus-gui.so.1.6.5
+/usr/lib/libsolarus.so.1 -> /usr/lib/libsolarus.so.1.6.5
+/usr/lib/libsolarus.so.1.6.5
+/usr/share/applications/org.solarus_games.solarus.Launcher.desktop
+/usr/share/icons/hicolor/16x16/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/16x16/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/20x20/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/20x20/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/24x24/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/24x24/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/32x32/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/32x32/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/40x40/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/40x40/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/48x48/apps/org.solarus_games.solarus.Launcher.png
+/usr/share/icons/hicolor/48x48/apps/org.solarus_games.solarus.Runner.png
+/usr/share/icons/hicolor/scalable/apps/org.solarus_games.solarus.Launcher.svg
+/usr/share/icons/hicolor/scalable/apps/org.solarus_games.solarus.Runner.svg
+/usr/share/icons/hicolor/symbolic/apps/org.solarus_games.solarus.Launcher-symbolic.svg
+/usr/share/icons/hicolor/symbolic/apps/org.solarus_games.solarus.Runner-symbolic.svg
+/usr/share/man/man6/solarus-launcher.6
+/usr/share/man/man6/solarus-run.6
+/usr/share/metainfo/org.solarus_games.solarus.appdata.xml
+/usr/share/pixmaps/org.solarus_games.solarus.Launcher.png
+/usr/share/pixmaps/org.solarus_games.solarus.Runner.png
+/usr/share/solarus-gui/translations/solarus_es.qm
+/usr/share/solarus-gui/translations/solarus_fr.qm

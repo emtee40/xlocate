@@ -1,0 +1,12 @@
+/usr/lib32/libClp.so.1 -> /usr/lib32/libClp.so.1.14.3
+/usr/lib32/libClp.so.1.14.3
+/usr/lib32/libClpSolver.so.1 -> /usr/lib32/libClpSolver.so.1.14.3
+/usr/lib32/libClpSolver.so.1.14.3
+/usr/lib32/libCoinUtils.so.3 -> /usr/lib32/libCoinUtils.so.3.11.2
+/usr/lib32/libCoinUtils.so.3.11.2
+/usr/lib32/libOsi.so.1 -> /usr/lib32/libOsi.so.1.13.4
+/usr/lib32/libOsi.so.1.13.4
+/usr/lib32/libOsiClp.so.1 -> /usr/lib32/libOsiClp.so.1.14.3
+/usr/lib32/libOsiClp.so.1.14.3
+/usr/lib32/libOsiCommonTests.so.1 -> /usr/lib32/libOsiCommonTests.so.1.13.4
+/usr/lib32/libOsiCommonTests.so.1.13.4

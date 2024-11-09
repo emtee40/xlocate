@@ -1,0 +1,8 @@
+/usr/lib32/libwt.so.4.10.4
+/usr/lib32/libwtdbo.so.4.10.4
+/usr/lib32/libwtdbomssqlserver.so.4.10.4
+/usr/lib32/libwtdbomysql.so.4.10.4
+/usr/lib32/libwtdbopostgres.so.4.10.4
+/usr/lib32/libwtdbosqlite3.so.4.10.4
+/usr/lib32/libwthttp.so.4.10.4
+/usr/lib32/libwttest.so.4.10.4

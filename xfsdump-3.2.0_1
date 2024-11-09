@@ -1,0 +1,8 @@
+/usr/bin/xfsdump
+/usr/bin/xfsinvutil
+/usr/bin/xfsrestore
+/usr/share/locale/de/LC_MESSAGES/xfsdump.mo
+/usr/share/locale/pl/LC_MESSAGES/xfsdump.mo
+/usr/share/man/man8/xfsdump.8
+/usr/share/man/man8/xfsinvutil.8
+/usr/share/man/man8/xfsrestore.8

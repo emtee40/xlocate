@@ -1,0 +1,16 @@
+/usr/include/poppler/cpp/poppler-destination.h
+/usr/include/poppler/cpp/poppler-document.h
+/usr/include/poppler/cpp/poppler-embedded-file.h
+/usr/include/poppler/cpp/poppler-font-private.h
+/usr/include/poppler/cpp/poppler-font.h
+/usr/include/poppler/cpp/poppler-global.h
+/usr/include/poppler/cpp/poppler-image.h
+/usr/include/poppler/cpp/poppler-page-renderer.h
+/usr/include/poppler/cpp/poppler-page-transition.h
+/usr/include/poppler/cpp/poppler-page.h
+/usr/include/poppler/cpp/poppler-rectangle.h
+/usr/include/poppler/cpp/poppler-toc.h
+/usr/include/poppler/cpp/poppler-version.h
+/usr/include/poppler/cpp/poppler_cpp_export.h
+/usr/lib/libpoppler-cpp.so -> /usr/lib/libpoppler-cpp.so.1
+/usr/lib/pkgconfig/poppler-cpp.pc

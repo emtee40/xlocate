@@ -1,0 +1,7 @@
+/usr/include/libmodplug/it_defs.h
+/usr/include/libmodplug/modplug.h
+/usr/include/libmodplug/sndfile.h
+/usr/include/libmodplug/stdafx.h
+/usr/lib/libmodplug.a
+/usr/lib/libmodplug.so -> /usr/lib/libmodplug.so.1.0.0
+/usr/lib/pkgconfig/libmodplug.pc

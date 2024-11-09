@@ -1,0 +1,31 @@
+/usr/include/kis_qmic_interface.h
+/usr/include/kis_qmic_plugin_interface.h
+/usr/include/kritaqmicinterface_export.h
+/usr/lib/libkritabasicflakes.so -> /usr/lib/libkritabasicflakes.so.19
+/usr/lib/libkritacolor.so -> /usr/lib/libkritacolor.so.19
+/usr/lib/libkritacolord.so -> /usr/lib/libkritacolord.so.19
+/usr/lib/libkritacommand.so -> /usr/lib/libkritacommand.so.19
+/usr/lib/libkritaexifcommon.so -> /usr/lib/libkritaexifcommon.so.19
+/usr/lib/libkritaflake.so -> /usr/lib/libkritaflake.so.19
+/usr/lib/libkritaglobal.so -> /usr/lib/libkritaglobal.so.19
+/usr/lib/libkritaimage.so -> /usr/lib/libkritaimage.so.19
+/usr/lib/libkritaimpex.so -> /usr/lib/libkritaimpex.so.19
+/usr/lib/libkritalibbrush.so -> /usr/lib/libkritalibbrush.so.19
+/usr/lib/libkritalibkis.so -> /usr/lib/libkritalibkis.so.19
+/usr/lib/libkritalibkra.so -> /usr/lib/libkritalibkra.so.19
+/usr/lib/libkritalibpaintop.so -> /usr/lib/libkritalibpaintop.so.19
+/usr/lib/libkritametadata.so -> /usr/lib/libkritametadata.so.19
+/usr/lib/libkritamultiarch.so -> /usr/lib/libkritamultiarch.so.19
+/usr/lib/libkritapigment.so -> /usr/lib/libkritapigment.so.19
+/usr/lib/libkritaplugin.so -> /usr/lib/libkritaplugin.so.19
+/usr/lib/libkritapsd.so -> /usr/lib/libkritapsd.so.19
+/usr/lib/libkritapsdutils.so -> /usr/lib/libkritapsdutils.so.19
+/usr/lib/libkritaqmicinterface.so -> /usr/lib/libkritaqmicinterface.so.19
+/usr/lib/libkritaresources.so -> /usr/lib/libkritaresources.so.19
+/usr/lib/libkritaresourcewidgets.so -> /usr/lib/libkritaresourcewidgets.so.19
+/usr/lib/libkritastore.so -> /usr/lib/libkritastore.so.19
+/usr/lib/libkritatiffpsd.so -> /usr/lib/libkritatiffpsd.so.19
+/usr/lib/libkritaui.so -> /usr/lib/libkritaui.so.19
+/usr/lib/libkritaversion.so -> /usr/lib/libkritaversion.so.19
+/usr/lib/libkritawidgets.so -> /usr/lib/libkritawidgets.so.19
+/usr/lib/libkritawidgetutils.so -> /usr/lib/libkritawidgetutils.so.19

@@ -1,0 +1,10 @@
+/usr/bin/jecho -> /usr/bin/necho
+/usr/bin/necho
+/usr/bin/qecho -> /usr/bin/necho
+/usr/bin/secho -> /usr/bin/necho
+/usr/bin/zecho -> /usr/bin/necho
+/usr/share/man/man1/jecho.1 -> /usr/share/man/man1/necho.1
+/usr/share/man/man1/necho.1
+/usr/share/man/man1/qecho.1 -> /usr/share/man/man1/necho.1
+/usr/share/man/man1/secho.1 -> /usr/share/man/man1/necho.1
+/usr/share/man/man1/zecho.1 -> /usr/share/man/man1/necho.1

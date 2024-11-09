@@ -1,0 +1,20 @@
+/usr/include/SILLY/SILLY.h
+/usr/include/SILLY/SILLYBase.h
+/usr/include/SILLY/SILLYDataSource.h
+/usr/include/SILLY/SILLYDataSource.icpp
+/usr/include/SILLY/SILLYFileDataSource.h
+/usr/include/SILLY/SILLYFileDataSource.icpp
+/usr/include/SILLY/SILLYImage.h
+/usr/include/SILLY/SILLYImage.icpp
+/usr/include/SILLY/SILLYImageContext.h
+/usr/include/SILLY/SILLYImageContext.icpp
+/usr/include/SILLY/SILLYImageLoader.h
+/usr/include/SILLY/SILLYImageLoader.icpp
+/usr/include/SILLY/SILLYImageLoaderManager.h
+/usr/include/SILLY/SILLYImageLoaderManager.icpp
+/usr/include/SILLY/SILLYMemoryDataSource.h
+/usr/include/SILLY/SILLYMemoryDataSource.icpp
+/usr/include/SILLY/SILLYOptions.h
+/usr/lib/libSILLY.a
+/usr/lib/libSILLY.so -> /usr/lib/libSILLY.so.1.0.0
+/usr/lib/pkgconfig/SILLY.pc

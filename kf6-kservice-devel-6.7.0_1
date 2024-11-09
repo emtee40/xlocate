@@ -1,0 +1,22 @@
+/usr/include/KF6/KService/KApplicationTrader
+/usr/include/KF6/KService/KService
+/usr/include/KF6/KService/KServiceAction
+/usr/include/KF6/KService/KServiceGroup
+/usr/include/KF6/KService/KSycoca
+/usr/include/KF6/KService/KSycocaEntry
+/usr/include/KF6/KService/KSycocaType
+/usr/include/KF6/KService/kapplicationtrader.h
+/usr/include/KF6/KService/kservice.h
+/usr/include/KF6/KService/kservice_export.h
+/usr/include/KF6/KService/kservice_version.h
+/usr/include/KF6/KService/kserviceaction.h
+/usr/include/KF6/KService/kserviceconversioncheck_p.h
+/usr/include/KF6/KService/kservicegroup.h
+/usr/include/KF6/KService/ksycoca.h
+/usr/include/KF6/KService/ksycocaentry.h
+/usr/include/KF6/KService/ksycocatype.h
+/usr/lib/cmake/KF6Service/KF6ServiceConfig.cmake
+/usr/lib/cmake/KF6Service/KF6ServiceConfigVersion.cmake
+/usr/lib/cmake/KF6Service/KF6ServiceTargets-none.cmake
+/usr/lib/cmake/KF6Service/KF6ServiceTargets.cmake
+/usr/lib/libKF6Service.so -> /usr/lib/libKF6Service.so.6

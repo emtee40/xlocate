@@ -1,0 +1,16 @@
+/usr/bin/protonvpn
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/protonvpn_cli-2.2.12-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/protonvpn_cli/__init__.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/__main__.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/cli.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/connection.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/constants.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/country_codes.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/logger.py
+/usr/lib/python3.12/site-packages/protonvpn_cli/templates/openvpn_template.j2
+/usr/lib/python3.12/site-packages/protonvpn_cli/utils.py

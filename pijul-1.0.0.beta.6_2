@@ -1,0 +1,4 @@
+/usr/bin/pijul
+/usr/share/bash-completion/completions/pijul
+/usr/share/fish/vendor_completions.d/pijul.fish
+/usr/share/zsh/site-functions/_pijul

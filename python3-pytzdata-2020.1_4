@@ -1,0 +1,14 @@
+/usr/lib/python3.12/site-packages/pytzdata-2020.1.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/pytzdata-2020.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/pytzdata-2020.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/pytzdata-2020.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/pytzdata/__init__.py
+/usr/lib/python3.12/site-packages/pytzdata/_compat.py
+/usr/lib/python3.12/site-packages/pytzdata/_timezones.py
+/usr/lib/python3.12/site-packages/pytzdata/commands/__init__.py
+/usr/lib/python3.12/site-packages/pytzdata/commands/app.py
+/usr/lib/python3.12/site-packages/pytzdata/commands/make.py
+/usr/lib/python3.12/site-packages/pytzdata/commands/zones.py
+/usr/lib/python3.12/site-packages/pytzdata/exceptions.py
+/usr/lib/python3.12/site-packages/pytzdata/version.py
+/usr/share/licenses/python3-pytzdata/LICENSE

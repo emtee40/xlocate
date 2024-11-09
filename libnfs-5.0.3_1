@@ -1,0 +1,9 @@
+/usr/bin/nfs-cat
+/usr/bin/nfs-cp
+/usr/bin/nfs-ls
+/usr/bin/nfs-stat
+/usr/lib/libnfs.so.14 -> /usr/lib/libnfs.so.14.0.0
+/usr/lib/libnfs.so.14.0.0
+/usr/share/man/man1/nfs-cat.1
+/usr/share/man/man1/nfs-cp.1
+/usr/share/man/man1/nfs-ls.1

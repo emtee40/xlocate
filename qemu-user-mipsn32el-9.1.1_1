@@ -1,0 +1,3 @@
+/usr/bin/qemu-mipsn32el
+/usr/bin/qemu-mipsn32el-static -> /usr/bin/qemu-mipsn32el
+/usr/share/binfmts/qemu-mipsn32el

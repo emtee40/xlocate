@@ -1,0 +1,4 @@
+/usr/include/compizconfig/ccs-backend.h
+/usr/include/compizconfig/ccs.h
+/usr/lib/libcompizconfig.so -> /usr/lib/libcompizconfig.so.0.0.0
+/usr/lib/pkgconfig/libcompizconfig.pc

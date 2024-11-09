@@ -1,0 +1,3 @@
+/usr/lib32/libgrail.a
+/usr/lib32/libgrail.so -> /usr/lib32/libgrail.so.6.0.0
+/usr/lib32/pkgconfig/grail.pc

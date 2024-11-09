@@ -1,0 +1,3 @@
+/usr/include/physfs.h
+/usr/lib/libphysfs.so -> /usr/lib/libphysfs.so.1
+/usr/lib/pkgconfig/physfs.pc

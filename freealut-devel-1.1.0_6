@@ -1,0 +1,4 @@
+/usr/bin/freealut-config
+/usr/include/AL/alut.h
+/usr/lib/libalut.a
+/usr/lib/pkgconfig/freealut.pc

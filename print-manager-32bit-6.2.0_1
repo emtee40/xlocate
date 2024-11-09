@@ -1,0 +1,4 @@
+/usr/lib32/libkcupslib.so.6.2.0
+/usr/lib32/qt6/plugins/kf6/kded/printmanager.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_printer_manager.so
+/usr/lib32/qt6/qml/org/kde/plasma/printmanager/libkcupslibplugin.so

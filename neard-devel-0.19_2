@@ -1,0 +1,13 @@
+/usr/include/near/adapter.h
+/usr/include/near/device.h
+/usr/include/near/log.h
+/usr/include/near/ndef.h
+/usr/include/near/nfc_copy.h
+/usr/include/near/plugin.h
+/usr/include/near/setting.h
+/usr/include/near/snep.h
+/usr/include/near/tag.h
+/usr/include/near/tlv.h
+/usr/include/near/types.h
+/usr/include/near/version.h
+/usr/lib/pkgconfig/neard.pc

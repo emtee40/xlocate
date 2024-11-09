@@ -1,0 +1,4 @@
+/usr/include/edac.h
+/usr/lib/libedac.a
+/usr/lib/libedac.so -> /usr/lib/libedac.so.1.1.1
+/usr/share/man/man3/edac.3

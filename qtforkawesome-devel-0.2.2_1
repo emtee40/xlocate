@@ -1,0 +1,29 @@
+/usr/include/qtforkawesome/global.h
+/usr/include/qtforkawesome/icon.h
+/usr/include/qtforkawesome/iconfwd.h
+/usr/include/qtforkawesome/private/icons.h
+/usr/include/qtforkawesome/qtforkawesome-definitions.h
+/usr/include/qtforkawesome/renderer.h
+/usr/include/qtforkawesome/utils.h
+/usr/include/qtforkawesome/version.h
+/usr/include/qtquickforkawesome/global.h
+/usr/include/qtquickforkawesome/imageprovider.h
+/usr/include/qtquickforkawesome/qtquickforkawesome-definitions.h
+/usr/include/qtquickforkawesome/version.h
+/usr/lib/libqtforkawesome.so -> /usr/lib/libqtforkawesome.so.1
+/usr/lib/libqtquickforkawesome.so -> /usr/lib/libqtquickforkawesome.so.1
+/usr/lib/pkgconfig/qtforkawesome.pc
+/usr/lib/pkgconfig/qtforkawesomeiconengine.pc
+/usr/lib/pkgconfig/qtquickforkawesome.pc
+/usr/share/qtforkawesome/cmake/qtforkawesomeConfig.cmake
+/usr/share/qtforkawesome/cmake/qtforkawesomeConfigVersion.cmake
+/usr/share/qtforkawesome/cmake/qtforkawesomeTargets-none.cmake
+/usr/share/qtforkawesome/cmake/qtforkawesomeTargets.cmake
+/usr/share/qtforkawesomeiconengine/cmake/qtforkawesomeiconengineConfig.cmake
+/usr/share/qtforkawesomeiconengine/cmake/qtforkawesomeiconengineConfigVersion.cmake
+/usr/share/qtforkawesomeiconengine/cmake/qtforkawesomeiconengineTargets-none.cmake
+/usr/share/qtforkawesomeiconengine/cmake/qtforkawesomeiconengineTargets.cmake
+/usr/share/qtquickforkawesome/cmake/qtquickforkawesomeConfig.cmake
+/usr/share/qtquickforkawesome/cmake/qtquickforkawesomeConfigVersion.cmake
+/usr/share/qtquickforkawesome/cmake/qtquickforkawesomeTargets-none.cmake
+/usr/share/qtquickforkawesome/cmake/qtquickforkawesomeTargets.cmake

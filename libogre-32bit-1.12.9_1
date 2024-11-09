@@ -1,0 +1,32 @@
+/usr/lib32/OGRE/Codec_FreeImage.so -> /usr/lib32/OGRE/Codec_FreeImage.so.1.12.9
+/usr/lib32/OGRE/Codec_FreeImage.so.1.12.9
+/usr/lib32/OGRE/Codec_STBI.so -> /usr/lib32/OGRE/Codec_STBI.so.1.12.9
+/usr/lib32/OGRE/Codec_STBI.so.1.12.9
+/usr/lib32/OGRE/Plugin_BSPSceneManager.so -> /usr/lib32/OGRE/Plugin_BSPSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_BSPSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_DotScene.so -> /usr/lib32/OGRE/Plugin_DotScene.so.1.12.9
+/usr/lib32/OGRE/Plugin_DotScene.so.1.12.9
+/usr/lib32/OGRE/Plugin_OctreeSceneManager.so -> /usr/lib32/OGRE/Plugin_OctreeSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_OctreeSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_OctreeZone.so -> /usr/lib32/OGRE/Plugin_OctreeZone.so.1.12.9
+/usr/lib32/OGRE/Plugin_OctreeZone.so.1.12.9
+/usr/lib32/OGRE/Plugin_PCZSceneManager.so -> /usr/lib32/OGRE/Plugin_PCZSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_PCZSceneManager.so.1.12.9
+/usr/lib32/OGRE/Plugin_ParticleFX.so -> /usr/lib32/OGRE/Plugin_ParticleFX.so.1.12.9
+/usr/lib32/OGRE/Plugin_ParticleFX.so.1.12.9
+/usr/lib32/OGRE/RenderSystem_GL.so -> /usr/lib32/OGRE/RenderSystem_GL.so.1.12.9
+/usr/lib32/OGRE/RenderSystem_GL.so.1.12.9
+/usr/lib32/OGRE/RenderSystem_GL3Plus.so -> /usr/lib32/OGRE/RenderSystem_GL3Plus.so.1.12.9
+/usr/lib32/OGRE/RenderSystem_GL3Plus.so.1.12.9
+/usr/lib32/OGRE/Samples/DefaultSamples.so -> /usr/lib32/OGRE/Samples/DefaultSamples.so.1.12.9
+/usr/lib32/OGRE/Samples/DefaultSamples.so.1.12.9
+/usr/lib32/libOgreBites.so.1.12.9
+/usr/lib32/libOgreGLSupport.a
+/usr/lib32/libOgreMain.so.1.12.9
+/usr/lib32/libOgreMeshLodGenerator.so.1.12.9
+/usr/lib32/libOgreOverlay.so.1.12.9
+/usr/lib32/libOgrePaging.so.1.12.9
+/usr/lib32/libOgreProperty.so.1.12.9
+/usr/lib32/libOgreRTShaderSystem.so.1.12.9
+/usr/lib32/libOgreTerrain.so.1.12.9
+/usr/lib32/libOgreVolume.so.1.12.9

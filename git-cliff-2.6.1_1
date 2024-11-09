@@ -1,0 +1,7 @@
+/usr/bin/git-cliff
+/usr/share/bash-completion/completions/git-cliff
+/usr/share/doc/git-cliff/README.md
+/usr/share/fish/vendor_completions.d/git-cliff.fish
+/usr/share/licenses/git-cliff/LICENSE-MIT
+/usr/share/man/man1/git-cliff.1
+/usr/share/zsh/site-functions/_git-cliff

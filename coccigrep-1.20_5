@@ -1,0 +1,16 @@
+/usr/bin/coccigrep
+/usr/lib/python3.12/site-packages/coccigrep-1.20-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/coccigrep-1.20-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/coccigrep-1.20-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/coccigrep-1.20-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/coccigrep-1.20-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/coccigrep/__init__.py
+/usr/lib/python3.12/site-packages/coccigrep/coccigrep.cfg
+/usr/lib/python3.12/site-packages/coccigrep/coccigrep.py
+/usr/lib/python3.12/site-packages/coccigrep/data/deref.cocci
+/usr/lib/python3.12/site-packages/coccigrep/data/func.cocci
+/usr/lib/python3.12/site-packages/coccigrep/data/named.cocci
+/usr/lib/python3.12/site-packages/coccigrep/data/set.cocci
+/usr/lib/python3.12/site-packages/coccigrep/data/test.cocci
+/usr/lib/python3.12/site-packages/coccigrep/data/used.cocci
+/usr/share/man/man1/coccigrep.1

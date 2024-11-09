@@ -1,0 +1,5 @@
+/usr/include/libmp3splt/mp3splt.h
+/usr/include/libmp3splt/version.h
+/usr/lib/libmp3splt.a
+/usr/lib/libmp3splt.so -> /usr/lib/libmp3splt.so.0.0.9
+/usr/lib/pkgconfig/libmp3splt.pc

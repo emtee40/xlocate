@@ -1,0 +1,23 @@
+/usr/include/qt5/QtWebChannel/5.15.11/QtWebChannel/private/qmetaobjectpublisher_p.h
+/usr/include/qt5/QtWebChannel/5.15.11/QtWebChannel/private/qqmlwebchannelattached_p.h
+/usr/include/qt5/QtWebChannel/5.15.11/QtWebChannel/private/qwebchannel_p.h
+/usr/include/qt5/QtWebChannel/5.15.11/QtWebChannel/private/signalhandler_p.h
+/usr/include/qt5/QtWebChannel/5.15.11/QtWebChannel/private/variantargument_p.h
+/usr/include/qt5/QtWebChannel/QQmlWebChannel
+/usr/include/qt5/QtWebChannel/QWebChannel
+/usr/include/qt5/QtWebChannel/QWebChannelAbstractTransport
+/usr/include/qt5/QtWebChannel/QtWebChannel
+/usr/include/qt5/QtWebChannel/QtWebChannelDepends
+/usr/include/qt5/QtWebChannel/QtWebChannelVersion
+/usr/include/qt5/QtWebChannel/qqmlwebchannel.h
+/usr/include/qt5/QtWebChannel/qtwebchannelversion.h
+/usr/include/qt5/QtWebChannel/qwebchannel.h
+/usr/include/qt5/QtWebChannel/qwebchannelabstracttransport.h
+/usr/include/qt5/QtWebChannel/qwebchannelglobal.h
+/usr/lib/cmake/Qt5WebChannel/Qt5WebChannelConfig.cmake
+/usr/lib/cmake/Qt5WebChannel/Qt5WebChannelConfigVersion.cmake
+/usr/lib/libQt5WebChannel.prl
+/usr/lib/libQt5WebChannel.so -> /usr/lib/libQt5WebChannel.so.5.15.11
+/usr/lib/pkgconfig/Qt5WebChannel.pc
+/usr/lib/qt5/mkspecs/modules/qt_lib_webchannel.pri
+/usr/lib/qt5/mkspecs/modules/qt_lib_webchannel_private.pri

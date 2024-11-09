@@ -1,0 +1,3 @@
+/usr/include/sigsegv.h
+/usr/lib/libsigsegv.a
+/usr/lib/libsigsegv.so -> /usr/lib/libsigsegv.so.2.0.7

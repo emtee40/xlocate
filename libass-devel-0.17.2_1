@@ -1,0 +1,5 @@
+/usr/include/ass/ass.h
+/usr/include/ass/ass_types.h
+/usr/lib/libass.a
+/usr/lib/libass.so -> /usr/lib/libass.so.9.2.2
+/usr/lib/pkgconfig/libass.pc

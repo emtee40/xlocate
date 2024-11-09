@@ -1,0 +1,219 @@
+/usr/lib32/krita-python-libs/PyKrita/krita.so
+/usr/lib32/kritaplugins/krita_colorspaces_extensions.so
+/usr/lib32/kritaplugins/krita_flaketools.so
+/usr/lib32/kritaplugins/krita_karbontools.so
+/usr/lib32/kritaplugins/krita_raw_import.so
+/usr/lib32/kritaplugins/krita_shape_image.so
+/usr/lib32/kritaplugins/krita_shape_paths.so
+/usr/lib32/kritaplugins/krita_tool_svgtext.so
+/usr/lib32/kritaplugins/kritaanimationdocker.so
+/usr/lib32/kritaplugins/kritaarrangedocker.so
+/usr/lib32/kritaplugins/kritaartisticcolorselector.so
+/usr/lib32/kritaplugins/kritaasccdl.so
+/usr/lib32/kritaplugins/kritaassistanttool.so
+/usr/lib32/kritaplugins/kritablurfilter.so
+/usr/lib32/kritaplugins/kritabrushexport.so
+/usr/lib32/kritaplugins/kritabrushimport.so
+/usr/lib32/kritaplugins/kritabuginfo.so
+/usr/lib32/kritaplugins/kritachanneldocker.so
+/usr/lib32/kritaplugins/kritaclonesarray.so
+/usr/lib32/kritaplugins/kritacolorgenerator.so
+/usr/lib32/kritaplugins/kritacolorrange.so
+/usr/lib32/kritaplugins/kritacolorselectorng.so
+/usr/lib32/kritaplugins/kritacolorsfilters.so
+/usr/lib32/kritaplugins/kritacolorsmudgepaintop.so
+/usr/lib32/kritaplugins/kritacolorspaceconversion.so
+/usr/lib32/kritaplugins/kritacompositiondocker.so
+/usr/lib32/kritaplugins/kritaconvertheighttonormalmap.so
+/usr/lib32/kritaplugins/kritaconvolutionfilters.so
+/usr/lib32/kritaplugins/kritacsvexport.so
+/usr/lib32/kritaplugins/kritacsvimport.so
+/usr/lib32/kritaplugins/kritacurvepaintop.so
+/usr/lib32/kritaplugins/kritadbexplorer.so
+/usr/lib32/kritaplugins/kritadefaultpaintops.so
+/usr/lib32/kritaplugins/kritadefaulttools.so
+/usr/lib32/kritaplugins/kritadeformpaintop.so
+/usr/lib32/kritaplugins/kritadigitalmixer.so
+/usr/lib32/kritaplugins/kritadodgeburn.so
+/usr/lib32/kritaplugins/kritaedgedetection.so
+/usr/lib32/kritaplugins/kritaembossfilter.so
+/usr/lib32/kritaplugins/kritaexample.so
+/usr/lib32/kritaplugins/kritaexif.so
+/usr/lib32/kritaplugins/kritaexperimentpaintop.so
+/usr/lib32/kritaplugins/kritaexrexport.so
+/usr/lib32/kritaplugins/kritaexrimport.so
+/usr/lib32/kritaplugins/kritaextensioncolorsfilters.so
+/usr/lib32/kritaplugins/kritafastcolortransferfilter.so
+/usr/lib32/kritaplugins/kritafilterop.so
+/usr/lib32/kritaplugins/kritagamutmask.so
+/usr/lib32/kritaplugins/kritagaussianhighpassfilter.so
+/usr/lib32/kritaplugins/kritagifexport.so
+/usr/lib32/kritaplugins/kritagifimport.so
+/usr/lib32/kritaplugins/kritagradientgenerator.so
+/usr/lib32/kritaplugins/kritagradientmap.so
+/usr/lib32/kritaplugins/kritagriddocker.so
+/usr/lib32/kritaplugins/kritagridpaintop.so
+/usr/lib32/kritaplugins/kritahairypaintop.so
+/usr/lib32/kritaplugins/kritahalftone.so
+/usr/lib32/kritaplugins/kritahatchingpaintop.so
+/usr/lib32/kritaplugins/kritaheifexport.so
+/usr/lib32/kritaplugins/kritaheifimport.so
+/usr/lib32/kritaplugins/kritaheightmapexport.so
+/usr/lib32/kritaplugins/kritaheightmapimport.so
+/usr/lib32/kritaplugins/kritahistogramdocker.so
+/usr/lib32/kritaplugins/kritahistorydocker.so
+/usr/lib32/kritaplugins/kritaimageenhancement.so
+/usr/lib32/kritaplugins/kritaimagesplit.so
+/usr/lib32/kritaplugins/kritaindexcolors.so
+/usr/lib32/kritaplugins/kritaiptc.so
+/usr/lib32/kritaplugins/kritajp2import.so
+/usr/lib32/kritaplugins/kritajpegexport.so
+/usr/lib32/kritaplugins/kritajpegimport.so
+/usr/lib32/kritaplugins/kritajxlexport.so
+/usr/lib32/kritaplugins/kritajxlimport.so
+/usr/lib32/kritaplugins/kritakraexport.so
+/usr/lib32/kritaplugins/kritakraimport.so
+/usr/lib32/kritaplugins/kritakrzexport.so
+/usr/lib32/kritaplugins/kritalayerdocker.so
+/usr/lib32/kritaplugins/kritalayergroupswitcher.so
+/usr/lib32/kritaplugins/kritalayersplit.so
+/usr/lib32/kritaplugins/kritalcmsengine.so
+/usr/lib32/kritaplugins/kritalevelfilter.so
+/usr/lib32/kritaplugins/kritalogdocker.so
+/usr/lib32/kritaplugins/kritalutdocker.so
+/usr/lib32/kritaplugins/kritametadataeditor.so
+/usr/lib32/kritaplugins/kritamodifyselection.so
+/usr/lib32/kritaplugins/kritamultigridpatterngenerator.so
+/usr/lib32/kritaplugins/kritamypaintop.so
+/usr/lib32/kritaplugins/kritanoisefilter.so
+/usr/lib32/kritaplugins/kritanormalize.so
+/usr/lib32/kritaplugins/kritaoffsetimage.so
+/usr/lib32/kritaplugins/kritaoilpaintfilter.so
+/usr/lib32/kritaplugins/kritaoraexport.so
+/usr/lib32/kritaplugins/kritaoraimport.so
+/usr/lib32/kritaplugins/kritaoverviewdocker.so
+/usr/lib32/kritaplugins/kritapalettedocker.so
+/usr/lib32/kritaplugins/kritapalettize.so
+/usr/lib32/kritaplugins/kritaparticlepaintop.so
+/usr/lib32/kritaplugins/kritapatterndocker.so
+/usr/lib32/kritaplugins/kritapatterngenerator.so
+/usr/lib32/kritaplugins/kritapdfimport.so
+/usr/lib32/kritaplugins/kritaphongbumpmap.so
+/usr/lib32/kritaplugins/kritapixelizefilter.so
+/usr/lib32/kritaplugins/kritapngexport.so
+/usr/lib32/kritaplugins/kritapngimport.so
+/usr/lib32/kritaplugins/kritaposterize.so
+/usr/lib32/kritaplugins/kritapresetdocker.so
+/usr/lib32/kritaplugins/kritapresethistory.so
+/usr/lib32/kritaplugins/kritapsdexport.so
+/usr/lib32/kritaplugins/kritapsdimport.so
+/usr/lib32/kritaplugins/kritapykrita.so
+/usr/lib32/kritaplugins/kritaqimageioexport.so
+/usr/lib32/kritaplugins/kritaqimageioimport.so
+/usr/lib32/kritaplugins/kritaqmic.so
+/usr/lib32/kritaplugins/kritaqmlexport.so
+/usr/lib32/kritaplugins/kritaraindropsfilter.so
+/usr/lib32/kritaplugins/kritarandompickfilter.so
+/usr/lib32/kritaplugins/kritarecorderdocker.so
+/usr/lib32/kritaplugins/kritaresettransparent.so
+/usr/lib32/kritaplugins/kritaresourcemanager.so
+/usr/lib32/kritaplugins/kritarotateimage.so
+/usr/lib32/kritaplugins/kritaroundcornersfilter.so
+/usr/lib32/kritaplugins/kritaroundmarkerpaintop.so
+/usr/lib32/kritaplugins/kritasamplescreencolor.so
+/usr/lib32/kritaplugins/kritascreentonegenerator.so
+/usr/lib32/kritaplugins/kritaseexprgenerator.so
+/usr/lib32/kritaplugins/kritaselectiontools.so
+/usr/lib32/kritaplugins/kritaseparatechannels.so
+/usr/lib32/kritaplugins/kritashearimage.so
+/usr/lib32/kritaplugins/kritasimplexnoisegenerator.so
+/usr/lib32/kritaplugins/kritasketchpaintop.so
+/usr/lib32/kritaplugins/kritasmallcolorselector.so
+/usr/lib32/kritaplugins/kritasmalltilesfilter.so
+/usr/lib32/kritaplugins/kritasnapshotdocker.so
+/usr/lib32/kritaplugins/kritaspecificcolorselector.so
+/usr/lib32/kritaplugins/kritaspraypaintop.so
+/usr/lib32/kritaplugins/kritaspriterexport.so
+/usr/lib32/kritaplugins/kritastoryboarddocker.so
+/usr/lib32/kritaplugins/kritasvgcollectiondocker.so
+/usr/lib32/kritaplugins/kritasvgimport.so
+/usr/lib32/kritaplugins/kritatangentnormalpaintop.so
+/usr/lib32/kritaplugins/kritatasksetdocker.so
+/usr/lib32/kritaplugins/kritatgaexport.so
+/usr/lib32/kritaplugins/kritatgaimport.so
+/usr/lib32/kritaplugins/kritathreshold.so
+/usr/lib32/kritaplugins/kritatiffexport.so
+/usr/lib32/kritaplugins/kritatiffimport.so
+/usr/lib32/kritaplugins/kritatoolSmartPatch.so
+/usr/lib32/kritaplugins/kritatoolcrop.so
+/usr/lib32/kritaplugins/kritatooldyna.so
+/usr/lib32/kritaplugins/kritatoolencloseandfill.so
+/usr/lib32/kritaplugins/kritatoollazybrush.so
+/usr/lib32/kritaplugins/kritatoolpolygon.so
+/usr/lib32/kritaplugins/kritatoolpolyline.so
+/usr/lib32/kritaplugins/kritatooltransform.so
+/usr/lib32/kritaplugins/kritatouchdocker.so
+/usr/lib32/kritaplugins/kritaunsharpfilter.so
+/usr/lib32/kritaplugins/kritawavefilter.so
+/usr/lib32/kritaplugins/kritawaveletdecompose.so
+/usr/lib32/kritaplugins/kritawebpexport.so
+/usr/lib32/kritaplugins/kritawebpimport.so
+/usr/lib32/kritaplugins/kritawgcolorselector.so
+/usr/lib32/kritaplugins/kritaxcfimport.so
+/usr/lib32/kritaplugins/kritaxmp.so
+/usr/lib32/libkritabasicflakes.so.19 -> /usr/lib32/libkritabasicflakes.so.19.0.0
+/usr/lib32/libkritabasicflakes.so.19.0.0
+/usr/lib32/libkritacolor.so.19 -> /usr/lib32/libkritacolor.so.19.0.0
+/usr/lib32/libkritacolor.so.19.0.0
+/usr/lib32/libkritacolord.so.19 -> /usr/lib32/libkritacolord.so.19.0.0
+/usr/lib32/libkritacolord.so.19.0.0
+/usr/lib32/libkritacommand.so.19 -> /usr/lib32/libkritacommand.so.19.0.0
+/usr/lib32/libkritacommand.so.19.0.0
+/usr/lib32/libkritaexifcommon.so.19 -> /usr/lib32/libkritaexifcommon.so.19.0.0
+/usr/lib32/libkritaexifcommon.so.19.0.0
+/usr/lib32/libkritaflake.so.19 -> /usr/lib32/libkritaflake.so.19.0.0
+/usr/lib32/libkritaflake.so.19.0.0
+/usr/lib32/libkritaglobal.so.19 -> /usr/lib32/libkritaglobal.so.19.0.0
+/usr/lib32/libkritaglobal.so.19.0.0
+/usr/lib32/libkritaimage.so.19 -> /usr/lib32/libkritaimage.so.19.0.0
+/usr/lib32/libkritaimage.so.19.0.0
+/usr/lib32/libkritaimpex.so.19 -> /usr/lib32/libkritaimpex.so.19.0.0
+/usr/lib32/libkritaimpex.so.19.0.0
+/usr/lib32/libkritalibbrush.so.19 -> /usr/lib32/libkritalibbrush.so.19.0.0
+/usr/lib32/libkritalibbrush.so.19.0.0
+/usr/lib32/libkritalibkis.so.19 -> /usr/lib32/libkritalibkis.so.19.0.0
+/usr/lib32/libkritalibkis.so.19.0.0
+/usr/lib32/libkritalibkra.so.19 -> /usr/lib32/libkritalibkra.so.19.0.0
+/usr/lib32/libkritalibkra.so.19.0.0
+/usr/lib32/libkritalibpaintop.so.19 -> /usr/lib32/libkritalibpaintop.so.19.0.0
+/usr/lib32/libkritalibpaintop.so.19.0.0
+/usr/lib32/libkritametadata.so.19 -> /usr/lib32/libkritametadata.so.19.0.0
+/usr/lib32/libkritametadata.so.19.0.0
+/usr/lib32/libkritamultiarch.so.19 -> /usr/lib32/libkritamultiarch.so.19.0.0
+/usr/lib32/libkritamultiarch.so.19.0.0
+/usr/lib32/libkritapigment.so.19 -> /usr/lib32/libkritapigment.so.19.0.0
+/usr/lib32/libkritapigment.so.19.0.0
+/usr/lib32/libkritaplugin.so.19 -> /usr/lib32/libkritaplugin.so.19.0.0
+/usr/lib32/libkritaplugin.so.19.0.0
+/usr/lib32/libkritapsd.so.19 -> /usr/lib32/libkritapsd.so.19.0.0
+/usr/lib32/libkritapsd.so.19.0.0
+/usr/lib32/libkritapsdutils.so.19 -> /usr/lib32/libkritapsdutils.so.19.0.0
+/usr/lib32/libkritapsdutils.so.19.0.0
+/usr/lib32/libkritaqmicinterface.so.19 -> /usr/lib32/libkritaqmicinterface.so.19.0.0
+/usr/lib32/libkritaqmicinterface.so.19.0.0
+/usr/lib32/libkritaresources.so.19 -> /usr/lib32/libkritaresources.so.19.0.0
+/usr/lib32/libkritaresources.so.19.0.0
+/usr/lib32/libkritaresourcewidgets.so.19 -> /usr/lib32/libkritaresourcewidgets.so.19.0.0
+/usr/lib32/libkritaresourcewidgets.so.19.0.0
+/usr/lib32/libkritastore.so.19 -> /usr/lib32/libkritastore.so.19.0.0
+/usr/lib32/libkritastore.so.19.0.0
+/usr/lib32/libkritatiffpsd.so.19 -> /usr/lib32/libkritatiffpsd.so.19.0.0
+/usr/lib32/libkritatiffpsd.so.19.0.0
+/usr/lib32/libkritaui.so.19 -> /usr/lib32/libkritaui.so.19.0.0
+/usr/lib32/libkritaui.so.19.0.0
+/usr/lib32/libkritaversion.so.19 -> /usr/lib32/libkritaversion.so.19.0.0
+/usr/lib32/libkritaversion.so.19.0.0
+/usr/lib32/libkritawidgets.so.19 -> /usr/lib32/libkritawidgets.so.19.0.0
+/usr/lib32/libkritawidgets.so.19.0.0
+/usr/lib32/libkritawidgetutils.so.19 -> /usr/lib32/libkritawidgetutils.so.19.0.0
+/usr/lib32/libkritawidgetutils.so.19.0.0

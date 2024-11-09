@@ -1,0 +1,12 @@
+/usr/include/primesieve.h
+/usr/include/primesieve.hpp
+/usr/include/primesieve/StorePrimes.hpp
+/usr/include/primesieve/iterator.h
+/usr/include/primesieve/iterator.hpp
+/usr/include/primesieve/primesieve_error.hpp
+/usr/lib/cmake/primesieve/primesieveConfig.cmake
+/usr/lib/cmake/primesieve/primesieveConfigVersion.cmake
+/usr/lib/cmake/primesieve/primesieveShared-none.cmake
+/usr/lib/cmake/primesieve/primesieveShared.cmake
+/usr/lib/libprimesieve.so -> /usr/lib/libprimesieve.so.12
+/usr/lib/pkgconfig/primesieve.pc

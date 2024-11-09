@@ -1,0 +1,6 @@
+/etc/sv/darkhttpd/log/run
+/etc/sv/darkhttpd/log/supervise -> /run/runit/supervise.darkhttpd-log
+/etc/sv/darkhttpd/run
+/etc/sv/darkhttpd/supervise -> /run/runit/supervise.darkhttpd
+/usr/bin/darkhttpd
+/usr/share/licenses/darkhttpd/LICENSE

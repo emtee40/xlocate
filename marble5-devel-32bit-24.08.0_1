@@ -1,0 +1,3 @@
+/usr/lib32/libastro.so -> /usr/lib32/libastro.so.2
+/usr/lib32/libmarbledeclarative.so -> /usr/lib32/libmarbledeclarative.so.2
+/usr/lib32/libmarblewidget-qt5.so -> /usr/lib32/libmarblewidget-qt5.so.28

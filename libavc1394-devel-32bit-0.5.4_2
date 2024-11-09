@@ -1,0 +1,5 @@
+/usr/lib32/libavc1394.a
+/usr/lib32/libavc1394.so -> /usr/lib32/libavc1394.so.0.3.0
+/usr/lib32/librom1394.a
+/usr/lib32/librom1394.so -> /usr/lib32/librom1394.so.0.3.0
+/usr/lib32/pkgconfig/libavc1394.pc

@@ -1,0 +1,4 @@
+/usr/lib32/libapparmor.so.1 -> /usr/lib32/libapparmor.so.1.12.3
+/usr/lib32/libapparmor.so.1.12.3
+/usr/lib32/perl5/vendor_perl/auto/LibAppArmor/LibAppArmor.so
+/usr/lib32/python3.12/site-packages/LibAppArmor/_LibAppArmor.so

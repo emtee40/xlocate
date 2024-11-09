@@ -1,0 +1,3 @@
+/usr/lib32/libxkbfile.a
+/usr/lib32/libxkbfile.so -> /usr/lib32/libxkbfile.so.1.0.2
+/usr/lib32/pkgconfig/xkbfile.pc

@@ -1,0 +1,4 @@
+/usr/lib32/libgck-2.so -> /usr/lib32/libgck-2.so.2
+/usr/lib32/libgcr-4.so -> /usr/lib32/libgcr-4.so.4
+/usr/lib32/pkgconfig/gck-2.pc
+/usr/lib32/pkgconfig/gcr-4.pc

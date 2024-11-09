@@ -1,0 +1,4 @@
+/usr/lib32/libjemalloc.a
+/usr/lib32/libjemalloc.so -> /usr/lib32/libjemalloc.so.2
+/usr/lib32/libjemalloc_pic.a
+/usr/lib32/pkgconfig/jemalloc.pc

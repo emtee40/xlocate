@@ -1,0 +1,30 @@
+/usr/lib32/graphviz/libgvplugin_core.so -> /usr/lib32/graphviz/libgvplugin_core.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_core.so.6 -> /usr/lib32/graphviz/libgvplugin_core.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_core.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_dot_layout.so -> /usr/lib32/graphviz/libgvplugin_dot_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_dot_layout.so.6 -> /usr/lib32/graphviz/libgvplugin_dot_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_dot_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_gd.so -> /usr/lib32/graphviz/libgvplugin_gd.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_gd.so.6 -> /usr/lib32/graphviz/libgvplugin_gd.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_gd.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_kitty.so -> /usr/lib32/graphviz/libgvplugin_kitty.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_kitty.so.6 -> /usr/lib32/graphviz/libgvplugin_kitty.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_kitty.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_neato_layout.so -> /usr/lib32/graphviz/libgvplugin_neato_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_neato_layout.so.6 -> /usr/lib32/graphviz/libgvplugin_neato_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_neato_layout.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_pango.so -> /usr/lib32/graphviz/libgvplugin_pango.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_pango.so.6 -> /usr/lib32/graphviz/libgvplugin_pango.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_pango.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_rsvg.so -> /usr/lib32/graphviz/libgvplugin_rsvg.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_rsvg.so.6 -> /usr/lib32/graphviz/libgvplugin_rsvg.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_rsvg.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_vt.so -> /usr/lib32/graphviz/libgvplugin_vt.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_vt.so.6 -> /usr/lib32/graphviz/libgvplugin_vt.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_vt.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_webp.so -> /usr/lib32/graphviz/libgvplugin_webp.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_webp.so.6 -> /usr/lib32/graphviz/libgvplugin_webp.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_webp.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_xlib.so -> /usr/lib32/graphviz/libgvplugin_xlib.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_xlib.so.6 -> /usr/lib32/graphviz/libgvplugin_xlib.so.6.0.0
+/usr/lib32/graphviz/libgvplugin_xlib.so.6.0.0

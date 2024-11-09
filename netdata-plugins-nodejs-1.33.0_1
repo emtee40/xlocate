@@ -1,0 +1,16 @@
+/usr/libexec/netdata/node.d/fronius.node.js
+/usr/libexec/netdata/node.d/named.node.js
+/usr/libexec/netdata/node.d/node_modules/asn1-ber.js
+/usr/libexec/netdata/node.d/node_modules/extend.js
+/usr/libexec/netdata/node.d/node_modules/lib/ber/errors.js
+/usr/libexec/netdata/node.d/node_modules/lib/ber/index.js
+/usr/libexec/netdata/node.d/node_modules/lib/ber/reader.js
+/usr/libexec/netdata/node.d/node_modules/lib/ber/types.js
+/usr/libexec/netdata/node.d/node_modules/lib/ber/writer.js
+/usr/libexec/netdata/node.d/node_modules/net-snmp.js
+/usr/libexec/netdata/node.d/node_modules/netdata.js
+/usr/libexec/netdata/node.d/node_modules/pixl-xml.js
+/usr/libexec/netdata/node.d/sma_webbox.node.js
+/usr/libexec/netdata/node.d/snmp.node.js
+/usr/libexec/netdata/node.d/stiebeleltron.node.js
+/usr/libexec/netdata/plugins.d/node.d.plugin

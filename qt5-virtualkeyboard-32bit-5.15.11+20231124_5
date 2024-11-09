@@ -1,0 +1,12 @@
+/usr/lib32/libQt5VirtualKeyboard.so.5 -> /usr/lib32/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib32/libQt5VirtualKeyboard.so.5.15 -> /usr/lib32/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib32/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib32/qt5/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.so
+/usr/lib32/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_hangul.so
+/usr/lib32/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_openwnn.so
+/usr/lib32/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_pinyin.so
+/usr/lib32/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_tcime.so
+/usr/lib32/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_thai.so
+/usr/lib32/qt5/qml/QtQuick/VirtualKeyboard/Settings/libqtquickvirtualkeyboardsettingsplugin.so
+/usr/lib32/qt5/qml/QtQuick/VirtualKeyboard/Styles/libqtquickvirtualkeyboardstylesplugin.so
+/usr/lib32/qt5/qml/QtQuick/VirtualKeyboard/libqtquickvirtualkeyboardplugin.so

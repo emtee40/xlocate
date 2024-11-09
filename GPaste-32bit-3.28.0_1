@@ -1,0 +1,4 @@
+/usr/lib32/libgpaste.so -> /usr/lib32/libgpaste.so.10.0.0
+/usr/lib32/libgpaste.so.10 -> /usr/lib32/libgpaste.so.10.0.0
+/usr/lib32/libgpaste.so.10.0.0
+/usr/lib32/pkgconfig/gpaste-1.0.pc

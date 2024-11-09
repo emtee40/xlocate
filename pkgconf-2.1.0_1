@@ -1,0 +1,10 @@
+/usr/bin/bomtool
+/usr/bin/pkgconf
+/usr/share/aclocal/pkg.m4.pkgconf
+/usr/share/doc/pkgconf/AUTHORS
+/usr/share/doc/pkgconf/README.md
+/usr/share/licenses/pkgconf/COPYING
+/usr/share/man/man1/pkgconf.1
+/usr/share/man/man5/pc.5
+/usr/share/man/man5/pkgconf-personality.5
+/usr/share/man/man7/pkg.m4.7

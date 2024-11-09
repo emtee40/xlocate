@@ -1,0 +1,720 @@
+/usr/bin/font-manager
+/usr/lib/font-manager/libfontmanager.so -> /usr/lib/font-manager/libfontmanager.so.0
+/usr/lib/font-manager/libfontmanager.so.0 -> /usr/lib/font-manager/libfontmanager.so.0.8.8
+/usr/lib/font-manager/libfontmanager.so.0.8.8
+/usr/libexec/font-manager/font-viewer
+/usr/share/applications/org.gnome.FontManager.desktop
+/usr/share/applications/org.gnome.FontViewer.desktop
+/usr/share/dbus-1/services/org.gnome.FontManager.service
+/usr/share/dbus-1/services/org.gnome.FontViewer.service
+/usr/share/glib-2.0/schemas/org.gnome.FontManager.gschema.xml
+/usr/share/glib-2.0/schemas/org.gnome.FontViewer.gschema.xml
+/usr/share/gnome-shell/search-providers/org.gnome.FontManager.SearchProvider.ini
+/usr/share/help/C/font-manager/font-manager-categories.page
+/usr/share/help/C/font-manager/font-manager-character-map.page
+/usr/share/help/C/font-manager/font-manager-collections.page
+/usr/share/help/C/font-manager/font-manager-font-activation.page
+/usr/share/help/C/font-manager/font-manager-font-installation.page
+/usr/share/help/C/font-manager/font-manager-font-removal.page
+/usr/share/help/C/font-manager/font-manager-font-sources.page
+/usr/share/help/C/font-manager/font-manager-fontconfig.page
+/usr/share/help/C/font-manager/font-manager-introduction.page
+/usr/share/help/C/font-manager/font-manager-license.page
+/usr/share/help/C/font-manager/font-manager-metadata.page
+/usr/share/help/C/font-manager/font-manager-orthographies.page
+/usr/share/help/C/font-manager/font-manager-substitutions.page
+/usr/share/help/C/font-manager/font-manager-supported-formats.page
+/usr/share/help/C/font-manager/index.page
+/usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/C/font-manager/media/license.png
+/usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/am/font-manager/font-manager-categories.page
+/usr/share/help/am/font-manager/font-manager-character-map.page
+/usr/share/help/am/font-manager/font-manager-collections.page
+/usr/share/help/am/font-manager/font-manager-font-activation.page
+/usr/share/help/am/font-manager/font-manager-font-installation.page
+/usr/share/help/am/font-manager/font-manager-font-removal.page
+/usr/share/help/am/font-manager/font-manager-font-sources.page
+/usr/share/help/am/font-manager/font-manager-fontconfig.page
+/usr/share/help/am/font-manager/font-manager-introduction.page
+/usr/share/help/am/font-manager/font-manager-license.page
+/usr/share/help/am/font-manager/font-manager-metadata.page
+/usr/share/help/am/font-manager/font-manager-orthographies.page
+/usr/share/help/am/font-manager/font-manager-substitutions.page
+/usr/share/help/am/font-manager/font-manager-supported-formats.page
+/usr/share/help/am/font-manager/index.page
+/usr/share/help/am/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/am/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/am/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/am/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/am/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/am/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/am/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/am/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/am/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/am/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/ar/font-manager/font-manager-categories.page
+/usr/share/help/ar/font-manager/font-manager-character-map.page
+/usr/share/help/ar/font-manager/font-manager-collections.page
+/usr/share/help/ar/font-manager/font-manager-font-activation.page
+/usr/share/help/ar/font-manager/font-manager-font-installation.page
+/usr/share/help/ar/font-manager/font-manager-font-removal.page
+/usr/share/help/ar/font-manager/font-manager-font-sources.page
+/usr/share/help/ar/font-manager/font-manager-fontconfig.page
+/usr/share/help/ar/font-manager/font-manager-introduction.page
+/usr/share/help/ar/font-manager/font-manager-license.page
+/usr/share/help/ar/font-manager/font-manager-metadata.page
+/usr/share/help/ar/font-manager/font-manager-orthographies.page
+/usr/share/help/ar/font-manager/font-manager-substitutions.page
+/usr/share/help/ar/font-manager/font-manager-supported-formats.page
+/usr/share/help/ar/font-manager/index.page
+/usr/share/help/ar/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/ar/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/ar/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/ar/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/ar/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/ar/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/ar/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/ar/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/ar/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/ar/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/ca/font-manager/font-manager-categories.page
+/usr/share/help/ca/font-manager/font-manager-character-map.page
+/usr/share/help/ca/font-manager/font-manager-collections.page
+/usr/share/help/ca/font-manager/font-manager-font-activation.page
+/usr/share/help/ca/font-manager/font-manager-font-installation.page
+/usr/share/help/ca/font-manager/font-manager-font-removal.page
+/usr/share/help/ca/font-manager/font-manager-font-sources.page
+/usr/share/help/ca/font-manager/font-manager-fontconfig.page
+/usr/share/help/ca/font-manager/font-manager-introduction.page
+/usr/share/help/ca/font-manager/font-manager-license.page
+/usr/share/help/ca/font-manager/font-manager-metadata.page
+/usr/share/help/ca/font-manager/font-manager-orthographies.page
+/usr/share/help/ca/font-manager/font-manager-substitutions.page
+/usr/share/help/ca/font-manager/font-manager-supported-formats.page
+/usr/share/help/ca/font-manager/index.page
+/usr/share/help/ca/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/ca/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/ca/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/ca/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/ca/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/ca/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/ca/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/ca/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/ca/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/ca/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/de/font-manager/font-manager-categories.page
+/usr/share/help/de/font-manager/font-manager-character-map.page
+/usr/share/help/de/font-manager/font-manager-collections.page
+/usr/share/help/de/font-manager/font-manager-font-activation.page
+/usr/share/help/de/font-manager/font-manager-font-installation.page
+/usr/share/help/de/font-manager/font-manager-font-removal.page
+/usr/share/help/de/font-manager/font-manager-font-sources.page
+/usr/share/help/de/font-manager/font-manager-fontconfig.page
+/usr/share/help/de/font-manager/font-manager-introduction.page
+/usr/share/help/de/font-manager/font-manager-license.page
+/usr/share/help/de/font-manager/font-manager-metadata.page
+/usr/share/help/de/font-manager/font-manager-orthographies.page
+/usr/share/help/de/font-manager/font-manager-substitutions.page
+/usr/share/help/de/font-manager/font-manager-supported-formats.page
+/usr/share/help/de/font-manager/index.page
+/usr/share/help/de/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/de/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/de/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/de/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/de/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/de/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/de/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/de/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/de/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/de/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/eo/font-manager/font-manager-categories.page
+/usr/share/help/eo/font-manager/font-manager-character-map.page
+/usr/share/help/eo/font-manager/font-manager-collections.page
+/usr/share/help/eo/font-manager/font-manager-font-activation.page
+/usr/share/help/eo/font-manager/font-manager-font-installation.page
+/usr/share/help/eo/font-manager/font-manager-font-removal.page
+/usr/share/help/eo/font-manager/font-manager-font-sources.page
+/usr/share/help/eo/font-manager/font-manager-fontconfig.page
+/usr/share/help/eo/font-manager/font-manager-introduction.page
+/usr/share/help/eo/font-manager/font-manager-license.page
+/usr/share/help/eo/font-manager/font-manager-metadata.page
+/usr/share/help/eo/font-manager/font-manager-orthographies.page
+/usr/share/help/eo/font-manager/font-manager-substitutions.page
+/usr/share/help/eo/font-manager/font-manager-supported-formats.page
+/usr/share/help/eo/font-manager/index.page
+/usr/share/help/eo/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/eo/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/eo/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/eo/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/eo/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/eo/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/eo/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/eo/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/eo/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/eo/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/es/font-manager/font-manager-categories.page
+/usr/share/help/es/font-manager/font-manager-character-map.page
+/usr/share/help/es/font-manager/font-manager-collections.page
+/usr/share/help/es/font-manager/font-manager-font-activation.page
+/usr/share/help/es/font-manager/font-manager-font-installation.page
+/usr/share/help/es/font-manager/font-manager-font-removal.page
+/usr/share/help/es/font-manager/font-manager-font-sources.page
+/usr/share/help/es/font-manager/font-manager-fontconfig.page
+/usr/share/help/es/font-manager/font-manager-introduction.page
+/usr/share/help/es/font-manager/font-manager-license.page
+/usr/share/help/es/font-manager/font-manager-metadata.page
+/usr/share/help/es/font-manager/font-manager-orthographies.page
+/usr/share/help/es/font-manager/font-manager-substitutions.page
+/usr/share/help/es/font-manager/font-manager-supported-formats.page
+/usr/share/help/es/font-manager/index.page
+/usr/share/help/es/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/es/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/es/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/es/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/es/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/es/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/es/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/es/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/es/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/es/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/fr/font-manager/font-manager-categories.page
+/usr/share/help/fr/font-manager/font-manager-character-map.page
+/usr/share/help/fr/font-manager/font-manager-collections.page
+/usr/share/help/fr/font-manager/font-manager-font-activation.page
+/usr/share/help/fr/font-manager/font-manager-font-installation.page
+/usr/share/help/fr/font-manager/font-manager-font-removal.page
+/usr/share/help/fr/font-manager/font-manager-font-sources.page
+/usr/share/help/fr/font-manager/font-manager-fontconfig.page
+/usr/share/help/fr/font-manager/font-manager-introduction.page
+/usr/share/help/fr/font-manager/font-manager-license.page
+/usr/share/help/fr/font-manager/font-manager-metadata.page
+/usr/share/help/fr/font-manager/font-manager-orthographies.page
+/usr/share/help/fr/font-manager/font-manager-substitutions.page
+/usr/share/help/fr/font-manager/font-manager-supported-formats.page
+/usr/share/help/fr/font-manager/index.page
+/usr/share/help/fr/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/fr/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/fr/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/fr/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/fr/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/fr/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/fr/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/fr/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/fr/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/fr/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/hr/font-manager/font-manager-categories.page
+/usr/share/help/hr/font-manager/font-manager-character-map.page
+/usr/share/help/hr/font-manager/font-manager-collections.page
+/usr/share/help/hr/font-manager/font-manager-font-activation.page
+/usr/share/help/hr/font-manager/font-manager-font-installation.page
+/usr/share/help/hr/font-manager/font-manager-font-removal.page
+/usr/share/help/hr/font-manager/font-manager-font-sources.page
+/usr/share/help/hr/font-manager/font-manager-fontconfig.page
+/usr/share/help/hr/font-manager/font-manager-introduction.page
+/usr/share/help/hr/font-manager/font-manager-license.page
+/usr/share/help/hr/font-manager/font-manager-metadata.page
+/usr/share/help/hr/font-manager/font-manager-orthographies.page
+/usr/share/help/hr/font-manager/font-manager-substitutions.page
+/usr/share/help/hr/font-manager/font-manager-supported-formats.page
+/usr/share/help/hr/font-manager/index.page
+/usr/share/help/hr/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/hr/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/hr/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/hr/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/hr/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/hr/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/hr/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/hr/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/hr/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/hr/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/id/font-manager/font-manager-categories.page
+/usr/share/help/id/font-manager/font-manager-character-map.page
+/usr/share/help/id/font-manager/font-manager-collections.page
+/usr/share/help/id/font-manager/font-manager-font-activation.page
+/usr/share/help/id/font-manager/font-manager-font-installation.page
+/usr/share/help/id/font-manager/font-manager-font-removal.page
+/usr/share/help/id/font-manager/font-manager-font-sources.page
+/usr/share/help/id/font-manager/font-manager-fontconfig.page
+/usr/share/help/id/font-manager/font-manager-introduction.page
+/usr/share/help/id/font-manager/font-manager-license.page
+/usr/share/help/id/font-manager/font-manager-metadata.page
+/usr/share/help/id/font-manager/font-manager-orthographies.page
+/usr/share/help/id/font-manager/font-manager-substitutions.page
+/usr/share/help/id/font-manager/font-manager-supported-formats.page
+/usr/share/help/id/font-manager/index.page
+/usr/share/help/id/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/id/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/id/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/id/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/id/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/id/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/id/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/id/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/id/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/id/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/it/font-manager/font-manager-categories.page
+/usr/share/help/it/font-manager/font-manager-character-map.page
+/usr/share/help/it/font-manager/font-manager-collections.page
+/usr/share/help/it/font-manager/font-manager-font-activation.page
+/usr/share/help/it/font-manager/font-manager-font-installation.page
+/usr/share/help/it/font-manager/font-manager-font-removal.page
+/usr/share/help/it/font-manager/font-manager-font-sources.page
+/usr/share/help/it/font-manager/font-manager-fontconfig.page
+/usr/share/help/it/font-manager/font-manager-introduction.page
+/usr/share/help/it/font-manager/font-manager-license.page
+/usr/share/help/it/font-manager/font-manager-metadata.page
+/usr/share/help/it/font-manager/font-manager-orthographies.page
+/usr/share/help/it/font-manager/font-manager-substitutions.page
+/usr/share/help/it/font-manager/font-manager-supported-formats.page
+/usr/share/help/it/font-manager/index.page
+/usr/share/help/it/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/it/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/it/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/it/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/it/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/it/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/it/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/it/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/it/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/it/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/ja/font-manager/font-manager-categories.page
+/usr/share/help/ja/font-manager/font-manager-character-map.page
+/usr/share/help/ja/font-manager/font-manager-collections.page
+/usr/share/help/ja/font-manager/font-manager-font-activation.page
+/usr/share/help/ja/font-manager/font-manager-font-installation.page
+/usr/share/help/ja/font-manager/font-manager-font-removal.page
+/usr/share/help/ja/font-manager/font-manager-font-sources.page
+/usr/share/help/ja/font-manager/font-manager-fontconfig.page
+/usr/share/help/ja/font-manager/font-manager-introduction.page
+/usr/share/help/ja/font-manager/font-manager-license.page
+/usr/share/help/ja/font-manager/font-manager-metadata.page
+/usr/share/help/ja/font-manager/font-manager-orthographies.page
+/usr/share/help/ja/font-manager/font-manager-substitutions.page
+/usr/share/help/ja/font-manager/font-manager-supported-formats.page
+/usr/share/help/ja/font-manager/index.page
+/usr/share/help/ja/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/ja/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/ja/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/ja/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/ja/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/ja/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/ja/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/ja/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/ja/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/ja/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/nb_NO/font-manager/font-manager-categories.page
+/usr/share/help/nb_NO/font-manager/font-manager-character-map.page
+/usr/share/help/nb_NO/font-manager/font-manager-collections.page
+/usr/share/help/nb_NO/font-manager/font-manager-font-activation.page
+/usr/share/help/nb_NO/font-manager/font-manager-font-installation.page
+/usr/share/help/nb_NO/font-manager/font-manager-font-removal.page
+/usr/share/help/nb_NO/font-manager/font-manager-font-sources.page
+/usr/share/help/nb_NO/font-manager/font-manager-fontconfig.page
+/usr/share/help/nb_NO/font-manager/font-manager-introduction.page
+/usr/share/help/nb_NO/font-manager/font-manager-license.page
+/usr/share/help/nb_NO/font-manager/font-manager-metadata.page
+/usr/share/help/nb_NO/font-manager/font-manager-orthographies.page
+/usr/share/help/nb_NO/font-manager/font-manager-substitutions.page
+/usr/share/help/nb_NO/font-manager/font-manager-supported-formats.page
+/usr/share/help/nb_NO/font-manager/index.page
+/usr/share/help/nb_NO/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/nb_NO/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/nb_NO/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/nb_NO/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/nb_NO/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/nb_NO/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/nb_NO/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/nb_NO/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/nb_NO/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/nb_NO/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/nl/font-manager/font-manager-categories.page
+/usr/share/help/nl/font-manager/font-manager-character-map.page
+/usr/share/help/nl/font-manager/font-manager-collections.page
+/usr/share/help/nl/font-manager/font-manager-font-activation.page
+/usr/share/help/nl/font-manager/font-manager-font-installation.page
+/usr/share/help/nl/font-manager/font-manager-font-removal.page
+/usr/share/help/nl/font-manager/font-manager-font-sources.page
+/usr/share/help/nl/font-manager/font-manager-fontconfig.page
+/usr/share/help/nl/font-manager/font-manager-introduction.page
+/usr/share/help/nl/font-manager/font-manager-license.page
+/usr/share/help/nl/font-manager/font-manager-metadata.page
+/usr/share/help/nl/font-manager/font-manager-orthographies.page
+/usr/share/help/nl/font-manager/font-manager-substitutions.page
+/usr/share/help/nl/font-manager/font-manager-supported-formats.page
+/usr/share/help/nl/font-manager/index.page
+/usr/share/help/nl/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/nl/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/nl/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/nl/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/nl/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/nl/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/nl/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/nl/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/nl/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/nl/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/oc/font-manager/font-manager-categories.page
+/usr/share/help/oc/font-manager/font-manager-character-map.page
+/usr/share/help/oc/font-manager/font-manager-collections.page
+/usr/share/help/oc/font-manager/font-manager-font-activation.page
+/usr/share/help/oc/font-manager/font-manager-font-installation.page
+/usr/share/help/oc/font-manager/font-manager-font-removal.page
+/usr/share/help/oc/font-manager/font-manager-font-sources.page
+/usr/share/help/oc/font-manager/font-manager-fontconfig.page
+/usr/share/help/oc/font-manager/font-manager-introduction.page
+/usr/share/help/oc/font-manager/font-manager-license.page
+/usr/share/help/oc/font-manager/font-manager-metadata.page
+/usr/share/help/oc/font-manager/font-manager-orthographies.page
+/usr/share/help/oc/font-manager/font-manager-substitutions.page
+/usr/share/help/oc/font-manager/font-manager-supported-formats.page
+/usr/share/help/oc/font-manager/index.page
+/usr/share/help/oc/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/oc/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/oc/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/oc/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/oc/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/oc/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/oc/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/oc/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/oc/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/oc/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/pl/font-manager/font-manager-categories.page
+/usr/share/help/pl/font-manager/font-manager-character-map.page
+/usr/share/help/pl/font-manager/font-manager-collections.page
+/usr/share/help/pl/font-manager/font-manager-font-activation.page
+/usr/share/help/pl/font-manager/font-manager-font-installation.page
+/usr/share/help/pl/font-manager/font-manager-font-removal.page
+/usr/share/help/pl/font-manager/font-manager-font-sources.page
+/usr/share/help/pl/font-manager/font-manager-fontconfig.page
+/usr/share/help/pl/font-manager/font-manager-introduction.page
+/usr/share/help/pl/font-manager/font-manager-license.page
+/usr/share/help/pl/font-manager/font-manager-metadata.page
+/usr/share/help/pl/font-manager/font-manager-orthographies.page
+/usr/share/help/pl/font-manager/font-manager-substitutions.page
+/usr/share/help/pl/font-manager/font-manager-supported-formats.page
+/usr/share/help/pl/font-manager/index.page
+/usr/share/help/pl/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/pl/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/pl/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/pl/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/pl/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/pl/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/pl/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/pl/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/pl/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/pl/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/pt_BR/font-manager/font-manager-categories.page
+/usr/share/help/pt_BR/font-manager/font-manager-character-map.page
+/usr/share/help/pt_BR/font-manager/font-manager-collections.page
+/usr/share/help/pt_BR/font-manager/font-manager-font-activation.page
+/usr/share/help/pt_BR/font-manager/font-manager-font-installation.page
+/usr/share/help/pt_BR/font-manager/font-manager-font-removal.page
+/usr/share/help/pt_BR/font-manager/font-manager-font-sources.page
+/usr/share/help/pt_BR/font-manager/font-manager-fontconfig.page
+/usr/share/help/pt_BR/font-manager/font-manager-introduction.page
+/usr/share/help/pt_BR/font-manager/font-manager-license.page
+/usr/share/help/pt_BR/font-manager/font-manager-metadata.page
+/usr/share/help/pt_BR/font-manager/font-manager-orthographies.page
+/usr/share/help/pt_BR/font-manager/font-manager-substitutions.page
+/usr/share/help/pt_BR/font-manager/font-manager-supported-formats.page
+/usr/share/help/pt_BR/font-manager/index.page
+/usr/share/help/pt_BR/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/pt_BR/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/pt_BR/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/pt_BR/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/pt_BR/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/pt_BR/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/pt_BR/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/pt_BR/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/pt_BR/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/pt_BR/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/ro/font-manager/font-manager-categories.page
+/usr/share/help/ro/font-manager/font-manager-character-map.page
+/usr/share/help/ro/font-manager/font-manager-collections.page
+/usr/share/help/ro/font-manager/font-manager-font-activation.page
+/usr/share/help/ro/font-manager/font-manager-font-installation.page
+/usr/share/help/ro/font-manager/font-manager-font-removal.page
+/usr/share/help/ro/font-manager/font-manager-font-sources.page
+/usr/share/help/ro/font-manager/font-manager-fontconfig.page
+/usr/share/help/ro/font-manager/font-manager-introduction.page
+/usr/share/help/ro/font-manager/font-manager-license.page
+/usr/share/help/ro/font-manager/font-manager-metadata.page
+/usr/share/help/ro/font-manager/font-manager-orthographies.page
+/usr/share/help/ro/font-manager/font-manager-substitutions.page
+/usr/share/help/ro/font-manager/font-manager-supported-formats.page
+/usr/share/help/ro/font-manager/index.page
+/usr/share/help/ro/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/ro/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/ro/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/ro/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/ro/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/ro/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/ro/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/ro/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/ro/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/ro/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/ru/font-manager/font-manager-categories.page
+/usr/share/help/ru/font-manager/font-manager-character-map.page
+/usr/share/help/ru/font-manager/font-manager-collections.page
+/usr/share/help/ru/font-manager/font-manager-font-activation.page
+/usr/share/help/ru/font-manager/font-manager-font-installation.page
+/usr/share/help/ru/font-manager/font-manager-font-removal.page
+/usr/share/help/ru/font-manager/font-manager-font-sources.page
+/usr/share/help/ru/font-manager/font-manager-fontconfig.page
+/usr/share/help/ru/font-manager/font-manager-introduction.page
+/usr/share/help/ru/font-manager/font-manager-license.page
+/usr/share/help/ru/font-manager/font-manager-metadata.page
+/usr/share/help/ru/font-manager/font-manager-orthographies.page
+/usr/share/help/ru/font-manager/font-manager-substitutions.page
+/usr/share/help/ru/font-manager/font-manager-supported-formats.page
+/usr/share/help/ru/font-manager/index.page
+/usr/share/help/ru/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/ru/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/ru/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/ru/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/ru/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/ru/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/ru/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/ru/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/ru/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/ru/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/si/font-manager/font-manager-categories.page
+/usr/share/help/si/font-manager/font-manager-character-map.page
+/usr/share/help/si/font-manager/font-manager-collections.page
+/usr/share/help/si/font-manager/font-manager-font-activation.page
+/usr/share/help/si/font-manager/font-manager-font-installation.page
+/usr/share/help/si/font-manager/font-manager-font-removal.page
+/usr/share/help/si/font-manager/font-manager-font-sources.page
+/usr/share/help/si/font-manager/font-manager-fontconfig.page
+/usr/share/help/si/font-manager/font-manager-introduction.page
+/usr/share/help/si/font-manager/font-manager-license.page
+/usr/share/help/si/font-manager/font-manager-metadata.page
+/usr/share/help/si/font-manager/font-manager-orthographies.page
+/usr/share/help/si/font-manager/font-manager-substitutions.page
+/usr/share/help/si/font-manager/font-manager-supported-formats.page
+/usr/share/help/si/font-manager/index.page
+/usr/share/help/si/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/si/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/si/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/si/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/si/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/si/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/si/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/si/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/si/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/si/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/sl/font-manager/font-manager-categories.page
+/usr/share/help/sl/font-manager/font-manager-character-map.page
+/usr/share/help/sl/font-manager/font-manager-collections.page
+/usr/share/help/sl/font-manager/font-manager-font-activation.page
+/usr/share/help/sl/font-manager/font-manager-font-installation.page
+/usr/share/help/sl/font-manager/font-manager-font-removal.page
+/usr/share/help/sl/font-manager/font-manager-font-sources.page
+/usr/share/help/sl/font-manager/font-manager-fontconfig.page
+/usr/share/help/sl/font-manager/font-manager-introduction.page
+/usr/share/help/sl/font-manager/font-manager-license.page
+/usr/share/help/sl/font-manager/font-manager-metadata.page
+/usr/share/help/sl/font-manager/font-manager-orthographies.page
+/usr/share/help/sl/font-manager/font-manager-substitutions.page
+/usr/share/help/sl/font-manager/font-manager-supported-formats.page
+/usr/share/help/sl/font-manager/index.page
+/usr/share/help/sl/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/sl/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/sl/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/sl/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/sl/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/sl/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/sl/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/sl/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/sl/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/sl/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/sv/font-manager/font-manager-categories.page
+/usr/share/help/sv/font-manager/font-manager-character-map.page
+/usr/share/help/sv/font-manager/font-manager-collections.page
+/usr/share/help/sv/font-manager/font-manager-font-activation.page
+/usr/share/help/sv/font-manager/font-manager-font-installation.page
+/usr/share/help/sv/font-manager/font-manager-font-removal.page
+/usr/share/help/sv/font-manager/font-manager-font-sources.page
+/usr/share/help/sv/font-manager/font-manager-fontconfig.page
+/usr/share/help/sv/font-manager/font-manager-introduction.page
+/usr/share/help/sv/font-manager/font-manager-license.page
+/usr/share/help/sv/font-manager/font-manager-metadata.page
+/usr/share/help/sv/font-manager/font-manager-orthographies.page
+/usr/share/help/sv/font-manager/font-manager-substitutions.page
+/usr/share/help/sv/font-manager/font-manager-supported-formats.page
+/usr/share/help/sv/font-manager/index.page
+/usr/share/help/sv/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/sv/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/sv/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/sv/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/sv/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/sv/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/sv/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/sv/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/sv/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/sv/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/tr/font-manager/font-manager-categories.page
+/usr/share/help/tr/font-manager/font-manager-character-map.page
+/usr/share/help/tr/font-manager/font-manager-collections.page
+/usr/share/help/tr/font-manager/font-manager-font-activation.page
+/usr/share/help/tr/font-manager/font-manager-font-installation.page
+/usr/share/help/tr/font-manager/font-manager-font-removal.page
+/usr/share/help/tr/font-manager/font-manager-font-sources.page
+/usr/share/help/tr/font-manager/font-manager-fontconfig.page
+/usr/share/help/tr/font-manager/font-manager-introduction.page
+/usr/share/help/tr/font-manager/font-manager-license.page
+/usr/share/help/tr/font-manager/font-manager-metadata.page
+/usr/share/help/tr/font-manager/font-manager-orthographies.page
+/usr/share/help/tr/font-manager/font-manager-substitutions.page
+/usr/share/help/tr/font-manager/font-manager-supported-formats.page
+/usr/share/help/tr/font-manager/index.page
+/usr/share/help/tr/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/tr/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/tr/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/tr/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/tr/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/tr/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/tr/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/tr/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/tr/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/tr/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/uk/font-manager/font-manager-categories.page
+/usr/share/help/uk/font-manager/font-manager-character-map.page
+/usr/share/help/uk/font-manager/font-manager-collections.page
+/usr/share/help/uk/font-manager/font-manager-font-activation.page
+/usr/share/help/uk/font-manager/font-manager-font-installation.page
+/usr/share/help/uk/font-manager/font-manager-font-removal.page
+/usr/share/help/uk/font-manager/font-manager-font-sources.page
+/usr/share/help/uk/font-manager/font-manager-fontconfig.page
+/usr/share/help/uk/font-manager/font-manager-introduction.page
+/usr/share/help/uk/font-manager/font-manager-license.page
+/usr/share/help/uk/font-manager/font-manager-metadata.page
+/usr/share/help/uk/font-manager/font-manager-orthographies.page
+/usr/share/help/uk/font-manager/font-manager-substitutions.page
+/usr/share/help/uk/font-manager/font-manager-supported-formats.page
+/usr/share/help/uk/font-manager/index.page
+/usr/share/help/uk/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/uk/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/uk/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/uk/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/uk/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/uk/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/uk/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/uk/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/uk/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/uk/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/zh_Hans/font-manager/font-manager-categories.page
+/usr/share/help/zh_Hans/font-manager/font-manager-character-map.page
+/usr/share/help/zh_Hans/font-manager/font-manager-collections.page
+/usr/share/help/zh_Hans/font-manager/font-manager-font-activation.page
+/usr/share/help/zh_Hans/font-manager/font-manager-font-installation.page
+/usr/share/help/zh_Hans/font-manager/font-manager-font-removal.page
+/usr/share/help/zh_Hans/font-manager/font-manager-font-sources.page
+/usr/share/help/zh_Hans/font-manager/font-manager-fontconfig.page
+/usr/share/help/zh_Hans/font-manager/font-manager-introduction.page
+/usr/share/help/zh_Hans/font-manager/font-manager-license.page
+/usr/share/help/zh_Hans/font-manager/font-manager-metadata.page
+/usr/share/help/zh_Hans/font-manager/font-manager-orthographies.page
+/usr/share/help/zh_Hans/font-manager/font-manager-substitutions.page
+/usr/share/help/zh_Hans/font-manager/font-manager-supported-formats.page
+/usr/share/help/zh_Hans/font-manager/index.page
+/usr/share/help/zh_Hans/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/zh_Hans/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/zh_Hans/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/zh_Hans/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/zh_Hans/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/zh_Hans/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/zh_Hans/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/zh_Hans/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/zh_Hans/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/zh_Hans/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/zh_Hant/font-manager/font-manager-categories.page
+/usr/share/help/zh_Hant/font-manager/font-manager-character-map.page
+/usr/share/help/zh_Hant/font-manager/font-manager-collections.page
+/usr/share/help/zh_Hant/font-manager/font-manager-font-activation.page
+/usr/share/help/zh_Hant/font-manager/font-manager-font-installation.page
+/usr/share/help/zh_Hant/font-manager/font-manager-font-removal.page
+/usr/share/help/zh_Hant/font-manager/font-manager-font-sources.page
+/usr/share/help/zh_Hant/font-manager/font-manager-fontconfig.page
+/usr/share/help/zh_Hant/font-manager/font-manager-introduction.page
+/usr/share/help/zh_Hant/font-manager/font-manager-license.page
+/usr/share/help/zh_Hant/font-manager/font-manager-metadata.page
+/usr/share/help/zh_Hant/font-manager/font-manager-orthographies.page
+/usr/share/help/zh_Hant/font-manager/font-manager-substitutions.page
+/usr/share/help/zh_Hant/font-manager/font-manager-supported-formats.page
+/usr/share/help/zh_Hant/font-manager/index.page
+/usr/share/help/zh_Hant/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/zh_Hant/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/zh_Hant/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/zh_Hant/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/zh_Hant/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/zh_Hant/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/zh_Hant/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/zh_Hant/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/zh_Hant/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/zh_Hant/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-categories.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-character-map.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-collections.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-font-activation.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-font-installation.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-font-removal.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-font-sources.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-fontconfig.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-introduction.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-license.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-metadata.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-orthographies.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-substitutions.page
+/usr/share/help/zh_Hant_HK/font-manager/font-manager-supported-formats.page
+/usr/share/help/zh_Hant_HK/font-manager/index.page
+/usr/share/help/zh_Hant_HK/font-manager/media/character-map.png -> /usr/share/help/C/font-manager/media/character-map.png
+/usr/share/help/zh_Hant_HK/font-manager/media/license.png -> /usr/share/help/C/font-manager/media/license.png
+/usr/share/help/zh_Hant_HK/font-manager/media/list-add-symbolic.svg -> /usr/share/help/C/font-manager/media/list-add-symbolic.svg
+/usr/share/help/zh_Hant_HK/font-manager/media/list-remove-symbolic.svg -> /usr/share/help/C/font-manager/media/list-remove-symbolic.svg
+/usr/share/help/zh_Hant_HK/font-manager/media/main-window.png -> /usr/share/help/C/font-manager/media/main-window.png
+/usr/share/help/zh_Hant_HK/font-manager/media/metadata.png -> /usr/share/help/C/font-manager/media/metadata.png
+/usr/share/help/zh_Hant_HK/font-manager/media/orthographies.png -> /usr/share/help/C/font-manager/media/orthographies.png
+/usr/share/help/zh_Hant_HK/font-manager/media/preferences-desktop-font-16.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font-16.png
+/usr/share/help/zh_Hant_HK/font-manager/media/preferences-desktop-font.png -> /usr/share/help/C/font-manager/media/preferences-desktop-font.png
+/usr/share/help/zh_Hant_HK/font-manager/media/preferences-system-symbolic.svg -> /usr/share/help/C/font-manager/media/preferences-system-symbolic.svg
+/usr/share/icons/hicolor/128x128/apps/org.gnome.FontManager.png
+/usr/share/icons/hicolor/128x128/apps/org.gnome.FontViewer.png
+/usr/share/icons/hicolor/256x256/apps/org.gnome.FontManager.png
+/usr/share/icons/hicolor/256x256/apps/org.gnome.FontViewer.png
+/usr/share/locale/am/LC_MESSAGES/font-manager.mo
+/usr/share/locale/ar/LC_MESSAGES/font-manager.mo
+/usr/share/locale/ca/LC_MESSAGES/font-manager.mo
+/usr/share/locale/de/LC_MESSAGES/font-manager.mo
+/usr/share/locale/eo/LC_MESSAGES/font-manager.mo
+/usr/share/locale/es/LC_MESSAGES/font-manager.mo
+/usr/share/locale/fr/LC_MESSAGES/font-manager.mo
+/usr/share/locale/hr/LC_MESSAGES/font-manager.mo
+/usr/share/locale/id/LC_MESSAGES/font-manager.mo
+/usr/share/locale/it/LC_MESSAGES/font-manager.mo
+/usr/share/locale/ja/LC_MESSAGES/font-manager.mo
+/usr/share/locale/nb_NO/LC_MESSAGES/font-manager.mo
+/usr/share/locale/nl/LC_MESSAGES/font-manager.mo
+/usr/share/locale/oc/LC_MESSAGES/font-manager.mo
+/usr/share/locale/pl/LC_MESSAGES/font-manager.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/font-manager.mo
+/usr/share/locale/ro/LC_MESSAGES/font-manager.mo
+/usr/share/locale/ru/LC_MESSAGES/font-manager.mo
+/usr/share/locale/si/LC_MESSAGES/font-manager.mo
+/usr/share/locale/sl/LC_MESSAGES/font-manager.mo
+/usr/share/locale/sv/LC_MESSAGES/font-manager.mo
+/usr/share/locale/tr/LC_MESSAGES/font-manager.mo
+/usr/share/locale/uk/LC_MESSAGES/font-manager.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/font-manager.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/font-manager.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/font-manager.mo
+/usr/share/man/man1/font-manager.1
+/usr/share/metainfo/org.gnome.FontManager.appdata.xml
+/usr/share/metainfo/org.gnome.FontViewer.appdata.xml

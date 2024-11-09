@@ -1,0 +1,6 @@
+/etc/xdg/autostart/dhcpcd-gtk.desktop
+/usr/bin/dhcpcd-gtk
+/usr/bin/dhcpcd-online
+/usr/share/licenses/dhcpcd-gtk/LICENSE
+/usr/share/man/man8/dhcpcd-gtk.8
+/usr/share/man/man8/dhcpcd-online.8

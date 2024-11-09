@@ -1,0 +1,12 @@
+/usr/include/libite/conio.h
+/usr/include/libite/lite.h
+/usr/include/libite/queue.h
+/usr/include/libite/strdupa.h
+/usr/include/libite/strlite.h
+/usr/include/libite/strndupa.h
+/usr/include/libite/strnlen.h
+/usr/include/libite/tree.h
+/usr/include/lite -> /usr/include/libite
+/usr/lib/libite.a
+/usr/lib/libite.so -> /usr/lib/libite.so.5.4.0
+/usr/lib/pkgconfig/libite.pc

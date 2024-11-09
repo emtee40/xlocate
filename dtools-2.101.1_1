@@ -1,0 +1,13 @@
+/usr/bin/ddemangle
+/usr/bin/dget
+/usr/bin/dtools-catdoc
+/usr/bin/dtools-changed
+/usr/bin/dtools-checkwhitespace
+/usr/bin/dtools-contributors
+/usr/bin/dtools-detab
+/usr/bin/dtools-rdmd_test
+/usr/bin/dtools-tolf
+/usr/bin/dustmite
+/usr/bin/rdmd
+/usr/share/licenses/dtools/LICENSE.txt
+/usr/share/man/man1/rdmd.1

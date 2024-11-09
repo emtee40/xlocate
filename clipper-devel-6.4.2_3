@@ -1,0 +1,3 @@
+/usr/include/polyclipping/clipper.hpp
+/usr/lib/libpolyclipping.so -> /usr/lib/libpolyclipping.so.22
+/usr/share/pkgconfig/polyclipping.pc

@@ -1,0 +1,16 @@
+/usr/lib/vdpau/libvdpau_nouveau.so -> /usr/lib/vdpau/libvdpau_nouveau.so.1.0.0
+/usr/lib/vdpau/libvdpau_nouveau.so.1 -> /usr/lib/vdpau/libvdpau_nouveau.so.1.0.0
+/usr/lib/vdpau/libvdpau_nouveau.so.1.0 -> /usr/lib/vdpau/libvdpau_nouveau.so.1.0.0
+/usr/lib/vdpau/libvdpau_nouveau.so.1.0.0 -> ../libgallium-24.2.6.so
+/usr/lib/vdpau/libvdpau_r600.so -> /usr/lib/vdpau/libvdpau_r600.so.1.0.0
+/usr/lib/vdpau/libvdpau_r600.so.1 -> /usr/lib/vdpau/libvdpau_r600.so.1.0.0
+/usr/lib/vdpau/libvdpau_r600.so.1.0 -> /usr/lib/vdpau/libvdpau_r600.so.1.0.0
+/usr/lib/vdpau/libvdpau_r600.so.1.0.0 -> ../libgallium-24.2.6.so
+/usr/lib/vdpau/libvdpau_radeonsi.so -> /usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0
+/usr/lib/vdpau/libvdpau_radeonsi.so.1 -> /usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0
+/usr/lib/vdpau/libvdpau_radeonsi.so.1.0 -> /usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0
+/usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0 -> ../libgallium-24.2.6.so
+/usr/lib/vdpau/libvdpau_virtio_gpu.so -> /usr/lib/vdpau/libvdpau_virtio_gpu.so.1.0.0
+/usr/lib/vdpau/libvdpau_virtio_gpu.so.1 -> /usr/lib/vdpau/libvdpau_virtio_gpu.so.1.0.0
+/usr/lib/vdpau/libvdpau_virtio_gpu.so.1.0 -> /usr/lib/vdpau/libvdpau_virtio_gpu.so.1.0.0
+/usr/lib/vdpau/libvdpau_virtio_gpu.so.1.0.0 -> ../libgallium-24.2.6.so

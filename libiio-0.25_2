@@ -1,0 +1,8 @@
+/usr/lib/libiio.so.0 -> /usr/lib/libiio.so.0.25
+/usr/lib/libiio.so.0.25
+/usr/lib/python3.12/site-packages/iio.py
+/usr/lib/python3.12/site-packages/pylibiio-0.25-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/pylibiio-0.25-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/pylibiio-0.25-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/pylibiio-0.25-py3.12.egg-info/top_level.txt
+/usr/lib/udev/rules.d/90-libiio.rules

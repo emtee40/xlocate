@@ -1,0 +1,4 @@
+/usr/lib32/libarcher.so
+/usr/lib32/libarcher_static.a
+/usr/lib32/libomp.so -> /usr/lib32/libomp.so.5
+/usr/lib32/libompd.so

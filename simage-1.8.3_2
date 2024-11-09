@@ -1,0 +1,5 @@
+/usr/bin/simage-config
+/usr/lib/libsimage.so.20 -> /usr/lib/libsimage.so.20.8.3
+/usr/lib/libsimage.so.20.8.3
+/usr/share/Coin/conf/simage-default.cfg
+/usr/share/licenses/simage/LICENSE

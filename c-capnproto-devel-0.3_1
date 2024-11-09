@@ -1,0 +1,6 @@
+/usr/bin/capnpc-c
+/usr/include/capnp/c.capnp
+/usr/include/capnp_c.h
+/usr/lib/libcapnp_c.a
+/usr/lib/libcapnp_c.so -> /usr/lib/libcapnp_c.so.0.0.0
+/usr/lib/pkgconfig/c-capnproto.pc

@@ -1,0 +1,5 @@
+/usr/include/symmetrica.h
+/usr/include/symmetrica/def.h
+/usr/include/symmetrica/macro.h
+/usr/lib/libsymmetrica.a
+/usr/lib/libsymmetrica.so -> /usr/lib/libsymmetrica.so.2.0.0

@@ -1,0 +1,24 @@
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/EditorItemManager
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/GroupwareUiDelegate
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IncidenceDefaults
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IncidenceDialog
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IncidenceDialogFactory
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IncidenceEditor-Ng
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IncidenceEditorSettings
+/usr/include/KPim6/IncidenceEditor/IncidenceEditor/IndividualMailComponentFactory
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/editoritemmanager.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/globalsettings_incidenceeditor.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/groupwareuidelegate.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidencedefaults.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidencedialog.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidencedialogfactory.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidenceeditor-ng.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidenceeditor_export.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/incidenceeditorsettings.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor/individualmailcomponentfactory.h
+/usr/include/KPim6/IncidenceEditor/incidenceeditor_version.h
+/usr/lib/cmake/KPim6IncidenceEditor/KPim6IncidenceEditorConfig.cmake
+/usr/lib/cmake/KPim6IncidenceEditor/KPim6IncidenceEditorConfigVersion.cmake
+/usr/lib/cmake/KPim6IncidenceEditor/KPim6IncidenceEditorTargets-none.cmake
+/usr/lib/cmake/KPim6IncidenceEditor/KPim6IncidenceEditorTargets.cmake
+/usr/lib/libKPim6IncidenceEditor.so -> /usr/lib/libKPim6IncidenceEditor.so.6

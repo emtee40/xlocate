@@ -1,0 +1,12 @@
+/usr/lib/groff/glilypond/args.pl
+/usr/lib/groff/glilypond/oop_fh.pl
+/usr/lib/groff/glilypond/subs.pl
+/usr/lib/groff/gpinyin/subs.pl
+/usr/lib/groff/groff_opts_no_arg.txt
+/usr/lib/groff/groff_opts_with_arg.txt
+/usr/lib/groff/groffer/main_subs.pl
+/usr/lib/groff/groffer/man.pl
+/usr/lib/groff/groffer/split_env.sh
+/usr/lib/groff/groffer/subs.pl
+/usr/lib/groff/groffer/version.sh
+/usr/lib/groff/grog/subs.pl

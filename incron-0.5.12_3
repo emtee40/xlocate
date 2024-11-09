@@ -1,0 +1,12 @@
+/etc/sv/incron/log/run
+/etc/sv/incron/log/supervise -> /run/runit/supervise.incron-log
+/etc/sv/incron/run
+/etc/sv/incron/supervise -> /run/runit/supervise.incron
+/usr/bin/incrond
+/usr/bin/incrontab
+/usr/share/doc/incron-0.5.12/incron.conf.example
+/usr/share/licenses/incron/LICENSE-X11
+/usr/share/man/man1/incrontab.1
+/usr/share/man/man5/incron.conf.5
+/usr/share/man/man5/incrontab.5
+/usr/share/man/man8/incrond.8

@@ -1,0 +1,5 @@
+/etc/sv/swapspace/run
+/etc/sv/swapspace/supervise -> /run/runit/supervise.swapspace
+/etc/swapspace.conf
+/usr/bin/swapspace
+/usr/share/man/man8/swapspace.8

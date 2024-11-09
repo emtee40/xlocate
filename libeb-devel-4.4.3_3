@@ -1,0 +1,13 @@
+/usr/include/eb/appendix.h
+/usr/include/eb/binary.h
+/usr/include/eb/booklist.h
+/usr/include/eb/defs.h
+/usr/include/eb/eb.h
+/usr/include/eb/error.h
+/usr/include/eb/font.h
+/usr/include/eb/sysdefs.h
+/usr/include/eb/text.h
+/usr/include/eb/zio.h
+/usr/lib/libeb.a
+/usr/lib/libeb.so -> /usr/lib/libeb.so.16.0.0
+/usr/share/aclocal/eb4.m4

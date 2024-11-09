@@ -1,0 +1,6 @@
+/usr/include/tilp2/export1.h
+/usr/include/tilp2/stdints1.h
+/usr/include/tilp2/ticables.h
+/usr/include/tilp2/timeout.h
+/usr/lib/libticables2.so -> /usr/lib/libticables2.so.7.0.0
+/usr/lib/pkgconfig/ticables2.pc

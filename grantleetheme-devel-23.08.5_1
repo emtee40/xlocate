@@ -1,0 +1,26 @@
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/GenericFormatter
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/GrantleeKi18nLocalizer
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/GrantleeTheme
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/GrantleeThemeEngine
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/GrantleeThemeManager
+/usr/include/KPim5/GrantleeTheme/GrantleeTheme/QtResourceTemplateLoader
+/usr/include/KPim5/GrantleeTheme/grantleetheme/GenericFormatter
+/usr/include/KPim5/GrantleeTheme/grantleetheme/GrantleeKi18nLocalizer
+/usr/include/KPim5/GrantleeTheme/grantleetheme/GrantleeTheme
+/usr/include/KPim5/GrantleeTheme/grantleetheme/GrantleeThemeEngine
+/usr/include/KPim5/GrantleeTheme/grantleetheme/GrantleeThemeManager
+/usr/include/KPim5/GrantleeTheme/grantleetheme/QtResourceTemplateLoader
+/usr/include/KPim5/GrantleeTheme/grantleetheme/genericformatter.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/grantleeki18nlocalizer.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/grantleetheme.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/grantleetheme_export.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/grantleethemeengine.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/grantleethememanager.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme/qtresourcetemplateloader.h
+/usr/include/KPim5/GrantleeTheme/grantleetheme_version.h
+/usr/lib/cmake/KPim5GrantleeTheme/KPim5GrantleeThemeConfig.cmake
+/usr/lib/cmake/KPim5GrantleeTheme/KPim5GrantleeThemeConfigVersion.cmake
+/usr/lib/cmake/KPim5GrantleeTheme/KPim5GrantleeThemeTargets-none.cmake
+/usr/lib/cmake/KPim5GrantleeTheme/KPim5GrantleeThemeTargets.cmake
+/usr/lib/libKPim5GrantleeTheme.so -> /usr/lib/libKPim5GrantleeTheme.so.5
+/usr/lib/qt5/mkspecs/modules/qt_GrantleeTheme.pri

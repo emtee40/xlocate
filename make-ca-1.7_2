@@ -1,0 +1,4 @@
+/etc/make-ca.conf.dist
+/usr/bin/make-ca
+/usr/libexec/make-ca/copy-trust-modifications
+/usr/share/man/man8/make-ca.8

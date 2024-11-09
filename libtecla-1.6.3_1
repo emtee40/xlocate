@@ -1,0 +1,9 @@
+/usr/bin/enhance
+/usr/lib/libtecla.so.1 -> /usr/lib/libtecla.so.1.6.3
+/usr/lib/libtecla.so.1.6.3
+/usr/lib/libtecla_r.so.1 -> /usr/lib/libtecla_r.so.1.6.3
+/usr/lib/libtecla_r.so.1.6.3
+/usr/share/licenses/libtecla/LICENSE
+/usr/share/man/man1/enhance.1
+/usr/share/man/man5/teclarc.5
+/usr/share/man/man7/tecla.7

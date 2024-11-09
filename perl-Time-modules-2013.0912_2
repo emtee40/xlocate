@@ -1,0 +1,10 @@
+/usr/share/man/man3/Time::CTime.3p
+/usr/share/man/man3/Time::DaysInMonth.3p
+/usr/share/man/man3/Time::JulianDay.3p
+/usr/share/man/man3/Time::ParseDate.3p
+/usr/share/man/man3/Time::Timezone.3p
+/usr/share/perl5/vendor_perl/Time/CTime.pm
+/usr/share/perl5/vendor_perl/Time/DaysInMonth.pm
+/usr/share/perl5/vendor_perl/Time/JulianDay.pm
+/usr/share/perl5/vendor_perl/Time/ParseDate.pm
+/usr/share/perl5/vendor_perl/Time/Timezone.pm

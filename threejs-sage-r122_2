@@ -1,0 +1,4 @@
+/usr/share/jupyter/nbextensions/threejs-sage -> /usr/share/sagemath/threejs-sage
+/usr/share/licenses/threejs-sage/LICENSE
+/usr/share/sagemath/threejs-sage/r122/three.min.js
+/usr/share/sagemath/threejs-sage/version

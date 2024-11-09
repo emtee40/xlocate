@@ -1,0 +1,4 @@
+/etc/php8.3/conf.d/composer.ini
+/usr/bin/composer8.3
+/usr/libexec/composer.phar8.3
+/usr/share/licenses/composer8.3/LICENSE

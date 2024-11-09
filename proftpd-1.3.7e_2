@@ -1,0 +1,25 @@
+/etc/proftpd.conf
+/usr/bin/ftpasswd
+/usr/bin/ftpcount
+/usr/bin/ftpdctl
+/usr/bin/ftpmail
+/usr/bin/ftpquota
+/usr/bin/ftpscrub
+/usr/bin/ftpshut
+/usr/bin/ftptop
+/usr/bin/ftpwho
+/usr/bin/in.proftpd -> /usr/bin/proftpd
+/usr/bin/proftpd
+/usr/bin/prxs
+/usr/share/man/man1/ftpasswd.1
+/usr/share/man/man1/ftpcount.1
+/usr/share/man/man1/ftpmail.1
+/usr/share/man/man1/ftpquota.1
+/usr/share/man/man1/ftptop.1
+/usr/share/man/man1/ftpwho.1
+/usr/share/man/man5/proftpd.conf.5
+/usr/share/man/man5/xferlog.5
+/usr/share/man/man8/ftpdctl.8
+/usr/share/man/man8/ftpscrub.8
+/usr/share/man/man8/ftpshut.8
+/usr/share/man/man8/proftpd.8

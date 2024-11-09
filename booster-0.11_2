@@ -1,0 +1,8 @@
+/etc/booster.yaml
+/usr/bin/booster
+/usr/lib/booster/init
+/usr/libexec/booster/kernel-hook-postinst
+/usr/libexec/booster/kernel-hook-postrm
+/usr/share/bash-completion/completions/booster
+/usr/share/licenses/booster/LICENSE
+/usr/share/man/man1/booster.1

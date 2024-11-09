@@ -1,0 +1,15 @@
+/usr/bin/unzck
+/usr/bin/zck
+/usr/bin/zck_delta_size
+/usr/bin/zck_gen_zdict
+/usr/bin/zck_read_header
+/usr/bin/zckdl
+/usr/lib/libzck.so.1 -> /usr/lib/libzck.so.1.5.1
+/usr/lib/libzck.so.1.5.1
+/usr/share/licenses/zchunk/LICENSE
+/usr/share/man/man1/unzck.1
+/usr/share/man/man1/zck.1
+/usr/share/man/man1/zck_delta_size.1
+/usr/share/man/man1/zck_gen_zdict.1
+/usr/share/man/man1/zck_read_header.1
+/usr/share/man/man1/zckdl.1

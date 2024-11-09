@@ -1,0 +1,2 @@
+/usr/libexec/catatonit/catatonit
+/usr/libexec/podman/catatonit -> /usr/libexec/catatonit/catatonit

@@ -1,0 +1,9 @@
+/etc/php8.1/php-fpm.conf
+/etc/php8.1/php-fpm.d/www.conf
+/etc/sv/php-fpm8.1/log/run
+/etc/sv/php-fpm8.1/log/supervise -> /run/runit/supervise.php-fpm8.1-log
+/etc/sv/php-fpm8.1/run
+/etc/sv/php-fpm8.1/supervise -> /run/runit/supervise.php-fpm8.1
+/usr/bin/php-fpm8.1
+/usr/share/man/man8/php-fpm8.1.8
+/usr/share/php8.1/fpm/status.html

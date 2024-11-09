@@ -1,0 +1,6 @@
+/usr/lib/libFcitx5Config.so.5.1.10
+/usr/lib/libFcitx5Config.so.6 -> /usr/lib/libFcitx5Config.so.5.1.10
+/usr/lib/libFcitx5Core.so.5.1.10
+/usr/lib/libFcitx5Core.so.7 -> /usr/lib/libFcitx5Core.so.5.1.10
+/usr/lib/libFcitx5Utils.so.2 -> /usr/lib/libFcitx5Utils.so.5.1.10
+/usr/lib/libFcitx5Utils.so.5.1.10

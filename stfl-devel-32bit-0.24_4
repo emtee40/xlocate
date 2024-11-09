@@ -1,0 +1,3 @@
+/usr/lib32/libstfl.a
+/usr/lib32/libstfl.so -> /usr/lib32/libstfl.so.0.24
+/usr/lib32/pkgconfig/stfl.pc

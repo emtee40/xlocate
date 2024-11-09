@@ -1,0 +1,3 @@
+/usr/lib32/libre.a
+/usr/lib32/libre.so -> /usr/lib32/libre.so.26
+/usr/lib32/pkgconfig/libre.pc

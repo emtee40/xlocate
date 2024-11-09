@@ -1,0 +1,9 @@
+/usr/bin/lspci
+/usr/bin/pcilmr
+/usr/bin/setpci
+/usr/lib/libpci.so.3 -> /usr/lib/libpci.so.3.13.0
+/usr/lib/libpci.so.3.13.0
+/usr/share/man/man5/pci.ids.5
+/usr/share/man/man8/lspci.8
+/usr/share/man/man8/pcilmr.8
+/usr/share/man/man8/setpci.8

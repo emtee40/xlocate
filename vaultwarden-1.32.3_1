@@ -1,0 +1,7 @@
+/etc/sv/vaultwarden/log/run
+/etc/sv/vaultwarden/log/supervise -> /run/runit/supervise.vaultwarden-log
+/etc/sv/vaultwarden/run
+/etc/sv/vaultwarden/supervise -> /run/runit/supervise.vaultwarden
+/usr/bin/vaultwarden
+/usr/share/examples/vaultwarden/vaultwarden.conf
+/usr/share/licenses/vaultwarden/LICENSE.txt

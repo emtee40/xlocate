@@ -1,0 +1,5 @@
+/usr/lib32/libQt5RemoteObjects.so.5 -> /usr/lib32/libQt5RemoteObjects.so.5.15.11
+/usr/lib32/libQt5RemoteObjects.so.5.15 -> /usr/lib32/libQt5RemoteObjects.so.5.15.11
+/usr/lib32/libQt5RemoteObjects.so.5.15.11
+/usr/lib32/qt5/qml/QtQml/RemoteObjects/libqtqmlremoteobjects.so
+/usr/lib32/qt5/qml/QtRemoteObjects/libqtremoteobjects.so

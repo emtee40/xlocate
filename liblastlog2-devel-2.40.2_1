@@ -1,0 +1,12 @@
+/usr/include/liblastlog2/lastlog2.h
+/usr/lib/liblastlog2.a
+/usr/lib/liblastlog2.so -> /usr/lib/liblastlog2.so.2.0.0
+/usr/lib/pkgconfig/lastlog2.pc
+/usr/share/man/man3/lastlog2.3
+/usr/share/man/man3/ll2_import_lastlog.3
+/usr/share/man/man3/ll2_read_all.3
+/usr/share/man/man3/ll2_read_entry.3
+/usr/share/man/man3/ll2_remove_entry.3
+/usr/share/man/man3/ll2_rename_user.3
+/usr/share/man/man3/ll2_update_login_time.3
+/usr/share/man/man3/ll2_write_entry.3

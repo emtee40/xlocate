@@ -1,0 +1,7 @@
+/usr/bin/rime_deployer
+/usr/bin/rime_dict_manager
+/usr/bin/rime_patch
+/usr/bin/rime_table_decompiler
+/usr/lib/librime.so.1 -> /usr/lib/librime.so.1.11.2
+/usr/lib/librime.so.1.11.2
+/usr/share/licenses/librime/LICENSE

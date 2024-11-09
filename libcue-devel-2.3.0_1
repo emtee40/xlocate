@@ -1,0 +1,4 @@
+/usr/include/libcue.h
+/usr/include/libcue/libcue.h -> /usr/include/libcue.h
+/usr/lib/libcue.so -> /usr/lib/libcue.so.2
+/usr/lib/pkgconfig/libcue.pc

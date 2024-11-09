@@ -1,0 +1,11 @@
+/usr/include/Arcus/ArcusExport.h
+/usr/include/Arcus/Error.h
+/usr/include/Arcus/MessageTypeStore.h
+/usr/include/Arcus/Socket.h
+/usr/include/Arcus/SocketListener.h
+/usr/include/Arcus/Types.h
+/usr/lib/cmake/Arcus/Arcus-targets-none.cmake
+/usr/lib/cmake/Arcus/Arcus-targets.cmake
+/usr/lib/cmake/Arcus/ArcusConfig.cmake
+/usr/lib/cmake/Arcus/ArcusConfigVersion.cmake
+/usr/lib/libArcus.so -> /usr/lib/libArcus.so.3

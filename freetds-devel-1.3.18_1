@@ -1,0 +1,17 @@
+/usr/include/bkpublic.h
+/usr/include/cspublic.h
+/usr/include/cstypes.h
+/usr/include/ctpublic.h
+/usr/include/odbcss.h
+/usr/include/sqldb.h
+/usr/include/sqlfront.h
+/usr/include/sybdb.h
+/usr/include/syberror.h
+/usr/include/sybfront.h
+/usr/include/tds_sysdep_public.h
+/usr/lib/libct.a
+/usr/lib/libct.so -> /usr/lib/libct.so.4.0.0
+/usr/lib/libsybdb.a
+/usr/lib/libsybdb.so -> /usr/lib/libsybdb.so.5.1.0
+/usr/lib/libtdsodbc.a
+/usr/lib/libtdsodbc.so -> /usr/lib/libtdsodbc.so.0.0.0

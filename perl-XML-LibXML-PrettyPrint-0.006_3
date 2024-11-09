@@ -1,0 +1,4 @@
+/usr/bin/xml-pretty
+/usr/share/man/man1/xml-pretty.1p
+/usr/share/man/man3/XML::LibXML::PrettyPrint.3p
+/usr/share/perl5/vendor_perl/XML/LibXML/PrettyPrint.pm

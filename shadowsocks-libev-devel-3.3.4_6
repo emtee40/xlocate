@@ -1,0 +1,3 @@
+/usr/include/shadowsocks.h
+/usr/lib/libshadowsocks-libev.a
+/usr/lib/pkgconfig/shadowsocks-libev.pc

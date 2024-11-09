@@ -1,0 +1,7 @@
+/usr/bin/vpn-ws
+/usr/bin/vpn-ws-client
+/usr/share/doc/vpn-ws/README.md
+/usr/share/doc/vpn-ws/ubuntu_trusty_nginx_bridge_client_certificates.md
+/usr/share/examples/vpn-ws/vpn.pl
+/usr/share/examples/vpn-ws/vpn_linux_tornado.py
+/usr/share/licenses/vpn-ws/LICENSE

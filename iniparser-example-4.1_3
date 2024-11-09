@@ -1,0 +1,8 @@
+/usr/share/iniparser/example/Makefile
+/usr/share/iniparser/example/iniexample.c
+/usr/share/iniparser/example/parse.c
+/usr/share/iniparser/example/twisted-errors.ini
+/usr/share/iniparser/example/twisted-genhuge.py
+/usr/share/iniparser/example/twisted-ofkey.ini
+/usr/share/iniparser/example/twisted-ofval.ini
+/usr/share/iniparser/example/twisted.ini

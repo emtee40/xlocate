@@ -1,0 +1,6 @@
+/usr/lib32/libKDb3.so.4 -> /usr/lib32/libKDb3.so.4.2.0
+/usr/lib32/libKDb3.so.4.2.0
+/usr/lib32/qt5/plugins/kdb3/kdb_mysqldriver.so
+/usr/lib32/qt5/plugins/kdb3/kdb_postgresqldriver.so
+/usr/lib32/qt5/plugins/kdb3/kdb_sqlitedriver.so
+/usr/lib32/qt5/plugins/kdb3/sqlite3/kdb_sqlite_icu.so

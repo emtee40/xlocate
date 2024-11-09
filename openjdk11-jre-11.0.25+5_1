@@ -1,0 +1,339 @@
+/usr/lib/jvm/openjdk11/bin/java
+/usr/lib/jvm/openjdk11/bin/jjs
+/usr/lib/jvm/openjdk11/bin/keytool
+/usr/lib/jvm/openjdk11/bin/pack200
+/usr/lib/jvm/openjdk11/bin/rmid
+/usr/lib/jvm/openjdk11/bin/rmiregistry
+/usr/lib/jvm/openjdk11/bin/unpack200
+/usr/lib/jvm/openjdk11/conf/logging.properties
+/usr/lib/jvm/openjdk11/conf/management/jmxremote.access
+/usr/lib/jvm/openjdk11/conf/management/jmxremote.password.template
+/usr/lib/jvm/openjdk11/conf/management/management.properties
+/usr/lib/jvm/openjdk11/conf/net.properties
+/usr/lib/jvm/openjdk11/conf/security/java.policy
+/usr/lib/jvm/openjdk11/conf/security/java.security
+/usr/lib/jvm/openjdk11/conf/security/policy/README.txt
+/usr/lib/jvm/openjdk11/conf/security/policy/limited/default_US_export.policy
+/usr/lib/jvm/openjdk11/conf/security/policy/limited/default_local.policy
+/usr/lib/jvm/openjdk11/conf/security/policy/limited/exempt_local.policy
+/usr/lib/jvm/openjdk11/conf/security/policy/unlimited/default_US_export.policy
+/usr/lib/jvm/openjdk11/conf/security/policy/unlimited/default_local.policy
+/usr/lib/jvm/openjdk11/conf/sound.properties
+/usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.base/aes.md
+/usr/lib/jvm/openjdk11/legal/java.base/asm.md
+/usr/lib/jvm/openjdk11/legal/java.base/c-libutl.md
+/usr/lib/jvm/openjdk11/legal/java.base/cldr.md
+/usr/lib/jvm/openjdk11/legal/java.base/icu.md
+/usr/lib/jvm/openjdk11/legal/java.base/public_suffix.md
+/usr/lib/jvm/openjdk11/legal/java.base/siphash.md
+/usr/lib/jvm/openjdk11/legal/java.base/unicode.md
+/usr/lib/jvm/openjdk11/legal/java.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.compiler/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.datatransfer/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.datatransfer/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.desktop/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.desktop/colorimaging.md
+/usr/lib/jvm/openjdk11/legal/java.desktop/harfbuzz.md
+/usr/lib/jvm/openjdk11/legal/java.desktop/mesa3d.md
+/usr/lib/jvm/openjdk11/legal/java.desktop/xwd.md
+/usr/lib/jvm/openjdk11/legal/java.instrument/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.instrument/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.instrument/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.logging/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.logging/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.logging/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.management.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.management.rmi/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.management/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.naming/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.naming/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.naming/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.net.http/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.net.http/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.net.http/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.prefs/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.prefs/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.prefs/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.rmi/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.scripting/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.scripting/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.scripting/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.se/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.se/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.se/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.security.jgss/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.security.sasl/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.security.sasl/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.smartcardio/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.smartcardio/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.smartcardio/pcsclite.md
+/usr/lib/jvm/openjdk11/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.sql.rowset/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.sql.rowset/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.sql/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.sql/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.sql/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.transaction.xa/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.transaction.xa/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.xml.crypto/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.xml.crypto/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.xml.crypto/santuario.md
+/usr/lib/jvm/openjdk11/legal/java.xml/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/java.xml/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/java.xml/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/java.xml/bcel.md
+/usr/lib/jvm/openjdk11/legal/java.xml/dom.md
+/usr/lib/jvm/openjdk11/legal/java.xml/jcup.md
+/usr/lib/jvm/openjdk11/legal/java.xml/xalan.md
+/usr/lib/jvm/openjdk11/legal/java.xml/xerces.md
+/usr/lib/jvm/openjdk11/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.accessibility/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.accessibility/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.aot/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.aot/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.aot/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.attach/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.attach/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.attach/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.charsets/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.charsets/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.compiler/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.cryptoki/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.cryptoki/pkcs11wrapper.md
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.ec/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.crypto.ec/ecc.md
+/usr/lib/jvm/openjdk11/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.dynalink/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.dynalink/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.dynalink/dynalink.md
+/usr/lib/jvm/openjdk11/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.editpad/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.editpad/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.hotspot.agent/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.httpserver/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.httpserver/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.ed/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.jvmstat/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.le/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.le/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.le/jline.md
+/usr/lib/jvm/openjdk11/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.opt/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.opt/jopt-simple.md
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.ci/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler.management/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.internal.vm.compiler/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jartool/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jartool/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/jquery.md
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/jqueryUI.md
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/jszip.md
+/usr/lib/jvm/openjdk11/legal/jdk.javadoc/pako.md
+/usr/lib/jvm/openjdk11/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jcmd/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jcmd/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jconsole/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jconsole/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jdeps/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jdeps/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jdi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jdi/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jdwp.agent/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jfr/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jlink/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jlink/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jshell/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jshell/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jsobject/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jsobject/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.jstatd/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.jstatd/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.localedata/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.localedata/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.localedata/cldr.md -> /usr/lib/jvm/openjdk11/legal/java.base/cldr.md
+/usr/lib/jvm/openjdk11/legal/jdk.localedata/thaidict.md
+/usr/lib/jvm/openjdk11/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.management.agent/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.management.agent/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.management.jfr/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.management/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.management/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.management/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.naming.dns/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.naming.ldap/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.naming.ldap/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.naming.ldap/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.naming.rmi/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.net/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.net/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.net/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.pack/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.pack/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.pack/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.rmic/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.rmic/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.rmic/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn.shell/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn.shell/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn.shell/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn/double-conversion.md
+/usr/lib/jvm/openjdk11/legal/jdk.scripting.nashorn/joni.md
+/usr/lib/jvm/openjdk11/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.sctp/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.sctp/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.security.auth/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.security.auth/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.security.jgss/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported.desktop/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.unsupported/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.xml.dom/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO -> /usr/lib/jvm/openjdk11/legal/java.base/ADDITIONAL_LICENSE_INFO
+/usr/lib/jvm/openjdk11/legal/jdk.zipfs/ASSEMBLY_EXCEPTION -> /usr/lib/jvm/openjdk11/legal/java.base/ASSEMBLY_EXCEPTION
+/usr/lib/jvm/openjdk11/legal/jdk.zipfs/LICENSE -> /usr/lib/jvm/openjdk11/legal/java.base/LICENSE
+/usr/lib/jvm/openjdk11/lib/classlist
+/usr/lib/jvm/openjdk11/lib/ct.sym
+/usr/lib/jvm/openjdk11/lib/jexec
+/usr/lib/jvm/openjdk11/lib/jfr/default.jfc
+/usr/lib/jvm/openjdk11/lib/jfr/profile.jfc
+/usr/lib/jvm/openjdk11/lib/jli/libjli.so
+/usr/lib/jvm/openjdk11/lib/jrt-fs.jar
+/usr/lib/jvm/openjdk11/lib/jspawnhelper
+/usr/lib/jvm/openjdk11/lib/jvm.cfg
+/usr/lib/jvm/openjdk11/lib/libattach.so
+/usr/lib/jvm/openjdk11/lib/libawt.so
+/usr/lib/jvm/openjdk11/lib/libawt_headless.so
+/usr/lib/jvm/openjdk11/lib/libawt_xawt.so
+/usr/lib/jvm/openjdk11/lib/libdt_socket.so
+/usr/lib/jvm/openjdk11/lib/libextnet.so
+/usr/lib/jvm/openjdk11/lib/libfontmanager.so
+/usr/lib/jvm/openjdk11/lib/libinstrument.so
+/usr/lib/jvm/openjdk11/lib/libj2gss.so
+/usr/lib/jvm/openjdk11/lib/libj2pcsc.so
+/usr/lib/jvm/openjdk11/lib/libj2pkcs11.so
+/usr/lib/jvm/openjdk11/lib/libjaas.so
+/usr/lib/jvm/openjdk11/lib/libjava.so
+/usr/lib/jvm/openjdk11/lib/libjavajpeg.so
+/usr/lib/jvm/openjdk11/lib/libjawt.so
+/usr/lib/jvm/openjdk11/lib/libjdwp.so
+/usr/lib/jvm/openjdk11/lib/libjimage.so
+/usr/lib/jvm/openjdk11/lib/libjsig.so
+/usr/lib/jvm/openjdk11/lib/libjsound.so
+/usr/lib/jvm/openjdk11/lib/liblcms.so
+/usr/lib/jvm/openjdk11/lib/libmanagement.so
+/usr/lib/jvm/openjdk11/lib/libmanagement_agent.so
+/usr/lib/jvm/openjdk11/lib/libmanagement_ext.so
+/usr/lib/jvm/openjdk11/lib/libmlib_image.so
+/usr/lib/jvm/openjdk11/lib/libnet.so
+/usr/lib/jvm/openjdk11/lib/libnio.so
+/usr/lib/jvm/openjdk11/lib/libprefs.so
+/usr/lib/jvm/openjdk11/lib/librmi.so
+/usr/lib/jvm/openjdk11/lib/libsaproc.so
+/usr/lib/jvm/openjdk11/lib/libsctp.so
+/usr/lib/jvm/openjdk11/lib/libsplashscreen.so
+/usr/lib/jvm/openjdk11/lib/libsunec.so
+/usr/lib/jvm/openjdk11/lib/libunpack.so
+/usr/lib/jvm/openjdk11/lib/libverify.so
+/usr/lib/jvm/openjdk11/lib/libzip.so
+/usr/lib/jvm/openjdk11/lib/modules
+/usr/lib/jvm/openjdk11/lib/psfont.properties.ja
+/usr/lib/jvm/openjdk11/lib/psfontj2d.properties
+/usr/lib/jvm/openjdk11/lib/security/blocked.certs
+/usr/lib/jvm/openjdk11/lib/security/cacerts
+/usr/lib/jvm/openjdk11/lib/security/default.policy
+/usr/lib/jvm/openjdk11/lib/security/public_suffix_list.dat
+/usr/lib/jvm/openjdk11/lib/server/Xusage.txt
+/usr/lib/jvm/openjdk11/lib/server/libjsig.so
+/usr/lib/jvm/openjdk11/lib/server/libjvm.so
+/usr/lib/jvm/openjdk11/lib/tzdb.dat
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/java.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/jjs.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/keytool.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/pack200.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/rmid.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/rmiregistry.1
+/usr/lib/jvm/openjdk11/man/ja_JP.UTF-8/man1/unpack200.1
+/usr/lib/jvm/openjdk11/man/man1/java.1
+/usr/lib/jvm/openjdk11/man/man1/jjs.1
+/usr/lib/jvm/openjdk11/man/man1/keytool.1
+/usr/lib/jvm/openjdk11/man/man1/pack200.1
+/usr/lib/jvm/openjdk11/man/man1/rmid.1
+/usr/lib/jvm/openjdk11/man/man1/rmiregistry.1
+/usr/lib/jvm/openjdk11/man/man1/unpack200.1
+/usr/lib/jvm/openjdk11/release
+/usr/share/licenses/openjdk11-jre/ASSEMBLY_EXCEPTION
+/usr/share/licenses/openjdk11-jre/LICENSE

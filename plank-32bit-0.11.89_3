@@ -1,0 +1,9 @@
+/usr/lib32/libplank.so.1 -> /usr/lib32/libplank.so.1.0.0
+/usr/lib32/libplank.so.1.0.0
+/usr/lib32/plank/docklets/libdocklet-applications.so
+/usr/lib32/plank/docklets/libdocklet-battery.so
+/usr/lib32/plank/docklets/libdocklet-clippy.so
+/usr/lib32/plank/docklets/libdocklet-clock.so
+/usr/lib32/plank/docklets/libdocklet-cpumonitor.so
+/usr/lib32/plank/docklets/libdocklet-desktop.so
+/usr/lib32/plank/docklets/libdocklet-trash.so

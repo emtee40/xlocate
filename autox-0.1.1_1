@@ -1,0 +1,5 @@
+/etc/pam.d/autox
+/etc/sv/autox/run
+/etc/sv/autox/supervise -> /run/runit/supervise.autox
+/usr/bin/autox
+/usr/share/licenses/autox/LICENSE

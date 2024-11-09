@@ -1,0 +1,2 @@
+/usr/lib/udev/hwdb.d/20-gphoto.hwdb
+/usr/lib/udev/rules.d/40-gphoto.rules

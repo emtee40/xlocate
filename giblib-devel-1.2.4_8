@@ -1,0 +1,14 @@
+/usr/bin/giblib-config
+/usr/include/giblib/gib_btree.h
+/usr/include/giblib/gib_debug.h
+/usr/include/giblib/gib_hash.h
+/usr/include/giblib/gib_imlib.h
+/usr/include/giblib/gib_list.h
+/usr/include/giblib/gib_queue.h
+/usr/include/giblib/gib_stack.h
+/usr/include/giblib/gib_style.h
+/usr/include/giblib/gib_utils.h
+/usr/include/giblib/giblib.h
+/usr/include/giblib/giblib_config.h
+/usr/lib/libgiblib.so -> /usr/lib/libgiblib.so.1.0.6
+/usr/lib/pkgconfig/giblib.pc

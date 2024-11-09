@@ -1,0 +1,4 @@
+/usr/lib32/libasound.so -> /usr/lib32/libasound.so.2.0.0
+/usr/lib32/libatopology.so -> /usr/lib32/libatopology.so.2.0.0
+/usr/lib32/pkgconfig/alsa-topology.pc
+/usr/lib32/pkgconfig/alsa.pc

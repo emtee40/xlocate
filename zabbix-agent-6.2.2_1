@@ -1,0 +1,5 @@
+/etc/sv/zabbix-agent/run
+/etc/sv/zabbix-agent/supervise -> /run/runit/supervise.zabbix-agent
+/etc/zabbix_agentd.conf
+/usr/bin/zabbix_agentd
+/usr/share/man/man8/zabbix_agentd.8

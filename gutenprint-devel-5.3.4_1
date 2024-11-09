@@ -1,0 +1,27 @@
+/usr/include/gutenprint/array.h
+/usr/include/gutenprint/bit-ops.h
+/usr/include/gutenprint/channel.h
+/usr/include/gutenprint/color.h
+/usr/include/gutenprint/curve-cache.h
+/usr/include/gutenprint/curve.h
+/usr/include/gutenprint/dither.h
+/usr/include/gutenprint/gutenprint-module.h
+/usr/include/gutenprint/gutenprint-version.h
+/usr/include/gutenprint/gutenprint.h
+/usr/include/gutenprint/image.h
+/usr/include/gutenprint/list.h
+/usr/include/gutenprint/module.h
+/usr/include/gutenprint/mxml.h
+/usr/include/gutenprint/paper.h
+/usr/include/gutenprint/path.h
+/usr/include/gutenprint/printers.h
+/usr/include/gutenprint/refcache.h
+/usr/include/gutenprint/sequence.h
+/usr/include/gutenprint/string-list.h
+/usr/include/gutenprint/types.h
+/usr/include/gutenprint/util.h
+/usr/include/gutenprint/vars.h
+/usr/include/gutenprint/weave.h
+/usr/include/gutenprint/xml.h
+/usr/lib/libgutenprint.so -> /usr/lib/libgutenprint.so.9.5.0
+/usr/lib/pkgconfig/gutenprint.pc

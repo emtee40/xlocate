@@ -1,0 +1,78 @@
+/usr/lib/libRtfReader.so -> /usr/lib/libRtfReader.so.17
+/usr/lib/libRtfReader.so.17 -> /usr/lib/libRtfReader.so.17.0.0
+/usr/lib/libRtfReader.so.17.0.0
+/usr/lib/libkomsooxml.so -> /usr/lib/libkomsooxml.so.17
+/usr/lib/libkomsooxml.so.17 -> /usr/lib/libkomsooxml.so.17.0.0
+/usr/lib/libkomsooxml.so.17.0.0
+/usr/lib/libkoodf2.so -> /usr/lib/libkoodf2.so.17
+/usr/lib/libkoodf2.so.17 -> /usr/lib/libkoodf2.so.17.0.0
+/usr/lib/libkoodf2.so.17.0.0
+/usr/lib/libkoodfreader.so -> /usr/lib/libkoodfreader.so.17
+/usr/lib/libkoodfreader.so.17 -> /usr/lib/libkoodfreader.so.17.0.0
+/usr/lib/libkoodfreader.so.17.0.0
+/usr/lib/libkowv2.so -> /usr/lib/libkowv2.so.9
+/usr/lib/libkowv2.so.9 -> /usr/lib/libkowv2.so.9.0.0
+/usr/lib/libkowv2.so.9.0.0
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_applixspread2kspread.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_applixword2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_ascii2words.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_csv2sheets.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_dbase2kspread.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_doc2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_docx2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_eps2svgai.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_gnumeric2sheets.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_html2ods.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_karbon1x2karbon.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_karbon2image.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_karbon2svg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_karbon2wmf.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_key2odp.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_kpr2odp.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_kspread2tex.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2ascii.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2docx.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2epub2.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2html.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2mobi.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_odt2wiki.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_opencalc2sheets.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_pdf2odg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_pdf2svg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_ppt2odp.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_pptx2odp.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_qpro2sheets.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_rtf2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_sheets2csv.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_sheets2gnumeric.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_sheets2html.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_sheets2opencalc.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_svg2karbon.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_vsdx2odg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_wmf2svg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_wpd2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_wpg2odg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_wpg2svg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_wps2odt.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_xfig2odg.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_xls2ods.so
+/usr/lib/qt5/plugins/calligra/formatfilters/calligra_filter_xlsx2ods.so
+/usr/share/applications/org.kde.calligrawords_ascii.desktop
+/usr/share/kservices5/flow_vsdx_thumbnail.desktop
+/usr/share/kservices5/flow_wpg_thumbnail.desktop
+/usr/share/kservices5/karbon_karbon1x_thumbnail.desktop
+/usr/share/kservices5/karbon_wmf_thumbnail.desktop
+/usr/share/kservices5/karbon_wpg_thumbnail.desktop
+/usr/share/kservices5/karbon_xfig_thumbnail.desktop
+/usr/share/kservices5/sheets_excel_thumbnail.desktop
+/usr/share/kservices5/sheets_xlsx_thumbnail.desktop
+/usr/share/kservices5/stage_key_thumbnail.desktop
+/usr/share/kservices5/stage_kpr_thumbnail.desktop
+/usr/share/kservices5/stage_powerpoint_thumbnail.desktop
+/usr/share/kservices5/stage_pptx_thumbnail.desktop
+/usr/share/kservices5/words_docx_thumbnail.desktop
+/usr/share/kservices5/words_msword_thumbnail.desktop
+/usr/share/kservices5/words_rtf_thumbnail.desktop
+/usr/share/kservices5/words_wpd_thumbnail.desktop
+/usr/share/kservices5/words_wps_thumbnail.desktop
+/usr/share/mime/packages/wiki-format.xml

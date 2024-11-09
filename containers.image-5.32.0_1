@@ -1,0 +1,11 @@
+/etc/containers/policy.json
+/etc/containers/registries.conf
+/usr/share/man/man5/containers-auth.json.5
+/usr/share/man/man5/containers-certs.d.5
+/usr/share/man/man5/containers-policy.json.5
+/usr/share/man/man5/containers-registries.conf.5
+/usr/share/man/man5/containers-registries.conf.d.5
+/usr/share/man/man5/containers-registries.d.5
+/usr/share/man/man5/containers-signature.5
+/usr/share/man/man5/containers-sigstore-signing-params.yaml.5
+/usr/share/man/man5/containers-transports.5

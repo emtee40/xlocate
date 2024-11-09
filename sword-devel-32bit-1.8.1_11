@@ -1,0 +1,3 @@
+/usr/lib32/libsword.a
+/usr/lib32/libsword.so -> /usr/lib32/libsword-1.8.1.so
+/usr/lib32/pkgconfig/sword.pc

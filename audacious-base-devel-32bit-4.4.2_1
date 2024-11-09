@@ -1,0 +1,4 @@
+/usr/lib32/libaudcore.so -> /usr/lib32/libaudcore.so.5
+/usr/lib32/libaudqt.so -> /usr/lib32/libaudqt.so.3
+/usr/lib32/libaudtag.so -> /usr/lib32/libaudtag.so.3
+/usr/lib32/pkgconfig/audacious.pc

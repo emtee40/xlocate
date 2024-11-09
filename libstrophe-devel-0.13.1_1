@@ -1,0 +1,4 @@
+/usr/include/strophe.h
+/usr/lib/libstrophe.a
+/usr/lib/libstrophe.so -> /usr/lib/libstrophe.so.0.13.1
+/usr/lib/pkgconfig/libstrophe.pc

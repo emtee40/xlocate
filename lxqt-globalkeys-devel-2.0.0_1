@@ -1,0 +1,22 @@
+/usr/include/lxqt-globalkeys-ui/LXQtGlobalKeysUi/ShortcutSelector
+/usr/include/lxqt-globalkeys-ui/shortcut_selector.h
+/usr/include/lxqt-globalkeys-ui/shortcutselector.h
+/usr/include/lxqt-globalkeys/LXQtGlobalKeys/Action
+/usr/include/lxqt-globalkeys/LXQtGlobalKeys/Client
+/usr/include/lxqt-globalkeys/LXQtGlobalKeys/LXQtGlobalKeys
+/usr/include/lxqt-globalkeys/action.h
+/usr/include/lxqt-globalkeys/client.h
+/usr/include/lxqt-globalkeys/lxqt-globalkeys.h
+/usr/include/lxqt-globalkeys/lxqtglobalkeys.h
+/usr/lib/liblxqt-globalkeys-ui.so -> /usr/lib/liblxqt-globalkeys-ui.so.2
+/usr/lib/liblxqt-globalkeys.so -> /usr/lib/liblxqt-globalkeys.so.2
+/usr/lib/pkgconfig/lxqt-globalkeys-ui.pc
+/usr/lib/pkgconfig/lxqt-globalkeys.pc
+/usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-config-version.cmake
+/usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-config.cmake
+/usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-targets-none.cmake
+/usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-targets.cmake
+/usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-config-version.cmake
+/usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-config.cmake
+/usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-targets-none.cmake
+/usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-targets.cmake

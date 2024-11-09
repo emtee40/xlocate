@@ -1,0 +1,12 @@
+/usr/lib32/libzzip-0.so -> /usr/lib32/libzzip-0.so.13
+/usr/lib32/libzzip.so -> /usr/lib32/libzzip-0.so.13.0.76
+/usr/lib32/libzzipfseeko-0.so -> /usr/lib32/libzzipfseeko-0.so.13
+/usr/lib32/libzzipfseeko.so -> /usr/lib32/libzzipfseeko-0.so.13.0.76
+/usr/lib32/libzzipmmapped-0.so -> /usr/lib32/libzzipmmapped-0.so.13
+/usr/lib32/libzzipmmapped.so -> /usr/lib32/libzzipmmapped-0.so.13.0.76
+/usr/lib32/libzzipwrap-0.so -> /usr/lib32/libzzipwrap-0.so.13
+/usr/lib32/libzzipwrap.so -> /usr/lib32/libzzipwrap-0.so.13.0.76
+/usr/lib32/pkgconfig/zzipfseeko.pc
+/usr/lib32/pkgconfig/zziplib.pc
+/usr/lib32/pkgconfig/zzipmmapped.pc
+/usr/lib32/pkgconfig/zzipwrap.pc

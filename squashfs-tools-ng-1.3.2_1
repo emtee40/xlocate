@@ -1,0 +1,12 @@
+/usr/bin/gensquashfs
+/usr/bin/rdsquashfs
+/usr/bin/sqfs2tar
+/usr/bin/sqfsdiff
+/usr/bin/tar2sqfs
+/usr/lib/libsquashfs.so.1 -> /usr/lib/libsquashfs.so.1.4.1
+/usr/lib/libsquashfs.so.1.4.1
+/usr/share/man/man1/gensquashfs.1
+/usr/share/man/man1/rdsquashfs.1
+/usr/share/man/man1/sqfs2tar.1
+/usr/share/man/man1/sqfsdiff.1
+/usr/share/man/man1/tar2sqfs.1

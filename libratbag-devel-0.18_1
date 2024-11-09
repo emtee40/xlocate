@@ -1,0 +1,3 @@
+/usr/include/liblur.h
+/usr/lib/liblur.so -> /usr/lib/liblur.so.3
+/usr/lib/pkgconfig/liblur.pc

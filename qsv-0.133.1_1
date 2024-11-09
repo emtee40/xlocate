@@ -1,0 +1,4 @@
+/usr/bin/qsv
+/usr/share/bash-completion/completions/qsv
+/usr/share/fish/vendor_completions.d/qsv.fish
+/usr/share/zsh/site-functions/_qsv

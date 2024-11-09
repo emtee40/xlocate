@@ -1,0 +1,3 @@
+/usr/lib32/libx265.a
+/usr/lib32/libx265.so -> /usr/lib32/libx265.so.209
+/usr/lib32/pkgconfig/x265.pc

@@ -1,0 +1,4 @@
+/usr/lib32/libfrr.a
+/usr/lib32/libfrr.so -> /usr/lib32/libfrr.so.0.0.0
+/usr/lib32/libfrrcares.a
+/usr/lib32/libfrrcares.so -> /usr/lib32/libfrrcares.so.0.0.0

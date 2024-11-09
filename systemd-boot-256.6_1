@@ -1,0 +1,9 @@
+/etc/default/systemd-boot
+/etc/kernel.d/post-install/50-systemd-boot
+/etc/kernel.d/post-remove/50-systemd-boot
+/usr/bin/bootctl
+/usr/lib/systemd/boot/efi/systemd-bootx64.efi
+/usr/lib/systemd/systemd-bless-boot
+/usr/share/man/man1/bootctl.1
+/usr/share/man/man7/sd-boot.7
+/usr/share/man/man7/systemd-boot.7

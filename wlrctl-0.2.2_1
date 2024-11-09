@@ -1,0 +1,4 @@
+/usr/bin/wlrctl
+/usr/share/licenses/wlrctl/LICENSE
+/usr/share/man/man1/wlrctl.1
+/usr/share/zsh/site-functions/_wlrctl

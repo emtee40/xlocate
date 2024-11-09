@@ -1,0 +1,7 @@
+/usr/include/anthy-unicode-1.0/anthy/anthy.h
+/usr/include/anthy-unicode-1.0/anthy/dicutil.h
+/usr/include/anthy-unicode-1.0/anthy/input.h
+/usr/lib/libanthy-unicode.so -> /usr/lib/libanthy-unicode.so.0.1.0
+/usr/lib/libanthydic-unicode.so -> /usr/lib/libanthydic-unicode.so.0.1.0
+/usr/lib/libanthyinput-unicode.so -> /usr/lib/libanthyinput-unicode.so.0.0.0
+/usr/lib/pkgconfig/anthy-unicode.pc

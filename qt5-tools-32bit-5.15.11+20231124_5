@@ -1,0 +1,10 @@
+/usr/lib32/libQt5Designer.so.5 -> /usr/lib32/libQt5Designer.so.5.15.11
+/usr/lib32/libQt5Designer.so.5.15 -> /usr/lib32/libQt5Designer.so.5.15.11
+/usr/lib32/libQt5Designer.so.5.15.11
+/usr/lib32/libQt5DesignerComponents.so.5 -> /usr/lib32/libQt5DesignerComponents.so.5.15.11
+/usr/lib32/libQt5DesignerComponents.so.5.15 -> /usr/lib32/libQt5DesignerComponents.so.5.15.11
+/usr/lib32/libQt5DesignerComponents.so.5.15.11
+/usr/lib32/libQt5Help.so.5 -> /usr/lib32/libQt5Help.so.5.15.11
+/usr/lib32/libQt5Help.so.5.15 -> /usr/lib32/libQt5Help.so.5.15.11
+/usr/lib32/libQt5Help.so.5.15.11
+/usr/lib32/qt5/plugins/designer/libqquickwidget.so

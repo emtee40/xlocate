@@ -1,0 +1,7 @@
+/usr/lib32/krb5/plugins/kdb/db2.so
+/usr/lib32/krb5/plugins/kdb/kldap.so
+/usr/lib32/krb5/plugins/preauth/otp.so
+/usr/lib32/krb5/plugins/preauth/pkinit.so
+/usr/lib32/krb5/plugins/preauth/spake.so
+/usr/lib32/krb5/plugins/preauth/test.so
+/usr/lib32/krb5/plugins/tls/k5tls.so

@@ -1,0 +1,4 @@
+/usr/include/mspack.h
+/usr/lib/libmspack.a
+/usr/lib/libmspack.so -> /usr/lib/libmspack.so.0.1.0
+/usr/lib/pkgconfig/libmspack.pc

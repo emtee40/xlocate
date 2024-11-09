@@ -1,0 +1,6 @@
+/usr/lib32/libmutter-14.so -> /usr/lib32/libmutter-14.so.0
+/usr/lib32/pkgconfig/libmutter-14.pc
+/usr/lib32/pkgconfig/mutter-clutter-14.pc
+/usr/lib32/pkgconfig/mutter-cogl-14.pc
+/usr/lib32/pkgconfig/mutter-cogl-pango-14.pc
+/usr/lib32/pkgconfig/mutter-mtk-14.pc

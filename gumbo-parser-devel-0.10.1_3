@@ -1,0 +1,5 @@
+/usr/include/gumbo.h
+/usr/include/tag_enum.h
+/usr/lib/libgumbo.a
+/usr/lib/libgumbo.so -> /usr/lib/libgumbo.so.1.0.0
+/usr/lib/pkgconfig/gumbo.pc

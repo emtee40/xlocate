@@ -1,0 +1,8 @@
+/usr/lib32/colord-plugins/libcolord_sensor_camera.so
+/usr/lib32/colord-plugins/libcolord_sensor_sane.so
+/usr/lib32/colord-plugins/libcolord_sensor_scanner.so
+/usr/lib32/colord-sensors/libcolord_sensor_argyll.so
+/usr/lib32/colord-sensors/libcolord_sensor_colorhug.so
+/usr/lib32/colord-sensors/libcolord_sensor_dtp94.so
+/usr/lib32/colord-sensors/libcolord_sensor_dummy.so
+/usr/lib32/colord-sensors/libcolord_sensor_huey.so

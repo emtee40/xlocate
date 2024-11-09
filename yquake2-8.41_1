@@ -1,0 +1,11 @@
+/usr/bin/yquake2 -> /usr/lib/yquake2/yquake2
+/usr/bin/yquake2-q2ded
+/usr/lib/yquake2/baseq2/game.so
+/usr/lib/yquake2/ref_gl1.so
+/usr/lib/yquake2/ref_gl3.so
+/usr/lib/yquake2/yquake2
+/usr/share/applications/yquake2.desktop
+/usr/share/doc/yquake2/README.voidlinux
+/usr/share/doc/yquake2/yq2.cfg
+/usr/share/games/quake2/.emptydir
+/usr/share/pixmaps/yquake2.png

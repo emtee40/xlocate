@@ -1,0 +1,5 @@
+/usr/lib32/librpm.so -> /usr/lib32/librpm.so.9.4.0
+/usr/lib32/librpmbuild.so -> /usr/lib32/librpmbuild.so.9.4.0
+/usr/lib32/librpmio.so -> /usr/lib32/librpmio.so.9.4.0
+/usr/lib32/librpmsign.so -> /usr/lib32/librpmsign.so.9.4.0
+/usr/lib32/pkgconfig/rpm.pc

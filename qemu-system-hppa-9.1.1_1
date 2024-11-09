@@ -1,0 +1,3 @@
+/usr/bin/qemu-system-hppa
+/usr/share/qemu/hppa-firmware.img
+/usr/share/qemu/hppa-firmware64.img

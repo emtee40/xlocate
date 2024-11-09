@@ -1,0 +1,15 @@
+/usr/bin/tiffcp
+/usr/bin/tiffdump
+/usr/bin/tiffinfo
+/usr/bin/tiffset
+/usr/bin/tiffsplit
+/usr/lib/libtiff.so.6 -> /usr/lib/libtiff.so.6.0.2
+/usr/lib/libtiff.so.6.0.2
+/usr/lib/libtiffxx.so.6 -> /usr/lib/libtiffxx.so.6.0.2
+/usr/lib/libtiffxx.so.6.0.2
+/usr/share/licenses/tiff/LICENSE.md
+/usr/share/man/man1/tiffcp.1
+/usr/share/man/man1/tiffdump.1
+/usr/share/man/man1/tiffinfo.1
+/usr/share/man/man1/tiffset.1
+/usr/share/man/man1/tiffsplit.1

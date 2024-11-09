@@ -1,0 +1,7 @@
+/usr/include/basu/_sd-common.h
+/usr/include/basu/sd-bus-protocol.h
+/usr/include/basu/sd-bus-vtable.h
+/usr/include/basu/sd-bus.h
+/usr/include/basu/sd-id128.h
+/usr/lib/libbasu.so -> /usr/lib/libbasu.so.0
+/usr/lib/pkgconfig/basu.pc

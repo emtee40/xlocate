@@ -1,0 +1,3 @@
+/usr/bin/qemu-s390x
+/usr/bin/qemu-s390x-static -> /usr/bin/qemu-s390x
+/usr/share/binfmts/qemu-s390x

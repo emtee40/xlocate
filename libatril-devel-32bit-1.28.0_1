@@ -1,0 +1,4 @@
+/usr/lib32/libatrildocument.so -> /usr/lib32/libatrildocument.so.3.0.0
+/usr/lib32/libatrilview.so -> /usr/lib32/libatrilview.so.3.0.0
+/usr/lib32/pkgconfig/atril-document-1.5.0.pc
+/usr/lib32/pkgconfig/atril-view-1.5.0.pc

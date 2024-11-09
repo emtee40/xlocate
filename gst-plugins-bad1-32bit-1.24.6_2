@@ -1,0 +1,167 @@
+/usr/lib32/gstreamer-1.0/libgstaccurip.so
+/usr/lib32/gstreamer-1.0/libgstadpcmdec.so
+/usr/lib32/gstreamer-1.0/libgstadpcmenc.so
+/usr/lib32/gstreamer-1.0/libgstaes.so
+/usr/lib32/gstreamer-1.0/libgstaiff.so
+/usr/lib32/gstreamer-1.0/libgstanalyticsoverlay.so
+/usr/lib32/gstreamer-1.0/libgstaom.so
+/usr/lib32/gstreamer-1.0/libgstasfmux.so
+/usr/lib32/gstreamer-1.0/libgstassrender.so
+/usr/lib32/gstreamer-1.0/libgstaudiobuffersplit.so
+/usr/lib32/gstreamer-1.0/libgstaudiofxbad.so
+/usr/lib32/gstreamer-1.0/libgstaudiolatency.so
+/usr/lib32/gstreamer-1.0/libgstaudiomixmatrix.so
+/usr/lib32/gstreamer-1.0/libgstaudiovisualizers.so
+/usr/lib32/gstreamer-1.0/libgstautoconvert.so
+/usr/lib32/gstreamer-1.0/libgstbayer.so
+/usr/lib32/gstreamer-1.0/libgstbluez.so
+/usr/lib32/gstreamer-1.0/libgstbs2b.so
+/usr/lib32/gstreamer-1.0/libgstbz2.so
+/usr/lib32/gstreamer-1.0/libgstcamerabin.so
+/usr/lib32/gstreamer-1.0/libgstchromaprint.so
+/usr/lib32/gstreamer-1.0/libgstclosedcaption.so
+/usr/lib32/gstreamer-1.0/libgstcodec2json.so
+/usr/lib32/gstreamer-1.0/libgstcodecalpha.so
+/usr/lib32/gstreamer-1.0/libgstcodectimestamper.so
+/usr/lib32/gstreamer-1.0/libgstcoloreffects.so
+/usr/lib32/gstreamer-1.0/libgstcolormanagement.so
+/usr/lib32/gstreamer-1.0/libgstcurl.so
+/usr/lib32/gstreamer-1.0/libgstdash.so
+/usr/lib32/gstreamer-1.0/libgstdebugutilsbad.so
+/usr/lib32/gstreamer-1.0/libgstdecklink.so
+/usr/lib32/gstreamer-1.0/libgstdtls.so
+/usr/lib32/gstreamer-1.0/libgstdvb.so
+/usr/lib32/gstreamer-1.0/libgstdvbsubenc.so
+/usr/lib32/gstreamer-1.0/libgstdvbsuboverlay.so
+/usr/lib32/gstreamer-1.0/libgstdvdspu.so
+/usr/lib32/gstreamer-1.0/libgstfaac.so
+/usr/lib32/gstreamer-1.0/libgstfaceoverlay.so
+/usr/lib32/gstreamer-1.0/libgstfbdevsink.so
+/usr/lib32/gstreamer-1.0/libgstfdkaac.so
+/usr/lib32/gstreamer-1.0/libgstfestival.so
+/usr/lib32/gstreamer-1.0/libgstfieldanalysis.so
+/usr/lib32/gstreamer-1.0/libgstflite.so
+/usr/lib32/gstreamer-1.0/libgstfluidsynthmidi.so
+/usr/lib32/gstreamer-1.0/libgstfreeverb.so
+/usr/lib32/gstreamer-1.0/libgstfrei0r.so
+/usr/lib32/gstreamer-1.0/libgstgaudieffects.so
+/usr/lib32/gstreamer-1.0/libgstgdp.so
+/usr/lib32/gstreamer-1.0/libgstgeometrictransform.so
+/usr/lib32/gstreamer-1.0/libgstgme.so
+/usr/lib32/gstreamer-1.0/libgstgsm.so
+/usr/lib32/gstreamer-1.0/libgstgtkwayland.so
+/usr/lib32/gstreamer-1.0/libgsthls.so
+/usr/lib32/gstreamer-1.0/libgstid3tag.so
+/usr/lib32/gstreamer-1.0/libgstinsertbin.so
+/usr/lib32/gstreamer-1.0/libgstinter.so
+/usr/lib32/gstreamer-1.0/libgstinterlace.so
+/usr/lib32/gstreamer-1.0/libgstipcpipeline.so
+/usr/lib32/gstreamer-1.0/libgstisac.so
+/usr/lib32/gstreamer-1.0/libgstivfparse.so
+/usr/lib32/gstreamer-1.0/libgstivtc.so
+/usr/lib32/gstreamer-1.0/libgstjp2kdecimator.so
+/usr/lib32/gstreamer-1.0/libgstjpegformat.so
+/usr/lib32/gstreamer-1.0/libgstkms.so
+/usr/lib32/gstreamer-1.0/libgstladspa.so
+/usr/lib32/gstreamer-1.0/libgstlegacyrawparse.so
+/usr/lib32/gstreamer-1.0/libgstlv2.so
+/usr/lib32/gstreamer-1.0/libgstmidi.so
+/usr/lib32/gstreamer-1.0/libgstmodplug.so
+/usr/lib32/gstreamer-1.0/libgstmpegpsdemux.so
+/usr/lib32/gstreamer-1.0/libgstmpegpsmux.so
+/usr/lib32/gstreamer-1.0/libgstmpegtsdemux.so
+/usr/lib32/gstreamer-1.0/libgstmpegtsmux.so
+/usr/lib32/gstreamer-1.0/libgstmse.so
+/usr/lib32/gstreamer-1.0/libgstmxf.so
+/usr/lib32/gstreamer-1.0/libgstnetsim.so
+/usr/lib32/gstreamer-1.0/libgstopenal.so
+/usr/lib32/gstreamer-1.0/libgstopenjpeg.so
+/usr/lib32/gstreamer-1.0/libgstopusparse.so
+/usr/lib32/gstreamer-1.0/libgstpcapparse.so
+/usr/lib32/gstreamer-1.0/libgstpnm.so
+/usr/lib32/gstreamer-1.0/libgstproxy.so
+/usr/lib32/gstreamer-1.0/libgstqsv.so
+/usr/lib32/gstreamer-1.0/libgstremovesilence.so
+/usr/lib32/gstreamer-1.0/libgstrfbsrc.so
+/usr/lib32/gstreamer-1.0/libgstrist.so
+/usr/lib32/gstreamer-1.0/libgstrsvg.so
+/usr/lib32/gstreamer-1.0/libgstrtmp.so
+/usr/lib32/gstreamer-1.0/libgstrtmp2.so
+/usr/lib32/gstreamer-1.0/libgstrtpmanagerbad.so
+/usr/lib32/gstreamer-1.0/libgstrtponvif.so
+/usr/lib32/gstreamer-1.0/libgstsbc.so
+/usr/lib32/gstreamer-1.0/libgstsdpelem.so
+/usr/lib32/gstreamer-1.0/libgstsegmentclip.so
+/usr/lib32/gstreamer-1.0/libgstshm.so
+/usr/lib32/gstreamer-1.0/libgstsiren.so
+/usr/lib32/gstreamer-1.0/libgstsmooth.so
+/usr/lib32/gstreamer-1.0/libgstsmoothstreaming.so
+/usr/lib32/gstreamer-1.0/libgstsndfile.so
+/usr/lib32/gstreamer-1.0/libgstsoundtouch.so
+/usr/lib32/gstreamer-1.0/libgstspandsp.so
+/usr/lib32/gstreamer-1.0/libgstspeed.so
+/usr/lib32/gstreamer-1.0/libgstsrtp.so
+/usr/lib32/gstreamer-1.0/libgstsubenc.so
+/usr/lib32/gstreamer-1.0/libgstswitchbin.so
+/usr/lib32/gstreamer-1.0/libgsttimecode.so
+/usr/lib32/gstreamer-1.0/libgsttranscode.so
+/usr/lib32/gstreamer-1.0/libgstttmlsubs.so
+/usr/lib32/gstreamer-1.0/libgstunixfd.so
+/usr/lib32/gstreamer-1.0/libgstuvcgadget.so
+/usr/lib32/gstreamer-1.0/libgstuvch264.so
+/usr/lib32/gstreamer-1.0/libgstv4l2codecs.so
+/usr/lib32/gstreamer-1.0/libgstva.so
+/usr/lib32/gstreamer-1.0/libgstvideofiltersbad.so
+/usr/lib32/gstreamer-1.0/libgstvideoframe_audiolevel.so
+/usr/lib32/gstreamer-1.0/libgstvideoparsersbad.so
+/usr/lib32/gstreamer-1.0/libgstvideosignal.so
+/usr/lib32/gstreamer-1.0/libgstvmnc.so
+/usr/lib32/gstreamer-1.0/libgstwaylandsink.so
+/usr/lib32/gstreamer-1.0/libgstwebp.so
+/usr/lib32/gstreamer-1.0/libgstwebrtc.so
+/usr/lib32/gstreamer-1.0/libgstwebrtcdsp.so
+/usr/lib32/gstreamer-1.0/libgsty4mdec.so
+/usr/lib32/gstreamer-1.0/libgstzbar.so
+/usr/lib32/libgstadaptivedemux-1.0.so.0 -> /usr/lib32/libgstadaptivedemux-1.0.so.0.2406.0
+/usr/lib32/libgstadaptivedemux-1.0.so.0.2406.0
+/usr/lib32/libgstanalytics-1.0.so.0 -> /usr/lib32/libgstanalytics-1.0.so.0.2406.0
+/usr/lib32/libgstanalytics-1.0.so.0.2406.0
+/usr/lib32/libgstbadaudio-1.0.so.0 -> /usr/lib32/libgstbadaudio-1.0.so.0.2406.0
+/usr/lib32/libgstbadaudio-1.0.so.0.2406.0
+/usr/lib32/libgstbasecamerabinsrc-1.0.so.0 -> /usr/lib32/libgstbasecamerabinsrc-1.0.so.0.2406.0
+/usr/lib32/libgstbasecamerabinsrc-1.0.so.0.2406.0
+/usr/lib32/libgstcodecparsers-1.0.so.0 -> /usr/lib32/libgstcodecparsers-1.0.so.0.2406.0
+/usr/lib32/libgstcodecparsers-1.0.so.0.2406.0
+/usr/lib32/libgstcodecs-1.0.so.0 -> /usr/lib32/libgstcodecs-1.0.so.0.2406.0
+/usr/lib32/libgstcodecs-1.0.so.0.2406.0
+/usr/lib32/libgstcuda-1.0.so.0 -> /usr/lib32/libgstcuda-1.0.so.0.2406.0
+/usr/lib32/libgstcuda-1.0.so.0.2406.0
+/usr/lib32/libgstdxva-1.0.so.0 -> /usr/lib32/libgstdxva-1.0.so.0.2406.0
+/usr/lib32/libgstdxva-1.0.so.0.2406.0
+/usr/lib32/libgstinsertbin-1.0.so.0 -> /usr/lib32/libgstinsertbin-1.0.so.0.2406.0
+/usr/lib32/libgstinsertbin-1.0.so.0.2406.0
+/usr/lib32/libgstisoff-1.0.so.0 -> /usr/lib32/libgstisoff-1.0.so.0.2406.0
+/usr/lib32/libgstisoff-1.0.so.0.2406.0
+/usr/lib32/libgstmpegts-1.0.so.0 -> /usr/lib32/libgstmpegts-1.0.so.0.2406.0
+/usr/lib32/libgstmpegts-1.0.so.0.2406.0
+/usr/lib32/libgstmse-1.0.so.0 -> /usr/lib32/libgstmse-1.0.so.0.2406.0
+/usr/lib32/libgstmse-1.0.so.0.2406.0
+/usr/lib32/libgstphotography-1.0.so.0 -> /usr/lib32/libgstphotography-1.0.so.0.2406.0
+/usr/lib32/libgstphotography-1.0.so.0.2406.0
+/usr/lib32/libgstplay-1.0.so.0 -> /usr/lib32/libgstplay-1.0.so.0.2406.0
+/usr/lib32/libgstplay-1.0.so.0.2406.0
+/usr/lib32/libgstplayer-1.0.so.0 -> /usr/lib32/libgstplayer-1.0.so.0.2406.0
+/usr/lib32/libgstplayer-1.0.so.0.2406.0
+/usr/lib32/libgstsctp-1.0.so.0 -> /usr/lib32/libgstsctp-1.0.so.0.2406.0
+/usr/lib32/libgstsctp-1.0.so.0.2406.0
+/usr/lib32/libgsttranscoder-1.0.so.0
+/usr/lib32/libgsturidownloader-1.0.so.0 -> /usr/lib32/libgsturidownloader-1.0.so.0.2406.0
+/usr/lib32/libgsturidownloader-1.0.so.0.2406.0
+/usr/lib32/libgstva-1.0.so.0 -> /usr/lib32/libgstva-1.0.so.0.2406.0
+/usr/lib32/libgstva-1.0.so.0.2406.0
+/usr/lib32/libgstwayland-1.0.so.0 -> /usr/lib32/libgstwayland-1.0.so.0.2406.0
+/usr/lib32/libgstwayland-1.0.so.0.2406.0
+/usr/lib32/libgstwebrtc-1.0.so.0 -> /usr/lib32/libgstwebrtc-1.0.so.0.2406.0
+/usr/lib32/libgstwebrtc-1.0.so.0.2406.0
+/usr/lib32/libgstwebrtcnice-1.0.so.0 -> /usr/lib32/libgstwebrtcnice-1.0.so.0.2406.0
+/usr/lib32/libgstwebrtcnice-1.0.so.0.2406.0

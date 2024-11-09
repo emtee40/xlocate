@@ -1,0 +1,4 @@
+/usr/libexec/gvfsd-afp
+/usr/libexec/gvfsd-afp-browse
+/usr/share/gvfs/mounts/afp-browse.mount
+/usr/share/gvfs/mounts/afp.mount

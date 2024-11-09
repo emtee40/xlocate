@@ -1,0 +1,11 @@
+/usr/bin/mako
+/usr/bin/makoctl
+/usr/share/dbus-1/services/fr.emersion.mako.service
+/usr/share/fish/vendor_completions.d/mako.fish
+/usr/share/fish/vendor_completions.d/makoctl.fish
+/usr/share/licenses/mako/LICENSE
+/usr/share/man/man1/mako.1
+/usr/share/man/man1/makoctl.1
+/usr/share/man/man5/mako.5
+/usr/share/zsh/site-functions/_mako
+/usr/share/zsh/site-functions/_makoctl

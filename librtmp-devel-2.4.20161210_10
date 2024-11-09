@@ -1,0 +1,7 @@
+/usr/include/librtmp/amf.h
+/usr/include/librtmp/http.h
+/usr/include/librtmp/log.h
+/usr/include/librtmp/rtmp.h
+/usr/lib/librtmp.a
+/usr/lib/librtmp.so -> /usr/lib/librtmp.so.1
+/usr/lib/pkgconfig/librtmp.pc

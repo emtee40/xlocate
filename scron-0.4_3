@@ -1,0 +1,6 @@
+/etc/sv/scron/run
+/etc/sv/scron/supervise -> /run/runit/supervise.scron
+/usr/bin/scrond
+/usr/share/doc/scron/README
+/usr/share/licenses/scron/LICENSE
+/usr/share/man/man1/scron.1

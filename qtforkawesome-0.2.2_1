@@ -1,0 +1,5 @@
+/usr/lib/libqtforkawesome.so.0.2.2
+/usr/lib/libqtforkawesome.so.1 -> /usr/lib/libqtforkawesome.so.0.2.2
+/usr/lib/libqtquickforkawesome.so.0.2.2
+/usr/lib/libqtquickforkawesome.so.1 -> /usr/lib/libqtquickforkawesome.so.0.2.2
+/usr/lib/qt6/plugins/iconengines/libqtforkawesomeiconengine.so

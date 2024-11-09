@@ -1,0 +1,4 @@
+/usr/lib32/liblxqt-globalkeys-ui.so -> /usr/lib32/liblxqt-globalkeys-ui.so.2
+/usr/lib32/liblxqt-globalkeys.so -> /usr/lib32/liblxqt-globalkeys.so.2
+/usr/lib32/pkgconfig/lxqt-globalkeys-ui.pc
+/usr/lib32/pkgconfig/lxqt-globalkeys.pc

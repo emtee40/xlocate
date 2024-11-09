@@ -1,0 +1,6 @@
+/usr/bin/wisp
+/usr/bin/wisp2lisp
+/usr/lib/guile/3.0/site-ccache/language/wisp.go
+/usr/lib/guile/3.0/site-ccache/language/wisp/spec.go
+/usr/share/guile/site/3.0/language/wisp.scm
+/usr/share/guile/site/3.0/language/wisp/spec.scm

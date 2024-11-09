@@ -1,0 +1,9 @@
+/usr/bin/rocm-smi -> /usr/libexec/rocm_smi/rocm_smi.py
+/usr/lib/liboam.so.1 -> /usr/lib/liboam.so.1.0
+/usr/lib/liboam.so.1.0
+/usr/lib/librocm_smi64.so.1 -> /usr/lib/librocm_smi64.so.1.0
+/usr/lib/librocm_smi64.so.1.0
+/usr/libexec/rocm_smi/rocm_smi.py
+/usr/libexec/rocm_smi/rsmiBindings.py
+/usr/libexec/rocm_smi/rsmiBindingsInit.py
+/usr/share/doc/rocm_smi/LICENSE.txt

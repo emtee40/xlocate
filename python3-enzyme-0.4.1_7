@@ -1,0 +1,17 @@
+/usr/lib/python3.12/site-packages/enzyme-0.4.1-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/enzyme-0.4.1-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/enzyme-0.4.1-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/enzyme-0.4.1-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/enzyme/__init__.py
+/usr/lib/python3.12/site-packages/enzyme/compat.py
+/usr/lib/python3.12/site-packages/enzyme/exceptions.py
+/usr/lib/python3.12/site-packages/enzyme/mkv.py
+/usr/lib/python3.12/site-packages/enzyme/parsers/__init__.py
+/usr/lib/python3.12/site-packages/enzyme/parsers/ebml/__init__.py
+/usr/lib/python3.12/site-packages/enzyme/parsers/ebml/core.py
+/usr/lib/python3.12/site-packages/enzyme/parsers/ebml/readers.py
+/usr/lib/python3.12/site-packages/enzyme/parsers/ebml/specs/matroska.xml
+/usr/lib/python3.12/site-packages/enzyme/tests/__init__.py
+/usr/lib/python3.12/site-packages/enzyme/tests/parsers/ebml/test1.mkv.yml
+/usr/lib/python3.12/site-packages/enzyme/tests/test_mkv.py
+/usr/lib/python3.12/site-packages/enzyme/tests/test_parsers.py

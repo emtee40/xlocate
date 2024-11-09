@@ -1,0 +1,26 @@
+/usr/include/KPim6/Libkdepim/Libkdepim/KCheckComboBox
+/usr/include/KPim6/Libkdepim/Libkdepim/KWidgetLister
+/usr/include/KPim6/Libkdepim/Libkdepim/MultiplyingLine
+/usr/include/KPim6/Libkdepim/Libkdepim/MultiplyingLineEditor
+/usr/include/KPim6/Libkdepim/Libkdepim/ProgressDialog
+/usr/include/KPim6/Libkdepim/Libkdepim/ProgressIndicatorLabel
+/usr/include/KPim6/Libkdepim/Libkdepim/ProgressManager
+/usr/include/KPim6/Libkdepim/Libkdepim/ProgressStatusBarWidget
+/usr/include/KPim6/Libkdepim/Libkdepim/StatusbarProgressWidget
+/usr/include/KPim6/Libkdepim/libkdepim/kcheckcombobox.h
+/usr/include/KPim6/Libkdepim/libkdepim/kdepim_export.h
+/usr/include/KPim6/Libkdepim/libkdepim/kwidgetlister.h
+/usr/include/KPim6/Libkdepim/libkdepim/multiplyingline.h
+/usr/include/KPim6/Libkdepim/libkdepim/multiplyinglineeditor.h
+/usr/include/KPim6/Libkdepim/libkdepim/progressdialog.h
+/usr/include/KPim6/Libkdepim/libkdepim/progressindicatorlabel.h
+/usr/include/KPim6/Libkdepim/libkdepim/progressmanager.h
+/usr/include/KPim6/Libkdepim/libkdepim/progressstatusbarwidget.h
+/usr/include/KPim6/Libkdepim/libkdepim/statusbarprogresswidget.h
+/usr/include/KPim6/Libkdepim/libkdepim_version.h
+/usr/lib/cmake/KPim6Libkdepim/KPim6LibkdepimConfig.cmake
+/usr/lib/cmake/KPim6Libkdepim/KPim6LibkdepimConfigVersion.cmake
+/usr/lib/cmake/KPim6Libkdepim/KPim6LibkdepimTargets-none.cmake
+/usr/lib/cmake/KPim6Libkdepim/KPim6LibkdepimTargets.cmake
+/usr/lib/cmake/KPim6MailTransportDBusService/KPim6MailTransportDBusServiceConfig.cmake
+/usr/lib/libKPim6Libkdepim.so -> /usr/lib/libKPim6Libkdepim.so.6

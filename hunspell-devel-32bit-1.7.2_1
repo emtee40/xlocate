@@ -1,0 +1,5 @@
+/usr/lib32/libhunspell-1.7.a
+/usr/lib32/libhunspell-1.7.so -> /usr/lib32/libhunspell-1.7.so.0.0.1
+/usr/lib32/libhunspell.a -> /usr/lib32/libhunspell-1.7.a
+/usr/lib32/libhunspell.so -> /usr/lib32/libhunspell-1.7.so.0.0.1
+/usr/lib32/pkgconfig/hunspell.pc

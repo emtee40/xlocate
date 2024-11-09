@@ -1,0 +1,4 @@
+/usr/lib32/libtecla.a
+/usr/lib32/libtecla.so -> /usr/lib32/libtecla.so.1.6.3
+/usr/lib32/libtecla_r.a
+/usr/lib32/libtecla_r.so -> /usr/lib32/libtecla_r.so.1.6.3

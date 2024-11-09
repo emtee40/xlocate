@@ -1,0 +1,32 @@
+/usr/include/KF6/Sonnet/sonnet_version.h
+/usr/include/KF6/SonnetCore/Sonnet/BackgroundChecker
+/usr/include/KF6/SonnetCore/Sonnet/GuessLanguage
+/usr/include/KF6/SonnetCore/Sonnet/Settings
+/usr/include/KF6/SonnetCore/Sonnet/Speller
+/usr/include/KF6/SonnetCore/sonnet/backgroundchecker.h
+/usr/include/KF6/SonnetCore/sonnet/guesslanguage.h
+/usr/include/KF6/SonnetCore/sonnet/settings.h
+/usr/include/KF6/SonnetCore/sonnet/sonnetcore_export.h
+/usr/include/KF6/SonnetCore/sonnet/speller.h
+/usr/include/KF6/SonnetUi/Sonnet/ConfigDialog
+/usr/include/KF6/SonnetUi/Sonnet/ConfigView
+/usr/include/KF6/SonnetUi/Sonnet/ConfigWidget
+/usr/include/KF6/SonnetUi/Sonnet/Dialog
+/usr/include/KF6/SonnetUi/Sonnet/DictionaryComboBox
+/usr/include/KF6/SonnetUi/Sonnet/Highlighter
+/usr/include/KF6/SonnetUi/Sonnet/SpellCheckDecorator
+/usr/include/KF6/SonnetUi/sonnet/configdialog.h
+/usr/include/KF6/SonnetUi/sonnet/configview.h
+/usr/include/KF6/SonnetUi/sonnet/configwidget.h
+/usr/include/KF6/SonnetUi/sonnet/dialog.h
+/usr/include/KF6/SonnetUi/sonnet/dictionarycombobox.h
+/usr/include/KF6/SonnetUi/sonnet/highlighter.h
+/usr/include/KF6/SonnetUi/sonnet/sonnetui_export.h
+/usr/include/KF6/SonnetUi/sonnet/spellcheckdecorator.h
+/usr/lib/cmake/KF6Sonnet/KF6SonnetConfig.cmake
+/usr/lib/cmake/KF6Sonnet/KF6SonnetConfigVersion.cmake
+/usr/lib/cmake/KF6Sonnet/KF6SonnetTargets-none.cmake
+/usr/lib/cmake/KF6Sonnet/KF6SonnetTargets.cmake
+/usr/lib/libKF6SonnetCore.so -> /usr/lib/libKF6SonnetCore.so.6
+/usr/lib/libKF6SonnetUi.so -> /usr/lib/libKF6SonnetUi.so.6
+/usr/lib/qt6/plugins/designer/sonnet6widgets.so

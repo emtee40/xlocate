@@ -1,0 +1,3 @@
+/usr/include/tslib.h
+/usr/lib/libts.so -> /usr/lib/libts.so.0
+/usr/lib/pkgconfig/tslib.pc

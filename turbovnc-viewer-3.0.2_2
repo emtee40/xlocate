@@ -1,0 +1,5 @@
+/usr/bin/vncviewer
+/usr/lib/turbovnc/VncViewer.jar
+/usr/lib/turbovnc/libturbovnchelper.so
+/usr/share/doc/TurboVNC/README-vncviewer.md
+/usr/share/man/man1/vncviewer.1

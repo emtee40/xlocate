@@ -1,0 +1,8 @@
+/usr/include/tsl/robin_growth_policy.h
+/usr/include/tsl/robin_hash.h
+/usr/include/tsl/robin_map.h
+/usr/include/tsl/robin_set.h
+/usr/share/cmake/tsl-robin-map/tsl-robin-mapConfig.cmake
+/usr/share/cmake/tsl-robin-map/tsl-robin-mapConfigVersion.cmake
+/usr/share/cmake/tsl-robin-map/tsl-robin-mapTargets.cmake
+/usr/share/licenses/robin-map/LICENSE

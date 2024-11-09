@@ -1,0 +1,21 @@
+/usr/bin/kiwix-compile-i18n
+/usr/bin/kiwix-compile-resources
+/usr/include/kiwix/book.h
+/usr/include/kiwix/bookmark.h
+/usr/include/kiwix/common.h
+/usr/include/kiwix/downloader.h
+/usr/include/kiwix/kiwix_config.h
+/usr/include/kiwix/kiwixserve.h
+/usr/include/kiwix/library.h
+/usr/include/kiwix/libxml_dumper.h
+/usr/include/kiwix/manager.h
+/usr/include/kiwix/name_mapper.h
+/usr/include/kiwix/opds_dumper.h
+/usr/include/kiwix/search_renderer.h
+/usr/include/kiwix/server.h
+/usr/include/kiwix/tools.h
+/usr/include/kiwix/version.h
+/usr/lib/libkiwix.so -> /usr/lib/libkiwix.so.12
+/usr/lib/pkgconfig/kiwix.pc
+/usr/share/man/man1/kiwix-compile-i18n.1
+/usr/share/man/man1/kiwix-compile-resources.1

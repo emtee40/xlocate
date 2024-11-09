@@ -1,0 +1,6 @@
+/etc/snoopy.ini
+/usr/bin/snoopy-disable
+/usr/bin/snoopy-enable
+/usr/lib/libsnoopy.so -> /usr/lib/libsnoopy.so.0.0.0
+/usr/lib/libsnoopy.so.0 -> /usr/lib/libsnoopy.so.0.0.0
+/usr/lib/libsnoopy.so.0.0.0

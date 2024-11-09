@@ -1,0 +1,8 @@
+/usr/bin/peshming
+/usr/share/bash-completion/completions/peshming
+/usr/share/doc/peshming/README.md
+/usr/share/examples/peshming/config.toml.sample
+/usr/share/fish/vendor_completions.d/peshming.fish
+/usr/share/licenses/peshming/LICENSE
+/usr/share/man/man1/peshming.1
+/usr/share/zsh/site-functions/_peshming

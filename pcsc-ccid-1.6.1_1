@@ -1,0 +1,7 @@
+/etc/reader.conf.d/libccidtwin
+/usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist
+/usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
+/usr/lib/pcsc/drivers/serial/libccidtwin.so
+/usr/lib/udev/rules.d/92_pcscd_ccid.rules
+/usr/share/doc/pcsc-ccid/README.md
+/usr/share/doc/pcsc-ccid/supported_readers.txt

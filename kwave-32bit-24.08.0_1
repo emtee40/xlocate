@@ -1,0 +1,34 @@
+/usr/lib32/libkwave.so.24 -> /usr/lib32/libkwave.so.24.08.0
+/usr/lib32/libkwave.so.24.08.0
+/usr/lib32/libkwavegui.so.24 -> /usr/lib32/libkwavegui.so.24.08.0
+/usr/lib32/libkwavegui.so.24.08.0
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_about.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_amplifyfree.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_band_pass.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_ascii.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_audiofile.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_flac.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_mp3.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_ogg.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_codec_wav.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_debug.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_export_k3b.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_fileinfo.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_goto.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_insert_at.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_lowpass.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_newsignal.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_noise.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_normalize.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_notch_filter.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_pitch_shift.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_playback.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_record.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_reverse.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_samplerate.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_saveblocks.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_selectrange.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_sonagram.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_stringenter.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_volume.so
+/usr/lib32/qt5/plugins/kwave/kwaveplugin_zero.so

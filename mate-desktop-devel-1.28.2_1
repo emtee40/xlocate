@@ -1,0 +1,19 @@
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-bg-crossfade.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-bg.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-colorsel.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-colorseldialog.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-dconf.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop-item.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop-thumbnail.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop-utils.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-gsettings.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-hsv.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-image-menu-item.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-languages.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-rr-config.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-rr-labeler.h
+/usr/include/mate-desktop-2.0/libmate-desktop/mate-rr.h
+/usr/lib/libmate-desktop-2.so -> /usr/lib/libmate-desktop-2.so.17
+/usr/lib/pkgconfig/mate-desktop-2.0.pc
+/usr/share/gir-1.0/MateDesktop-2.0.gir

@@ -1,0 +1,3 @@
+/usr/bin/qemu-ppc64le
+/usr/bin/qemu-ppc64le-static -> /usr/bin/qemu-ppc64le
+/usr/share/binfmts/qemu-ppc64le

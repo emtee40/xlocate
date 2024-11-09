@@ -1,0 +1,16 @@
+/usr/lib32/gnome-software/libgnomesoftware.so -> /usr/lib32/gnome-software/libgnomesoftware.so.20
+/usr/lib32/gnome-software/libgnomesoftware.so.20
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_appstream.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_dpkg.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_dummy.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_fedora-langpacks.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_fedora-pkgdb-collections.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_flatpak.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_generic-updates.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_hardcoded-blocklist.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_icons.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_modalias.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_os-release.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_provenance-license.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_provenance.so
+/usr/lib32/gnome-software/plugins-20/libgs_plugin_repos.so

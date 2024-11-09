@@ -1,0 +1,4 @@
+/usr/include/libgadu.h
+/usr/lib/libgadu.a
+/usr/lib/libgadu.so -> /usr/lib/libgadu.so.3.13.0
+/usr/lib/pkgconfig/libgadu.pc

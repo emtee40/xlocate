@@ -1,0 +1,89 @@
+/usr/bin/glade
+/usr/bin/glade-previewer
+/usr/share/applications/org.gnome.Glade.desktop
+/usr/share/gettext/its/glade-catalog.its
+/usr/share/gettext/its/glade-catalog.loc
+/usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/C/glade/index.docbook
+/usr/share/help/C/glade/legal.xml
+/usr/share/help/bg/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/bg/glade/index.docbook
+/usr/share/help/bg/glade/legal.xml
+/usr/share/help/ca/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/ca/glade/index.docbook
+/usr/share/help/ca/glade/legal.xml
+/usr/share/help/cs/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/cs/glade/index.docbook
+/usr/share/help/cs/glade/legal.xml
+/usr/share/help/da/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/da/glade/index.docbook
+/usr/share/help/da/glade/legal.xml
+/usr/share/help/de/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/de/glade/index.docbook
+/usr/share/help/de/glade/legal.xml
+/usr/share/help/el/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/el/glade/index.docbook
+/usr/share/help/el/glade/legal.xml
+/usr/share/help/en_GB/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/en_GB/glade/index.docbook
+/usr/share/help/en_GB/glade/legal.xml
+/usr/share/help/es/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/es/glade/index.docbook
+/usr/share/help/es/glade/legal.xml
+/usr/share/help/eu/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/eu/glade/index.docbook
+/usr/share/help/eu/glade/legal.xml
+/usr/share/help/fr/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/fr/glade/index.docbook
+/usr/share/help/fr/glade/legal.xml
+/usr/share/help/gl/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/gl/glade/index.docbook
+/usr/share/help/gl/glade/legal.xml
+/usr/share/help/hi/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/hi/glade/index.docbook
+/usr/share/help/hi/glade/legal.xml
+/usr/share/help/hu/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/hu/glade/index.docbook
+/usr/share/help/hu/glade/legal.xml
+/usr/share/help/id/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/id/glade/index.docbook
+/usr/share/help/id/glade/legal.xml
+/usr/share/help/it/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/it/glade/index.docbook
+/usr/share/help/it/glade/legal.xml
+/usr/share/help/ja/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/ja/glade/index.docbook
+/usr/share/help/ja/glade/legal.xml
+/usr/share/help/ko/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/ko/glade/index.docbook
+/usr/share/help/ko/glade/legal.xml
+/usr/share/help/oc/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/oc/glade/index.docbook
+/usr/share/help/oc/glade/legal.xml
+/usr/share/help/pl/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/pl/glade/index.docbook
+/usr/share/help/pl/glade/legal.xml
+/usr/share/help/pt_BR/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/pt_BR/glade/index.docbook
+/usr/share/help/pt_BR/glade/legal.xml
+/usr/share/help/ru/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/ru/glade/index.docbook
+/usr/share/help/ru/glade/legal.xml
+/usr/share/help/sl/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/sl/glade/index.docbook
+/usr/share/help/sl/glade/legal.xml
+/usr/share/help/sv/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/sv/glade/index.docbook
+/usr/share/help/sv/glade/legal.xml
+/usr/share/help/uk/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/uk/glade/index.docbook
+/usr/share/help/uk/glade/legal.xml
+/usr/share/help/zh_CN/glade/figures/main-window.png -> /usr/share/help/C/glade/figures/main-window.png
+/usr/share/help/zh_CN/glade/index.docbook
+/usr/share/help/zh_CN/glade/legal.xml
+/usr/share/icons/hicolor/scalable/apps/org.gnome.Glade.svg
+/usr/share/icons/hicolor/symbolic/apps/glade-brand-symbolic.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.Glade-symbolic.svg
+/usr/share/man/man1/glade-previewer.1
+/usr/share/man/man1/glade.1
+/usr/share/metainfo/org.gnome.Glade.appdata.xml

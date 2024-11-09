@@ -1,0 +1,17 @@
+/usr/include/d/gtkd-3/peas/ActivatableIF.d
+/usr/include/d/gtkd-3/peas/ActivatableT.d
+/usr/include/d/gtkd-3/peas/ConfigurableIF.d
+/usr/include/d/gtkd-3/peas/ConfigurableT.d
+/usr/include/d/gtkd-3/peas/Engine.d
+/usr/include/d/gtkd-3/peas/ExtensionBase.d
+/usr/include/d/gtkd-3/peas/ExtensionSet.d
+/usr/include/d/gtkd-3/peas/ObjectModule.d
+/usr/include/d/gtkd-3/peas/PluginInfo.d
+/usr/include/d/gtkd-3/peas/PluginManager.d
+/usr/include/d/gtkd-3/peas/PluginManagerView.d
+/usr/include/d/gtkd-3/peas/c/functions.d
+/usr/include/d/gtkd-3/peas/c/types.d
+/usr/include/d/gtkd-3/peasc/peas.d
+/usr/include/d/gtkd-3/peasc/peastypes.d
+/usr/lib/libpeasd-3.so -> /usr/lib/libpeasd-3.so.0
+/usr/lib/pkgconfig/peasd-3.pc

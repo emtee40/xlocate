@@ -1,0 +1,8 @@
+/etc/sv/ndppd/log/run
+/etc/sv/ndppd/log/supervise -> /run/runit/supervise.ndppd-log
+/etc/sv/ndppd/run
+/etc/sv/ndppd/supervise -> /run/runit/supervise.ndppd
+/usr/bin/ndppd
+/usr/share/examples/ndppd/ndppd.conf
+/usr/share/man/man1/ndppd.1
+/usr/share/man/man5/ndppd.conf.5

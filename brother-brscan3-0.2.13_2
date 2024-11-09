@@ -1,0 +1,16 @@
+/opt/Brother/sane/Brsane3.ini
+/opt/Brother/sane/brsaneconfig3
+/opt/Brother/sane/brsanenetdevice3.cfg
+/opt/Brother/sane/models3/ext1.ini
+/opt/Brother/sane/models3/ext2.ini
+/opt/Brother/sane/models3/ext3.ini
+/opt/Brother/sane/models3/ext4.ini
+/opt/Brother/sane/models3/ext5.ini
+/opt/Brother/sane/setupSaneScan3
+/usr/lib/libbrscandec3.so -> /usr/lib/libbrscandec3.so.1.0.0
+/usr/lib/libbrscandec3.so.1 -> /usr/lib/libbrscandec3.so.1.0.0
+/usr/lib/libbrscandec3.so.1.0.0
+/usr/lib/sane/libsane-brother3.so -> /usr/lib/sane/libsane-brother3.so.1.0.7
+/usr/lib/sane/libsane-brother3.so.1 -> /usr/lib/sane/libsane-brother3.so.1.0.7
+/usr/lib/sane/libsane-brother3.so.1.0.7
+/usr/share/licenses/brother-brscan3/LICENSE

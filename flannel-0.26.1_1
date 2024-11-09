@@ -1,0 +1,5 @@
+/etc/sv/flannel/log/run
+/etc/sv/flannel/log/supervise -> /run/runit/supervise.flannel-log
+/etc/sv/flannel/run
+/etc/sv/flannel/supervise -> /run/runit/supervise.flannel
+/usr/bin/flannel

@@ -1,0 +1,4 @@
+/usr/bin/use-devel-checklib
+/usr/share/man/man1/use-devel-checklib.1p
+/usr/share/man/man3/Devel::CheckLib.3p
+/usr/share/perl5/vendor_perl/Devel/CheckLib.pm

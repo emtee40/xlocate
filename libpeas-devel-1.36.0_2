@@ -1,0 +1,23 @@
+/usr/include/libpeas-1.0/libpeas-gtk/peas-gtk-autocleanups.h
+/usr/include/libpeas-1.0/libpeas-gtk/peas-gtk-configurable.h
+/usr/include/libpeas-1.0/libpeas-gtk/peas-gtk-plugin-manager-view.h
+/usr/include/libpeas-1.0/libpeas-gtk/peas-gtk-plugin-manager.h
+/usr/include/libpeas-1.0/libpeas-gtk/peas-gtk.h
+/usr/include/libpeas-1.0/libpeas/peas-activatable.h
+/usr/include/libpeas-1.0/libpeas/peas-autocleanups.h
+/usr/include/libpeas-1.0/libpeas/peas-engine.h
+/usr/include/libpeas-1.0/libpeas/peas-extension-base.h
+/usr/include/libpeas-1.0/libpeas/peas-extension-set.h
+/usr/include/libpeas-1.0/libpeas/peas-extension.h
+/usr/include/libpeas-1.0/libpeas/peas-object-module.h
+/usr/include/libpeas-1.0/libpeas/peas-plugin-info.h
+/usr/include/libpeas-1.0/libpeas/peas-version-macros.h
+/usr/include/libpeas-1.0/libpeas/peas-version.h
+/usr/include/libpeas-1.0/libpeas/peas.h
+/usr/lib/libpeas-1.0.so -> /usr/lib/libpeas-1.0.so.0
+/usr/lib/libpeas-gtk-1.0.so -> /usr/lib/libpeas-gtk-1.0.so.0
+/usr/lib/pkgconfig/libpeas-1.0.pc
+/usr/lib/pkgconfig/libpeas-gtk-1.0.pc
+/usr/share/gir-1.0/Peas-1.0.gir
+/usr/share/gir-1.0/PeasGtk-1.0.gir
+/usr/share/glade/catalogs/libpeas-gtk.xml

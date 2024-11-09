@@ -1,0 +1,16 @@
+/usr/bin/pysemver
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/LICENSE.txt
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/semver-3.0.1.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/semver/__about__.py
+/usr/lib/python3.12/site-packages/semver/__init__.py
+/usr/lib/python3.12/site-packages/semver/__main__.py
+/usr/lib/python3.12/site-packages/semver/_deprecated.py
+/usr/lib/python3.12/site-packages/semver/_types.py
+/usr/lib/python3.12/site-packages/semver/cli.py
+/usr/lib/python3.12/site-packages/semver/py.typed
+/usr/lib/python3.12/site-packages/semver/version.py
+/usr/share/licenses/python3-semver/LICENSE.txt

@@ -1,0 +1,3 @@
+/usr/lib32/libtirpc.a
+/usr/lib32/libtirpc.so -> /usr/lib32/libtirpc.so.3.0.0
+/usr/lib32/pkgconfig/libtirpc.pc

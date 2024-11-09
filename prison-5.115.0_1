@@ -1,0 +1,8 @@
+/usr/lib/libKF5Prison.so.5 -> /usr/lib/libKF5Prison.so.5.115.0
+/usr/lib/libKF5Prison.so.5.115.0
+/usr/lib/qt5/qml/org/kde/prison/libprisonquickplugin.so
+/usr/lib/qt5/qml/org/kde/prison/qmldir
+/usr/share/licenses/prison/BSD-3-Clause.txt
+/usr/share/licenses/prison/MIT.txt
+/usr/share/qlogging-categories5/prison.categories
+/usr/share/qlogging-categories5/prison.renamecategories

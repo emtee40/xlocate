@@ -1,0 +1,9 @@
+/etc/sv/lxcfs/finish
+/etc/sv/lxcfs/run
+/etc/sv/lxcfs/supervise -> /run/runit/supervise.lxcfs
+/usr/bin/lxcfs
+/usr/lib/lxcfs/liblxcfs.so
+/usr/share/lxc/config/common.conf.d/00-lxcfs.conf
+/usr/share/lxcfs/lxc.mount.hook
+/usr/share/lxcfs/lxc.reboot.hook
+/usr/share/man/man1/lxcfs.1

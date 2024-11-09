@@ -1,0 +1,5 @@
+/usr/lib32/libKF5IdleTime.so.5 -> /usr/lib32/libKF5IdleTime.so.5.116.0
+/usr/lib32/libKF5IdleTime.so.5.116.0
+/usr/lib32/qt5/plugins/kf5/org.kde.kidletime.platforms/KF5IdleTimeWaylandPlugin.so
+/usr/lib32/qt5/plugins/kf5/org.kde.kidletime.platforms/KF5IdleTimeXcbPlugin0.so
+/usr/lib32/qt5/plugins/kf5/org.kde.kidletime.platforms/KF5IdleTimeXcbPlugin1.so

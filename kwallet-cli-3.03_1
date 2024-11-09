@@ -1,0 +1,9 @@
+/usr/bin/kwalletaskpass
+/usr/bin/kwalletcli
+/usr/bin/kwalletcli_getpin
+/usr/bin/pinentry-kwallet
+/usr/share/licenses/kwallet-cli/LICENCE
+/usr/share/man/man1/kwalletaskpass.1
+/usr/share/man/man1/kwalletcli.1
+/usr/share/man/man1/kwalletcli_getpin.1
+/usr/share/man/man1/pinentry-kwallet.1

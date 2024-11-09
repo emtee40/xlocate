@@ -1,0 +1,11 @@
+/usr/bin/belr-compiler
+/usr/bin/belr-parse
+/usr/include/belr/abnf.h
+/usr/include/belr/belr.h
+/usr/include/belr/grammarbuilder.h
+/usr/include/belr/parser.h
+/usr/lib/cmake/Belr/BelrConfig.cmake
+/usr/lib/cmake/Belr/BelrConfigVersion.cmake
+/usr/lib/cmake/Belr/BelrTargets-none.cmake
+/usr/lib/cmake/Belr/BelrTargets.cmake
+/usr/lib/libbelr.so -> /usr/lib/libbelr.so.1

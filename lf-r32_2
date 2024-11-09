@@ -1,0 +1,14 @@
+/usr/bin/lf
+/usr/share/applications/lf.desktop
+/usr/share/bash-completion/completions/lf
+/usr/share/examples/lf/colors.example
+/usr/share/examples/lf/icons.example
+/usr/share/examples/lf/lfcd.csh
+/usr/share/examples/lf/lfcd.fish
+/usr/share/examples/lf/lfcd.nu
+/usr/share/examples/lf/lfcd.sh
+/usr/share/examples/lf/lfrc
+/usr/share/fish/vendor_completions.d/lf.fish
+/usr/share/licenses/lf/LICENSE
+/usr/share/man/man1/lf.1
+/usr/share/zsh/site-functions/_lf

@@ -1,0 +1,7 @@
+/usr/lib32/nvim/parser/c.so
+/usr/lib32/nvim/parser/lua.so
+/usr/lib32/nvim/parser/markdown.so
+/usr/lib32/nvim/parser/markdown_inline.so
+/usr/lib32/nvim/parser/query.so
+/usr/lib32/nvim/parser/vim.so
+/usr/lib32/nvim/parser/vimdoc.so

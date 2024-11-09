@@ -1,0 +1,5 @@
+/usr/bin/unifdef
+/usr/bin/unifdefall
+/usr/share/licenses/unifdef/COPYING
+/usr/share/man/man1/unifdef.1
+/usr/share/man/man1/unifdefall.1 -> /usr/share/man/man1/unifdef.1

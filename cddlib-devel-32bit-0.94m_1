@@ -1,0 +1,5 @@
+/usr/lib32/libcdd.a
+/usr/lib32/libcdd.so -> /usr/lib32/libcdd.so.0.1.2
+/usr/lib32/libcddgmp.a
+/usr/lib32/libcddgmp.so -> /usr/lib32/libcddgmp.so.0.1.2
+/usr/lib32/pkgconfig/cddlib.pc

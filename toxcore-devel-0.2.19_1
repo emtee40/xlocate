@@ -1,0 +1,8 @@
+/usr/include/tox/tox.h
+/usr/include/tox/tox_dispatch.h
+/usr/include/tox/tox_events.h
+/usr/include/tox/toxav.h
+/usr/include/tox/toxencryptsave.h
+/usr/lib/libtoxcore.a
+/usr/lib/libtoxcore.so -> /usr/lib/libtoxcore.so.2
+/usr/lib/pkgconfig/toxcore.pc

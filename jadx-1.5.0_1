@@ -1,0 +1,7 @@
+/usr/bin/jadx -> /usr/share/jadx/bin/jadx
+/usr/bin/jadx-gui -> /usr/share/jadx/bin/jadx-gui
+/usr/share/jadx/bin/jadx
+/usr/share/jadx/bin/jadx-gui
+/usr/share/jadx/bin/jadx-gui.bat
+/usr/share/jadx/bin/jadx.bat
+/usr/share/jadx/lib/jadx-dev-all.jar

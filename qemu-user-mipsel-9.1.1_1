@@ -1,0 +1,3 @@
+/usr/bin/qemu-mipsel
+/usr/bin/qemu-mipsel-static -> /usr/bin/qemu-mipsel
+/usr/share/binfmts/qemu-mipsel

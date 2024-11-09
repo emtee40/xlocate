@@ -1,0 +1,11 @@
+/usr/include/cmark.h
+/usr/include/cmark_export.h
+/usr/include/cmark_version.h
+/usr/lib/cmake/cmark/cmark-config-version.cmake
+/usr/lib/cmake/cmark/cmark-config.cmake
+/usr/lib/cmake/cmark/cmark-targets-none.cmake
+/usr/lib/cmake/cmark/cmark-targets.cmake
+/usr/lib/libcmark.a
+/usr/lib/libcmark.so -> /usr/lib/libcmark.so.0
+/usr/lib/pkgconfig/libcmark.pc
+/usr/share/man/man3/cmark.3

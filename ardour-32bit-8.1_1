@@ -1,0 +1,71 @@
+/usr/lib32/ardour8/LV2/a-comp.lv2/a-comp.so
+/usr/lib32/ardour8/LV2/a-delay.lv2/a-delay.so
+/usr/lib32/ardour8/LV2/a-eq.lv2/a-eq.so
+/usr/lib32/ardour8/LV2/a-exp.lv2/a-exp.so
+/usr/lib32/ardour8/LV2/a-fluidsynth.lv2/a-fluidsynth.so
+/usr/lib32/ardour8/LV2/a-reverb.lv2/a-reverb.so
+/usr/lib32/ardour8/LV2/reasonablesynth.lv2/reasonablesynth.so
+/usr/lib32/ardour8/backends/libalsa_audiobackend.so
+/usr/lib32/ardour8/backends/libdummy_audiobackend.so
+/usr/lib32/ardour8/backends/libjack_audiobackend.so
+/usr/lib32/ardour8/engines/libclearlooks.so
+/usr/lib32/ardour8/libardour.so -> /usr/lib32/ardour8/libardour.so.3.0.0
+/usr/lib32/ardour8/libardour.so.3 -> /usr/lib32/ardour8/libardour.so.3.0.0
+/usr/lib32/ardour8/libardour.so.3.0.0
+/usr/lib32/ardour8/libardour_midisurface.so
+/usr/lib32/ardour8/libardouralsautil.so -> /usr/lib32/ardour8/libardouralsautil.so.0.0.1
+/usr/lib32/ardour8/libardouralsautil.so.0 -> /usr/lib32/ardour8/libardouralsautil.so.0.0.1
+/usr/lib32/ardour8/libardouralsautil.so.0.0.1
+/usr/lib32/ardour8/libardourcp.so
+/usr/lib32/ardour8/libaudiographer.so -> /usr/lib32/ardour8/libaudiographer.so.0.0.0
+/usr/lib32/ardour8/libaudiographer.so.0 -> /usr/lib32/ardour8/libaudiographer.so.0.0.0
+/usr/lib32/ardour8/libaudiographer.so.0.0.0
+/usr/lib32/ardour8/libcanvas.so -> /usr/lib32/ardour8/libcanvas.so.0.0.0
+/usr/lib32/ardour8/libcanvas.so.0 -> /usr/lib32/ardour8/libcanvas.so.0.0.0
+/usr/lib32/ardour8/libcanvas.so.0.0.0
+/usr/lib32/ardour8/libevoral.so -> /usr/lib32/ardour8/libevoral.so.0.0.0
+/usr/lib32/ardour8/libevoral.so.0 -> /usr/lib32/ardour8/libevoral.so.0.0.0
+/usr/lib32/ardour8/libevoral.so.0.0.0
+/usr/lib32/ardour8/libgtkmm2ext.so -> /usr/lib32/ardour8/libgtkmm2ext.so.0.8.3
+/usr/lib32/ardour8/libgtkmm2ext.so.0 -> /usr/lib32/ardour8/libgtkmm2ext.so.0.8.3
+/usr/lib32/ardour8/libgtkmm2ext.so.0.8.3
+/usr/lib32/ardour8/libmidipp.so -> /usr/lib32/ardour8/libmidipp.so.4.1.0
+/usr/lib32/ardour8/libmidipp.so.4 -> /usr/lib32/ardour8/libmidipp.so.4.1.0
+/usr/lib32/ardour8/libmidipp.so.4.1.0
+/usr/lib32/ardour8/libpbd.so -> /usr/lib32/ardour8/libpbd.so.4.1.0
+/usr/lib32/ardour8/libpbd.so.4 -> /usr/lib32/ardour8/libpbd.so.4.1.0
+/usr/lib32/ardour8/libpbd.so.4.1.0
+/usr/lib32/ardour8/libptformat.so -> /usr/lib32/ardour8/libptformat.so.0.0.0
+/usr/lib32/ardour8/libptformat.so.0 -> /usr/lib32/ardour8/libptformat.so.0.0.0
+/usr/lib32/ardour8/libptformat.so.0.0.0
+/usr/lib32/ardour8/libtemporal.so -> /usr/lib32/ardour8/libtemporal.so.0.0.0
+/usr/lib32/ardour8/libtemporal.so.0 -> /usr/lib32/ardour8/libtemporal.so.0.0.0
+/usr/lib32/ardour8/libtemporal.so.0.0.0
+/usr/lib32/ardour8/libwaveview.so -> /usr/lib32/ardour8/libwaveview.so.0.0.0
+/usr/lib32/ardour8/libwaveview.so.0 -> /usr/lib32/ardour8/libwaveview.so.0.0.0
+/usr/lib32/ardour8/libwaveview.so.0.0.0
+/usr/lib32/ardour8/libwidgets.so -> /usr/lib32/ardour8/libwidgets.so.0.0.0
+/usr/lib32/ardour8/libwidgets.so.0 -> /usr/lib32/ardour8/libwidgets.so.0.0.0
+/usr/lib32/ardour8/libwidgets.so.0.0.0
+/usr/lib32/ardour8/panners/libpan1in2out.so
+/usr/lib32/ardour8/panners/libpan2in2out.so
+/usr/lib32/ardour8/panners/libpanbalance.so
+/usr/lib32/ardour8/panners/libpanvbap.so
+/usr/lib32/ardour8/surfaces/libardour_cc121.so
+/usr/lib32/ardour8/surfaces/libardour_console1.so
+/usr/lib32/ardour8/surfaces/libardour_contourdesign.so
+/usr/lib32/ardour8/surfaces/libardour_faderport.so
+/usr/lib32/ardour8/surfaces/libardour_faderport16.so
+/usr/lib32/ardour8/surfaces/libardour_faderport2.so
+/usr/lib32/ardour8/surfaces/libardour_faderport8.so
+/usr/lib32/ardour8/surfaces/libardour_generic_midi.so
+/usr/lib32/ardour8/surfaces/libardour_launch_control_xl.so
+/usr/lib32/ardour8/surfaces/libardour_launchpad_pro.so
+/usr/lib32/ardour8/surfaces/libardour_mcp.so
+/usr/lib32/ardour8/surfaces/libardour_osc.so
+/usr/lib32/ardour8/surfaces/libardour_push2.so
+/usr/lib32/ardour8/surfaces/libardour_us2400.so
+/usr/lib32/ardour8/vamp/libardourvampplugins.so
+/usr/lib32/ardour8/vamp/libardourvamppyin.so -> /usr/lib32/ardour8/vamp/libardourvamppyin.so.0.0.0
+/usr/lib32/ardour8/vamp/libardourvamppyin.so.0 -> /usr/lib32/ardour8/vamp/libardourvamppyin.so.0.0.0
+/usr/lib32/ardour8/vamp/libardourvamppyin.so.0.0.0

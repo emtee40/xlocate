@@ -1,0 +1,18 @@
+/usr/include/rlog/Error.h
+/usr/include/rlog/Lock.h
+/usr/include/rlog/Mutex.h
+/usr/include/rlog/RLogChannel.h
+/usr/include/rlog/RLogNode.h
+/usr/include/rlog/RLogPublisher.h
+/usr/include/rlog/RLogTime.h
+/usr/include/rlog/StdioNode.h
+/usr/include/rlog/SyslogNode.h
+/usr/include/rlog/common.h
+/usr/include/rlog/rlog-c99.h
+/usr/include/rlog/rlog-novariadic.h
+/usr/include/rlog/rlog-prec99.h
+/usr/include/rlog/rlog.h
+/usr/include/rlog/rloginit.h
+/usr/include/rlog/rloglocation.h
+/usr/lib/librlog.so -> /usr/lib/librlog.so.5.0.0
+/usr/lib/pkgconfig/librlog.pc

@@ -1,0 +1,13 @@
+/etc/sv/dropbear/log/run
+/etc/sv/dropbear/log/supervise -> /run/runit/supervise.dropbear-log
+/etc/sv/dropbear/run
+/etc/sv/dropbear/supervise -> /run/runit/supervise.dropbear
+/usr/bin/dbclient
+/usr/bin/dropbear
+/usr/bin/dropbearconvert
+/usr/bin/dropbearkey
+/usr/share/licenses/dropbear/LICENSE
+/usr/share/man/man1/dbclient.1
+/usr/share/man/man1/dropbearconvert.1
+/usr/share/man/man1/dropbearkey.1
+/usr/share/man/man8/dropbear.8

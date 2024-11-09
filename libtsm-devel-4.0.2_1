@@ -1,0 +1,7 @@
+/usr/include/libtsm.h
+/usr/lib/cmake/libtsm/libtsm-config-version.cmake
+/usr/lib/cmake/libtsm/libtsm-config.cmake
+/usr/lib/cmake/libtsm/libtsm-targets-none.cmake
+/usr/lib/cmake/libtsm/libtsm-targets.cmake
+/usr/lib/libtsm.so -> /usr/lib/libtsm.so.4
+/usr/lib/pkgconfig/libtsm.pc

@@ -1,0 +1,18 @@
+/usr/include/libirc_errors.h
+/usr/include/libirc_events.h
+/usr/include/libirc_options.h
+/usr/include/libirc_rfcnumeric.h
+/usr/include/libircclient.h
+/usr/lib/libircclient.a
+/usr/lib/libircclient.so -> /usr/lib/libircclient.so.1
+/usr/lib/pkgconfig/libircclient.pc
+/usr/share/doc/libircclient/API_reference_callbacks.rst
+/usr/share/doc/libircclient/API_reference_constants.rst
+/usr/share/doc/libircclient/API_reference_functions.rst
+/usr/share/doc/libircclient/API_reference_types.rst
+/usr/share/doc/libircclient/Appendix_FAQ.rst
+/usr/share/doc/libircclient/Appendix_LGPL.rst
+/usr/share/doc/libircclient/Introduction.rst
+/usr/share/doc/libircclient/Writing_code.rst
+/usr/share/doc/libircclient/index.rst
+/usr/share/man/man1/libircclient.1

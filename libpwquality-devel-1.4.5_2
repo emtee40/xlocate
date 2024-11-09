@@ -1,0 +1,4 @@
+/usr/include/pwquality.h
+/usr/lib/libpwquality.so -> /usr/lib/libpwquality.so.1.0.2
+/usr/lib/pkgconfig/pwquality.pc
+/usr/share/man/man3/pwquality.3

@@ -1,0 +1,6 @@
+/usr/include/gts.h
+/usr/include/gtsconfig.h
+/usr/lib/libgts.a
+/usr/lib/libgts.so -> /usr/lib/libgts-0.7.so.5.0.1
+/usr/lib/pkgconfig/gts.pc
+/usr/share/aclocal/gts.m4

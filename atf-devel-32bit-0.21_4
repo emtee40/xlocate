@@ -1,0 +1,7 @@
+/usr/lib32/libatf-c++.a
+/usr/lib32/libatf-c++.so -> /usr/lib32/libatf-c++.so.2.0.0
+/usr/lib32/libatf-c.a
+/usr/lib32/libatf-c.so -> /usr/lib32/libatf-c.so.1.0.0
+/usr/lib32/pkgconfig/atf-c++.pc
+/usr/lib32/pkgconfig/atf-c.pc
+/usr/lib32/pkgconfig/atf-sh.pc

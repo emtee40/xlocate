@@ -1,0 +1,4 @@
+/usr/lib32/libQt5QuickControls2.so -> /usr/lib32/libQt5QuickControls2.so.5.15.11
+/usr/lib32/libQt5QuickTemplates2.so -> /usr/lib32/libQt5QuickTemplates2.so.5.15.11
+/usr/lib32/pkgconfig/Qt5QuickControls2.pc
+/usr/lib32/pkgconfig/Qt5QuickTemplates2.pc

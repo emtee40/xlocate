@@ -1,0 +1,7 @@
+/usr/include/numa.h
+/usr/include/numacompat1.h
+/usr/include/numaif.h
+/usr/lib/libnuma.a
+/usr/lib/libnuma.so -> /usr/lib/libnuma.so.1.0.0
+/usr/lib/pkgconfig/numa.pc
+/usr/share/man/man3/numa.3

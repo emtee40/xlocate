@@ -1,0 +1,4 @@
+/usr/lib32/liborc-0.4.so -> /usr/lib32/liborc-0.4.so.0
+/usr/lib32/liborc-test-0.4.so -> /usr/lib32/liborc-test-0.4.so.0
+/usr/lib32/pkgconfig/orc-0.4.pc
+/usr/lib32/pkgconfig/orc-test-0.4.pc

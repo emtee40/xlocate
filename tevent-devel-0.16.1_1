@@ -1,0 +1,3 @@
+/usr/include/tevent.h
+/usr/lib/libtevent.so -> /usr/lib/libtevent.so.0.16.1
+/usr/lib/pkgconfig/tevent.pc

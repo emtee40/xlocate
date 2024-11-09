@@ -1,0 +1,10 @@
+/usr/lib32/libKF6TextAddonsWidgets.so -> /usr/lib32/libKF6TextAddonsWidgets.so.1
+/usr/lib32/libKF6TextAutoCorrectionCore.so -> /usr/lib32/libKF6TextAutoCorrectionCore.so.1
+/usr/lib32/libKF6TextAutoCorrectionWidgets.so -> /usr/lib32/libKF6TextAutoCorrectionWidgets.so.1
+/usr/lib32/libKF6TextCustomEditor.so -> /usr/lib32/libKF6TextCustomEditor.so.1
+/usr/lib32/libKF6TextEditTextToSpeech.so -> /usr/lib32/libKF6TextEditTextToSpeech.so.1
+/usr/lib32/libKF6TextEmoticonsCore.so -> /usr/lib32/libKF6TextEmoticonsCore.so.1
+/usr/lib32/libKF6TextEmoticonsWidgets.so -> /usr/lib32/libKF6TextEmoticonsWidgets.so.1
+/usr/lib32/libKF6TextGrammarCheck.so -> /usr/lib32/libKF6TextGrammarCheck.so.1
+/usr/lib32/libKF6TextTranslator.so -> /usr/lib32/libKF6TextTranslator.so.1
+/usr/lib32/libKF6TextUtils.so -> /usr/lib32/libKF6TextUtils.so.1

@@ -1,0 +1,10 @@
+/usr/include/totem-pl-parser/1/plparser/totem-pl-parser-builtins.h
+/usr/include/totem-pl-parser/1/plparser/totem-pl-parser-features.h
+/usr/include/totem-pl-parser/1/plparser/totem-pl-parser-mini.h
+/usr/include/totem-pl-parser/1/plparser/totem-pl-parser.h
+/usr/include/totem-pl-parser/1/plparser/totem-pl-playlist.h
+/usr/lib/libtotem-plparser-mini.so -> /usr/lib/libtotem-plparser-mini.so.18
+/usr/lib/libtotem-plparser.so -> /usr/lib/libtotem-plparser.so.18
+/usr/lib/pkgconfig/totem-plparser-mini.pc
+/usr/lib/pkgconfig/totem-plparser.pc
+/usr/share/gir-1.0/TotemPlParser-1.0.gir

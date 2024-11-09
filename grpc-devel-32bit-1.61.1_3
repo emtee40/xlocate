@@ -1,0 +1,23 @@
+/usr/lib32/libaddress_sorting.so -> /usr/lib32/libaddress_sorting.so.38
+/usr/lib32/libgpr.so -> /usr/lib32/libgpr.so.38
+/usr/lib32/libgrpc++.so -> /usr/lib32/libgrpc++.so.1.61
+/usr/lib32/libgrpc++_alts.so -> /usr/lib32/libgrpc++_alts.so.1.61
+/usr/lib32/libgrpc++_error_details.so -> /usr/lib32/libgrpc++_error_details.so.1.61
+/usr/lib32/libgrpc++_reflection.so -> /usr/lib32/libgrpc++_reflection.so.1.61
+/usr/lib32/libgrpc++_unsecure.so -> /usr/lib32/libgrpc++_unsecure.so.1.61
+/usr/lib32/libgrpc.so -> /usr/lib32/libgrpc.so.38
+/usr/lib32/libgrpc_authorization_provider.so -> /usr/lib32/libgrpc_authorization_provider.so.1.61
+/usr/lib32/libgrpc_plugin_support.so -> /usr/lib32/libgrpc_plugin_support.so.1.61
+/usr/lib32/libgrpc_unsecure.so -> /usr/lib32/libgrpc_unsecure.so.38
+/usr/lib32/libgrpcpp_channelz.so -> /usr/lib32/libgrpcpp_channelz.so.1.61
+/usr/lib32/libupb_base_lib.so -> /usr/lib32/libupb_base_lib.so.38
+/usr/lib32/libupb_json_lib.so -> /usr/lib32/libupb_json_lib.so.38
+/usr/lib32/libupb_mem_lib.so -> /usr/lib32/libupb_mem_lib.so.38
+/usr/lib32/libupb_message_lib.so -> /usr/lib32/libupb_message_lib.so.38
+/usr/lib32/libupb_textformat_lib.so -> /usr/lib32/libupb_textformat_lib.so.38
+/usr/lib32/libutf8_range_lib.so -> /usr/lib32/libutf8_range_lib.so.38
+/usr/lib32/pkgconfig/gpr.pc
+/usr/lib32/pkgconfig/grpc++.pc
+/usr/lib32/pkgconfig/grpc++_unsecure.pc
+/usr/lib32/pkgconfig/grpc.pc
+/usr/lib32/pkgconfig/grpc_unsecure.pc

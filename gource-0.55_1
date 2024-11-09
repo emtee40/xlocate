@@ -1,0 +1,14 @@
+/usr/bin/gource
+/usr/share/gource/beam.png
+/usr/share/gource/bloom.tga
+/usr/share/gource/bloom_alpha.tga
+/usr/share/gource/file.png
+/usr/share/gource/gource.style
+/usr/share/gource/shaders/bloom.frag
+/usr/share/gource/shaders/bloom.vert
+/usr/share/gource/shaders/shadow.frag
+/usr/share/gource/shaders/shadow.vert
+/usr/share/gource/shaders/text.frag
+/usr/share/gource/shaders/text.vert
+/usr/share/gource/user.png
+/usr/share/man/man1/gource.1

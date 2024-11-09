@@ -1,0 +1,5 @@
+/usr/lib32/libQt6Location.so.6 -> /usr/lib32/libQt6Location.so.6.7.2
+/usr/lib32/libQt6Location.so.6.7.2
+/usr/lib32/qt6/plugins/geoservices/libqtgeoservices_itemsoverlay.so
+/usr/lib32/qt6/plugins/geoservices/libqtgeoservices_osm.so
+/usr/lib32/qt6/qml/QtLocation/libdeclarative_locationplugin.so

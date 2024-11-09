@@ -1,0 +1,3 @@
+/usr/include/freeaptx.h
+/usr/lib/libfreeaptx.so -> /usr/lib/libfreeaptx.so.0
+/usr/lib/pkgconfig/libfreeaptx.pc

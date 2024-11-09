@@ -1,0 +1,6 @@
+/etc/sv/docker/log/run
+/etc/sv/docker/log/supervise -> /run/runit/supervise.docker-log
+/etc/sv/docker/run
+/etc/sv/docker/supervise -> /run/runit/supervise.docker
+/usr/bin/docker-proxy
+/usr/bin/dockerd

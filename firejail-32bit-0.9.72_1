@@ -1,0 +1,3 @@
+/usr/lib32/firejail/libpostexecseccomp.so
+/usr/lib32/firejail/libtrace.so
+/usr/lib32/firejail/libtracelog.so

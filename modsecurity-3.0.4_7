@@ -1,0 +1,24 @@
+/usr/bin/modsec-rules-check
+/usr/include/modsecurity/actions/action.h
+/usr/include/modsecurity/anchored_set_variable.h
+/usr/include/modsecurity/anchored_variable.h
+/usr/include/modsecurity/audit_log.h
+/usr/include/modsecurity/collection/collection.h
+/usr/include/modsecurity/collection/collections.h
+/usr/include/modsecurity/debug_log.h
+/usr/include/modsecurity/intervention.h
+/usr/include/modsecurity/modsecurity.h
+/usr/include/modsecurity/reading_logs_via_rule_message.h
+/usr/include/modsecurity/rule.h
+/usr/include/modsecurity/rule_message.h
+/usr/include/modsecurity/rules.h
+/usr/include/modsecurity/rules_exceptions.h
+/usr/include/modsecurity/rules_properties.h
+/usr/include/modsecurity/transaction.h
+/usr/include/modsecurity/variable_origin.h
+/usr/include/modsecurity/variable_value.h
+/usr/lib/libmodsecurity.a
+/usr/lib/libmodsecurity.so -> /usr/lib/libmodsecurity.so.3.0.4
+/usr/lib/libmodsecurity.so.3 -> /usr/lib/libmodsecurity.so.3.0.4
+/usr/lib/libmodsecurity.so.3.0.4
+/usr/lib/pkgconfig/modsecurity.pc

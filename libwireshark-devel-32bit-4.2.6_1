@@ -1,0 +1,4 @@
+/usr/lib32/libwireshark.so -> /usr/lib32/libwireshark.so.17
+/usr/lib32/libwiretap.so -> /usr/lib32/libwiretap.so.14
+/usr/lib32/libwsutil.so -> /usr/lib32/libwsutil.so.15
+/usr/lib32/pkgconfig/wireshark.pc

@@ -1,0 +1,4 @@
+/usr/lib32/libmatekbd.so -> /usr/lib32/libmatekbd.so.6.0.2
+/usr/lib32/libmatekbdui.so -> /usr/lib32/libmatekbdui.so.6.0.2
+/usr/lib32/pkgconfig/libmatekbd.pc
+/usr/lib32/pkgconfig/libmatekbdui.pc

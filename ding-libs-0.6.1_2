@@ -1,0 +1,17 @@
+/usr/lib/libbasicobjects.so.0 -> /usr/lib/libbasicobjects.so.0.1.0
+/usr/lib/libbasicobjects.so.0.1.0
+/usr/lib/libcollection.so.4 -> /usr/lib/libcollection.so.4.1.1
+/usr/lib/libcollection.so.4.1.1
+/usr/lib/libdhash.so.1 -> /usr/lib/libdhash.so.1.1.0
+/usr/lib/libdhash.so.1.1.0
+/usr/lib/libini_config.so.5 -> /usr/lib/libini_config.so.5.2.1
+/usr/lib/libini_config.so.5.2.1
+/usr/lib/libpath_utils.so.1 -> /usr/lib/libpath_utils.so.1.0.1
+/usr/lib/libpath_utils.so.1.0.1
+/usr/lib/libref_array.so.1 -> /usr/lib/libref_array.so.1.2.1
+/usr/lib/libref_array.so.1.2.1
+/usr/share/doc/ding-libs/README.dhash
+/usr/share/doc/ding-libs/README.path_utils
+/usr/share/doc/ding-libs/README.ref_array
+/usr/share/doc/ding-libs/examples/dhash_example.c
+/usr/share/doc/ding-libs/examples/dhash_test.c

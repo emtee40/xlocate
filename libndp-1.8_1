@@ -1,0 +1,4 @@
+/usr/bin/ndptool
+/usr/lib/libndp.so.0 -> /usr/lib/libndp.so.0.2.0
+/usr/lib/libndp.so.0.2.0
+/usr/share/man/man8/ndptool.8

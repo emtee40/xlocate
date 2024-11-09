@@ -1,0 +1,10 @@
+/usr/include/guestfs.h
+/usr/lib/libguestfs.so -> /usr/lib/libguestfs.so.0.515.0
+/usr/lib/pkgconfig/libguestfs.pc
+/usr/share/man/man3/Sys::Guestfs.3p
+/usr/share/man/man3/guestfs-examples.3
+/usr/share/man/man3/guestfs-ocaml.3
+/usr/share/man/man3/guestfs-perl.3
+/usr/share/man/man3/guestfs-ruby.3
+/usr/share/man/man3/guestfs.3
+/usr/share/man/man3/libguestfs.3

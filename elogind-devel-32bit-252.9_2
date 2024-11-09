@@ -1,0 +1,4 @@
+/usr/lib32/libelogind.so -> /usr/lib32/libelogind.so.0
+/usr/lib32/pkgconfig/libelogind.pc
+/usr/lib32/pkgconfig/libsystemd-logind.pc
+/usr/lib32/pkgconfig/libsystemd.pc

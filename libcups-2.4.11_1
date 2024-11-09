@@ -1,0 +1,4 @@
+/etc/cups/client.conf
+/usr/lib/libcups.so.2
+/usr/lib/libcupsimage.so.2
+/usr/share/man/man5/client.conf.5

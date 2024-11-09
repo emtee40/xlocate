@@ -1,0 +1,27 @@
+/usr/lib32/libqlcplusengine.so -> /usr/lib32/libqlcplusengine.so.1.0.0
+/usr/lib32/libqlcplusengine.so.1 -> /usr/lib32/libqlcplusengine.so.1.0.0
+/usr/lib32/libqlcplusengine.so.1.0 -> /usr/lib32/libqlcplusengine.so.1.0.0
+/usr/lib32/libqlcplusengine.so.1.0.0
+/usr/lib32/libqlcplusui.so -> /usr/lib32/libqlcplusui.so.1.0.0
+/usr/lib32/libqlcplusui.so.1 -> /usr/lib32/libqlcplusui.so.1.0.0
+/usr/lib32/libqlcplusui.so.1.0 -> /usr/lib32/libqlcplusui.so.1.0.0
+/usr/lib32/libqlcplusui.so.1.0.0
+/usr/lib32/libqlcpluswebaccess.so -> /usr/lib32/libqlcpluswebaccess.so.1.0.0
+/usr/lib32/libqlcpluswebaccess.so.1 -> /usr/lib32/libqlcpluswebaccess.so.1.0.0
+/usr/lib32/libqlcpluswebaccess.so.1.0 -> /usr/lib32/libqlcpluswebaccess.so.1.0.0
+/usr/lib32/libqlcpluswebaccess.so.1.0.0
+/usr/lib32/qt5/plugins/qlcplus/audio/libmadplugin.so
+/usr/lib32/qt5/plugins/qlcplus/audio/libsndfileplugin.so
+/usr/lib32/qt5/plugins/qlcplus/libartnet.so
+/usr/lib32/qt5/plugins/qlcplus/libdmx4linux.so
+/usr/lib32/qt5/plugins/qlcplus/libdmxusb.so
+/usr/lib32/qt5/plugins/qlcplus/libe131.so
+/usr/lib32/qt5/plugins/qlcplus/libenttecwing.so
+/usr/lib32/qt5/plugins/qlcplus/libhidplugin.so
+/usr/lib32/qt5/plugins/qlcplus/libloopback.so
+/usr/lib32/qt5/plugins/qlcplus/libmidiplugin.so
+/usr/lib32/qt5/plugins/qlcplus/libos2l.so
+/usr/lib32/qt5/plugins/qlcplus/libosc.so
+/usr/lib32/qt5/plugins/qlcplus/libpeperoni.so
+/usr/lib32/qt5/plugins/qlcplus/libspi.so
+/usr/lib32/qt5/plugins/qlcplus/libudmx.so

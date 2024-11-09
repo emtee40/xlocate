@@ -1,0 +1,6 @@
+/usr/include/obexftp/client.h
+/usr/include/obexftp/obexftp.h
+/usr/include/obexftp/object.h
+/usr/include/obexftp/uuid.h
+/usr/lib/libobexftp.so -> /usr/lib/libobexftp.so.0
+/usr/lib/pkgconfig/obexftp.pc

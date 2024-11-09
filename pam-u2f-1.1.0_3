@@ -1,0 +1,5 @@
+/usr/bin/pamu2fcfg
+/usr/lib/security/pam_u2f.so
+/usr/share/licenses/pam-u2f/COPYING
+/usr/share/man/man1/pamu2fcfg.1
+/usr/share/man/man8/pam_u2f.8

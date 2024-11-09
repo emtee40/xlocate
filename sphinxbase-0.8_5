@@ -1,0 +1,13 @@
+/usr/bin/sphinx_cepview
+/usr/bin/sphinx_cont_adseg
+/usr/bin/sphinx_cont_fileseg
+/usr/bin/sphinx_fe
+/usr/bin/sphinx_jsgf2fsg
+/usr/bin/sphinx_lm_convert
+/usr/bin/sphinx_lm_eval
+/usr/bin/sphinx_lm_sort
+/usr/bin/sphinx_pitch
+/usr/lib/libsphinxad.so.0 -> /usr/lib/libsphinxad.so.0.0.1
+/usr/lib/libsphinxad.so.0.0.1
+/usr/lib/libsphinxbase.so.1 -> /usr/lib/libsphinxbase.so.1.1.1
+/usr/lib/libsphinxbase.so.1.1.1

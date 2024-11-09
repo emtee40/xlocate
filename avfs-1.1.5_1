@@ -1,0 +1,5 @@
+/usr/bin/avfsd
+/usr/bin/davpass
+/usr/bin/ftppass
+/usr/bin/mountavfs
+/usr/bin/umountavfs

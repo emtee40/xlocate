@@ -1,0 +1,13 @@
+/usr/include/aom/aom.h
+/usr/include/aom/aom_codec.h
+/usr/include/aom/aom_decoder.h
+/usr/include/aom/aom_encoder.h
+/usr/include/aom/aom_external_partition.h
+/usr/include/aom/aom_frame_buffer.h
+/usr/include/aom/aom_image.h
+/usr/include/aom/aom_integer.h
+/usr/include/aom/aomcx.h
+/usr/include/aom/aomdx.h
+/usr/lib/libaom.a
+/usr/lib/libaom.so -> /usr/lib/libaom.so.3
+/usr/lib/pkgconfig/aom.pc

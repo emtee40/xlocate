@@ -1,0 +1,4 @@
+/usr/lib32/libnvme-mi.so -> /usr/lib32/libnvme-mi.so.1
+/usr/lib32/libnvme.so -> /usr/lib32/libnvme.so.1
+/usr/lib32/pkgconfig/libnvme-mi.pc
+/usr/lib32/pkgconfig/libnvme.pc

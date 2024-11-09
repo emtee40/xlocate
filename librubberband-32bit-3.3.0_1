@@ -1,0 +1,5 @@
+/usr/lib32/ladspa/ladspa-rubberband.so
+/usr/lib32/librubberband.so.2 -> /usr/lib32/librubberband.so.2.3.0
+/usr/lib32/librubberband.so.2.3.0
+/usr/lib32/lv2/rubberband.lv2/lv2-rubberband.so
+/usr/lib32/vamp/vamp-rubberband.so

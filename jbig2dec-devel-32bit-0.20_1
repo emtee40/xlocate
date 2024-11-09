@@ -1,0 +1,3 @@
+/usr/lib32/libjbig2dec.a
+/usr/lib32/libjbig2dec.so -> /usr/lib32/libjbig2dec.so.0.0.0
+/usr/lib32/pkgconfig/jbig2dec.pc

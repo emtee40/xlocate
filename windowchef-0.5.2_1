@@ -1,0 +1,11 @@
+/usr/bin/waitron
+/usr/bin/windowchef
+/usr/share/doc/windowchef/LICENSE
+/usr/share/doc/windowchef/README.md
+/usr/share/doc/windowchef/contrib/.gitignore
+/usr/share/doc/windowchef/examples/sxhkdrc
+/usr/share/doc/windowchef/examples/windowchefrc
+/usr/share/licenses/windowchef/LICENSE
+/usr/share/man/man1/waitron.1
+/usr/share/man/man1/windowchef.1
+/usr/share/xsessions/windowchef.desktop

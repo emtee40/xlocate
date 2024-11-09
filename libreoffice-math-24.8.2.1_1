@@ -1,0 +1,7 @@
+/usr/bin/lomath
+/usr/lib/libreoffice/program/libsmdlo.so
+/usr/lib/libreoffice/program/libsmlo.so
+/usr/lib/libreoffice/program/smath
+/usr/lib/libreoffice/share/registry/math.xcd
+/usr/share/applications/libreoffice-math.desktop -> /usr/lib/libreoffice/share/xdg/math.desktop
+/usr/share/man/man1/lomath.1

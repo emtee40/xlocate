@@ -1,0 +1,13 @@
+/usr/bin/bitcoin-cli
+/usr/bin/bitcoin-tx
+/usr/bin/bitcoin-util
+/usr/bin/bitcoin-wallet
+/usr/bin/bitcoind
+/usr/lib/libbitcoinconsensus.so.0 -> /usr/lib/libbitcoinconsensus.so.0.0.0
+/usr/lib/libbitcoinconsensus.so.0.0.0
+/usr/share/licenses/bitcoin/COPYING
+/usr/share/man/man1/bitcoin-cli.1
+/usr/share/man/man1/bitcoin-tx.1
+/usr/share/man/man1/bitcoin-util.1
+/usr/share/man/man1/bitcoin-wallet.1
+/usr/share/man/man1/bitcoind.1

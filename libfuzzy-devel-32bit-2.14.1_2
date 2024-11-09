@@ -1,0 +1,2 @@
+/usr/lib32/libfuzzy.a
+/usr/lib32/libfuzzy.so -> /usr/lib32/libfuzzy.so.2.1.0

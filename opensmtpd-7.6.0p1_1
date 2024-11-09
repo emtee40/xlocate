@@ -1,0 +1,40 @@
+/etc/pam.d/smtpd
+/etc/smtpd/aliases
+/etc/smtpd/smtpd.conf
+/etc/sv/opensmtpd/log/run
+/etc/sv/opensmtpd/log/supervise -> /run/runit/supervise.opensmtpd-log
+/etc/sv/opensmtpd/run
+/etc/sv/opensmtpd/supervise -> /run/runit/supervise.opensmtpd
+/usr/bin/mailq -> /usr/bin/smtpctl
+/usr/bin/makemap -> /usr/bin/smtpctl
+/usr/bin/newaliases -> /usr/bin/smtpctl
+/usr/bin/sendmail -> /usr/bin/smtpctl
+/usr/bin/smtp
+/usr/bin/smtpctl
+/usr/bin/smtpd
+/usr/libexec/opensmtpd/encrypt
+/usr/libexec/opensmtpd/lockspool
+/usr/libexec/opensmtpd/mail.lmtp
+/usr/libexec/opensmtpd/mail.local
+/usr/libexec/opensmtpd/mail.maildir
+/usr/libexec/opensmtpd/mail.mboxfile
+/usr/libexec/opensmtpd/mail.mda
+/usr/share/licenses/opensmtpd/LICENSE
+/usr/share/man/man1/lockspool.1
+/usr/share/man/man1/smtp.1
+/usr/share/man/man5/aliases.5
+/usr/share/man/man5/forward.5
+/usr/share/man/man5/smtpd.conf.5
+/usr/share/man/man5/table.5
+/usr/share/man/man7/smtpd-filters.7
+/usr/share/man/man7/smtpd-tables.7
+/usr/share/man/man8/mail.lmtp.8
+/usr/share/man/man8/mail.local.8
+/usr/share/man/man8/mail.maildir.8
+/usr/share/man/man8/mail.mboxfile.8
+/usr/share/man/man8/mail.mda.8
+/usr/share/man/man8/makemap.8
+/usr/share/man/man8/newaliases.8
+/usr/share/man/man8/sendmail.8
+/usr/share/man/man8/smtpctl.8
+/usr/share/man/man8/smtpd.8

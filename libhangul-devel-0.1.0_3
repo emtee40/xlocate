@@ -1,0 +1,3 @@
+/usr/include/hangul-1.0/hangul.h
+/usr/lib/libhangul.so -> /usr/lib/libhangul.so.1.0.0
+/usr/lib/pkgconfig/libhangul.pc

@@ -1,0 +1,4 @@
+/usr/include/libbz3.h
+/usr/lib/libbzip3.a
+/usr/lib/libbzip3.so -> /usr/lib/libbzip3.so.0.0.0
+/usr/lib/pkgconfig/bzip3.pc

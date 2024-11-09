@@ -1,0 +1,14 @@
+/usr/share/acpi_call/asus1215n.sh
+/usr/share/acpi_call/dellL702X.sh
+/usr/share/acpi_call/graphic_card.sh
+/usr/share/acpi_call/m11xr2.sh
+/usr/share/acpi_call/query_dsdt.pl
+/usr/share/acpi_call/turn_off_gpu.sh
+/usr/share/acpi_call/windump.c
+/usr/share/acpi_call/windump_hack/windump.c
+/usr/share/acpi_call/windump_hack/xorg.conf
+/usr/share/acpi_call/xorg.conf
+/usr/share/doc/acpi_call-dkms/README.md
+/usr/src/acpi_call-1.2.2/Makefile
+/usr/src/acpi_call-1.2.2/acpi_call.c
+/usr/src/acpi_call-1.2.2/dkms.conf

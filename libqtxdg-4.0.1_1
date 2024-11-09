@@ -1,0 +1,7 @@
+/etc/xdg/lxqt-qtxdg.conf
+/etc/xdg/qtxdg.conf
+/usr/lib/libQt6Xdg.so.4 -> /usr/lib/libQt6Xdg.so.4.0.1
+/usr/lib/libQt6Xdg.so.4.0.1
+/usr/lib/libQt6XdgIconLoader.so.4 -> /usr/lib/libQt6XdgIconLoader.so.4.0.1
+/usr/lib/libQt6XdgIconLoader.so.4.0.1
+/usr/lib/qt6/plugins/iconengines/libQt6XdgIconPlugin.so

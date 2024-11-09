@@ -1,0 +1,14 @@
+/usr/bin/sftovkb
+/usr/bin/vkeybd
+/usr/share/applications/vkeybd.desktop
+/usr/share/doc/vkeybd/README
+/usr/share/man/man1/vkeybd.1
+/usr/share/pixmaps/vkeybd_16x16.png
+/usr/share/pixmaps/vkeybd_32x32.png
+/usr/share/pixmaps/vkeybd_48x48.png
+/usr/share/vkeybd/vkeybd.list
+/usr/share/vkeybd/vkeybd.tcl
+/usr/share/vkeybd/vkeybdmap
+/usr/share/vkeybd/vkeybdmap-de
+/usr/share/vkeybd/vkeybdmap-es
+/usr/share/vkeybd/vkeybdmap-fr

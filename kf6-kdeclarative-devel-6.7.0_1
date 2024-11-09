@@ -1,0 +1,9 @@
+/usr/include/KF6/KDeclarative/CalendarEvents/CalendarEventsPlugin
+/usr/include/KF6/KDeclarative/calendarevents/calendarevents_export.h
+/usr/include/KF6/KDeclarative/calendarevents/calendareventsplugin.h
+/usr/include/KF6/KDeclarative/kdeclarative_version.h
+/usr/lib/cmake/KF6Declarative/KF6DeclarativeConfig.cmake
+/usr/lib/cmake/KF6Declarative/KF6DeclarativeConfigVersion.cmake
+/usr/lib/cmake/KF6Declarative/KF6DeclarativeTargets-none.cmake
+/usr/lib/cmake/KF6Declarative/KF6DeclarativeTargets.cmake
+/usr/lib/libKF6CalendarEvents.so -> /usr/lib/libKF6CalendarEvents.so.6

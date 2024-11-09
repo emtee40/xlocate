@@ -1,0 +1,23 @@
+/usr/lib32/afl/SanitizerCoverageLTO.so
+/usr/lib32/afl/SanitizerCoveragePCGUARD.so
+/usr/lib32/afl/afl-compiler-rt-32.o
+/usr/lib32/afl/afl-compiler-rt.o
+/usr/lib32/afl/afl-gcc-cmplog-pass.so
+/usr/lib32/afl/afl-gcc-cmptrs-pass.so
+/usr/lib32/afl/afl-gcc-pass.so
+/usr/lib32/afl/afl-gcc-rt.o -> /usr/lib32/afl/afl-compiler-rt.o
+/usr/lib32/afl/afl-llvm-dict2file.so
+/usr/lib32/afl/afl-llvm-lto-instrumentlist.so
+/usr/lib32/afl/afl-llvm-pass.so
+/usr/lib32/afl/afl-llvm-rt-lto-32.o
+/usr/lib32/afl/afl-llvm-rt-lto.o
+/usr/lib32/afl/cmplog-instructions-pass.so
+/usr/lib32/afl/cmplog-routines-pass.so
+/usr/lib32/afl/cmplog-switches-pass.so
+/usr/lib32/afl/compare-transform-pass.so
+/usr/lib32/afl/injection-pass.so
+/usr/lib32/afl/libAFLDriver.a
+/usr/lib32/afl/libAFLQemuDriver.a
+/usr/lib32/afl/split-compares-pass.so
+/usr/lib32/afl/split-switches-pass.so
+/usr/lib32/afl/testcases/archives/common/ar/small_archive.a

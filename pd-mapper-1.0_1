@@ -1,0 +1,5 @@
+/etc/sv/pd-mapper/run
+/etc/sv/pd-mapper/supervise -> /run/runit/supervise.pd-mapper
+/usr/bin/pd-mapper
+/usr/lib/systemd/system/pd-mapper.service
+/usr/share/licenses/pd-mapper/LICENSE

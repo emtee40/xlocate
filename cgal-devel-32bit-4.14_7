@@ -1,0 +1,3 @@
+/usr/lib32/libCGAL.so -> /usr/lib32/libCGAL.so.13
+/usr/lib32/libCGAL_Core.so -> /usr/lib32/libCGAL_Core.so.13
+/usr/lib32/libCGAL_ImageIO.so -> /usr/lib32/libCGAL_ImageIO.so.14

@@ -1,0 +1,3 @@
+/usr/bin/qemu-arm
+/usr/bin/qemu-arm-static -> /usr/bin/qemu-arm
+/usr/share/binfmts/qemu-arm

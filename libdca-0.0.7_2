@@ -1,0 +1,10 @@
+/usr/bin/dcadec
+/usr/bin/dtsdec
+/usr/bin/extract_dca
+/usr/bin/extract_dts
+/usr/lib/libdca.so.0 -> /usr/lib/libdca.so.0.0.0
+/usr/lib/libdca.so.0.0.0
+/usr/share/man/man1/dcadec.1
+/usr/share/man/man1/dtsdec.1 -> /usr/share/man/man1/dcadec.1
+/usr/share/man/man1/extract_dca.1
+/usr/share/man/man1/extract_dts.1 -> /usr/share/man/man1/extract_dca.1

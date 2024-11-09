@@ -1,0 +1,4 @@
+/usr/lib/dri/nouveau_drv_video.so -> ../libgallium-24.2.6.so
+/usr/lib/dri/r600_drv_video.so -> ../libgallium-24.2.6.so
+/usr/lib/dri/radeonsi_drv_video.so -> ../libgallium-24.2.6.so
+/usr/lib/dri/virtio_gpu_drv_video.so -> ../libgallium-24.2.6.so

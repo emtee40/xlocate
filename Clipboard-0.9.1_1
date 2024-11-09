@@ -1,0 +1,7 @@
+/usr/bin/cb
+/usr/lib/libcbwayland.so
+/usr/lib/libcbx11.so
+/usr/share/bash-completion/completions/cb
+/usr/share/fish/vendor_completions.d/cb.fish
+/usr/share/man/man1/cb.1
+/usr/share/zsh/site-functions/_cb

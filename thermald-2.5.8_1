@@ -1,0 +1,9 @@
+/etc/sv/thermald/log/run
+/etc/sv/thermald/log/supervise -> /run/runit/supervise.thermald-log
+/etc/sv/thermald/run
+/etc/sv/thermald/supervise -> /run/runit/supervise.thermald
+/etc/thermald/thermal-cpu-cdev-order.xml
+/usr/bin/thermald
+/usr/share/dbus-1/system.d/org.freedesktop.thermald.conf
+/usr/share/man/man5/thermal-conf.xml.5
+/usr/share/man/man8/thermald.8

@@ -1,0 +1,19 @@
+/usr/include/goa-1.0/goa/goa-generated.h
+/usr/include/goa-1.0/goa/goa.h
+/usr/include/goa-1.0/goa/goaclient.h
+/usr/include/goa-1.0/goa/goaenums.h
+/usr/include/goa-1.0/goa/goaenumtypes.h
+/usr/include/goa-1.0/goa/goaerror.h
+/usr/include/goa-1.0/goa/goaversion.h
+/usr/include/goa-1.0/goabackend/goabackend.h
+/usr/include/goa-1.0/goabackend/goabackendenums.h
+/usr/include/goa-1.0/goabackend/goabackendenumtypes.h
+/usr/include/goa-1.0/goabackend/goaprovider.h
+/usr/lib/goa-1.0/include/goaconfig.h
+/usr/lib/libgoa-1.0.so -> /usr/lib/libgoa-1.0.so.0
+/usr/lib/libgoa-backend-1.0.so -> /usr/lib/libgoa-backend-1.0.so.2
+/usr/lib/pkgconfig/goa-1.0.pc
+/usr/lib/pkgconfig/goa-backend-1.0.pc
+/usr/share/gir-1.0/Goa-1.0.gir
+/usr/share/vala/vapi/goa-1.0.deps
+/usr/share/vala/vapi/goa-1.0.vapi

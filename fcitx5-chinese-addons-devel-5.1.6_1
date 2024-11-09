@@ -1,0 +1,9 @@
+/usr/include/Fcitx5/Module/fcitx-module/cloudpinyin/cloudpinyin_public.h
+/usr/include/Fcitx5/Module/fcitx-module/pinyinhelper/pinyinhelper_public.h
+/usr/include/Fcitx5/Module/fcitx-module/punctuation/punctuation_public.h
+/usr/lib/cmake/Fcitx5ModuleCloudPinyin/Fcitx5ModuleCloudPinyinConfig.cmake
+/usr/lib/cmake/Fcitx5ModuleCloudPinyin/Fcitx5ModuleCloudPinyinConfigVersion.cmake
+/usr/lib/cmake/Fcitx5ModulePinyinHelper/Fcitx5ModulePinyinHelperConfig.cmake
+/usr/lib/cmake/Fcitx5ModulePinyinHelper/Fcitx5ModulePinyinHelperConfigVersion.cmake
+/usr/lib/cmake/Fcitx5ModulePunctuation/Fcitx5ModulePunctuationConfig.cmake
+/usr/lib/cmake/Fcitx5ModulePunctuation/Fcitx5ModulePunctuationConfigVersion.cmake

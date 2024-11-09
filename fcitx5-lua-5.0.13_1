@@ -1,0 +1,12 @@
+/usr/lib/fcitx5/libluaaddonloader.so
+/usr/share/fcitx5/addon/imeapi.conf
+/usr/share/fcitx5/addon/luaaddonloader.conf
+/usr/share/fcitx5/lua/imeapi/imeapi.lua
+/usr/share/locale/da/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/fr/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/ja/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/ko/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/ru/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx5-lua.mo
+/usr/share/metainfo/org.fcitx.Fcitx5.Addon.Lua.metainfo.xml

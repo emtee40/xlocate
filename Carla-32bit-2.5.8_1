@@ -1,0 +1,32 @@
+/usr/lib32/carla/carla-bridge-lv2.so
+/usr/lib32/carla/jack/libjack.so.0
+/usr/lib32/carla/libcarla_host-plugin.so
+/usr/lib32/carla/libcarla_interposer-jack-x11.so
+/usr/lib32/carla/libcarla_interposer-safe.so
+/usr/lib32/carla/libcarla_interposer-x11.so
+/usr/lib32/carla/libcarla_native-plugin.so
+/usr/lib32/carla/libcarla_standalone2.so
+/usr/lib32/carla/libcarla_utils.so
+/usr/lib32/carla/styles/carlastyle.so
+/usr/lib32/lv2/carla.lv2/carla-bridge-lv2.so -> /usr/lib32/carla/carla-bridge-lv2.so
+/usr/lib32/lv2/carla.lv2/carla.so
+/usr/lib32/lv2/carla.lv2/libcarla_host-plugin.so -> /usr/lib32/carla/libcarla_host-plugin.so
+/usr/lib32/lv2/carla.lv2/libcarla_interposer-jack-x11.so -> /usr/lib32/carla/libcarla_interposer-jack-x11.so
+/usr/lib32/lv2/carla.lv2/libcarla_interposer-safe.so -> /usr/lib32/carla/libcarla_interposer-safe.so
+/usr/lib32/lv2/carla.lv2/libcarla_interposer-x11.so -> /usr/lib32/carla/libcarla_interposer-x11.so
+/usr/lib32/lv2/carla.lv2/libcarla_native-plugin.so -> /usr/lib32/carla/libcarla_native-plugin.so
+/usr/lib32/lv2/carla.lv2/libcarla_utils.so -> /usr/lib32/carla/libcarla_utils.so
+/usr/lib32/vst/carla.vst/CarlaPatchbay.so
+/usr/lib32/vst/carla.vst/CarlaPatchbay16.so
+/usr/lib32/vst/carla.vst/CarlaPatchbay32.so
+/usr/lib32/vst/carla.vst/CarlaPatchbay64.so
+/usr/lib32/vst/carla.vst/CarlaPatchbayFX.so
+/usr/lib32/vst/carla.vst/CarlaRack.so
+/usr/lib32/vst/carla.vst/CarlaRackFX.so
+/usr/lib32/vst/carla.vst/carla-bridge-lv2.so -> /usr/lib32/carla/carla-bridge-lv2.so
+/usr/lib32/vst/carla.vst/libcarla_host-plugin.so -> /usr/lib32/carla/libcarla_host-plugin.so
+/usr/lib32/vst/carla.vst/libcarla_interposer-jack-x11.so -> /usr/lib32/carla/libcarla_interposer-jack-x11.so
+/usr/lib32/vst/carla.vst/libcarla_interposer-safe.so -> /usr/lib32/carla/libcarla_interposer-safe.so
+/usr/lib32/vst/carla.vst/libcarla_interposer-x11.so -> /usr/lib32/carla/libcarla_interposer-x11.so
+/usr/lib32/vst/carla.vst/libcarla_native-plugin.so -> /usr/lib32/carla/libcarla_native-plugin.so
+/usr/lib32/vst/carla.vst/libcarla_utils.so -> /usr/lib32/carla/libcarla_utils.so

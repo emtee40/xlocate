@@ -1,0 +1,5 @@
+/usr/bin/par2
+/usr/bin/par2create -> /usr/bin/par2
+/usr/bin/par2repair -> /usr/bin/par2
+/usr/bin/par2verify -> /usr/bin/par2
+/usr/share/man/man1/par2.1

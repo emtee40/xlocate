@@ -1,0 +1,4 @@
+/usr/lib32/librecoll-1.37.4.so
+/usr/lib32/librecoll.so -> /usr/lib32/librecoll-1.37.4.so
+/usr/lib32/python3.12/site-packages/recoll/_recoll.so
+/usr/lib32/python3.12/site-packages/recollaspell.so

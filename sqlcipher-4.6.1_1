@@ -1,0 +1,4 @@
+/usr/bin/sqlcipher
+/usr/lib/libsqlcipher.so.0 -> /usr/lib/libsqlcipher.so.0.8.6
+/usr/lib/libsqlcipher.so.0.8.6
+/usr/share/licenses/sqlcipher/LICENSE.md

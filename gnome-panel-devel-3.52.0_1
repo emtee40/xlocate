@@ -1,0 +1,12 @@
+/usr/include/gnome-panel/libgnome-panel/gp-action.h
+/usr/include/gnome-panel/libgnome-panel/gp-applet-info.h
+/usr/include/gnome-panel/libgnome-panel/gp-applet.h
+/usr/include/gnome-panel/libgnome-panel/gp-enum-types.h
+/usr/include/gnome-panel/libgnome-panel/gp-image-menu-item.h
+/usr/include/gnome-panel/libgnome-panel/gp-initial-setup-dialog.h
+/usr/include/gnome-panel/libgnome-panel/gp-lockdown.h
+/usr/include/gnome-panel/libgnome-panel/gp-macros.h
+/usr/include/gnome-panel/libgnome-panel/gp-module.h
+/usr/include/gnome-panel/libgnome-panel/gp-utils.h
+/usr/lib/libgnome-panel.so -> /usr/lib/libgnome-panel.so.3.0.0
+/usr/lib/pkgconfig/libgnome-panel.pc

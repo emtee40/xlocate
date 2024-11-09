@@ -1,0 +1,7 @@
+/usr/bin/unicode-query
+/usr/lib/libunicode.so.0.4 -> /usr/lib/libunicode.so.0.4.0
+/usr/lib/libunicode.so.0.4.0
+/usr/lib/libunicode_loader.so.0.4 -> /usr/lib/libunicode_loader.so.0.4.0
+/usr/lib/libunicode_loader.so.0.4.0
+/usr/lib/libunicode_ucd.so.0.4 -> /usr/lib/libunicode_ucd.so.0.4.0
+/usr/lib/libunicode_ucd.so.0.4.0

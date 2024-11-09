@@ -1,0 +1,5 @@
+/etc/apparmor.d/com.gitlab.CameronNemo.brillo
+/usr/bin/brillo
+/usr/lib/udev/rules.d/92-com.gitlab.CameronNemo.brillo.rules
+/usr/share/man/man1/brillo.1
+/usr/share/polkit-1/actions/com.gitlab.CameronNemo.brillo.policy

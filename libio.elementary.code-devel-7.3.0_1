@@ -1,0 +1,5 @@
+/usr/include/codecore.h
+/usr/lib/libcodecore.so -> /usr/lib/libcodecore.so.0
+/usr/lib/pkgconfig/codecore.pc
+/usr/share/vala/vapi/codecore.deps
+/usr/share/vala/vapi/codecore.vapi

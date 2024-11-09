@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/fasteners-0.19.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/fasteners-0.19.dist-info/METADATA
+/usr/lib/python3.12/site-packages/fasteners-0.19.dist-info/RECORD
+/usr/lib/python3.12/site-packages/fasteners-0.19.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/fasteners-0.19.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/fasteners/__init__.py
+/usr/lib/python3.12/site-packages/fasteners/_utils.py
+/usr/lib/python3.12/site-packages/fasteners/lock.py
+/usr/lib/python3.12/site-packages/fasteners/process_lock.py
+/usr/lib/python3.12/site-packages/fasteners/process_mechanism.py
+/usr/lib/python3.12/site-packages/fasteners/pywin32/__init__.py
+/usr/lib/python3.12/site-packages/fasteners/pywin32/pywintypes.py
+/usr/lib/python3.12/site-packages/fasteners/pywin32/win32con.py
+/usr/lib/python3.12/site-packages/fasteners/pywin32/win32file.py
+/usr/lib/python3.12/site-packages/fasteners/version.py

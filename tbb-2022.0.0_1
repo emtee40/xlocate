@@ -1,0 +1,22 @@
+/usr/lib/libirml.so.1
+/usr/lib/libtbb.so.12 -> /usr/lib/libtbb.so.12.14
+/usr/lib/libtbb.so.12.14
+/usr/lib/libtbbmalloc.so.2 -> /usr/lib/libtbbmalloc.so.2.14
+/usr/lib/libtbbmalloc.so.2.14
+/usr/lib/libtbbmalloc_proxy.so.2 -> /usr/lib/libtbbmalloc_proxy.so.2.14
+/usr/lib/libtbbmalloc_proxy.so.2.14
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/native_libs.txt
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/not-zip-safe
+/usr/lib/python3.12/site-packages/TBB-0.2-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/TBB.py
+/usr/lib/python3.12/site-packages/tbb/__init__.py
+/usr/lib/python3.12/site-packages/tbb/__main__.py
+/usr/lib/python3.12/site-packages/tbb/_api.py
+/usr/lib/python3.12/site-packages/tbb/_api.so
+/usr/lib/python3.12/site-packages/tbb/api.py
+/usr/lib/python3.12/site-packages/tbb/pool.py
+/usr/lib/python3.12/site-packages/tbb/test.py
+/usr/share/doc/TBB/README.md

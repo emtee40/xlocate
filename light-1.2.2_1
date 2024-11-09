@@ -1,0 +1,6 @@
+/usr/bin/light
+/usr/lib/udev/rules.d/90-backlight.rules
+/usr/share/doc/light/COPYING
+/usr/share/doc/light/ChangeLog.md
+/usr/share/doc/light/README.md
+/usr/share/man/man1/light.1

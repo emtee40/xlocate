@@ -1,0 +1,13 @@
+/usr/lib32/libcogl-gst.so -> /usr/lib32/libcogl-gst.so.20.4.3
+/usr/lib32/libcogl-pango.so -> /usr/lib32/libcogl-pango.so.20.4.3
+/usr/lib32/libcogl-path.so -> /usr/lib32/libcogl-path.so.20.4.3
+/usr/lib32/libcogl.so -> /usr/lib32/libcogl.so.20.4.3
+/usr/lib32/pkgconfig/cogl-1.0.pc
+/usr/lib32/pkgconfig/cogl-2.0-experimental.pc
+/usr/lib32/pkgconfig/cogl-gl-1.0.pc
+/usr/lib32/pkgconfig/cogl-gst-1.0.pc
+/usr/lib32/pkgconfig/cogl-gst-2.0-experimental.pc
+/usr/lib32/pkgconfig/cogl-pango-1.0.pc
+/usr/lib32/pkgconfig/cogl-pango-2.0-experimental.pc
+/usr/lib32/pkgconfig/cogl-path-1.0.pc
+/usr/lib32/pkgconfig/cogl-path-2.0-experimental.pc

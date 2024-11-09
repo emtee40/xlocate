@@ -1,0 +1,8 @@
+/usr/lib32/libxo.so.0 -> /usr/lib32/libxo.so.0.0.0
+/usr/lib32/libxo.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_cbor.so.0 -> /usr/lib32/libxo/encoder/libenc_cbor.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_cbor.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_csv.so.0 -> /usr/lib32/libxo/encoder/libenc_csv.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_csv.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_test.so.0 -> /usr/lib32/libxo/encoder/libenc_test.so.0.0.0
+/usr/lib32/libxo/encoder/libenc_test.so.0.0.0

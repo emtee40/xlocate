@@ -1,0 +1,15 @@
+/etc/dbus-1/system.d/org.linuxtv.Zbar.conf
+/usr/bin/zbarcam
+/usr/bin/zbarcam-gtk
+/usr/bin/zbarimg
+/usr/share/doc/zbar/ABOUT-NLS
+/usr/share/doc/zbar/COPYING
+/usr/share/doc/zbar/HACKING.md
+/usr/share/doc/zbar/INSTALL.md
+/usr/share/doc/zbar/LICENSE.md
+/usr/share/doc/zbar/NEWS.md
+/usr/share/doc/zbar/README.md
+/usr/share/doc/zbar/TODO.md
+/usr/share/locale/pt_BR/LC_MESSAGES/zbar.mo
+/usr/share/man/man1/zbarcam.1
+/usr/share/man/man1/zbarimg.1

@@ -1,0 +1,5 @@
+/usr/lib32/libatomic_ops.a
+/usr/lib32/libatomic_ops.so -> /usr/lib32/libatomic_ops.so.1.2.0
+/usr/lib32/libatomic_ops_gpl.a
+/usr/lib32/libatomic_ops_gpl.so -> /usr/lib32/libatomic_ops_gpl.so.1.2.0
+/usr/lib32/pkgconfig/atomic_ops.pc

@@ -1,0 +1,5 @@
+/usr/bin/yarn
+/usr/bin/yarnpkg -> /usr/bin/yarn
+/usr/lib/yarn/cli.js
+/usr/lib/yarn/v8-compile-cache.js
+/usr/share/licenses/yarn/LICENSE

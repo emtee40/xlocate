@@ -1,0 +1,16 @@
+/usr/include/dspy-1/dspy-connection-button.h
+/usr/include/dspy-1/dspy-connection.h
+/usr/include/dspy-1/dspy-introspection-model.h
+/usr/include/dspy-1/dspy-method-invocation.h
+/usr/include/dspy-1/dspy-method-view.h
+/usr/include/dspy-1/dspy-name-marquee.h
+/usr/include/dspy-1/dspy-name-row.h
+/usr/include/dspy-1/dspy-name.h
+/usr/include/dspy-1/dspy-names-model.h
+/usr/include/dspy-1/dspy-tree-view.h
+/usr/include/dspy-1/dspy-version-macros.h
+/usr/include/dspy-1/dspy-version.h
+/usr/include/dspy-1/dspy-view.h
+/usr/include/dspy-1/dspy.h
+/usr/lib/libdspy-1.so -> /usr/lib/libdspy-1.so.1
+/usr/lib/pkgconfig/dspy-1.pc

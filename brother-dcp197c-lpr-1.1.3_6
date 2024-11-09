@@ -1,0 +1,16 @@
+/opt/brother/Printers/dcp197c/inf/ImagingArea
+/opt/brother/Printers/dcp197c/inf/brdcp197cfunc
+/opt/brother/Printers/dcp197c/inf/brdcp197crc
+/opt/brother/Printers/dcp197c/inf/lut/brio08ba.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08bb.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08bc.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08be.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08bf.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08bg.bcm
+/opt/brother/Printers/dcp197c/inf/lut/brio08bk.bcm
+/opt/brother/Printers/dcp197c/inf/paperinfij2
+/opt/brother/Printers/dcp197c/inf/setupPrintcapij
+/opt/brother/Printers/dcp197c/lpd/brdcp197cfilter
+/opt/brother/Printers/dcp197c/lpd/filterdcp197c
+/opt/brother/Printers/dcp197c/lpd/psconvertij2
+/usr/bin/brprintconf_dcp197c

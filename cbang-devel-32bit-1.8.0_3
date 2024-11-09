@@ -1,0 +1,3 @@
+/usr/lib32/libcbang.a
+/usr/lib32/libcbang.so -> /usr/lib32/libcbang0.so.*
+/usr/lib32/libcbang0.so -> /usr/lib32/libcbang0.so.*

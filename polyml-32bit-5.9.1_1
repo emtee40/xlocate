@@ -1,0 +1,6 @@
+/usr/lib32/libpolymain.a
+/usr/lib32/libpolyml.a
+/usr/lib32/libpolyml.so -> /usr/lib32/libpolyml.so.14.0.0
+/usr/lib32/libpolyml.so.14 -> /usr/lib32/libpolyml.so.14.0.0
+/usr/lib32/libpolyml.so.14.0.0
+/usr/lib32/pkgconfig/polyml.pc

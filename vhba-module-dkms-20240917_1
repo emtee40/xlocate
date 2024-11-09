@@ -1,0 +1,5 @@
+/usr/lib/modules-load.d/vhba-module.conf
+/usr/lib/udev/rules.d/40-vhba.rules
+/usr/src/vhba-module-20240917/Makefile
+/usr/src/vhba-module-20240917/dkms.conf
+/usr/src/vhba-module-20240917/vhba.c

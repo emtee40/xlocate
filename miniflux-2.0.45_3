@@ -1,0 +1,6 @@
+/etc/sv/miniflux/log/run
+/etc/sv/miniflux/log/supervise -> /run/runit/supervise.miniflux-log
+/etc/sv/miniflux/run
+/etc/sv/miniflux/supervise -> /run/runit/supervise.miniflux
+/usr/bin/miniflux.app
+/usr/share/man/man1/miniflux.1

@@ -1,0 +1,85 @@
+/etc/sv/tlp/finish
+/etc/sv/tlp/log/run
+/etc/sv/tlp/log/supervise -> /run/runit/supervise.tlp-log
+/etc/sv/tlp/run
+/etc/sv/tlp/supervise -> /run/runit/supervise.tlp
+/etc/tlp.conf
+/etc/tlp.d/00-template.conf
+/etc/tlp.d/README
+/etc/zzz.d/resume/50-tlp.sh
+/etc/zzz.d/suspend/50-tlp.sh
+/usr/bin/bluetooth
+/usr/bin/nfc -> /usr/bin/bluetooth
+/usr/bin/run-on-ac
+/usr/bin/run-on-bat -> /usr/bin/run-on-ac
+/usr/bin/tlp
+/usr/bin/tlp-stat
+/usr/bin/wifi -> /usr/bin/bluetooth
+/usr/bin/wwan -> /usr/bin/bluetooth
+/usr/lib/udev/rules.d/85-tlp.rules
+/usr/lib/udev/tlp-usb-udev
+/usr/libexec/elogind/system-sleep/49-tlp-sleep
+/usr/share/bash-completion/completions/bluetooth -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/nfc -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/run-on-ac -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/run-on-bat -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/tlp-rdw
+/usr/share/bash-completion/completions/tlp-stat -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/wifi -> /usr/share/bash-completion/completions/tlp
+/usr/share/bash-completion/completions/wwan -> /usr/share/bash-completion/completions/tlp
+/usr/share/fish/vendor_completions.d/bluetooth.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/nfc.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/run-on-ac.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/run-on-bat.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/tlp-rdw.fish
+/usr/share/fish/vendor_completions.d/tlp-stat.fish
+/usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/wifi.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/fish/vendor_completions.d/wwan.fish -> /usr/share/fish/vendor_completions.d/tlp.fish
+/usr/share/man/man1/bluetooth.1
+/usr/share/man/man1/nfc.1
+/usr/share/man/man1/run-on-ac.1
+/usr/share/man/man1/run-on-bat.1
+/usr/share/man/man1/wifi.1
+/usr/share/man/man1/wwan.1
+/usr/share/man/man8/tlp-stat.8
+/usr/share/man/man8/tlp.8
+/usr/share/metainfo/de.linrunner.tlp.metainfo.xml
+/usr/share/tlp/bat.d/05-thinkpad
+/usr/share/tlp/bat.d/10-thinkpad-legacy
+/usr/share/tlp/bat.d/15-lenovo
+/usr/share/tlp/bat.d/20-huawei
+/usr/share/tlp/bat.d/25-msi
+/usr/share/tlp/bat.d/30-samsung
+/usr/share/tlp/bat.d/35-lg
+/usr/share/tlp/bat.d/36-lg-legacy
+/usr/share/tlp/bat.d/40-sony
+/usr/share/tlp/bat.d/45-system76
+/usr/share/tlp/bat.d/50-toshiba
+/usr/share/tlp/bat.d/60-macbook
+/usr/share/tlp/bat.d/89-asus
+/usr/share/tlp/bat.d/90-generic
+/usr/share/tlp/bat.d/TEMPLATE
+/usr/share/tlp/defaults.conf
+/usr/share/tlp/deprecated.conf
+/usr/share/tlp/func.d/05-tlp-func-pm
+/usr/share/tlp/func.d/10-tlp-func-cpu
+/usr/share/tlp/func.d/15-tlp-func-disk
+/usr/share/tlp/func.d/20-tlp-func-usb
+/usr/share/tlp/func.d/25-tlp-func-rf
+/usr/share/tlp/func.d/30-tlp-func-rf-sw
+/usr/share/tlp/func.d/35-tlp-func-batt
+/usr/share/tlp/func.d/40-tlp-func-bay
+/usr/share/tlp/func.d/45-tlp-func-gpu
+/usr/share/tlp/func.d/tlp-func-stat
+/usr/share/tlp/rename.conf
+/usr/share/tlp/tlp-func-base
+/usr/share/tlp/tlp-pcilist
+/usr/share/tlp/tlp-readconfs
+/usr/share/tlp/tlp-usblist
+/usr/share/zsh/site-functions/_tlp
+/usr/share/zsh/site-functions/_tlp-radio-device
+/usr/share/zsh/site-functions/_tlp-rdw
+/usr/share/zsh/site-functions/_tlp-run-on
+/usr/share/zsh/site-functions/_tlp-stat

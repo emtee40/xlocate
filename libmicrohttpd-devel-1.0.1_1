@@ -1,0 +1,8 @@
+/usr/include/microhttpd.h
+/usr/lib/libmicrohttpd.a
+/usr/lib/libmicrohttpd.so -> /usr/lib/libmicrohttpd.so.12.62.1
+/usr/lib/pkgconfig/libmicrohttpd.pc
+/usr/share/info/libmicrohttpd-tutorial.info
+/usr/share/info/libmicrohttpd.info
+/usr/share/info/libmicrohttpd_performance_data.png
+/usr/share/man/man3/libmicrohttpd.3

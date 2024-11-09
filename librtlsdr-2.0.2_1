@@ -1,0 +1,3 @@
+/usr/lib/librtlsdr.so.0 -> /usr/lib/librtlsdr.so.2.0.1
+/usr/lib/librtlsdr.so.2.0.1
+/usr/lib/udev/rules.d/53-rtl-sdr.rules

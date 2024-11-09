@@ -1,0 +1,8 @@
+/etc/rustypaste/config.toml
+/etc/sv/rustypaste/log/run
+/etc/sv/rustypaste/log/supervise -> /run/runit/supervise.rustypaste-log
+/etc/sv/rustypaste/run
+/etc/sv/rustypaste/supervise -> /run/runit/supervise.rustypaste
+/usr/bin/rustypaste
+/usr/share/doc/rustypaste/README.md
+/usr/share/licenses/rustypaste/LICENSE

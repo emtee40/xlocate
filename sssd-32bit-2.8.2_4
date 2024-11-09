@@ -1,0 +1,39 @@
+/usr/lib32/krb5/plugins/libkrb5/sssd_krb5_locator_plugin.so
+/usr/lib32/ldb/modules/ldb/memberof.so
+/usr/lib32/libipa_hbac.so.0 -> /usr/lib32/libipa_hbac.so.0.1.0
+/usr/lib32/libipa_hbac.so.0.1.0
+/usr/lib32/libnfsidmap/sss.so
+/usr/lib32/libnss_sss.so.2
+/usr/lib32/libsss_certmap.so.0 -> /usr/lib32/libsss_certmap.so.0.2.0
+/usr/lib32/libsss_certmap.so.0.2.0
+/usr/lib32/libsss_idmap.so.0 -> /usr/lib32/libsss_idmap.so.0.5.1
+/usr/lib32/libsss_idmap.so.0.5.1
+/usr/lib32/libsss_nss_idmap.so.0 -> /usr/lib32/libsss_nss_idmap.so.0.6.0
+/usr/lib32/libsss_nss_idmap.so.0.6.0
+/usr/lib32/libsss_simpleifp.so.0 -> /usr/lib32/libsss_simpleifp.so.0.1.1
+/usr/lib32/libsss_simpleifp.so.0.1.1
+/usr/lib32/security/pam_sss.so
+/usr/lib32/security/pam_sss_gss.so
+/usr/lib32/sssd/libifp_iface.so
+/usr/lib32/sssd/libifp_iface_sync.so
+/usr/lib32/sssd/libsss_cert.so
+/usr/lib32/sssd/libsss_child.so
+/usr/lib32/sssd/libsss_crypt.so
+/usr/lib32/sssd/libsss_debug.so
+/usr/lib32/sssd/libsss_files.so
+/usr/lib32/sssd/libsss_iface.so
+/usr/lib32/sssd/libsss_iface_sync.so
+/usr/lib32/sssd/libsss_krb5.so
+/usr/lib32/sssd/libsss_krb5_common.so
+/usr/lib32/sssd/libsss_ldap.so
+/usr/lib32/sssd/libsss_ldap_common.so
+/usr/lib32/sssd/libsss_proxy.so
+/usr/lib32/sssd/libsss_sbus.so
+/usr/lib32/sssd/libsss_sbus_sync.so
+/usr/lib32/sssd/libsss_semanage.so
+/usr/lib32/sssd/libsss_simple.so
+/usr/lib32/sssd/libsss_sudo.so
+/usr/lib32/sssd/libsss_util.so
+/usr/lib32/sssd/modules/libsss_autofs.so
+/usr/lib32/sssd/modules/sssd_krb5_idp_plugin.so
+/usr/lib32/sssd/modules/sssd_krb5_localauth_plugin.so

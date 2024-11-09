@@ -1,0 +1,4 @@
+/usr/lib32/libldb.so -> /usr/lib32/libldb.so.2.9.0
+/usr/lib32/libpyldb-util.so -> /usr/lib32/libpyldb-util.so.2.9.0
+/usr/lib32/pkgconfig/ldb.pc
+/usr/lib32/pkgconfig/pyldb-util.pc

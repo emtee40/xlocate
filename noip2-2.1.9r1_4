@@ -1,0 +1,3 @@
+/etc/sv/noip2/run
+/etc/sv/noip2/supervise -> /run/runit/supervise.noip2
+/usr/bin/noip2

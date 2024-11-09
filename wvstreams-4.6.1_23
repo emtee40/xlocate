@@ -1,0 +1,12 @@
+/etc/uniconf.conf
+/usr/bin/uni
+/usr/bin/uniconfd
+/usr/bin/wvtestrun
+/usr/lib/libuniconf.so.4.6
+/usr/lib/libwvbase.so.4.6
+/usr/lib/libwvstreams.so.4.6
+/usr/lib/libwvutils.so.4.6
+/usr/lib/valgrind/wvstreams.supp
+/usr/share/man/man8/uni.8
+/usr/share/man/man8/uniconfd.8
+/var/lib/uniconf/uniconfd.ini

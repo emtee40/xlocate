@@ -1,0 +1,9 @@
+/usr/lib32/libkactivitymanagerd_plugin.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.ActivityRunner.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.ActivityTemplates.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.GlobalShortcuts.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.LibreOfficeEventSpy.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.RecentlyUsedEventSpy.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.ResourceScoring.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.RunApplication.so
+/usr/lib32/qt6/plugins/kactivitymanagerd1/org.kde.ActivityManager.VirtualDesktopSwitch.so

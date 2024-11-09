@@ -1,0 +1,9 @@
+/usr/include/openjpeg-2.5/openjpeg.h
+/usr/include/openjpeg-2.5/opj_config.h
+/usr/lib/cmake/openjpeg-2.5/OpenJPEGConfig.cmake
+/usr/lib/cmake/openjpeg-2.5/OpenJPEGConfigVersion.cmake
+/usr/lib/cmake/openjpeg-2.5/OpenJPEGTargets-none.cmake
+/usr/lib/cmake/openjpeg-2.5/OpenJPEGTargets.cmake
+/usr/lib/libopenjp2.a
+/usr/lib/libopenjp2.so -> /usr/lib/libopenjp2.so.7
+/usr/lib/pkgconfig/libopenjp2.pc

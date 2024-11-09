@@ -1,0 +1,4 @@
+/usr/lib32/libavahi-glib.so -> /usr/lib32/libavahi-glib.so.1.0.2
+/usr/lib32/libavahi-gobject.so -> /usr/lib32/libavahi-gobject.so.0.0.5
+/usr/lib32/pkgconfig/avahi-glib.pc
+/usr/lib32/pkgconfig/avahi-gobject.pc

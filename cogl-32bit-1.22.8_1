@@ -1,0 +1,9 @@
+/usr/lib32/gstreamer-1.0/libgstcogl.so
+/usr/lib32/libcogl-gst.so.20 -> /usr/lib32/libcogl-gst.so.20.4.3
+/usr/lib32/libcogl-gst.so.20.4.3
+/usr/lib32/libcogl-pango.so.20 -> /usr/lib32/libcogl-pango.so.20.4.3
+/usr/lib32/libcogl-pango.so.20.4.3
+/usr/lib32/libcogl-path.so.20 -> /usr/lib32/libcogl-path.so.20.4.3
+/usr/lib32/libcogl-path.so.20.4.3
+/usr/lib32/libcogl.so.20 -> /usr/lib32/libcogl.so.20.4.3
+/usr/lib32/libcogl.so.20.4.3

@@ -1,0 +1,11 @@
+/usr/include/libisns/attrs.h
+/usr/include/libisns/buffer.h
+/usr/include/libisns/isns-proto.h
+/usr/include/libisns/isns.h
+/usr/include/libisns/message.h
+/usr/include/libisns/paths.h
+/usr/include/libisns/source.h
+/usr/include/libisns/types.h
+/usr/include/libisns/util.h
+/usr/lib/libisns.a
+/usr/lib/libisns.so -> /usr/lib/libisns.so.0

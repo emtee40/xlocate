@@ -1,0 +1,8 @@
+/usr/lib32/libQt5SerialBus.so.5 -> /usr/lib32/libQt5SerialBus.so.5.15.11
+/usr/lib32/libQt5SerialBus.so.5.15 -> /usr/lib32/libQt5SerialBus.so.5.15.11
+/usr/lib32/libQt5SerialBus.so.5.15.11
+/usr/lib32/qt5/plugins/canbus/libqtpassthrucanbus.so
+/usr/lib32/qt5/plugins/canbus/libqtpeakcanbus.so
+/usr/lib32/qt5/plugins/canbus/libqtsocketcanbus.so
+/usr/lib32/qt5/plugins/canbus/libqttinycanbus.so
+/usr/lib32/qt5/plugins/canbus/libqtvirtualcanbus.so

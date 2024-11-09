@@ -1,0 +1,8 @@
+/usr/bin/brotli
+/usr/lib/libbrotlicommon.so.1 -> /usr/lib/libbrotlicommon.so.1.1.0
+/usr/lib/libbrotlicommon.so.1.1.0
+/usr/lib/libbrotlidec.so.1 -> /usr/lib/libbrotlidec.so.1.1.0
+/usr/lib/libbrotlidec.so.1.1.0
+/usr/lib/libbrotlienc.so.1 -> /usr/lib/libbrotlienc.so.1.1.0
+/usr/lib/libbrotlienc.so.1.1.0
+/usr/share/licenses/brotli/LICENSE

@@ -1,0 +1,6 @@
+/usr/lib32/libsyncthingconnector.so.1.6.3
+/usr/lib32/libsyncthingconnector.so.19 -> /usr/lib32/libsyncthingconnector.so.1.6.3
+/usr/lib32/libsyncthingmodel.so.1.6.3
+/usr/lib32/libsyncthingmodel.so.19 -> /usr/lib32/libsyncthingmodel.so.1.6.3
+/usr/lib32/libsyncthingwidgets.so.1.6.3
+/usr/lib32/libsyncthingwidgets.so.19 -> /usr/lib32/libsyncthingwidgets.so.1.6.3

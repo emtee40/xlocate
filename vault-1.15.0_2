@@ -1,0 +1,6 @@
+/etc/sv/vault/log/run
+/etc/sv/vault/log/supervise -> /run/runit/supervise.vault-log
+/etc/sv/vault/run
+/etc/sv/vault/supervise -> /run/runit/supervise.vault
+/usr/bin/vault
+/usr/share/licenses/vault/LICENSE

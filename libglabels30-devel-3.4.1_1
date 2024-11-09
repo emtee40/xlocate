@@ -1,0 +1,25 @@
+/usr/include/libglabels-3.0/libglabels.h
+/usr/include/libglabels-3.0/libglabels/lgl-category.h
+/usr/include/libglabels-3.0/libglabels/lgl-db.h
+/usr/include/libglabels-3.0/libglabels/lgl-paper.h
+/usr/include/libglabels-3.0/libglabels/lgl-str.h
+/usr/include/libglabels-3.0/libglabels/lgl-template.h
+/usr/include/libglabels-3.0/libglabels/lgl-units.h
+/usr/include/libglabels-3.0/libglabels/lgl-xml-category.h
+/usr/include/libglabels-3.0/libglabels/lgl-xml-paper.h
+/usr/include/libglabels-3.0/libglabels/lgl-xml-template.h
+/usr/include/libglabels-3.0/libglabels/lgl-xml.h
+/usr/include/libglbarcode-3.0/libglbarcode.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-code39.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-create.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-onecode.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-postnet.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-render-to-cairo.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode-type.h
+/usr/include/libglbarcode-3.0/libglbarcode/lgl-barcode.h
+/usr/lib/libglabels-3.0.a
+/usr/lib/libglabels-3.0.so -> /usr/lib/libglabels-3.0.so.8.0.0
+/usr/lib/libglbarcode-3.0.a
+/usr/lib/libglbarcode-3.0.so -> /usr/lib/libglbarcode-3.0.so.0.0.0
+/usr/lib/pkgconfig/libglabels-3.0.pc
+/usr/lib/pkgconfig/libglbarcode-3.0.pc

@@ -1,0 +1,18 @@
+/etc/profile.d/gpm.sh
+/etc/sv/gpm/run
+/etc/sv/gpm/supervise -> /run/runit/supervise.gpm
+/usr/bin/disable-paste
+/usr/bin/display-buttons
+/usr/bin/display-coords
+/usr/bin/get-versions
+/usr/bin/gpm
+/usr/bin/gpm-root
+/usr/bin/hltest
+/usr/bin/mev
+/usr/bin/mouse-test
+/usr/share/info/gpm.info.gz
+/usr/share/man/man1/gpm-root.1
+/usr/share/man/man1/mev.1
+/usr/share/man/man1/mouse-test.1
+/usr/share/man/man7/gpm-types.7
+/usr/share/man/man8/gpm.8

@@ -1,0 +1,5 @@
+/etc/chromium/native-messaging-hosts/passff.json
+/etc/opt/chrome/native-messaging-hosts/passff.json
+/etc/vivaldi/native-messaging-hosts/passff.json
+/usr/lib/mozilla/native-messaging-hosts/passff.json
+/usr/libexec/passff.py

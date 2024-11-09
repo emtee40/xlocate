@@ -1,0 +1,7 @@
+/usr/include/t3window/terminal.h
+/usr/include/t3window/utf8.h
+/usr/include/t3window/window.h
+/usr/include/t3window/window_api.h
+/usr/include/t3window/window_errors.h
+/usr/lib/libt3window.so -> /usr/lib/libt3window.so.0.0.0
+/usr/lib/pkgconfig/libt3window.pc

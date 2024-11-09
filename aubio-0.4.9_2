@@ -1,0 +1,15 @@
+/usr/bin/aubiomfcc
+/usr/bin/aubionotes
+/usr/bin/aubioonset
+/usr/bin/aubiopitch
+/usr/bin/aubioquiet
+/usr/bin/aubiotrack
+/usr/lib/libaubio.a
+/usr/share/man/man1/aubio.1
+/usr/share/man/man1/aubiocut.1
+/usr/share/man/man1/aubiomfcc.1
+/usr/share/man/man1/aubionotes.1
+/usr/share/man/man1/aubioonset.1
+/usr/share/man/man1/aubiopitch.1
+/usr/share/man/man1/aubioquiet.1
+/usr/share/man/man1/aubiotrack.1

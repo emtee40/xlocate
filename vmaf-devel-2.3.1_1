@@ -1,0 +1,9 @@
+/usr/include/libvmaf/compute_vmaf.h
+/usr/include/libvmaf/feature.h
+/usr/include/libvmaf/libvmaf.h
+/usr/include/libvmaf/model.h
+/usr/include/libvmaf/picture.h
+/usr/include/libvmaf/version.h
+/usr/lib/libvmaf.a
+/usr/lib/libvmaf.so -> /usr/lib/libvmaf.so.1
+/usr/lib/pkgconfig/libvmaf.pc

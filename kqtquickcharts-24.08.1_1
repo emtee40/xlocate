@@ -1,0 +1,8 @@
+/usr/lib/qt5/qml/org/kde/charts/BarChart.qml
+/usr/lib/qt5/qml/org/kde/charts/Label.qml
+/usr/lib/qt5/qml/org/kde/charts/LegendItem.qml
+/usr/lib/qt5/qml/org/kde/charts/LineChart.qml
+/usr/lib/qt5/qml/org/kde/charts/LineLabel.qml
+/usr/lib/qt5/qml/org/kde/charts/XYChart.qml
+/usr/lib/qt5/qml/org/kde/charts/libkqtquickcharts.so
+/usr/lib/qt5/qml/org/kde/charts/qmldir

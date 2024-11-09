@@ -1,0 +1,6 @@
+/usr/lib32/libcdio_cdda.a
+/usr/lib32/libcdio_cdda.so -> /usr/lib32/libcdio_cdda.so.2.0.0
+/usr/lib32/libcdio_paranoia.a
+/usr/lib32/libcdio_paranoia.so -> /usr/lib32/libcdio_paranoia.so.2.0.0
+/usr/lib32/pkgconfig/libcdio_cdda.pc
+/usr/lib32/pkgconfig/libcdio_paranoia.pc

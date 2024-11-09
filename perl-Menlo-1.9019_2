@@ -1,0 +1,11 @@
+/usr/share/man/man3/Menlo.3p
+/usr/share/man/man3/Menlo::Builder::Static.3p
+/usr/share/man/man3/Menlo::Index::MetaCPAN.3p
+/usr/share/man/man3/Menlo::Index::MetaDB.3p
+/usr/share/perl5/vendor_perl/Menlo.pm
+/usr/share/perl5/vendor_perl/Menlo/Builder/Static.pm
+/usr/share/perl5/vendor_perl/Menlo/Dependency.pm
+/usr/share/perl5/vendor_perl/Menlo/Index/MetaCPAN.pm
+/usr/share/perl5/vendor_perl/Menlo/Index/MetaDB.pm
+/usr/share/perl5/vendor_perl/Menlo/Index/Mirror.pm
+/usr/share/perl5/vendor_perl/Menlo/Util.pm

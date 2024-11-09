@@ -1,0 +1,4 @@
+/usr/include/umockdev-1.0/umockdev.h
+/usr/lib/libumockdev-preload.so -> /usr/lib/libumockdev-preload.so.0
+/usr/lib/libumockdev.so -> /usr/lib/libumockdev.so.0
+/usr/lib/pkgconfig/umockdev-1.0.pc

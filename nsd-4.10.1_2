@@ -1,0 +1,16 @@
+/etc/sv/nsd/log/run
+/etc/sv/nsd/log/supervise -> /run/runit/supervise.nsd-log
+/etc/sv/nsd/run
+/etc/sv/nsd/supervise -> /run/runit/supervise.nsd
+/usr/bin/nsd
+/usr/bin/nsd-checkconf
+/usr/bin/nsd-checkzone
+/usr/bin/nsd-control
+/usr/bin/nsd-control-setup
+/usr/share/examples/nsd/nsd.conf.sample
+/usr/share/licenses/nsd/LICENSE
+/usr/share/man/man5/nsd.conf.5
+/usr/share/man/man8/nsd-checkconf.8
+/usr/share/man/man8/nsd-checkzone.8
+/usr/share/man/man8/nsd-control.8
+/usr/share/man/man8/nsd.8

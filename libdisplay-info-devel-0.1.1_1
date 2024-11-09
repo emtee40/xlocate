@@ -1,0 +1,9 @@
+/usr/include/libdisplay-info/cta.h
+/usr/include/libdisplay-info/cvt.h
+/usr/include/libdisplay-info/displayid.h
+/usr/include/libdisplay-info/dmt.h
+/usr/include/libdisplay-info/edid.h
+/usr/include/libdisplay-info/gtf.h
+/usr/include/libdisplay-info/info.h
+/usr/lib/libdisplay-info.so -> /usr/lib/libdisplay-info.so.1
+/usr/lib/pkgconfig/libdisplay-info.pc

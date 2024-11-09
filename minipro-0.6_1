@@ -1,0 +1,8 @@
+/usr/bin/minipro
+/usr/lib/udev/rules.d/60-minipro.rules
+/usr/lib/udev/rules.d/61-minipro-plugdev.rules
+/usr/lib/udev/rules.d/61-minipro-uaccess.rules
+/usr/share/bash-completion/completions/minipro
+/usr/share/man/man1/minipro.1
+/usr/share/minipro/infoic.xml
+/usr/share/minipro/logicic.xml

@@ -1,0 +1,17 @@
+/usr/lib/python3.12/site-packages/cli_helpers-2.3.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/cli_helpers-2.3.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/cli_helpers-2.3.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/cli_helpers-2.3.0-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/cli_helpers-2.3.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/cli_helpers/__init__.py
+/usr/lib/python3.12/site-packages/cli_helpers/compat.py
+/usr/lib/python3.12/site-packages/cli_helpers/config.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/__init__.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/delimited_output_adapter.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/output_formatter.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/preprocessors.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/tabulate_adapter.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/tsv_output_adapter.py
+/usr/lib/python3.12/site-packages/cli_helpers/tabular_output/vertical_table_adapter.py
+/usr/lib/python3.12/site-packages/cli_helpers/utils.py
+/usr/share/licenses/python3-cli_helpers/LICENSE

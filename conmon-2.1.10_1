@@ -1,0 +1,3 @@
+/usr/bin/conmon
+/usr/libexec/podman/conmon -> /usr/bin/conmon
+/usr/share/man/man8/conmon.8

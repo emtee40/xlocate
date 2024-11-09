@@ -1,0 +1,6 @@
+/usr/share/hyphen/hyph_ca.dic
+/usr/share/hyphen/hyph_ca_AD.dic -> /usr/share/hyphen/hyph_ca.dic
+/usr/share/hyphen/hyph_ca_ES.dic -> /usr/share/hyphen/hyph_ca.dic
+/usr/share/hyphen/hyph_ca_ES@valencia.dic -> /usr/share/hyphen/hyph_ca.dic
+/usr/share/hyphen/hyph_ca_FR.dic -> /usr/share/hyphen/hyph_ca.dic
+/usr/share/hyphen/hyph_ca_IT.dic -> /usr/share/hyphen/hyph_ca.dic

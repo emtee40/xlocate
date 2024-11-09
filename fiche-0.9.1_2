@@ -1,0 +1,4 @@
+/etc/sv/fiche/run
+/etc/sv/fiche/supervise -> /run/runit/supervise.fiche
+/usr/bin/fiche
+/usr/share/licenses/fiche/LICENSE

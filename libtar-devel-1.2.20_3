@@ -1,0 +1,4 @@
+/usr/include/libtar.h
+/usr/include/libtar_listhash.h
+/usr/lib/libtar.a
+/usr/lib/libtar.so -> /usr/lib/libtar.so.0.0.0

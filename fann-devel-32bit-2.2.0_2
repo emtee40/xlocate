@@ -1,0 +1,5 @@
+/usr/lib32/libdoublefann.so -> /usr/lib32/libdoublefann.so.2
+/usr/lib32/libfann.so -> /usr/lib32/libfann.so.2
+/usr/lib32/libfixedfann.so -> /usr/lib32/libfixedfann.so.2
+/usr/lib32/libfloatfann.so -> /usr/lib32/libfloatfann.so.2
+/usr/lib32/pkgconfig/fann.pc

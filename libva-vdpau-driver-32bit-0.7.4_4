@@ -1,0 +1,3 @@
+/usr/lib32/dri/nvidia_drv_video.so -> /usr/lib32/dri/vdpau_drv_video.so
+/usr/lib32/dri/s3g_drv_video.so -> /usr/lib32/dri/vdpau_drv_video.so
+/usr/lib32/dri/vdpau_drv_video.so

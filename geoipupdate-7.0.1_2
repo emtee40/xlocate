@@ -1,0 +1,5 @@
+/etc/geoip/GeoIP.conf
+/usr/bin/geoipupdate
+/usr/share/licenses/geoipupdate/LICENSE-MIT
+/usr/share/man/man1/geoipupdate.1
+/usr/share/man/man5/GeoIP.conf.5

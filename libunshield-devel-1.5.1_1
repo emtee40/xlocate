@@ -1,0 +1,3 @@
+/usr/include/libunshield.h
+/usr/lib/libunshield.so -> /usr/lib/libunshield.so.0
+/usr/lib/pkgconfig/libunshield.pc

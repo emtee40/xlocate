@@ -1,0 +1,6 @@
+/usr/bin/linit
+/usr/bin/lreboot
+/usr/share/examples/linit/boot
+/usr/share/examples/linit/sigint
+/usr/share/examples/linit/sigpwr
+/usr/share/licenses/linit/LICENSE

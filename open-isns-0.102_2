@@ -1,0 +1,12 @@
+/etc/isns/isnsadm.conf
+/etc/isns/isnsd.conf
+/etc/isns/isnsdd.conf
+/usr/bin/isnsadm
+/usr/bin/isnsd
+/usr/bin/isnsdd
+/usr/lib/pkgconfig/libisns.pc
+/usr/share/man/man5/isns_config.5
+/usr/share/man/man8/isnsadm.8
+/usr/share/man/man8/isnsd.8
+/usr/share/man/man8/isnsdd.8
+/usr/share/man/man8/isnssetup.8

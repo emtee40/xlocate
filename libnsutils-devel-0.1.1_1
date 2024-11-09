@@ -1,0 +1,9 @@
+/usr/include/nsutils/assert.h
+/usr/include/nsutils/base64.h
+/usr/include/nsutils/endian.h
+/usr/include/nsutils/errors.h
+/usr/include/nsutils/time.h
+/usr/include/nsutils/unistd.h
+/usr/lib/libnsutils.a
+/usr/lib/libnsutils.so -> /usr/lib/libnsutils.so.0.1.1
+/usr/lib/pkgconfig/libnsutils.pc

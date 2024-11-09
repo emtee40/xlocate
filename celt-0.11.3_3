@@ -1,0 +1,5 @@
+/usr/bin/celtdec
+/usr/bin/celtenc
+/usr/lib/libcelt0.so.2 -> /usr/lib/libcelt0.so.2.0.0
+/usr/lib/libcelt0.so.2.0.0
+/usr/share/licenses/celt/COPYING

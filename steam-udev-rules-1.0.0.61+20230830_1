@@ -1,0 +1,4 @@
+/usr/lib/udev/rules.d/60-steam-input.rules
+/usr/lib/udev/rules.d/60-steam-vr.rules
+/usr/lib/udev/rules.d/99-oculus.rules
+/usr/share/licenses/steam-udev-rules/LICENSE

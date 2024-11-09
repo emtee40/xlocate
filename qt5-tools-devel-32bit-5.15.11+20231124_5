@@ -1,0 +1,8 @@
+/usr/lib32/libQt5Designer.so -> /usr/lib32/libQt5Designer.so.5.15.11
+/usr/lib32/libQt5DesignerComponents.so -> /usr/lib32/libQt5DesignerComponents.so.5.15.11
+/usr/lib32/libQt5Help.so -> /usr/lib32/libQt5Help.so.5.15.11
+/usr/lib32/libQt5UiTools.a
+/usr/lib32/pkgconfig/Qt5Designer.pc
+/usr/lib32/pkgconfig/Qt5Help.pc
+/usr/lib32/pkgconfig/Qt5UiPlugin.pc
+/usr/lib32/pkgconfig/Qt5UiTools.pc

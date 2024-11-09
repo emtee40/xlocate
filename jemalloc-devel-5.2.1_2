@@ -1,0 +1,11 @@
+/usr/bin/jemalloc-config
+/usr/bin/jemalloc.sh
+/usr/bin/jeprof
+/usr/include/jemalloc/jemalloc.h
+/usr/lib/libjemalloc.a
+/usr/lib/libjemalloc.so -> /usr/lib/libjemalloc.so.2
+/usr/lib/libjemalloc_pic.a
+/usr/lib/pkgconfig/jemalloc.pc
+/usr/share/doc/jemalloc/jemalloc.html
+/usr/share/licenses/jemalloc/COPYING
+/usr/share/man/man3/jemalloc.3

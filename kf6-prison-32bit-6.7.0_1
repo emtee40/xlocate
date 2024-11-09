@@ -1,0 +1,6 @@
+/usr/lib32/libKF6Prison.so.6 -> /usr/lib32/libKF6Prison.so.6.7.0
+/usr/lib32/libKF6Prison.so.6.7.0
+/usr/lib32/libKF6PrisonScanner.so.6 -> /usr/lib32/libKF6PrisonScanner.so.6.7.0
+/usr/lib32/libKF6PrisonScanner.so.6.7.0
+/usr/lib32/qt6/qml/org/kde/prison/libprisonquickplugin.so
+/usr/lib32/qt6/qml/org/kde/prison/scanner/libprisonscannerquickplugin.so

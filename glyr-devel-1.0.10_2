@@ -1,0 +1,8 @@
+/usr/include/glyr/cache.h
+/usr/include/glyr/config.h
+/usr/include/glyr/glyr.h
+/usr/include/glyr/misc.h
+/usr/include/glyr/testing.h
+/usr/include/glyr/types.h
+/usr/lib/libglyr.so -> /usr/lib/libglyr.so.1
+/usr/lib/pkgconfig/libglyr.pc

@@ -1,0 +1,15 @@
+/etc/nethack/sysconf
+/usr/bin/nethack
+/usr/lib/nethack/license
+/usr/lib/nethack/nethack
+/usr/lib/nethack/recover
+/usr/share/doc/nethack/Guidebook.txt
+/usr/share/licenses/nethack/LICENSE
+/usr/share/man/man6/dgn_comp.6
+/usr/share/man/man6/dlb.6
+/usr/share/man/man6/lev_comp.6
+/usr/share/man/man6/makedefs.6
+/usr/share/man/man6/nethack.6
+/usr/share/man/man6/recover.6
+/var/games/nethack/nhdat
+/var/games/nethack/symbols

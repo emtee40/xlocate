@@ -1,0 +1,4 @@
+/usr/lib32/libQt5Bluetooth.so -> /usr/lib32/libQt5Bluetooth.so.5.15.11
+/usr/lib32/libQt5Nfc.so -> /usr/lib32/libQt5Nfc.so.5.15.11
+/usr/lib32/pkgconfig/Qt5Bluetooth.pc
+/usr/lib32/pkgconfig/Qt5Nfc.pc

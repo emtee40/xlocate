@@ -1,0 +1,20 @@
+/usr/include/qhttpengine/basicauthmiddleware.h
+/usr/include/qhttpengine/filesystemhandler.h
+/usr/include/qhttpengine/handler.h
+/usr/include/qhttpengine/ibytearray.h
+/usr/include/qhttpengine/localauthmiddleware.h
+/usr/include/qhttpengine/localfile.h
+/usr/include/qhttpengine/middleware.h
+/usr/include/qhttpengine/parser.h
+/usr/include/qhttpengine/proxyhandler.h
+/usr/include/qhttpengine/qhttpengine_export.h
+/usr/include/qhttpengine/qiodevicecopier.h
+/usr/include/qhttpengine/qobjecthandler.h
+/usr/include/qhttpengine/range.h
+/usr/include/qhttpengine/server.h
+/usr/include/qhttpengine/socket.h
+/usr/lib/cmake/qhttpengine/qhttpengineConfig-relwithdebinfo.cmake
+/usr/lib/cmake/qhttpengine/qhttpengineConfig.cmake
+/usr/lib/cmake/qhttpengine/qhttpengineConfigVersion.cmake
+/usr/lib/libqhttpengine.so -> /usr/lib/libqhttpengine.so.1
+/usr/lib/pkgconfig/qhttpengine.pc

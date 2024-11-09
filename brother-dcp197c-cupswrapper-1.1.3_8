@@ -1,0 +1,4 @@
+/opt/brother/Printers/dcp197c/cupswrapper/brcupsconfpt1
+/opt/brother/Printers/dcp197c/cupswrapper/brother_dcp197c_printer_en.ppd
+/opt/brother/Printers/dcp197c/cupswrapper/cupswrapper.void
+/usr/lib/udev/rules.d/43-cups-usb.rules

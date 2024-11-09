@@ -1,0 +1,5 @@
+/usr/bin/efisecdb
+/usr/bin/efivar
+/usr/bin/efivar-tester
+/usr/share/man/man1/efisecdb.1
+/usr/share/man/man1/efivar.1

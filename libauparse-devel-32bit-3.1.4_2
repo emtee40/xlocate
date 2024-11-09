@@ -1,0 +1,3 @@
+/usr/lib32/libauparse.a
+/usr/lib32/libauparse.so -> /usr/lib32/libauparse.so.0.0.0
+/usr/lib32/pkgconfig/auparse.pc

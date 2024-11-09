@@ -1,0 +1,4 @@
+/usr/lib32/libbenchmark.so -> /usr/lib32/libbenchmark.so.1
+/usr/lib32/libbenchmark_main.so -> /usr/lib32/libbenchmark_main.so.1
+/usr/lib32/pkgconfig/benchmark.pc
+/usr/lib32/pkgconfig/benchmark_main.pc

@@ -1,0 +1,16 @@
+/usr/include/vte-2.91-gtk4/vte/vte.h
+/usr/include/vte-2.91-gtk4/vte/vtedeprecated.h
+/usr/include/vte-2.91-gtk4/vte/vteenums.h
+/usr/include/vte-2.91-gtk4/vte/vteglobals.h
+/usr/include/vte-2.91-gtk4/vte/vtemacros.h
+/usr/include/vte-2.91-gtk4/vte/vtepty.h
+/usr/include/vte-2.91-gtk4/vte/vteregex.h
+/usr/include/vte-2.91-gtk4/vte/vteterminal.h
+/usr/include/vte-2.91-gtk4/vte/vtetypebuiltins-gtk4.h
+/usr/include/vte-2.91-gtk4/vte/vtetypebuiltins.h
+/usr/include/vte-2.91-gtk4/vte/vteversion.h
+/usr/lib/libvte-2.91-gtk4.so -> /usr/lib/libvte-2.91-gtk4.so.0
+/usr/lib/pkgconfig/vte-2.91-gtk4.pc
+/usr/share/gir-1.0/Vte-3.91.gir
+/usr/share/vala/vapi/vte-2.91-gtk4.deps
+/usr/share/vala/vapi/vte-2.91-gtk4.vapi

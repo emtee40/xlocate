@@ -1,0 +1,21 @@
+/usr/include/Iir.h
+/usr/include/iir/Biquad.h
+/usr/include/iir/Butterworth.h
+/usr/include/iir/Cascade.h
+/usr/include/iir/ChebyshevI.h
+/usr/include/iir/ChebyshevII.h
+/usr/include/iir/Common.h
+/usr/include/iir/Custom.h
+/usr/include/iir/Layout.h
+/usr/include/iir/MathSupplement.h
+/usr/include/iir/PoleFilter.h
+/usr/include/iir/RBJ.h
+/usr/include/iir/State.h
+/usr/include/iir/Types.h
+/usr/lib/cmake/iir/iirConfig.cmake
+/usr/lib/cmake/iir/iirConfigVersion.cmake
+/usr/lib/cmake/iir/iirTargets-none.cmake
+/usr/lib/cmake/iir/iirTargets.cmake
+/usr/lib/libiir.so -> /usr/lib/libiir.so.1
+/usr/lib/libiir_static.a
+/usr/lib/pkgconfig/iir.pc

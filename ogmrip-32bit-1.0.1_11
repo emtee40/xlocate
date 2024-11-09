@@ -1,0 +1,31 @@
+/usr/lib32/libogmdvd.so -> /usr/lib32/libogmdvd.so.1.0.0
+/usr/lib32/libogmdvd.so.1 -> /usr/lib32/libogmdvd.so.1.0.0
+/usr/lib32/libogmdvd.so.1.0.0
+/usr/lib32/libogmjob.so -> /usr/lib32/libogmjob.so.1.0.0
+/usr/lib32/libogmjob.so.1 -> /usr/lib32/libogmjob.so.1.0.0
+/usr/lib32/libogmjob.so.1.0.0
+/usr/lib32/libogmrip-lavc.so -> /usr/lib32/libogmrip-lavc.so.1.0.0
+/usr/lib32/libogmrip-lavc.so.1 -> /usr/lib32/libogmrip-lavc.so.1.0.0
+/usr/lib32/libogmrip-lavc.so.1.0.0
+/usr/lib32/libogmrip-mplayer.so -> /usr/lib32/libogmrip-mplayer.so.1.0.0
+/usr/lib32/libogmrip-mplayer.so.1 -> /usr/lib32/libogmrip-mplayer.so.1.0.0
+/usr/lib32/libogmrip-mplayer.so.1.0.0
+/usr/lib32/libogmrip.so -> /usr/lib32/libogmrip.so.1.0.0
+/usr/lib32/libogmrip.so.1 -> /usr/lib32/libogmrip.so.1.0.0
+/usr/lib32/libogmrip.so.1.0.0
+/usr/lib32/ogmrip/audio-plugins/libogmrip-aac.so
+/usr/lib32/ogmrip/audio-plugins/libogmrip-acopy.so
+/usr/lib32/ogmrip/audio-plugins/libogmrip-mp3.so
+/usr/lib32/ogmrip/audio-plugins/libogmrip-vorbis.so
+/usr/lib32/ogmrip/audio-plugins/libogmrip-wav.so
+/usr/lib32/ogmrip/container-plugins/libogmrip-avi.so
+/usr/lib32/ogmrip/container-plugins/libogmrip-mkv.so
+/usr/lib32/ogmrip/container-plugins/libogmrip-mov.so
+/usr/lib32/ogmrip/container-plugins/libogmrip-mp4.so
+/usr/lib32/ogmrip/container-plugins/libogmrip-ogg.so
+/usr/lib32/ogmrip/subp-plugins/libogmrip-srt.so
+/usr/lib32/ogmrip/subp-plugins/libogmrip-vobsub.so
+/usr/lib32/ogmrip/video-plugins/libogmrip-lavc-mpeg4.so
+/usr/lib32/ogmrip/video-plugins/libogmrip-theora.so
+/usr/lib32/ogmrip/video-plugins/libogmrip-x264.so
+/usr/lib32/ogmrip/video-plugins/libogmrip-xvid.so

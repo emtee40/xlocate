@@ -1,0 +1,4 @@
+/usr/lib32/libudisks2.so -> /usr/lib32/libudisks2.so.0.0.0
+/usr/lib32/pkgconfig/udisks2-btrfs.pc
+/usr/lib32/pkgconfig/udisks2-lvm2.pc
+/usr/lib32/pkgconfig/udisks2.pc

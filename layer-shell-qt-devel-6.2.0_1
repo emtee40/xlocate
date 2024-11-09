@@ -1,0 +1,10 @@
+/usr/include/LayerShellQt/Shell
+/usr/include/LayerShellQt/Window
+/usr/include/LayerShellQt/layershellqt_export.h
+/usr/include/LayerShellQt/shell.h
+/usr/include/LayerShellQt/window.h
+/usr/lib/cmake/LayerShellQt/LayerShellQtConfig.cmake
+/usr/lib/cmake/LayerShellQt/LayerShellQtConfigVersion.cmake
+/usr/lib/cmake/LayerShellQt/LayerShellQtTargets-none.cmake
+/usr/lib/cmake/LayerShellQt/LayerShellQtTargets.cmake
+/usr/lib/libLayerShellQtInterface.so -> /usr/lib/libLayerShellQtInterface.so.6

@@ -1,0 +1,791 @@
+/usr/bin/hydrus-client -> /usr/lib/hydrus/hydrus_client.py
+/usr/bin/hydrus-server -> /usr/lib/hydrus/hydrus_server.py
+/usr/lib/hydrus/hydrus/__init__.py
+/usr/lib/hydrus/hydrus/client/ClientAPI.py
+/usr/lib/hydrus/hydrus/client/ClientApplicationCommand.py
+/usr/lib/hydrus/hydrus/client/ClientConstants.py
+/usr/lib/hydrus/hydrus/client/ClientController.py
+/usr/lib/hydrus/hydrus/client/ClientDBMaintenanceManager.py
+/usr/lib/hydrus/hydrus/client/ClientDaemons.py
+/usr/lib/hydrus/hydrus/client/ClientData.py
+/usr/lib/hydrus/hydrus/client/ClientDefaults.py
+/usr/lib/hydrus/hydrus/client/ClientDownloading.py
+/usr/lib/hydrus/hydrus/client/ClientDuplicates.py
+/usr/lib/hydrus/hydrus/client/ClientFiles.py
+/usr/lib/hydrus/hydrus/client/ClientFilesPhysical.py
+/usr/lib/hydrus/hydrus/client/ClientGlobals.py
+/usr/lib/hydrus/hydrus/client/ClientImageHandling.py
+/usr/lib/hydrus/hydrus/client/ClientLocation.py
+/usr/lib/hydrus/hydrus/client/ClientMacIntegration.py
+/usr/lib/hydrus/hydrus/client/ClientMaintenance.py
+/usr/lib/hydrus/hydrus/client/ClientManagers.py
+/usr/lib/hydrus/hydrus/client/ClientMigration.py
+/usr/lib/hydrus/hydrus/client/ClientOptions.py
+/usr/lib/hydrus/hydrus/client/ClientPDFHandling.py
+/usr/lib/hydrus/hydrus/client/ClientParsing.py
+/usr/lib/hydrus/hydrus/client/ClientPaths.py
+/usr/lib/hydrus/hydrus/client/ClientRendering.py
+/usr/lib/hydrus/hydrus/client/ClientSVGHandling.py
+/usr/lib/hydrus/hydrus/client/ClientSerialisable.py
+/usr/lib/hydrus/hydrus/client/ClientServices.py
+/usr/lib/hydrus/hydrus/client/ClientStrings.py
+/usr/lib/hydrus/hydrus/client/ClientThreading.py
+/usr/lib/hydrus/hydrus/client/ClientTime.py
+/usr/lib/hydrus/hydrus/client/ClientVideoHandling.py
+/usr/lib/hydrus/hydrus/client/__init__.py
+/usr/lib/hydrus/hydrus/client/caches/ClientCaches.py
+/usr/lib/hydrus/hydrus/client/caches/ClientCachesBase.py
+/usr/lib/hydrus/hydrus/client/caches/__init__.py
+/usr/lib/hydrus/hydrus/client/db/ClientDB.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBDefinitionsCache.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFileDeleteLock.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesDuplicates.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesInbox.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesMaintenance.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesMaintenanceQueue.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesMetadataBasic.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesMetadataRich.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesPhysicalStorage.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesSearch.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesStorage.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesTimestamps.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBFilesViewingStats.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMaintenance.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCacheCombinedFilesDisplay.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCacheCombinedFilesStorage.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCacheSpecificDisplay.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCacheSpecificStorage.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCounts.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsCountsUpdate.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMappingsStorage.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBMaster.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBModule.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBNotesMap.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBRatings.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBRepositories.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBSerialisable.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBServicePaths.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBServices.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBSimilarFiles.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBTagDisplay.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBTagParents.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBTagSearch.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBTagSiblings.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBTagSuggestions.py
+/usr/lib/hydrus/hydrus/client/db/ClientDBURLMap.py
+/usr/lib/hydrus/hydrus/client/db/__init__.py
+/usr/lib/hydrus/hydrus/client/exporting/ClientExportingFiles.py
+/usr/lib/hydrus/hydrus/client/exporting/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUI.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIAPI.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIAsync.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUICharts.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUICore.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUICoreMenuDebug.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDialogs.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDialogsManage.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDialogsMessage.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDialogsQuick.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDownloaders.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDragDrop.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIDuplicates.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIFileSeedCache.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIFrames.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIFunctions.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIGallerySeedLog.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUILocatorSearchProviders.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUILogin.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIMenus.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIOptionsPanels.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIPanels.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIPopupMessages.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIRatings.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanels.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanelsButtonQuestions.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanelsCommitFiltering.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanelsEdit.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanelsManagement.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIScrolledPanelsReview.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUISerialisable.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIShortcutControls.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIShortcuts.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUISplash.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIStringControls.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIStringPanels.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUIStyle.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUISubscriptions.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUISystemTray.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITagSorting.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITagSuggestions.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITags.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITime.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITopLevelWindows.py
+/usr/lib/hydrus/hydrus/client/gui/ClientGUITopLevelWindowsPanels.py
+/usr/lib/hydrus/hydrus/client/gui/QLocator.py
+/usr/lib/hydrus/hydrus/client/gui/QtInit.py
+/usr/lib/hydrus/hydrus/client/gui/QtInitImportTest.py
+/usr/lib/hydrus/hydrus/client/gui/QtPorting.py
+/usr/lib/hydrus/hydrus/client/gui/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/ClientGUICanvas.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/ClientGUICanvasFrame.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/ClientGUICanvasHoverFrames.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/ClientGUICanvasMedia.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/ClientGUIMPV.py
+/usr/lib/hydrus/hydrus/client/gui/canvas/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/exporting/ClientGUIExport.py
+/usr/lib/hydrus/hydrus/client/gui/exporting/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/importing/ClientGUIImport.py
+/usr/lib/hydrus/hydrus/client/gui/importing/ClientGUIImportFolders.py
+/usr/lib/hydrus/hydrus/client/gui/importing/ClientGUIImportOptions.py
+/usr/lib/hydrus/hydrus/client/gui/importing/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListBook.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListBoxes.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListBoxesData.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListConstants.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListCtrl.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListManager.py
+/usr/lib/hydrus/hydrus/client/gui/lists/ClientGUIListStatus.py
+/usr/lib/hydrus/hydrus/client/gui/lists/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/media/ClientGUIMediaControls.py
+/usr/lib/hydrus/hydrus/client/gui/media/ClientGUIMediaMenus.py
+/usr/lib/hydrus/hydrus/client/gui/media/ClientGUIMediaModalActions.py
+/usr/lib/hydrus/hydrus/client/gui/media/ClientGUIMediaSimpleActions.py
+/usr/lib/hydrus/hydrus/client/gui/media/ClientGUIMediaVolume.py
+/usr/lib/hydrus/hydrus/client/gui/media/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/metadata/ClientGUIMetadataMigration.py
+/usr/lib/hydrus/hydrus/client/gui/metadata/ClientGUIMetadataMigrationCommon.py
+/usr/lib/hydrus/hydrus/client/gui/metadata/ClientGUIMetadataMigrationExporters.py
+/usr/lib/hydrus/hydrus/client/gui/metadata/ClientGUIMetadataMigrationImporters.py
+/usr/lib/hydrus/hydrus/client/gui/metadata/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/networking/ClientGUIHydrusNetwork.py
+/usr/lib/hydrus/hydrus/client/gui/networking/ClientGUINetwork.py
+/usr/lib/hydrus/hydrus/client/gui/networking/ClientGUINetworkJobControl.py
+/usr/lib/hydrus/hydrus/client/gui/networking/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUIManagementController.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUIManagementPanels.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUIPages.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUIResults.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUIResultsSortCollect.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUISession.py
+/usr/lib/hydrus/hydrus/client/gui/pages/ClientGUISessionLegacy.py
+/usr/lib/hydrus/hydrus/client/gui/pages/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/parsing/ClientGUIParsing.py
+/usr/lib/hydrus/hydrus/client/gui/parsing/ClientGUIParsingFormulae.py
+/usr/lib/hydrus/hydrus/client/gui/parsing/ClientGUIParsingLegacy.py
+/usr/lib/hydrus/hydrus/client/gui/parsing/ClientGUIParsingTest.py
+/usr/lib/hydrus/hydrus/client/gui/parsing/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUIACDropdown.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUILocation.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUIPredicatesMultiple.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUIPredicatesOR.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUIPredicatesSingle.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUISearch.py
+/usr/lib/hydrus/hydrus/client/gui/search/ClientGUISearchPanels.py
+/usr/lib/hydrus/hydrus/client/gui/search/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/services/ClientGUIClientsideServices.py
+/usr/lib/hydrus/hydrus/client/gui/services/ClientGUIServersideServices.py
+/usr/lib/hydrus/hydrus/client/gui/services/__init__.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUIApplicationCommand.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUIBandwidth.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUIBytes.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUIColourPicker.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUICommon.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUIMenuButton.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUINumberTest.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/ClientGUITextInput.py
+/usr/lib/hydrus/hydrus/client/gui/widgets/__init__.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportControl.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportFileSeeds.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportFiles.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportGallery.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportGallerySeeds.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportLocal.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportSimpleURLs.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportSubscriptionLegacy.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportSubscriptionQuery.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportSubscriptions.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImportWatchers.py
+/usr/lib/hydrus/hydrus/client/importing/ClientImporting.py
+/usr/lib/hydrus/hydrus/client/importing/__init__.py
+/usr/lib/hydrus/hydrus/client/importing/options/ClientImportOptions.py
+/usr/lib/hydrus/hydrus/client/importing/options/FileImportOptions.py
+/usr/lib/hydrus/hydrus/client/importing/options/NoteImportOptions.py
+/usr/lib/hydrus/hydrus/client/importing/options/PresentationImportOptions.py
+/usr/lib/hydrus/hydrus/client/importing/options/TagImportOptions.py
+/usr/lib/hydrus/hydrus/client/importing/options/__init__.py
+/usr/lib/hydrus/hydrus/client/interfaces/ClientControllerInterface.py
+/usr/lib/hydrus/hydrus/client/interfaces/__init__.py
+/usr/lib/hydrus/hydrus/client/media/ClientMedia.py
+/usr/lib/hydrus/hydrus/client/media/ClientMediaFileFilter.py
+/usr/lib/hydrus/hydrus/client/media/ClientMediaManagers.py
+/usr/lib/hydrus/hydrus/client/media/ClientMediaResult.py
+/usr/lib/hydrus/hydrus/client/media/ClientMediaResultCache.py
+/usr/lib/hydrus/hydrus/client/media/__init__.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientContentUpdates.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientMetadataMigration.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientMetadataMigrationCore.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientMetadataMigrationExporters.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientMetadataMigrationImporters.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientRatings.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientTagSorting.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientTags.py
+/usr/lib/hydrus/hydrus/client/metadata/ClientTagsHandling.py
+/usr/lib/hydrus/hydrus/client/metadata/__init__.py
+/usr/lib/hydrus/hydrus/client/networking/ClientLocalServer.py
+/usr/lib/hydrus/hydrus/client/networking/ClientLocalServerResources.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworking.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingBandwidth.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingBandwidthLegacy.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingContexts.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingDomain.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingFunctions.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingGUG.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingJobs.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingLogin.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingSessions.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingSessionsLegacy.py
+/usr/lib/hydrus/hydrus/client/networking/ClientNetworkingURLClass.py
+/usr/lib/hydrus/hydrus/client/networking/__init__.py
+/usr/lib/hydrus/hydrus/client/search/ClientSearch.py
+/usr/lib/hydrus/hydrus/client/search/ClientSearchAutocomplete.py
+/usr/lib/hydrus/hydrus/client/search/ClientSearchParseSystemPredicates.py
+/usr/lib/hydrus/hydrus/client/search/__init__.py
+/usr/lib/hydrus/hydrus/core/HydrusBoot.py
+/usr/lib/hydrus/hydrus/core/HydrusCompression.py
+/usr/lib/hydrus/hydrus/core/HydrusConstants.py
+/usr/lib/hydrus/hydrus/core/HydrusController.py
+/usr/lib/hydrus/hydrus/core/HydrusDB.py
+/usr/lib/hydrus/hydrus/core/HydrusDBBase.py
+/usr/lib/hydrus/hydrus/core/HydrusDBModule.py
+/usr/lib/hydrus/hydrus/core/HydrusData.py
+/usr/lib/hydrus/hydrus/core/HydrusEncryption.py
+/usr/lib/hydrus/hydrus/core/HydrusExceptions.py
+/usr/lib/hydrus/hydrus/core/HydrusGlobals.py
+/usr/lib/hydrus/hydrus/core/HydrusLists.py
+/usr/lib/hydrus/hydrus/core/HydrusLogger.py
+/usr/lib/hydrus/hydrus/core/HydrusMemory.py
+/usr/lib/hydrus/hydrus/core/HydrusPaths.py
+/usr/lib/hydrus/hydrus/core/HydrusProfiling.py
+/usr/lib/hydrus/hydrus/core/HydrusPubSub.py
+/usr/lib/hydrus/hydrus/core/HydrusRatingArchive.py
+/usr/lib/hydrus/hydrus/core/HydrusSerialisable.py
+/usr/lib/hydrus/hydrus/core/HydrusSessions.py
+/usr/lib/hydrus/hydrus/core/HydrusTagArchive.py
+/usr/lib/hydrus/hydrus/core/HydrusTags.py
+/usr/lib/hydrus/hydrus/core/HydrusTemp.py
+/usr/lib/hydrus/hydrus/core/HydrusText.py
+/usr/lib/hydrus/hydrus/core/HydrusThreading.py
+/usr/lib/hydrus/hydrus/core/HydrusTime.py
+/usr/lib/hydrus/hydrus/core/__init__.py
+/usr/lib/hydrus/hydrus/core/files/HydrusAnimationHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusArchiveHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusAudioHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusClipHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusFileHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusFlashHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusKritaHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusOfficeOpenXMLHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusPDFHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusPSDHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusPSDTools.py
+/usr/lib/hydrus/hydrus/core/files/HydrusProcreateHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusSVGHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusUgoiraHandling.py
+/usr/lib/hydrus/hydrus/core/files/HydrusVideoHandling.py
+/usr/lib/hydrus/hydrus/core/files/__init__.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusBlurhash.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageColours.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageHandling.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageInit.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageMetadata.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageNormalisation.py
+/usr/lib/hydrus/hydrus/core/files/images/HydrusImageOpening.py
+/usr/lib/hydrus/hydrus/core/files/images/__init__.py
+/usr/lib/hydrus/hydrus/core/interfaces/HydrusControllerInterface.py
+/usr/lib/hydrus/hydrus/core/interfaces/HydrusThreadingInterface.py
+/usr/lib/hydrus/hydrus/core/interfaces/__init__.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusNATPunch.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusNetwork.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusNetworkLegacy.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusNetworkVariableHandling.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusNetworking.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusServer.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusServerAMP.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusServerRequest.py
+/usr/lib/hydrus/hydrus/core/networking/HydrusServerResources.py
+/usr/lib/hydrus/hydrus/core/networking/__init__.py
+/usr/lib/hydrus/hydrus/external/LogicExpressionQueryParser.py
+/usr/lib/hydrus/hydrus/external/SystemPredicateParser.py
+/usr/lib/hydrus/hydrus/external/__init__.py
+/usr/lib/hydrus/hydrus/external/blurhash.py
+/usr/lib/hydrus/hydrus/external/hexagonitswfheader.py
+/usr/lib/hydrus/hydrus/hydrus_client_boot.py
+/usr/lib/hydrus/hydrus/hydrus_server_boot.py
+/usr/lib/hydrus/hydrus/hydrus_test_boot.py
+/usr/lib/hydrus/hydrus/server/ServerController.py
+/usr/lib/hydrus/hydrus/server/ServerDB.py
+/usr/lib/hydrus/hydrus/server/ServerFiles.py
+/usr/lib/hydrus/hydrus/server/ServerServices.py
+/usr/lib/hydrus/hydrus/server/__init__.py
+/usr/lib/hydrus/hydrus/server/networking/ServerServer.py
+/usr/lib/hydrus/hydrus/server/networking/ServerServerResources.py
+/usr/lib/hydrus/hydrus/server/networking/__init__.py
+/usr/lib/hydrus/hydrus/test/HelperFunctions.py
+/usr/lib/hydrus/hydrus/test/TestClientAPI.py
+/usr/lib/hydrus/hydrus/test/TestClientConstants.py
+/usr/lib/hydrus/hydrus/test/TestClientDB.py
+/usr/lib/hydrus/hydrus/test/TestClientDBDuplicates.py
+/usr/lib/hydrus/hydrus/test/TestClientDBTags.py
+/usr/lib/hydrus/hydrus/test/TestClientDaemons.py
+/usr/lib/hydrus/hydrus/test/TestClientData.py
+/usr/lib/hydrus/hydrus/test/TestClientFileStorage.py
+/usr/lib/hydrus/hydrus/test/TestClientImageHandling.py
+/usr/lib/hydrus/hydrus/test/TestClientImportOptions.py
+/usr/lib/hydrus/hydrus/test/TestClientImportSubscriptions.py
+/usr/lib/hydrus/hydrus/test/TestClientListBoxes.py
+/usr/lib/hydrus/hydrus/test/TestClientMetadataMigration.py
+/usr/lib/hydrus/hydrus/test/TestClientMigration.py
+/usr/lib/hydrus/hydrus/test/TestClientNetworking.py
+/usr/lib/hydrus/hydrus/test/TestClientParsing.py
+/usr/lib/hydrus/hydrus/test/TestClientTags.py
+/usr/lib/hydrus/hydrus/test/TestClientThreading.py
+/usr/lib/hydrus/hydrus/test/TestController.py
+/usr/lib/hydrus/hydrus/test/TestDialogs.py
+/usr/lib/hydrus/hydrus/test/TestHydrusData.py
+/usr/lib/hydrus/hydrus/test/TestHydrusNATPunch.py
+/usr/lib/hydrus/hydrus/test/TestHydrusNetworking.py
+/usr/lib/hydrus/hydrus/test/TestHydrusPaths.py
+/usr/lib/hydrus/hydrus/test/TestHydrusSerialisable.py
+/usr/lib/hydrus/hydrus/test/TestHydrusServer.py
+/usr/lib/hydrus/hydrus/test/TestHydrusSessions.py
+/usr/lib/hydrus/hydrus/test/TestHydrusTags.py
+/usr/lib/hydrus/hydrus/test/TestHydrusTime.py
+/usr/lib/hydrus/hydrus/test/TestServerDB.py
+/usr/lib/hydrus/hydrus/test/__init__.py
+/usr/lib/hydrus/hydrus_client.py
+/usr/lib/hydrus/hydrus_server.py
+/usr/lib/hydrus/static/8chan.png
+/usr/lib/hydrus/static/Icons.svg
+/usr/lib/hydrus/static/archive.png
+/usr/lib/hydrus/static/audio.png
+/usr/lib/hydrus/static/avi.png
+/usr/lib/hydrus/static/blacksquare.png
+/usr/lib/hydrus/static/boned.jpg
+/usr/lib/hydrus/static/check.png
+/usr/lib/hydrus/static/clear_highlight.png
+/usr/lib/hydrus/static/clip.png
+/usr/lib/hydrus/static/cog.png
+/usr/lib/hydrus/static/collection.png
+/usr/lib/hydrus/static/color_swatch.png
+/usr/lib/hydrus/static/copy.png
+/usr/lib/hydrus/static/cross.ico
+/usr/lib/hydrus/static/default/gugs/artstation artist lookup.png
+/usr/lib/hydrus/static/default/gugs/danbooru & gelbooru tag search.png
+/usr/lib/hydrus/static/default/gugs/danbooru tag search.png
+/usr/lib/hydrus/static/default/gugs/derpibooru tag search - no filter.png
+/usr/lib/hydrus/static/default/gugs/derpibooru tag search.png
+/usr/lib/hydrus/static/default/gugs/e621 tag search.png
+/usr/lib/hydrus/static/default/gugs/furry.booru.org tag search.png
+/usr/lib/hydrus/static/default/gugs/gelbooru favorites by user id.png
+/usr/lib/hydrus/static/default/gugs/gelbooru pools (folders) by id.png
+/usr/lib/hydrus/static/default/gugs/gelbooru tag search.png
+/usr/lib/hydrus/static/default/gugs/hentai foundry artist lookup.png
+/usr/lib/hydrus/static/default/gugs/hentai foundry artist scraps lookup.png
+/usr/lib/hydrus/static/default/gugs/hentai foundry artist works lookup.png
+/usr/lib/hydrus/static/default/gugs/hentai foundry tag search.png
+/usr/lib/hydrus/static/default/gugs/inkbunny artist lookup.png
+/usr/lib/hydrus/static/default/gugs/inkbunny tag search.png
+/usr/lib/hydrus/static/default/gugs/konachan tag search.png
+/usr/lib/hydrus/static/default/gugs/nijie artist lookup.png
+/usr/lib/hydrus/static/default/gugs/pixiv artist lookup.png
+/usr/lib/hydrus/static/default/gugs/pixiv tag search.png
+/usr/lib/hydrus/static/default/gugs/realbooru tag search.png
+/usr/lib/hydrus/static/default/gugs/rule34.paheal tag search.png
+/usr/lib/hydrus/static/default/gugs/rule34.xxx tag search.png
+/usr/lib/hydrus/static/default/gugs/rule34hentai tag search.png
+/usr/lib/hydrus/static/default/gugs/safebooru tag search.png
+/usr/lib/hydrus/static/default/gugs/sakugabooru tag search.png
+/usr/lib/hydrus/static/default/gugs/tbib tag search.png
+/usr/lib/hydrus/static/default/gugs/tumblr username lookup.png
+/usr/lib/hydrus/static/default/gugs/xbooru tag search.png
+/usr/lib/hydrus/static/default/gugs/yande.re tag search.png
+/usr/lib/hydrus/static/default/login_scripts/danbooru login.png
+/usr/lib/hydrus/static/default/login_scripts/e621.net login.png
+/usr/lib/hydrus/static/default/login_scripts/gelbooru 0.2.x login.png
+/usr/lib/hydrus/static/default/login_scripts/hentai foundry guest login click-through.png
+/usr/lib/hydrus/static/default/login_scripts/hentai foundry login.png
+/usr/lib/hydrus/static/default/login_scripts/shimmie login.png
+/usr/lib/hydrus/static/default/parsers/420chan thread api parser.png
+/usr/lib/hydrus/static/default/parsers/4chan thread api parser.png
+/usr/lib/hydrus/static/default/parsers/4chan-style thread api parser.png
+/usr/lib/hydrus/static/default/parsers/8chan thread api parser.png
+/usr/lib/hydrus/static/default/parsers/8chan.moe thread api parser.png
+/usr/lib/hydrus/static/default/parsers/8kun thread api parser.png
+/usr/lib/hydrus/static/default/parsers/artstation file page api parser.png
+/usr/lib/hydrus/static/default/parsers/artstation gallery page api parser.png
+/usr/lib/hydrus/static/default/parsers/danbooru file page parser - get webm ugoira.png
+/usr/lib/hydrus/static/default/parsers/danbooru file page parser.png
+/usr/lib/hydrus/static/default/parsers/danbooru gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/derpibooru gallery page api parser.png
+/usr/lib/hydrus/static/default/parsers/derpibooru.org file page parser.png
+/usr/lib/hydrus/static/default/parsers/deviant art file extended_fetch parser.png
+/usr/lib/hydrus/static/default/parsers/deviant art file page api parser.png
+/usr/lib/hydrus/static/default/parsers/deviant art file page parser.png
+/usr/lib/hydrus/static/default/parsers/deviant art flash sandbox page parser.png
+/usr/lib/hydrus/static/default/parsers/deviant gallery page api parser (new cursor).png
+/usr/lib/hydrus/static/default/parsers/deviant gallery page api parser.png
+/usr/lib/hydrus/static/default/parsers/deviantart backend video embed parser.png
+/usr/lib/hydrus/static/default/parsers/e621 file page parser.png
+/usr/lib/hydrus/static/default/parsers/e621 gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/fxtwitter tweet api parser.png
+/usr/lib/hydrus/static/default/parsers/gelbooru 0.1.11 file page parser (simple).png
+/usr/lib/hydrus/static/default/parsers/gelbooru 0.1.11 file page parser.png
+/usr/lib/hydrus/static/default/parsers/gelbooru 0.2.0 file page parser.png
+/usr/lib/hydrus/static/default/parsers/gelbooru 0.2.5 file page parser.png
+/usr/lib/hydrus/static/default/parsers/gelbooru 0.2.x gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/gfycat file page api parser.png
+/usr/lib/hydrus/static/default/parsers/hentai foundry file page parser.png
+/usr/lib/hydrus/static/default/parsers/hentai foundry gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/imgur media page api parser.png
+/usr/lib/hydrus/static/default/parsers/imgur single or subreddit parser.png
+/usr/lib/hydrus/static/default/parsers/inkbunny file page parser.png
+/usr/lib/hydrus/static/default/parsers/inkbunny gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/moebooru file page parser.png
+/usr/lib/hydrus/static/default/parsers/moebooru gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/nijie artist gallery parser.png
+/usr/lib/hydrus/static/default/parsers/nijie view parser.png
+/usr/lib/hydrus/static/default/parsers/nijie view popup parser.png
+/usr/lib/hydrus/static/default/parsers/pixiv artist gallery page api parser new urls.png
+/usr/lib/hydrus/static/default/parsers/pixiv file page api parser (gets lower quality image if not logged in).png
+/usr/lib/hydrus/static/default/parsers/pixiv file page api parser.png
+/usr/lib/hydrus/static/default/parsers/pixiv tag search api parser.png
+/usr/lib/hydrus/static/default/parsers/prolikewoah thread api parser.png
+/usr/lib/hydrus/static/default/parsers/realbooru file page parser.png
+/usr/lib/hydrus/static/default/parsers/realbooru gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/rule34.paheal gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/rule34hentai gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/safebooru file page parser.png
+/usr/lib/hydrus/static/default/parsers/shimmie file page parser.png
+/usr/lib/hydrus/static/default/parsers/smuglo.li thread api parser.png
+/usr/lib/hydrus/static/default/parsers/tumblr api creator gallery page parser.png
+/usr/lib/hydrus/static/default/parsers/tumblr api post page parser - with post tags.png
+/usr/lib/hydrus/static/default/parsers/tumblr api post page parser.png
+/usr/lib/hydrus/static/default/parsers/warosu thread parser.png
+/usr/lib/hydrus/static/default/parsers/yande.re post page parser.png
+/usr/lib/hydrus/static/default/parsers/yiff.party api parser.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/4chan thread (all linked files).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/8chan thread (all linked files).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/all files linked by images in page.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/all images embedded in page.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/gfycat single video page (mp4).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/gfycat single video page (webm).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/imgur image album (first page).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/imgur single image page.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/imgur single video page.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/mewch thread (all linked files).png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/webmshare single video page.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/yiff.party attachments.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/yiff.party post files and attachments.png
+/usr/lib/hydrus/static/default/simple_downloader_formulae/yiff.party post files.png
+/usr/lib/hydrus/static/default/url_classes/420chan file.png
+/usr/lib/hydrus/static/default/url_classes/420chan thread json api.png
+/usr/lib/hydrus/static/default/url_classes/420chan thread new format.png
+/usr/lib/hydrus/static/default/url_classes/420chan thread.png
+/usr/lib/hydrus/static/default/url_classes/4chan file.png
+/usr/lib/hydrus/static/default/url_classes/4chan thread json api.png
+/usr/lib/hydrus/static/default/url_classes/4chan thread.png
+/usr/lib/hydrus/static/default/url_classes/4channel thread.png
+/usr/lib/hydrus/static/default/url_classes/8chan file.png
+/usr/lib/hydrus/static/default/url_classes/8chan thread json api.png
+/usr/lib/hydrus/static/default/url_classes/8chan thread.png
+/usr/lib/hydrus/static/default/url_classes/8chan.moe thread json api.png
+/usr/lib/hydrus/static/default/url_classes/8chan.moe thread.png
+/usr/lib/hydrus/static/default/url_classes/8kun thread json api.png
+/usr/lib/hydrus/static/default/url_classes/8kun thread.png
+/usr/lib/hydrus/static/default/url_classes/artstation artist gallery page api.png
+/usr/lib/hydrus/static/default/url_classes/artstation artist gallery page.png
+/usr/lib/hydrus/static/default/url_classes/artstation file page json api.png
+/usr/lib/hydrus/static/default/url_classes/artstation file page.png
+/usr/lib/hydrus/static/default/url_classes/danbooru file page.png
+/usr/lib/hydrus/static/default/url_classes/danbooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/derpibooru file page.png
+/usr/lib/hydrus/static/default/url_classes/derpibooru gallery page api.png
+/usr/lib/hydrus/static/default/url_classes/derpibooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/deviant art artist gallery page api.png
+/usr/lib/hydrus/static/default/url_classes/deviant art embedded video player.png
+/usr/lib/hydrus/static/default/url_classes/deviant art file (login-only redirect).png
+/usr/lib/hydrus/static/default/url_classes/deviant art file (original quality) (alt).png
+/usr/lib/hydrus/static/default/url_classes/deviant art file (original quality).png
+/usr/lib/hydrus/static/default/url_classes/deviant art file page (old format).png
+/usr/lib/hydrus/static/default/url_classes/deviant art file page api.png
+/usr/lib/hydrus/static/default/url_classes/deviant art file page extended_fetch api.png
+/usr/lib/hydrus/static/default/url_classes/deviant art file page.png
+/usr/lib/hydrus/static/default/url_classes/deviant art flash sandbox page.png
+/usr/lib/hydrus/static/default/url_classes/deviant art resized file (low quality).png
+/usr/lib/hydrus/static/default/url_classes/deviant art resized file (medium quality).png
+/usr/lib/hydrus/static/default/url_classes/deviant art tag gallery page api (cursor navigation).png
+/usr/lib/hydrus/static/default/url_classes/deviant art tag gallery page api.png
+/usr/lib/hydrus/static/default/url_classes/e621 file page (old format).png
+/usr/lib/hydrus/static/default/url_classes/e621 file page.png
+/usr/lib/hydrus/static/default/url_classes/e621 gallery page (alternate format).png
+/usr/lib/hydrus/static/default/url_classes/e621 gallery page.png
+/usr/lib/hydrus/static/default/url_classes/furry.booru.org file page.png
+/usr/lib/hydrus/static/default/url_classes/furry.booru.org gallery page.png
+/usr/lib/hydrus/static/default/url_classes/fxtwitter tweet api.png
+/usr/lib/hydrus/static/default/url_classes/gelbooru file page.png
+/usr/lib/hydrus/static/default/url_classes/gelbooru gallery favorites page.png
+/usr/lib/hydrus/static/default/url_classes/gelbooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/gelbooru gallery pool page.png
+/usr/lib/hydrus/static/default/url_classes/gfycat file page - detail url.png
+/usr/lib/hydrus/static/default/url_classes/gfycat file page - gif url.png
+/usr/lib/hydrus/static/default/url_classes/gfycat file page api.png
+/usr/lib/hydrus/static/default/url_classes/gfycat file page.png
+/usr/lib/hydrus/static/default/url_classes/hentai foundry artist pictures gallery page.png
+/usr/lib/hydrus/static/default/url_classes/hentai foundry artist scraps gallery page.png
+/usr/lib/hydrus/static/default/url_classes/hentai foundry file page.png
+/usr/lib/hydrus/static/default/url_classes/hentai foundry tag search gallery page.png
+/usr/lib/hydrus/static/default/url_classes/imgur media page api.png
+/usr/lib/hydrus/static/default/url_classes/imgur media page.png
+/usr/lib/hydrus/static/default/url_classes/imgur single media file url.png
+/usr/lib/hydrus/static/default/url_classes/imgur single media page gifv format.png
+/usr/lib/hydrus/static/default/url_classes/imgur single media page.png
+/usr/lib/hydrus/static/default/url_classes/imgur subreddit single media page.png
+/usr/lib/hydrus/static/default/url_classes/imgur tagged media page.png
+/usr/lib/hydrus/static/default/url_classes/inkbunny artist gallery page.png
+/usr/lib/hydrus/static/default/url_classes/inkbunny file page.png
+/usr/lib/hydrus/static/default/url_classes/inkbunny tag search gallery page.png
+/usr/lib/hydrus/static/default/url_classes/konachan file page.png
+/usr/lib/hydrus/static/default/url_classes/konachan gallery page.png
+/usr/lib/hydrus/static/default/url_classes/mega.nz file or folder.png
+/usr/lib/hydrus/static/default/url_classes/mega.nz file.png
+/usr/lib/hydrus/static/default/url_classes/mega.nz folder (alt format).png
+/usr/lib/hydrus/static/default/url_classes/mega.nz folder.png
+/usr/lib/hydrus/static/default/url_classes/nijie artist page.png
+/usr/lib/hydrus/static/default/url_classes/nijie view popup.png
+/usr/lib/hydrus/static/default/url_classes/nijie view.png
+/usr/lib/hydrus/static/default/url_classes/nitter (.eu mirror) media timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter (.eu mirror) timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter (.eu mirror) tweet media.png
+/usr/lib/hydrus/static/default/url_classes/nitter (.eu mirror) tweet.png
+/usr/lib/hydrus/static/default/url_classes/nitter (nixnet mirror) media timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter (nixnet mirror) timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter (nixnet mirror) tweet media.png
+/usr/lib/hydrus/static/default/url_classes/nitter (nixnet mirror) tweet.png
+/usr/lib/hydrus/static/default/url_classes/nitter media timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter timeline.png
+/usr/lib/hydrus/static/default/url_classes/nitter tweet media.png
+/usr/lib/hydrus/static/default/url_classes/nitter tweet.png
+/usr/lib/hydrus/static/default/url_classes/pixiv artist gallery page api.png
+/usr/lib/hydrus/static/default/url_classes/pixiv artist page (new format).png
+/usr/lib/hydrus/static/default/url_classes/pixiv artist page.png
+/usr/lib/hydrus/static/default/url_classes/pixiv file page api.png
+/usr/lib/hydrus/static/default/url_classes/pixiv file page new format (with language).png
+/usr/lib/hydrus/static/default/url_classes/pixiv file page new format (without language).png
+/usr/lib/hydrus/static/default/url_classes/pixiv file page.png
+/usr/lib/hydrus/static/default/url_classes/pixiv search api.png
+/usr/lib/hydrus/static/default/url_classes/prolikewoah thread json api.png
+/usr/lib/hydrus/static/default/url_classes/prolikewoah thread.png
+/usr/lib/hydrus/static/default/url_classes/realbooru file page.png
+/usr/lib/hydrus/static/default/url_classes/realbooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/rule34.paheal file page.png
+/usr/lib/hydrus/static/default/url_classes/rule34.paheal gallery page.png
+/usr/lib/hydrus/static/default/url_classes/rule34.xxx file page.png
+/usr/lib/hydrus/static/default/url_classes/rule34.xxx gallery page.png
+/usr/lib/hydrus/static/default/url_classes/rule34hentai file page.png
+/usr/lib/hydrus/static/default/url_classes/rule34hentai gallery page.png
+/usr/lib/hydrus/static/default/url_classes/safebooru file page.png
+/usr/lib/hydrus/static/default/url_classes/safebooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/sakugabooru file page.png
+/usr/lib/hydrus/static/default/url_classes/sakugabooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/sankaku chan file page (old id format).png
+/usr/lib/hydrus/static/default/url_classes/sankaku chan file page (old md5 format).png
+/usr/lib/hydrus/static/default/url_classes/sankaku chan file page.png
+/usr/lib/hydrus/static/default/url_classes/sankaku chan gallery page.png
+/usr/lib/hydrus/static/default/url_classes/sankaku idol file page.png
+/usr/lib/hydrus/static/default/url_classes/sankaku idol gallery page.png
+/usr/lib/hydrus/static/default/url_classes/smuglo.li thread json api.png
+/usr/lib/hydrus/static/default/url_classes/smuglo.li thread.png
+/usr/lib/hydrus/static/default/url_classes/tbib file page.png
+/usr/lib/hydrus/static/default/url_classes/tbib gallery page.png
+/usr/lib/hydrus/static/default/url_classes/tumblr api gallery page.png
+/usr/lib/hydrus/static/default/url_classes/tumblr file page api.png
+/usr/lib/hydrus/static/default/url_classes/tumblr file page.png
+/usr/lib/hydrus/static/default/url_classes/tvch.moe thread json api.png
+/usr/lib/hydrus/static/default/url_classes/tvch.moe thread.png
+/usr/lib/hydrus/static/default/url_classes/twitter tweet.png
+/usr/lib/hydrus/static/default/url_classes/vch.moe thread json api.png
+/usr/lib/hydrus/static/default/url_classes/vch.moe thread.png
+/usr/lib/hydrus/static/default/url_classes/warosu file.png
+/usr/lib/hydrus/static/default/url_classes/warosu thread.png
+/usr/lib/hydrus/static/default/url_classes/x post.png
+/usr/lib/hydrus/static/default/url_classes/xbooru file page.png
+/usr/lib/hydrus/static/default/url_classes/xbooru gallery page.png
+/usr/lib/hydrus/static/default/url_classes/yande.re file page.png
+/usr/lib/hydrus/static/default/url_classes/yande.re gallery page.png
+/usr/lib/hydrus/static/default/url_classes/yiff.party creator page.png
+/usr/lib/hydrus/static/default/url_classes/yiff.party file attachment long.png
+/usr/lib/hydrus/static/default/url_classes/yiff.party file attachment.png
+/usr/lib/hydrus/static/default/url_classes/yiff.party file post.png
+/usr/lib/hydrus/static/default/url_classes/yiff.party json api.png
+/usr/lib/hydrus/static/delete.png
+/usr/lib/hydrus/static/discord.svg
+/usr/lib/hydrus/static/djvu.png
+/usr/lib/hydrus/static/docx.png
+/usr/lib/hydrus/static/downloading.png
+/usr/lib/hydrus/static/drag.png
+/usr/lib/hydrus/static/dump_fail.png
+/usr/lib/hydrus/static/dump_ok.png
+/usr/lib/hydrus/static/dump_recoverable.png
+/usr/lib/hydrus/static/epub.png
+/usr/lib/hydrus/static/family.png
+/usr/lib/hydrus/static/file_pause.png
+/usr/lib/hydrus/static/file_play.png
+/usr/lib/hydrus/static/file_repository_pending.png
+/usr/lib/hydrus/static/file_repository_pending_small.png
+/usr/lib/hydrus/static/file_repository_petitioned.png
+/usr/lib/hydrus/static/file_repository_petitioned_small.png
+/usr/lib/hydrus/static/file_repository_small.png
+/usr/lib/hydrus/static/first.png
+/usr/lib/hydrus/static/flac.png
+/usr/lib/hydrus/static/flash.png
+/usr/lib/hydrus/static/font.png
+/usr/lib/hydrus/static/fullscreen_switch.png
+/usr/lib/hydrus/static/gallery_pause.png
+/usr/lib/hydrus/static/gallery_play.png
+/usr/lib/hydrus/static/github.svg
+/usr/lib/hydrus/static/help.png
+/usr/lib/hydrus/static/highlight.png
+/usr/lib/hydrus/static/hydrus.ico
+/usr/lib/hydrus/static/hydrus.png
+/usr/lib/hydrus/static/hydrus_128.ico
+/usr/lib/hydrus/static/hydrus_32.png
+/usr/lib/hydrus/static/hydrus_32_non-transparent.png
+/usr/lib/hydrus/static/hydrus_black.svg
+/usr/lib/hydrus/static/hydrus_black_square.svg
+/usr/lib/hydrus/static/hydrus_non-transparent.png
+/usr/lib/hydrus/static/hydrus_small.png
+/usr/lib/hydrus/static/hydrus_small_flat_white.png
+/usr/lib/hydrus/static/hydrus_splash.png
+/usr/lib/hydrus/static/icon.icns
+/usr/lib/hydrus/static/image.png
+/usr/lib/hydrus/static/images.png
+/usr/lib/hydrus/static/inbox.png
+/usr/lib/hydrus/static/ipfs.png
+/usr/lib/hydrus/static/ipfs_pending.png
+/usr/lib/hydrus/static/ipfs_pending_small.png
+/usr/lib/hydrus/static/ipfs_petitioned.png
+/usr/lib/hydrus/static/ipfs_petitioned_small.png
+/usr/lib/hydrus/static/ipfs_small.png
+/usr/lib/hydrus/static/keyboard.png
+/usr/lib/hydrus/static/krita.png
+/usr/lib/hydrus/static/lain.jpg
+/usr/lib/hydrus/static/last.png
+/usr/lib/hydrus/static/lightning.png
+/usr/lib/hydrus/static/lightning_checked.png
+/usr/lib/hydrus/static/lightning_unchecked.png
+/usr/lib/hydrus/static/link.png
+/usr/lib/hydrus/static/link_break.png
+/usr/lib/hydrus/static/listctrl.png
+/usr/lib/hydrus/static/mp3.png
+/usr/lib/hydrus/static/mp4.png
+/usr/lib/hydrus/static/mpg.png
+/usr/lib/hydrus/static/mpv-conf/audio_normalisation_test_1_mpv.conf
+/usr/lib/hydrus/static/mpv-conf/audio_normalisation_test_2_mpv.conf
+/usr/lib/hydrus/static/mpv-conf/default_mpv.conf
+/usr/lib/hydrus/static/mpv-conf/high_gpu_quality_test_mpv.conf
+/usr/lib/hydrus/static/mute.png
+/usr/lib/hydrus/static/next.png
+/usr/lib/hydrus/static/notes.png
+/usr/lib/hydrus/static/ogg.png
+/usr/lib/hydrus/static/open_externally.png
+/usr/lib/hydrus/static/pair.png
+/usr/lib/hydrus/static/paste.png
+/usr/lib/hydrus/static/patreon.svg
+/usr/lib/hydrus/static/pause.png
+/usr/lib/hydrus/static/pdf.png
+/usr/lib/hydrus/static/play.png
+/usr/lib/hydrus/static/pptx.png
+/usr/lib/hydrus/static/previous.png
+/usr/lib/hydrus/static/procreate.png
+/usr/lib/hydrus/static/psd.png
+/usr/lib/hydrus/static/qss/CutieDuck_(darkorange)-alternate-tooltip-colour.qss
+/usr/lib/hydrus/static/qss/CutieDuck_(darkorange).qss
+/usr/lib/hydrus/static/qss/Dark_Blue-alternate-tooltip-colour.qss
+/usr/lib/hydrus/static/qss/Dark_Blue.qss
+/usr/lib/hydrus/static/qss/DarkerDuck_(darkorange)-alternate-tooltip-colour.qss
+/usr/lib/hydrus/static/qss/DarkerDuck_(darkorange).qss
+/usr/lib/hydrus/static/qss/Fixed Font Size Example.qss
+/usr/lib/hydrus/static/qss/Hydracula-alternate-tooltip-colour.qss
+/usr/lib/hydrus/static/qss/Hydracula.qss
+/usr/lib/hydrus/static/qss/OledBlack-alternate-tooltip-colour.qss
+/usr/lib/hydrus/static/qss/OledBlack.qss
+/usr/lib/hydrus/static/qss/default_hydrus.qss
+/usr/lib/hydrus/static/qss/default_hydrus_dark.qss
+/usr/lib/hydrus/static/qss/e621.qss
+/usr/lib/hydrus/static/qss/e621/bg.svg
+/usr/lib/hydrus/static/qss/e621/cbox-ch-ho.svg
+/usr/lib/hydrus/static/qss/e621/cbox-ch-pr.svg
+/usr/lib/hydrus/static/qss/e621/cbox-ch.svg
+/usr/lib/hydrus/static/qss/e621/cbox-in-ho.svg
+/usr/lib/hydrus/static/qss/e621/cbox-in-pr.svg
+/usr/lib/hydrus/static/qss/e621/cbox-in.svg
+/usr/lib/hydrus/static/qss/e621/cbox-un-ho.svg
+/usr/lib/hydrus/static/qss/e621/cbox-un-pr.svg
+/usr/lib/hydrus/static/qss/e621/cbox-un.svg
+/usr/lib/hydrus/static/qss/e621/dropdown.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-ch-ho.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-ch-pr.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-ch.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-un-ho.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-un-pr.svg
+/usr/lib/hydrus/static/qss/e621/rbtn-un.svg
+/usr/lib/hydrus/static/qss/e621/sbar-d.svg
+/usr/lib/hydrus/static/qss/e621/sbar-l.svg
+/usr/lib/hydrus/static/qss/e621/sbar-r.svg
+/usr/lib/hydrus/static/qss/e621/sbar-u.svg
+/usr/lib/hydrus/static/qss/e621/sbox-d.svg
+/usr/lib/hydrus/static/qss/e621/sbox-u.svg
+/usr/lib/hydrus/static/qss/readme.txt
+/usr/lib/hydrus/static/rar.png
+/usr/lib/hydrus/static/refresh.png
+/usr/lib/hydrus/static/rtf.png
+/usr/lib/hydrus/static/sai.png
+/usr/lib/hydrus/static/sound.png
+/usr/lib/hydrus/static/star.png
+/usr/lib/hydrus/static/stop.png
+/usr/lib/hydrus/static/svg.png
+/usr/lib/hydrus/static/testing/muh_apng.png
+/usr/lib/hydrus/static/testing/muh_gif.gif
+/usr/lib/hydrus/static/testing/muh_jpg.jpg
+/usr/lib/hydrus/static/testing/muh_mp4.mp4
+/usr/lib/hydrus/static/testing/muh_mpeg.mpeg
+/usr/lib/hydrus/static/testing/muh_png.png
+/usr/lib/hydrus/static/testing/muh_swf.swf
+/usr/lib/hydrus/static/testing/muh_webm.webm
+/usr/lib/hydrus/static/text_align_center.png
+/usr/lib/hydrus/static/text_align_justify.png
+/usr/lib/hydrus/static/text_align_left.png
+/usr/lib/hydrus/static/text_align_right.png
+/usr/lib/hydrus/static/text_bold.png
+/usr/lib/hydrus/static/text_indent.png
+/usr/lib/hydrus/static/text_indent_remove.png
+/usr/lib/hydrus/static/text_italic.png
+/usr/lib/hydrus/static/text_underline.png
+/usr/lib/hydrus/static/thumbnails.png
+/usr/lib/hydrus/static/to_inbox.png
+/usr/lib/hydrus/static/transparent.png
+/usr/lib/hydrus/static/trash.png
+/usr/lib/hydrus/static/tumblr.svg
+/usr/lib/hydrus/static/twitter.svg
+/usr/lib/hydrus/static/undelete.png
+/usr/lib/hydrus/static/video.png
+/usr/lib/hydrus/static/wma.png
+/usr/lib/hydrus/static/xcf.png
+/usr/lib/hydrus/static/xlsx.png
+/usr/lib/hydrus/static/z7.png
+/usr/lib/hydrus/static/zip.png
+/usr/lib/hydrus/static/zoom_in.png
+/usr/lib/hydrus/static/zoom_out.png
+/usr/lib/hydrus/static/zoom_switch.png
+/usr/share/applications/io.github.hydrusnetwork.hydrus.desktop
+/usr/share/licenses/hydrus/COPYING

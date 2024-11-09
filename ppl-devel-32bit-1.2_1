@@ -1,0 +1,4 @@
+/usr/lib32/libppl.a
+/usr/lib32/libppl.so -> /usr/lib32/libppl.so.14.0.0
+/usr/lib32/libppl_c.a
+/usr/lib32/libppl_c.so -> /usr/lib32/libppl_c.so.4.0.0

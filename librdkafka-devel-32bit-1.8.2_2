@@ -1,0 +1,8 @@
+/usr/lib32/librdkafka++.a
+/usr/lib32/librdkafka++.so -> /usr/lib32/librdkafka++.so.1
+/usr/lib32/librdkafka.a
+/usr/lib32/librdkafka.so -> /usr/lib32/librdkafka.so.1
+/usr/lib32/pkgconfig/rdkafka++-static.pc
+/usr/lib32/pkgconfig/rdkafka++.pc
+/usr/lib32/pkgconfig/rdkafka-static.pc
+/usr/lib32/pkgconfig/rdkafka.pc

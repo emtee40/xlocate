@@ -1,0 +1,4 @@
+/usr/lib32/libvlc.so -> /usr/lib32/libvlc.so.5.6.1
+/usr/lib32/libvlccore.so -> /usr/lib32/libvlccore.so.9.0.1
+/usr/lib32/pkgconfig/libvlc.pc
+/usr/lib32/pkgconfig/vlc-plugin.pc

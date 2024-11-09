@@ -1,0 +1,9 @@
+/usr/lib32/emerald/engines/liblegacy.so
+/usr/lib32/emerald/engines/libline.so
+/usr/lib32/emerald/engines/liboxygen.so
+/usr/lib32/emerald/engines/libpixmap.so
+/usr/lib32/emerald/engines/libtruglass.so
+/usr/lib32/emerald/engines/libvrunner.so
+/usr/lib32/emerald/engines/libzootreeves.so
+/usr/lib32/libemeraldengine.so.0 -> /usr/lib32/libemeraldengine.so.0.0.0
+/usr/lib32/libemeraldengine.so.0.0.0

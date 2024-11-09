@@ -1,0 +1,3 @@
+/usr/include/opensmtpd.h
+/usr/lib/libopensmtpd.so -> /usr/lib/libopensmtpd.so.0.1.0
+/usr/share/man/man3/osmtpd_run.3

@@ -1,0 +1,11 @@
+/etc/multitail.conf.new
+/etc/multitail/conversion-scripts/colors-example.pl
+/etc/multitail/conversion-scripts/colors-example.sh
+/etc/multitail/conversion-scripts/convert-geoip.pl
+/etc/multitail/conversion-scripts/convert-simple.pl
+/usr/bin/multitail
+/usr/share/doc/multitail-7.1.5/README.md
+/usr/share/doc/multitail-7.1.5/manual.html
+/usr/share/doc/multitail-7.1.5/thanks.txt
+/usr/share/licenses/multitail/LICENSE
+/usr/share/man/man1/multitail.1

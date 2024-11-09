@@ -1,0 +1,27 @@
+/usr/include/retro-gtk/retro-controller-codes.h
+/usr/include/retro-gtk/retro-controller-iterator.h
+/usr/include/retro-gtk/retro-controller-type.h
+/usr/include/retro-gtk/retro-controller.h
+/usr/include/retro-gtk/retro-core-descriptor.h
+/usr/include/retro-gtk/retro-core-view.h
+/usr/include/retro-gtk/retro-core.h
+/usr/include/retro-gtk/retro-gtk-enums.h
+/usr/include/retro-gtk/retro-gtk-version.h
+/usr/include/retro-gtk/retro-gtk.h
+/usr/include/retro-gtk/retro-input.h
+/usr/include/retro-gtk/retro-key-joypad-mapping.h
+/usr/include/retro-gtk/retro-log.h
+/usr/include/retro-gtk/retro-memory-type.h
+/usr/include/retro-gtk/retro-module-iterator.h
+/usr/include/retro-gtk/retro-module-query.h
+/usr/include/retro-gtk/retro-option-iterator.h
+/usr/include/retro-gtk/retro-option.h
+/usr/include/retro-gtk/retro-pixbuf.h
+/usr/include/retro-gtk/retro-pixdata.h
+/usr/include/retro-gtk/retro-rumble-effect.h
+/usr/include/retro-gtk/retro-video-filter.h
+/usr/lib/libretro-gtk-1.so -> /usr/lib/libretro-gtk-1.so.0
+/usr/lib/pkgconfig/retro-gtk-1.pc
+/usr/share/gir-1.0/Retro-1.gir
+/usr/share/vala/vapi/retro-gtk-1.deps
+/usr/share/vala/vapi/retro-gtk-1.vapi

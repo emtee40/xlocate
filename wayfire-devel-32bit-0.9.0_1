@@ -1,0 +1,4 @@
+/usr/lib32/libwf-utils.so -> /usr/lib32/libwf-utils.so.0
+/usr/lib32/libwftouch.a
+/usr/lib32/pkgconfig/wayfire.pc
+/usr/lib32/pkgconfig/wf-utils.pc

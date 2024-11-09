@@ -1,0 +1,8 @@
+/etc/sv/xq-api/conf
+/etc/sv/xq-api/log/run
+/etc/sv/xq-api/log/supervise -> /run/runit/supervise.xq-api-log
+/etc/sv/xq-api/run
+/etc/sv/xq-api/supervise -> /run/runit/supervise.xq-api
+/usr/bin/xq-api
+/usr/share/licenses/xq-api/NOTICE
+/usr/share/man/man8/xq-api.8

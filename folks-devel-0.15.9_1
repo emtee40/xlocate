@@ -1,0 +1,24 @@
+/usr/include/folks/folks-dummy.h
+/usr/include/folks/folks-eds.h
+/usr/include/folks/folks-telepathy.h
+/usr/include/folks/folks.h
+/usr/lib/libfolks-dummy.so -> /usr/lib/libfolks-dummy.so.26
+/usr/lib/libfolks-eds.so -> /usr/lib/libfolks-eds.so.26
+/usr/lib/libfolks-telepathy.so -> /usr/lib/libfolks-telepathy.so.26
+/usr/lib/libfolks.so -> /usr/lib/libfolks.so.26
+/usr/lib/pkgconfig/folks-dummy.pc
+/usr/lib/pkgconfig/folks-eds.pc
+/usr/lib/pkgconfig/folks-telepathy.pc
+/usr/lib/pkgconfig/folks.pc
+/usr/share/gir-1.0/Folks-0.7.gir
+/usr/share/gir-1.0/FolksDummy-0.7.gir
+/usr/share/gir-1.0/FolksEds-0.7.gir
+/usr/share/gir-1.0/FolksTelepathy-0.7.gir
+/usr/share/vala/vapi/folks-dummy.deps
+/usr/share/vala/vapi/folks-dummy.vapi
+/usr/share/vala/vapi/folks-eds.deps
+/usr/share/vala/vapi/folks-eds.vapi
+/usr/share/vala/vapi/folks-telepathy.deps
+/usr/share/vala/vapi/folks-telepathy.vapi
+/usr/share/vala/vapi/folks.deps
+/usr/share/vala/vapi/folks.vapi

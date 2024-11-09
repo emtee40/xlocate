@@ -1,0 +1,5 @@
+/usr/bin/tea
+/usr/share/bash-completion/completions/tea
+/usr/share/fish/vendor_completions.d/tea.fish
+/usr/share/licenses/tea/LICENSE
+/usr/share/zsh/site-functions/_tea

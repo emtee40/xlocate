@@ -1,0 +1,9 @@
+/usr/include/rds/api.h
+/usr/include/rds/decoder.h
+/usr/include/rds/encoder.h
+/usr/include/rds/parser.h
+/usr/lib/cmake/rds/gnuradio-rdsConfig.cmake
+/usr/lib/cmake/rds/gnuradio-rdsTargets-none.cmake
+/usr/lib/cmake/rds/gnuradio-rdsTargets.cmake
+/usr/lib/cmake/rds/rdsConfig.cmake
+/usr/lib/libgnuradio-rds.so -> /usr/lib/libgnuradio-rds.so.1

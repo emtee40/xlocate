@@ -1,0 +1,19 @@
+/usr/bin/gammu-smsd
+/usr/bin/gammu-smsd-inject
+/usr/bin/gammu-smsd-monitor
+/usr/lib/libgsmsd.so -> /usr/lib/libgsmsd.so.8
+/usr/lib/libgsmsd.so.8 -> /usr/lib/libgsmsd.so.8.1.42.0
+/usr/lib/libgsmsd.so.8.1.42.0
+/usr/share/man/man1/gammu-smsd-inject.1
+/usr/share/man/man1/gammu-smsd-monitor.1
+/usr/share/man/man1/gammu-smsd.1
+/usr/share/man/man5/gammu-smsdrc.5
+/usr/share/man/man7/gammu-smsd-dbi.7
+/usr/share/man/man7/gammu-smsd-files.7
+/usr/share/man/man7/gammu-smsd-mysql.7
+/usr/share/man/man7/gammu-smsd-null.7
+/usr/share/man/man7/gammu-smsd-odbc.7
+/usr/share/man/man7/gammu-smsd-pgsql.7
+/usr/share/man/man7/gammu-smsd-run.7
+/usr/share/man/man7/gammu-smsd-sql.7
+/usr/share/man/man7/gammu-smsd-tables.7

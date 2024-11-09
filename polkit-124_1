@@ -1,0 +1,51 @@
+/etc/sv/polkitd/log/run
+/etc/sv/polkitd/log/supervise -> /run/runit/supervise.polkitd-log
+/etc/sv/polkitd/run
+/etc/sv/polkitd/supervise -> /run/runit/supervise.polkitd
+/usr/bin/pkaction
+/usr/bin/pkcheck
+/usr/bin/pkexec
+/usr/bin/pkttyagent
+/usr/lib/girepository-1.0/Polkit-1.0.typelib
+/usr/lib/girepository-1.0/PolkitAgent-1.0.typelib
+/usr/lib/libpolkit-agent-1.so.0 -> /usr/lib/libpolkit-agent-1.so.0.0.0
+/usr/lib/libpolkit-agent-1.so.0.0.0
+/usr/lib/libpolkit-gobject-1.so.0 -> /usr/lib/libpolkit-gobject-1.so.0.0.0
+/usr/lib/libpolkit-gobject-1.so.0.0.0
+/usr/lib/pam.d/polkit-1
+/usr/lib/polkit-1/polkit-agent-helper-1
+/usr/lib/polkit-1/polkitd
+/usr/share/dbus-1/system-services/org.freedesktop.PolicyKit1.service
+/usr/share/dbus-1/system.d/org.freedesktop.PolicyKit1.conf
+/usr/share/gettext/its/polkit.its
+/usr/share/gettext/its/polkit.loc
+/usr/share/locale/cs/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/da/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/de/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/hr/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/hu/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/id/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/it/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/ka/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/nl/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/nn/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/pl/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/pt/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/ro/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/ru/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/sk/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/sv/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/tr/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/uk/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/polkit-1.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/polkit-1.mo
+/usr/share/man/man1/pkaction.1
+/usr/share/man/man1/pkcheck.1
+/usr/share/man/man1/pkexec.1
+/usr/share/man/man1/pkttyagent.1
+/usr/share/man/man8/polkit.8
+/usr/share/man/man8/polkitd.8
+/usr/share/polkit-1/actions/org.freedesktop.policykit.policy
+/usr/share/polkit-1/policyconfig-1.dtd
+/usr/share/polkit-1/rules.d/50-default.rules

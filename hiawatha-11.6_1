@@ -1,0 +1,30 @@
+/etc/hiawatha/cgi-wrapper.conf
+/etc/hiawatha/error.xslt
+/etc/hiawatha/hiawatha.conf
+/etc/hiawatha/index.xslt
+/etc/hiawatha/mimetype.conf
+/etc/sv/hiawatha/log/run
+/etc/sv/hiawatha/log/supervise -> /run/runit/supervise.hiawatha-log
+/etc/sv/hiawatha/run
+/etc/sv/hiawatha/supervise -> /run/runit/supervise.hiawatha
+/srv/www/hiawatha/index.html
+/usr/bin/cgi-wrapper
+/usr/bin/hiawatha
+/usr/bin/lefh
+/usr/bin/ssi-cgi
+/usr/bin/wigwam
+/usr/lib/hiawatha/letsencrypt/acmev2.php
+/usr/lib/hiawatha/letsencrypt/config.php
+/usr/lib/hiawatha/letsencrypt/hiawatha_config.php
+/usr/lib/hiawatha/letsencrypt/http.php
+/usr/lib/hiawatha/letsencrypt/https.php
+/usr/lib/hiawatha/letsencrypt/letsencrypt.conf
+/usr/lib/hiawatha/letsencrypt/letsencrypt.php
+/usr/lib/hiawatha/letsencrypt/logfile.php
+/usr/lib/hiawatha/letsencrypt/openssl.conf
+/usr/lib/hiawatha/letsencrypt/rsa.php
+/usr/share/man/man1/cgi-wrapper.1
+/usr/share/man/man1/hiawatha.1
+/usr/share/man/man1/lefh.1
+/usr/share/man/man1/ssi-cgi.1
+/usr/share/man/man1/wigwam.1

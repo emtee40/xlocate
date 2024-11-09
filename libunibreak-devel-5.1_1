@@ -1,0 +1,10 @@
+/usr/include/graphemebreak.h
+/usr/include/linebreak.h
+/usr/include/linebreakdef.h
+/usr/include/unibreakbase.h
+/usr/include/unibreakdef.h
+/usr/include/wordbreak.h
+/usr/lib/liblinebreak.a -> /usr/lib/libunibreak.a
+/usr/lib/libunibreak.a
+/usr/lib/libunibreak.so -> /usr/lib/libunibreak.so.5.0.1
+/usr/lib/pkgconfig/libunibreak.pc

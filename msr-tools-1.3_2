@@ -1,0 +1,3 @@
+/usr/bin/cpuid
+/usr/bin/rdmsr
+/usr/bin/wrmsr

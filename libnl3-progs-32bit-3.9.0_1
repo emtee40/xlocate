@@ -1,0 +1,10 @@
+/usr/lib32/libnl/cli/cls/basic.so
+/usr/lib32/libnl/cli/cls/cgroup.so
+/usr/lib32/libnl/cli/qdisc/bfifo.so
+/usr/lib32/libnl/cli/qdisc/blackhole.so
+/usr/lib32/libnl/cli/qdisc/fq_codel.so
+/usr/lib32/libnl/cli/qdisc/hfsc.so
+/usr/lib32/libnl/cli/qdisc/htb.so
+/usr/lib32/libnl/cli/qdisc/ingress.so
+/usr/lib32/libnl/cli/qdisc/pfifo.so
+/usr/lib32/libnl/cli/qdisc/plug.so

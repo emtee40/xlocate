@@ -1,0 +1,8 @@
+/usr/bin/iio_attr
+/usr/bin/iio_genxml
+/usr/bin/iio_info
+/usr/bin/iio_readdev
+/usr/bin/iio_reg
+/usr/bin/iio_stresstest
+/usr/bin/iio_writedev
+/usr/bin/iiod

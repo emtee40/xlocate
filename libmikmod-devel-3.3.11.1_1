@@ -1,0 +1,8 @@
+/usr/bin/libmikmod-config
+/usr/include/mikmod.h
+/usr/lib/libmikmod.a
+/usr/lib/libmikmod.so -> /usr/lib/libmikmod.so.3.3.0
+/usr/lib/pkgconfig/libmikmod.pc
+/usr/share/aclocal/libmikmod.m4
+/usr/share/info/mikmod.info.gz
+/usr/share/man/man1/libmikmod-config.1

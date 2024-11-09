@@ -1,0 +1,11 @@
+/usr/include/ldb.h
+/usr/include/ldb_errors.h
+/usr/include/ldb_handlers.h
+/usr/include/ldb_module.h
+/usr/include/ldb_version.h
+/usr/include/pyldb.h
+/usr/lib/libldb.so -> /usr/lib/libldb.so.2.9.0
+/usr/lib/libpyldb-util.so -> /usr/lib/libpyldb-util.so.2.9.0
+/usr/lib/pkgconfig/ldb.pc
+/usr/lib/pkgconfig/pyldb-util.pc
+/usr/share/man/man3/ldb.3

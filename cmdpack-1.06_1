@@ -1,0 +1,27 @@
+/usr/bin/bin2ecm
+/usr/bin/bincomp
+/usr/bin/brrrip
+/usr/bin/byteshuf
+/usr/bin/cdpatch
+/usr/bin/ecm2bin -> /usr/bin/bin2ecm
+/usr/bin/fakecrc
+/usr/bin/hax65816
+/usr/bin/pecompat
+/usr/bin/rels
+/usr/bin/screamf
+/usr/bin/uips
+/usr/bin/vb2rip
+/usr/bin/wordadd
+/usr/share/man/man1/bin2ecm.1
+/usr/share/man/man1/bincomp.1
+/usr/share/man/man1/brrrip.1
+/usr/share/man/man1/byteshuf.1
+/usr/share/man/man1/cdpatch.1
+/usr/share/man/man1/fakecrc.1
+/usr/share/man/man1/hax65816.1
+/usr/share/man/man1/pecompat.1
+/usr/share/man/man1/rels.1
+/usr/share/man/man1/screamf.1
+/usr/share/man/man1/uips.1
+/usr/share/man/man1/vb2rip.1
+/usr/share/man/man1/wordadd.1

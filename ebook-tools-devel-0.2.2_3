@@ -1,0 +1,4 @@
+/usr/include/epub.h
+/usr/include/epub_shared.h
+/usr/include/epub_version.h
+/usr/lib/libepub.so -> /usr/lib/libepub.so.0

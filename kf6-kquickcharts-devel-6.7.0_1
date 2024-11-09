@@ -1,0 +1,4 @@
+/usr/lib/cmake/KF6QuickCharts/KF6QuickChartsConfig.cmake
+/usr/lib/cmake/KF6QuickCharts/KF6QuickChartsConfigVersion.cmake
+/usr/lib/libQuickCharts.so -> /usr/lib/libQuickCharts.so.1
+/usr/lib/libQuickChartsControls.so -> /usr/lib/libQuickChartsControls.so.1

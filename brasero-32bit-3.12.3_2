@@ -1,0 +1,29 @@
+/usr/lib32/brasero3/plugins/libbrasero-audio2cue.so
+/usr/lib32/brasero3/plugins/libbrasero-burn-uri.so
+/usr/lib32/brasero3/plugins/libbrasero-cdda2wav.so
+/usr/lib32/brasero3/plugins/libbrasero-cdrdao.so
+/usr/lib32/brasero3/plugins/libbrasero-cdrecord.so
+/usr/lib32/brasero3/plugins/libbrasero-checksum-file.so
+/usr/lib32/brasero3/plugins/libbrasero-checksum.so
+/usr/lib32/brasero3/plugins/libbrasero-dvdauthor.so
+/usr/lib32/brasero3/plugins/libbrasero-dvdcss.so
+/usr/lib32/brasero3/plugins/libbrasero-dvdrwformat.so
+/usr/lib32/brasero3/plugins/libbrasero-genisoimage.so
+/usr/lib32/brasero3/plugins/libbrasero-growisofs.so
+/usr/lib32/brasero3/plugins/libbrasero-libburn.so
+/usr/lib32/brasero3/plugins/libbrasero-libisofs.so
+/usr/lib32/brasero3/plugins/libbrasero-local-track.so
+/usr/lib32/brasero3/plugins/libbrasero-mkisofs.so
+/usr/lib32/brasero3/plugins/libbrasero-normalize.so
+/usr/lib32/brasero3/plugins/libbrasero-readcd.so
+/usr/lib32/brasero3/plugins/libbrasero-readom.so
+/usr/lib32/brasero3/plugins/libbrasero-transcode.so
+/usr/lib32/brasero3/plugins/libbrasero-vcdimager.so
+/usr/lib32/brasero3/plugins/libbrasero-vob.so
+/usr/lib32/brasero3/plugins/libbrasero-wodim.so
+/usr/lib32/libbrasero-burn3.so.1 -> /usr/lib32/libbrasero-burn3.so.1.2.7
+/usr/lib32/libbrasero-burn3.so.1.2.7
+/usr/lib32/libbrasero-media3.so.1 -> /usr/lib32/libbrasero-media3.so.1.2.7
+/usr/lib32/libbrasero-media3.so.1.2.7
+/usr/lib32/libbrasero-utils3.so.1 -> /usr/lib32/libbrasero-utils3.so.1.2.7
+/usr/lib32/libbrasero-utils3.so.1.2.7

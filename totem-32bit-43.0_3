@@ -1,0 +1,14 @@
+/usr/lib32/totem/plugins/apple-trailers/libapple-trailers.so
+/usr/lib32/totem/plugins/autoload-subtitles/libautoload-subtitles.so
+/usr/lib32/totem/plugins/im-status/libtotem-im-status.so
+/usr/lib32/totem/plugins/mpris/libmpris.so
+/usr/lib32/totem/plugins/open-directory/libopen-directory.so
+/usr/lib32/totem/plugins/properties/libmovie-properties.so
+/usr/lib32/totem/plugins/recent/librecent.so
+/usr/lib32/totem/plugins/rotation/librotation.so
+/usr/lib32/totem/plugins/save-file/libsave-file.so
+/usr/lib32/totem/plugins/screensaver/libscreensaver.so
+/usr/lib32/totem/plugins/screenshot/libscreenshot.so
+/usr/lib32/totem/plugins/skipto/libskipto.so
+/usr/lib32/totem/plugins/variable-rate/libvariable-rate.so
+/usr/lib32/totem/plugins/vimeo/libvimeo.so

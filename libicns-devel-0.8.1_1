@@ -1,0 +1,4 @@
+/usr/include/icns.h
+/usr/lib/libicns.a
+/usr/lib/libicns.so -> /usr/lib/libicns.so.1.2.0
+/usr/lib/pkgconfig/libicns.pc

@@ -1,0 +1,5 @@
+/usr/include/GeoIP.h
+/usr/include/GeoIPCity.h
+/usr/lib/libGeoIP.a
+/usr/lib/libGeoIP.so -> /usr/lib/libGeoIP.so.1.6.12
+/usr/lib/pkgconfig/geoip.pc

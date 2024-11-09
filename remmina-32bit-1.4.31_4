@@ -1,0 +1,8 @@
+/usr/lib32/pkgconfig/remmina.pc
+/usr/lib32/remmina/plugins/remmina-plugin-exec.so
+/usr/lib32/remmina/plugins/remmina-plugin-python_wrapper.so
+/usr/lib32/remmina/plugins/remmina-plugin-rdp.so
+/usr/lib32/remmina/plugins/remmina-plugin-secret.so
+/usr/lib32/remmina/plugins/remmina-plugin-spice.so
+/usr/lib32/remmina/plugins/remmina-plugin-vnc.so
+/usr/lib32/remmina/plugins/remmina-plugin-www.so

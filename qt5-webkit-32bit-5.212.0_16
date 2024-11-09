@@ -1,0 +1,6 @@
+/usr/lib32/libQt5WebKit.so.5 -> /usr/lib32/libQt5WebKit.so.5.212.0
+/usr/lib32/libQt5WebKit.so.5.212.0
+/usr/lib32/libQt5WebKitWidgets.so.5 -> /usr/lib32/libQt5WebKitWidgets.so.5.212.0
+/usr/lib32/libQt5WebKitWidgets.so.5.212.0
+/usr/lib32/qt5/qml/QtWebKit/experimental/libqmlwebkitexperimentalplugin.so
+/usr/lib32/qt5/qml/QtWebKit/libqmlwebkitplugin.so

@@ -1,0 +1,5 @@
+/usr/bin/cmark
+/usr/lib/libcmark.so.0 -> /usr/lib/libcmark.so.0.30.3
+/usr/lib/libcmark.so.0.30.3
+/usr/share/licenses/cmark/COPYING
+/usr/share/man/man1/cmark.1

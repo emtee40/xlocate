@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/AUTHORS
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/METADATA
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/RECORD
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/pytest_localserver-0.8.1.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/pytest_localserver/__init__.py
+/usr/lib/python3.12/site-packages/pytest_localserver/_version.py
+/usr/lib/python3.12/site-packages/pytest_localserver/http.py
+/usr/lib/python3.12/site-packages/pytest_localserver/https.py
+/usr/lib/python3.12/site-packages/pytest_localserver/plugin.py
+/usr/lib/python3.12/site-packages/pytest_localserver/server.pem
+/usr/lib/python3.12/site-packages/pytest_localserver/smtp.py
+/usr/share/licenses/python3-pytest-localserver/LICENSE

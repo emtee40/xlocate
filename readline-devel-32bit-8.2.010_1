@@ -1,0 +1,6 @@
+/usr/lib32/libhistory.a
+/usr/lib32/libhistory.so -> /usr/lib32/libhistory.so.8
+/usr/lib32/libreadline.a
+/usr/lib32/libreadline.so -> /usr/lib32/libreadline.so.8
+/usr/lib32/pkgconfig/history.pc
+/usr/lib32/pkgconfig/readline.pc

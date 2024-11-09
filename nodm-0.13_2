@@ -1,0 +1,5 @@
+/etc/sv/nodm/run
+/etc/sv/nodm/supervise -> /run/runit/supervise.nodm
+/usr/bin/nodm
+/usr/lib/systemd/system/nodm.service
+/usr/share/man/man8/nodm.8

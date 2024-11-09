@@ -1,0 +1,16 @@
+/usr/lib32/liburcu-bp.so.8 -> /usr/lib32/liburcu-bp.so.8.1.0
+/usr/lib32/liburcu-bp.so.8.1.0
+/usr/lib32/liburcu-cds.so.8 -> /usr/lib32/liburcu-cds.so.8.1.0
+/usr/lib32/liburcu-cds.so.8.1.0
+/usr/lib32/liburcu-common.so.8 -> /usr/lib32/liburcu-common.so.8.1.0
+/usr/lib32/liburcu-common.so.8.1.0
+/usr/lib32/liburcu-mb.so.8 -> /usr/lib32/liburcu-mb.so.8.1.0
+/usr/lib32/liburcu-mb.so.8.1.0
+/usr/lib32/liburcu-memb.so.8 -> /usr/lib32/liburcu-memb.so.8.1.0
+/usr/lib32/liburcu-memb.so.8.1.0
+/usr/lib32/liburcu-qsbr.so.8 -> /usr/lib32/liburcu-qsbr.so.8.1.0
+/usr/lib32/liburcu-qsbr.so.8.1.0
+/usr/lib32/liburcu-signal.so.8 -> /usr/lib32/liburcu-signal.so.8.1.0
+/usr/lib32/liburcu-signal.so.8.1.0
+/usr/lib32/liburcu.so.8 -> /usr/lib32/liburcu.so.8.1.0
+/usr/lib32/liburcu.so.8.1.0

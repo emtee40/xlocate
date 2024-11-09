@@ -1,0 +1,9 @@
+/usr/lib32/libpcre.a
+/usr/lib32/libpcre.so -> /usr/lib32/libpcre.so.1.2.13
+/usr/lib32/libpcrecpp.a
+/usr/lib32/libpcrecpp.so -> /usr/lib32/libpcrecpp.so.0.0.2
+/usr/lib32/libpcreposix.a
+/usr/lib32/libpcreposix.so -> /usr/lib32/libpcreposix.so.0.0.7
+/usr/lib32/pkgconfig/libpcre.pc
+/usr/lib32/pkgconfig/libpcrecpp.pc
+/usr/lib32/pkgconfig/libpcreposix.pc

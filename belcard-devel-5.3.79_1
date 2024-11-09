@@ -1,0 +1,25 @@
+/usr/bin/belcard-folder
+/usr/bin/belcard-parser
+/usr/bin/belcard-unfolder
+/usr/include/belcard/belcard.hpp
+/usr/include/belcard/belcard_addressing.hpp
+/usr/include/belcard/belcard_calendar.hpp
+/usr/include/belcard/belcard_communication.hpp
+/usr/include/belcard/belcard_explanatory.hpp
+/usr/include/belcard/belcard_general.hpp
+/usr/include/belcard/belcard_generic.hpp
+/usr/include/belcard/belcard_geographical.hpp
+/usr/include/belcard/belcard_identification.hpp
+/usr/include/belcard/belcard_organizational.hpp
+/usr/include/belcard/belcard_params.hpp
+/usr/include/belcard/belcard_parser.hpp
+/usr/include/belcard/belcard_property.hpp
+/usr/include/belcard/belcard_rfc6474.hpp
+/usr/include/belcard/belcard_security.hpp
+/usr/include/belcard/belcard_utils.hpp
+/usr/include/belcard/vcard_grammar.hpp
+/usr/lib/cmake/BelCard/BelCardConfig.cmake
+/usr/lib/cmake/BelCard/BelCardConfigVersion.cmake
+/usr/lib/cmake/BelCard/BelCardTargets-none.cmake
+/usr/lib/cmake/BelCard/BelCardTargets.cmake
+/usr/lib/libbelcard.so -> /usr/lib/libbelcard.so.1

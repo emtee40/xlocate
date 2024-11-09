@@ -1,0 +1,92 @@
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-bmpmem.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-bmpmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-bmpmem.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-bmpmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-bmpmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-cnvres.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-cnvres.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-cnvres.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-cnvres.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-cnvres.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-colbin.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-colbin.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-colbin.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-colbin.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-colbin.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ijglib.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ijglib.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ijglib.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ijglib.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ijglib.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-imgmem.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-imgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-imgmem.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-imgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-imgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-jpgmem.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-jpgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-jpgmem.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-jpgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-jpgmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-lngdic.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-lngdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-lngdic.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-lngdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-lngdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-memjpg.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-memjpg.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-memjpg.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-memjpg.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-memjpg.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ocrsys.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ocrsys.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ocrsys.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ocrsys.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ocrsys.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-rotmem.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-rotmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-rotmem.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-rotmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-rotmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-skwmem.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-skwmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-skwmem.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-skwmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-skwmem.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-usrdic.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-usrdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-usrdic.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-usrdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-usrdic.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydblock.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydblock.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydblock.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydblock.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydblock.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydcorr.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydcorr.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydcorr.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydcorr.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydcorr.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydline.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydline.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydline.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydline.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydline.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydocrd.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydocrd.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydocrd.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydocrd.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydocrd.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydprof.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydprof.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydprof.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydprof.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydprof.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydrecxx.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydrecxx.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydrecxx.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydrecxx.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydrecxx.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydstyle.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydstyle.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydstyle.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydstyle.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydstyle.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydtable.so -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydtable.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydtable.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydtable.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2-ocr/libocr-ydtable.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libcnx-esci-gt-s650.so -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libcnx-esci-gt-s650.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libcnx-esci-gt-s650.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libcnx-esci-gt-s650.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libcnx-esci-gt-s650.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesci-interpreter-perfection-v330.so -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesci-interpreter-perfection-v330.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesci-interpreter-perfection-v330.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesci-interpreter-perfection-v330.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesci-interpreter-perfection-v330.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesintA1.so -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesintA1.so.2.0.1
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesintA1.so.2 -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesintA1.so.2.0.1
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libesintA1.so.2.0.1
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v370.so -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v370.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v370.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v370.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v370.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v550.so -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v550.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v550.so.0 -> /usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v550.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/libexec/libiscan-plugin-perfection-v550.so.0.0.0
+/usr/lib/x86_64-linux-gnu/epsonscan2/non-free-exec/dtrplugin
+/usr/lib/x86_64-linux-gnu/epsonscan2/non-free-exec/es2intif
+/usr/lib/x86_64-linux-gnu/epsonscan2/non-free-exec/es2netif
+/usr/lib/x86_64-linux-gnu/epsonscan2/non-free-exec/fitplugin
+/usr/lib/x86_64-linux-gnu/epsonscan2/non-free-exec/libesdtr.so
+/usr/libexec/epsonscan2-ocr/ocr-engine-getrotate
+/usr/share/doc/epsonscan2-non-free-plugin-1.0.0.3-1/COPYING.EPSON
+/usr/share/doc/epsonscan2-non-free-plugin-1.0.0.3-1/NEWS
+/usr/share/doc/epsonscan2-non-free-plugin-1.0.0.3-1/changelog.Debian
+/usr/share/doc/epsonscan2-non-free-plugin-1.0.0.3-1/copyright
+/usr/share/epsonscan2-ocr/ocr/dic/Rotate.ptn
+/usr/share/epsonscan2/esfw010c.bin
+/usr/share/epsonscan2/esfwA1.bin
+/usr/share/epsonscan2/esfwad.bin
+/usr/share/epsonscan2/esfwdd.bin
+/usr/share/epsonscan2/esfweb.bin
+/usr/share/licenses/iscan-plugin-gt-s650/COPYING.EPSON

@@ -1,0 +1,25 @@
+/etc/sv/zrepl/log/run
+/etc/sv/zrepl/log/supervise -> /run/runit/supervise.zrepl-log
+/etc/sv/zrepl/run
+/etc/sv/zrepl/supervise -> /run/runit/supervise.zrepl
+/etc/zrepl/zrepl.yml
+/usr/bin/zrepl
+/usr/share/examples/zrepl/bandwidth_limit.yml
+/usr/share/examples/zrepl/grafana-prometheus-zrepl.json
+/usr/share/examples/zrepl/hooks/template.sh
+/usr/share/examples/zrepl/local.yml
+/usr/share/examples/zrepl/pull.yml
+/usr/share/examples/zrepl/pull_ssh.yml
+/usr/share/examples/zrepl/push.yml
+/usr/share/examples/zrepl/quickstart_backup_to_external_disk.yml
+/usr/share/examples/zrepl/quickstart_continuous_server_backup_receiver.yml
+/usr/share/examples/zrepl/quickstart_continuous_server_backup_sender.yml
+/usr/share/examples/zrepl/quickstart_fan_out_replication_source.yml
+/usr/share/examples/zrepl/quickstart_fan_out_replication_target.yml
+/usr/share/examples/zrepl/sink.yml
+/usr/share/examples/zrepl/snap.yml
+/usr/share/examples/zrepl/snap_cron.yml
+/usr/share/examples/zrepl/source.yml
+/usr/share/examples/zrepl/source_ssh.yml
+/usr/share/examples/zrepl/zrepl.yml
+/usr/share/licenses/zrepl/LICENSE

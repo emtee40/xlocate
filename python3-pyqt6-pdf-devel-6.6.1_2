@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/QtPdf.toml
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/QtPdfmod.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfbookmarkmodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfdocument.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfdocumentrenderoptions.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdflink.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdflinkmodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfpagenavigator.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfpagerenderer.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfsearchmodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdf/qpdfselection.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdfWidgets/QtPdfWidgets.toml
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdfWidgets/QtPdfWidgetsmod.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdfWidgets/qpdfpageselector.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtPdfWidgets/qpdfview.sip

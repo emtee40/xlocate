@@ -1,0 +1,19 @@
+/usr/lib32/libpowerdevilconfigcommonprivate.so -> /usr/lib32/libpowerdevilconfigcommonprivate.so.6
+/usr/lib32/libpowerdevilconfigcommonprivate.so.6 -> /usr/lib32/libpowerdevilconfigcommonprivate.so.6.2.0
+/usr/lib32/libpowerdevilconfigcommonprivate.so.6.2.0
+/usr/lib32/libpowerdevilcore.so -> /usr/lib32/libpowerdevilcore.so.2
+/usr/lib32/libpowerdevilcore.so.2 -> /usr/lib32/libpowerdevilcore.so.6.2.0
+/usr/lib32/libpowerdevilcore.so.6.2.0
+/usr/lib32/qt6/plugins/kf6/krunner/krunner_powerdevil.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_powerdevilprofilesconfig.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_brightnesscontrolaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_dimdisplayaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_dpmsaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_handlebuttoneventsaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_keyboardbrightnesscontrolaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_powerprofileaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_runscriptaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_screenbrightnesscontrolaction.so
+/usr/lib32/qt6/plugins/powerdevil/action/powerdevil_suspendsessionaction.so
+/usr/lib32/qt6/qml/org/kde/plasma/private/batterymonitor/libbatterymonitorplugin.so
+/usr/lib32/qt6/qml/org/kde/plasma/private/brightnesscontrolplugin/libbrightnesscontrolplugin.so

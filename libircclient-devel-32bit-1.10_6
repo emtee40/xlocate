@@ -1,0 +1,3 @@
+/usr/lib32/libircclient.a
+/usr/lib32/libircclient.so -> /usr/lib32/libircclient.so.1
+/usr/lib32/pkgconfig/libircclient.pc

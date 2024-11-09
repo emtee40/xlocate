@@ -1,0 +1,82 @@
+/usr/bin/gnome-2048
+/usr/share/applications/org.gnome.TwentyFortyEight.desktop
+/usr/share/glib-2.0/schemas/org.gnome.TwentyFortyEight.gschema.xml
+/usr/share/help/C/gnome-2048/index.page
+/usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/cs/gnome-2048/index.page
+/usr/share/help/cs/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/cs/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/da/gnome-2048/index.page
+/usr/share/help/da/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/da/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/de/gnome-2048/index.page
+/usr/share/help/de/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/de/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/el/gnome-2048/index.page
+/usr/share/help/el/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/el/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/es/gnome-2048/index.page
+/usr/share/help/es/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/es/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/hu/gnome-2048/index.page
+/usr/share/help/hu/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/hu/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/pl/gnome-2048/index.page
+/usr/share/help/pl/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/pl/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/pt_BR/gnome-2048/index.page
+/usr/share/help/pt_BR/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/pt_BR/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/ro/gnome-2048/index.page
+/usr/share/help/ro/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/ro/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/sv/gnome-2048/index.page
+/usr/share/help/sv/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/sv/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/uk/gnome-2048/index.page
+/usr/share/help/uk/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/uk/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/help/zh_CN/gnome-2048/index.page
+/usr/share/help/zh_CN/gnome-2048/media/gnome-2048.png -> /usr/share/help/C/gnome-2048/media/gnome-2048.png
+/usr/share/help/zh_CN/gnome-2048/media/gnome-204822.png -> /usr/share/help/C/gnome-2048/media/gnome-204822.png
+/usr/share/icons/hicolor/scalable/apps/org.gnome.TwentyFortyEight.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.TwentyFortyEight-symbolic.svg
+/usr/share/locale/bs/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/ca/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/ckb/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/cs/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/da/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/de/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/el/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/en_GB/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/es/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/eu/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/fi/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/fr/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/fur/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/he/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/hr/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/hu/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/id/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/it/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/kk/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/ko/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/lt/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/nb/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/nl/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/pl/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/pt/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/ro/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/ru/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/sk/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/sl/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/sr/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/sv/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/tr/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/uk/LC_MESSAGES/gnome-2048.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/gnome-2048.mo
+/usr/share/man/man6/gnome-2048.6
+/usr/share/metainfo/org.gnome.TwentyFortyEight.appdata.xml

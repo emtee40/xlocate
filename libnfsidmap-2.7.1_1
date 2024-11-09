@@ -1,0 +1,16 @@
+/etc/idmapd.conf
+/etc/sv/rpcidmapd/log/run
+/etc/sv/rpcidmapd/log/supervise -> /run/runit/supervise.rpcidmapd-log
+/etc/sv/rpcidmapd/run
+/etc/sv/rpcidmapd/supervise -> /run/runit/supervise.rpcidmapd
+/usr/bin/rpc.idmapd
+/usr/lib/libnfsidmap.so -> /usr/lib/libnfsidmap.so.1.0.0
+/usr/lib/libnfsidmap.so.1 -> /usr/lib/libnfsidmap.so.1.0.0
+/usr/lib/libnfsidmap.so.1.0.0
+/usr/lib/libnfsidmap/nsswitch.so
+/usr/lib/libnfsidmap/regex.so
+/usr/lib/libnfsidmap/static.so
+/usr/lib/libnfsidmap/umich_ldap.so
+/usr/share/man/man5/idmapd.conf.5
+/usr/share/man/man8/idmapd.8
+/usr/share/man/man8/rpc.idmapd.8 -> /usr/share/man/man8/idmapd.8

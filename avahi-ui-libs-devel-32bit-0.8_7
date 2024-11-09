@@ -1,0 +1,4 @@
+/usr/lib32/libavahi-ui-gtk3.so -> /usr/lib32/libavahi-ui-gtk3.so.0.1.4
+/usr/lib32/libavahi-ui.so -> /usr/lib32/libavahi-ui.so.0.1.4
+/usr/lib32/pkgconfig/avahi-ui-gtk3.pc
+/usr/lib32/pkgconfig/avahi-ui.pc

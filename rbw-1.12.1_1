@@ -1,0 +1,6 @@
+/usr/bin/rbw
+/usr/bin/rbw-agent
+/usr/share/bash-completion/completions/rbw
+/usr/share/fish/vendor_completions.d/rbw.fish
+/usr/share/licenses/rbw/LICENSE
+/usr/share/zsh/site-functions/_rbw

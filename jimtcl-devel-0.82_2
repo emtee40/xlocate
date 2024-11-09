@@ -1,0 +1,9 @@
+/usr/bin/build-jim-ext
+/usr/include/jim-config.h
+/usr/include/jim-eventloop.h
+/usr/include/jim-signal.h
+/usr/include/jim-subcmd.h
+/usr/include/jim-win32compat.h
+/usr/include/jim.h
+/usr/lib/libjim.so -> /usr/lib/libjim.so.0.82
+/usr/lib/pkgconfig/jimtcl.pc

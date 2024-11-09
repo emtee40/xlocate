@@ -1,0 +1,9 @@
+/usr/lib32/libofproto.a
+/usr/lib32/libopenvswitch.a
+/usr/lib32/libovsdb.a
+/usr/lib32/libsflow.a
+/usr/lib32/libvtep.a
+/usr/lib32/pkgconfig/libofproto.pc
+/usr/lib32/pkgconfig/libopenvswitch.pc
+/usr/lib32/pkgconfig/libovsdb.pc
+/usr/lib32/pkgconfig/libsflow.pc

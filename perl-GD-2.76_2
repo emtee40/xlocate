@@ -1,0 +1,17 @@
+/usr/bin/bdf2gdfont.pl
+/usr/lib/perl5/vendor_perl/GD.pm
+/usr/lib/perl5/vendor_perl/GD/Group.pm
+/usr/lib/perl5/vendor_perl/GD/Image.pm
+/usr/lib/perl5/vendor_perl/GD/Polygon.pm
+/usr/lib/perl5/vendor_perl/GD/Polyline.pm
+/usr/lib/perl5/vendor_perl/GD/Simple.pm
+/usr/lib/perl5/vendor_perl/auto/GD/GD.so
+/usr/lib/perl5/vendor_perl/auto/GD/autosplit.ix
+/usr/share/licenses/perl-GD/LICENSE
+/usr/share/man/man1/bdf2gdfont.pl.1p
+/usr/share/man/man3/GD.3p
+/usr/share/man/man3/GD::Group.3p
+/usr/share/man/man3/GD::Image.3p
+/usr/share/man/man3/GD::Polygon.3p
+/usr/share/man/man3/GD::Polyline.3p
+/usr/share/man/man3/GD::Simple.3p

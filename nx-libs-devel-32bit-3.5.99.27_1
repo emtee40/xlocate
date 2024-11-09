@@ -1,0 +1,9 @@
+/usr/lib32/libNX_X11.a
+/usr/lib32/libNX_X11.so -> /usr/lib32/libNX_X11.so.6.3.0
+/usr/lib32/libXcomp.a
+/usr/lib32/libXcomp.so -> /usr/lib32/libXcomp.so.3.5.99
+/usr/lib32/libXcompshad.a
+/usr/lib32/libXcompshad.so -> /usr/lib32/libXcompshad.so.3.5.99
+/usr/lib32/pkgconfig/nx-x11.pc
+/usr/lib32/pkgconfig/nxcomp.pc
+/usr/lib32/pkgconfig/nxcompshad.pc

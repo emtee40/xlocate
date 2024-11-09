@@ -1,0 +1,7 @@
+/usr/include/libpgf/PGFimage.h
+/usr/include/libpgf/PGFplatform.h
+/usr/include/libpgf/PGFstream.h
+/usr/include/libpgf/PGFtypes.h
+/usr/lib/libpgf.a
+/usr/lib/libpgf.so -> /usr/lib/libpgf.so.6.0.11
+/usr/lib/pkgconfig/libpgf.pc

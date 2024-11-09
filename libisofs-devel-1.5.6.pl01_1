@@ -1,0 +1,4 @@
+/usr/include/libisofs/libisofs.h
+/usr/lib/libisofs.a
+/usr/lib/libisofs.so -> /usr/lib/libisofs.so.6.92.0
+/usr/lib/pkgconfig/libisofs-1.pc

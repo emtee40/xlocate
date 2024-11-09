@@ -1,0 +1,29 @@
+/usr/lib32/libgstallocators-1.0.so -> /usr/lib32/libgstallocators-1.0.so.0
+/usr/lib32/libgstapp-1.0.so -> /usr/lib32/libgstapp-1.0.so.0
+/usr/lib32/libgstaudio-1.0.so -> /usr/lib32/libgstaudio-1.0.so.0
+/usr/lib32/libgstfft-1.0.so -> /usr/lib32/libgstfft-1.0.so.0
+/usr/lib32/libgstgl-1.0.so -> /usr/lib32/libgstgl-1.0.so.0
+/usr/lib32/libgstpbutils-1.0.so -> /usr/lib32/libgstpbutils-1.0.so.0
+/usr/lib32/libgstriff-1.0.so -> /usr/lib32/libgstriff-1.0.so.0
+/usr/lib32/libgstrtp-1.0.so -> /usr/lib32/libgstrtp-1.0.so.0
+/usr/lib32/libgstrtsp-1.0.so -> /usr/lib32/libgstrtsp-1.0.so.0
+/usr/lib32/libgstsdp-1.0.so -> /usr/lib32/libgstsdp-1.0.so.0
+/usr/lib32/libgsttag-1.0.so -> /usr/lib32/libgsttag-1.0.so.0
+/usr/lib32/libgstvideo-1.0.so -> /usr/lib32/libgstvideo-1.0.so.0
+/usr/lib32/pkgconfig/gstreamer-allocators-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-app-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-audio-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-fft-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-gl-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-gl-egl-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-gl-prototypes-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-gl-wayland-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-gl-x11-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-pbutils-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-plugins-base-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-riff-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-rtp-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-rtsp-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-sdp-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-tag-1.0.pc
+/usr/lib32/pkgconfig/gstreamer-video-1.0.pc

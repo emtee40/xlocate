@@ -1,0 +1,6 @@
+/usr/include/libportal-gtk4/portal-gtk4.h
+/usr/lib/libportal-gtk4.so -> /usr/lib/libportal-gtk4.so.1
+/usr/lib/pkgconfig/libportal-gtk4.pc
+/usr/share/gir-1.0/XdpGtk4-1.0.gir
+/usr/share/vala/vapi/libportal-gtk4.deps
+/usr/share/vala/vapi/libportal-gtk4.vapi

@@ -1,0 +1,6 @@
+/usr/lib/girepository-1.0/AppStreamCompose-1.0.typelib
+/usr/lib/libappstream-compose.so.0 -> /usr/lib/libappstream-compose.so.1.0.3
+/usr/lib/libappstream-compose.so.1.0.3
+/usr/libexec/appstreamcli-compose
+/usr/share/man/man1/appstreamcli-compose.1
+/usr/share/metainfo/org.freedesktop.appstream.compose.metainfo.xml

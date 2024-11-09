@@ -1,0 +1,11 @@
+/usr/lib32/octave/9.2.0/liboctave.so -> /usr/lib32/octave/9.2.0/liboctave.so.11.0.1
+/usr/lib32/octave/9.2.0/liboctave.so.11 -> /usr/lib32/octave/9.2.0/liboctave.so.11.0.1
+/usr/lib32/octave/9.2.0/liboctave.so.11.0.1
+/usr/lib32/octave/9.2.0/liboctgui.so -> /usr/lib32/octave/9.2.0/liboctgui.so.12.0.0
+/usr/lib32/octave/9.2.0/liboctgui.so.12 -> /usr/lib32/octave/9.2.0/liboctgui.so.12.0.0
+/usr/lib32/octave/9.2.0/liboctgui.so.12.0.0
+/usr/lib32/octave/9.2.0/liboctinterp.so -> /usr/lib32/octave/9.2.0/liboctinterp.so.12.0.1
+/usr/lib32/octave/9.2.0/liboctinterp.so.12 -> /usr/lib32/octave/9.2.0/liboctinterp.so.12.0.1
+/usr/lib32/octave/9.2.0/liboctinterp.so.12.0.1
+/usr/lib32/pkgconfig/octave.pc
+/usr/lib32/pkgconfig/octinterp.pc

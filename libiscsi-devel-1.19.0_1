@@ -1,0 +1,5 @@
+/usr/include/iscsi/iscsi.h
+/usr/include/iscsi/scsi-lowlevel.h
+/usr/lib/libiscsi.a
+/usr/lib/libiscsi.so -> /usr/lib/libiscsi.so.9.0.0
+/usr/lib/pkgconfig/libiscsi.pc

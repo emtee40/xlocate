@@ -1,0 +1,18 @@
+/usr/include/qxmledit/Notifier.h
+/usr/include/qxmledit/UIDelegate.h
+/usr/include/qxmledit/bookmark.h
+/usr/include/qxmledit/element.h
+/usr/include/qxmledit/libQXmlEdit_global.h
+/usr/include/qxmledit/log.h
+/usr/include/qxmledit/navigation.h
+/usr/include/qxmledit/paintinfo.h
+/usr/include/qxmledit/plugin.h
+/usr/include/qxmledit/qxmleditdata.h
+/usr/include/qxmledit/regola.h
+/usr/include/qxmledit/style.h
+/usr/include/qxmledit/utils.h
+/usr/include/qxmledit/xmlEdit.h
+/usr/include/qxmledit/xmleditglobals.h
+/usr/include/qxmledit/xmleditwidget.h
+/usr/lib/libQXmlEditSessions.so -> /usr/lib/libQXmlEditSessions.so.0.9.18
+/usr/lib/libQXmlEditWidget.so -> /usr/lib/libQXmlEditWidget.so.0.9.18

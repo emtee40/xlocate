@@ -1,0 +1,10 @@
+/usr/lib32/fcitx5/libtestfrontend.so
+/usr/lib32/fcitx5/libtestim.so
+/usr/lib32/fcitx5/libtestui.so
+/usr/lib32/libFcitx5Config.so -> /usr/lib32/libFcitx5Config.so.6
+/usr/lib32/libFcitx5Core.so -> /usr/lib32/libFcitx5Core.so.7
+/usr/lib32/libFcitx5Utils.so -> /usr/lib32/libFcitx5Utils.so.2
+/usr/lib32/pkgconfig/Fcitx5Config.pc
+/usr/lib32/pkgconfig/Fcitx5Core.pc
+/usr/lib32/pkgconfig/Fcitx5Module.pc
+/usr/lib32/pkgconfig/Fcitx5Utils.pc

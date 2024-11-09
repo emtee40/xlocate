@@ -1,0 +1,25 @@
+/usr/include/giggle/libgiggle-git/giggle-git-add-ref.h
+/usr/include/giggle/libgiggle-git/giggle-git-add.h
+/usr/include/giggle/libgiggle-git/giggle-git-authors.h
+/usr/include/giggle/libgiggle-git/giggle-git-blame.h
+/usr/include/giggle/libgiggle-git/giggle-git-cat-file.h
+/usr/include/giggle/libgiggle-git/giggle-git-clone.h
+/usr/include/giggle/libgiggle-git/giggle-git-commit.h
+/usr/include/giggle/libgiggle-git/giggle-git-config-read.h
+/usr/include/giggle/libgiggle-git/giggle-git-config-write.h
+/usr/include/giggle/libgiggle-git/giggle-git-config.h
+/usr/include/giggle/libgiggle-git/giggle-git-delete-ref.h
+/usr/include/giggle/libgiggle-git/giggle-git-diff-tree.h
+/usr/include/giggle/libgiggle-git/giggle-git-diff.h
+/usr/include/giggle/libgiggle-git/giggle-git-enums.h
+/usr/include/giggle/libgiggle-git/giggle-git-ignore.h
+/usr/include/giggle/libgiggle-git/giggle-git-list-files.h
+/usr/include/giggle/libgiggle-git/giggle-git-list-tree.h
+/usr/include/giggle/libgiggle-git/giggle-git-log.h
+/usr/include/giggle/libgiggle-git/giggle-git-refs.h
+/usr/include/giggle/libgiggle-git/giggle-git-remote-list.h
+/usr/include/giggle/libgiggle-git/giggle-git-revisions.h
+/usr/include/giggle/libgiggle-git/giggle-git.h
+/usr/include/giggle/libgiggle/giggle-enums.h
+/usr/lib/libgiggle-git.so -> /usr/lib/libgiggle-git.so.0.0.0
+/usr/lib/libgiggle.so -> /usr/lib/libgiggle.so.0.0.0

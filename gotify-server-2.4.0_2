@@ -1,0 +1,7 @@
+/etc/gotify/config.yml
+/etc/sv/gotify-server/log/run
+/etc/sv/gotify-server/log/supervise -> /run/runit/supervise.gotify-server-log
+/etc/sv/gotify-server/run
+/etc/sv/gotify-server/supervise -> /run/runit/supervise.gotify-server
+/usr/bin/gotify-server
+/usr/share/licenses/gotify-server/LICENSE

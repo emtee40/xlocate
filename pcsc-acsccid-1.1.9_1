@@ -1,0 +1,5 @@
+/usr/lib/pcsc/drivers/ifd-acsccid.bundle/Contents/Info.plist
+/usr/lib/pcsc/drivers/ifd-acsccid.bundle/Contents/Linux/libacsccid.so
+/usr/lib/udev/rules.d/92_pcscd_acsccid.rules
+/usr/share/doc/pcsc-acsccid/README
+/usr/share/doc/pcsc-acsccid/supported_readers.txt

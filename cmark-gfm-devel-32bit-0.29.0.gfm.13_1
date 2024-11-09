@@ -1,0 +1,5 @@
+/usr/lib32/libcmark-gfm-extensions.a
+/usr/lib32/libcmark-gfm-extensions.so -> /usr/lib32/libcmark-gfm-extensions.so.0
+/usr/lib32/libcmark-gfm.a
+/usr/lib32/libcmark-gfm.so -> /usr/lib32/libcmark-gfm.so.0
+/usr/lib32/pkgconfig/libcmark-gfm.pc

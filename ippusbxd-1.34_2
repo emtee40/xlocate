@@ -1,0 +1,4 @@
+/etc/apparmor.d/usr.sbin.ippusbxd
+/usr/bin/ippusbxd
+/usr/lib/udev/rules.d/55-ippusbxd.rules
+/usr/share/man/man8/ippusbxd.8

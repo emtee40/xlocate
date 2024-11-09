@@ -1,0 +1,3 @@
+/usr/lib32/libdns_sd.so
+/usr/lib32/libnss_mdns-0.2.so
+/usr/lib32/libnss_mdns.so.2 -> /usr/lib32/libnss_mdns-0.2.so

@@ -1,0 +1,11 @@
+/usr/include/unicorn/arm.h
+/usr/include/unicorn/arm64.h
+/usr/include/unicorn/m68k.h
+/usr/include/unicorn/mips.h
+/usr/include/unicorn/platform.h
+/usr/include/unicorn/sparc.h
+/usr/include/unicorn/unicorn.h
+/usr/include/unicorn/x86.h
+/usr/lib/libunicorn.a
+/usr/lib/libunicorn.so -> /usr/lib/libunicorn.so.1
+/usr/lib/pkgconfig/unicorn.pc

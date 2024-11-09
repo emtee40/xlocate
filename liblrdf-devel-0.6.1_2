@@ -1,0 +1,5 @@
+/usr/include/lrdf.h
+/usr/include/lrdf_types.h
+/usr/lib/liblrdf.a
+/usr/lib/liblrdf.so -> /usr/lib/liblrdf.so.2.0.0
+/usr/lib/pkgconfig/lrdf.pc

@@ -1,0 +1,5 @@
+/usr/include/plank/plank.h
+/usr/lib/libplank.so -> /usr/lib/libplank.so.1.0.0
+/usr/lib/pkgconfig/plank.pc
+/usr/share/vala/vapi/plank.deps
+/usr/share/vala/vapi/plank.vapi

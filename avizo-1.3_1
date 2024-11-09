@@ -1,0 +1,5 @@
+/etc/xdg/avizo/config.ini
+/usr/bin/avizo-client
+/usr/bin/avizo-service
+/usr/bin/lightctl
+/usr/bin/volumectl

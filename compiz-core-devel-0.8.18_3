@@ -1,0 +1,12 @@
+/usr/include/compiz/compiz-common.h
+/usr/include/compiz/compiz-core.h
+/usr/include/compiz/compiz-cube.h
+/usr/include/compiz/compiz-plugin.h
+/usr/include/compiz/compiz-scale.h
+/usr/include/compiz/compiz.h
+/usr/include/compiz/decoration.h
+/usr/lib/libdecoration.so -> /usr/lib/libdecoration.so.0.0.0
+/usr/lib/pkgconfig/compiz-cube.pc
+/usr/lib/pkgconfig/compiz-scale.pc
+/usr/lib/pkgconfig/compiz.pc
+/usr/lib/pkgconfig/libdecoration.pc

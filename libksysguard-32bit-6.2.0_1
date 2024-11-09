@@ -1,0 +1,18 @@
+/usr/lib32/libKSysGuardFormatter.so.2 -> /usr/lib32/libKSysGuardFormatter.so.6.2.0
+/usr/lib32/libKSysGuardFormatter.so.6.2.0
+/usr/lib32/libKSysGuardSensorFaces.so.2 -> /usr/lib32/libKSysGuardSensorFaces.so.6.2.0
+/usr/lib32/libKSysGuardSensorFaces.so.6.2.0
+/usr/lib32/libKSysGuardSensors.so.2 -> /usr/lib32/libKSysGuardSensors.so.6.2.0
+/usr/lib32/libKSysGuardSensors.so.6.2.0
+/usr/lib32/libKSysGuardSystemStats.so.2 -> /usr/lib32/libKSysGuardSystemStats.so.6.2.0
+/usr/lib32/libKSysGuardSystemStats.so.6.2.0
+/usr/lib32/libprocesscore.so.10 -> /usr/lib32/libprocesscore.so.6.2.0
+/usr/lib32/libprocesscore.so.6.2.0
+/usr/lib32/qt6/plugins/kf6/packagestructure/ksysguard_sensorface.so
+/usr/lib32/qt6/plugins/ksysguard/process/ksysguard_plugin_network.so
+/usr/lib32/qt6/plugins/ksysguard/process/ksysguard_plugin_nvidia.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/faces/libSensorFacesplugin.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/faces/private/libSensorFacesPrivate.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/formatter/libFormatterplugin.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/process/libProcessPlugin.so
+/usr/lib32/qt6/qml/org/kde/ksysguard/sensors/libSensorsplugin.so

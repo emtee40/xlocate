@@ -1,0 +1,19 @@
+/etc/sv/webhook/conf
+/etc/sv/webhook/log/run
+/etc/sv/webhook/log/supervise -> /run/runit/supervise.webhook-log
+/etc/sv/webhook/run
+/etc/sv/webhook/supervise -> /run/runit/supervise.webhook
+/etc/webhook/hooks.json
+/usr/bin/webhook
+/usr/share/doc/webhook/Hook-Definition.md
+/usr/share/doc/webhook/Hook-Examples.md
+/usr/share/doc/webhook/Hook-Rules.md
+/usr/share/doc/webhook/Referencing-Request-Values.md
+/usr/share/doc/webhook/Systemd-Activation.md
+/usr/share/doc/webhook/Templates.md
+/usr/share/doc/webhook/Webhook-Parameters.md
+/usr/share/examples/webhook/hooks.json
+/usr/share/examples/webhook/hooks.json.tmpl
+/usr/share/examples/webhook/hooks.yaml
+/usr/share/examples/webhook/hooks.yaml.tmpl
+/usr/share/licenses/webhook/LICENSE

@@ -1,0 +1,18 @@
+/usr/lib/libQt5VirtualKeyboard.so.5 -> /usr/lib/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib/libQt5VirtualKeyboard.so.5.15 -> /usr/lib/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib/libQt5VirtualKeyboard.so.5.15.11
+/usr/lib/qt5/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.so
+/usr/lib/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_hangul.so
+/usr/lib/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_openwnn.so
+/usr/lib/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_pinyin.so
+/usr/lib/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_tcime.so
+/usr/lib/qt5/plugins/virtualkeyboard/libqtvirtualkeyboard_thai.so
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Settings/libqtquickvirtualkeyboardsettingsplugin.so
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Settings/plugins.qmltypes
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Settings/qmldir
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Styles/libqtquickvirtualkeyboardstylesplugin.so
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Styles/plugins.qmltypes
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/Styles/qmldir
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/libqtquickvirtualkeyboardplugin.so
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/plugins.qmltypes
+/usr/lib/qt5/qml/QtQuick/VirtualKeyboard/qmldir

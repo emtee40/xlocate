@@ -1,0 +1,14 @@
+/usr/lib/libKF6Prison.so.6 -> /usr/lib/libKF6Prison.so.6.7.0
+/usr/lib/libKF6Prison.so.6.7.0
+/usr/lib/libKF6PrisonScanner.so.6 -> /usr/lib/libKF6PrisonScanner.so.6.7.0
+/usr/lib/libKF6PrisonScanner.so.6.7.0
+/usr/lib/qt6/qml/org/kde/prison/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/prison/libprisonquickplugin.so
+/usr/lib/qt6/qml/org/kde/prison/prisonquickplugin.qmltypes
+/usr/lib/qt6/qml/org/kde/prison/qmldir
+/usr/lib/qt6/qml/org/kde/prison/scanner/kde-qmlmodule.version
+/usr/lib/qt6/qml/org/kde/prison/scanner/libprisonscannerquickplugin.so
+/usr/lib/qt6/qml/org/kde/prison/scanner/prisonscannerquickplugin.qmltypes
+/usr/lib/qt6/qml/org/kde/prison/scanner/qmldir
+/usr/share/qlogging-categories6/prison.categories
+/usr/share/qlogging-categories6/prison.renamecategories

@@ -1,0 +1,6 @@
+/etc/sv/circadian/log/run
+/etc/sv/circadian/log/supervise -> /run/runit/supervise.circadian-log
+/etc/sv/circadian/run
+/etc/sv/circadian/supervise -> /run/runit/supervise.circadian
+/usr/bin/circadian
+/usr/share/examples/circadian/circadian.conf

@@ -1,0 +1,6 @@
+/usr/include/gta/gta.h
+/usr/include/gta/gta.hpp
+/usr/include/gta/gta_version.h
+/usr/lib/libgta.a
+/usr/lib/libgta.so -> /usr/lib/libgta.so.1.0.0
+/usr/lib/pkgconfig/gta.pc

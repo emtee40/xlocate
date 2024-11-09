@@ -1,0 +1,6 @@
+/usr/lib32/libQCoro6Core.so -> /usr/lib32/libQCoro6Core.so.0
+/usr/lib32/libQCoro6DBus.so -> /usr/lib32/libQCoro6DBus.so.0
+/usr/lib32/libQCoro6Network.so -> /usr/lib32/libQCoro6Network.so.0
+/usr/lib32/libQCoro6Qml.so -> /usr/lib32/libQCoro6Qml.so.0
+/usr/lib32/libQCoro6Quick.so -> /usr/lib32/libQCoro6Quick.so.0
+/usr/lib32/libQCoro6WebSockets.so -> /usr/lib32/libQCoro6WebSockets.so.0

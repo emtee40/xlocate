@@ -1,0 +1,13 @@
+/usr/bin/play -> /usr/bin/sox
+/usr/bin/rec -> /usr/bin/sox
+/usr/bin/sox
+/usr/bin/soxi -> /usr/bin/sox
+/usr/lib/libsox.so -> /usr/lib/libsox.so.3.0.0
+/usr/lib/libsox.so.3 -> /usr/lib/libsox.so.3.0.0
+/usr/lib/libsox.so.3.0.0
+/usr/share/man/man1/play.1 -> /usr/share/man/man1/sox.1
+/usr/share/man/man1/rec.1 -> /usr/share/man/man1/sox.1
+/usr/share/man/man1/sox.1
+/usr/share/man/man1/soxi.1
+/usr/share/man/man7/soxeffect.7 -> /usr/share/man/man1/sox.1
+/usr/share/man/man7/soxformat.7

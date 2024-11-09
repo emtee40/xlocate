@@ -1,0 +1,4 @@
+/etc/pam.d/waylock
+/usr/bin/waylock
+/usr/share/licenses/waylock/LICENSE
+/usr/share/man/man1/waylock.1

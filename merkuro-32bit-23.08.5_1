@@ -1,0 +1,5 @@
+/usr/lib32/qt5/qml/org/kde/akonadi/libakonadi_quick_plugin.so
+/usr/lib32/qt5/qml/org/kde/merkuro/calendar/libmerkuro_calendar_plugin.so
+/usr/lib32/qt5/qml/org/kde/merkuro/components/libmerkuro_components_plugin.so
+/usr/lib32/qt5/qml/org/kde/merkuro/contact/libmerkuro_contact_plugin.so
+/usr/lib32/qt5/qml/org/kde/merkuro/mail/libmerkuro_mail_plugin.so

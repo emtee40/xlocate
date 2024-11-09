@@ -1,0 +1,7 @@
+/usr/lib32/libpapi.a
+/usr/lib32/libpapi.so -> /usr/lib32/libpapi.so.7.0.1.0
+/usr/lib32/libsde.a
+/usr/lib32/libsde.so -> /usr/lib32/libsde.so.1.0
+/usr/lib32/pkgconfig/papi-7.0.1.0.pc
+/usr/lib32/pkgconfig/papi-7.0.pc
+/usr/lib32/pkgconfig/papi.pc

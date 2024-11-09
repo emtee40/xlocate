@@ -1,0 +1,7 @@
+/usr/bin/llvm-bolt
+/usr/bin/llvm-bolt-heatmap
+/usr/bin/llvm-boltdiff -> /usr/bin/llvm-bolt
+/usr/bin/merge-fdata
+/usr/bin/perf2bolt -> /usr/bin/llvm-bolt
+/usr/lib/libbolt_rt_hugify.a
+/usr/lib/libbolt_rt_instr.a

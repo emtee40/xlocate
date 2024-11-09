@@ -1,0 +1,21 @@
+/etc/sv/criu/log/run
+/etc/sv/criu/log/supervise -> /run/runit/supervise.criu-log
+/etc/sv/criu/run
+/etc/sv/criu/supervise -> /run/runit/supervise.criu
+/usr/bin/compel
+/usr/bin/criu
+/usr/bin/criu-ns
+/usr/lib/libcompel.a
+/usr/lib/libcompel.so.1 -> /usr/lib/libcompel.so.1.0
+/usr/lib/libcompel.so.1.0
+/usr/lib/libcriu.a
+/usr/lib/libcriu.so.2 -> /usr/lib/libcriu.so.2.0
+/usr/lib/libcriu.so.2.0
+/usr/libexec/compel/fds.lib.a
+/usr/libexec/compel/scripts/compel-pack.lds.S
+/usr/libexec/compel/std.lib.a
+/usr/libexec/criu/scripts/systemd-autofs-restart.sh
+/usr/share/man/man1/amdgpu_plugin.1
+/usr/share/man/man1/compel.1
+/usr/share/man/man1/criu-ns.1
+/usr/share/man/man8/criu.8

@@ -1,0 +1,20 @@
+/etc/profile.d/qt6ct.sh
+/usr/bin/qt6ct
+/usr/lib/libqt6ct-common.so -> /usr/lib/libqt6ct-common.so.0.9
+/usr/lib/libqt6ct-common.so.0.9
+/usr/lib/qt6/plugins/platformthemes/libqt6ct.so
+/usr/lib/qt6/plugins/styles/libqt6ct-style.so
+/usr/share/applications/qt6ct.desktop
+/usr/share/licenses/qt6ct/COPYING
+/usr/share/qt6ct/colors/airy.conf
+/usr/share/qt6ct/colors/darker.conf
+/usr/share/qt6ct/colors/dusk.conf
+/usr/share/qt6ct/colors/ia_ora.conf
+/usr/share/qt6ct/colors/sand.conf
+/usr/share/qt6ct/colors/simple.conf
+/usr/share/qt6ct/colors/waves.conf
+/usr/share/qt6ct/qss/fusion-fixes.qss
+/usr/share/qt6ct/qss/scrollbar-simple.qss
+/usr/share/qt6ct/qss/sliders-simple.qss
+/usr/share/qt6ct/qss/tooltip-simple.qss
+/usr/share/qt6ct/qss/traynotification-simple.qss

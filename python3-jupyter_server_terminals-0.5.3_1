@@ -1,0 +1,15 @@
+/etc/jupyter/jupyter_server_config.d/jupyter_server_terminals.json
+/usr/lib/python3.12/site-packages/jupyter_server_terminals-0.5.3.dist-info/METADATA
+/usr/lib/python3.12/site-packages/jupyter_server_terminals-0.5.3.dist-info/RECORD
+/usr/lib/python3.12/site-packages/jupyter_server_terminals-0.5.3.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/jupyter_server_terminals-0.5.3.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/__init__.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/_version.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/api_handlers.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/app.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/base.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/handlers.py
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/py.typed
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/rest-api.yml
+/usr/lib/python3.12/site-packages/jupyter_server_terminals/terminalmanager.py
+/usr/share/licenses/python3-jupyter_server_terminals/LICENSE

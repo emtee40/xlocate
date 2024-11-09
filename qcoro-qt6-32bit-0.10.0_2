@@ -1,0 +1,12 @@
+/usr/lib32/libQCoro6Core.so.0 -> /usr/lib32/libQCoro6Core.so.0.10.0
+/usr/lib32/libQCoro6Core.so.0.10.0
+/usr/lib32/libQCoro6DBus.so.0 -> /usr/lib32/libQCoro6DBus.so.0.10.0
+/usr/lib32/libQCoro6DBus.so.0.10.0
+/usr/lib32/libQCoro6Network.so.0 -> /usr/lib32/libQCoro6Network.so.0.10.0
+/usr/lib32/libQCoro6Network.so.0.10.0
+/usr/lib32/libQCoro6Qml.so.0 -> /usr/lib32/libQCoro6Qml.so.0.10.0
+/usr/lib32/libQCoro6Qml.so.0.10.0
+/usr/lib32/libQCoro6Quick.so.0 -> /usr/lib32/libQCoro6Quick.so.0.10.0
+/usr/lib32/libQCoro6Quick.so.0.10.0
+/usr/lib32/libQCoro6WebSockets.so.0 -> /usr/lib32/libQCoro6WebSockets.so.0.10.0
+/usr/lib32/libQCoro6WebSockets.so.0.10.0

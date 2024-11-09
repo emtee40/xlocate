@@ -1,0 +1,5 @@
+/etc/sv/netauthd/log/run
+/etc/sv/netauthd/log/supervise -> /run/runit/supervise.netauthd-log
+/etc/sv/netauthd/run
+/etc/sv/netauthd/supervise -> /run/runit/supervise.netauthd
+/usr/bin/netauthd

@@ -1,0 +1,4 @@
+/usr/include/sysfs/dlist.h
+/usr/include/sysfs/libsysfs.h
+/usr/lib/libsysfs.a
+/usr/lib/libsysfs.so -> /usr/lib/libsysfs.so.2.0.1

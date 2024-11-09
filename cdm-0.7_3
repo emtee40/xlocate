@@ -1,0 +1,13 @@
+/etc/cdmrc
+/etc/profile.d/cdm.sh
+/usr/bin/cdm
+/usr/bin/cdm-xlaunch
+/usr/share/doc/cdm/README.md
+/usr/share/doc/cdm/profile.sh
+/usr/share/doc/cdm/themes/blackandwhite
+/usr/share/doc/cdm/themes/cdm
+/usr/share/doc/cdm/themes/default
+/usr/share/doc/cdm/themes/ed
+/usr/share/doc/cdm/themes/elinks
+/usr/share/doc/cdm/themes/haze
+/usr/share/doc/cdm/themes/lime

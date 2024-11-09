@@ -1,0 +1,7 @@
+/usr/bin/nq
+/usr/bin/nqtail
+/usr/bin/nqterm
+/usr/share/man/man1/nq.1
+/usr/share/man/man1/nqtail.1
+/usr/share/man/man1/nqterm.1
+/usr/share/zsh/site-functions/_nq

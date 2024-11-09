@@ -1,0 +1,5 @@
+/usr/bin/dnet
+/usr/lib/libdnet.so.1 -> /usr/lib/libdnet.so.1.0.2
+/usr/lib/libdnet.so.1.0.2
+/usr/share/licenses/libdnet/LICENSE
+/usr/share/man/man8/dnet.8

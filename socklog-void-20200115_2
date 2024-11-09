@@ -1,0 +1,24 @@
+/etc/sv/nanoklogd/run
+/etc/sv/nanoklogd/supervise -> /run/runit/supervise.nanoklogd
+/etc/sv/socklog-unix/check
+/etc/sv/socklog-unix/log/run
+/etc/sv/socklog-unix/log/supervise -> /run/runit/supervise.socklog-unix-log
+/etc/sv/socklog-unix/run
+/etc/sv/socklog-unix/supervise -> /run/runit/supervise.socklog-unix
+/usr/bin/nanoklogd
+/usr/bin/svlogtail
+/usr/bin/syslog-stripdate
+/var/log/socklog/cron/config
+/var/log/socklog/daemon/config
+/var/log/socklog/debug/config
+/var/log/socklog/errors/config
+/var/log/socklog/everything/config
+/var/log/socklog/kernel/config
+/var/log/socklog/lpr/config
+/var/log/socklog/mail/config
+/var/log/socklog/messages/config
+/var/log/socklog/remote-udp/config
+/var/log/socklog/secure/config
+/var/log/socklog/tty12/config
+/var/log/socklog/user/config
+/var/log/socklog/xbps/config

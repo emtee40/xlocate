@@ -1,0 +1,14 @@
+/usr/bin/userpath
+/usr/lib/python3.12/site-packages/userpath-1.9.2.dist-info/METADATA
+/usr/lib/python3.12/site-packages/userpath-1.9.2.dist-info/RECORD
+/usr/lib/python3.12/site-packages/userpath-1.9.2.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/userpath-1.9.2.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/userpath-1.9.2.dist-info/licenses/LICENSE.txt
+/usr/lib/python3.12/site-packages/userpath/__init__.py
+/usr/lib/python3.12/site-packages/userpath/__main__.py
+/usr/lib/python3.12/site-packages/userpath/cli.py
+/usr/lib/python3.12/site-packages/userpath/core.py
+/usr/lib/python3.12/site-packages/userpath/interface.py
+/usr/lib/python3.12/site-packages/userpath/shells.py
+/usr/lib/python3.12/site-packages/userpath/utils.py
+/usr/share/licenses/python3-userpath/LICENSE

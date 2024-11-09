@@ -1,0 +1,203 @@
+/usr/bin/tali
+/usr/share/applications/org.gnome.Tali.desktop
+/usr/share/glib-2.0/schemas/org.gnome.Tali.gschema.xml
+/usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/C/tali/index.docbook
+/usr/share/help/C/tali/legal.xml
+/usr/share/help/ca/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/ca/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/ca/tali/index.docbook
+/usr/share/help/ca/tali/legal.xml
+/usr/share/help/cs/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/cs/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/cs/tali/index.docbook
+/usr/share/help/cs/tali/legal.xml
+/usr/share/help/da/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/da/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/da/tali/index.docbook
+/usr/share/help/da/tali/legal.xml
+/usr/share/help/de/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/de/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/de/tali/index.docbook
+/usr/share/help/de/tali/legal.xml
+/usr/share/help/el/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/el/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/el/tali/index.docbook
+/usr/share/help/el/tali/legal.xml
+/usr/share/help/en_GB/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/en_GB/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/en_GB/tali/index.docbook
+/usr/share/help/en_GB/tali/legal.xml
+/usr/share/help/es/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/es/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/es/tali/index.docbook
+/usr/share/help/es/tali/legal.xml
+/usr/share/help/eu/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/eu/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/eu/tali/index.docbook
+/usr/share/help/eu/tali/legal.xml
+/usr/share/help/fr/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/fr/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/fr/tali/index.docbook
+/usr/share/help/fr/tali/legal.xml
+/usr/share/help/gl/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/gl/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/gl/tali/index.docbook
+/usr/share/help/gl/tali/legal.xml
+/usr/share/help/hu/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/hu/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/hu/tali/index.docbook
+/usr/share/help/hu/tali/legal.xml
+/usr/share/help/id/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/id/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/id/tali/index.docbook
+/usr/share/help/id/tali/legal.xml
+/usr/share/help/it/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/it/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/it/tali/index.docbook
+/usr/share/help/it/tali/legal.xml
+/usr/share/help/ko/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/ko/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/ko/tali/index.docbook
+/usr/share/help/ko/tali/legal.xml
+/usr/share/help/pl/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/pl/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/pl/tali/index.docbook
+/usr/share/help/pl/tali/legal.xml
+/usr/share/help/pt_BR/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/pt_BR/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/pt_BR/tali/index.docbook
+/usr/share/help/pt_BR/tali/legal.xml
+/usr/share/help/ru/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/ru/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/ru/tali/index.docbook
+/usr/share/help/ru/tali/legal.xml
+/usr/share/help/sr/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/sr/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/sr/tali/index.docbook
+/usr/share/help/sr/tali/legal.xml
+/usr/share/help/sr@latin/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/sr@latin/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/sr@latin/tali/index.docbook
+/usr/share/help/sr@latin/tali/legal.xml
+/usr/share/help/sv/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/sv/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/sv/tali/index.docbook
+/usr/share/help/sv/tali/legal.xml
+/usr/share/help/uk/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/uk/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/uk/tali/index.docbook
+/usr/share/help/uk/tali/legal.xml
+/usr/share/help/zh_CN/tali/figures/mainwindow.png -> /usr/share/help/C/tali/figures/mainwindow.png
+/usr/share/help/zh_CN/tali/figures/preferences.png -> /usr/share/help/C/tali/figures/preferences.png
+/usr/share/help/zh_CN/tali/index.docbook
+/usr/share/help/zh_CN/tali/legal.xml
+/usr/share/icons/hicolor/scalable/apps/org.gnome.Tali.svg
+/usr/share/icons/hicolor/symbolic/apps/org.gnome.Tali-symbolic.svg
+/usr/share/locale/ab/LC_MESSAGES/tali.mo
+/usr/share/locale/af/LC_MESSAGES/tali.mo
+/usr/share/locale/am/LC_MESSAGES/tali.mo
+/usr/share/locale/ar/LC_MESSAGES/tali.mo
+/usr/share/locale/as/LC_MESSAGES/tali.mo
+/usr/share/locale/ast/LC_MESSAGES/tali.mo
+/usr/share/locale/az/LC_MESSAGES/tali.mo
+/usr/share/locale/be/LC_MESSAGES/tali.mo
+/usr/share/locale/bg/LC_MESSAGES/tali.mo
+/usr/share/locale/bn/LC_MESSAGES/tali.mo
+/usr/share/locale/bn_IN/LC_MESSAGES/tali.mo
+/usr/share/locale/br/LC_MESSAGES/tali.mo
+/usr/share/locale/bs/LC_MESSAGES/tali.mo
+/usr/share/locale/ca/LC_MESSAGES/tali.mo
+/usr/share/locale/ca@valencia/LC_MESSAGES/tali.mo
+/usr/share/locale/cs/LC_MESSAGES/tali.mo
+/usr/share/locale/cy/LC_MESSAGES/tali.mo
+/usr/share/locale/da/LC_MESSAGES/tali.mo
+/usr/share/locale/de/LC_MESSAGES/tali.mo
+/usr/share/locale/dz/LC_MESSAGES/tali.mo
+/usr/share/locale/el/LC_MESSAGES/tali.mo
+/usr/share/locale/en@shaw/LC_MESSAGES/tali.mo
+/usr/share/locale/en_CA/LC_MESSAGES/tali.mo
+/usr/share/locale/en_GB/LC_MESSAGES/tali.mo
+/usr/share/locale/eo/LC_MESSAGES/tali.mo
+/usr/share/locale/es/LC_MESSAGES/tali.mo
+/usr/share/locale/et/LC_MESSAGES/tali.mo
+/usr/share/locale/eu/LC_MESSAGES/tali.mo
+/usr/share/locale/fa/LC_MESSAGES/tali.mo
+/usr/share/locale/fi/LC_MESSAGES/tali.mo
+/usr/share/locale/fr/LC_MESSAGES/tali.mo
+/usr/share/locale/fur/LC_MESSAGES/tali.mo
+/usr/share/locale/ga/LC_MESSAGES/tali.mo
+/usr/share/locale/gl/LC_MESSAGES/tali.mo
+/usr/share/locale/gu/LC_MESSAGES/tali.mo
+/usr/share/locale/he/LC_MESSAGES/tali.mo
+/usr/share/locale/hi/LC_MESSAGES/tali.mo
+/usr/share/locale/hr/LC_MESSAGES/tali.mo
+/usr/share/locale/hu/LC_MESSAGES/tali.mo
+/usr/share/locale/id/LC_MESSAGES/tali.mo
+/usr/share/locale/is/LC_MESSAGES/tali.mo
+/usr/share/locale/it/LC_MESSAGES/tali.mo
+/usr/share/locale/ja/LC_MESSAGES/tali.mo
+/usr/share/locale/ka/LC_MESSAGES/tali.mo
+/usr/share/locale/kk/LC_MESSAGES/tali.mo
+/usr/share/locale/km/LC_MESSAGES/tali.mo
+/usr/share/locale/kn/LC_MESSAGES/tali.mo
+/usr/share/locale/ko/LC_MESSAGES/tali.mo
+/usr/share/locale/ku/LC_MESSAGES/tali.mo
+/usr/share/locale/lt/LC_MESSAGES/tali.mo
+/usr/share/locale/lv/LC_MESSAGES/tali.mo
+/usr/share/locale/mai/LC_MESSAGES/tali.mo
+/usr/share/locale/mk/LC_MESSAGES/tali.mo
+/usr/share/locale/ml/LC_MESSAGES/tali.mo
+/usr/share/locale/mn/LC_MESSAGES/tali.mo
+/usr/share/locale/mr/LC_MESSAGES/tali.mo
+/usr/share/locale/ms/LC_MESSAGES/tali.mo
+/usr/share/locale/nb/LC_MESSAGES/tali.mo
+/usr/share/locale/ne/LC_MESSAGES/tali.mo
+/usr/share/locale/nl/LC_MESSAGES/tali.mo
+/usr/share/locale/nn/LC_MESSAGES/tali.mo
+/usr/share/locale/oc/LC_MESSAGES/tali.mo
+/usr/share/locale/or/LC_MESSAGES/tali.mo
+/usr/share/locale/pa/LC_MESSAGES/tali.mo
+/usr/share/locale/pl/LC_MESSAGES/tali.mo
+/usr/share/locale/pt/LC_MESSAGES/tali.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/tali.mo
+/usr/share/locale/ro/LC_MESSAGES/tali.mo
+/usr/share/locale/ru/LC_MESSAGES/tali.mo
+/usr/share/locale/rw/LC_MESSAGES/tali.mo
+/usr/share/locale/si/LC_MESSAGES/tali.mo
+/usr/share/locale/sk/LC_MESSAGES/tali.mo
+/usr/share/locale/sl/LC_MESSAGES/tali.mo
+/usr/share/locale/sq/LC_MESSAGES/tali.mo
+/usr/share/locale/sr/LC_MESSAGES/tali.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/tali.mo
+/usr/share/locale/sv/LC_MESSAGES/tali.mo
+/usr/share/locale/ta/LC_MESSAGES/tali.mo
+/usr/share/locale/te/LC_MESSAGES/tali.mo
+/usr/share/locale/tg/LC_MESSAGES/tali.mo
+/usr/share/locale/th/LC_MESSAGES/tali.mo
+/usr/share/locale/tr/LC_MESSAGES/tali.mo
+/usr/share/locale/ug/LC_MESSAGES/tali.mo
+/usr/share/locale/uk/LC_MESSAGES/tali.mo
+/usr/share/locale/vi/LC_MESSAGES/tali.mo
+/usr/share/locale/wa/LC_MESSAGES/tali.mo
+/usr/share/locale/xh/LC_MESSAGES/tali.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/tali.mo
+/usr/share/locale/zh_HK/LC_MESSAGES/tali.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/tali.mo
+/usr/share/man/man6/tali.6
+/usr/share/metainfo/org.gnome.Tali.appdata.xml
+/usr/share/tali/gnome-dice-1.svg
+/usr/share/tali/gnome-dice-2.svg
+/usr/share/tali/gnome-dice-3.svg
+/usr/share/tali/gnome-dice-4.svg
+/usr/share/tali/gnome-dice-5.svg
+/usr/share/tali/gnome-dice-6.svg
+/usr/share/tali/gnome-dice-none.svg
+/usr/share/tali/kismet-none.svg
+/usr/share/tali/kismet1.svg
+/usr/share/tali/kismet2.svg
+/usr/share/tali/kismet3.svg
+/usr/share/tali/kismet4.svg
+/usr/share/tali/kismet5.svg
+/usr/share/tali/kismet6.svg

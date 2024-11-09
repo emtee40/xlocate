@@ -1,0 +1,30 @@
+/usr/include/gaminggear-0/gaminggear/audio_notificator.h
+/usr/include/gaminggear-0/gaminggear/gaminggear.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_device.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_fx_plugin.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_hid_combo_box.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_hscale.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_macro_dialog.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_macro_editor_dialog.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_profile_data.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_profile_page.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_profile_table.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_text_dialog.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_timeout_bar.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_timeout_dialog.h
+/usr/include/gaminggear-0/gaminggear/gaminggear_xy_scales.h
+/usr/include/gaminggear-0/gaminggear/gdk_key_translations.h
+/usr/include/gaminggear-0/gaminggear/gfx.h
+/usr/include/gaminggear-0/gaminggear/hid_uid.h
+/usr/include/gaminggear-0/gaminggear/input_events.h
+/usr/include/gaminggear-0/gaminggear/key_translations.h
+/usr/include/gaminggear-0/gaminggear/macro.h
+/usr/include/gaminggear-0/gaminggear/macro_threads.h
+/usr/include/gaminggear-0/gaminggear/profiles.h
+/usr/include/gaminggear-0/gaminggear/screen_notificator.h
+/usr/include/gaminggear-0/gaminggear/threads.h
+/usr/lib/cmake/FindGAMINGGEAR0.cmake
+/usr/lib/libgaminggear.so -> /usr/lib/libgaminggear.so.0
+/usr/lib/libgaminggearfx.so -> /usr/lib/libgaminggearfx.so.0
+/usr/lib/libgaminggearwidget.so -> /usr/lib/libgaminggearwidget.so.0
+/usr/lib/pkgconfig/gaminggear-0.pc

@@ -1,0 +1,8 @@
+/usr/lib32/cairo/libcairo-fdr.so
+/usr/lib32/cairo/libcairo-trace.so
+/usr/lib32/libcairo-gobject.so.2 -> /usr/lib32/libcairo-gobject.so.2.11800.0
+/usr/lib32/libcairo-gobject.so.2.11800.0
+/usr/lib32/libcairo-script-interpreter.so.2 -> /usr/lib32/libcairo-script-interpreter.so.2.11800.0
+/usr/lib32/libcairo-script-interpreter.so.2.11800.0
+/usr/lib32/libcairo.so.2 -> /usr/lib32/libcairo.so.2.11800.0
+/usr/lib32/libcairo.so.2.11800.0

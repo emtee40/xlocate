@@ -1,0 +1,9 @@
+/usr/lib/libasm-0.190.so
+/usr/lib/libasm.so -> /usr/lib/libasm.so.1
+/usr/lib/libasm.so.1 -> /usr/lib/libasm-0.190.so
+/usr/lib/libdw-0.190.so
+/usr/lib/libdw.so -> /usr/lib/libdw.so.1
+/usr/lib/libdw.so.1 -> /usr/lib/libdw-0.190.so
+/usr/lib/libelf-0.190.so
+/usr/lib/libelf.so -> /usr/lib/libelf.so.1
+/usr/lib/libelf.so.1 -> /usr/lib/libelf-0.190.so

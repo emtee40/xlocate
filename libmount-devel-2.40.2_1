@@ -1,0 +1,4 @@
+/usr/include/libmount/libmount.h
+/usr/lib/libmount.a
+/usr/lib/libmount.so -> /usr/lib/libmount.so.1.1.0
+/usr/lib/pkgconfig/mount.pc

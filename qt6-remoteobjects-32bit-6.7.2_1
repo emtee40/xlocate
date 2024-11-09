@@ -1,0 +1,5 @@
+/usr/lib32/libQt6RemoteObjects.so.6 -> /usr/lib32/libQt6RemoteObjects.so.6.7.2
+/usr/lib32/libQt6RemoteObjects.so.6.7.2
+/usr/lib32/libQt6RemoteObjectsQml.so.6 -> /usr/lib32/libQt6RemoteObjectsQml.so.6.7.2
+/usr/lib32/libQt6RemoteObjectsQml.so.6.7.2
+/usr/lib32/qt6/qml/QtRemoteObjects/libdeclarative_remoteobjectsplugin.so

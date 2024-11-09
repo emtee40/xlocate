@@ -1,0 +1,10 @@
+/usr/bin/flacsplt -> /usr/bin/mp3splt
+/usr/bin/mp3splt
+/usr/bin/oggsplt -> /usr/bin/mp3splt
+/usr/share/locale/cs/LC_MESSAGES/mp3splt.mo
+/usr/share/locale/de_DE/LC_MESSAGES/mp3splt.mo
+/usr/share/locale/es/LC_MESSAGES/mp3splt.mo
+/usr/share/locale/fr_FR/LC_MESSAGES/mp3splt.mo
+/usr/share/man/man1/flacsplt.1 -> /usr/share/man/man1/mp3splt.1
+/usr/share/man/man1/mp3splt.1
+/usr/share/man/man1/oggsplt.1 -> /usr/share/man/man1/mp3splt.1

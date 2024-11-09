@@ -1,0 +1,17 @@
+/usr/bin/bpf_asm
+/usr/bin/bpf_dbg
+/usr/bin/bpf_jit_disasm
+/usr/bin/bpftool
+/usr/share/bash-completion/completions/bpftool
+/usr/share/man/man8/bpftool-btf.8
+/usr/share/man/man8/bpftool-cgroup.8
+/usr/share/man/man8/bpftool-feature.8
+/usr/share/man/man8/bpftool-gen.8
+/usr/share/man/man8/bpftool-iter.8
+/usr/share/man/man8/bpftool-link.8
+/usr/share/man/man8/bpftool-map.8
+/usr/share/man/man8/bpftool-net.8
+/usr/share/man/man8/bpftool-perf.8
+/usr/share/man/man8/bpftool-prog.8
+/usr/share/man/man8/bpftool-struct_ops.8
+/usr/share/man/man8/bpftool.8

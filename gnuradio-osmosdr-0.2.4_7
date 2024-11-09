@@ -1,0 +1,10 @@
+/usr/bin/osmocom_fft
+/usr/bin/osmocom_siggen_nogui
+/usr/lib/libgnuradio-osmosdr.so.0.2.0 -> /usr/lib/libgnuradio-osmosdr.so.0.2.0.0
+/usr/lib/libgnuradio-osmosdr.so.0.2.0.0
+/usr/lib/python3.12/site-packages/osmosdr/__init__.py
+/usr/lib/python3.12/site-packages/osmosdr/osmocom_siggen_base.py
+/usr/lib/python3.12/site-packages/osmosdr/osmosdr_python.so
+/usr/share/gnuradio/grc/blocks/osmosdr_sink.block.yml
+/usr/share/gnuradio/grc/blocks/osmosdr_source.block.yml
+/usr/share/gnuradio/grc/blocks/rtlsdr_source.block.yml

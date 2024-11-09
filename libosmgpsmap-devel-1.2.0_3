@@ -1,0 +1,14 @@
+/usr/include/osmgpsmap-1.0/osm-gps-map-compat.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-image.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-layer.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-osd.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-point.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-polygon.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-source.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-track.h
+/usr/include/osmgpsmap-1.0/osm-gps-map-widget.h
+/usr/include/osmgpsmap-1.0/osm-gps-map.h
+/usr/lib/libosmgpsmap-1.0.a
+/usr/lib/libosmgpsmap-1.0.so -> /usr/lib/libosmgpsmap-1.0.so.1.1.0
+/usr/lib/pkgconfig/osmgpsmap-1.0.pc
+/usr/share/gir-1.0/OsmGpsMap-1.0.gir

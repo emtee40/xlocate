@@ -1,0 +1,7 @@
+/usr/lib32/libmuffin.so -> /usr/lib32/libmuffin.so.0
+/usr/lib32/pkgconfig/libmuffin-0.pc
+/usr/lib32/pkgconfig/muffin-clutter-0.pc
+/usr/lib32/pkgconfig/muffin-clutter-x11-0.pc
+/usr/lib32/pkgconfig/muffin-cogl-0.pc
+/usr/lib32/pkgconfig/muffin-cogl-pango-0.pc
+/usr/lib32/pkgconfig/muffin-cogl-path-0.pc

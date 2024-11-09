@@ -1,0 +1,11 @@
+/etc/dhclient.conf
+/etc/sv/dhclient/log/run -> /usr/bin/vlogger
+/etc/sv/dhclient/log/supervise -> /run/runit/supervise.dhclient-log
+/etc/sv/dhclient/run
+/etc/sv/dhclient/supervise -> /run/runit/supervise.dhclient
+/usr/bin/dhclient
+/usr/bin/dhclient-script
+/usr/share/man/man5/dhclient.conf.5
+/usr/share/man/man5/dhclient.leases.5
+/usr/share/man/man8/dhclient-script.8
+/usr/share/man/man8/dhclient.8

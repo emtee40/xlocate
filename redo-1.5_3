@@ -1,0 +1,9 @@
+/usr/bin/cubehash -> /usr/bin/redo
+/usr/bin/redo
+/usr/bin/redo-ifchange -> /usr/bin/redo
+/usr/bin/redo-ifcreate -> /usr/bin/redo
+/usr/share/licenses/redo/COPYING
+/usr/share/man/man1/cubehash.1
+/usr/share/man/man1/redo-ifchange.1
+/usr/share/man/man1/redo-ifcreate.1
+/usr/share/man/man1/redo.1

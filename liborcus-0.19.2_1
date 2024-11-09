@@ -1,0 +1,33 @@
+/usr/bin/orcus-css-dump
+/usr/bin/orcus-csv
+/usr/bin/orcus-detect
+/usr/bin/orcus-gnumeric
+/usr/bin/orcus-json
+/usr/bin/orcus-mso-encryption
+/usr/bin/orcus-ods
+/usr/bin/orcus-styles-ods
+/usr/bin/orcus-xls-xml
+/usr/bin/orcus-xlsx
+/usr/bin/orcus-xml
+/usr/bin/orcus-yaml
+/usr/bin/orcus-zip-dump
+/usr/lib/liborcus-0.18.so.0 -> /usr/lib/liborcus-0.18.so.0.0.0
+/usr/lib/liborcus-0.18.so.0.0.0
+/usr/lib/liborcus-mso-0.18.so.0 -> /usr/lib/liborcus-mso-0.18.so.0.0.0
+/usr/lib/liborcus-mso-0.18.so.0.0.0
+/usr/lib/liborcus-parser-0.18.so.0 -> /usr/lib/liborcus-parser-0.18.so.0.0.0
+/usr/lib/liborcus-parser-0.18.so.0.0.0
+/usr/lib/liborcus-spreadsheet-model-0.18.so.0 -> /usr/lib/liborcus-spreadsheet-model-0.18.so.0.0.0
+/usr/lib/liborcus-spreadsheet-model-0.18.so.0.0.0
+/usr/lib/python3.12/site-packages/_orcus.so
+/usr/lib/python3.12/site-packages/_orcus_json.so
+/usr/lib/python3.12/site-packages/orcus/__init__.py
+/usr/lib/python3.12/site-packages/orcus/csv.py
+/usr/lib/python3.12/site-packages/orcus/gnumeric.py
+/usr/lib/python3.12/site-packages/orcus/json.py
+/usr/lib/python3.12/site-packages/orcus/ods.py
+/usr/lib/python3.12/site-packages/orcus/tools/__init__.py
+/usr/lib/python3.12/site-packages/orcus/tools/bugzilla.py
+/usr/lib/python3.12/site-packages/orcus/tools/file_processor.py
+/usr/lib/python3.12/site-packages/orcus/xls_xml.py
+/usr/lib/python3.12/site-packages/orcus/xlsx.py

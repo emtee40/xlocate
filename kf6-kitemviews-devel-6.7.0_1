@@ -1,0 +1,24 @@
+/usr/include/KF6/KItemViews/KCategorizedSortFilterProxyModel
+/usr/include/KF6/KItemViews/KCategorizedView
+/usr/include/KF6/KItemViews/KCategoryDrawer
+/usr/include/KF6/KItemViews/KExtendableItemDelegate
+/usr/include/KF6/KItemViews/KListWidgetSearchLine
+/usr/include/KF6/KItemViews/KTreeWidgetSearchLine
+/usr/include/KF6/KItemViews/KTreeWidgetSearchLineWidget
+/usr/include/KF6/KItemViews/KWidgetItemDelegate
+/usr/include/KF6/KItemViews/kcategorizedsortfilterproxymodel.h
+/usr/include/KF6/KItemViews/kcategorizedview.h
+/usr/include/KF6/KItemViews/kcategorydrawer.h
+/usr/include/KF6/KItemViews/kextendableitemdelegate.h
+/usr/include/KF6/KItemViews/kitemviews_export.h
+/usr/include/KF6/KItemViews/kitemviews_version.h
+/usr/include/KF6/KItemViews/klistwidgetsearchline.h
+/usr/include/KF6/KItemViews/ktreewidgetsearchline.h
+/usr/include/KF6/KItemViews/ktreewidgetsearchlinewidget.h
+/usr/include/KF6/KItemViews/kwidgetitemdelegate.h
+/usr/lib/cmake/KF6ItemViews/KF6ItemViewsConfig.cmake
+/usr/lib/cmake/KF6ItemViews/KF6ItemViewsConfigVersion.cmake
+/usr/lib/cmake/KF6ItemViews/KF6ItemViewsTargets-none.cmake
+/usr/lib/cmake/KF6ItemViews/KF6ItemViewsTargets.cmake
+/usr/lib/libKF6ItemViews.so -> /usr/lib/libKF6ItemViews.so.6
+/usr/lib/qt6/plugins/designer/kitemviews6widgets.so

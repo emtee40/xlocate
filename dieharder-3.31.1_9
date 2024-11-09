@@ -1,0 +1,4 @@
+/usr/bin/dieharder
+/usr/lib/libdieharder.so.3 -> /usr/lib/libdieharder.so.3.31.1
+/usr/lib/libdieharder.so.3.31.1
+/usr/share/man/man1/dieharder.1

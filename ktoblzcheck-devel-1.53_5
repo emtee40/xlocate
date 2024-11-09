@@ -1,0 +1,8 @@
+/usr/include/iban.h
+/usr/include/ktoblzcheck.h
+/usr/lib/cmake/KtoBlzCheck/KtoBlzCheckConfig.cmake
+/usr/lib/cmake/KtoBlzCheck/KtoBlzCheckConfigVersion.cmake
+/usr/lib/cmake/KtoBlzCheck/KtoBlzCheckTargets-none.cmake
+/usr/lib/cmake/KtoBlzCheck/KtoBlzCheckTargets.cmake
+/usr/lib/libktoblzcheck.so -> /usr/lib/libktoblzcheck.so.1
+/usr/lib/pkgconfig/ktoblzcheck.pc

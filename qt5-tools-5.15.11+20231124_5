@@ -1,0 +1,65 @@
+/usr/bin/assistant-qt5 -> /usr/lib/qt5/bin/assistant
+/usr/bin/designer-qt5 -> /usr/lib/qt5/bin/designer
+/usr/bin/linguist-qt5 -> /usr/lib/qt5/bin/linguist
+/usr/bin/pixeltool-qt5 -> /usr/lib/qt5/bin/pixeltool
+/usr/bin/qcollectiongenerator-qt5 -> /usr/lib/qt5/bin/qcollectiongenerator
+/usr/bin/qdbus-qt5 -> /usr/lib/qt5/bin/qdbus
+/usr/bin/qdbusviewer-qt5 -> /usr/lib/qt5/bin/qdbusviewer
+/usr/bin/qdistancefieldgenerator-qt5 -> /usr/lib/qt5/bin/qdistancefieldgenerator
+/usr/bin/qdoc-qt5 -> /usr/lib/qt5/bin/qdoc
+/usr/bin/qhelpgenerator-qt5 -> /usr/lib/qt5/bin/qhelpgenerator
+/usr/bin/qtattributionsscanner-qt5 -> /usr/lib/qt5/bin/qtattributionsscanner
+/usr/bin/qtdiag-qt5 -> /usr/lib/qt5/bin/qtdiag
+/usr/bin/qtpaths-qt5 -> /usr/lib/qt5/bin/qtpaths
+/usr/bin/qtplugininfo-qt5 -> /usr/lib/qt5/bin/qtplugininfo
+/usr/lib/libQt5Designer.so.5 -> /usr/lib/libQt5Designer.so.5.15.11
+/usr/lib/libQt5Designer.so.5.15 -> /usr/lib/libQt5Designer.so.5.15.11
+/usr/lib/libQt5Designer.so.5.15.11
+/usr/lib/libQt5DesignerComponents.so.5 -> /usr/lib/libQt5DesignerComponents.so.5.15.11
+/usr/lib/libQt5DesignerComponents.so.5.15 -> /usr/lib/libQt5DesignerComponents.so.5.15.11
+/usr/lib/libQt5DesignerComponents.so.5.15.11
+/usr/lib/libQt5Help.so.5 -> /usr/lib/libQt5Help.so.5.15.11
+/usr/lib/libQt5Help.so.5.15 -> /usr/lib/libQt5Help.so.5.15.11
+/usr/lib/libQt5Help.so.5.15.11
+/usr/lib/qt5/bin/assistant
+/usr/lib/qt5/bin/designer
+/usr/lib/qt5/bin/linguist
+/usr/lib/qt5/bin/pixeltool
+/usr/lib/qt5/bin/qcollectiongenerator
+/usr/lib/qt5/bin/qdbus
+/usr/lib/qt5/bin/qdbusviewer
+/usr/lib/qt5/bin/qdistancefieldgenerator
+/usr/lib/qt5/bin/qdoc
+/usr/lib/qt5/bin/qhelpgenerator
+/usr/lib/qt5/bin/qtattributionsscanner
+/usr/lib/qt5/bin/qtdiag
+/usr/lib/qt5/bin/qtpaths
+/usr/lib/qt5/bin/qtplugininfo
+/usr/lib/qt5/plugins/designer/libqquickwidget.so
+/usr/share/applications/assistant-qt5.desktop
+/usr/share/applications/designer-qt5.desktop
+/usr/share/applications/linguist-qt5.desktop
+/usr/share/applications/qdbusviewer-qt5.desktop
+/usr/share/icons/hicolor/128x128/apps/assistant-qt5.png
+/usr/share/icons/hicolor/128x128/apps/designer-qt5.png
+/usr/share/icons/hicolor/128x128/apps/linguist-qt5.png
+/usr/share/icons/hicolor/128x128/apps/qdbusviewer-qt5.png
+/usr/share/icons/hicolor/16x16/apps/linguist-qt5.png
+/usr/share/icons/hicolor/32x32/apps/assistant-qt5.png
+/usr/share/icons/hicolor/32x32/apps/linguist-qt5.png
+/usr/share/icons/hicolor/32x32/apps/qdbusviewer-qt5.png
+/usr/share/icons/hicolor/48x48/apps/linguist-qt5.png
+/usr/share/icons/hicolor/64x64/apps/linguist-qt5.png
+/usr/share/qt5/phrasebooks/danish.qph
+/usr/share/qt5/phrasebooks/dutch.qph
+/usr/share/qt5/phrasebooks/finnish.qph
+/usr/share/qt5/phrasebooks/french.qph
+/usr/share/qt5/phrasebooks/german.qph
+/usr/share/qt5/phrasebooks/hungarian.qph
+/usr/share/qt5/phrasebooks/italian.qph
+/usr/share/qt5/phrasebooks/japanese.qph
+/usr/share/qt5/phrasebooks/norwegian.qph
+/usr/share/qt5/phrasebooks/polish.qph
+/usr/share/qt5/phrasebooks/russian.qph
+/usr/share/qt5/phrasebooks/spanish.qph
+/usr/share/qt5/phrasebooks/swedish.qph

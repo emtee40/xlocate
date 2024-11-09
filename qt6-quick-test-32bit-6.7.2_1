@@ -1,0 +1,5 @@
+/usr/lib32/libQt6QuickTest.so.6 -> /usr/lib32/libQt6QuickTest.so.6.7.2
+/usr/lib32/libQt6QuickTest.so.6.7.2
+/usr/lib32/qt6/qml/Qt/test/controls/libquickcontrolstestutilsprivateplugin.so
+/usr/lib32/qt6/qml/Qt/test/controls/objects-None/QuickControlsTestUtilsPrivate_resources_1/.qt/rcc/qrc_qmake_Qt_test_controls_init.cpp.o
+/usr/lib32/qt6/qml/QtTest/libquicktestplugin.so

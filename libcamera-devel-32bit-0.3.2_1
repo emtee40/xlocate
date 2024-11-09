@@ -1,0 +1,4 @@
+/usr/lib32/libcamera-base.so -> /usr/lib32/libcamera-base.so.0.3
+/usr/lib32/libcamera.so -> /usr/lib32/libcamera.so.0.3
+/usr/lib32/pkgconfig/libcamera-base.pc
+/usr/lib32/pkgconfig/libcamera.pc

@@ -1,0 +1,11 @@
+/usr/include/libewf.h
+/usr/include/libewf/codepage.h
+/usr/include/libewf/definitions.h
+/usr/include/libewf/error.h
+/usr/include/libewf/extern.h
+/usr/include/libewf/features.h
+/usr/include/libewf/types.h
+/usr/lib/libewf.a
+/usr/lib/libewf.so -> /usr/lib/libewf.so.3.0.0
+/usr/lib/pkgconfig/libewf.pc
+/usr/share/man/man3/libewf.3

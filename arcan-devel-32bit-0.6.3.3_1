@@ -1,0 +1,11 @@
+/usr/lib32/libarcan_a12.so -> /usr/lib32/libarcan_a12.so.0.1
+/usr/lib32/libarcan_shmif.a
+/usr/lib32/libarcan_shmif.so -> /usr/lib32/libarcan_shmif.so.0.16
+/usr/lib32/libarcan_shmif_ext.so -> /usr/lib32/libarcan_shmif_ext.so.0.16
+/usr/lib32/libarcan_shmif_intext.so -> /usr/lib32/libarcan_shmif_intext.so.0.16
+/usr/lib32/libarcan_shmif_server.so -> /usr/lib32/libarcan_shmif_server.so.0.16
+/usr/lib32/libarcan_tui.so -> /usr/lib32/libarcan_tui.so.0.16
+/usr/lib32/pkgconfig/arcan-shmif-ext.pc
+/usr/lib32/pkgconfig/arcan-shmif-srv.pc
+/usr/lib32/pkgconfig/arcan-shmif-tui.pc
+/usr/lib32/pkgconfig/arcan-shmif.pc

@@ -1,0 +1,3 @@
+/usr/lib32/dbd/libdbdmysql.a
+/usr/lib32/dbd/libdbdpgsql.a
+/usr/lib32/dbd/libdbdsqlite3.a

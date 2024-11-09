@@ -1,0 +1,17 @@
+/usr/lib32/libbd_btrfs.so -> /usr/lib32/libbd_btrfs.so.3.0.0
+/usr/lib32/libbd_crypto.so -> /usr/lib32/libbd_crypto.so.3.0.0
+/usr/lib32/libbd_dm.so -> /usr/lib32/libbd_dm.so.3.0.0
+/usr/lib32/libbd_fs.so -> /usr/lib32/libbd_fs.so.3.0.0
+/usr/lib32/libbd_loop.so -> /usr/lib32/libbd_loop.so.3.0.0
+/usr/lib32/libbd_lvm-dbus.so -> /usr/lib32/libbd_lvm-dbus.so.3.0.0
+/usr/lib32/libbd_lvm.so -> /usr/lib32/libbd_lvm.so.3.0.0
+/usr/lib32/libbd_mdraid.so -> /usr/lib32/libbd_mdraid.so.3.0.0
+/usr/lib32/libbd_mpath.so -> /usr/lib32/libbd_mpath.so.3.0.0
+/usr/lib32/libbd_nvdimm.so -> /usr/lib32/libbd_nvdimm.so.3.0.0
+/usr/lib32/libbd_nvme.so -> /usr/lib32/libbd_nvme.so.3.0.0
+/usr/lib32/libbd_part.so -> /usr/lib32/libbd_part.so.3.0.0
+/usr/lib32/libbd_swap.so -> /usr/lib32/libbd_swap.so.3.0.0
+/usr/lib32/libbd_utils.so -> /usr/lib32/libbd_utils.so.3.0.0
+/usr/lib32/libblockdev.so -> /usr/lib32/libblockdev.so.3.0.0
+/usr/lib32/pkgconfig/blockdev-utils.pc
+/usr/lib32/pkgconfig/blockdev.pc

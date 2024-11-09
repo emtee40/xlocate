@@ -1,0 +1,17 @@
+/etc/dehydrated/config
+/etc/dehydrated/domains.txt
+/etc/dehydrated/hook.sh
+/usr/bin/dehydrated
+/usr/share/doc/dehydrated/acme-v1.md
+/usr/share/doc/dehydrated/dns-verification.md
+/usr/share/doc/dehydrated/domains_txt.md
+/usr/share/doc/dehydrated/ecc.md
+/usr/share/doc/dehydrated/hook_chain.md
+/usr/share/doc/dehydrated/logo.png
+/usr/share/doc/dehydrated/per-certificate-config.md
+/usr/share/doc/dehydrated/staging.md
+/usr/share/doc/dehydrated/tls-alpn.md
+/usr/share/doc/dehydrated/troubleshooting.md
+/usr/share/doc/dehydrated/wellknown.md
+/usr/share/licenses/dehydrated/LICENSE
+/usr/share/man/man1/dehydrated.1

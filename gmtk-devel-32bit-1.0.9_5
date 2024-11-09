@@ -1,0 +1,4 @@
+/usr/lib32/libgmlib.so -> /usr/lib32/libgmlib.so.1.0.9
+/usr/lib32/libgmtk.so -> /usr/lib32/libgmtk.so.1.0.9
+/usr/lib32/pkgconfig/gmlib.pc
+/usr/lib32/pkgconfig/gmtk.pc

@@ -1,0 +1,9 @@
+/usr/bin/xxh128sum -> /usr/bin/xxhsum
+/usr/bin/xxh32sum -> /usr/bin/xxhsum
+/usr/bin/xxh64sum -> /usr/bin/xxhsum
+/usr/bin/xxhsum
+/usr/share/licenses/xxHash/LICENSE
+/usr/share/man/man1/xxh128sum.1 -> /usr/share/man/man1/xxhsum.1
+/usr/share/man/man1/xxh32sum.1 -> /usr/share/man/man1/xxhsum.1
+/usr/share/man/man1/xxh64sum.1 -> /usr/share/man/man1/xxhsum.1
+/usr/share/man/man1/xxhsum.1

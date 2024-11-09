@@ -1,0 +1,42 @@
+/etc/ImageMagick-7/colors.xml
+/etc/ImageMagick-7/delegates.xml
+/etc/ImageMagick-7/log.xml
+/etc/ImageMagick-7/mime.xml
+/etc/ImageMagick-7/policy.xml
+/etc/ImageMagick-7/quantization-table.xml
+/etc/ImageMagick-7/thresholds.xml
+/etc/ImageMagick-7/type-apple.xml
+/etc/ImageMagick-7/type-dejavu.xml
+/etc/ImageMagick-7/type-ghostscript.xml
+/etc/ImageMagick-7/type-urw-base35.xml
+/etc/ImageMagick-7/type-windows.xml
+/etc/ImageMagick-7/type.xml
+/usr/bin/animate -> /usr/bin/magick
+/usr/bin/compare -> /usr/bin/magick
+/usr/bin/composite -> /usr/bin/magick
+/usr/bin/conjure -> /usr/bin/magick
+/usr/bin/convert -> /usr/bin/magick
+/usr/bin/display -> /usr/bin/magick
+/usr/bin/identify -> /usr/bin/magick
+/usr/bin/import -> /usr/bin/magick
+/usr/bin/magick
+/usr/bin/magick-script -> /usr/bin/magick
+/usr/bin/mogrify -> /usr/bin/magick
+/usr/bin/montage -> /usr/bin/magick
+/usr/bin/stream -> /usr/bin/magick
+/usr/share/licenses/ImageMagick/LICENSE
+/usr/share/licenses/ImageMagick/NOTICE
+/usr/share/man/man1/ImageMagick.1
+/usr/share/man/man1/animate.1
+/usr/share/man/man1/compare.1
+/usr/share/man/man1/composite.1
+/usr/share/man/man1/conjure.1
+/usr/share/man/man1/convert.1
+/usr/share/man/man1/display.1
+/usr/share/man/man1/identify.1
+/usr/share/man/man1/import.1
+/usr/share/man/man1/magick-script.1
+/usr/share/man/man1/magick.1
+/usr/share/man/man1/mogrify.1
+/usr/share/man/man1/montage.1
+/usr/share/man/man1/stream.1

@@ -1,0 +1,10 @@
+/usr/lib32/libipa_hbac.so -> /usr/lib32/libipa_hbac.so.0.1.0
+/usr/lib32/libsss_certmap.so -> /usr/lib32/libsss_certmap.so.0.2.0
+/usr/lib32/libsss_idmap.so -> /usr/lib32/libsss_idmap.so.0.5.1
+/usr/lib32/libsss_nss_idmap.so -> /usr/lib32/libsss_nss_idmap.so.0.6.0
+/usr/lib32/libsss_simpleifp.so -> /usr/lib32/libsss_simpleifp.so.0.1.1
+/usr/lib32/pkgconfig/ipa_hbac.pc
+/usr/lib32/pkgconfig/sss_certmap.pc
+/usr/lib32/pkgconfig/sss_idmap.pc
+/usr/lib32/pkgconfig/sss_nss_idmap.pc
+/usr/lib32/pkgconfig/sss_simpleifp.pc

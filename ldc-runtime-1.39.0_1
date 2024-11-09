@@ -1,0 +1,12 @@
+/usr/lib/libdruntime-ldc-debug-shared.so -> /usr/lib/libdruntime-ldc-debug-shared.so.109
+/usr/lib/libdruntime-ldc-debug-shared.so.109 -> /usr/lib/libdruntime-ldc-debug-shared.so.109.1
+/usr/lib/libdruntime-ldc-debug-shared.so.109.1
+/usr/lib/libdruntime-ldc-shared.so -> /usr/lib/libdruntime-ldc-shared.so.109
+/usr/lib/libdruntime-ldc-shared.so.109 -> /usr/lib/libdruntime-ldc-shared.so.109.1
+/usr/lib/libdruntime-ldc-shared.so.109.1
+/usr/lib/libphobos2-ldc-debug-shared.so -> /usr/lib/libphobos2-ldc-debug-shared.so.109
+/usr/lib/libphobos2-ldc-debug-shared.so.109 -> /usr/lib/libphobos2-ldc-debug-shared.so.109.1
+/usr/lib/libphobos2-ldc-debug-shared.so.109.1
+/usr/lib/libphobos2-ldc-shared.so -> /usr/lib/libphobos2-ldc-shared.so.109
+/usr/lib/libphobos2-ldc-shared.so.109 -> /usr/lib/libphobos2-ldc-shared.so.109.1
+/usr/lib/libphobos2-ldc-shared.so.109.1

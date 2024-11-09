@@ -1,0 +1,10 @@
+/usr/include/secp256k1.h
+/usr/include/secp256k1_ecdh.h
+/usr/include/secp256k1_ellswift.h
+/usr/include/secp256k1_extrakeys.h
+/usr/include/secp256k1_preallocated.h
+/usr/include/secp256k1_recovery.h
+/usr/include/secp256k1_schnorrsig.h
+/usr/lib/libsecp256k1.a
+/usr/lib/libsecp256k1.so -> /usr/lib/libsecp256k1.so.2.1.1
+/usr/lib/pkgconfig/libsecp256k1.pc

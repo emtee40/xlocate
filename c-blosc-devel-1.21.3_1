@@ -1,0 +1,5 @@
+/usr/include/blosc-export.h
+/usr/include/blosc.h
+/usr/lib/libblosc.a
+/usr/lib/libblosc.so -> /usr/lib/libblosc.so.1
+/usr/lib/pkgconfig/blosc.pc

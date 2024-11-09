@@ -1,0 +1,16 @@
+/usr/bin/jupyter-execute
+/usr/lib/python3.12/site-packages/nbclient-0.10.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/nbclient-0.10.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/nbclient-0.10.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/nbclient-0.10.0.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/nbclient-0.10.0.dist-info/licenses/LICENSE
+/usr/lib/python3.12/site-packages/nbclient/__init__.py
+/usr/lib/python3.12/site-packages/nbclient/_version.py
+/usr/lib/python3.12/site-packages/nbclient/cli.py
+/usr/lib/python3.12/site-packages/nbclient/client.py
+/usr/lib/python3.12/site-packages/nbclient/exceptions.py
+/usr/lib/python3.12/site-packages/nbclient/jsonutil.py
+/usr/lib/python3.12/site-packages/nbclient/output_widget.py
+/usr/lib/python3.12/site-packages/nbclient/py.typed
+/usr/lib/python3.12/site-packages/nbclient/util.py
+/usr/share/licenses/python3-nbclient/LICENSE

@@ -1,0 +1,5 @@
+/usr/bin/tree-sitter
+/usr/include/tree_sitter/api.h
+/usr/lib/libtree-sitter.a
+/usr/lib/libtree-sitter.so -> /usr/lib/libtree-sitter.so.0
+/usr/lib/pkgconfig/tree-sitter.pc

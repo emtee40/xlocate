@@ -1,0 +1,23 @@
+/usr/share/doc/hunspell-fr_FR/README.voidlinux
+/usr/share/doc/hunspell-fr_FR/README_dict_fr.txt
+/usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_BE.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_CA.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_CH.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_FR.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_LU.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell-bdic/fr_MC.bdic -> /usr/share/hunspell-bdic/fr.bdic
+/usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_BE.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_BE.dic -> /usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_CA.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_CA.dic -> /usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_CH.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_CH.dic -> /usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_FR.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_FR.dic -> /usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_LU.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_LU.dic -> /usr/share/hunspell/fr.dic
+/usr/share/hunspell/fr_MC.aff -> /usr/share/hunspell/fr.aff
+/usr/share/hunspell/fr_MC.dic -> /usr/share/hunspell/fr.dic

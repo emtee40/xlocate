@@ -1,0 +1,8 @@
+/usr/bin/freecdbdump
+/usr/bin/freecdbget
+/usr/bin/freecdbmake
+/usr/bin/freecdbstats
+/usr/share/man/man1/freecdbdump.1
+/usr/share/man/man1/freecdbget.1
+/usr/share/man/man1/freecdbmake.1
+/usr/share/man/man1/freecdbstats.1

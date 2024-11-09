@@ -1,0 +1,10 @@
+/usr/bin/mcov
+/usr/bin/mdprof
+/usr/bin/mercury_profile
+/usr/bin/mprof
+/usr/bin/mprof_merge_runs
+/usr/bin/mtc
+/usr/bin/mtc_diff
+/usr/bin/mtc_union
+/usr/share/man/man1/mprof.1
+/usr/share/man/man1/mprof_merge_runs.1

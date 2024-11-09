@@ -1,0 +1,3 @@
+/usr/lib32/libsixel.a
+/usr/lib32/libsixel.so -> /usr/lib32/libsixel.so.1
+/usr/lib32/pkgconfig/libsixel.pc

@@ -1,0 +1,16 @@
+/usr/bin/https@
+/usr/bin/sslcat
+/usr/bin/sslclient
+/usr/bin/sslconnect
+/usr/bin/sslhandle
+/usr/bin/sslperl
+/usr/bin/sslprint
+/usr/bin/sslserver
+/usr/share/doc/ucspi-ssl/UCSPI-SSL
+/usr/share/man/man1/https@.1
+/usr/share/man/man1/sslcat.1
+/usr/share/man/man1/sslclient.1
+/usr/share/man/man1/sslconnect.1
+/usr/share/man/man1/sslhandle.1
+/usr/share/man/man1/sslserver.1
+/usr/share/man/man2/ucspi-tls.2

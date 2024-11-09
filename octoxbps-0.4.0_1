@@ -1,0 +1,8 @@
+/etc/polkit-1/rules.d/49-nopasswd_limited_xbps_install_sync.rules
+/usr/bin/octoxbps
+/usr/bin/octoxbps-notifier
+/usr/share/applications/octoxbps-notifier.desktop
+/usr/share/applications/octoxbps.desktop
+/usr/share/doc/octoxbps/README.voidlinux
+/usr/share/icons/hicolor/48x48/apps/octopi.png
+/usr/share/polkit-1/actions/org.freedesktop.policykit.pkexec.run-xbpsinstall.policy

@@ -1,0 +1,3 @@
+/usr/bin/pyside2-lupdate
+/usr/bin/pyside_tool.py
+/usr/share/man/man1/pyside2-lupdate.1

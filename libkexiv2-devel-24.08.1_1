@@ -1,0 +1,15 @@
+/usr/include/KExiv2Qt6/KExiv2/KExiv2
+/usr/include/KExiv2Qt6/KExiv2/KExiv2Data
+/usr/include/KExiv2Qt6/KExiv2/KExiv2Previews
+/usr/include/KExiv2Qt6/KExiv2/RotationMatrix
+/usr/include/KExiv2Qt6/kexiv2/kexiv2.h
+/usr/include/KExiv2Qt6/kexiv2/kexiv2data.h
+/usr/include/KExiv2Qt6/kexiv2/kexiv2previews.h
+/usr/include/KExiv2Qt6/kexiv2/libkexiv2_export.h
+/usr/include/KExiv2Qt6/kexiv2/rotationmatrix.h
+/usr/include/KExiv2Qt6/libkexiv2_version.h
+/usr/lib/cmake/KExiv2Qt6/KExiv2Qt6Config.cmake
+/usr/lib/cmake/KExiv2Qt6/KExiv2Qt6ConfigVersion.cmake
+/usr/lib/cmake/KExiv2Qt6/KExiv2Qt6Targets-none.cmake
+/usr/lib/cmake/KExiv2Qt6/KExiv2Qt6Targets.cmake
+/usr/lib/libKExiv2Qt6.so -> /usr/lib/libKExiv2Qt6.so.0

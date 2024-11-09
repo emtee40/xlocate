@@ -1,0 +1,5 @@
+/usr/lib32/libtiff.a
+/usr/lib32/libtiff.so -> /usr/lib32/libtiff.so.6.0.2
+/usr/lib32/libtiffxx.a
+/usr/lib32/libtiffxx.so -> /usr/lib32/libtiffxx.so.6.0.2
+/usr/lib32/pkgconfig/libtiff-4.pc

@@ -1,0 +1,6 @@
+/usr/include/GL/glew.h
+/usr/include/GL/glxew.h
+/usr/include/GL/wglew.h
+/usr/lib/libGLEW.a
+/usr/lib/libGLEW.so -> /usr/lib/libGLEW.so.2.2.0
+/usr/lib/pkgconfig/glew.pc

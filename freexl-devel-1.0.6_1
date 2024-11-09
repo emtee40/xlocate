@@ -1,0 +1,4 @@
+/usr/include/freexl.h
+/usr/lib/libfreexl.a
+/usr/lib/libfreexl.so -> /usr/lib/libfreexl.so.1.1.0
+/usr/lib/pkgconfig/freexl.pc

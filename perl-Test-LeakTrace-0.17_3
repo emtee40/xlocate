@@ -1,0 +1,7 @@
+/usr/lib/perl5/vendor_perl/Test/LeakTrace.pm
+/usr/lib/perl5/vendor_perl/Test/LeakTrace/JA.pod
+/usr/lib/perl5/vendor_perl/Test/LeakTrace/Script.pm
+/usr/lib/perl5/vendor_perl/auto/Test/LeakTrace/LeakTrace.so
+/usr/share/man/man3/Test::LeakTrace.3p
+/usr/share/man/man3/Test::LeakTrace::JA.3p
+/usr/share/man/man3/Test::LeakTrace::Script.3p

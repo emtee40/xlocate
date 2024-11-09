@@ -1,0 +1,33 @@
+/etc/lighttpd/lighttpd.conf
+/etc/sv/lighttpd/log/run
+/etc/sv/lighttpd/log/supervise -> /run/runit/supervise.lighttpd-log
+/etc/sv/lighttpd/run
+/etc/sv/lighttpd/supervise -> /run/runit/supervise.lighttpd
+/usr/bin/lighttpd
+/usr/bin/lighttpd-angel
+/usr/lib/lighttpd/modules/mod_accesslog.so
+/usr/lib/lighttpd/modules/mod_ajp13.so
+/usr/lib/lighttpd/modules/mod_auth.so
+/usr/lib/lighttpd/modules/mod_authn_file.so
+/usr/lib/lighttpd/modules/mod_authn_gssapi.so
+/usr/lib/lighttpd/modules/mod_authn_ldap.so
+/usr/lib/lighttpd/modules/mod_cgi.so
+/usr/lib/lighttpd/modules/mod_deflate.so
+/usr/lib/lighttpd/modules/mod_dirlisting.so
+/usr/lib/lighttpd/modules/mod_extforward.so
+/usr/lib/lighttpd/modules/mod_h2.so
+/usr/lib/lighttpd/modules/mod_magnet.so
+/usr/lib/lighttpd/modules/mod_openssl.so
+/usr/lib/lighttpd/modules/mod_proxy.so
+/usr/lib/lighttpd/modules/mod_rrdtool.so
+/usr/lib/lighttpd/modules/mod_sockproxy.so
+/usr/lib/lighttpd/modules/mod_ssi.so
+/usr/lib/lighttpd/modules/mod_status.so
+/usr/lib/lighttpd/modules/mod_userdir.so
+/usr/lib/lighttpd/modules/mod_vhostdb.so
+/usr/lib/lighttpd/modules/mod_vhostdb_ldap.so
+/usr/lib/lighttpd/modules/mod_webdav.so
+/usr/lib/lighttpd/modules/mod_wstunnel.so
+/usr/share/licenses/lighttpd/COPYING
+/usr/share/man/man8/lighttpd-angel.8
+/usr/share/man/man8/lighttpd.8

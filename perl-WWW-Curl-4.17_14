@@ -1,0 +1,8 @@
+/usr/lib/perl5/vendor_perl/WWW/Curl.pm
+/usr/lib/perl5/vendor_perl/WWW/Curl/Easy.pm
+/usr/lib/perl5/vendor_perl/WWW/Curl/Form.pm
+/usr/lib/perl5/vendor_perl/WWW/Curl/Multi.pm
+/usr/lib/perl5/vendor_perl/WWW/Curl/Share.pm
+/usr/lib/perl5/vendor_perl/auto/WWW/Curl/Curl.so
+/usr/share/licenses/perl-WWW-Curl/LICENSE
+/usr/share/man/man3/WWW::Curl.3p

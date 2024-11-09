@@ -1,0 +1,3 @@
+/usr/include/Fcitx5/Module/fcitx-module/luaaddonloader/luaaddon_public.h
+/usr/lib/cmake/Fcitx5ModuleLuaAddonLoader/Fcitx5ModuleLuaAddonLoaderConfig.cmake
+/usr/lib/cmake/Fcitx5ModuleLuaAddonLoader/Fcitx5ModuleLuaAddonLoaderConfigVersion.cmake

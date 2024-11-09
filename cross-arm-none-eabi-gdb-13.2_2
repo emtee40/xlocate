@@ -1,0 +1,9 @@
+/usr/bin/arm-none-eabi-gdb
+/usr/bin/arm-none-eabi-gdb-add-index
+/usr/bin/arm-none-eabi-run
+/usr/lib/libarm-none-eabi-sim.a
+/usr/share/doc/arm/README
+/usr/share/man/man1/arm-none-eabi-gdb-add-index.1
+/usr/share/man/man1/arm-none-eabi-gdb.1
+/usr/share/man/man1/arm-none-eabi-gdbserver.1
+/usr/share/man/man5/arm-none-eabi-gdbinit.5

@@ -1,0 +1,6 @@
+/usr/lib32/libnilfs.a
+/usr/lib32/libnilfs.so -> /usr/lib32/libnilfs.so.0.2.4
+/usr/lib32/libnilfscleaner.a
+/usr/lib32/libnilfscleaner.so -> /usr/lib32/libnilfscleaner.so.0.1.0
+/usr/lib32/libnilfsgc.a
+/usr/lib32/libnilfsgc.so -> /usr/lib32/libnilfsgc.so.0.2.1

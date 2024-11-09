@@ -1,0 +1,3 @@
+/usr/lib32/libSILLY.a
+/usr/lib32/libSILLY.so -> /usr/lib32/libSILLY.so.1.0.0
+/usr/lib32/pkgconfig/SILLY.pc

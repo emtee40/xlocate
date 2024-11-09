@@ -1,0 +1,5 @@
+/usr/bin/ffmpegthumbnailer
+/usr/lib/libffmpegthumbnailer.so.4 -> /usr/lib/libffmpegthumbnailer.so.4.15.1
+/usr/lib/libffmpegthumbnailer.so.4.15.1
+/usr/share/man/man1/ffmpegthumbnailer.1
+/usr/share/thumbnailers/ffmpegthumbnailer.thumbnailer

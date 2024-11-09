@@ -1,0 +1,9 @@
+/usr/lib32/libzbar.a
+/usr/lib32/libzbar.so -> /usr/lib32/libzbar.so.0.3.0
+/usr/lib32/libzbargtk.a
+/usr/lib32/libzbargtk.so -> /usr/lib32/libzbargtk.so.0.0.2
+/usr/lib32/libzbarqt.a
+/usr/lib32/libzbarqt.so -> /usr/lib32/libzbarqt.so.0.1.2
+/usr/lib32/pkgconfig/zbar-gtk.pc
+/usr/lib32/pkgconfig/zbar-qt.pc
+/usr/lib32/pkgconfig/zbar.pc

@@ -1,0 +1,8 @@
+/usr/bin/soundmodem
+/usr/bin/soundmodemconfig
+/usr/include/modem.h
+/usr/include/simd.h
+/usr/share/locale/fr/LC_MESSAGES/soundmodem.mo
+/usr/share/locale/sv/LC_MESSAGES/soundmodem.mo
+/usr/share/man/man8/soundmodem.8
+/usr/share/man/man8/soundmodemconfig.8

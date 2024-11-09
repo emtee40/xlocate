@@ -1,0 +1,4 @@
+/usr/lib32/libQt5Script.so -> /usr/lib32/libQt5Script.so.5.15.16
+/usr/lib32/libQt5ScriptTools.so -> /usr/lib32/libQt5ScriptTools.so.5.15.16
+/usr/lib32/pkgconfig/Qt5Script.pc
+/usr/lib32/pkgconfig/Qt5ScriptTools.pc

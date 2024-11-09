@@ -1,0 +1,4 @@
+/usr/bin/fwup
+/usr/bin/img2fwup
+/usr/share/bash-completion/completions/fwup
+/usr/share/man/man1/fwup.1

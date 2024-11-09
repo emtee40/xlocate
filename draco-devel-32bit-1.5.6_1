@@ -1,0 +1,3 @@
+/usr/lib32/libdraco.a
+/usr/lib32/libdraco.so -> /usr/lib32/libdraco.so.8
+/usr/lib32/pkgconfig/draco.pc

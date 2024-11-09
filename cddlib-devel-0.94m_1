@@ -1,0 +1,25 @@
+/usr/bin/testcdd1
+/usr/bin/testcdd1_gmp
+/usr/bin/testcdd2
+/usr/bin/testcdd2_gmp
+/usr/bin/testlp1
+/usr/bin/testlp1_gmp
+/usr/bin/testlp2
+/usr/bin/testlp2_gmp
+/usr/bin/testlp3
+/usr/bin/testlp3_gmp
+/usr/bin/testshoot
+/usr/bin/testshoot_gmp
+/usr/include/cddlib/cdd.h
+/usr/include/cddlib/cdd_f.h
+/usr/include/cddlib/cddmp.h
+/usr/include/cddlib/cddmp_f.h
+/usr/include/cddlib/cddtypes.h
+/usr/include/cddlib/cddtypes_f.h
+/usr/include/cddlib/setoper.h
+/usr/include/cddlib/splitmix64.h
+/usr/lib/libcdd.a
+/usr/lib/libcdd.so -> /usr/lib/libcdd.so.0.1.2
+/usr/lib/libcddgmp.a
+/usr/lib/libcddgmp.so -> /usr/lib/libcddgmp.so.0.1.2
+/usr/lib/pkgconfig/cddlib.pc

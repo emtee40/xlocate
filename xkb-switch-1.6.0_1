@@ -1,0 +1,6 @@
+/usr/bin/xkb-switch
+/usr/lib/libxkbswitch.so -> /usr/lib/libxkbswitch.so.1
+/usr/lib/libxkbswitch.so.1 -> /usr/lib/libxkbswitch.so.1.6.0
+/usr/lib/libxkbswitch.so.1.6.0
+/usr/share/man/man1/xkb-switch.1
+/usr/share/man/man1/xkb-switch.1.xz

@@ -1,0 +1,8 @@
+/usr/include/upstart.h
+/usr/include/upstart/com.ubuntu.Upstart.Instance.h
+/usr/include/upstart/com.ubuntu.Upstart.Job.h
+/usr/include/upstart/com.ubuntu.Upstart.h
+/usr/include/upstart/upstart-dbus.h
+/usr/lib/libupstart.a
+/usr/lib/libupstart.so -> /usr/lib/libupstart.so.1.0.0
+/usr/lib/pkgconfig/libupstart.pc

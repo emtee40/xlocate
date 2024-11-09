@@ -1,0 +1,36 @@
+/usr/bin/xmaxima
+/usr/share/applications/maxima.desktop
+/usr/share/info/xmaxima.info
+/usr/share/man/man1/xmaxima.1 -> /usr/share/man/man1/maxima.1
+/usr/share/maxima/5.47.0/xmaxima/demos.html
+/usr/share/maxima/5.47.0/xmaxima/examples.html
+/usr/share/maxima/5.47.0/xmaxima/html/figures/xmaximabrowser.png
+/usr/share/maxima/5.47.0/xmaxima/html/figures/xmaximaembedded.png
+/usr/share/maxima/5.47.0/xmaxima/html/figures/xmaximaplot.png
+/usr/share/maxima/5.47.0/xmaxima/html/figures/xmaximaslider.png
+/usr/share/maxima/5.47.0/xmaxima/html/figures/xmaximawindow.png
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_1.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_10.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_2.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_3.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_4.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_5.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_6.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_7.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_8.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_9.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_abt.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_singlepage.html
+/usr/share/maxima/5.47.0/xmaxima/html/xmaxima_toc.html
+/usr/share/maxima/5.47.0/xmaxima/intro.html
+/usr/share/maxima/5.47.0/xmaxima/maxima-icon.gif
+/usr/share/maxima/5.47.0/xmaxima/maxima-icon.ico
+/usr/share/maxima/5.47.0/xmaxima/maxima-icon.png
+/usr/share/maxima/5.47.0/xmaxima/msgs/es.msg
+/usr/share/maxima/5.47.0/xmaxima/msgs/ru.msg
+/usr/share/maxima/5.47.0/xmaxima/net.sourceforge.maxima.gif
+/usr/share/maxima/5.47.0/xmaxima/net.sourceforge.maxima.png
+/usr/share/maxima/5.47.0/xmaxima/net.sourceforge.maxima.svg
+/usr/share/maxima/5.47.0/xmaxima/plotmaxima.html
+/usr/share/pixmaps/maxima -> /usr/share/maxima/5.47.0/xmaxima/maxima-new.png

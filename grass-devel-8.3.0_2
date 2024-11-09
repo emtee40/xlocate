@@ -1,0 +1,213 @@
+/usr/lib/grass/include/Make/Compile.make
+/usr/lib/grass/include/Make/DB.make
+/usr/lib/grass/include/Make/Dir.make
+/usr/lib/grass/include/Make/Docs.make
+/usr/lib/grass/include/Make/Doxygen.make
+/usr/lib/grass/include/Make/Etc.make
+/usr/lib/grass/include/Make/Grass.make
+/usr/lib/grass/include/Make/GuiScript.make
+/usr/lib/grass/include/Make/Html.make
+/usr/lib/grass/include/Make/HtmlRules.make
+/usr/lib/grass/include/Make/Install.make
+/usr/lib/grass/include/Make/Lib.make
+/usr/lib/grass/include/Make/Module.make
+/usr/lib/grass/include/Make/Multi.make
+/usr/lib/grass/include/Make/NoHtml.make
+/usr/lib/grass/include/Make/Other.make
+/usr/lib/grass/include/Make/Platform.make
+/usr/lib/grass/include/Make/Python.make
+/usr/lib/grass/include/Make/Rules.make
+/usr/lib/grass/include/Make/Script.make
+/usr/lib/grass/include/Make/ScriptRules.make
+/usr/lib/grass/include/Make/ShScript.make
+/usr/lib/grass/include/Make/ShScriptRules.make
+/usr/lib/grass/include/Make/Shlib.make
+/usr/lib/grass/include/Make/Sphinx.make
+/usr/lib/grass/include/Make/Stlib.make
+/usr/lib/grass/include/Make/Vars.make
+/usr/lib/grass/include/grass/N_gwflow.h
+/usr/lib/grass/include/grass/N_heatflow.h
+/usr/lib/grass/include/grass/N_pde.h
+/usr/lib/grass/include/grass/N_solute_transport.h
+/usr/lib/grass/include/grass/arraystats.h
+/usr/lib/grass/include/grass/bitmap.h
+/usr/lib/grass/include/grass/blas.h
+/usr/lib/grass/include/grass/btree.h
+/usr/lib/grass/include/grass/calc.h
+/usr/lib/grass/include/grass/ccmath_grass.h
+/usr/lib/grass/include/grass/cdhc.h
+/usr/lib/grass/include/grass/citing.h
+/usr/lib/grass/include/grass/cluster.h
+/usr/lib/grass/include/grass/colors.h
+/usr/lib/grass/include/grass/config.h
+/usr/lib/grass/include/grass/confparms.h
+/usr/lib/grass/include/grass/copying.h
+/usr/lib/grass/include/grass/dataquad.h
+/usr/lib/grass/include/grass/datetime.h
+/usr/lib/grass/include/grass/dbmi.h
+/usr/lib/grass/include/grass/dbstubs.h
+/usr/lib/grass/include/grass/defs/Paintlib.h
+/usr/lib/grass/include/grass/defs/arraystats.h
+/usr/lib/grass/include/grass/defs/bitmap.h
+/usr/lib/grass/include/grass/defs/btree.h
+/usr/lib/grass/include/grass/defs/calc.h
+/usr/lib/grass/include/grass/defs/cdhc.h
+/usr/lib/grass/include/grass/defs/cluster.h
+/usr/lib/grass/include/grass/defs/colors.h
+/usr/lib/grass/include/grass/defs/datetime.h
+/usr/lib/grass/include/grass/defs/dbmi.h
+/usr/lib/grass/include/grass/defs/devlib.h
+/usr/lib/grass/include/grass/defs/dig_atts.h
+/usr/lib/grass/include/grass/defs/display.h
+/usr/lib/grass/include/grass/defs/form.h
+/usr/lib/grass/include/grass/defs/gis.h
+/usr/lib/grass/include/grass/defs/glocale.h
+/usr/lib/grass/include/grass/defs/gmath.h
+/usr/lib/grass/include/grass/defs/gprojects.h
+/usr/lib/grass/include/grass/defs/imagery.h
+/usr/lib/grass/include/grass/defs/la.h
+/usr/lib/grass/include/grass/defs/linkm.h
+/usr/lib/grass/include/grass/defs/manage.h
+/usr/lib/grass/include/grass/defs/neta.h
+/usr/lib/grass/include/grass/defs/nviz.h
+/usr/lib/grass/include/grass/defs/ogsf.h
+/usr/lib/grass/include/grass/defs/ortholib.h
+/usr/lib/grass/include/grass/defs/raster.h
+/usr/lib/grass/include/grass/defs/raster3d.h
+/usr/lib/grass/include/grass/defs/rbtree.h
+/usr/lib/grass/include/grass/defs/rowio.h
+/usr/lib/grass/include/grass/defs/segment.h
+/usr/lib/grass/include/grass/defs/spawn.h
+/usr/lib/grass/include/grass/defs/sqlp.h
+/usr/lib/grass/include/grass/defs/stats.h
+/usr/lib/grass/include/grass/defs/symbol.h
+/usr/lib/grass/include/grass/defs/vector.h
+/usr/lib/grass/include/grass/defs/vedit.h
+/usr/lib/grass/include/grass/dgl.h
+/usr/lib/grass/include/grass/dgl/avl.h
+/usr/lib/grass/include/grass/dgl/graph.h
+/usr/lib/grass/include/grass/dgl/graph_v1.h
+/usr/lib/grass/include/grass/dgl/graph_v2.h
+/usr/lib/grass/include/grass/dgl/heap.h
+/usr/lib/grass/include/grass/dgl/helpers.h
+/usr/lib/grass/include/grass/dgl/tavl.h
+/usr/lib/grass/include/grass/dgl/tree.h
+/usr/lib/grass/include/grass/dgl/type.h
+/usr/lib/grass/include/grass/display.h
+/usr/lib/grass/include/grass/fontcap.h
+/usr/lib/grass/include/grass/form.h
+/usr/lib/grass/include/grass/gis.h
+/usr/lib/grass/include/grass/glocale.h
+/usr/lib/grass/include/grass/gmath.h
+/usr/lib/grass/include/grass/gprojects.h
+/usr/lib/grass/include/grass/imagery.h
+/usr/lib/grass/include/grass/interpf.h
+/usr/lib/grass/include/grass/iostream/ami.h
+/usr/lib/grass/include/grass/iostream/ami_config.h
+/usr/lib/grass/include/grass/iostream/ami_sort.h
+/usr/lib/grass/include/grass/iostream/ami_sort_impl.h
+/usr/lib/grass/include/grass/iostream/ami_stream.h
+/usr/lib/grass/include/grass/iostream/embuffer.h
+/usr/lib/grass/include/grass/iostream/empq.h
+/usr/lib/grass/include/grass/iostream/empq_adaptive.h
+/usr/lib/grass/include/grass/iostream/empq_adaptive_impl.h
+/usr/lib/grass/include/grass/iostream/empq_impl.h
+/usr/lib/grass/include/grass/iostream/imbuffer.h
+/usr/lib/grass/include/grass/iostream/mem_stream.h
+/usr/lib/grass/include/grass/iostream/minmaxheap.h
+/usr/lib/grass/include/grass/iostream/mm.h
+/usr/lib/grass/include/grass/iostream/mm_utils.h
+/usr/lib/grass/include/grass/iostream/pqheap.h
+/usr/lib/grass/include/grass/iostream/queue.h
+/usr/lib/grass/include/grass/iostream/quicksort.h
+/usr/lib/grass/include/grass/iostream/replacementHeap.h
+/usr/lib/grass/include/grass/iostream/replacementHeapBlock.h
+/usr/lib/grass/include/grass/iostream/rtimer.h
+/usr/lib/grass/include/grass/kdtree.h
+/usr/lib/grass/include/grass/la.h
+/usr/lib/grass/include/grass/lapack.h
+/usr/lib/grass/include/grass/lidar.h
+/usr/lib/grass/include/grass/linkm.h
+/usr/lib/grass/include/grass/lrs.h
+/usr/lib/grass/include/grass/manage.h
+/usr/lib/grass/include/grass/neta.h
+/usr/lib/grass/include/grass/nviz.h
+/usr/lib/grass/include/grass/ogsf.h
+/usr/lib/grass/include/grass/ortholib.h
+/usr/lib/grass/include/grass/qtree.h
+/usr/lib/grass/include/grass/raster.h
+/usr/lib/grass/include/grass/raster3d.h
+/usr/lib/grass/include/grass/rbtree.h
+/usr/lib/grass/include/grass/rowio.h
+/usr/lib/grass/include/grass/rtree.h
+/usr/lib/grass/include/grass/segment.h
+/usr/lib/grass/include/grass/shapefil.h
+/usr/lib/grass/include/grass/simlib.h
+/usr/lib/grass/include/grass/spawn.h
+/usr/lib/grass/include/grass/sqlp.h
+/usr/lib/grass/include/grass/stats.h
+/usr/lib/grass/include/grass/symbol.h
+/usr/lib/grass/include/grass/temporal.h
+/usr/lib/grass/include/grass/vect/dig_defines.h
+/usr/lib/grass/include/grass/vect/dig_externs.h
+/usr/lib/grass/include/grass/vect/dig_macros.h
+/usr/lib/grass/include/grass/vect/dig_structs.h
+/usr/lib/grass/include/grass/vect/digit.h
+/usr/lib/grass/include/grass/vector.h
+/usr/lib/grass/include/grass/vedit.h
+/usr/lib/grass/include/grass/version.h
+/usr/lib/grass/include/grass/waterglobs.h
+/usr/lib/grass/lib/libgrass_arraystats.so -> /usr/lib/grass/lib/libgrass_arraystats.8.3.so
+/usr/lib/grass/lib/libgrass_bitmap.so -> /usr/lib/grass/lib/libgrass_bitmap.8.3.so
+/usr/lib/grass/lib/libgrass_btree.so -> /usr/lib/grass/lib/libgrass_btree.8.3.so
+/usr/lib/grass/lib/libgrass_btree2.so -> /usr/lib/grass/lib/libgrass_btree2.8.3.so
+/usr/lib/grass/lib/libgrass_cairodriver.so -> /usr/lib/grass/lib/libgrass_cairodriver.8.3.so
+/usr/lib/grass/lib/libgrass_calc.so -> /usr/lib/grass/lib/libgrass_calc.8.3.so
+/usr/lib/grass/lib/libgrass_ccmath.so -> /usr/lib/grass/lib/libgrass_ccmath.8.3.so
+/usr/lib/grass/lib/libgrass_cdhc.so -> /usr/lib/grass/lib/libgrass_cdhc.8.3.so
+/usr/lib/grass/lib/libgrass_cluster.so -> /usr/lib/grass/lib/libgrass_cluster.8.3.so
+/usr/lib/grass/lib/libgrass_datetime.so -> /usr/lib/grass/lib/libgrass_datetime.8.3.so
+/usr/lib/grass/lib/libgrass_dbmibase.so -> /usr/lib/grass/lib/libgrass_dbmibase.8.3.so
+/usr/lib/grass/lib/libgrass_dbmiclient.so -> /usr/lib/grass/lib/libgrass_dbmiclient.8.3.so
+/usr/lib/grass/lib/libgrass_dbmidriver.so -> /usr/lib/grass/lib/libgrass_dbmidriver.8.3.so
+/usr/lib/grass/lib/libgrass_dbstubs.so -> /usr/lib/grass/lib/libgrass_dbstubs.8.3.so
+/usr/lib/grass/lib/libgrass_dgl.so -> /usr/lib/grass/lib/libgrass_dgl.8.3.so
+/usr/lib/grass/lib/libgrass_dig2.so -> /usr/lib/grass/lib/libgrass_dig2.8.3.so
+/usr/lib/grass/lib/libgrass_display.so -> /usr/lib/grass/lib/libgrass_display.8.3.so
+/usr/lib/grass/lib/libgrass_driver.so -> /usr/lib/grass/lib/libgrass_driver.8.3.so
+/usr/lib/grass/lib/libgrass_dspf.so -> /usr/lib/grass/lib/libgrass_dspf.8.3.so
+/usr/lib/grass/lib/libgrass_g3d.so -> /usr/lib/grass/lib/libgrass_g3d.8.3.so
+/usr/lib/grass/lib/libgrass_gis.so -> /usr/lib/grass/lib/libgrass_gis.8.3.so
+/usr/lib/grass/lib/libgrass_gmath.so -> /usr/lib/grass/lib/libgrass_gmath.8.3.so
+/usr/lib/grass/lib/libgrass_gpde.so -> /usr/lib/grass/lib/libgrass_gpde.8.3.so
+/usr/lib/grass/lib/libgrass_gproj.so -> /usr/lib/grass/lib/libgrass_gproj.8.3.so
+/usr/lib/grass/lib/libgrass_htmldriver.so -> /usr/lib/grass/lib/libgrass_htmldriver.8.3.so
+/usr/lib/grass/lib/libgrass_imagery.so -> /usr/lib/grass/lib/libgrass_imagery.8.3.so
+/usr/lib/grass/lib/libgrass_interpdata.so -> /usr/lib/grass/lib/libgrass_interpdata.8.3.so
+/usr/lib/grass/lib/libgrass_interpfl.so -> /usr/lib/grass/lib/libgrass_interpfl.8.3.so
+/usr/lib/grass/lib/libgrass_iortho.so -> /usr/lib/grass/lib/libgrass_iortho.8.3.so
+/usr/lib/grass/lib/libgrass_iostream.so -> /usr/lib/grass/lib/libgrass_iostream.8.3.so
+/usr/lib/grass/lib/libgrass_lidar.so -> /usr/lib/grass/lib/libgrass_lidar.8.3.so
+/usr/lib/grass/lib/libgrass_linkm.so -> /usr/lib/grass/lib/libgrass_linkm.8.3.so
+/usr/lib/grass/lib/libgrass_lrs.so -> /usr/lib/grass/lib/libgrass_lrs.8.3.so
+/usr/lib/grass/lib/libgrass_manage.so -> /usr/lib/grass/lib/libgrass_manage.8.3.so
+/usr/lib/grass/lib/libgrass_neta.so -> /usr/lib/grass/lib/libgrass_neta.8.3.so
+/usr/lib/grass/lib/libgrass_nviz.so -> /usr/lib/grass/lib/libgrass_nviz.8.3.so
+/usr/lib/grass/lib/libgrass_ogsf.so -> /usr/lib/grass/lib/libgrass_ogsf.8.3.so
+/usr/lib/grass/lib/libgrass_pngdriver.so -> /usr/lib/grass/lib/libgrass_pngdriver.8.3.so
+/usr/lib/grass/lib/libgrass_psdriver.so -> /usr/lib/grass/lib/libgrass_psdriver.8.3.so
+/usr/lib/grass/lib/libgrass_qtree.so -> /usr/lib/grass/lib/libgrass_qtree.8.3.so
+/usr/lib/grass/lib/libgrass_raster.so -> /usr/lib/grass/lib/libgrass_raster.8.3.so
+/usr/lib/grass/lib/libgrass_rli.so -> /usr/lib/grass/lib/libgrass_rli.8.3.so
+/usr/lib/grass/lib/libgrass_rowio.so -> /usr/lib/grass/lib/libgrass_rowio.8.3.so
+/usr/lib/grass/lib/libgrass_rtree.so -> /usr/lib/grass/lib/libgrass_rtree.8.3.so
+/usr/lib/grass/lib/libgrass_segment.so -> /usr/lib/grass/lib/libgrass_segment.8.3.so
+/usr/lib/grass/lib/libgrass_shape.so -> /usr/lib/grass/lib/libgrass_shape.8.3.so
+/usr/lib/grass/lib/libgrass_sim.so -> /usr/lib/grass/lib/libgrass_sim.8.3.so
+/usr/lib/grass/lib/libgrass_sqlp.so -> /usr/lib/grass/lib/libgrass_sqlp.8.3.so
+/usr/lib/grass/lib/libgrass_stats.so -> /usr/lib/grass/lib/libgrass_stats.8.3.so
+/usr/lib/grass/lib/libgrass_symb.so -> /usr/lib/grass/lib/libgrass_symb.8.3.so
+/usr/lib/grass/lib/libgrass_temporal.so -> /usr/lib/grass/lib/libgrass_temporal.8.3.so
+/usr/lib/grass/lib/libgrass_vector.so -> /usr/lib/grass/lib/libgrass_vector.8.3.so
+/usr/lib/grass/lib/libgrass_vedit.so -> /usr/lib/grass/lib/libgrass_vedit.8.3.so
+/usr/lib/pkgconfig/grass.pc

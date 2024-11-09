@@ -1,0 +1,20 @@
+/etc/nfdump.conf.dist
+/usr/bin/nfanon
+/usr/bin/nfcapd
+/usr/bin/nfdump
+/usr/bin/nfexpire
+/usr/bin/nfreplay
+/usr/bin/sfcapd
+/usr/lib/libnfdump-1.7.5.so
+/usr/lib/libnfdump.a
+/usr/lib/libnfdump.so -> /usr/lib/libnfdump-1.7.5.so
+/usr/lib/libnffile-1.7.5.so
+/usr/lib/libnffile.a
+/usr/lib/libnffile.so -> /usr/lib/libnffile-1.7.5.so
+/usr/share/licenses/nfdump/LICENSE
+/usr/share/man/man1/nfanon.1
+/usr/share/man/man1/nfcapd.1
+/usr/share/man/man1/nfdump.1
+/usr/share/man/man1/nfexpire.1
+/usr/share/man/man1/nfreplay.1
+/usr/share/man/man1/sfcapd.1

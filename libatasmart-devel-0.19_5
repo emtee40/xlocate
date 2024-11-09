@@ -1,0 +1,5 @@
+/usr/include/atasmart.h
+/usr/lib/libatasmart.so -> /usr/lib/libatasmart.so.4.0.5
+/usr/lib/pkgconfig/libatasmart.pc
+/usr/share/doc/libatasmart/README
+/usr/share/vala/vapi/atasmart.vapi

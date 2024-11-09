@@ -1,0 +1,15 @@
+/usr/include/hamlib/ampclass.h
+/usr/include/hamlib/amplifier.h
+/usr/include/hamlib/amplist.h
+/usr/include/hamlib/config.h
+/usr/include/hamlib/rig.h
+/usr/include/hamlib/rig_dll.h
+/usr/include/hamlib/rigclass.h
+/usr/include/hamlib/riglist.h
+/usr/include/hamlib/rotator.h
+/usr/include/hamlib/rotclass.h
+/usr/include/hamlib/rotlist.h
+/usr/lib/libhamlib++.so -> /usr/lib/libhamlib++.so.4.0.6
+/usr/lib/libhamlib.so -> /usr/lib/libhamlib.so.4.0.6
+/usr/lib/pkgconfig/hamlib.pc
+/usr/share/aclocal/hamlib.m4

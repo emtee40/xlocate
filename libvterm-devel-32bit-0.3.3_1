@@ -1,0 +1,3 @@
+/usr/lib32/libvterm.a
+/usr/lib32/libvterm.so -> /usr/lib32/libvterm.so.0.0.0
+/usr/lib32/pkgconfig/vterm.pc

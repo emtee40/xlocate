@@ -1,0 +1,7 @@
+/etc/sv/up_rewrite/log/run
+/etc/sv/up_rewrite/log/supervise -> /run/runit/supervise.up_rewrite-log
+/etc/sv/up_rewrite/run
+/etc/sv/up_rewrite/supervise -> /run/runit/supervise.up_rewrite
+/etc/up_rewrite/config.toml
+/usr/bin/up_rewrite
+/usr/share/licenses/up_rewrite/LICENSE

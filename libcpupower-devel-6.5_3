@@ -1,0 +1,3 @@
+/usr/include/cpufreq.h
+/usr/include/powercap.h
+/usr/lib/libcpupower.so -> /usr/lib/libcpupower.so.0.0.1

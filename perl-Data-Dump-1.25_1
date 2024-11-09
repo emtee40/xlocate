@@ -1,0 +1,7 @@
+/usr/share/man/man3/Data::Dump.3p
+/usr/share/man/man3/Data::Dump::Filtered.3p
+/usr/share/man/man3/Data::Dump::Trace.3p
+/usr/share/perl5/vendor_perl/Data/Dump.pm
+/usr/share/perl5/vendor_perl/Data/Dump/FilterContext.pm
+/usr/share/perl5/vendor_perl/Data/Dump/Filtered.pm
+/usr/share/perl5/vendor_perl/Data/Dump/Trace.pm

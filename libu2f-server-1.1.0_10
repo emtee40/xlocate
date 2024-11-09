@@ -1,0 +1,4 @@
+/usr/bin/u2f-server
+/usr/lib/libu2f-server.so.0 -> /usr/lib/libu2f-server.so.0.1.0
+/usr/lib/libu2f-server.so.0.1.0
+/usr/share/licenses/libu2f-server/LICENSE

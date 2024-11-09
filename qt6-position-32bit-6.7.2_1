@@ -1,0 +1,8 @@
+/usr/lib32/libQt6Positioning.so.6 -> /usr/lib32/libQt6Positioning.so.6.7.2
+/usr/lib32/libQt6Positioning.so.6.7.2
+/usr/lib32/libQt6PositioningQuick.so.6 -> /usr/lib32/libQt6PositioningQuick.so.6.7.2
+/usr/lib32/libQt6PositioningQuick.so.6.7.2
+/usr/lib32/qt6/plugins/position/libqtposition_geoclue2.so
+/usr/lib32/qt6/plugins/position/libqtposition_nmea.so
+/usr/lib32/qt6/plugins/position/libqtposition_positionpoll.so
+/usr/lib32/qt6/qml/QtPositioning/libpositioningquickplugin.so

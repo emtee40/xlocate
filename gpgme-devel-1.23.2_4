@@ -1,0 +1,13 @@
+/usr/bin/gpgme-config
+/usr/include/gpgme.h
+/usr/lib/libgpgme.so -> /usr/lib/libgpgme.so.11.32.1
+/usr/lib/pkgconfig/gpgme-glib.pc
+/usr/lib/pkgconfig/gpgme.pc
+/usr/share/aclocal/gpgme.m4
+/usr/share/common-lisp/source/gpgme/gpgme-grovel.lisp
+/usr/share/common-lisp/source/gpgme/gpgme-package.lisp
+/usr/share/common-lisp/source/gpgme/gpgme.asd
+/usr/share/common-lisp/source/gpgme/gpgme.lisp
+/usr/share/info/gpgme.info
+/usr/share/info/gpgme.info-1
+/usr/share/info/gpgme.info-2

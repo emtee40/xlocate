@@ -1,0 +1,6 @@
+/usr/lib32/pkgconfig/valgrind.pc
+/usr/lib32/valgrind/libcoregrind-x86-linux.a
+/usr/lib32/valgrind/libgcc-sup-x86-linux.a
+/usr/lib32/valgrind/libreplacemalloc_toolpreload-x86-linux.a
+/usr/lib32/valgrind/libvex-x86-linux.a
+/usr/lib32/valgrind/libvexmultiarch-x86-linux.a

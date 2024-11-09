@@ -1,0 +1,6 @@
+/usr/lib/NetworkManager/VPN/nm-strongswan-service.name
+/usr/lib/NetworkManager/libnm-vpn-plugin-strongswan.so
+/usr/lib/NetworkManager/nm-strongswan-auth-dialog
+/usr/share/gnome-vpn-properties/strongswan/nm-strongswan-dialog.ui
+/usr/share/locale/de/LC_MESSAGES/NetworkManager-strongswan.mo
+/usr/share/metainfo/NetworkManager-strongswan.metainfo.xml

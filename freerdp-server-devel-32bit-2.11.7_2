@@ -1,0 +1,5 @@
+/usr/lib32/libfreerdp-server2.so -> /usr/lib32/libfreerdp-server2.so.2
+/usr/lib32/libfreerdp-shadow-subsystem2.so -> /usr/lib32/libfreerdp-shadow-subsystem2.so.2
+/usr/lib32/libfreerdp-shadow2.so -> /usr/lib32/libfreerdp-shadow2.so.2
+/usr/lib32/pkgconfig/freerdp-server2.pc
+/usr/lib32/pkgconfig/freerdp-shadow2.pc

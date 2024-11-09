@@ -1,0 +1,12 @@
+/usr/lib32/libkdeinit5_ksysguard.so
+/usr/lib32/libksgrdbackend.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_globalplugin_network.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_ksgrd.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_cpu.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_disk.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_gpu.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_memory.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_osinfo.so
+/usr/lib32/qt5/plugins/ksysguard/ksysguard_plugin_power.so
+/usr/lib32/qt5/plugins/ksysguard/process/ksysguard_plugin_network.so
+/usr/lib32/qt5/plugins/ksysguard/process/ksysguard_plugin_nvidia.so

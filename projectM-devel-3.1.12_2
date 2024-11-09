@@ -1,0 +1,9 @@
+/usr/include/libprojectM/Common.hpp
+/usr/include/libprojectM/PCM.hpp
+/usr/include/libprojectM/dlldefs.h
+/usr/include/libprojectM/event.h
+/usr/include/libprojectM/fatal.h
+/usr/include/libprojectM/projectM.hpp
+/usr/lib/libprojectM.a
+/usr/lib/libprojectM.so -> /usr/lib/libprojectM.so.3.1.1
+/usr/lib/pkgconfig/libprojectM.pc

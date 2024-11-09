@@ -1,0 +1,35 @@
+/usr/lib32/fcitx/fcitx-autoeng.so
+/usr/lib32/fcitx/fcitx-chttrans.so
+/usr/lib32/fcitx/fcitx-classic-ui.so
+/usr/lib32/fcitx/fcitx-clipboard.so
+/usr/lib32/fcitx/fcitx-dbus.so
+/usr/lib32/fcitx/fcitx-freedesktop-notify.so
+/usr/lib32/fcitx/fcitx-fullwidth-char.so
+/usr/lib32/fcitx/fcitx-imselector.so
+/usr/lib32/fcitx/fcitx-ipc.so
+/usr/lib32/fcitx/fcitx-ipcportal.so
+/usr/lib32/fcitx/fcitx-keyboard.so
+/usr/lib32/fcitx/fcitx-kimpanel-ui.so
+/usr/lib32/fcitx/fcitx-notificationitem.so
+/usr/lib32/fcitx/fcitx-pinyin-enhance.so
+/usr/lib32/fcitx/fcitx-pinyin.so
+/usr/lib32/fcitx/fcitx-punc.so
+/usr/lib32/fcitx/fcitx-quickphrase.so
+/usr/lib32/fcitx/fcitx-qw.so
+/usr/lib32/fcitx/fcitx-remote-module.so
+/usr/lib32/fcitx/fcitx-spell.so
+/usr/lib32/fcitx/fcitx-table.so
+/usr/lib32/fcitx/fcitx-unicode.so
+/usr/lib32/fcitx/fcitx-vk.so
+/usr/lib32/fcitx/fcitx-x11.so
+/usr/lib32/fcitx/fcitx-xim.so
+/usr/lib32/fcitx/fcitx-xkb.so
+/usr/lib32/fcitx/fcitx-xkbdbus.so
+/usr/lib32/libfcitx-config.so.4 -> /usr/lib32/libfcitx-config.so.4.1
+/usr/lib32/libfcitx-config.so.4.1
+/usr/lib32/libfcitx-core.so.0 -> /usr/lib32/libfcitx-core.so.0.3
+/usr/lib32/libfcitx-core.so.0.3
+/usr/lib32/libfcitx-gclient.so.0.2
+/usr/lib32/libfcitx-gclient.so.1 -> /usr/lib32/libfcitx-gclient.so.0.2
+/usr/lib32/libfcitx-utils.so.0 -> /usr/lib32/libfcitx-utils.so.0.1
+/usr/lib32/libfcitx-utils.so.0.1

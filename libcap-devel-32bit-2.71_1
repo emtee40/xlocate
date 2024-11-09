@@ -1,0 +1,6 @@
+/usr/lib32/libcap.a
+/usr/lib32/libcap.so -> /usr/lib32/libcap.so.2
+/usr/lib32/libpsx.a
+/usr/lib32/libpsx.so -> /usr/lib32/libpsx.so.2
+/usr/lib32/pkgconfig/libcap.pc
+/usr/lib32/pkgconfig/libpsx.pc

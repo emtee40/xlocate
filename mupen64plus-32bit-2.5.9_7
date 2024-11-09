@@ -1,0 +1,7 @@
+/usr/lib32/libmupen64plus.so.2 -> /usr/lib32/libmupen64plus.so.2.0.0
+/usr/lib32/libmupen64plus.so.2.0.0
+/usr/lib32/mupen64plus/mupen64plus-audio-sdl.so
+/usr/lib32/mupen64plus/mupen64plus-input-sdl.so
+/usr/lib32/mupen64plus/mupen64plus-rsp-hle.so
+/usr/lib32/mupen64plus/mupen64plus-video-glide64mk2.so
+/usr/lib32/mupen64plus/mupen64plus-video-rice.so

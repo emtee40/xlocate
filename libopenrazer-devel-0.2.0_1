@@ -1,0 +1,10 @@
+/usr/include/libopenrazer.h
+/usr/include/libopenrazer/dbusexception.h
+/usr/include/libopenrazer/device.h
+/usr/include/libopenrazer/led.h
+/usr/include/libopenrazer/manager.h
+/usr/include/libopenrazer/misc.h
+/usr/include/libopenrazer/openrazer.h
+/usr/include/libopenrazer/razercapability.h
+/usr/lib/libopenrazer.so -> /usr/lib/libopenrazer.so.0
+/usr/lib/pkgconfig/libopenrazer.pc

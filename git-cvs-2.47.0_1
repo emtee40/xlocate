@@ -1,0 +1,8 @@
+/usr/bin/git-cvsserver
+/usr/libexec/git-core/git-cvsexportcommit
+/usr/libexec/git-core/git-cvsimport
+/usr/libexec/git-core/git-cvsserver
+/usr/share/man/man1/git-cvsexportcommit.1
+/usr/share/man/man1/git-cvsimport.1
+/usr/share/man/man1/git-cvsserver.1
+/usr/share/man/man7/gitcvs-migration.7

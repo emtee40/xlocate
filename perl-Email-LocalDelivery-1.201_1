@@ -1,0 +1,6 @@
+/usr/share/man/man3/Email::LocalDelivery.3p
+/usr/share/man/man3/Email::LocalDelivery::Maildir.3p
+/usr/share/man/man3/Email::LocalDelivery::Mbox.3p
+/usr/share/perl5/vendor_perl/Email/LocalDelivery.pm
+/usr/share/perl5/vendor_perl/Email/LocalDelivery/Maildir.pm
+/usr/share/perl5/vendor_perl/Email/LocalDelivery/Mbox.pm

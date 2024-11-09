@@ -1,0 +1,12 @@
+/usr/lib/python3.12/site-packages/pytest_httpserver-1.1.0.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/pytest_httpserver-1.1.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/pytest_httpserver-1.1.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/pytest_httpserver-1.1.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/pytest_httpserver-1.1.0.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/pytest_httpserver/__init__.py
+/usr/lib/python3.12/site-packages/pytest_httpserver/blocking_httpserver.py
+/usr/lib/python3.12/site-packages/pytest_httpserver/hooks.py
+/usr/lib/python3.12/site-packages/pytest_httpserver/httpserver.py
+/usr/lib/python3.12/site-packages/pytest_httpserver/py.typed
+/usr/lib/python3.12/site-packages/pytest_httpserver/pytest_plugin.py
+/usr/share/licenses/python3-pytest-httpserver/LICENSE

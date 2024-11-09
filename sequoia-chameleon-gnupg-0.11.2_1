@@ -1,0 +1,12 @@
+/usr/bin/gpg-sq -> /usr/libexec/sequoia/gpg
+/usr/bin/gpgv-sq -> /usr/libexec/sequoia/gpgv
+/usr/libexec/sequoia/gpg
+/usr/libexec/sequoia/gpgv
+/usr/share/bash-completion/completions/gpg-sq
+/usr/share/bash-completion/completions/gpgv-sq
+/usr/share/fish/vendor_completions.d/gpg-sq.fish
+/usr/share/fish/vendor_completions.d/gpgv-sq.fish
+/usr/share/man/man1/gpg-sq.1
+/usr/share/man/man1/gpgv-sq.1
+/usr/share/zsh/site-functions/_gpg-sq
+/usr/share/zsh/site-functions/_gpgv-sq

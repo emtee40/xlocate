@@ -1,0 +1,3 @@
+/etc/sv/asus-kbd/run
+/etc/sv/asus-kbd/supervise -> /run/runit/supervise.asus-kbd
+/usr/bin/asus-kbd-backlight

@@ -1,0 +1,9 @@
+/usr/lib32/libip4tc.so -> /usr/lib32/libip4tc.so.2.0.0
+/usr/lib32/libip6tc.so -> /usr/lib32/libip6tc.so.2.0.0
+/usr/lib32/libipq.so -> /usr/lib32/libipq.so.0.0.0
+/usr/lib32/libxtables.so -> /usr/lib32/libxtables.so.12.7.0
+/usr/lib32/pkgconfig/libip4tc.pc
+/usr/lib32/pkgconfig/libip6tc.pc
+/usr/lib32/pkgconfig/libipq.pc
+/usr/lib32/pkgconfig/libiptc.pc
+/usr/lib32/pkgconfig/xtables.pc

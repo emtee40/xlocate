@@ -1,0 +1,4 @@
+/usr/lib32/libpytalloc-util.so -> /usr/lib32/libpytalloc-util.so.2.4.2
+/usr/lib32/libtalloc.so -> /usr/lib32/libtalloc.so.2.4.2
+/usr/lib32/pkgconfig/pytalloc-util.pc
+/usr/lib32/pkgconfig/talloc.pc

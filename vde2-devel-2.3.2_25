@@ -1,0 +1,13 @@
+/usr/include/libvdehist.h
+/usr/include/libvdemgmt.h
+/usr/include/libvdeplug.h
+/usr/include/libvdeplug_dyn.h
+/usr/include/libvdesnmp.h
+/usr/lib/libvdehist.so -> /usr/lib/libvdehist.so.0.0.1
+/usr/lib/libvdemgmt.so -> /usr/lib/libvdemgmt.so.0.0.1
+/usr/lib/libvdeplug.so -> /usr/lib/libvdeplug.so.3.0.1
+/usr/lib/libvdesnmp.so -> /usr/lib/libvdesnmp.so.0.0.1
+/usr/lib/pkgconfig/vdehist.pc
+/usr/lib/pkgconfig/vdemgmt.pc
+/usr/lib/pkgconfig/vdeplug.pc
+/usr/lib/pkgconfig/vdesnmp.pc

@@ -1,0 +1,5 @@
+/usr/bin/libsixel-config
+/usr/include/sixel.h
+/usr/lib/libsixel.a
+/usr/lib/libsixel.so -> /usr/lib/libsixel.so.1
+/usr/lib/pkgconfig/libsixel.pc

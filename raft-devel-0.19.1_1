@@ -1,0 +1,6 @@
+/usr/include/raft.h
+/usr/include/raft/fixture.h
+/usr/include/raft/uv.h
+/usr/lib/libraft.a
+/usr/lib/libraft.so -> /usr/lib/libraft.so.0.0.0
+/usr/lib/pkgconfig/raft.pc

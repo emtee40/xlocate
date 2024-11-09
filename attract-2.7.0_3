@@ -1,0 +1,212 @@
+/usr/bin/attract
+/usr/share/attract/default-display.cfg
+/usr/share/attract/default-emulator.cfg
+/usr/share/attract/default-filter.cfg
+/usr/share/attract/emulators/script/db.nut
+/usr/share/attract/emulators/script/init.nut
+/usr/share/attract/emulators/script/mame_init.nut
+/usr/share/attract/intro/intro.nut
+/usr/share/attract/language/cn.msg
+/usr/share/attract/language/de.msg
+/usr/share/attract/language/en.msg
+/usr/share/attract/language/es.msg
+/usr/share/attract/language/fr.msg
+/usr/share/attract/language/it.msg
+/usr/share/attract/language/jp.msg
+/usr/share/attract/language/kr.msg
+/usr/share/attract/language/msg_template.txt
+/usr/share/attract/language/tw.msg
+/usr/share/attract/layouts/Attrac-Man/Readme.md
+/usr/share/attract/layouts/Attrac-Man/blank.png
+/usr/share/attract/layouts/Attrac-Man/engine.nut
+/usr/share/attract/layouts/Attrac-Man/field.nut
+/usr/share/attract/layouts/Attrac-Man/field.png
+/usr/share/attract/layouts/Attrac-Man/layout.nut
+/usr/share/attract/layouts/Attrac-Man/layout.rol.nut
+/usr/share/attract/layouts/Attrac-Man/marquee.png
+/usr/share/attract/layouts/Attrac-Man/resource.png
+/usr/share/attract/layouts/Basic/bg.png
+/usr/share/attract/layouts/Basic/layout.nut
+/usr/share/attract/layouts/Basic/marquee.png
+/usr/share/attract/layouts/Cools/bg.jpg
+/usr/share/attract/layouts/Cools/bgmask.png
+/usr/share/attract/layouts/Cools/black.png
+/usr/share/attract/layouts/Cools/layout.nut
+/usr/share/attract/layouts/Cools/mask.png
+/usr/share/attract/layouts/Cools/titlemask.png
+/usr/share/attract/layouts/Filter Grid/frame.png
+/usr/share/attract/layouts/Filter Grid/layout.nut
+/usr/share/attract/layouts/Grid/frame.png
+/usr/share/attract/layouts/Grid/layout.nut
+/usr/share/attract/layouts/Orbit/bloom_shader.frag
+/usr/share/attract/layouts/Orbit/flyer.png
+/usr/share/attract/layouts/Orbit/frame.png
+/usr/share/attract/layouts/Orbit/layout.nut
+/usr/share/attract/layouts/Orbit/marquee.png
+/usr/share/attract/layouts/Orbit/static.mp4
+/usr/share/attract/layouts/Orbit/tunnel-readme.txt
+/usr/share/attract/layouts/Orbit/tunnel.mp4
+/usr/share/attract/layouts/Orbit/wheel.png
+/usr/share/attract/layouts/Sample Animate/layout-00-intro.nut
+/usr/share/attract/layouts/Sample Animate/layout-01-property-objects.nut
+/usr/share/attract/layouts/Sample Animate/layout-02-property-additional-properties.nut
+/usr/share/attract/layouts/Sample Animate/layout-03-property-presets.nut
+/usr/share/attract/layouts/Sample Animate/layout-04-sprite-spritesheets.nut
+/usr/share/attract/layouts/Sample Animate/layout-05-sprite-konami.nut
+/usr/share/attract/layouts/Sample Animate/layout-06-sprite-presets.nut
+/usr/share/attract/layouts/Sample Animate/layout-07-combine-animations.nut
+/usr/share/attract/layouts/Sample Animate/layout-08-chaining-animations.nut
+/usr/share/attract/layouts/Sample Animate/layout-09-tween-easing.nut
+/usr/share/attract/layouts/Sample Animate/layout-10-particle-config.nut
+/usr/share/attract/layouts/Sample Animate/layout-11-particle-presets.nut
+/usr/share/attract/layouts/Sample Animate/layout-12-custom-functions.nut
+/usr/share/attract/layouts/Sample Animate/layout-13-center-rotate-scaling.nut
+/usr/share/attract/layouts/Sample Animate/layout-14-bug-test.nut
+/usr/share/attract/layouts/Sample Animate/layout.nut
+/usr/share/attract/layouts/Sample Animate/resources/bg.png
+/usr/share/attract/layouts/Sample Animate/resources/debug-720p.png
+/usr/share/attract/layouts/Sample Animate/resources/debug.png
+/usr/share/attract/layouts/Sample Animate/resources/default.png
+/usr/share/attract/layouts/Sample Animate/resources/joystick-move.png
+/usr/share/attract/layouts/Sample Animate/resources/link.png
+/usr/share/attract/layouts/Sample Animate/resources/logo-verion.png
+/usr/share/attract/layouts/Sample Animate/resources/mario.png
+/usr/share/attract/layouts/Sample Animate/resources/pixel.png
+/usr/share/attract/layouts/Sample Animate/resources/shared.nut
+/usr/share/attract/layouts/Sample Animate/resources/tutorial_title.png
+/usr/share/attract/layouts/Sample Animate/resources/tutorialbg.png
+/usr/share/attract/layouts/Verticools/bg.jpg
+/usr/share/attract/layouts/Verticools/layout.nut
+/usr/share/attract/loader/attract_xml.nut
+/usr/share/attract/loader/hyperspin.nut
+/usr/share/attract/loader/loader.nut
+/usr/share/attract/loader/mala.nut
+/usr/share/attract/loader/mamewah.nut
+/usr/share/attract/menu-art/wheel/exit.png
+/usr/share/attract/menu-art/wheel/mess-genesis.png
+/usr/share/attract/menu-art/wheel/mess-snes.png
+/usr/share/attract/menu-art/wheel/nestopia.png
+/usr/share/attract/modules/animate.nut
+/usr/share/attract/modules/animate/particles.nut
+/usr/share/attract/modules/animate/particles/images/ball.png
+/usr/share/attract/modules/animate/particles/images/bubbles1.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon-1.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon-2.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon-3.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon2-1.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon2-2.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon2-3.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon2-4.png
+/usr/share/attract/modules/animate/particles/images/clouds-toon2-5.png
+/usr/share/attract/modules/animate/particles/images/debug.png
+/usr/share/attract/modules/animate/particles/images/default.png
+/usr/share/attract/modules/animate/particles/images/invader.png
+/usr/share/attract/modules/animate/particles/images/invader2.png
+/usr/share/attract/modules/animate/particles/images/invader3.png
+/usr/share/attract/modules/animate/particles/images/particle-text.png
+/usr/share/attract/modules/animate/particles/images/snow.png
+/usr/share/attract/modules/animate/particles/images/sparkle.png
+/usr/share/attract/modules/animate/particles/pixel.png
+/usr/share/attract/modules/animate/particles/presets.nut
+/usr/share/attract/modules/animate/property.nut
+/usr/share/attract/modules/animate/property/images/logo.png
+/usr/share/attract/modules/animate/property/presets.nut
+/usr/share/attract/modules/animate/sprite.nut
+/usr/share/attract/modules/animate/sprite/images/button-press-red.png
+/usr/share/attract/modules/animate/sprite/images/button-press-white.png
+/usr/share/attract/modules/animate/sprite/images/joystick-move.png
+/usr/share/attract/modules/animate/sprite/images/pacland.gif
+/usr/share/attract/modules/animate/sprite/presets.nut
+/usr/share/attract/modules/animlist.nut
+/usr/share/attract/modules/conveyor.nut
+/usr/share/attract/modules/core/logger.nut
+/usr/share/attract/modules/core/module.nut
+/usr/share/attract/modules/core/properties.nut
+/usr/share/attract/modules/extended/README.md
+/usr/share/attract/modules/extended/animate.nut
+/usr/share/attract/modules/extended/animations/arc/arc.nut
+/usr/share/attract/modules/extended/animations/example/example.nut
+/usr/share/attract/modules/extended/animations/example/invader.png
+/usr/share/attract/modules/extended/animations/example/invader2.png
+/usr/share/attract/modules/extended/animations/example/invader3.png
+/usr/share/attract/modules/extended/animations/particles/default.png
+/usr/share/attract/modules/extended/animations/particles/particles.nut
+/usr/share/attract/modules/extended/animations/particles/pixel.png
+/usr/share/attract/modules/extended/animations/particles/presets/bubbles1.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon-1.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon-2.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon-3.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon2-1.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon2-2.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon2-3.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon2-4.png
+/usr/share/attract/modules/extended/animations/particles/presets/clouds-toon2-5.png
+/usr/share/attract/modules/extended/animations/particles/presets/default.png
+/usr/share/attract/modules/extended/animations/particles/presets/invader.png
+/usr/share/attract/modules/extended/animations/particles/presets/invader2.png
+/usr/share/attract/modules/extended/animations/particles/presets/invader3.png
+/usr/share/attract/modules/extended/animations/particles/presets/presets.nut
+/usr/share/attract/modules/extended/animations/particles/presets/snow.png
+/usr/share/attract/modules/extended/animations/particles/presets/sparkle.png
+/usr/share/attract/modules/extended/animations/property/property.nut
+/usr/share/attract/modules/extended/animations/sets.nut
+/usr/share/attract/modules/extended/animations/translate/translate.nut
+/usr/share/attract/modules/extended/extended.nut
+/usr/share/attract/modules/extended/extensions/debugger/debugger.nut
+/usr/share/attract/modules/extended/extensions/debugger/outline.png
+/usr/share/attract/modules/extended/objects/orbit/bloom_shader.frag
+/usr/share/attract/modules/extended/objects/orbit/flyer.png
+/usr/share/attract/modules/extended/objects/orbit/frame.png
+/usr/share/attract/modules/extended/objects/orbit/marquee.png
+/usr/share/attract/modules/extended/objects/orbit/orbit.nut
+/usr/share/attract/modules/extended/objects/orbit/wheel.png
+/usr/share/attract/modules/extended/objects/warp/dot.png
+/usr/share/attract/modules/extended/objects/warp/warp.nut
+/usr/share/attract/modules/extended/objects/wheel/wheel.nut
+/usr/share/attract/modules/fade.nut
+/usr/share/attract/modules/file-format.nut
+/usr/share/attract/modules/file-layout.nut
+/usr/share/attract/modules/file-layout/attractmode.nut
+/usr/share/attract/modules/file-layout/mamewah.nut
+/usr/share/attract/modules/file-layout/pixel.png
+/usr/share/attract/modules/file.nut
+/usr/share/attract/modules/objects/scrollingtext.nut
+/usr/share/attract/modules/objects/scrollingtext/pixel.png
+/usr/share/attract/modules/pan-and-scan.nut
+/usr/share/attract/modules/preserve-art.nut
+/usr/share/attract/modules/shuffle/module.nut
+/usr/share/attract/modules/shuffle/readme.md
+/usr/share/attract/modules/spritesheet.nut
+/usr/share/attract/modules/submenu.nut
+/usr/share/attract/plugins/AudioMode.nut
+/usr/share/attract/plugins/FPSMonitor/fps_font.ttf
+/usr/share/attract/plugins/FPSMonitor/fps_graph.png
+/usr/share/attract/plugins/FPSMonitor/plugin.nut
+/usr/share/attract/plugins/History.dat/file_util.nut
+/usr/share/attract/plugins/History.dat/plugin.nut
+/usr/share/attract/plugins/KeyboardSearch.nut
+/usr/share/attract/plugins/KonamiCode.nut
+/usr/share/attract/plugins/LEDBlinky.nut
+/usr/share/attract/plugins/MultiMon.nut
+/usr/share/attract/plugins/ResFix.nut
+/usr/share/attract/plugins/RocketLauncher/file_util.nut
+/usr/share/attract/plugins/RocketLauncher/plugin.nut
+/usr/share/attract/plugins/RotationControl.nut
+/usr/share/attract/plugins/SpecificDisplay.nut
+/usr/share/attract/plugins/UltraStik360.nut
+/usr/share/attract/plugins/UtilityMenu/any_command.nut
+/usr/share/attract/plugins/UtilityMenu/plugin.nut
+/usr/share/attract/plugins/eSpeak/plugin.nut
+/usr/share/attract/romlists/mame/neogeo.tag
+/usr/share/attract/romlists/mame/nofiller_2p.tag
+/usr/share/attract/romlists/mame/nofiller_4p.tag
+/usr/share/attract/romlists/mame/nofiller_chd.tag
+/usr/share/attract/romlists/mame/vsnes.tag
+/usr/share/attract/screensaver/screensaver.nut
+/usr/share/attract/shaders/default/add.frag
+/usr/share/attract/shaders/default/alpha.frag
+/usr/share/attract/shaders/default/multiply.frag
+/usr/share/attract/shaders/default/overlay.frag
+/usr/share/attract/shaders/default/premultiplied.frag
+/usr/share/attract/shaders/default/screen.frag
+/usr/share/attract/shaders/default/subtract.frag

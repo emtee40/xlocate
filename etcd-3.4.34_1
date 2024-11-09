@@ -1,0 +1,7 @@
+/etc/sv/etcd/conf
+/etc/sv/etcd/log/run
+/etc/sv/etcd/log/supervise -> /run/runit/supervise.etcd-log
+/etc/sv/etcd/run
+/etc/sv/etcd/supervise -> /run/runit/supervise.etcd
+/usr/bin/etcd
+/usr/bin/etcdctl

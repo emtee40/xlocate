@@ -1,0 +1,8 @@
+/usr/lib32/libsyncthingconnector.so -> /usr/lib32/libsyncthingconnector.so.19
+/usr/lib32/libsyncthingmodel.so -> /usr/lib32/libsyncthingmodel.so.19
+/usr/lib32/libsyncthingwidgets.so -> /usr/lib32/libsyncthingwidgets.so.19
+/usr/lib32/pkgconfig/syncthingconnector.pc
+/usr/lib32/pkgconfig/syncthingfileitemaction.pc
+/usr/lib32/pkgconfig/syncthingmodel.pc
+/usr/lib32/pkgconfig/syncthingplasmoid.pc
+/usr/lib32/pkgconfig/syncthingwidgets.pc

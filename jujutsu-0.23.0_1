@@ -1,0 +1,4 @@
+/usr/bin/jj
+/usr/share/bash-completion/completions/jj
+/usr/share/fish/vendor_completions.d/jj.fish
+/usr/share/zsh/site-functions/_jj

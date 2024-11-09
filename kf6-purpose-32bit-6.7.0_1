@@ -1,0 +1,22 @@
+/usr/lib32/libKF6Purpose.so.6 -> /usr/lib32/libKF6Purpose.so.6.7.0
+/usr/lib32/libKF6Purpose.so.6.7.0
+/usr/lib32/libKF6PurposeWidgets.so.6 -> /usr/lib32/libKF6PurposeWidgets.so.6.7.0
+/usr/lib32/libKF6PurposeWidgets.so.6.7.0
+/usr/lib32/qt6/plugins/kf6/kfileitemaction/sharefileitemaction.so
+/usr/lib32/qt6/plugins/kf6/purpose/barcodeplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/bluetoothplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/emailplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/imgurplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/kdeconnectplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/kdeconnectsmsplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/nextcloudplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/pastebinplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/phabricatorplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/reviewboardplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/saveasplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/telegramplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/twitterplugin.so
+/usr/lib32/qt6/plugins/kf6/purpose/youtubeplugin.so
+/usr/lib32/qt6/qml/org/kde/purpose/libpurposequickplugin.so
+/usr/lib32/qt6/qml/org/kde/purpose/phabricator/libphabricatorquickplugin.so
+/usr/lib32/qt6/qml/org/kde/purpose/reviewboard/librbpurposequickplugin.so

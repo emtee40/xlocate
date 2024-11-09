@@ -1,0 +1,12 @@
+/etc/dqcache/env/CACHESIZE
+/etc/dqcache/env/IP
+/etc/dqcache/env/ROOT
+/etc/dqcache/root/servers/@
+/etc/sv/dqcache/log/run
+/etc/sv/dqcache/log/supervise -> /run/runit/supervise.dqcache-log
+/etc/sv/dqcache/run
+/etc/sv/dqcache/supervise -> /run/runit/supervise.dqcache
+/usr/bin/dq
+/usr/bin/dqcache
+/usr/bin/dqcache-makekey
+/usr/bin/dqcache-start

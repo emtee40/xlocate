@@ -1,0 +1,12 @@
+/usr/lib32/libsoci_core.a
+/usr/lib32/libsoci_core.so -> /usr/lib32/libsoci_core.so.4.0
+/usr/lib32/libsoci_empty.a
+/usr/lib32/libsoci_empty.so -> /usr/lib32/libsoci_empty.so.4.0
+/usr/lib32/libsoci_mysql.a
+/usr/lib32/libsoci_mysql.so -> /usr/lib32/libsoci_mysql.so.4.0
+/usr/lib32/libsoci_odbc.a
+/usr/lib32/libsoci_odbc.so -> /usr/lib32/libsoci_odbc.so.4.0
+/usr/lib32/libsoci_postgresql.a
+/usr/lib32/libsoci_postgresql.so -> /usr/lib32/libsoci_postgresql.so.4.0
+/usr/lib32/libsoci_sqlite3.a
+/usr/lib32/libsoci_sqlite3.so -> /usr/lib32/libsoci_sqlite3.so.4.0

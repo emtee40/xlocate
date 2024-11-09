@@ -1,0 +1,7 @@
+/usr/bin/runalarm
+/usr/bin/runcron
+/usr/bin/runlock
+/usr/bin/runstat
+/usr/share/man/man1/runalarm.1
+/usr/share/man/man1/runlock.1
+/usr/share/man/man1/runstat.1

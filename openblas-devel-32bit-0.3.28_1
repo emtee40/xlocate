@@ -1,0 +1,4 @@
+/usr/lib32/libopenblas.a -> /usr/lib32/libopenblasp-r0.3.28.a
+/usr/lib32/libopenblas.so -> /usr/lib32/libopenblasp-r0.3.28.so
+/usr/lib32/libopenblasp-r0.3.28.a
+/usr/lib32/pkgconfig/openblas.pc

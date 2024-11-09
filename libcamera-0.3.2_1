@@ -1,0 +1,16 @@
+/usr/bin/cam
+/usr/bin/libcamerify
+/usr/lib/gstreamer-1.0/libgstlibcamera.so
+/usr/lib/libcamera-base.so.0.3 -> /usr/lib/libcamera-base.so.0.3.2
+/usr/lib/libcamera-base.so.0.3.2
+/usr/lib/libcamera.so.0.3 -> /usr/lib/libcamera.so.0.3.2
+/usr/lib/libcamera.so.0.3.2
+/usr/lib/libcamera/ipa_ipu3.so
+/usr/lib/libcamera/ipa_ipu3.so.sign
+/usr/lib/libcamera/ipa_soft_simple.so
+/usr/lib/libcamera/ipa_soft_simple.so.sign
+/usr/libexec/libcamera/ipu3_ipa_proxy
+/usr/libexec/libcamera/soft_ipa_proxy
+/usr/libexec/libcamera/v4l2-compat.so
+/usr/share/libcamera/ipa/ipu3/uncalibrated.yaml
+/usr/share/libcamera/ipa/simple/uncalibrated.yaml

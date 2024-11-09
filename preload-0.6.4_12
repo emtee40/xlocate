@@ -1,0 +1,10 @@
+/etc/preload.conf
+/etc/sv/preload/log/run
+/etc/sv/preload/log/supervise -> /run/runit/supervise.preload-log
+/etc/sv/preload/run
+/etc/sv/preload/supervise -> /run/runit/supervise.preload
+/usr/bin/preload
+/usr/share/doc/preload-0.6.4/index.txt
+/usr/share/doc/preload-0.6.4/proposal.txt
+/usr/share/man/man8/preload.8
+/var/lib/preload/preload.state

@@ -1,0 +1,13 @@
+/etc/easyrsa/easyrsa
+/etc/easyrsa/openssl-easyrsa.cnf
+/etc/easyrsa/vars
+/etc/easyrsa/x509-types/COMMON
+/etc/easyrsa/x509-types/ca
+/etc/easyrsa/x509-types/client
+/etc/easyrsa/x509-types/code-signing
+/etc/easyrsa/x509-types/email
+/etc/easyrsa/x509-types/kdc
+/etc/easyrsa/x509-types/server
+/etc/easyrsa/x509-types/serverClient
+/usr/share/licenses/easyrsa/COPYING.md
+/usr/share/licenses/easyrsa/mktemp.txt

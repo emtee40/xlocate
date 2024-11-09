@@ -1,0 +1,3 @@
+/usr/lib32/libmodplug.a
+/usr/lib32/libmodplug.so -> /usr/lib32/libmodplug.so.1.0.0
+/usr/lib32/pkgconfig/libmodplug.pc

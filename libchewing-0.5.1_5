@@ -1,0 +1,7 @@
+/usr/lib/libchewing.so.3 -> /usr/lib/libchewing.so.3.3.1
+/usr/lib/libchewing.so.3.3.1
+/usr/share/libchewing/dictionary.dat
+/usr/share/libchewing/index_tree.dat
+/usr/share/libchewing/pinyin.tab
+/usr/share/libchewing/swkb.dat
+/usr/share/libchewing/symbols.dat

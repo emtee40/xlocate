@@ -1,0 +1,4 @@
+/etc/sv/haveged/run
+/etc/sv/haveged/supervise -> /run/runit/supervise.haveged
+/usr/bin/haveged
+/usr/share/man/man8/haveged.8

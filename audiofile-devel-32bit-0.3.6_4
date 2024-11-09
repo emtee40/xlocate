@@ -1,0 +1,3 @@
+/usr/lib32/libaudiofile.a
+/usr/lib32/libaudiofile.so -> /usr/lib32/libaudiofile.so.1.0.0
+/usr/lib32/pkgconfig/audiofile.pc

@@ -1,0 +1,15 @@
+/etc/sv/tinyproxy/log/run
+/etc/sv/tinyproxy/log/supervise -> /run/runit/supervise.tinyproxy-log
+/etc/sv/tinyproxy/run
+/etc/sv/tinyproxy/supervise -> /run/runit/supervise.tinyproxy
+/etc/tinyproxy/tinyproxy.conf
+/usr/bin/tinyproxy
+/usr/share/doc/tinyproxy/AUTHORS
+/usr/share/doc/tinyproxy/NEWS
+/usr/share/doc/tinyproxy/README
+/usr/share/doc/tinyproxy/README.md
+/usr/share/man/man5/tinyproxy.conf.5
+/usr/share/man/man8/tinyproxy.8
+/usr/share/tinyproxy/debug.html
+/usr/share/tinyproxy/default.html
+/usr/share/tinyproxy/stats.html

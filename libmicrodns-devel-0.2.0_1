@@ -1,0 +1,4 @@
+/usr/include/microdns/microdns.h
+/usr/include/microdns/rr.h
+/usr/lib/libmicrodns.so -> /usr/lib/libmicrodns.so.1
+/usr/lib/pkgconfig/microdns.pc

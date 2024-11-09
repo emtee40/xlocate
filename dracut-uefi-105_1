@@ -1,0 +1,3 @@
+/etc/default/dracut-uefi-hook
+/etc/kernel.d/post-install/20-dracut-uefi
+/etc/kernel.d/post-remove/20-dracut-uefi

@@ -1,0 +1,5 @@
+/usr/lib/lua/5.4/dbdmysql.so
+/usr/lib/lua/5.4/dbdpostgresql.so
+/usr/lib/lua/5.4/dbdsqlite3.so
+/usr/share/licenses/lua54-luadbi/COPYING
+/usr/share/lua/5.4/DBI.lua

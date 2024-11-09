@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/QtSql.toml
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/QtSqlmod.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqldatabase.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqldriver.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlerror.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlfield.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlindex.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlquery.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlquerymodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlrecord.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlrelationaldelegate.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlrelationaltablemodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqlresult.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qsqltablemodel.sip
+/usr/lib/python3.12/site-packages/PyQt6/bindings/QtSql/qtsqlglobal.sip

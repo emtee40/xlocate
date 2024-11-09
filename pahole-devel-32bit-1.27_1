@@ -1,0 +1,3 @@
+/usr/lib32/libdwarves.so -> /usr/lib32/libdwarves.so.1
+/usr/lib32/libdwarves_emit.so -> /usr/lib32/libdwarves_emit.so.1
+/usr/lib32/libdwarves_reorganize.so -> /usr/lib32/libdwarves_reorganize.so.1

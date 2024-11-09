@@ -1,0 +1,6 @@
+/usr/bin/elf2dmp
+/usr/bin/qemu-edid
+/usr/bin/qemu-keymap
+/usr/bin/qemu-pr-helper
+/usr/bin/qemu-vmsr-helper
+/usr/share/man/man8/qemu-pr-helper.8

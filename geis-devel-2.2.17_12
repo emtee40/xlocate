@@ -1,0 +1,4 @@
+/usr/include/geis/geis.h
+/usr/include/geis/geisimpl.h
+/usr/lib/libgeis.so -> /usr/lib/libgeis.so.1.3.0
+/usr/lib/pkgconfig/libgeis.pc

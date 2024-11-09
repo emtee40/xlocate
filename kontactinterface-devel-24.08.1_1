@@ -1,0 +1,19 @@
+/usr/include/KPim6/KontactInterface/KontactInterface/Core
+/usr/include/KPim6/KontactInterface/KontactInterface/PimUniqueApplication
+/usr/include/KPim6/KontactInterface/KontactInterface/Plugin
+/usr/include/KPim6/KontactInterface/KontactInterface/Processes
+/usr/include/KPim6/KontactInterface/KontactInterface/Summary
+/usr/include/KPim6/KontactInterface/KontactInterface/UniqueAppHandler
+/usr/include/KPim6/KontactInterface/kontactinterface/core.h
+/usr/include/KPim6/KontactInterface/kontactinterface/kontactinterface_export.h
+/usr/include/KPim6/KontactInterface/kontactinterface/pimuniqueapplication.h
+/usr/include/KPim6/KontactInterface/kontactinterface/plugin.h
+/usr/include/KPim6/KontactInterface/kontactinterface/processes.h
+/usr/include/KPim6/KontactInterface/kontactinterface/summary.h
+/usr/include/KPim6/KontactInterface/kontactinterface/uniqueapphandler.h
+/usr/include/KPim6/KontactInterface/kontactinterface_version.h
+/usr/lib/cmake/KPim6KontactInterface/KPim6KontactInterfaceConfig.cmake
+/usr/lib/cmake/KPim6KontactInterface/KPim6KontactInterfaceConfigVersion.cmake
+/usr/lib/cmake/KPim6KontactInterface/KPim6KontactInterfaceTargets-none.cmake
+/usr/lib/cmake/KPim6KontactInterface/KPim6KontactInterfaceTargets.cmake
+/usr/lib/libKPim6KontactInterface.so -> /usr/lib/libKPim6KontactInterface.so.6

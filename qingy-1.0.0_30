@@ -1,0 +1,23 @@
+/etc/pam.d/qingy
+/etc/qingy/settings
+/etc/qingy/welcomes
+/usr/bin/qingy
+/usr/bin/qingy-keygen
+/usr/bin/qingy-reset-console
+/usr/lib/qingy/libqingy-1.0.0.so
+/usr/lib/qingy/libqingy.so -> /usr/lib/qingy/libqingy-1.0.0.so
+/usr/share/info/qingy.info
+/usr/share/qingy/themes/default/Arrow.png
+/usr/share/qingy/themes/default/Hand.png
+/usr/share/qingy/themes/default/IBeam.png
+/usr/share/qingy/themes/default/background.jpg
+/usr/share/qingy/themes/default/decker.ttf
+/usr/share/qingy/themes/default/power_mouseover.png
+/usr/share/qingy/themes/default/power_normal.png
+/usr/share/qingy/themes/default/reset_mouseover.png
+/usr/share/qingy/themes/default/reset_normal.png
+/usr/share/qingy/themes/default/screensaver_mouseover.png
+/usr/share/qingy/themes/default/screensaver_normal.png
+/usr/share/qingy/themes/default/sleep_mouseover.png
+/usr/share/qingy/themes/default/sleep_normal.png
+/usr/share/qingy/themes/default/theme

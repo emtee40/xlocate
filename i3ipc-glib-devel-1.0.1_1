@@ -1,0 +1,9 @@
+/usr/include/i3ipc-glib/i3ipc-con.h
+/usr/include/i3ipc-glib/i3ipc-connection.h
+/usr/include/i3ipc-glib/i3ipc-enum-types.h
+/usr/include/i3ipc-glib/i3ipc-event-types.h
+/usr/include/i3ipc-glib/i3ipc-glib.h
+/usr/include/i3ipc-glib/i3ipc-reply-types.h
+/usr/lib/libi3ipc-glib-1.0.so -> /usr/lib/libi3ipc-glib-1.0.so.0.0.0
+/usr/lib/pkgconfig/i3ipc-glib-1.0.pc
+/usr/share/gir-1.0/i3ipc-1.0.gir

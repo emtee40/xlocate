@@ -1,0 +1,44 @@
+/usr/lib32/libkea-asiodns.so.35 -> /usr/lib32/libkea-asiodns.so.35.0.0
+/usr/lib32/libkea-asiodns.so.35.0.0
+/usr/lib32/libkea-asiolink.so.56 -> /usr/lib32/libkea-asiolink.so.56.0.0
+/usr/lib32/libkea-asiolink.so.56.0.0
+/usr/lib32/libkea-cc.so.54 -> /usr/lib32/libkea-cc.so.54.0.0
+/usr/lib32/libkea-cc.so.54.0.0
+/usr/lib32/libkea-cfgclient.so.51 -> /usr/lib32/libkea-cfgclient.so.51.0.0
+/usr/lib32/libkea-cfgclient.so.51.0.0
+/usr/lib32/libkea-cryptolink.so.38 -> /usr/lib32/libkea-cryptolink.so.38.0.0
+/usr/lib32/libkea-cryptolink.so.38.0.0
+/usr/lib32/libkea-d2srv.so.30 -> /usr/lib32/libkea-d2srv.so.30.0.0
+/usr/lib32/libkea-d2srv.so.30.0.0
+/usr/lib32/libkea-database.so.48 -> /usr/lib32/libkea-database.so.48.0.0
+/usr/lib32/libkea-database.so.48.0.0
+/usr/lib32/libkea-dhcp++.so.74 -> /usr/lib32/libkea-dhcp++.so.74.0.0
+/usr/lib32/libkea-dhcp++.so.74.0.0
+/usr/lib32/libkea-dhcp_ddns.so.41 -> /usr/lib32/libkea-dhcp_ddns.so.41.0.0
+/usr/lib32/libkea-dhcp_ddns.so.41.0.0
+/usr/lib32/libkea-dhcpsrv.so.90 -> /usr/lib32/libkea-dhcpsrv.so.90.0.0
+/usr/lib32/libkea-dhcpsrv.so.90.0.0
+/usr/lib32/libkea-dns++.so.42 -> /usr/lib32/libkea-dns++.so.42.0.0
+/usr/lib32/libkea-dns++.so.42.0.0
+/usr/lib32/libkea-eval.so.52 -> /usr/lib32/libkea-eval.so.52.0.0
+/usr/lib32/libkea-eval.so.52.0.0
+/usr/lib32/libkea-exceptions.so.23 -> /usr/lib32/libkea-exceptions.so.23.0.0
+/usr/lib32/libkea-exceptions.so.23.0.0
+/usr/lib32/libkea-hooks.so.78 -> /usr/lib32/libkea-hooks.so.78.0.0
+/usr/lib32/libkea-hooks.so.78.0.0
+/usr/lib32/libkea-http.so.56 -> /usr/lib32/libkea-http.so.56.0.0
+/usr/lib32/libkea-http.so.56.0.0
+/usr/lib32/libkea-log.so.48 -> /usr/lib32/libkea-log.so.48.0.0
+/usr/lib32/libkea-log.so.48.0.0
+/usr/lib32/libkea-pgsql.so.53 -> /usr/lib32/libkea-pgsql.so.53.0.0
+/usr/lib32/libkea-pgsql.so.53.0.0
+/usr/lib32/libkea-process.so.57 -> /usr/lib32/libkea-process.so.57.0.0
+/usr/lib32/libkea-process.so.57.0.0
+/usr/lib32/libkea-stats.so.29 -> /usr/lib32/libkea-stats.so.29.0.0
+/usr/lib32/libkea-stats.so.29.0.0
+/usr/lib32/libkea-tcp.so.5 -> /usr/lib32/libkea-tcp.so.5.0.0
+/usr/lib32/libkea-tcp.so.5.0.0
+/usr/lib32/libkea-util-io.so.0 -> /usr/lib32/libkea-util-io.so.0.0.1
+/usr/lib32/libkea-util-io.so.0.0.1
+/usr/lib32/libkea-util.so.68 -> /usr/lib32/libkea-util.so.68.0.0
+/usr/lib32/libkea-util.so.68.0.0

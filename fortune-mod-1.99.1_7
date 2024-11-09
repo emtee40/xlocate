@@ -1,0 +1,127 @@
+/usr/bin/fortune
+/usr/bin/strfile
+/usr/bin/unstr
+/usr/share/fortunes/art
+/usr/share/fortunes/art.dat
+/usr/share/fortunes/art.u8 -> /usr/share/fortunes/art
+/usr/share/fortunes/ascii-art
+/usr/share/fortunes/ascii-art.dat
+/usr/share/fortunes/ascii-art.u8 -> /usr/share/fortunes/ascii-art
+/usr/share/fortunes/computers
+/usr/share/fortunes/computers.dat
+/usr/share/fortunes/computers.u8 -> /usr/share/fortunes/computers
+/usr/share/fortunes/cookie
+/usr/share/fortunes/cookie.dat
+/usr/share/fortunes/cookie.u8 -> /usr/share/fortunes/cookie
+/usr/share/fortunes/debian
+/usr/share/fortunes/debian.dat
+/usr/share/fortunes/debian.u8 -> /usr/share/fortunes/debian
+/usr/share/fortunes/definitions
+/usr/share/fortunes/definitions.dat
+/usr/share/fortunes/definitions.u8 -> /usr/share/fortunes/definitions
+/usr/share/fortunes/drugs
+/usr/share/fortunes/drugs.dat
+/usr/share/fortunes/drugs.u8 -> /usr/share/fortunes/drugs
+/usr/share/fortunes/education
+/usr/share/fortunes/education.dat
+/usr/share/fortunes/education.u8 -> /usr/share/fortunes/education
+/usr/share/fortunes/ethnic
+/usr/share/fortunes/ethnic.dat
+/usr/share/fortunes/ethnic.u8 -> /usr/share/fortunes/ethnic
+/usr/share/fortunes/food
+/usr/share/fortunes/food.dat
+/usr/share/fortunes/food.u8 -> /usr/share/fortunes/food
+/usr/share/fortunes/fortunes
+/usr/share/fortunes/fortunes.dat
+/usr/share/fortunes/fortunes.u8 -> /usr/share/fortunes/fortunes
+/usr/share/fortunes/goedel
+/usr/share/fortunes/goedel.dat
+/usr/share/fortunes/goedel.u8 -> /usr/share/fortunes/goedel
+/usr/share/fortunes/humorists
+/usr/share/fortunes/humorists.dat
+/usr/share/fortunes/humorists.u8 -> /usr/share/fortunes/humorists
+/usr/share/fortunes/kids
+/usr/share/fortunes/kids.dat
+/usr/share/fortunes/kids.u8 -> /usr/share/fortunes/kids
+/usr/share/fortunes/knghtbrd
+/usr/share/fortunes/knghtbrd.dat
+/usr/share/fortunes/knghtbrd.u8 -> /usr/share/fortunes/knghtbrd
+/usr/share/fortunes/law
+/usr/share/fortunes/law.dat
+/usr/share/fortunes/law.u8 -> /usr/share/fortunes/law
+/usr/share/fortunes/linux
+/usr/share/fortunes/linux.dat
+/usr/share/fortunes/linux.u8 -> /usr/share/fortunes/linux
+/usr/share/fortunes/linuxcookie
+/usr/share/fortunes/linuxcookie.dat
+/usr/share/fortunes/linuxcookie.u8 -> /usr/share/fortunes/linuxcookie
+/usr/share/fortunes/literature
+/usr/share/fortunes/literature.dat
+/usr/share/fortunes/literature.u8 -> /usr/share/fortunes/literature
+/usr/share/fortunes/love
+/usr/share/fortunes/love.dat
+/usr/share/fortunes/love.u8 -> /usr/share/fortunes/love
+/usr/share/fortunes/magic
+/usr/share/fortunes/magic.dat
+/usr/share/fortunes/magic.u8 -> /usr/share/fortunes/magic
+/usr/share/fortunes/medicine
+/usr/share/fortunes/medicine.dat
+/usr/share/fortunes/medicine.u8 -> /usr/share/fortunes/medicine
+/usr/share/fortunes/men-women
+/usr/share/fortunes/men-women.dat
+/usr/share/fortunes/men-women.u8 -> /usr/share/fortunes/men-women
+/usr/share/fortunes/miscellaneous
+/usr/share/fortunes/miscellaneous.dat
+/usr/share/fortunes/miscellaneous.u8 -> /usr/share/fortunes/miscellaneous
+/usr/share/fortunes/news
+/usr/share/fortunes/news.dat
+/usr/share/fortunes/news.u8 -> /usr/share/fortunes/news
+/usr/share/fortunes/paradoxum
+/usr/share/fortunes/paradoxum.dat
+/usr/share/fortunes/paradoxum.u8 -> /usr/share/fortunes/paradoxum
+/usr/share/fortunes/people
+/usr/share/fortunes/people.dat
+/usr/share/fortunes/people.u8 -> /usr/share/fortunes/people
+/usr/share/fortunes/perl
+/usr/share/fortunes/perl.dat
+/usr/share/fortunes/perl.u8 -> /usr/share/fortunes/perl
+/usr/share/fortunes/pets
+/usr/share/fortunes/pets.dat
+/usr/share/fortunes/pets.u8 -> /usr/share/fortunes/pets
+/usr/share/fortunes/platitudes
+/usr/share/fortunes/platitudes.dat
+/usr/share/fortunes/platitudes.u8 -> /usr/share/fortunes/platitudes
+/usr/share/fortunes/politics
+/usr/share/fortunes/politics.dat
+/usr/share/fortunes/politics.u8 -> /usr/share/fortunes/politics
+/usr/share/fortunes/riddles
+/usr/share/fortunes/riddles.dat
+/usr/share/fortunes/riddles.u8 -> /usr/share/fortunes/riddles
+/usr/share/fortunes/science
+/usr/share/fortunes/science.dat
+/usr/share/fortunes/science.u8 -> /usr/share/fortunes/science
+/usr/share/fortunes/songs-poems
+/usr/share/fortunes/songs-poems.dat
+/usr/share/fortunes/songs-poems.u8 -> /usr/share/fortunes/songs-poems
+/usr/share/fortunes/sports
+/usr/share/fortunes/sports.dat
+/usr/share/fortunes/sports.u8 -> /usr/share/fortunes/sports
+/usr/share/fortunes/startrek
+/usr/share/fortunes/startrek.dat
+/usr/share/fortunes/startrek.u8 -> /usr/share/fortunes/startrek
+/usr/share/fortunes/translate-me
+/usr/share/fortunes/translate-me.dat
+/usr/share/fortunes/translate-me.u8 -> /usr/share/fortunes/translate-me
+/usr/share/fortunes/wisdom
+/usr/share/fortunes/wisdom.dat
+/usr/share/fortunes/wisdom.u8 -> /usr/share/fortunes/wisdom
+/usr/share/fortunes/work
+/usr/share/fortunes/work.dat
+/usr/share/fortunes/work.u8 -> /usr/share/fortunes/work
+/usr/share/fortunes/zippy
+/usr/share/fortunes/zippy.dat
+/usr/share/fortunes/zippy.u8 -> /usr/share/fortunes/zippy
+/usr/share/licenses/fortune-mod/LICENSE
+/usr/share/man/man1/strfile.1
+/usr/share/man/man1/unstr.1 -> /usr/share/man/man1/strfile.1
+/usr/share/man/man6/fortune.6

@@ -1,0 +1,8 @@
+/usr/libexec/ibus-engine-array
+/usr/libexec/ibus-setup-array
+/usr/share/ibus-array/icons/ibus-array.png
+/usr/share/ibus-array/setup/config.py
+/usr/share/ibus-array/setup/main.py
+/usr/share/ibus-array/tables/array.db
+/usr/share/ibus/component/array.xml
+/usr/share/locale/zh_TW/LC_MESSAGES/ibus-array.mo

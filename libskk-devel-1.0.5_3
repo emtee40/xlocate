@@ -1,0 +1,6 @@
+/usr/include/libskk/libskk.h
+/usr/lib/libskk.so -> /usr/lib/libskk.so.0.0.0
+/usr/lib/pkgconfig/libskk.pc
+/usr/share/gir-1.0/Skk-1.0.gir
+/usr/share/vala/vapi/skk-1.0.deps
+/usr/share/vala/vapi/skk-1.0.vapi

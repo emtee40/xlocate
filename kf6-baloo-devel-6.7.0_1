@@ -1,0 +1,23 @@
+/usr/include/KF6/Baloo/Baloo/File
+/usr/include/KF6/Baloo/Baloo/FileMonitor
+/usr/include/KF6/Baloo/Baloo/IndexerConfig
+/usr/include/KF6/Baloo/Baloo/Query
+/usr/include/KF6/Baloo/Baloo/QueryRunnable
+/usr/include/KF6/Baloo/Baloo/ResultIterator
+/usr/include/KF6/Baloo/Baloo/TagListJob
+/usr/include/KF6/Baloo/baloo/baloosettings.h
+/usr/include/KF6/Baloo/baloo/core_export.h
+/usr/include/KF6/Baloo/baloo/file.h
+/usr/include/KF6/Baloo/baloo/filemonitor.h
+/usr/include/KF6/Baloo/baloo/indexerconfig.h
+/usr/include/KF6/Baloo/baloo/query.h
+/usr/include/KF6/Baloo/baloo/queryrunnable.h
+/usr/include/KF6/Baloo/baloo/resultiterator.h
+/usr/include/KF6/Baloo/baloo/taglistjob.h
+/usr/include/KF6/Baloo/baloo_version.h
+/usr/lib/cmake/KF6Baloo/KF6BalooConfig.cmake
+/usr/lib/cmake/KF6Baloo/KF6BalooConfigVersion.cmake
+/usr/lib/cmake/KF6Baloo/KF6BalooTargets-none.cmake
+/usr/lib/cmake/KF6Baloo/KF6BalooTargets.cmake
+/usr/lib/libKF6Baloo.so -> /usr/lib/libKF6Baloo.so.6
+/usr/lib/pkgconfig/KF6Baloo.pc

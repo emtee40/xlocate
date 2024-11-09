@@ -1,0 +1,3 @@
+/usr/include/xmp.h
+/usr/lib/libxmp.so -> /usr/lib/libxmp.so.4
+/usr/lib/pkgconfig/libxmp.pc

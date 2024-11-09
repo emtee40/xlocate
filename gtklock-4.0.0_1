@@ -1,0 +1,6 @@
+/etc/pam.d/gtklock
+/usr/bin/gtklock
+/usr/share/gtklock/background.png
+/usr/share/gtklock/example-style.css
+/usr/share/gtklock/logo.svg
+/usr/share/man/man1/gtklock.1

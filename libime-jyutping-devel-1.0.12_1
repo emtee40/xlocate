@@ -1,0 +1,13 @@
+/usr/include/LibIME/libime/jyutping/jyutpingcontext.h
+/usr/include/LibIME/libime/jyutping/jyutpingdata.h
+/usr/include/LibIME/libime/jyutping/jyutpingdecoder.h
+/usr/include/LibIME/libime/jyutping/jyutpingdictionary.h
+/usr/include/LibIME/libime/jyutping/jyutpingencoder.h
+/usr/include/LibIME/libime/jyutping/jyutpingime.h
+/usr/include/LibIME/libime/jyutping/jyutpingmatchstate.h
+/usr/include/LibIME/libime/jyutping/libimejyutping_export.h
+/usr/lib/cmake/LibIMEJyutping/LibIMEJyutpingConfig.cmake
+/usr/lib/cmake/LibIMEJyutping/LibIMEJyutpingConfigVersion.cmake
+/usr/lib/cmake/LibIMEJyutping/LibIMEJyutpingTargets-none.cmake
+/usr/lib/cmake/LibIMEJyutping/LibIMEJyutpingTargets.cmake
+/usr/lib/libIMEJyutping.so -> /usr/lib/libIMEJyutping.so.1

@@ -1,0 +1,9 @@
+/etc/sv/tox-bootstrapd/log/run
+/etc/sv/tox-bootstrapd/log/supervise -> /run/runit/supervise.tox-bootstrapd-log
+/etc/sv/tox-bootstrapd/run
+/etc/sv/tox-bootstrapd/supervise -> /run/runit/supervise.tox-bootstrapd
+/etc/tox-bootstrapd.conf
+/usr/bin/tox-bootstrapd
+/usr/lib/libtoxcore.so.2 -> /usr/lib/libtoxcore.so.2.19.0
+/usr/lib/libtoxcore.so.2.19.0
+/usr/share/bash-completion/completions/tox-bootstrapd

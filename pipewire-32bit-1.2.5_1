@@ -1,0 +1,9 @@
+/usr/lib32/pipewire-0.3/v4l2/libpw-v4l2.so
+/usr/lib32/spa-0.2/aec/libspa-aec-null.so
+/usr/lib32/spa-0.2/aec/libspa-aec-webrtc.so
+/usr/lib32/spa-0.2/audiotestsrc/libspa-audiotestsrc.so
+/usr/lib32/spa-0.2/avb/libspa-avb.so
+/usr/lib32/spa-0.2/libcamera/libspa-libcamera.so
+/usr/lib32/spa-0.2/support/libspa-dbus.so
+/usr/lib32/spa-0.2/support/libspa-support.so
+/usr/lib32/spa-0.2/videotestsrc/libspa-videotestsrc.so

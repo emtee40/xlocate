@@ -1,0 +1,5 @@
+/usr/include/uninum/nsdefs.h
+/usr/include/uninum/unicode.h
+/usr/include/uninum/uninum.h
+/usr/lib/libuninum.a
+/usr/lib/libuninum.so -> /usr/lib/libuninum.so.5.3.0

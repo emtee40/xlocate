@@ -1,0 +1,43 @@
+/usr/bin/suitesparse_mongoose
+/usr/lib/libamd.so.3 -> /usr/lib/libamd.so.3.3.3
+/usr/lib/libamd.so.3.3.3
+/usr/lib/libbtf.so.2 -> /usr/lib/libbtf.so.2.3.2
+/usr/lib/libbtf.so.2.3.2
+/usr/lib/libcamd.so.3 -> /usr/lib/libcamd.so.3.3.3
+/usr/lib/libcamd.so.3.3.3
+/usr/lib/libccolamd.so.3 -> /usr/lib/libccolamd.so.3.3.4
+/usr/lib/libccolamd.so.3.3.4
+/usr/lib/libcholmod.so.5 -> /usr/lib/libcholmod.so.5.3.0
+/usr/lib/libcholmod.so.5.3.0
+/usr/lib/libcolamd.so.3 -> /usr/lib/libcolamd.so.3.3.4
+/usr/lib/libcolamd.so.3.3.4
+/usr/lib/libcxsparse.so.4 -> /usr/lib/libcxsparse.so.4.4.1
+/usr/lib/libcxsparse.so.4.4.1
+/usr/lib/libgraphblas.so.9 -> /usr/lib/libgraphblas.so.9.3.1
+/usr/lib/libgraphblas.so.9.3.1
+/usr/lib/libklu.so.2 -> /usr/lib/libklu.so.2.3.5
+/usr/lib/libklu.so.2.3.5
+/usr/lib/libklu_cholmod.so.2 -> /usr/lib/libklu_cholmod.so.2.3.5
+/usr/lib/libklu_cholmod.so.2.3.5
+/usr/lib/liblagraph.so.1 -> /usr/lib/liblagraph.so.1.1.4
+/usr/lib/liblagraph.so.1.1.4
+/usr/lib/liblagraphx.so.1 -> /usr/lib/liblagraphx.so.1.1.4
+/usr/lib/liblagraphx.so.1.1.4
+/usr/lib/libldl.so.3 -> /usr/lib/libldl.so.3.3.2
+/usr/lib/libldl.so.3.3.2
+/usr/lib/libparu.so.1 -> /usr/lib/libparu.so.1.0.0
+/usr/lib/libparu.so.1.0.0
+/usr/lib/librbio.so.4 -> /usr/lib/librbio.so.4.3.4
+/usr/lib/librbio.so.4.3.4
+/usr/lib/libspex.so.3 -> /usr/lib/libspex.so.3.2.1
+/usr/lib/libspex.so.3.2.1
+/usr/lib/libspexpython.so.3 -> /usr/lib/libspexpython.so.3.2.1
+/usr/lib/libspexpython.so.3.2.1
+/usr/lib/libspqr.so.4 -> /usr/lib/libspqr.so.4.3.4
+/usr/lib/libspqr.so.4.3.4
+/usr/lib/libsuitesparse_mongoose.so.3
+/usr/lib/libsuitesparseconfig.so.7 -> /usr/lib/libsuitesparseconfig.so.7.8.3
+/usr/lib/libsuitesparseconfig.so.7.8.3
+/usr/lib/libumfpack.so.6 -> /usr/lib/libumfpack.so.6.3.5
+/usr/lib/libumfpack.so.6.3.5
+/usr/share/licenses/SuiteSparse/LICENSE.txt

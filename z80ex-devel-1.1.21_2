@@ -1,0 +1,7 @@
+/usr/include/z80ex/z80ex.h
+/usr/include/z80ex/z80ex_common.h
+/usr/include/z80ex/z80ex_dasm.h
+/usr/lib/libz80ex.a
+/usr/lib/libz80ex.so -> /usr/lib/libz80ex.so.1
+/usr/lib/libz80ex_dasm.a
+/usr/lib/libz80ex_dasm.so -> /usr/lib/libz80ex_dasm.so.1

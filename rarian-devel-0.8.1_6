@@ -1,0 +1,8 @@
+/usr/include/rarian/rarian-info.h
+/usr/include/rarian/rarian-main.h
+/usr/include/rarian/rarian-man.h
+/usr/include/rarian/rarian-reg-utils.h
+/usr/include/rarian/rarian.h
+/usr/lib/librarian.a
+/usr/lib/librarian.so -> /usr/lib/librarian.so.0.0.0
+/usr/lib/pkgconfig/rarian.pc

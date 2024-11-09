@@ -1,0 +1,11 @@
+/usr/lib32/knot-resolver/ahocorasick.so
+/usr/lib32/knot-resolver/debug_opensslkeylog.so
+/usr/lib32/knot-resolver/kres_modules/bogus_log.so
+/usr/lib32/knot-resolver/kres_modules/dnstap.so
+/usr/lib32/knot-resolver/kres_modules/edns_keepalive.so
+/usr/lib32/knot-resolver/kres_modules/extended_error.so
+/usr/lib32/knot-resolver/kres_modules/hints.so
+/usr/lib32/knot-resolver/kres_modules/nsid.so
+/usr/lib32/knot-resolver/kres_modules/refuse_nord.so
+/usr/lib32/knot-resolver/kres_modules/stats.so
+/usr/lib32/libkres.so.9

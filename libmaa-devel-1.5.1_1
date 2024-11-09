@@ -1,0 +1,3 @@
+/usr/include/maa.h
+/usr/lib/libmaa.a
+/usr/lib/libmaa.so -> /usr/lib/libmaa.so.4.1

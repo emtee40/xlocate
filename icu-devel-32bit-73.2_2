@@ -1,0 +1,15 @@
+/usr/lib32/libicudata.a
+/usr/lib32/libicudata.so -> /usr/lib32/libicudata.so.73.2
+/usr/lib32/libicui18n.a
+/usr/lib32/libicui18n.so -> /usr/lib32/libicui18n.so.73.2
+/usr/lib32/libicuio.a
+/usr/lib32/libicuio.so -> /usr/lib32/libicuio.so.73.2
+/usr/lib32/libicutest.a
+/usr/lib32/libicutest.so -> /usr/lib32/libicutest.so.73.2
+/usr/lib32/libicutu.a
+/usr/lib32/libicutu.so -> /usr/lib32/libicutu.so.73.2
+/usr/lib32/libicuuc.a
+/usr/lib32/libicuuc.so -> /usr/lib32/libicuuc.so.73.2
+/usr/lib32/pkgconfig/icu-i18n.pc
+/usr/lib32/pkgconfig/icu-io.pc
+/usr/lib32/pkgconfig/icu-uc.pc

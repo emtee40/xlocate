@@ -1,0 +1,4 @@
+/usr/bin/inetutils-logger
+/usr/bin/syslogd
+/usr/share/man/man1/inetutils-logger.1
+/usr/share/man/man8/syslogd.8

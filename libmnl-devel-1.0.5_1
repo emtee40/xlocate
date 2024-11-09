@@ -1,0 +1,3 @@
+/usr/include/libmnl/libmnl.h
+/usr/lib/libmnl.so -> /usr/lib/libmnl.so.0.2.0
+/usr/lib/pkgconfig/libmnl.pc

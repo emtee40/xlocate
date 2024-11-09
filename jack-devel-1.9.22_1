@@ -1,0 +1,21 @@
+/usr/include/jack/control.h
+/usr/include/jack/intclient.h
+/usr/include/jack/jack.h
+/usr/include/jack/jslist.h
+/usr/include/jack/metadata.h
+/usr/include/jack/midiport.h
+/usr/include/jack/net.h
+/usr/include/jack/ringbuffer.h
+/usr/include/jack/session.h
+/usr/include/jack/statistics.h
+/usr/include/jack/systemdeps.h
+/usr/include/jack/thread.h
+/usr/include/jack/transport.h
+/usr/include/jack/types.h
+/usr/include/jack/uuid.h
+/usr/include/jack/weakjack.h
+/usr/include/jack/weakmacros.h
+/usr/lib/libjack.so -> /usr/lib/libjack.so.0.1.0
+/usr/lib/libjacknet.so -> /usr/lib/libjacknet.so.0.1.0
+/usr/lib/libjackserver.so -> /usr/lib/libjackserver.so.0.1.0
+/usr/lib/pkgconfig/jack.pc

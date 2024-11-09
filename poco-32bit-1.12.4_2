@@ -1,0 +1,16 @@
+/usr/lib32/libPocoActiveRecord.so.94
+/usr/lib32/libPocoCrypto.so.94
+/usr/lib32/libPocoData.so.94
+/usr/lib32/libPocoDataSQLite.so.94
+/usr/lib32/libPocoEncodings.so.94
+/usr/lib32/libPocoFoundation.so.94
+/usr/lib32/libPocoJSON.so.94
+/usr/lib32/libPocoJWT.so.94
+/usr/lib32/libPocoMongoDB.so.94
+/usr/lib32/libPocoNet.so.94
+/usr/lib32/libPocoNetSSL.so.94
+/usr/lib32/libPocoPrometheus.so.94
+/usr/lib32/libPocoRedis.so.94
+/usr/lib32/libPocoUtil.so.94
+/usr/lib32/libPocoXML.so.94
+/usr/lib32/libPocoZip.so.94

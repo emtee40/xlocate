@@ -1,0 +1,7 @@
+/usr/lib32/libQt5Network.so -> /usr/lib32/libQt5Network.so.5.15.11
+/usr/lib32/libQt5Network.so.5 -> /usr/lib32/libQt5Network.so.5.15.11
+/usr/lib32/libQt5Network.so.5.15 -> /usr/lib32/libQt5Network.so.5.15.11
+/usr/lib32/libQt5Network.so.5.15.11
+/usr/lib32/qt5/plugins/bearer/libqconnmanbearer.so
+/usr/lib32/qt5/plugins/bearer/libqgenericbearer.so
+/usr/lib32/qt5/plugins/bearer/libqnmbearer.so

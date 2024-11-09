@@ -1,0 +1,15 @@
+/usr/bin/envdir
+/usr/bin/envshell
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/not-zip-safe
+/usr/lib/python3.12/site-packages/envdir-1.0.1-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/envdir/__init__.py
+/usr/lib/python3.12/site-packages/envdir/__main__.py
+/usr/lib/python3.12/site-packages/envdir/env.py
+/usr/lib/python3.12/site-packages/envdir/runner.py
+/usr/lib/python3.12/site-packages/envdir/test_envdir.py
+/usr/lib/python3.12/site-packages/envdir/version.py
+/usr/share/licenses/python3-envdir/LICENSE

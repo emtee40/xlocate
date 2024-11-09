@@ -1,0 +1,9 @@
+/etc/xlunch/default.conf
+/usr/bin/genentries
+/usr/bin/genentries.desktop.sh
+/usr/bin/updateentries
+/usr/bin/xlunch
+/usr/bin/xlunch_genquick
+/usr/share/applications/genentries.desktop
+/usr/share/icons/hicolor/48x48/apps/xlunch.png
+/usr/share/icons/hicolor/48x48/apps/xlunch_ghost.png

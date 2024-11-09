@@ -1,0 +1,15 @@
+/usr/bin/smpeg-config
+/usr/include/smpeg/MPEG.h
+/usr/include/smpeg/MPEGaction.h
+/usr/include/smpeg/MPEGaudio.h
+/usr/include/smpeg/MPEGerror.h
+/usr/include/smpeg/MPEGfilter.h
+/usr/include/smpeg/MPEGlist.h
+/usr/include/smpeg/MPEGring.h
+/usr/include/smpeg/MPEGstream.h
+/usr/include/smpeg/MPEGsystem.h
+/usr/include/smpeg/MPEGvideo.h
+/usr/include/smpeg/smpeg.h
+/usr/lib/libsmpeg.a
+/usr/lib/libsmpeg.so -> /usr/lib/libsmpeg-0.4.so.0.1.4
+/usr/share/aclocal/smpeg.m4

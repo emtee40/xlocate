@@ -1,0 +1,5 @@
+/usr/bin/crash
+/usr/lib/crash/extensions/dminfo.so
+/usr/lib/crash/extensions/echo.so
+/usr/lib/crash/extensions/snap.so
+/usr/share/man/man8/crash.8

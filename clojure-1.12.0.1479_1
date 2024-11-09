@@ -1,0 +1,9 @@
+/usr/bin/clj
+/usr/bin/clojure
+/usr/lib/clojure/deps.edn
+/usr/lib/clojure/example-deps.edn
+/usr/lib/clojure/libexec/clojure-tools-1.12.0.1479.jar
+/usr/lib/clojure/libexec/exec.jar
+/usr/lib/clojure/tools.edn
+/usr/share/man/man1/clj.1
+/usr/share/man/man1/clojure.1

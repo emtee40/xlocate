@@ -1,0 +1,5 @@
+/usr/bin/topgrade
+/usr/share/bash-completion/completions/topgrade
+/usr/share/fish/vendor_completions.d/topgrade.fish
+/usr/share/man/man8/topgrade.8
+/usr/share/zsh/site-functions/_topgrade

@@ -1,0 +1,4 @@
+/usr/include/oif/grail.h
+/usr/lib/libgrail.a
+/usr/lib/libgrail.so -> /usr/lib/libgrail.so.6.0.0
+/usr/lib/pkgconfig/grail.pc

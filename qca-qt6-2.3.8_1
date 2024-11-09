@@ -1,0 +1,13 @@
+/usr/bin/mozcerts-qt6
+/usr/bin/qcatool-qt6
+/usr/lib/libqca-qt6.so.2 -> /usr/lib/libqca-qt6.so.2.3.8
+/usr/lib/libqca-qt6.so.2.3.8
+/usr/lib/qca-qt6/crypto/libqca-botan.so
+/usr/lib/qca-qt6/crypto/libqca-cyrus-sasl.so
+/usr/lib/qca-qt6/crypto/libqca-gcrypt.so
+/usr/lib/qca-qt6/crypto/libqca-gnupg.so
+/usr/lib/qca-qt6/crypto/libqca-logger.so
+/usr/lib/qca-qt6/crypto/libqca-nss.so
+/usr/lib/qca-qt6/crypto/libqca-ossl.so
+/usr/lib/qca-qt6/crypto/libqca-softstore.so
+/usr/share/man/man1/qcatool-qt6.1

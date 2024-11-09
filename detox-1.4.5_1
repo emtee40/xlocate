@@ -1,0 +1,16 @@
+/etc/detox/detoxrc
+/etc/detox/detoxrc.sample
+/usr/bin/detox
+/usr/bin/inline-detox
+/usr/share/detox/iso8859_1.tbl
+/usr/share/detox/iso8859_1.tbl.sample
+/usr/share/detox/safe.tbl
+/usr/share/detox/safe.tbl.sample
+/usr/share/detox/unicode.tbl
+/usr/share/detox/unicode.tbl.sample
+/usr/share/doc/detox/README.md
+/usr/share/licenses/detox/LICENSE
+/usr/share/man/man1/detox.1
+/usr/share/man/man1/inline-detox.1
+/usr/share/man/man5/detox.tbl.5
+/usr/share/man/man5/detoxrc.5

@@ -1,0 +1,6 @@
+/usr/include/u2f-host/u2f-host-types.h
+/usr/include/u2f-host/u2f-host-version.h
+/usr/include/u2f-host/u2f-host.h
+/usr/lib/libu2f-host.a
+/usr/lib/libu2f-host.so -> /usr/lib/libu2f-host.so.0.1.10
+/usr/lib/pkgconfig/u2f-host.pc

@@ -1,0 +1,10 @@
+/usr/lib/perl5/vendor_perl/Params/Validate.pm
+/usr/lib/perl5/vendor_perl/Params/Validate/Constants.pm
+/usr/lib/perl5/vendor_perl/Params/Validate/PP.pm
+/usr/lib/perl5/vendor_perl/Params/Validate/XS.pm
+/usr/lib/perl5/vendor_perl/Params/ValidatePP.pm
+/usr/lib/perl5/vendor_perl/Params/ValidateXS.pm
+/usr/lib/perl5/vendor_perl/auto/Params/Validate/XS/XS.bs
+/usr/lib/perl5/vendor_perl/auto/Params/Validate/XS/XS.so
+/usr/share/doc/perl/html/site/lib/Params/Validate.html
+/usr/share/man/man3/Params::Validate.3p

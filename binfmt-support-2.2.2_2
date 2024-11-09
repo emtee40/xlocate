@@ -1,0 +1,8 @@
+/etc/sv/binfmt-support/finish
+/etc/sv/binfmt-support/log/run
+/etc/sv/binfmt-support/log/supervise -> /run/runit/supervise.binfmt-support-log
+/etc/sv/binfmt-support/run
+/etc/sv/binfmt-support/supervise -> /run/runit/supervise.binfmt-support
+/usr/bin/update-binfmts
+/usr/libexec/binfmt-support/run-detectors
+/usr/share/man/man8/update-binfmts.8

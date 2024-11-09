@@ -1,0 +1,22 @@
+/usr/lib32/libQt5Location.so.5 -> /usr/lib32/libQt5Location.so.5.15.11
+/usr/lib32/libQt5Location.so.5.15 -> /usr/lib32/libQt5Location.so.5.15.11
+/usr/lib32/libQt5Location.so.5.15.11
+/usr/lib32/libQt5Positioning.so.5 -> /usr/lib32/libQt5Positioning.so.5.15.11
+/usr/lib32/libQt5Positioning.so.5.15 -> /usr/lib32/libQt5Positioning.so.5.15.11
+/usr/lib32/libQt5Positioning.so.5.15.11
+/usr/lib32/libQt5PositioningQuick.so.5 -> /usr/lib32/libQt5PositioningQuick.so.5.15.11
+/usr/lib32/libQt5PositioningQuick.so.5.15 -> /usr/lib32/libQt5PositioningQuick.so.5.15.11
+/usr/lib32/libQt5PositioningQuick.so.5.15.11
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_esri.so
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_itemsoverlay.so
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_mapbox.so
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_mapboxgl.so
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_nokia.so
+/usr/lib32/qt5/plugins/geoservices/libqtgeoservices_osm.so
+/usr/lib32/qt5/plugins/position/libqtposition_geoclue.so
+/usr/lib32/qt5/plugins/position/libqtposition_geoclue2.so
+/usr/lib32/qt5/plugins/position/libqtposition_positionpoll.so
+/usr/lib32/qt5/plugins/position/libqtposition_serialnmea.so
+/usr/lib32/qt5/qml/Qt/labs/location/liblocationlabsplugin.so
+/usr/lib32/qt5/qml/QtLocation/libdeclarative_location.so
+/usr/lib32/qt5/qml/QtPositioning/libdeclarative_positioning.so

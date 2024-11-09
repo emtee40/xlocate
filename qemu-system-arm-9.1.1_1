@@ -1,0 +1,2 @@
+/usr/bin/qemu-system-arm
+/usr/share/qemu/npcm7xx_bootrom.bin

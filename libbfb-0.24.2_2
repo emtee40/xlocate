@@ -1,0 +1,2 @@
+/usr/lib/libbfb.so.0.0.6
+/usr/lib/libbfb.so.1 -> /usr/lib/libbfb.so.0.0.6

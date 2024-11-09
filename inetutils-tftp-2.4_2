@@ -1,0 +1,5 @@
+/etc/xinetd.d/tftp
+/usr/bin/inetutils-tftp
+/usr/bin/tftpd
+/usr/share/man/man1/inetutils-tftp.1
+/usr/share/man/man8/inetutils-tftpd.8

@@ -1,0 +1,20 @@
+/etc/dhcpd.conf
+/etc/sv/dhcpd4/log/run -> /usr/bin/vlogger
+/etc/sv/dhcpd4/log/supervise -> /run/runit/supervise.dhcpd4-log
+/etc/sv/dhcpd4/run
+/etc/sv/dhcpd4/supervise -> /run/runit/supervise.dhcpd4
+/etc/sv/dhcpd6/log/run -> /usr/bin/vlogger
+/etc/sv/dhcpd6/log/supervise -> /run/runit/supervise.dhcpd6-log
+/etc/sv/dhcpd6/run
+/etc/sv/dhcpd6/supervise -> /run/runit/supervise.dhcpd6
+/usr/bin/dhcpd
+/usr/bin/dhcrelay
+/usr/bin/omshell
+/usr/share/licenses/dhcp/LICENSE
+/usr/share/man/man1/omshell.1
+/usr/share/man/man5/dhcp-eval.5
+/usr/share/man/man5/dhcp-options.5
+/usr/share/man/man5/dhcpd.conf.5
+/usr/share/man/man5/dhcpd.leases.5
+/usr/share/man/man8/dhcpd.8
+/usr/share/man/man8/dhcrelay.8

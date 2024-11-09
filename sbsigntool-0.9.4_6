@@ -1,0 +1,15 @@
+/etc/default/sbsigntool-kernel-hook
+/etc/kernel.d/post-install/40-sbsigntool
+/etc/kernel.d/post-remove/40-sbsigntool
+/usr/bin/sbattach
+/usr/bin/sbkeysync
+/usr/bin/sbsiglist
+/usr/bin/sbsign
+/usr/bin/sbvarsign
+/usr/bin/sbverify
+/usr/share/man/man1/sbattach.1
+/usr/share/man/man1/sbkeysync.1
+/usr/share/man/man1/sbsiglist.1
+/usr/share/man/man1/sbsign.1
+/usr/share/man/man1/sbvarsign.1
+/usr/share/man/man1/sbverify.1

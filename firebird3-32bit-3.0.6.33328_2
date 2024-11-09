@@ -1,0 +1,12 @@
+/usr/lib32/firebird/UDF/fbudf.so
+/usr/lib32/firebird/UDF/ib_udf.so
+/usr/lib32/firebird/plugins/libCryptKeyHolder_example.so
+/usr/lib32/firebird/plugins/libDbCrypt_example.so
+/usr/lib32/firebird/plugins/libEngine12.so
+/usr/lib32/firebird/plugins/libLegacy_Auth.so
+/usr/lib32/firebird/plugins/libLegacy_UserManager.so
+/usr/lib32/firebird/plugins/libSrp.so
+/usr/lib32/firebird/plugins/libfbtrace.so
+/usr/lib32/firebird/plugins/libudr_engine.so
+/usr/lib32/firebird/plugins/udr/libudrcpp_example.so
+/usr/lib32/libib_util.so

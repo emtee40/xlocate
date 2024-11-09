@@ -1,0 +1,26 @@
+/usr/include/playerctl/playerctl-enum-types.h
+/usr/include/playerctl/playerctl-player-manager.h
+/usr/include/playerctl/playerctl-player-name.h
+/usr/include/playerctl/playerctl-player.h
+/usr/include/playerctl/playerctl-version.h
+/usr/include/playerctl/playerctl.h
+/usr/lib/libplayerctl.so -> /usr/lib/libplayerctl.so.2
+/usr/lib/pkgconfig/playerctl.pc
+/usr/share/gir-1.0/Playerctl-2.0.gir
+/usr/share/gtk-doc/html/playerctl/PlayerctlPlayer.html
+/usr/share/gtk-doc/html/playerctl/PlayerctlPlayerManager.html
+/usr/share/gtk-doc/html/playerctl/annotation-glossary.html
+/usr/share/gtk-doc/html/playerctl/api-index-full.html
+/usr/share/gtk-doc/html/playerctl/ch01.html
+/usr/share/gtk-doc/html/playerctl/home.png
+/usr/share/gtk-doc/html/playerctl/index.html
+/usr/share/gtk-doc/html/playerctl/left-insensitive.png
+/usr/share/gtk-doc/html/playerctl/left.png
+/usr/share/gtk-doc/html/playerctl/object-tree.html
+/usr/share/gtk-doc/html/playerctl/playerctl-playerctl-player-name.html
+/usr/share/gtk-doc/html/playerctl/playerctl.devhelp2
+/usr/share/gtk-doc/html/playerctl/right-insensitive.png
+/usr/share/gtk-doc/html/playerctl/right.png
+/usr/share/gtk-doc/html/playerctl/style.css
+/usr/share/gtk-doc/html/playerctl/up-insensitive.png
+/usr/share/gtk-doc/html/playerctl/up.png

@@ -1,0 +1,14 @@
+/usr/bin/vcsh
+/usr/share/bash-completion/completions/vcsh
+/usr/share/doc/vcsh/INSTALL.md
+/usr/share/doc/vcsh/README.md
+/usr/share/doc/vcsh/changelog
+/usr/share/doc/vcsh/error_codes.md
+/usr/share/doc/vcsh/sample_hooks/post-init-add-origin
+/usr/share/doc/vcsh/sample_hooks/post-init-setup-mr
+/usr/share/doc/vcsh/sample_hooks/post-merge-unclobber
+/usr/share/doc/vcsh/sample_hooks/pre-merge-unclobber
+/usr/share/licenses/vcsh/CONTRIBUTORS
+/usr/share/licenses/vcsh/LICENSE
+/usr/share/man/man1/vcsh.1
+/usr/share/zsh/site-functions/_vcsh

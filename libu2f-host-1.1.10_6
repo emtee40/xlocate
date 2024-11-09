@@ -1,0 +1,3 @@
+/usr/bin/u2f-host
+/usr/lib/libu2f-host.so.0 -> /usr/lib/libu2f-host.so.0.1.10
+/usr/lib/libu2f-host.so.0.1.10

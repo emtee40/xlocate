@@ -1,0 +1,7 @@
+/usr/include/clens/clens.h
+/usr/include/clens/glob.h
+/usr/include/clens/readpassphrase.h
+/usr/include/clens/sys/queue.h
+/usr/include/clens/sys/tree.h
+/usr/lib/libclens.a
+/usr/share/licenses/clens/LICENSE

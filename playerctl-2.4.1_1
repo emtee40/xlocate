@@ -1,0 +1,7 @@
+/usr/bin/playerctl
+/usr/bin/playerctld
+/usr/lib/girepository-1.0/Playerctl-2.0.typelib
+/usr/lib/libplayerctl.so.2 -> /usr/lib/libplayerctl.so.2.4.1
+/usr/lib/libplayerctl.so.2.4.1
+/usr/share/dbus-1/services/org.mpris.MediaPlayer2.playerctld.service
+/usr/share/man/man1/playerctl.1

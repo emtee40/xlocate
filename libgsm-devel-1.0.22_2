@@ -1,0 +1,8 @@
+/usr/include/gsm.h -> /usr/include/gsm/gsm.h
+/usr/include/gsm/gsm.h
+/usr/lib/libgsm.a
+/usr/lib/libgsm.so -> /usr/lib/libgsm.so.1.0.13
+/usr/share/man/man3/gsm.3
+/usr/share/man/man3/gsm_explode.3
+/usr/share/man/man3/gsm_option.3
+/usr/share/man/man3/gsm_print.3

@@ -1,0 +1,29 @@
+/usr/lib32/libmlt++.so.3 -> /usr/lib32/libmlt++.so.6.26.1
+/usr/lib32/libmlt++.so.6.26.1
+/usr/lib32/libmlt.so.6 -> /usr/lib32/libmlt.so.6.26.1
+/usr/lib32/libmlt.so.6.26.1
+/usr/lib32/mlt/libmltavformat.so
+/usr/lib32/mlt/libmltcore.so
+/usr/lib32/mlt/libmltdecklink.so
+/usr/lib32/mlt/libmltfrei0r.so
+/usr/lib32/mlt/libmltgdk.so
+/usr/lib32/mlt/libmltjackrack.so
+/usr/lib32/mlt/libmltkdenlive.so
+/usr/lib32/mlt/libmltmotion_est.so
+/usr/lib32/mlt/libmltnormalize.so
+/usr/lib32/mlt/libmltoldfilm.so
+/usr/lib32/mlt/libmltopengl.so
+/usr/lib32/mlt/libmltplus.so
+/usr/lib32/mlt/libmltplusgpl.so
+/usr/lib32/mlt/libmltqt.so
+/usr/lib32/mlt/libmltresample.so
+/usr/lib32/mlt/libmltrtaudio.so
+/usr/lib32/mlt/libmltsdl.so
+/usr/lib32/mlt/libmltsdl2.so
+/usr/lib32/mlt/libmltsox.so
+/usr/lib32/mlt/libmltvideostab.so
+/usr/lib32/mlt/libmltvidstab.so
+/usr/lib32/mlt/libmltvmfx.so
+/usr/lib32/mlt/libmltvorbis.so
+/usr/lib32/mlt/libmltxine.so
+/usr/lib32/mlt/libmltxml.so

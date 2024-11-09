@@ -1,0 +1,15 @@
+/usr/bin/gntp
+/usr/lib/python3.12/site-packages/gntp-1.0.3-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/gntp-1.0.3-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/gntp-1.0.3-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/gntp-1.0.3-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/gntp-1.0.3-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/gntp/__init__.py
+/usr/lib/python3.12/site-packages/gntp/cli.py
+/usr/lib/python3.12/site-packages/gntp/config.py
+/usr/lib/python3.12/site-packages/gntp/core.py
+/usr/lib/python3.12/site-packages/gntp/errors.py
+/usr/lib/python3.12/site-packages/gntp/notifier.py
+/usr/lib/python3.12/site-packages/gntp/shim.py
+/usr/lib/python3.12/site-packages/gntp/version.py
+/usr/share/licenses/python3-gntp/LICENSE

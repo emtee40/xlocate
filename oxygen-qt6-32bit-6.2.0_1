@@ -1,0 +1,8 @@
+/usr/lib32/liboxygenstyle6.so.6 -> /usr/lib32/liboxygenstyle6.so.6.2.0
+/usr/lib32/liboxygenstyle6.so.6.2.0
+/usr/lib32/liboxygenstyleconfig6.so.6 -> /usr/lib32/liboxygenstyleconfig6.so.6.2.0
+/usr/lib32/liboxygenstyleconfig6.so.6.2.0
+/usr/lib32/qt6/plugins/kstyle_config/kstyle_oxygen_config.so
+/usr/lib32/qt6/plugins/org.kde.kdecoration2.kcm/kcm_oxygendecoration.so
+/usr/lib32/qt6/plugins/org.kde.kdecoration2/org.kde.oxygen.so
+/usr/lib32/qt6/plugins/styles/oxygen6.so

@@ -1,0 +1,3 @@
+/usr/lib32/libxlsreader.a
+/usr/lib32/libxlsreader.so -> /usr/lib32/libxlsreader.so.8.0.2
+/usr/lib32/pkgconfig/libxls.pc

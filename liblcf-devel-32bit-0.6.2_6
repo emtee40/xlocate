@@ -1,0 +1,3 @@
+/usr/lib32/liblcf.a
+/usr/lib32/liblcf.so -> /usr/lib32/liblcf.so.0.0.0
+/usr/lib32/pkgconfig/liblcf.pc

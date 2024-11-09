@@ -1,0 +1,12 @@
+/usr/lib32/libbfd.a
+/usr/lib32/libbfd.so
+/usr/lib32/libctf-nobfd.a
+/usr/lib32/libctf-nobfd.so -> /usr/lib32/libctf-nobfd.so.0.0.0
+/usr/lib32/libctf.a
+/usr/lib32/libctf.so -> /usr/lib32/libctf.so.0.0.0
+/usr/lib32/libgprofng.a
+/usr/lib32/libgprofng.so -> /usr/lib32/libgprofng.so.0.0.0
+/usr/lib32/libopcodes.a
+/usr/lib32/libopcodes.so
+/usr/lib32/libsframe.a
+/usr/lib32/libsframe.so -> /usr/lib32/libsframe.so.1.0.0

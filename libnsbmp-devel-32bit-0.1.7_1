@@ -1,0 +1,3 @@
+/usr/lib32/libnsbmp.a
+/usr/lib32/libnsbmp.so -> /usr/lib32/libnsbmp.so.0.1.7
+/usr/lib32/pkgconfig/libnsbmp.pc

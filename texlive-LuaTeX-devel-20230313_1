@@ -1,0 +1,17 @@
+/usr/include/texlua53/lauxlib.h
+/usr/include/texlua53/lua.h
+/usr/include/texlua53/lua.hpp
+/usr/include/texlua53/luaconf.h
+/usr/include/texlua53/lualib.h
+/usr/include/texluajit/lauxlib.h
+/usr/include/texluajit/lua.h
+/usr/include/texluajit/lua.hpp
+/usr/include/texluajit/luaconf.h
+/usr/include/texluajit/luajit.h
+/usr/include/texluajit/lualib.h
+/usr/lib/libtexlua53.a
+/usr/lib/libtexlua53.so -> /usr/lib/libtexlua53.so.5.3.6
+/usr/lib/libtexluajit.a
+/usr/lib/libtexluajit.so -> /usr/lib/libtexluajit.so.2.1.0
+/usr/lib/pkgconfig/texlua53.pc
+/usr/lib/pkgconfig/texluajit.pc

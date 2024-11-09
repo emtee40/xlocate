@@ -1,0 +1,15 @@
+/usr/bin/icc2ps
+/usr/bin/icclink
+/usr/bin/icctrans
+/usr/bin/jpegicc
+/usr/bin/tiffdiff
+/usr/bin/tifficc
+/usr/bin/wtpt
+/usr/lib/liblcms.so.1 -> /usr/lib/liblcms.so.1.0.19
+/usr/lib/liblcms.so.1.0.19
+/usr/share/licenses/lcms/COPYING
+/usr/share/man/man1/icc2ps.1
+/usr/share/man/man1/icclink.1
+/usr/share/man/man1/jpegicc.1
+/usr/share/man/man1/tifficc.1
+/usr/share/man/man1/wtpt.1

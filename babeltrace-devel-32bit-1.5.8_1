@@ -1,0 +1,14 @@
+/usr/lib32/libbabeltrace-ctf-metadata.a
+/usr/lib32/libbabeltrace-ctf-metadata.so -> /usr/lib32/libbabeltrace-ctf-metadata.so.1.0.0
+/usr/lib32/libbabeltrace-ctf-text.a
+/usr/lib32/libbabeltrace-ctf-text.so -> /usr/lib32/libbabeltrace-ctf-text.so.1.0.0
+/usr/lib32/libbabeltrace-ctf.a
+/usr/lib32/libbabeltrace-ctf.so -> /usr/lib32/libbabeltrace-ctf.so.1.0.0
+/usr/lib32/libbabeltrace-dummy.a
+/usr/lib32/libbabeltrace-dummy.so -> /usr/lib32/libbabeltrace-dummy.so.1.0.0
+/usr/lib32/libbabeltrace-lttng-live.a
+/usr/lib32/libbabeltrace-lttng-live.so -> /usr/lib32/libbabeltrace-lttng-live.so.1.0.0
+/usr/lib32/libbabeltrace.a
+/usr/lib32/libbabeltrace.so -> /usr/lib32/libbabeltrace.so.1.0.0
+/usr/lib32/pkgconfig/babeltrace-ctf.pc
+/usr/lib32/pkgconfig/babeltrace.pc

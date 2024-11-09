@@ -1,0 +1,17 @@
+/usr/bin/hlint
+/usr/share/hlint/data/HLint_QuickCheck.hs
+/usr/share/hlint/data/HLint_TypeCheck.hs
+/usr/share/hlint/data/Shake.txt
+/usr/share/hlint/data/Test.hs
+/usr/share/hlint/data/default.yaml
+/usr/share/hlint/data/hlint-restrict-extensions.yaml
+/usr/share/hlint/data/hlint.1
+/usr/share/hlint/data/hlint.ghci
+/usr/share/hlint/data/hlint.yaml
+/usr/share/hlint/data/hs-lint.el
+/usr/share/hlint/data/report_template.html
+/usr/share/hlint/data/test-restrict.yaml
+/usr/share/hlint/data/wildcard-import.yaml
+/usr/share/hlint/data/wildcard.yaml
+/usr/share/licenses/hlint/LICENSE
+/usr/share/man/man1/hlint.1

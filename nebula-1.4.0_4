@@ -1,0 +1,8 @@
+/etc/sv/nebula/log/run
+/etc/sv/nebula/log/supervise -> /run/runit/supervise.nebula-log
+/etc/sv/nebula/run
+/etc/sv/nebula/supervise -> /run/runit/supervise.nebula
+/usr/bin/nebula
+/usr/bin/nebula-cert
+/usr/share/examples/nebula/config.yml
+/usr/share/licenses/nebula/LICENSE

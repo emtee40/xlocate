@@ -1,0 +1,6 @@
+/usr/include/luv/lhandle.h
+/usr/include/luv/lreq.h
+/usr/include/luv/luv.h
+/usr/include/luv/util.h
+/usr/lib/libluv.so -> /usr/lib/libluv.so.1
+/usr/lib/pkgconfig/libluv.pc

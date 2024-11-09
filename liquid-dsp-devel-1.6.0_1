@@ -1,0 +1,3 @@
+/usr/include/liquid/liquid.h
+/usr/lib/libliquid.a
+/usr/lib/libliquid.so -> /usr/lib/libliquid.so.1.6

@@ -1,0 +1,12 @@
+/usr/lib32/libhidrd_fmt.a
+/usr/lib32/libhidrd_fmt.so -> /usr/lib32/libhidrd_fmt.so.0.0.0
+/usr/lib32/libhidrd_item.a
+/usr/lib32/libhidrd_item.so -> /usr/lib32/libhidrd_item.so.0.0.0
+/usr/lib32/libhidrd_opt.a
+/usr/lib32/libhidrd_opt.so -> /usr/lib32/libhidrd_opt.so.0.0.0
+/usr/lib32/libhidrd_strm.a
+/usr/lib32/libhidrd_strm.so -> /usr/lib32/libhidrd_strm.so.0.0.0
+/usr/lib32/libhidrd_usage.a
+/usr/lib32/libhidrd_usage.so -> /usr/lib32/libhidrd_usage.so.0.0.0
+/usr/lib32/libhidrd_util.a
+/usr/lib32/libhidrd_util.so -> /usr/lib32/libhidrd_util.so.0.0.0

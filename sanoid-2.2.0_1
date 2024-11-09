@@ -1,0 +1,7 @@
+/etc/sanoid/sanoid.conf
+/etc/sanoid/sanoid.defaults.conf
+/usr/bin/findoid
+/usr/bin/sanoid
+/usr/bin/syncoid
+/usr/share/doc/sanoid/README.md
+/usr/share/doc/sanoid/README.voidlinux

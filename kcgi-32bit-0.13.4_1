@@ -1,0 +1,20 @@
+/usr/lib32/libkcgi.a
+/usr/lib32/libkcgi.so -> /usr/lib32/libkcgi.so.1
+/usr/lib32/libkcgi.so.1
+/usr/lib32/libkcgihtml.a
+/usr/lib32/libkcgihtml.so -> /usr/lib32/libkcgihtml.so.1
+/usr/lib32/libkcgihtml.so.1
+/usr/lib32/libkcgijson.a
+/usr/lib32/libkcgijson.so -> /usr/lib32/libkcgijson.so.1
+/usr/lib32/libkcgijson.so.1
+/usr/lib32/libkcgiregress.a
+/usr/lib32/libkcgiregress.so -> /usr/lib32/libkcgiregress.so.1
+/usr/lib32/libkcgiregress.so.1
+/usr/lib32/libkcgixml.a
+/usr/lib32/libkcgixml.so -> /usr/lib32/libkcgixml.so.1
+/usr/lib32/libkcgixml.so.1
+/usr/lib32/pkgconfig/kcgi-html.pc
+/usr/lib32/pkgconfig/kcgi-json.pc
+/usr/lib32/pkgconfig/kcgi-regress.pc
+/usr/lib32/pkgconfig/kcgi-xml.pc
+/usr/lib32/pkgconfig/kcgi.pc

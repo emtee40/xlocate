@@ -1,0 +1,9 @@
+/usr/include/gjs-1.0/gjs/context.h
+/usr/include/gjs-1.0/gjs/coverage.h
+/usr/include/gjs-1.0/gjs/error-types.h
+/usr/include/gjs-1.0/gjs/gjs.h
+/usr/include/gjs-1.0/gjs/macros.h
+/usr/include/gjs-1.0/gjs/mem.h
+/usr/include/gjs-1.0/gjs/profiler.h
+/usr/lib/libgjs.so -> /usr/lib/libgjs.so.0
+/usr/lib/pkgconfig/gjs-1.0.pc

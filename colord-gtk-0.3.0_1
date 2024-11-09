@@ -1,0 +1,8 @@
+/usr/bin/cd-convert
+/usr/lib/girepository-1.0/ColordGtk-1.0.typelib
+/usr/lib/libcolord-gtk.so.1 -> /usr/lib/libcolord-gtk.so.1.0.3
+/usr/lib/libcolord-gtk.so.1.0.3
+/usr/lib/libcolord-gtk4.so.1 -> /usr/lib/libcolord-gtk4.so.1.0.3
+/usr/lib/libcolord-gtk4.so.1.0.3
+/usr/share/locale/en_GB/LC_MESSAGES/colord-gtk.mo
+/usr/share/man/man1/cd-convert.1

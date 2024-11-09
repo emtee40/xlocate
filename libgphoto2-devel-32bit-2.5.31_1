@@ -1,0 +1,4 @@
+/usr/lib32/libgphoto2.so -> /usr/lib32/libgphoto2.so.6.3.0
+/usr/lib32/libgphoto2_port.so -> /usr/lib32/libgphoto2_port.so.12.2.0
+/usr/lib32/pkgconfig/libgphoto2.pc
+/usr/lib32/pkgconfig/libgphoto2_port.pc

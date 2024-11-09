@@ -1,0 +1,12 @@
+/usr/lib32/pragha/plugins/cdrom/libcdrom.so
+/usr/lib32/pragha/plugins/devices/libdeviceclient.so.0 -> /usr/lib32/pragha/plugins/devices/libdeviceclient.so.0.0.0
+/usr/lib32/pragha/plugins/devices/libdeviceclient.so.0.0.0
+/usr/lib32/pragha/plugins/devices/libdevices.so
+/usr/lib32/pragha/plugins/dlna-renderer/libpdlnarenderer.so
+/usr/lib32/pragha/plugins/gnome-media-keys/libgnome-media-keys.so
+/usr/lib32/pragha/plugins/keybinder/libkeybinder.so
+/usr/lib32/pragha/plugins/mpris2/libmpris2.so
+/usr/lib32/pragha/plugins/mtp/libpmtp.so
+/usr/lib32/pragha/plugins/notify/libnotify.so
+/usr/lib32/pragha/plugins/removable/libremovable.so
+/usr/lib32/pragha/plugins/song-info/libsong-info.so

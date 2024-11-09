@@ -1,0 +1,10 @@
+/usr/share/man/man3/HTTP::Entity::Parser.3p
+/usr/share/man/man3/HTTP::Entity::Parser::JSON.3p
+/usr/share/man/man3/HTTP::Entity::Parser::MultiPart.3p
+/usr/share/man/man3/HTTP::Entity::Parser::OctetStream.3p
+/usr/share/man/man3/HTTP::Entity::Parser::UrlEncoded.3p
+/usr/share/perl5/vendor_perl/HTTP/Entity/Parser.pm
+/usr/share/perl5/vendor_perl/HTTP/Entity/Parser/JSON.pm
+/usr/share/perl5/vendor_perl/HTTP/Entity/Parser/MultiPart.pm
+/usr/share/perl5/vendor_perl/HTTP/Entity/Parser/OctetStream.pm
+/usr/share/perl5/vendor_perl/HTTP/Entity/Parser/UrlEncoded.pm

@@ -1,0 +1,6 @@
+/usr/include/libraw1394/csr.h
+/usr/include/libraw1394/ieee1394.h
+/usr/include/libraw1394/raw1394.h
+/usr/lib/libraw1394.a
+/usr/lib/libraw1394.so -> /usr/lib/libraw1394.so.11.1.0
+/usr/lib/pkgconfig/libraw1394.pc

@@ -1,0 +1,65 @@
+/usr/lib/gbm/nvidia-drm_gbm.so -> /usr/lib/libnvidia-allocator.so.550.127.05
+/usr/lib/libEGL_nvidia.so.0 -> /usr/lib/libEGL_nvidia.so.550.127.05
+/usr/lib/libEGL_nvidia.so.550.127.05
+/usr/lib/libGLESv1_CM_nvidia.so.1 -> /usr/lib/libGLESv1_CM_nvidia.so.550.127.05
+/usr/lib/libGLESv1_CM_nvidia.so.550.127.05
+/usr/lib/libGLESv2_nvidia.so.2 -> /usr/lib/libGLESv2_nvidia.so.550.127.05
+/usr/lib/libGLESv2_nvidia.so.550.127.05
+/usr/lib/libGLX_indirect.so.0 -> /usr/lib/libGLX_nvidia.so.550.127.05
+/usr/lib/libGLX_nvidia.so.0 -> /usr/lib/libGLX_nvidia.so.550.127.05
+/usr/lib/libGLX_nvidia.so.550.127.05
+/usr/lib/libcuda.so -> /usr/lib/libcuda.so.550.127.05
+/usr/lib/libcuda.so.1 -> /usr/lib/libcuda.so.550.127.05
+/usr/lib/libcuda.so.550.127.05
+/usr/lib/libnvcuvid.so -> /usr/lib/libnvcuvid.so.550.127.05
+/usr/lib/libnvcuvid.so.1 -> /usr/lib/libnvcuvid.so.550.127.05
+/usr/lib/libnvcuvid.so.550.127.05
+/usr/lib/libnvidia-allocator.so -> /usr/lib/libnvidia-allocator.so.1
+/usr/lib/libnvidia-allocator.so.1 -> /usr/lib/libnvidia-allocator.so.550.127.05
+/usr/lib/libnvidia-allocator.so.550.127.05
+/usr/lib/libnvidia-api.so.1
+/usr/lib/libnvidia-cfg.so -> /usr/lib/libnvidia-cfg.so.550.127.05
+/usr/lib/libnvidia-cfg.so.1 -> /usr/lib/libnvidia-cfg.so.550.127.05
+/usr/lib/libnvidia-cfg.so.550.127.05
+/usr/lib/libnvidia-egl-gbm.so.1 -> /usr/lib/libnvidia-egl-gbm.so.1.1.1
+/usr/lib/libnvidia-egl-gbm.so.1.1.1
+/usr/lib/libnvidia-egl-wayland.so.1 -> /usr/lib/libnvidia-egl-wayland.so.1.1.13
+/usr/lib/libnvidia-egl-wayland.so.1.1.13
+/usr/lib/libnvidia-eglcore.so.550.127.05
+/usr/lib/libnvidia-encode.so -> /usr/lib/libnvidia-encode.so.550.127.05
+/usr/lib/libnvidia-encode.so.1 -> /usr/lib/libnvidia-encode.so.550.127.05
+/usr/lib/libnvidia-encode.so.550.127.05
+/usr/lib/libnvidia-fbc.so -> /usr/lib/libnvidia-fbc.so.550.127.05
+/usr/lib/libnvidia-fbc.so.1 -> /usr/lib/libnvidia-fbc.so.550.127.05
+/usr/lib/libnvidia-fbc.so.550.127.05
+/usr/lib/libnvidia-glcore.so.550.127.05
+/usr/lib/libnvidia-glsi.so.550.127.05
+/usr/lib/libnvidia-glvkspirv.so.550.127.05
+/usr/lib/libnvidia-gpucomp.so.550.127.05
+/usr/lib/libnvidia-ml.so -> /usr/lib/libnvidia-ml.so.550.127.05
+/usr/lib/libnvidia-ml.so.1 -> /usr/lib/libnvidia-ml.so.550.127.05
+/usr/lib/libnvidia-ml.so.550.127.05
+/usr/lib/libnvidia-ngx.so -> /usr/lib/libnvidia-ngx.so.1
+/usr/lib/libnvidia-ngx.so.1 -> /usr/lib/libnvidia-ngx.so.550.127.05
+/usr/lib/libnvidia-ngx.so.550.127.05
+/usr/lib/libnvidia-nvvm.so.4 -> /usr/lib/libnvidia-nvvm.so.550.127.05
+/usr/lib/libnvidia-nvvm.so.550.127.05
+/usr/lib/libnvidia-opticalflow.so -> /usr/lib/libnvidia-opticalflow.so.550.127.05
+/usr/lib/libnvidia-opticalflow.so.1 -> /usr/lib/libnvidia-opticalflow.so.550.127.05
+/usr/lib/libnvidia-opticalflow.so.550.127.05
+/usr/lib/libnvidia-ptxjitcompiler.so -> /usr/lib/libnvidia-ptxjitcompiler.so.1
+/usr/lib/libnvidia-ptxjitcompiler.so.1 -> /usr/lib/libnvidia-ptxjitcompiler.so.550.127.05
+/usr/lib/libnvidia-ptxjitcompiler.so.550.127.05
+/usr/lib/libnvidia-rtcore.so.550.127.05
+/usr/lib/libnvidia-tls.so.550.127.05
+/usr/lib/libnvoptix.so -> /usr/lib/libnvoptix.so.550.127.05
+/usr/lib/libnvoptix.so.1 -> /usr/lib/libnvoptix.so.550.127.05
+/usr/lib/libnvoptix.so.550.127.05
+/usr/lib/nvidia/wine/_nvngx.dll
+/usr/lib/nvidia/wine/nvngx.dll
+/usr/lib/nvidia/xorg/libglxserver_nvidia.so -> /usr/lib/nvidia/xorg/libglxserver_nvidia.so.550.127.05
+/usr/lib/nvidia/xorg/libglxserver_nvidia.so.1 -> /usr/lib/nvidia/xorg/libglxserver_nvidia.so.550.127.05
+/usr/lib/nvidia/xorg/libglxserver_nvidia.so.550.127.05
+/usr/lib/vdpau/libvdpau_nvidia.so.1 -> /usr/lib/vdpau/libvdpau_nvidia.so.550.127.05
+/usr/lib/vdpau/libvdpau_nvidia.so.550.127.05
+/usr/lib/xorg/modules/drivers/nvidia_drv.so

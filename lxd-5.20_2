@@ -1,0 +1,15 @@
+/etc/sv/lxd/check
+/etc/sv/lxd/log/run
+/etc/sv/lxd/log/supervise -> /run/runit/supervise.lxd-log
+/etc/sv/lxd/run
+/etc/sv/lxd/supervise -> /run/runit/supervise.lxd
+/usr/bin/fuidshift
+/usr/bin/lxc
+/usr/bin/lxc-to-lxd
+/usr/bin/lxd
+/usr/bin/lxd-agent
+/usr/bin/lxd-benchmark
+/usr/bin/lxd-migrate
+/usr/bin/lxd-user
+/usr/share/bash-completion/completions/lxd
+/usr/share/doc/lxd/README.voidlinux

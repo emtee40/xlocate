@@ -1,0 +1,7 @@
+/etc/sv/sklogw/finish
+/etc/sv/sklogw/log/run
+/etc/sv/sklogw/log/supervise -> /run/runit/supervise.sklogw-log
+/etc/sv/sklogw/run
+/etc/sv/sklogw/supervise -> /run/runit/supervise.sklogw
+/usr/bin/sklogw
+/usr/share/licenses/sklogw/LICENSE

@@ -1,0 +1,184 @@
+/usr/include/rump/netconfig.h
+/usr/include/rump/rump.h
+/usr/include/rump/rump_namei.h
+/usr/include/rump/rump_syscalls.h
+/usr/include/rump/rump_syscalls_compat.h
+/usr/include/rump/rumpclient.h
+/usr/include/rump/rumpdefs.h
+/usr/include/rump/rumperr.h
+/usr/include/rump/rumpkern_if_pub.h
+/usr/include/rump/rumpnet_if_pub.h
+/usr/include/rump/rumpuser.h
+/usr/include/rump/rumpuser_component.h
+/usr/include/rump/rumpuser_port.h
+/usr/include/rump/rumpvfs_if_pub.h
+/usr/include/rump/rumpvnode_if.h
+/usr/lib/librump.a
+/usr/lib/librump.so -> /usr/lib/librump.so.0.0
+/usr/lib/librumpclient.a
+/usr/lib/librumpclient.so -> /usr/lib/librumpclient.so.0.0
+/usr/lib/librumpdev.a
+/usr/lib/librumpdev.so -> /usr/lib/librumpdev.so.0.0
+/usr/lib/librumpdev_audio.a
+/usr/lib/librumpdev_audio.so -> /usr/lib/librumpdev_audio.so.0.0
+/usr/lib/librumpdev_bpf.a
+/usr/lib/librumpdev_bpf.so -> /usr/lib/librumpdev_bpf.so.0.0
+/usr/lib/librumpdev_cgd.a
+/usr/lib/librumpdev_cgd.so -> /usr/lib/librumpdev_cgd.so.0.0
+/usr/lib/librumpdev_disk.a
+/usr/lib/librumpdev_disk.so -> /usr/lib/librumpdev_disk.so.0.0
+/usr/lib/librumpdev_dm.a
+/usr/lib/librumpdev_dm.so -> /usr/lib/librumpdev_dm.so.0.0
+/usr/lib/librumpdev_drvctl.a
+/usr/lib/librumpdev_drvctl.so -> /usr/lib/librumpdev_drvctl.so.0.0
+/usr/lib/librumpdev_fss.a
+/usr/lib/librumpdev_fss.so -> /usr/lib/librumpdev_fss.so.0.0
+/usr/lib/librumpdev_md.a
+/usr/lib/librumpdev_md.so -> /usr/lib/librumpdev_md.so.0.0
+/usr/lib/librumpdev_netsmb.a
+/usr/lib/librumpdev_netsmb.so -> /usr/lib/librumpdev_netsmb.so.0.0
+/usr/lib/librumpdev_opencrypto.a
+/usr/lib/librumpdev_opencrypto.so -> /usr/lib/librumpdev_opencrypto.so.0.0
+/usr/lib/librumpdev_pad.a
+/usr/lib/librumpdev_pad.so -> /usr/lib/librumpdev_pad.so.0.0
+/usr/lib/librumpdev_pud.a
+/usr/lib/librumpdev_pud.so -> /usr/lib/librumpdev_pud.so.0.0
+/usr/lib/librumpdev_putter.a
+/usr/lib/librumpdev_putter.so -> /usr/lib/librumpdev_putter.so.0.0
+/usr/lib/librumpdev_raidframe.a
+/usr/lib/librumpdev_raidframe.so -> /usr/lib/librumpdev_raidframe.so.0.0
+/usr/lib/librumpdev_rnd.a
+/usr/lib/librumpdev_rnd.so -> /usr/lib/librumpdev_rnd.so.0.0
+/usr/lib/librumpdev_scsipi.a
+/usr/lib/librumpdev_scsipi.so -> /usr/lib/librumpdev_scsipi.so.0.0
+/usr/lib/librumpdev_sysmon.a
+/usr/lib/librumpdev_sysmon.so -> /usr/lib/librumpdev_sysmon.so.0.0
+/usr/lib/librumpdev_ubt.a
+/usr/lib/librumpdev_ubt.so -> /usr/lib/librumpdev_ubt.so.0.0
+/usr/lib/librumpdev_ucom.a
+/usr/lib/librumpdev_ucom.so -> /usr/lib/librumpdev_ucom.so.0.0
+/usr/lib/librumpdev_ugenhc.a
+/usr/lib/librumpdev_ugenhc.so -> /usr/lib/librumpdev_ugenhc.so.0.0
+/usr/lib/librumpdev_ulpt.a
+/usr/lib/librumpdev_ulpt.so -> /usr/lib/librumpdev_ulpt.so.0.0
+/usr/lib/librumpdev_umass.a
+/usr/lib/librumpdev_umass.so -> /usr/lib/librumpdev_umass.so.0.0
+/usr/lib/librumpdev_usb.a
+/usr/lib/librumpdev_usb.so -> /usr/lib/librumpdev_usb.so.0.0
+/usr/lib/librumpdev_wscons.a
+/usr/lib/librumpdev_wscons.so -> /usr/lib/librumpdev_wscons.so.0.0
+/usr/lib/librumpfs_cd9660.a
+/usr/lib/librumpfs_cd9660.so -> /usr/lib/librumpfs_cd9660.so.0.0
+/usr/lib/librumpfs_efs.a
+/usr/lib/librumpfs_efs.so -> /usr/lib/librumpfs_efs.so.0.0
+/usr/lib/librumpfs_ext2fs.a
+/usr/lib/librumpfs_ext2fs.so -> /usr/lib/librumpfs_ext2fs.so.0.0
+/usr/lib/librumpfs_fdesc.a
+/usr/lib/librumpfs_fdesc.so -> /usr/lib/librumpfs_fdesc.so.0.0
+/usr/lib/librumpfs_ffs.a
+/usr/lib/librumpfs_ffs.so -> /usr/lib/librumpfs_ffs.so.0.0
+/usr/lib/librumpfs_hfs.a
+/usr/lib/librumpfs_hfs.so -> /usr/lib/librumpfs_hfs.so.0.0
+/usr/lib/librumpfs_kernfs.a
+/usr/lib/librumpfs_kernfs.so -> /usr/lib/librumpfs_kernfs.so.0.0
+/usr/lib/librumpfs_lfs.a
+/usr/lib/librumpfs_lfs.so -> /usr/lib/librumpfs_lfs.so.0.0
+/usr/lib/librumpfs_mfs.a
+/usr/lib/librumpfs_mfs.so -> /usr/lib/librumpfs_mfs.so.0.0
+/usr/lib/librumpfs_msdos.a
+/usr/lib/librumpfs_msdos.so -> /usr/lib/librumpfs_msdos.so.0.0
+/usr/lib/librumpfs_nfs.a
+/usr/lib/librumpfs_nfs.so -> /usr/lib/librumpfs_nfs.so.0.0
+/usr/lib/librumpfs_nfsserver.a
+/usr/lib/librumpfs_nfsserver.so -> /usr/lib/librumpfs_nfsserver.so.0.0
+/usr/lib/librumpfs_nilfs.a
+/usr/lib/librumpfs_nilfs.so -> /usr/lib/librumpfs_nilfs.so.0.0
+/usr/lib/librumpfs_ntfs.a
+/usr/lib/librumpfs_ntfs.so -> /usr/lib/librumpfs_ntfs.so.0.0
+/usr/lib/librumpfs_null.a
+/usr/lib/librumpfs_null.so -> /usr/lib/librumpfs_null.so.0.0
+/usr/lib/librumpfs_ptyfs.a
+/usr/lib/librumpfs_ptyfs.so -> /usr/lib/librumpfs_ptyfs.so.0.0
+/usr/lib/librumpfs_smbfs.a
+/usr/lib/librumpfs_smbfs.so -> /usr/lib/librumpfs_smbfs.so.0.0
+/usr/lib/librumpfs_syspuffs.a
+/usr/lib/librumpfs_syspuffs.so -> /usr/lib/librumpfs_syspuffs.so.0.0
+/usr/lib/librumpfs_sysvbfs.a
+/usr/lib/librumpfs_sysvbfs.so -> /usr/lib/librumpfs_sysvbfs.so.0.0
+/usr/lib/librumpfs_tmpfs.a
+/usr/lib/librumpfs_tmpfs.so -> /usr/lib/librumpfs_tmpfs.so.0.0
+/usr/lib/librumpfs_udf.a
+/usr/lib/librumpfs_udf.so -> /usr/lib/librumpfs_udf.so.0.0
+/usr/lib/librumpfs_umap.a
+/usr/lib/librumpfs_umap.so -> /usr/lib/librumpfs_umap.so.0.0
+/usr/lib/librumpfs_union.a
+/usr/lib/librumpfs_union.so -> /usr/lib/librumpfs_union.so.0.0
+/usr/lib/librumpfs_v7fs.a
+/usr/lib/librumpfs_v7fs.so -> /usr/lib/librumpfs_v7fs.so.0.0
+/usr/lib/librumphijack.so -> /usr/lib/librumphijack.so.0.0
+/usr/lib/librumpkern_crypto.a
+/usr/lib/librumpkern_crypto.so -> /usr/lib/librumpkern_crypto.so.0.0
+/usr/lib/librumpkern_sljit.a
+/usr/lib/librumpkern_sljit.so -> /usr/lib/librumpkern_sljit.so.0.0
+/usr/lib/librumpkern_sys_linux.a
+/usr/lib/librumpkern_sys_linux.so -> /usr/lib/librumpkern_sys_linux.so.0.0
+/usr/lib/librumpkern_time.a
+/usr/lib/librumpkern_time.so -> /usr/lib/librumpkern_time.so.0.0
+/usr/lib/librumpkern_tty.a
+/usr/lib/librumpkern_tty.so -> /usr/lib/librumpkern_tty.so.0.0
+/usr/lib/librumpkern_z.a
+/usr/lib/librumpkern_z.so -> /usr/lib/librumpkern_z.so.0.0
+/usr/lib/librumpnet.a
+/usr/lib/librumpnet.so -> /usr/lib/librumpnet.so.0.0
+/usr/lib/librumpnet_agr.a
+/usr/lib/librumpnet_agr.so -> /usr/lib/librumpnet_agr.so.0.0
+/usr/lib/librumpnet_bpfjit.a
+/usr/lib/librumpnet_bpfjit.so -> /usr/lib/librumpnet_bpfjit.so.0.0
+/usr/lib/librumpnet_bridge.a
+/usr/lib/librumpnet_bridge.so -> /usr/lib/librumpnet_bridge.so.0.0
+/usr/lib/librumpnet_config.a
+/usr/lib/librumpnet_config.so -> /usr/lib/librumpnet_config.so.0.0
+/usr/lib/librumpnet_local.a
+/usr/lib/librumpnet_local.so -> /usr/lib/librumpnet_local.so.0.0
+/usr/lib/librumpnet_net.a
+/usr/lib/librumpnet_net.so -> /usr/lib/librumpnet_net.so.0.0
+/usr/lib/librumpnet_net80211.a
+/usr/lib/librumpnet_net80211.so -> /usr/lib/librumpnet_net80211.so.0.0
+/usr/lib/librumpnet_netbt.a
+/usr/lib/librumpnet_netbt.so -> /usr/lib/librumpnet_netbt.so.0.0
+/usr/lib/librumpnet_netinet.a
+/usr/lib/librumpnet_netinet.so -> /usr/lib/librumpnet_netinet.so.0.0
+/usr/lib/librumpnet_netinet6.a
+/usr/lib/librumpnet_netinet6.so -> /usr/lib/librumpnet_netinet6.so.0.0
+/usr/lib/librumpnet_netmpls.a
+/usr/lib/librumpnet_netmpls.so -> /usr/lib/librumpnet_netmpls.so.0.0
+/usr/lib/librumpnet_npf.a
+/usr/lib/librumpnet_npf.so -> /usr/lib/librumpnet_npf.so.0.0
+/usr/lib/librumpnet_shmif.a
+/usr/lib/librumpnet_shmif.so -> /usr/lib/librumpnet_shmif.so.0.0
+/usr/lib/librumpnet_sockin.a
+/usr/lib/librumpnet_sockin.so -> /usr/lib/librumpnet_sockin.so.0.0
+/usr/lib/librumpnet_virtif.a
+/usr/lib/librumpnet_virtif.so -> /usr/lib/librumpnet_virtif.so.0.0
+/usr/lib/librumpuser.a
+/usr/lib/librumpuser.so -> /usr/lib/librumpuser.so.0.1
+/usr/lib/librumpvfs.a
+/usr/lib/librumpvfs.so -> /usr/lib/librumpvfs.so.0.0
+/usr/lib/librumpvfs_aio.a
+/usr/lib/librumpvfs_aio.so -> /usr/lib/librumpvfs_aio.so.0.0
+/usr/lib/librumpvfs_fifofs.a
+/usr/lib/librumpvfs_fifofs.so -> /usr/lib/librumpvfs_fifofs.so.0.0
+/usr/lib/librumpvfs_layerfs.a
+/usr/lib/librumpvfs_layerfs.so -> /usr/lib/librumpvfs_layerfs.so.0.0
+/usr/share/licenses/netbsd-rumpkernel/LICENSE
+/usr/share/man/man1/rump_allserver.1
+/usr/share/man/man1/rump_server.1
+/usr/share/man/man1/rump_wmd.1
+/usr/share/man/man3/rump.3
+/usr/share/man/man3/rump_etfs.3
+/usr/share/man/man3/rump_lwproc.3
+/usr/share/man/man3/rumpclient.3
+/usr/share/man/man3/rumphijack.3
+/usr/share/man/man3/rumpuser.3
+/usr/share/man/man4/rumpfs.4
+/usr/share/man/man7/rump_sp.7

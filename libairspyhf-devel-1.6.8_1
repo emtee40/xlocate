@@ -1,0 +1,6 @@
+/usr/include/libairspyhf/airspyhf.h
+/usr/include/libairspyhf/airspyhf_commands.h
+/usr/include/libairspyhf/iqbalancer.h
+/usr/lib/libairspyhf.a
+/usr/lib/libairspyhf.so -> /usr/lib/libairspyhf.so.0
+/usr/lib/pkgconfig/libairspyhf.pc

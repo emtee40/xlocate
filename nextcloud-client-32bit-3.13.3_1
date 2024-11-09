@@ -1,0 +1,7 @@
+/usr/lib32/libnextcloud_csync.so -> /usr/lib32/libnextcloud_csync.so.0
+/usr/lib32/libnextcloud_csync.so.0 -> /usr/lib32/libnextcloud_csync.so.3.13.3
+/usr/lib32/libnextcloud_csync.so.3.13.3
+/usr/lib32/libnextcloudsync.so.0 -> /usr/lib32/libnextcloudsync.so.3.13.3
+/usr/lib32/libnextcloudsync.so.3.13.3
+/usr/lib32/nextcloudsync_vfs_suffix.so
+/usr/lib32/nextcloudsync_vfs_xattr.so

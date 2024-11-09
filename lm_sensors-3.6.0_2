@@ -1,0 +1,21 @@
+/etc/sensors3.conf
+/etc/sv/fancontrol/log/run
+/etc/sv/fancontrol/log/supervise -> /run/runit/supervise.fancontrol-log
+/etc/sv/fancontrol/run
+/etc/sv/fancontrol/supervise -> /run/runit/supervise.fancontrol
+/usr/bin/fancontrol
+/usr/bin/isadump
+/usr/bin/isaset
+/usr/bin/pwmconfig
+/usr/bin/sensors
+/usr/bin/sensors-conf-convert
+/usr/bin/sensors-detect
+/usr/share/man/man1/sensors.1
+/usr/share/man/man5/sensors.conf.5
+/usr/share/man/man5/sensors3.conf.5 -> /usr/share/man/man5/sensors.conf.5
+/usr/share/man/man8/fancontrol.8
+/usr/share/man/man8/isadump.8
+/usr/share/man/man8/isaset.8
+/usr/share/man/man8/pwmconfig.8
+/usr/share/man/man8/sensors-conf-convert.8
+/usr/share/man/man8/sensors-detect.8

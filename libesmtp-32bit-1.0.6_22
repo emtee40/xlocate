@@ -1,0 +1,5 @@
+/usr/lib32/esmtp-plugins/sasl-cram-md5.so
+/usr/lib32/esmtp-plugins/sasl-login.so
+/usr/lib32/esmtp-plugins/sasl-plain.so
+/usr/lib32/libesmtp.so.6 -> /usr/lib32/libesmtp.so.6.1.6
+/usr/lib32/libesmtp.so.6.1.6

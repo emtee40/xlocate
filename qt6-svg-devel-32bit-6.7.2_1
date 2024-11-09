@@ -1,0 +1,4 @@
+/usr/lib32/libQt6Svg.so -> /usr/lib32/libQt6Svg.so.6
+/usr/lib32/libQt6SvgWidgets.so -> /usr/lib32/libQt6SvgWidgets.so.6
+/usr/lib32/pkgconfig/Qt6Svg.pc
+/usr/lib32/pkgconfig/Qt6SvgWidgets.pc

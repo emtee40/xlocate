@@ -1,0 +1,10 @@
+/etc/sv/iio-sensor-proxy/log/run
+/etc/sv/iio-sensor-proxy/log/supervise -> /run/runit/supervise.iio-sensor-proxy-log
+/etc/sv/iio-sensor-proxy/run
+/etc/sv/iio-sensor-proxy/supervise -> /run/runit/supervise.iio-sensor-proxy
+/usr/bin/monitor-sensor
+/usr/lib/systemd/system/iio-sensor-proxy.service
+/usr/lib/udev/rules.d/80-iio-sensor-proxy.rules
+/usr/libexec/iio-sensor-proxy
+/usr/share/dbus-1/system.d/net.hadess.SensorProxy.conf
+/usr/share/polkit-1/actions/net.hadess.SensorProxy.policy

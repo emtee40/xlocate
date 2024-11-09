@@ -1,0 +1,29 @@
+/etc/glider/config
+/etc/glider/rules.d/direct.rule.example
+/etc/glider/rules.d/office.list.example
+/etc/glider/rules.d/office.rule.example
+/etc/glider/rules.d/reject.rule.example
+/etc/sv/glider/log/run
+/etc/sv/glider/log/supervise -> /run/runit/supervise.glider-log
+/etc/sv/glider/run
+/etc/sv/glider/supervise -> /run/runit/supervise.glider
+/usr/bin/glider
+/usr/share/examples/glider/1.simple_proxy_service/glider.conf
+/usr/share/examples/glider/2.one_forwarder/glider.conf
+/usr/share/examples/glider/3.forward_chain/glider.conf
+/usr/share/examples/glider/4.multiple_forwarders/glider.conf
+/usr/share/examples/glider/5.rule_default_direct/glider.conf
+/usr/share/examples/glider/5.rule_default_direct/office.rule
+/usr/share/examples/glider/6.rule_default_forwarder/bypass.rule
+/usr/share/examples/glider/6.rule_default_forwarder/glider.conf
+/usr/share/examples/glider/7.rule_multiple_rule_files/glider.conf
+/usr/share/examples/glider/7.rule_multiple_rule_files/rules.d/home.rule
+/usr/share/examples/glider/7.rule_multiple_rule_files/rules.d/office.rule
+/usr/share/examples/glider/8.transparent_proxy_with_dnsmasq/README.md
+/usr/share/examples/glider/8.transparent_proxy_with_dnsmasq/glider.conf
+/usr/share/examples/glider/9.transparent_proxy_without_dnsmasq/README.md
+/usr/share/examples/glider/9.transparent_proxy_without_dnsmasq/glider.conf
+/usr/share/examples/glider/9.transparent_proxy_without_dnsmasq/rules.d/home.rule
+/usr/share/examples/glider/9.transparent_proxy_without_dnsmasq/rules.d/office.list
+/usr/share/examples/glider/9.transparent_proxy_without_dnsmasq/rules.d/office.rule
+/usr/share/examples/glider/README.md

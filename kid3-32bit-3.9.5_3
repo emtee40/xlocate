@@ -1,0 +1,13 @@
+/usr/lib32/kid3/libkid3-core.so
+/usr/lib32/kid3/libkid3-gui.so
+/usr/lib32/kid3/plugins/imports/Kid3/libkid3qml.so
+/usr/lib32/kid3/plugins/libacoustidimport.so
+/usr/lib32/kid3/plugins/libamazonimport.so
+/usr/lib32/kid3/plugins/libdiscogsimport.so
+/usr/lib32/kid3/plugins/libfreedbimport.so
+/usr/lib32/kid3/plugins/libid3libmetadata.so
+/usr/lib32/kid3/plugins/libmp4v2metadata.so
+/usr/lib32/kid3/plugins/libmusicbrainzimport.so
+/usr/lib32/kid3/plugins/liboggflacmetadata.so
+/usr/lib32/kid3/plugins/libqmlcommand.so
+/usr/lib32/kid3/plugins/libtaglibmetadata.so

@@ -1,0 +1,6 @@
+/usr/bin/lsar
+/usr/bin/unar
+/usr/share/bash-completion/completions/lsar
+/usr/share/bash-completion/completions/unar
+/usr/share/man/man1/lsar.1
+/usr/share/man/man1/unar.1

@@ -1,0 +1,3 @@
+/usr/lib32/librtlsdr.a
+/usr/lib32/librtlsdr.so -> /usr/lib32/librtlsdr.so.0
+/usr/lib32/pkgconfig/librtlsdr.pc

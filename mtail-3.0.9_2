@@ -1,0 +1,26 @@
+/etc/sv/mtail/log/run
+/etc/sv/mtail/log/supervise -> /run/runit/supervise.mtail-log
+/etc/sv/mtail/run
+/etc/sv/mtail/supervise -> /run/runit/supervise.mtail
+/usr/bin/mdot
+/usr/bin/mfmt
+/usr/bin/mgen
+/usr/bin/mtail
+/usr/share/emacs/site-lisp/mtail-mode.el
+/usr/share/examples/mtail/apache_combined.mtail
+/usr/share/examples/mtail/apache_common.mtail
+/usr/share/examples/mtail/apache_metrics.mtail
+/usr/share/examples/mtail/dhcpd.mtail
+/usr/share/examples/mtail/histogram.mtail
+/usr/share/examples/mtail/lighttpd.mtail
+/usr/share/examples/mtail/linecount.mtail
+/usr/share/examples/mtail/mysql_slowqueries.mtail
+/usr/share/examples/mtail/nocode.mtail
+/usr/share/examples/mtail/ntpd.mtail
+/usr/share/examples/mtail/ntpd_peerstats.mtail
+/usr/share/examples/mtail/postfix.mtail
+/usr/share/examples/mtail/rails.mtail
+/usr/share/examples/mtail/rsyncd.mtail
+/usr/share/examples/mtail/sftp.mtail
+/usr/share/examples/mtail/timer.mtail
+/usr/share/examples/mtail/vsftpd.mtail

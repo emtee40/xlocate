@@ -1,0 +1,11 @@
+/usr/lib/fortran/modules/plplot/plfortrandemolib.mod
+/usr/lib/fortran/modules/plplot/plplot.mod
+/usr/lib/fortran/modules/plplot/plplot_double.mod
+/usr/lib/fortran/modules/plplot/plplot_graphics.mod
+/usr/lib/fortran/modules/plplot/plplot_private_exposed.mod
+/usr/lib/fortran/modules/plplot/plplot_private_utilities.mod
+/usr/lib/fortran/modules/plplot/plplot_single.mod
+/usr/lib/fortran/modules/plplot/plplot_types.mod
+/usr/lib/libplplotfortran.so -> /usr/lib/libplplotfortran.so.0
+/usr/lib/libplplotfortran.so.0 -> /usr/lib/libplplotfortran.so.0.2.0
+/usr/lib/libplplotfortran.so.0.2.0

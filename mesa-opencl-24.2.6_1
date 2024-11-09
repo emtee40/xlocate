@@ -1,0 +1,15 @@
+/etc/OpenCL/vendors/mesa.icd
+/etc/OpenCL/vendors/rusticl.icd
+/usr/lib/gallium-pipe/pipe_crocus.so
+/usr/lib/gallium-pipe/pipe_i915.so
+/usr/lib/gallium-pipe/pipe_iris.so
+/usr/lib/gallium-pipe/pipe_nouveau.so
+/usr/lib/gallium-pipe/pipe_r300.so
+/usr/lib/gallium-pipe/pipe_r600.so
+/usr/lib/gallium-pipe/pipe_radeonsi.so
+/usr/lib/gallium-pipe/pipe_swrast.so
+/usr/lib/gallium-pipe/pipe_vmwgfx.so
+/usr/lib/libMesaOpenCL.so.1 -> /usr/lib/libMesaOpenCL.so.1.0.0
+/usr/lib/libMesaOpenCL.so.1.0.0
+/usr/lib/libRusticlOpenCL.so.1 -> /usr/lib/libRusticlOpenCL.so.1.0.0
+/usr/lib/libRusticlOpenCL.so.1.0.0

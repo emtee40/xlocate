@@ -1,0 +1,15 @@
+/usr/lib/python3.12/site-packages/aioinflux-0.9.0-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/aioinflux-0.9.0-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/aioinflux-0.9.0-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/aioinflux-0.9.0-py3.12.egg-info/requires.txt
+/usr/lib/python3.12/site-packages/aioinflux-0.9.0-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/aioinflux/__init__.py
+/usr/lib/python3.12/site-packages/aioinflux/client.py
+/usr/lib/python3.12/site-packages/aioinflux/compat.py
+/usr/lib/python3.12/site-packages/aioinflux/iterutils.py
+/usr/lib/python3.12/site-packages/aioinflux/serialization/__init__.py
+/usr/lib/python3.12/site-packages/aioinflux/serialization/common.py
+/usr/lib/python3.12/site-packages/aioinflux/serialization/dataframe.py
+/usr/lib/python3.12/site-packages/aioinflux/serialization/mapping.py
+/usr/lib/python3.12/site-packages/aioinflux/serialization/usertype.py
+/usr/share/licenses/python3-aioinflux/LICENSE

@@ -1,0 +1,24 @@
+/etc/signond.conf
+/usr/bin/signond
+/usr/bin/signonpluginprocess
+/usr/lib/libsignon-extension.so.1 -> /usr/lib/libsignon-extension.so.1.0.0
+/usr/lib/libsignon-extension.so.1.0 -> /usr/lib/libsignon-extension.so.1.0.0
+/usr/lib/libsignon-extension.so.1.0.0
+/usr/lib/libsignon-plugins-common.so.1 -> /usr/lib/libsignon-plugins-common.so.1.0.0
+/usr/lib/libsignon-plugins-common.so.1.0 -> /usr/lib/libsignon-plugins-common.so.1.0.0
+/usr/lib/libsignon-plugins-common.so.1.0.0
+/usr/lib/libsignon-plugins.so.1 -> /usr/lib/libsignon-plugins.so.1.0.0
+/usr/lib/libsignon-plugins.so.1.0 -> /usr/lib/libsignon-plugins.so.1.0.0
+/usr/lib/libsignon-plugins.so.1.0.0
+/usr/lib/libsignon-qt5.so.1 -> /usr/lib/libsignon-qt5.so.1.0.0
+/usr/lib/libsignon-qt5.so.1.0 -> /usr/lib/libsignon-qt5.so.1.0.0
+/usr/lib/libsignon-qt5.so.1.0.0
+/usr/lib/libsignon-qt6.so.1 -> /usr/lib/libsignon-qt6.so.1.0.0
+/usr/lib/libsignon-qt6.so.1.0 -> /usr/lib/libsignon-qt6.so.1.0.0
+/usr/lib/libsignon-qt6.so.1.0.0
+/usr/lib/signon/libexampleplugin.so
+/usr/lib/signon/libpasswordplugin.so
+/usr/lib/signon/libssotest2plugin.so
+/usr/lib/signon/libssotestplugin.so
+/usr/share/dbus-1/services/com.google.code.AccountsSSO.SingleSignOn.service
+/usr/share/dbus-1/services/com.nokia.SingleSignOn.Backup.service

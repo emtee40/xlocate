@@ -1,0 +1,4 @@
+/usr/lib32/liblinebreak.a -> /usr/lib32/libunibreak.a
+/usr/lib32/libunibreak.a
+/usr/lib32/libunibreak.so -> /usr/lib32/libunibreak.so.5.0.1
+/usr/lib32/pkgconfig/libunibreak.pc

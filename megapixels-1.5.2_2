@@ -1,0 +1,13 @@
+/usr/bin/megapixels
+/usr/bin/megapixels-camera-test
+/usr/bin/megapixels-list-devices
+/usr/share/applications/org.postmarketos.Megapixels.desktop
+/usr/share/glib-2.0/schemas/org.postmarketos.Megapixels.gschema.xml
+/usr/share/icons/hicolor/scalable/apps/org.postmarketos.Megapixels.svg
+/usr/share/megapixels/config/pine64,pinephone-1.0.ini
+/usr/share/megapixels/config/pine64,pinephone-1.1.ini
+/usr/share/megapixels/config/pine64,pinephone-1.2.ini
+/usr/share/megapixels/config/pine64,pinetab.ini
+/usr/share/megapixels/config/xiaomi,scorpio.ini
+/usr/share/megapixels/postprocess.sh
+/usr/share/metainfo/org.postmarketos.Megapixels.metainfo.xml

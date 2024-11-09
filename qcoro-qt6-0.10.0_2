@@ -1,0 +1,13 @@
+/usr/lib/libQCoro6Core.so.0 -> /usr/lib/libQCoro6Core.so.0.10.0
+/usr/lib/libQCoro6Core.so.0.10.0
+/usr/lib/libQCoro6DBus.so.0 -> /usr/lib/libQCoro6DBus.so.0.10.0
+/usr/lib/libQCoro6DBus.so.0.10.0
+/usr/lib/libQCoro6Network.so.0 -> /usr/lib/libQCoro6Network.so.0.10.0
+/usr/lib/libQCoro6Network.so.0.10.0
+/usr/lib/libQCoro6Qml.so.0 -> /usr/lib/libQCoro6Qml.so.0.10.0
+/usr/lib/libQCoro6Qml.so.0.10.0
+/usr/lib/libQCoro6Quick.so.0 -> /usr/lib/libQCoro6Quick.so.0.10.0
+/usr/lib/libQCoro6Quick.so.0.10.0
+/usr/lib/libQCoro6WebSockets.so.0 -> /usr/lib/libQCoro6WebSockets.so.0.10.0
+/usr/lib/libQCoro6WebSockets.so.0.10.0
+/usr/share/licenses/qcoro-qt6/LICENSE

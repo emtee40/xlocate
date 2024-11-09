@@ -1,0 +1,9 @@
+/usr/include/cdio/paranoia/cdda.h
+/usr/include/cdio/paranoia/paranoia.h
+/usr/include/cdio/paranoia/toc.h
+/usr/lib/libcdio_cdda.a
+/usr/lib/libcdio_cdda.so -> /usr/lib/libcdio_cdda.so.2.0.0
+/usr/lib/libcdio_paranoia.a
+/usr/lib/libcdio_paranoia.so -> /usr/lib/libcdio_paranoia.so.2.0.0
+/usr/lib/pkgconfig/libcdio_cdda.pc
+/usr/lib/pkgconfig/libcdio_paranoia.pc

@@ -1,0 +1,43 @@
+/etc/xdg/karbonrc
+/usr/bin/karbon
+/usr/lib/libkarboncommon.so -> /usr/lib/libkarboncommon.so.17
+/usr/lib/libkarboncommon.so.17 -> /usr/lib/libkarboncommon.so.17.0.0
+/usr/lib/libkarboncommon.so.17.0.0
+/usr/lib/libkarbonui.so -> /usr/lib/libkarbonui.so.17
+/usr/lib/libkarbonui.so.17 -> /usr/lib/libkarbonui.so.17.0.0
+/usr/lib/libkarbonui.so.17.0.0
+/usr/lib/libkdeinit5_karbon.so
+/usr/lib/qt5/plugins/calligra/parts/karbonpart.so
+/usr/lib/qt5/plugins/karbon/extensions/karbon_flattenpath.so
+/usr/lib/qt5/plugins/karbon/extensions/karbon_refinepath.so
+/usr/lib/qt5/plugins/karbon/extensions/karbon_roundcorners.so
+/usr/lib/qt5/plugins/karbon/extensions/karbon_whirlpinch.so
+/usr/share/applications/org.kde.karbon.desktop
+/usr/share/icons/hicolor/1024x1024/apps/calligrakarbon.png
+/usr/share/icons/hicolor/128x128/apps/calligrakarbon.png
+/usr/share/icons/hicolor/16x16/apps/calligrakarbon.png
+/usr/share/icons/hicolor/22x22/apps/calligrakarbon.png
+/usr/share/icons/hicolor/256x256/apps/calligrakarbon.png
+/usr/share/icons/hicolor/32x32/apps/calligrakarbon.png
+/usr/share/icons/hicolor/48x48/apps/calligrakarbon.png
+/usr/share/icons/hicolor/512x512/apps/calligrakarbon.png
+/usr/share/icons/hicolor/64x64/apps/calligrakarbon.png
+/usr/share/icons/hicolor/scalable/apps/calligrakarbon.svgz
+/usr/share/karbon/gradients/allcolors.kgr
+/usr/share/karbon/gradients/simple.kgr
+/usr/share/karbon/icons/hicolor/22x22/actions/effect_flatten.png
+/usr/share/karbon/icons/hicolor/22x22/actions/effect_refine.png
+/usr/share/karbon/icons/hicolor/22x22/actions/effect_roundcorners.png
+/usr/share/karbon/icons/hicolor/22x22/actions/effect_whirl.png
+/usr/share/karbon/icons/hicolor/48x48/actions/template_empty.png
+/usr/share/karbon/palettes/svg-colors.gpl
+/usr/share/karbon/plugins/FlattenPathPlugin.rc
+/usr/share/karbon/plugins/RefinePathPlugin.rc
+/usr/share/karbon/plugins/RoundCornersPlugin.rc
+/usr/share/karbon/plugins/WhirlPinchPlugin.rc
+/usr/share/karbon/templates/Basic/.directory
+/usr/share/karbon/templates/Basic/.source/empty.odg
+/usr/share/karbon/templates/Basic/empty.desktop
+/usr/share/kxmlgui5/karbon/karbon.rc
+/usr/share/kxmlgui5/karbon/karbon_readonly.rc
+/usr/share/metainfo/org.kde.karbon.appdata.xml

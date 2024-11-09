@@ -1,0 +1,6 @@
+/usr/lib/libopensc.so -> /usr/lib/libopensc.so.11.0.2
+/usr/lib/libopensc.so.11 -> /usr/lib/libopensc.so.11.0.2
+/usr/lib/libopensc.so.11.0.2
+/usr/lib/libsmm-local.so -> /usr/lib/libsmm-local.so.11.0.2
+/usr/lib/libsmm-local.so.11 -> /usr/lib/libsmm-local.so.11.0.2
+/usr/lib/libsmm-local.so.11.0.2

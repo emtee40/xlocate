@@ -1,0 +1,5 @@
+/etc/xinetd.d/talk
+/usr/bin/talk
+/usr/bin/talkd
+/usr/share/man/man1/talk.1
+/usr/share/man/man8/talkd.8

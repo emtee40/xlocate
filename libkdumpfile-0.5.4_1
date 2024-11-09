@@ -1,0 +1,18 @@
+/usr/bin/dumpattr
+/usr/bin/listxendoms
+/usr/bin/showxlat
+/usr/lib/libaddrxlat.so.3 -> /usr/lib/libaddrxlat.so.3.1.3
+/usr/lib/libaddrxlat.so.3.1.3
+/usr/lib/libkdumpfile.so.10 -> /usr/lib/libkdumpfile.so.10.1.0
+/usr/lib/libkdumpfile.so.10.1.0
+/usr/lib/python3.12/site-packages/_addrxlat.so
+/usr/lib/python3.12/site-packages/_kdumpfile.so
+/usr/lib/python3.12/site-packages/addrxlat/__init__.py
+/usr/lib/python3.12/site-packages/addrxlat/exceptions.py
+/usr/lib/python3.12/site-packages/kdumpfile/__init__.py
+/usr/lib/python3.12/site-packages/kdumpfile/exceptions.py
+/usr/lib/python3.12/site-packages/kdumpfile/views.py
+/usr/lib/python3.12/site-packages/libkdumpfile-0.5.4-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/libkdumpfile-0.5.4-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/libkdumpfile-0.5.4-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/libkdumpfile-0.5.4-py3.12.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+/usr/bin/bbl2bib -> ../share/texmf-dist/scripts/crossrefware/bbl2bib.pl
+/usr/bin/bib2gls -> /usr/share/texmf-dist/scripts/bib2gls/bib2gls.sh
+/usr/bin/bibcop -> /usr/share/texmf-dist/scripts/bibcop/bibcop.pl
+/usr/bin/bibdoiadd -> ../share/texmf-dist/scripts/crossrefware/bibdoiadd.pl
+/usr/bin/bibexport -> /usr/share/texmf-dist/scripts/bibexport/bibexport.sh
+/usr/bin/bibmradd -> ../share/texmf-dist/scripts/crossrefware/bibmradd.pl
+/usr/bin/bibtex
+/usr/bin/biburl2doi -> ../share/texmf-dist/scripts/crossrefware/biburl2doi.pl
+/usr/bin/bibzbladd -> ../share/texmf-dist/scripts/crossrefware/bibzbladd.pl
+/usr/bin/ctanbib -> ../share/texmf-dist/scripts/ctanbib/ctanbib
+/usr/share/man/man1/bibtex.1
+/usr/share/texmf-dist/scripts/bib2gls/bib2gls.sh
+/usr/share/texmf-dist/scripts/bib2gls/convertgls2bib.sh
+/usr/share/texmf-dist/scripts/bibcop/bibcop.pl
+/usr/share/texmf-dist/scripts/bibexport/bibexport.sh

@@ -1,0 +1,29 @@
+/usr/include/tinysparql-3.0/libtracker-sparql/tracker-sparql.h
+/usr/include/tinysparql-3.0/tinysparql.h
+/usr/include/tinysparql-3.0/tracker-batch.h
+/usr/include/tinysparql-3.0/tracker-connection.h
+/usr/include/tinysparql-3.0/tracker-cursor.h
+/usr/include/tinysparql-3.0/tracker-endpoint-dbus.h
+/usr/include/tinysparql-3.0/tracker-endpoint-http.h
+/usr/include/tinysparql-3.0/tracker-endpoint.h
+/usr/include/tinysparql-3.0/tracker-enums.h
+/usr/include/tinysparql-3.0/tracker-error.h
+/usr/include/tinysparql-3.0/tracker-namespace-manager.h
+/usr/include/tinysparql-3.0/tracker-notifier.h
+/usr/include/tinysparql-3.0/tracker-ontologies.h
+/usr/include/tinysparql-3.0/tracker-resource.h
+/usr/include/tinysparql-3.0/tracker-sparql-enum-types.h
+/usr/include/tinysparql-3.0/tracker-statement.h
+/usr/include/tinysparql-3.0/tracker-utils.h
+/usr/include/tinysparql-3.0/tracker-version-generated.h
+/usr/include/tinysparql-3.0/tracker-version.h
+/usr/lib/libtinysparql-3.0.so -> /usr/lib/libtinysparql-3.0.so.0
+/usr/lib/libtracker-sparql-3.0.so -> /usr/lib/libtinysparql-3.0.so
+/usr/lib/pkgconfig/tinysparql-3.0.pc
+/usr/lib/pkgconfig/tracker-sparql-3.0.pc
+/usr/share/gir-1.0/Tracker-3.0.gir
+/usr/share/gir-1.0/Tsparql-3.0.gir
+/usr/share/vala/vapi/tinysparql-3.0.deps
+/usr/share/vala/vapi/tinysparql-3.0.vapi
+/usr/share/vala/vapi/tracker-sparql-3.0.deps
+/usr/share/vala/vapi/tracker-sparql-3.0.vapi

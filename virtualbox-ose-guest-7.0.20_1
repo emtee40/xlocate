@@ -1,0 +1,12 @@
+/etc/sv/vboxservice/log/run
+/etc/sv/vboxservice/log/supervise -> /run/runit/supervise.vboxservice-log
+/etc/sv/vboxservice/run
+/etc/sv/vboxservice/supervise -> /run/runit/supervise.vboxservice
+/etc/xdg/autostart/vboxclient.desktop
+/usr/bin/VBoxClient
+/usr/bin/VBoxClient-all
+/usr/bin/VBoxControl
+/usr/bin/VBoxService
+/usr/bin/mount.vboxsf
+/usr/lib/modules-load.d/virtualbox-guest.conf
+/usr/lib/security/pam_vbox.so

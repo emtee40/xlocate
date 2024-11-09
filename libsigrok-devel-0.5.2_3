@@ -1,0 +1,11 @@
+/usr/include/libsigrok/libsigrok.h
+/usr/include/libsigrok/proto.h
+/usr/include/libsigrok/version.h
+/usr/include/libsigrokcxx/enums.hpp
+/usr/include/libsigrokcxx/libsigrokcxx.hpp
+/usr/lib/libsigrok.a
+/usr/lib/libsigrok.so -> /usr/lib/libsigrok.so.4.1.1
+/usr/lib/libsigrokcxx.a
+/usr/lib/libsigrokcxx.so -> /usr/lib/libsigrokcxx.so.4.1.1
+/usr/lib/pkgconfig/libsigrok.pc
+/usr/lib/pkgconfig/libsigrokcxx.pc

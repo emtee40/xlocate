@@ -1,0 +1,18 @@
+/usr/include/sysstat-qt6/SysStat/BaseStat
+/usr/include/sysstat-qt6/SysStat/CpuStat
+/usr/include/sysstat-qt6/SysStat/Global
+/usr/include/sysstat-qt6/SysStat/MemStat
+/usr/include/sysstat-qt6/SysStat/NetStat
+/usr/include/sysstat-qt6/SysStat/Version
+/usr/include/sysstat-qt6/basestat.h
+/usr/include/sysstat-qt6/cpustat.h
+/usr/include/sysstat-qt6/memstat.h
+/usr/include/sysstat-qt6/netstat.h
+/usr/include/sysstat-qt6/sysstat_global.h
+/usr/include/sysstat-qt6/version.h
+/usr/lib/libsysstat-qt6.so -> /usr/lib/libsysstat-qt6.so.1
+/usr/lib/pkgconfig/sysstat-qt6.pc
+/usr/share/cmake/sysstat-qt6/sysstat-qt6-config-version.cmake
+/usr/share/cmake/sysstat-qt6/sysstat-qt6-config.cmake
+/usr/share/cmake/sysstat-qt6/sysstat-qt6-targets-none.cmake
+/usr/share/cmake/sysstat-qt6/sysstat-qt6-targets.cmake

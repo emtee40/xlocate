@@ -1,0 +1,6 @@
+/usr/include/granite/granite.h
+/usr/lib/libgranite.so -> /usr/lib/libgranite.so.6
+/usr/lib/pkgconfig/granite.pc
+/usr/share/gir-1.0/Granite-1.0.gir
+/usr/share/vala/vapi/granite.deps
+/usr/share/vala/vapi/granite.vapi

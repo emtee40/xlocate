@@ -1,0 +1,15 @@
+/usr/bin/gaminggearfxcontrol
+/usr/bin/gaminggearfxinfo
+/usr/lib/libgaminggear.so.0 -> /usr/lib/libgaminggear.so.0.15.1
+/usr/lib/libgaminggear.so.0.15.1
+/usr/lib/libgaminggearfx.so.0 -> /usr/lib/libgaminggearfx.so.0.15.1
+/usr/lib/libgaminggearfx.so.0.15.1
+/usr/lib/libgaminggearwidget.so.0 -> /usr/lib/libgaminggearwidget.so.0.15.1
+/usr/lib/libgaminggearwidget.so.0.15.1
+/usr/share/libgaminggear/icons/hicolor/16x16/actions/gaminggear-link.png
+/usr/share/libgaminggear/icons/hicolor/16x16/actions/gaminggear-link_break.png
+/usr/share/libgaminggear/icons/hicolor/16x16/actions/gaminggear-press.png
+/usr/share/libgaminggear/icons/hicolor/16x16/actions/gaminggear-release.png
+/usr/share/libgaminggear/icons/hicolor/16x16/actions/gaminggear-wait.png
+/usr/share/locale/de/LC_MESSAGES/libgaminggear.mo
+/usr/share/locale/en/LC_MESSAGES/libgaminggear.mo

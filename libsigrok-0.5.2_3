@@ -1,0 +1,10 @@
+/usr/lib/libsigrok.so.4 -> /usr/lib/libsigrok.so.4.1.1
+/usr/lib/libsigrok.so.4.1.1
+/usr/lib/libsigrokcxx.so.4 -> /usr/lib/libsigrokcxx.so.4.1.1
+/usr/lib/libsigrokcxx.so.4.1.1
+/usr/lib/udev/rules.d/60-libsigrok.rules
+/usr/lib/udev/rules.d/61-libsigrok-plugdev.rules
+/usr/lib/udev/rules.d/61-libsigrok-uaccess.rules
+/usr/share/icons/hicolor/48x48/mimetypes/libsigrok.png
+/usr/share/icons/hicolor/scalable/mimetypes/libsigrok.svg
+/usr/share/mime/packages/vnd.sigrok.session.xml

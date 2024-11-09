@@ -1,0 +1,6 @@
+/usr/lib32/libjxl.so -> /usr/lib32/libjxl.so.0.10
+/usr/lib32/libjxl_cms.so -> /usr/lib32/libjxl_cms.so.0.10
+/usr/lib32/libjxl_threads.so -> /usr/lib32/libjxl_threads.so.0.10
+/usr/lib32/pkgconfig/libjxl.pc
+/usr/lib32/pkgconfig/libjxl_cms.pc
+/usr/lib32/pkgconfig/libjxl_threads.pc

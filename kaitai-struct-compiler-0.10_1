@@ -1,0 +1,9 @@
+/usr/bin/kaitai-struct-compiler
+/usr/bin/ksc -> /usr/bin/kaitai-struct-compiler
+/usr/share/java/kaitai-struct-compiler/com.github.scopt.scopt_2.12-3.6.0.jar
+/usr/share/java/kaitai-struct-compiler/com.lihaoyi.fastparse-utils_2.12-1.0.0.jar
+/usr/share/java/kaitai-struct-compiler/com.lihaoyi.fastparse_2.12-1.0.0.jar
+/usr/share/java/kaitai-struct-compiler/com.lihaoyi.sourcecode_2.12-0.1.4.jar
+/usr/share/java/kaitai-struct-compiler/io.kaitai.kaitai-struct-compiler-0.10.jar
+/usr/share/java/kaitai-struct-compiler/org.scala-lang.scala-library-2.12.12.jar
+/usr/share/java/kaitai-struct-compiler/org.yaml.snakeyaml-1.28.jar

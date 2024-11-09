@@ -1,0 +1,6 @@
+/usr/bin/dwarfdump
+/usr/bin/dwarfgen
+/usr/lib/libdwarf.so.1 -> /usr/lib/libdwarf.so.1.0.0
+/usr/lib/libdwarf.so.1.0.0
+/usr/share/dwarfdump/dwarfdump.conf
+/usr/share/man/man1/dwarfdump.1

@@ -1,0 +1,15 @@
+/usr/share/man/man3/Net::IDN::Encode.3p
+/usr/share/man/man3/Net::IDN::Overview.3p
+/usr/share/man/man3/Net::IDN::Punycode.3p
+/usr/share/man/man3/Net::IDN::Punycode::PP.3p
+/usr/share/man/man3/Net::IDN::Standards.3p
+/usr/share/man/man3/Net::IDN::UTS46.3p
+/usr/share/man/man3/Net::IDN::UTS46::_Mapping.3p
+/usr/share/perl5/vendor_perl/Net/IDN/Encode.pm
+/usr/share/perl5/vendor_perl/Net/IDN/Overview.pod
+/usr/share/perl5/vendor_perl/Net/IDN/Punycode.pm
+/usr/share/perl5/vendor_perl/Net/IDN/Punycode.xs
+/usr/share/perl5/vendor_perl/Net/IDN/Punycode/PP.pm
+/usr/share/perl5/vendor_perl/Net/IDN/Standards.pod
+/usr/share/perl5/vendor_perl/Net/IDN/UTS46.pm
+/usr/share/perl5/vendor_perl/Net/IDN/UTS46/_Mapping.pm

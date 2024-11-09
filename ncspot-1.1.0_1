@@ -1,0 +1,8 @@
+/usr/bin/ncspot
+/usr/share/applications/ncspot.desktop
+/usr/share/bash-completion/completions/ncspot
+/usr/share/fish/vendor_completions.d/ncspot.fish
+/usr/share/icons/hicolor/scalable/apps/ncspot.svg
+/usr/share/licenses/ncspot/LICENSE
+/usr/share/man/man1/ncspot.1
+/usr/share/zsh/site-functions/_ncspot

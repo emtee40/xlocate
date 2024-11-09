@@ -1,0 +1,4 @@
+/usr/bin/gpg2 -> /usr/bin/gpg
+/usr/bin/gpgv2 -> /usr/bin/gpgv
+/usr/share/doc/gnupg2 -> /usr/share/doc/gnupg
+/usr/share/examples/gnupg2 -> /usr/share/examples/gnupg

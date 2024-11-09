@@ -1,0 +1,8 @@
+/usr/lib32/libsfdo-basedir.so -> /usr/lib32/libsfdo-basedir.so.0
+/usr/lib32/libsfdo-desktop-file.so -> /usr/lib32/libsfdo-desktop-file.so.0
+/usr/lib32/libsfdo-desktop.so -> /usr/lib32/libsfdo-desktop.so.0
+/usr/lib32/libsfdo-icon.so -> /usr/lib32/libsfdo-icon.so.0
+/usr/lib32/pkgconfig/libsfdo-basedir.pc
+/usr/lib32/pkgconfig/libsfdo-desktop-file.pc
+/usr/lib32/pkgconfig/libsfdo-desktop.pc
+/usr/lib32/pkgconfig/libsfdo-icon.pc

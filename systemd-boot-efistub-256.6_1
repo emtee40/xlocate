@@ -1,0 +1,6 @@
+/usr/lib/systemd/boot/efi/linuxx64.efi.stub
+/usr/share/man/man7/linuxaa64.efi.stub.7
+/usr/share/man/man7/linuxia32.efi.stub.7
+/usr/share/man/man7/linuxx64.efi.stub.7
+/usr/share/man/man7/sd-stub.7
+/usr/share/man/man7/systemd-stub.7

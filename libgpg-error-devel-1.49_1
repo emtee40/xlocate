@@ -1,0 +1,8 @@
+/usr/bin/gpg-error-config
+/usr/bin/gpgrt-config
+/usr/include/gpg-error.h
+/usr/include/gpgrt.h
+/usr/lib/libgpg-error.so -> /usr/lib/libgpg-error.so.0.36.0
+/usr/lib/pkgconfig/gpg-error.pc
+/usr/share/aclocal/gpg-error.m4
+/usr/share/aclocal/gpgrt.m4

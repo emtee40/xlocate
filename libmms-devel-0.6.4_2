@@ -1,0 +1,8 @@
+/usr/include/libmms/mms.h
+/usr/include/libmms/mms_config.h
+/usr/include/libmms/mmsh.h
+/usr/include/libmms/mmsio.h
+/usr/include/libmms/mmsx.h
+/usr/lib/libmms.a
+/usr/lib/libmms.so -> /usr/lib/libmms.so.0.0.2
+/usr/lib/pkgconfig/libmms.pc

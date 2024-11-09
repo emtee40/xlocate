@@ -1,0 +1,11 @@
+/usr/lib32/libEGL_mesa.so -> /usr/lib32/libEGL_mesa.so.0
+/usr/lib32/libGLX_mesa.so -> /usr/lib32/libGLX_mesa.so.0
+/usr/lib32/libMesaOpenCL.so -> /usr/lib32/libMesaOpenCL.so.1
+/usr/lib32/libOSMesa.so -> /usr/lib32/libOSMesa.so.8
+/usr/lib32/libRusticlOpenCL.so -> /usr/lib32/libRusticlOpenCL.so.1
+/usr/lib32/libglapi.so -> /usr/lib32/libglapi.so.0
+/usr/lib32/libxatracker.so -> /usr/lib32/libxatracker.so.2
+/usr/lib32/pkgconfig/d3d.pc
+/usr/lib32/pkgconfig/dri.pc
+/usr/lib32/pkgconfig/osmesa.pc
+/usr/lib32/pkgconfig/xatracker.pc

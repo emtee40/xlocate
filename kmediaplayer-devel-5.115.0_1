@@ -1,0 +1,11 @@
+/usr/include/KF5/KMediaPlayer/KMediaPlayer/Player
+/usr/include/KF5/KMediaPlayer/KMediaPlayer/View
+/usr/include/KF5/KMediaPlayer/kmediaplayer/kmediaplayer_export.h
+/usr/include/KF5/KMediaPlayer/kmediaplayer/player.h
+/usr/include/KF5/KMediaPlayer/kmediaplayer/view.h
+/usr/include/KF5/KMediaPlayer/kmediaplayer_version.h
+/usr/lib/cmake/KF5MediaPlayer/KF5MediaPlayerConfig.cmake
+/usr/lib/cmake/KF5MediaPlayer/KF5MediaPlayerConfigVersion.cmake
+/usr/lib/cmake/KF5MediaPlayer/KF5MediaPlayerTargets-none.cmake
+/usr/lib/cmake/KF5MediaPlayer/KF5MediaPlayerTargets.cmake
+/usr/lib/libKF5MediaPlayer.so -> /usr/lib/libKF5MediaPlayer.so.5

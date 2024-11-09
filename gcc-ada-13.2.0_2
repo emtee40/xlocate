@@ -1,0 +1,10 @@
+/usr/bin/gnat
+/usr/bin/gnatbind
+/usr/bin/gnatchop
+/usr/bin/gnatclean
+/usr/bin/gnatkr
+/usr/bin/gnatlink
+/usr/bin/gnatls
+/usr/bin/gnatmake
+/usr/bin/gnatname
+/usr/bin/gnatprep

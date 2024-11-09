@@ -1,0 +1,6 @@
+/usr/include/janet.h -> /usr/include/janet/janet_1.36.0.h
+/usr/include/janet/janet.h -> /usr/include/janet/janet_1.36.0.h
+/usr/include/janet/janet_1.36.0.h
+/usr/lib/libjanet.a
+/usr/lib/libjanet.so -> /usr/lib/libjanet.so.1.36
+/usr/lib/pkgconfig/janet.pc

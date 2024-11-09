@@ -1,0 +1,10 @@
+/etc/sv/dcron/log/run
+/etc/sv/dcron/log/supervise -> /run/runit/supervise.dcron-log
+/etc/sv/dcron/run
+/etc/sv/dcron/supervise -> /run/runit/supervise.dcron
+/usr/bin/dcrond
+/usr/bin/dcrontab
+/usr/bin/run-cron
+/usr/share/man/man1/dcrontab.1
+/usr/share/man/man8/dcrond.8
+/var/spool/cron/root

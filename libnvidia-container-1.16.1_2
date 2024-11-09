@@ -1,0 +1,5 @@
+/usr/bin/nvidia-container-cli
+/usr/lib/libnvidia-container-go.so.1 -> /usr/lib/libnvidia-container-go.so.1.16.1
+/usr/lib/libnvidia-container-go.so.1.16.1
+/usr/lib/libnvidia-container.so.1 -> /usr/lib/libnvidia-container.so.1.16.1
+/usr/lib/libnvidia-container.so.1.16.1

@@ -1,0 +1,7 @@
+/etc/sv/logid/log/run
+/etc/sv/logid/log/supervise -> /run/runit/supervise.logid-log
+/etc/sv/logid/run
+/etc/sv/logid/supervise -> /run/runit/supervise.logid
+/usr/bin/logid
+/usr/share/dbus-1/system.d/pizza.pixl.LogiOps.conf
+/usr/share/examples/logiops/logid.cfg

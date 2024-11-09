@@ -1,0 +1,4 @@
+/usr/bin/zmf2raw
+/usr/bin/zmf2svg
+/usr/lib/libzmf-0.0.so.0 -> /usr/lib/libzmf-0.0.so.0.0.2
+/usr/lib/libzmf-0.0.so.0.0.2

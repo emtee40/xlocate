@@ -1,0 +1,6 @@
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2/include/ssp/ssp.h
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2/include/ssp/stdio.h
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2/include/ssp/string.h
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2/include/ssp/unistd.h
+/usr/lib/libssp.a
+/usr/lib/libssp_nonshared.a

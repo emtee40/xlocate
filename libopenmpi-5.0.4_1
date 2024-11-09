@@ -1,0 +1,14 @@
+/usr/lib/libmpi.so.40 -> /usr/lib/libmpi.so.40.40.4
+/usr/lib/libmpi.so.40.40.4
+/usr/lib/libmpi_mpifh.so.40 -> /usr/lib/libmpi_mpifh.so.40.40.0
+/usr/lib/libmpi_mpifh.so.40.40.0
+/usr/lib/libmpi_usempi_ignore_tkr.so.40 -> /usr/lib/libmpi_usempi_ignore_tkr.so.40.40.0
+/usr/lib/libmpi_usempi_ignore_tkr.so.40.40.0
+/usr/lib/libmpi_usempif08.so.40 -> /usr/lib/libmpi_usempif08.so.40.40.2
+/usr/lib/libmpi_usempif08.so.40.40.2
+/usr/lib/libopen-pal.so.80 -> /usr/lib/libopen-pal.so.80.0.4
+/usr/lib/libopen-pal.so.80.0.4
+/usr/lib/libpmix.so.2 -> /usr/lib/libpmix.so.2.13.3
+/usr/lib/libpmix.so.2.13.3
+/usr/lib/libprrte.so.3 -> /usr/lib/libprrte.so.3.0.6
+/usr/lib/libprrte.so.3.0.6

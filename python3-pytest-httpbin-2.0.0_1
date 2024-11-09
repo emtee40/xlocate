@@ -1,0 +1,14 @@
+/usr/lib/python3.12/site-packages/pytest_httpbin-2.0.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/pytest_httpbin-2.0.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/pytest_httpbin-2.0.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/pytest_httpbin-2.0.0.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/pytest_httpbin-2.0.0.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/pytest_httpbin/__init__.py
+/usr/lib/python3.12/site-packages/pytest_httpbin/certs.py
+/usr/lib/python3.12/site-packages/pytest_httpbin/certs/cacert.pem
+/usr/lib/python3.12/site-packages/pytest_httpbin/certs/cert.pem
+/usr/lib/python3.12/site-packages/pytest_httpbin/certs/key.pem
+/usr/lib/python3.12/site-packages/pytest_httpbin/plugin.py
+/usr/lib/python3.12/site-packages/pytest_httpbin/serve.py
+/usr/lib/python3.12/site-packages/pytest_httpbin/version.py
+/usr/share/licenses/python3-pytest-httpbin/LICENSE

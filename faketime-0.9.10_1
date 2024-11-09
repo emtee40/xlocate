@@ -1,0 +1,6 @@
+/usr/bin/faketime
+/usr/lib/faketime/libfaketime.so.1
+/usr/lib/faketime/libfaketimeMT.so.1
+/usr/share/doc/faketime/NEWS
+/usr/share/doc/faketime/README
+/usr/share/man/man1/faketime.1

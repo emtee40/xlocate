@@ -1,0 +1,2 @@
+/usr/bin/qemu-system-riscv64
+/usr/share/qemu/opensbi-riscv64-generic-fw_dynamic.bin

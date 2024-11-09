@@ -1,0 +1,21 @@
+/usr/lib/libapparmor.so.1 -> /usr/lib/libapparmor.so.1.12.3
+/usr/lib/libapparmor.so.1.12.3
+/usr/lib/perl5/vendor_perl/LibAppArmor.pm
+/usr/lib/perl5/vendor_perl/auto/LibAppArmor/LibAppArmor.so
+/usr/lib/python3.12/site-packages/LibAppArmor-3.1.7-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/LibAppArmor-3.1.7-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/LibAppArmor-3.1.7-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/LibAppArmor-3.1.7-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/LibAppArmor/LibAppArmor.py
+/usr/lib/python3.12/site-packages/LibAppArmor/_LibAppArmor.so
+/usr/lib/python3.12/site-packages/LibAppArmor/__init__.py
+/usr/share/man/man2/aa_change_hat.2
+/usr/share/man/man2/aa_change_profile.2
+/usr/share/man/man2/aa_find_mountpoint.2
+/usr/share/man/man2/aa_getcon.2
+/usr/share/man/man2/aa_query_label.2
+/usr/share/man/man2/aa_stack_profile.2
+/usr/share/man/man3/aa_features.3
+/usr/share/man/man3/aa_kernel_interface.3
+/usr/share/man/man3/aa_policy_cache.3
+/usr/share/man/man3/aa_splitcon.3

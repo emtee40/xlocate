@@ -1,0 +1,6 @@
+/usr/bin/package-stash-conflicts
+/usr/share/man/man3/Package::Stash.3p
+/usr/share/man/man3/Package::Stash::PP.3p
+/usr/share/perl5/vendor_perl/Package/Stash.pm
+/usr/share/perl5/vendor_perl/Package/Stash/Conflicts.pm
+/usr/share/perl5/vendor_perl/Package/Stash/PP.pm

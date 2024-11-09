@@ -1,0 +1,6 @@
+/usr/include/b64/cdecode.h
+/usr/include/b64/cencode.h
+/usr/include/b64/decode.h
+/usr/include/b64/encode.h
+/usr/lib/libb64.a
+/usr/lib/libb64.so -> /usr/lib/libb64.so.0

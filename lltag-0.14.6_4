@@ -1,0 +1,11 @@
+/etc/lltag/formats
+/usr/bin/lltag
+/usr/share/perl5/site_perl/Lltag/CDDB.pm
+/usr/share/perl5/site_perl/Lltag/FLAC.pm
+/usr/share/perl5/site_perl/Lltag/MP3.pm
+/usr/share/perl5/site_perl/Lltag/MP3v2.pm
+/usr/share/perl5/site_perl/Lltag/Misc.pm
+/usr/share/perl5/site_perl/Lltag/OGG.pm
+/usr/share/perl5/site_perl/Lltag/Parse.pm
+/usr/share/perl5/site_perl/Lltag/Rename.pm
+/usr/share/perl5/site_perl/Lltag/Tags.pm

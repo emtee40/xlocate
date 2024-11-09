@@ -1,0 +1,14 @@
+/usr/include/KF5/KPty/KPty
+/usr/include/KF5/KPty/KPtyDevice
+/usr/include/KF5/KPty/KPtyProcess
+/usr/include/KF5/KPty/kpty.h
+/usr/include/KF5/KPty/kpty_export.h
+/usr/include/KF5/KPty/kpty_version.h
+/usr/include/KF5/KPty/kptydevice.h
+/usr/include/KF5/KPty/kptyprocess.h
+/usr/lib/cmake/KF5Pty/KF5PtyConfig.cmake
+/usr/lib/cmake/KF5Pty/KF5PtyConfigVersion.cmake
+/usr/lib/cmake/KF5Pty/KF5PtyTargets-none.cmake
+/usr/lib/cmake/KF5Pty/KF5PtyTargets.cmake
+/usr/lib/libKF5Pty.so -> /usr/lib/libKF5Pty.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KPty.pri

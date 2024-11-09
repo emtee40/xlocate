@@ -1,0 +1,7 @@
+/etc/sv/tftpd-hpa/run
+/etc/sv/tftpd-hpa/supervise -> /run/runit/supervise.tftpd-hpa
+/usr/bin/in.tftpd
+/usr/bin/tftp-hpa
+/usr/share/licenses/tftp-hpa/LICENSE
+/usr/share/man/man1/tftp-hpa.1
+/usr/share/man/man8/in.tftpd.8

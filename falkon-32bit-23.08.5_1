@@ -1,0 +1,11 @@
+/usr/lib32/libFalkonPrivate.so.23.08.5
+/usr/lib32/libFalkonPrivate.so.3 -> /usr/lib32/libFalkonPrivate.so.23.08.5
+/usr/lib32/qt5/plugins/falkon/AutoScroll.so
+/usr/lib32/qt5/plugins/falkon/FlashCookieManager.so
+/usr/lib32/qt5/plugins/falkon/GreaseMonkey.so
+/usr/lib32/qt5/plugins/falkon/KDEFrameworksIntegration.so
+/usr/lib32/qt5/plugins/falkon/MouseGestures.so
+/usr/lib32/qt5/plugins/falkon/PIM.so
+/usr/lib32/qt5/plugins/falkon/StatusBarIcons.so
+/usr/lib32/qt5/plugins/falkon/TabManager.so
+/usr/lib32/qt5/plugins/falkon/VerticalTabs.so

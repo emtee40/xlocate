@@ -1,0 +1,6 @@
+/usr/lib32/libei.so -> /usr/lib32/libei.so.1
+/usr/lib32/libeis.so -> /usr/lib32/libeis.so.1
+/usr/lib32/liboeffis.so -> /usr/lib32/liboeffis.so.1
+/usr/lib32/pkgconfig/libei-1.0.pc
+/usr/lib32/pkgconfig/libeis-1.0.pc
+/usr/lib32/pkgconfig/liboeffis-1.0.pc

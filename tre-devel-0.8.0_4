@@ -1,0 +1,6 @@
+/usr/include/tre/regex.h
+/usr/include/tre/tre-config.h
+/usr/include/tre/tre.h
+/usr/lib/libtre.a
+/usr/lib/libtre.so -> /usr/lib/libtre.so.5.0.0
+/usr/lib/pkgconfig/tre.pc

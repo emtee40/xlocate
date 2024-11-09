@@ -1,0 +1,6 @@
+/usr/lib32/libhogweed.a
+/usr/lib32/libhogweed.so -> /usr/lib32/libhogweed.so.6.8
+/usr/lib32/libnettle.a
+/usr/lib32/libnettle.so -> /usr/lib32/libnettle.so.8.8
+/usr/lib32/pkgconfig/hogweed.pc
+/usr/lib32/pkgconfig/nettle.pc

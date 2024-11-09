@@ -1,0 +1,21 @@
+/usr/lib32/libcamel-1.2.so -> /usr/lib32/libcamel-1.2.so.64
+/usr/lib32/libebackend-1.2.so -> /usr/lib32/libebackend-1.2.so.11
+/usr/lib32/libebook-1.2.so -> /usr/lib32/libebook-1.2.so.21
+/usr/lib32/libebook-contacts-1.2.so -> /usr/lib32/libebook-contacts-1.2.so.4
+/usr/lib32/libecal-2.0.so -> /usr/lib32/libecal-2.0.so.3
+/usr/lib32/libedata-book-1.2.so -> /usr/lib32/libedata-book-1.2.so.27
+/usr/lib32/libedata-cal-2.0.so -> /usr/lib32/libedata-cal-2.0.so.2
+/usr/lib32/libedataserver-1.2.so -> /usr/lib32/libedataserver-1.2.so.27
+/usr/lib32/libedataserverui-1.2.so -> /usr/lib32/libedataserverui-1.2.so.4
+/usr/lib32/libedataserverui4-1.0.so -> /usr/lib32/libedataserverui4-1.0.so.0
+/usr/lib32/pkgconfig/camel-1.2.pc
+/usr/lib32/pkgconfig/evolution-data-server-1.2.pc
+/usr/lib32/pkgconfig/libebackend-1.2.pc
+/usr/lib32/pkgconfig/libebook-1.2.pc
+/usr/lib32/pkgconfig/libebook-contacts-1.2.pc
+/usr/lib32/pkgconfig/libecal-2.0.pc
+/usr/lib32/pkgconfig/libedata-book-1.2.pc
+/usr/lib32/pkgconfig/libedata-cal-2.0.pc
+/usr/lib32/pkgconfig/libedataserver-1.2.pc
+/usr/lib32/pkgconfig/libedataserverui-1.2.pc
+/usr/lib32/pkgconfig/libedataserverui4-1.0.pc

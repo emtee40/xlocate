@@ -1,0 +1,6 @@
+/usr/bin/pdal
+/usr/lib/libpdal_plugin_kernel_fauxplugin.so.17 -> /usr/lib/libpdal_plugin_kernel_fauxplugin.so.17.0.0
+/usr/lib/libpdal_plugin_kernel_fauxplugin.so.17.0.0
+/usr/lib/libpdalcpp.so.17 -> /usr/lib/libpdalcpp.so.17.0.0
+/usr/lib/libpdalcpp.so.17.0.0
+/usr/share/licenses/libpdal/LICENSE.txt

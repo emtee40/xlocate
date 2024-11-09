@@ -1,0 +1,8 @@
+/usr/bin/volk-config-info
+/usr/bin/volk_modtool
+/usr/bin/volk_profile
+/usr/lib/libvolk.so.3.1 -> /usr/lib/libvolk.so.3.1.2
+/usr/lib/libvolk.so.3.1.2
+/usr/lib/python3.12/site-packages/volk_modtool/__init__.py
+/usr/lib/python3.12/site-packages/volk_modtool/cfg.py
+/usr/lib/python3.12/site-packages/volk_modtool/volk_modtool_generate.py

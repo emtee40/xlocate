@@ -1,0 +1,15 @@
+/usr/bin/qtikz
+/usr/share/applications/qtikz.desktop
+/usr/share/man/man1/qtikz.1
+/usr/share/mime/packages/qtikz.xml
+/usr/share/qtikz/LICENSE.GPL2
+/usr/share/qtikz/documentation/qtikz.qch
+/usr/share/qtikz/documentation/qtikz.qhc
+/usr/share/qtikz/locale/qtikz_cs.qm
+/usr/share/qtikz/locale/qtikz_de.qm
+/usr/share/qtikz/locale/qtikz_es.qm
+/usr/share/qtikz/locale/qtikz_fr.qm
+/usr/share/qtikz/qtikz-128.png
+/usr/share/qtikz/templates/beamer-example-template.pgs
+/usr/share/qtikz/templates/template_example.pgs
+/usr/share/qtikz/templates/template_example2.pgs

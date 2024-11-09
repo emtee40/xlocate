@@ -1,0 +1,3 @@
+/usr/lib32/libfreecell-solver.a
+/usr/lib32/libfreecell-solver.so -> /usr/lib32/libfreecell-solver.so.0
+/usr/lib32/pkgconfig/libfreecell-solver.pc

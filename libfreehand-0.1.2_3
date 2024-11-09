@@ -1,0 +1,6 @@
+/usr/bin/fh2raw
+/usr/bin/fh2svg
+/usr/bin/fh2text
+/usr/lib/libfreehand-0.1.so.1 -> /usr/lib/libfreehand-0.1.so.1.0.2
+/usr/lib/libfreehand-0.1.so.1.0.2
+/usr/share/licenses/libfreehand/COPYING

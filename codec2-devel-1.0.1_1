@@ -1,0 +1,16 @@
+/usr/include/codec2/codec2.h
+/usr/include/codec2/codec2_cohpsk.h
+/usr/include/codec2/codec2_fdmdv.h
+/usr/include/codec2/codec2_fifo.h
+/usr/include/codec2/codec2_fm.h
+/usr/include/codec2/codec2_ofdm.h
+/usr/include/codec2/comp.h
+/usr/include/codec2/freedv_api.h
+/usr/include/codec2/fsk.h
+/usr/include/codec2/modem_stats.h
+/usr/include/codec2/reliable_text.h
+/usr/include/codec2/version.h
+/usr/lib/cmake/codec2/codec2-config-none.cmake
+/usr/lib/cmake/codec2/codec2-config.cmake
+/usr/lib/libcodec2.so -> /usr/lib/libcodec2.so.1.0
+/usr/lib/pkgconfig/codec2.pc

@@ -1,0 +1,14 @@
+/usr/lib32/libical-glib.a
+/usr/lib32/libical-glib.so -> /usr/lib32/libical-glib.so.3
+/usr/lib32/libical.a
+/usr/lib32/libical.so -> /usr/lib32/libical.so.3
+/usr/lib32/libical_cxx.a
+/usr/lib32/libical_cxx.so -> /usr/lib32/libical_cxx.so.3
+/usr/lib32/libicalss.a
+/usr/lib32/libicalss.so -> /usr/lib32/libicalss.so.3
+/usr/lib32/libicalss_cxx.a
+/usr/lib32/libicalss_cxx.so -> /usr/lib32/libicalss_cxx.so.3
+/usr/lib32/libicalvcal.a
+/usr/lib32/libicalvcal.so -> /usr/lib32/libicalvcal.so.3
+/usr/lib32/pkgconfig/libical-glib.pc
+/usr/lib32/pkgconfig/libical.pc

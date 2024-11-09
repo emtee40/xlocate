@@ -1,0 +1,8 @@
+/usr/lib32/libQt6Scxml.so -> /usr/lib32/libQt6Scxml.so.6
+/usr/lib32/libQt6ScxmlQml.so -> /usr/lib32/libQt6ScxmlQml.so.6
+/usr/lib32/libQt6StateMachine.so -> /usr/lib32/libQt6StateMachine.so.6
+/usr/lib32/libQt6StateMachineQml.so -> /usr/lib32/libQt6StateMachineQml.so.6
+/usr/lib32/pkgconfig/Qt6Scxml.pc
+/usr/lib32/pkgconfig/Qt6ScxmlQml.pc
+/usr/lib32/pkgconfig/Qt6StateMachine.pc
+/usr/lib32/pkgconfig/Qt6StateMachineQml.pc

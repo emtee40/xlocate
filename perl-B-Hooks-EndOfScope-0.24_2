@@ -1,0 +1,8 @@
+/usr/share/man/man3/B::Hooks::EndOfScope.3p
+/usr/share/man/man3/B::Hooks::EndOfScope::PP.3p
+/usr/share/man/man3/B::Hooks::EndOfScope::XS.3p
+/usr/share/perl5/vendor_perl/B/Hooks/EndOfScope.pm
+/usr/share/perl5/vendor_perl/B/Hooks/EndOfScope/PP.pm
+/usr/share/perl5/vendor_perl/B/Hooks/EndOfScope/PP/FieldHash.pm
+/usr/share/perl5/vendor_perl/B/Hooks/EndOfScope/PP/HintHash.pm
+/usr/share/perl5/vendor_perl/B/Hooks/EndOfScope/XS.pm

@@ -1,0 +1,4 @@
+/usr/lib32/libkcm_firewall_core.so
+/usr/lib32/qt6/plugins/kf6/plasma_firewall/firewalldbackend.so
+/usr/lib32/qt6/plugins/kf6/plasma_firewall/ufwbackend.so
+/usr/lib32/qt6/plugins/plasma/kcms/systemsettings/kcm_firewall.so

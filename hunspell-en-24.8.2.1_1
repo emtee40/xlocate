@@ -1,0 +1,30 @@
+/usr/share/hunspell-bdic/en_AU.bdic
+/usr/share/hunspell-bdic/en_CA.bdic
+/usr/share/hunspell-bdic/en_IL.bdic -> /usr/share/hunspell-bdic/en_US.bdic
+/usr/share/hunspell-bdic/en_MW.bdic -> /usr/share/hunspell-bdic/en_ZA.bdic
+/usr/share/hunspell-bdic/en_NA.bdic -> /usr/share/hunspell-bdic/en_ZA.bdic
+/usr/share/hunspell-bdic/en_PH.bdic -> /usr/share/hunspell-bdic/en_US.bdic
+/usr/share/hunspell-bdic/en_US.bdic
+/usr/share/hunspell-bdic/en_ZA.bdic
+/usr/share/hunspell-bdic/en_ZW.bdic -> /usr/share/hunspell-bdic/en_ZA.bdic
+/usr/share/hunspell/en_AU.aff
+/usr/share/hunspell/en_AU.dic
+/usr/share/hunspell/en_CA.aff
+/usr/share/hunspell/en_CA.dic
+/usr/share/hunspell/en_IL.aff -> /usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_IL.dic -> /usr/share/hunspell/en_US.dic
+/usr/share/hunspell/en_MW.aff -> /usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/en_MW.dic -> /usr/share/hunspell/en_ZA.dic
+/usr/share/hunspell/en_NA.aff -> /usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/en_NA.dic -> /usr/share/hunspell/en_ZA.dic
+/usr/share/hunspell/en_PH.aff -> /usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_PH.dic -> /usr/share/hunspell/en_US.dic
+/usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_US.dic
+/usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/en_ZA.dic
+/usr/share/hunspell/en_ZW.aff -> /usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/en_ZW.dic -> /usr/share/hunspell/en_ZA.dic
+/usr/share/licenses/hunspell-en/README_en_AU.txt
+/usr/share/licenses/hunspell-en/README_en_CA.txt
+/usr/share/licenses/hunspell-en/README_en_US.txt

@@ -1,0 +1,5 @@
+/usr/lib32/libipe.so -> /usr/lib32/libipe.so.7.2.26
+/usr/lib32/libipecairo.so -> /usr/lib32/libipecairo.so.7.2.26
+/usr/lib32/libipecanvas.so -> /usr/lib32/libipecanvas.so.7.2.26
+/usr/lib32/libipelua.so -> /usr/lib32/libipelua.so.7.2.26
+/usr/lib32/libipeui.so -> /usr/lib32/libipeui.so.7.2.26

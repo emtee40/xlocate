@@ -1,0 +1,5 @@
+/usr/include/zinnia.h
+/usr/include/zinnia/zinnia.h
+/usr/lib/libzinnia.a
+/usr/lib/libzinnia.so -> /usr/lib/libzinnia.so.0.0.0
+/usr/lib/pkgconfig/zinnia.pc

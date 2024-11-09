@@ -1,0 +1,17 @@
+/usr/include/flatpak/flatpak-bundle-ref.h
+/usr/include/flatpak/flatpak-enum-types.h
+/usr/include/flatpak/flatpak-error.h
+/usr/include/flatpak/flatpak-installation.h
+/usr/include/flatpak/flatpak-installed-ref.h
+/usr/include/flatpak/flatpak-instance.h
+/usr/include/flatpak/flatpak-portal-error.h
+/usr/include/flatpak/flatpak-ref.h
+/usr/include/flatpak/flatpak-related-ref.h
+/usr/include/flatpak/flatpak-remote-ref.h
+/usr/include/flatpak/flatpak-remote.h
+/usr/include/flatpak/flatpak-transaction.h
+/usr/include/flatpak/flatpak-version-macros.h
+/usr/include/flatpak/flatpak.h
+/usr/lib/libflatpak.so -> /usr/lib/libflatpak.so.0
+/usr/lib/pkgconfig/flatpak.pc
+/usr/share/gir-1.0/Flatpak-1.0.gir

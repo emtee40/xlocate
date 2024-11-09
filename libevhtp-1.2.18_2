@@ -1,0 +1,15 @@
+/usr/include/evhtp.h
+/usr/include/evhtp/config.h
+/usr/include/evhtp/evhtp.h
+/usr/include/evhtp/log.h
+/usr/include/evhtp/parser.h
+/usr/include/evhtp/sslutils.h
+/usr/include/evhtp/sys/tree.h
+/usr/include/evhtp/thread.h
+/usr/lib/cmake/libevhtp/libevhtpConfig.cmake
+/usr/lib/cmake/libevhtp/libevhtpConfigVersion.cmake
+/usr/lib/cmake/libevhtp/libevhtpTargets-release.cmake
+/usr/lib/cmake/libevhtp/libevhtpTargets.cmake
+/usr/lib/libevhtp.a
+/usr/lib/pkgconfig/evhtp.pc
+/usr/share/licenses/libevhtp/LICENSE

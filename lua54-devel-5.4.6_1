@@ -1,0 +1,16 @@
+/usr/include/lua5.4/lauxlib.h
+/usr/include/lua5.4/lua.h
+/usr/include/lua5.4/lua.hpp
+/usr/include/lua5.4/luaconf.h
+/usr/include/lua5.4/lualib.h
+/usr/lib/liblua5.4.a
+/usr/lib/liblua5.4.so -> /usr/lib/liblua5.4.so.5.4.6
+/usr/lib/pkgconfig/lua5.4.pc
+/usr/share/doc/lua5.4/contents.html
+/usr/share/doc/lua5.4/index.css
+/usr/share/doc/lua5.4/logo.gif
+/usr/share/doc/lua5.4/lua.css
+/usr/share/doc/lua5.4/manual.css
+/usr/share/doc/lua5.4/manual.html
+/usr/share/doc/lua5.4/osi-certified-72x60.png
+/usr/share/doc/lua5.4/readme.html

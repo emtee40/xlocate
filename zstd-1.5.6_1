@@ -1,0 +1,13 @@
+/usr/bin/pzstd
+/usr/bin/unzstd -> /usr/bin/zstd
+/usr/bin/zstd
+/usr/bin/zstdcat -> /usr/bin/zstd
+/usr/bin/zstdgrep
+/usr/bin/zstdless
+/usr/bin/zstdmt -> /usr/bin/zstd
+/usr/share/licenses/zstd/LICENSE
+/usr/share/man/man1/unzstd.1 -> /usr/share/man/man1/zstd.1
+/usr/share/man/man1/zstd.1
+/usr/share/man/man1/zstdcat.1 -> /usr/share/man/man1/zstd.1
+/usr/share/man/man1/zstdgrep.1
+/usr/share/man/man1/zstdless.1

@@ -1,0 +1,3 @@
+/usr/include/xar/xar.h
+/usr/lib/libxar.a
+/usr/lib/libxar.so -> /usr/lib/libxar.so.1

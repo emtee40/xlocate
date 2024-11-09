@@ -1,0 +1,9 @@
+/usr/include/KF6/KWallet/KWallet
+/usr/include/KF6/KWallet/kwallet.h
+/usr/include/KF6/KWallet/kwallet_export.h
+/usr/include/KF6/KWallet/kwallet_version.h
+/usr/lib/cmake/KF6Wallet/KF6WalletConfig.cmake
+/usr/lib/cmake/KF6Wallet/KF6WalletConfigVersion.cmake
+/usr/lib/cmake/KF6Wallet/KF6WalletTargets-none.cmake
+/usr/lib/cmake/KF6Wallet/KF6WalletTargets.cmake
+/usr/lib/libKF6Wallet.so -> /usr/lib/libKF6Wallet.so.6

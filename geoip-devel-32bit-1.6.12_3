@@ -1,0 +1,3 @@
+/usr/lib32/libGeoIP.a
+/usr/lib32/libGeoIP.so -> /usr/lib32/libGeoIP.so.1.6.12
+/usr/lib32/pkgconfig/geoip.pc

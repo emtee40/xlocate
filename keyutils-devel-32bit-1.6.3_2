@@ -1,0 +1,3 @@
+/usr/lib32/libkeyutils.a
+/usr/lib32/libkeyutils.so -> /usr/lib32/libkeyutils.so.1
+/usr/lib32/pkgconfig/libkeyutils.pc

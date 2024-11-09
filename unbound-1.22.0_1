@@ -1,0 +1,20 @@
+/etc/sv/unbound/log/run
+/etc/sv/unbound/log/supervise -> /run/runit/supervise.unbound-log
+/etc/sv/unbound/run
+/etc/sv/unbound/supervise -> /run/runit/supervise.unbound
+/etc/unbound/unbound.conf
+/usr/bin/unbound
+/usr/bin/unbound-anchor
+/usr/bin/unbound-checkconf
+/usr/bin/unbound-control
+/usr/bin/unbound-control-setup
+/usr/bin/unbound-host
+/usr/share/examples/unbound/unbound.conf
+/usr/share/licenses/unbound/LICENSE
+/usr/share/man/man1/unbound-host.1
+/usr/share/man/man5/unbound.conf.5
+/usr/share/man/man8/unbound-anchor.8
+/usr/share/man/man8/unbound-checkconf.8
+/usr/share/man/man8/unbound-control-setup.8
+/usr/share/man/man8/unbound-control.8
+/usr/share/man/man8/unbound.8

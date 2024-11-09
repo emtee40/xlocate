@@ -1,0 +1,6 @@
+/usr/libexec/startup/bridge/udev
+/usr/share/man/man8/startup-udev-bridge.8
+/usr/share/startup/bridge-udev.conf
+/usr/share/startup/bridge-udev.override
+/usr/share/xdg/startup/bridge-udev.conf
+/usr/share/xdg/startup/bridge-udev.override

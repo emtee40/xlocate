@@ -1,0 +1,50 @@
+/usr/lib32/libqgis_3d.so -> /usr/lib32/libqgis_3d.so.3.38.3
+/usr/lib32/libqgis_3d.so.3.38.3
+/usr/lib32/libqgis_analysis.so -> /usr/lib32/libqgis_analysis.so.3.38.3
+/usr/lib32/libqgis_analysis.so.3.38.3
+/usr/lib32/libqgis_app.so -> /usr/lib32/libqgis_app.so.3.38.3
+/usr/lib32/libqgis_app.so.3.38.3
+/usr/lib32/libqgis_core.so -> /usr/lib32/libqgis_core.so.3.38.3
+/usr/lib32/libqgis_core.so.3.38.3
+/usr/lib32/libqgis_gui.so -> /usr/lib32/libqgis_gui.so.3.38.3
+/usr/lib32/libqgis_gui.so.3.38.3
+/usr/lib32/libqgis_native.so -> /usr/lib32/libqgis_native.so.3.38.3
+/usr/lib32/libqgis_native.so.3.38.3
+/usr/lib32/libqgisgrass8.so -> /usr/lib32/libqgisgrass8.so.3.38.3
+/usr/lib32/libqgisgrass8.so.3.38.3
+/usr/lib32/libqgispython.so -> /usr/lib32/libqgispython.so.3.38.3
+/usr/lib32/libqgispython.so.3.38.3
+/usr/lib32/qgis/plugins/libauthmethod_apiheader.so
+/usr/lib32/qgis/plugins/libauthmethod_awss3.so
+/usr/lib32/qgis/plugins/libauthmethod_basic.so
+/usr/lib32/qgis/plugins/libauthmethod_esritoken.so
+/usr/lib32/qgis/plugins/libauthmethod_identcert.so
+/usr/lib32/qgis/plugins/libauthmethod_maptilerhmacsha256.so
+/usr/lib32/qgis/plugins/libauthmethod_oauth2.so
+/usr/lib32/qgis/plugins/libauthmethod_pkcs12.so
+/usr/lib32/qgis/plugins/libauthmethod_pkipaths.so
+/usr/lib32/qgis/plugins/libplugin_geometrychecker.so
+/usr/lib32/qgis/plugins/libplugin_grass8.so
+/usr/lib32/qgis/plugins/libplugin_offlineediting.so
+/usr/lib32/qgis/plugins/libplugin_topology.so
+/usr/lib32/qgis/plugins/libprovider_arcgisfeatureserver.so
+/usr/lib32/qgis/plugins/libprovider_arcgismapserver.so
+/usr/lib32/qgis/plugins/libprovider_delimitedtext.so
+/usr/lib32/qgis/plugins/libprovider_gpx.so
+/usr/lib32/qgis/plugins/libprovider_grass8.so
+/usr/lib32/qgis/plugins/libprovider_grassraster8.so
+/usr/lib32/qgis/plugins/libprovider_mdal.so
+/usr/lib32/qgis/plugins/libprovider_mssql.so
+/usr/lib32/qgis/plugins/libprovider_pdal.so
+/usr/lib32/qgis/plugins/libprovider_postgres.so
+/usr/lib32/qgis/plugins/libprovider_postgresraster.so
+/usr/lib32/qgis/plugins/libprovider_spatialite.so
+/usr/lib32/qgis/plugins/libprovider_virtuallayer.so
+/usr/lib32/qgis/plugins/libprovider_virtualraster.so
+/usr/lib32/qgis/plugins/libprovider_wcs.so
+/usr/lib32/qgis/plugins/libprovider_wfs.so
+/usr/lib32/qgis/plugins/libprovider_wms.so
+/usr/lib32/qgis/python/qgis/_3d.so
+/usr/lib32/qgis/python/qgis/_analysis.so
+/usr/lib32/qgis/python/qgis/_core.so
+/usr/lib32/qgis/python/qgis/_gui.so

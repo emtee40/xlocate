@@ -1,0 +1,11 @@
+/usr/include/librdkafka/rdkafka.h
+/usr/include/librdkafka/rdkafka_mock.h
+/usr/include/librdkafka/rdkafkacpp.h
+/usr/lib/librdkafka++.a
+/usr/lib/librdkafka++.so -> /usr/lib/librdkafka++.so.1
+/usr/lib/librdkafka.a
+/usr/lib/librdkafka.so -> /usr/lib/librdkafka.so.1
+/usr/lib/pkgconfig/rdkafka++-static.pc
+/usr/lib/pkgconfig/rdkafka++.pc
+/usr/lib/pkgconfig/rdkafka-static.pc
+/usr/lib/pkgconfig/rdkafka.pc

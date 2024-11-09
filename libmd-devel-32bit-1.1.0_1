@@ -1,0 +1,3 @@
+/usr/lib32/libmd.a
+/usr/lib32/libmd.so -> /usr/lib32/libmd.so.0.1.0
+/usr/lib32/pkgconfig/libmd.pc

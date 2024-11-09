@@ -1,0 +1,54 @@
+/etc/vde2/libvdemgmt/asyncrecv.rc
+/etc/vde2/libvdemgmt/closemachine.rc
+/etc/vde2/libvdemgmt/openmachine.rc
+/etc/vde2/libvdemgmt/sendcmd.rc
+/etc/vde2/vdecmd
+/usr/bin/dpipe
+/usr/bin/kvde_switch
+/usr/bin/slirpvde
+/usr/bin/unixcmd
+/usr/bin/unixterm
+/usr/bin/vde_autolink
+/usr/bin/vde_cryptcab
+/usr/bin/vde_l3
+/usr/bin/vde_over_ns
+/usr/bin/vde_pcapplug
+/usr/bin/vde_plug
+/usr/bin/vde_plug2tap
+/usr/bin/vde_switch
+/usr/bin/vde_tunctl
+/usr/bin/vdecmd -> /usr/bin/unixcmd
+/usr/bin/vdekvm -> /usr/bin/vdeq
+/usr/bin/vdeq
+/usr/bin/vdeqemu -> /usr/bin/vdeq
+/usr/bin/vdeterm
+/usr/bin/wirefilter
+/usr/lib/vde2/libvdetap.so
+/usr/lib/vde2/plugins/dump.so
+/usr/lib/vde2/plugins/iplog.so
+/usr/lib/vde2/plugins/pdump.so
+/usr/lib/vde2/vde_l3/bfifo.so
+/usr/lib/vde2/vde_l3/pfifo.so
+/usr/lib/vde2/vde_l3/tbf.so
+/usr/libexec/vdetap
+/usr/share/licenses/vde2/COPYING.slirpvde
+/usr/share/man/man1/dpipe.1
+/usr/share/man/man1/slirpvde.1
+/usr/share/man/man1/unixcmd.1
+/usr/share/man/man1/unixterm.1
+/usr/share/man/man1/vde_autolink.1
+/usr/share/man/man1/vde_cryptcab.1
+/usr/share/man/man1/vde_l3.1
+/usr/share/man/man1/vde_over_ns.1
+/usr/share/man/man1/vde_pcapplug.1
+/usr/share/man/man1/vde_plug.1
+/usr/share/man/man1/vde_plug2tap.1
+/usr/share/man/man1/vde_switch.1
+/usr/share/man/man1/vdecmd.1 -> /usr/share/man/man1/unixcmd.1
+/usr/share/man/man1/vdekvm.1 -> /usr/share/man/man1/vdeq.1
+/usr/share/man/man1/vdeq.1
+/usr/share/man/man1/vdeqemu.1 -> /usr/share/man/man1/vdeq.1
+/usr/share/man/man1/vdetaplib.1
+/usr/share/man/man1/vdeterm.1
+/usr/share/man/man1/wirefilter.1
+/usr/share/man/man8/vde_tunctl.8

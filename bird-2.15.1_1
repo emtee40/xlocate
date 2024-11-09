@@ -1,0 +1,8 @@
+/etc/bird.conf
+/etc/sv/bird/log/run
+/etc/sv/bird/log/supervise -> /run/runit/supervise.bird-log
+/etc/sv/bird/run
+/etc/sv/bird/supervise -> /run/runit/supervise.bird
+/usr/bin/bird
+/usr/bin/birdc
+/usr/bin/birdcl

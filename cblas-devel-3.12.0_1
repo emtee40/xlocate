@@ -1,0 +1,11 @@
+/usr/include/cblas.h
+/usr/include/cblas_64.h
+/usr/include/cblas_f77.h
+/usr/include/cblas_mangling.h
+/usr/lib/cmake/cblas-3.12.0/cblas-config-version.cmake
+/usr/lib/cmake/cblas-3.12.0/cblas-config.cmake
+/usr/lib/cmake/cblas-3.12.0/cblas-targets-none.cmake
+/usr/lib/cmake/cblas-3.12.0/cblas-targets.cmake
+/usr/lib/libcblas.a
+/usr/lib/libcblas.so -> /usr/lib/libcblas.so.3
+/usr/lib/pkgconfig/cblas.pc

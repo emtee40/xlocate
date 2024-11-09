@@ -1,0 +1,12 @@
+/etc/sv/power-profiles-daemon/log/run
+/etc/sv/power-profiles-daemon/log/supervise -> /run/runit/supervise.power-profiles-daemon-log
+/etc/sv/power-profiles-daemon/run
+/etc/sv/power-profiles-daemon/supervise -> /run/runit/supervise.power-profiles-daemon
+/usr/bin/powerprofilesctl
+/usr/lib/systemd/system/power-profiles-daemon.service
+/usr/libexec/power-profiles-daemon
+/usr/share/dbus-1/system-services/net.hadess.PowerProfiles.service
+/usr/share/dbus-1/system-services/org.freedesktop.UPower.PowerProfiles.service
+/usr/share/dbus-1/system.d/net.hadess.PowerProfiles.conf
+/usr/share/dbus-1/system.d/org.freedesktop.UPower.PowerProfiles.conf
+/usr/share/polkit-1/actions/power-profiles-daemon.policy

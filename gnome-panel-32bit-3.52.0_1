@@ -1,0 +1,11 @@
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.action-button.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.clock.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.fish.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.launcher.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.menu.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.notification-area.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.separator.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.status-notifier.so
+/usr/lib32/gnome-panel/modules/org.gnome.gnome-panel.wncklet.so
+/usr/lib32/libgnome-panel.so.3 -> /usr/lib32/libgnome-panel.so.3.0.0
+/usr/lib32/libgnome-panel.so.3.0.0

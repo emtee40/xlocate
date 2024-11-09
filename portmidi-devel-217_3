@@ -1,0 +1,4 @@
+/usr/include/portmidi.h
+/usr/include/porttime.h
+/usr/lib/libportmidi.a
+/usr/lib/libporttime.a -> /usr/lib/libportmidi.a

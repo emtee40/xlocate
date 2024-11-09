@@ -1,0 +1,11 @@
+/usr/bin/distro
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/LICENSE
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/METADATA
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/RECORD
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/WHEEL
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/entry_points.txt
+/usr/lib/python3.12/site-packages/distro-1.9.0.dist-info/top_level.txt
+/usr/lib/python3.12/site-packages/distro/__init__.py
+/usr/lib/python3.12/site-packages/distro/__main__.py
+/usr/lib/python3.12/site-packages/distro/distro.py
+/usr/lib/python3.12/site-packages/distro/py.typed

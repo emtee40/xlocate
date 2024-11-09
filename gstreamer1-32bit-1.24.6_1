@@ -1,0 +1,12 @@
+/usr/lib32/gstreamer-1.0/libgstcoreelements.so
+/usr/lib32/gstreamer-1.0/libgstcoretracers.so
+/usr/lib32/libgstbase-1.0.so.0 -> /usr/lib32/libgstbase-1.0.so.0.2406.0
+/usr/lib32/libgstbase-1.0.so.0.2406.0
+/usr/lib32/libgstcheck-1.0.so.0 -> /usr/lib32/libgstcheck-1.0.so.0.2406.0
+/usr/lib32/libgstcheck-1.0.so.0.2406.0
+/usr/lib32/libgstcontroller-1.0.so.0 -> /usr/lib32/libgstcontroller-1.0.so.0.2406.0
+/usr/lib32/libgstcontroller-1.0.so.0.2406.0
+/usr/lib32/libgstnet-1.0.so.0 -> /usr/lib32/libgstnet-1.0.so.0.2406.0
+/usr/lib32/libgstnet-1.0.so.0.2406.0
+/usr/lib32/libgstreamer-1.0.so.0 -> /usr/lib32/libgstreamer-1.0.so.0.2406.0
+/usr/lib32/libgstreamer-1.0.so.0.2406.0

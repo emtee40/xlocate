@@ -1,0 +1,12 @@
+/usr/lib32/libwebp.a
+/usr/lib32/libwebp.so -> /usr/lib32/libwebp.so.7.1.9
+/usr/lib32/libwebpdecoder.a
+/usr/lib32/libwebpdecoder.so -> /usr/lib32/libwebpdecoder.so.3.1.9
+/usr/lib32/libwebpdemux.a
+/usr/lib32/libwebpdemux.so -> /usr/lib32/libwebpdemux.so.2.0.15
+/usr/lib32/libwebpmux.a
+/usr/lib32/libwebpmux.so -> /usr/lib32/libwebpmux.so.3.1.0
+/usr/lib32/pkgconfig/libwebp.pc
+/usr/lib32/pkgconfig/libwebpdecoder.pc
+/usr/lib32/pkgconfig/libwebpdemux.pc
+/usr/lib32/pkgconfig/libwebpmux.pc

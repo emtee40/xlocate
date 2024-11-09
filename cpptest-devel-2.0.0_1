@@ -1,0 +1,12 @@
+/usr/include/cpptest-assert.h
+/usr/include/cpptest-collectoroutput.h
+/usr/include/cpptest-compileroutput.h
+/usr/include/cpptest-htmloutput.h
+/usr/include/cpptest-output.h
+/usr/include/cpptest-source.h
+/usr/include/cpptest-suite.h
+/usr/include/cpptest-textoutput.h
+/usr/include/cpptest-time.h
+/usr/include/cpptest.h
+/usr/lib/libcpptest.a
+/usr/lib/pkgconfig/libcpptest.pc

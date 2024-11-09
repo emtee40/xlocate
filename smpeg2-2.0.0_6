@@ -1,0 +1,4 @@
+/usr/bin/plaympeg
+/usr/lib/libsmpeg2-2.0.so.0 -> /usr/lib/libsmpeg2-2.0.so.0.0.0
+/usr/lib/libsmpeg2-2.0.so.0.0.0
+/usr/share/man/man1/plaympeg.1

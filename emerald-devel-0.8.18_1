@@ -1,0 +1,6 @@
+/usr/include/emerald/emerald.h
+/usr/include/emerald/engine.h
+/usr/include/emerald/libengine.h
+/usr/include/emerald/titlebar.h
+/usr/lib/libemeraldengine.so -> /usr/lib/libemeraldengine.so.0.0.0
+/usr/lib/pkgconfig/emeraldengine.pc

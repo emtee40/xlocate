@@ -1,0 +1,3 @@
+/usr/include/pystring/pystring.h
+/usr/lib/libpystring.so -> /usr/lib/libpystring.so.1
+/usr/lib/pkgconfig/pystring.pc

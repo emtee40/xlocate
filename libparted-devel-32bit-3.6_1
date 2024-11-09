@@ -1,0 +1,6 @@
+/usr/lib32/libparted-fs-resize.a
+/usr/lib32/libparted-fs-resize.so -> /usr/lib32/libparted-fs-resize.so.0.0.5
+/usr/lib32/libparted.a
+/usr/lib32/libparted.so -> /usr/lib32/libparted.so.2.0.5
+/usr/lib32/pkgconfig/libparted-fs-resize.pc
+/usr/lib32/pkgconfig/libparted.pc

@@ -1,0 +1,4 @@
+/usr/bin/mdevd
+/usr/bin/mdevd-coldplug
+/usr/include/mdevd/config.h
+/usr/share/licenses/mdevd/COPYING

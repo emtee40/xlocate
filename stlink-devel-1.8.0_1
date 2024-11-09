@@ -1,0 +1,24 @@
+/usr/include/stlink/backend.h
+/usr/include/stlink/calculate.h
+/usr/include/stlink/chipid.h
+/usr/include/stlink/commands.h
+/usr/include/stlink/common_flash.h
+/usr/include/stlink/flash_loader.h
+/usr/include/stlink/helper.h
+/usr/include/stlink/lib_md5.h
+/usr/include/stlink/libusb_settings.h
+/usr/include/stlink/logging.h
+/usr/include/stlink/map_file.h
+/usr/include/stlink/md5.h
+/usr/include/stlink/option_bytes.h
+/usr/include/stlink/read_write.h
+/usr/include/stlink/register.h
+/usr/include/stlink/sg.h
+/usr/include/stlink/spdlog_wrapper.h
+/usr/include/stlink/stlink.h
+/usr/include/stlink/stm32.h
+/usr/include/stlink/stm32flash.h
+/usr/include/stlink/usb.h
+/usr/include/stlink/version.h
+/usr/lib/libstlink.a
+/usr/lib/libstlink.so -> /usr/lib/libstlink.so.1

@@ -1,0 +1,3 @@
+/usr/include/ebur128.h
+/usr/lib/libebur128.so -> /usr/lib/libebur128.so.1
+/usr/lib/pkgconfig/libebur128.pc

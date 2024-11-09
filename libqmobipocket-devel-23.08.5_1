@@ -1,0 +1,9 @@
+/usr/include/QMobipocket/qmobipocket/mobipocket.h
+/usr/include/QMobipocket/qmobipocket/qfilestream.h
+/usr/include/QMobipocket/qmobipocket/qmobipocket_export.h
+/usr/include/QMobipocket/qmobipocket_version.h
+/usr/lib/cmake/QMobipocket/QMobipocketConfig.cmake
+/usr/lib/cmake/QMobipocket/QMobipocketConfigVersion.cmake
+/usr/lib/cmake/QMobipocket/QMobipocketTargets-none.cmake
+/usr/lib/cmake/QMobipocket/QMobipocketTargets.cmake
+/usr/lib/libqmobipocket.so -> /usr/lib/libqmobipocket.so.2

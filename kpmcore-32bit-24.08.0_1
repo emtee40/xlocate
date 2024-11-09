@@ -1,0 +1,4 @@
+/usr/lib32/libkpmcore.so.12 -> /usr/lib32/libkpmcore.so.24.08.0
+/usr/lib32/libkpmcore.so.24.08.0
+/usr/lib32/qt6/plugins/kpmcore/pmdummybackendplugin.so
+/usr/lib32/qt6/plugins/kpmcore/pmsfdiskbackendplugin.so

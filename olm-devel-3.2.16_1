@@ -1,0 +1,13 @@
+/usr/include/olm/error.h
+/usr/include/olm/inbound_group_session.h
+/usr/include/olm/olm.h
+/usr/include/olm/olm_export.h
+/usr/include/olm/outbound_group_session.h
+/usr/include/olm/pk.h
+/usr/include/olm/sas.h
+/usr/lib/cmake/Olm/OlmConfig.cmake
+/usr/lib/cmake/Olm/OlmConfigVersion.cmake
+/usr/lib/cmake/Olm/OlmTargets-none.cmake
+/usr/lib/cmake/Olm/OlmTargets.cmake
+/usr/lib/libolm.so -> /usr/lib/libolm.so.3
+/usr/lib/pkgconfig/olm.pc

@@ -1,0 +1,9 @@
+/usr/bin/lodraw
+/usr/lib/libreoffice/program/libpdfimportlo.so
+/usr/lib/libreoffice/program/sdraw
+/usr/lib/libreoffice/program/xpdfimport
+/usr/lib/libreoffice/share/registry/draw.xcd
+/usr/lib/libreoffice/share/registry/pdfimport.xcd
+/usr/share/applications/libreoffice-draw.desktop -> /usr/lib/libreoffice/share/xdg/draw.desktop
+/usr/share/man/man1/lodraw.1
+/usr/share/metainfo/libreoffice-draw.appdata.xml

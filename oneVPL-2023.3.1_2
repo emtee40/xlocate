@@ -1,0 +1,6 @@
+/etc/modulefiles/vpl
+/usr/lib/libvpl.so.2 -> /usr/lib/libvpl.so.2.9
+/usr/lib/libvpl.so.2.9
+/usr/share/licenses/oneVPL/LICENSE
+/usr/share/vpl/licensing/license.txt
+/usr/share/vpl/licensing/third-party-programs.txt

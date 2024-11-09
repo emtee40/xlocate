@@ -1,0 +1,9 @@
+/usr/lib32/libkpathsea.a
+/usr/lib32/libkpathsea.so -> /usr/lib32/libkpathsea.so.6.3.5
+/usr/lib32/libptexenc.a
+/usr/lib32/libptexenc.so -> /usr/lib32/libptexenc.so.1.4.3
+/usr/lib32/libsynctex.a
+/usr/lib32/libsynctex.so -> /usr/lib32/libsynctex.so.2.0.0
+/usr/lib32/pkgconfig/kpathsea.pc
+/usr/lib32/pkgconfig/ptexenc.pc
+/usr/lib32/pkgconfig/synctex.pc

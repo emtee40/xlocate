@@ -1,0 +1,8 @@
+/usr/bin/cgi-fcgi
+/usr/lib/libfcgi++.so.0 -> /usr/lib/libfcgi++.so.0.0.0
+/usr/lib/libfcgi++.so.0.0.0
+/usr/lib/libfcgi.so.0 -> /usr/lib/libfcgi.so.0.0.0
+/usr/lib/libfcgi.so.0.0.0
+/usr/lib/pkgconfig/fcgi++.pc
+/usr/lib/pkgconfig/fcgi.pc
+/usr/share/licenses/fcgi/LICENSE

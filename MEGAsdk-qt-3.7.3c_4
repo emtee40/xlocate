@@ -1,0 +1,13 @@
+/usr/share/MEGAsdk/bindings/qt/QTMegaEvent.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaEvent.h
+/usr/share/MEGAsdk/bindings/qt/QTMegaGlobalListener.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaGlobalListener.h
+/usr/share/MEGAsdk/bindings/qt/QTMegaListener.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaListener.h
+/usr/share/MEGAsdk/bindings/qt/QTMegaRequestListener.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaRequestListener.h
+/usr/share/MEGAsdk/bindings/qt/QTMegaSyncListener.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaSyncListener.h
+/usr/share/MEGAsdk/bindings/qt/QTMegaTransferListener.cpp
+/usr/share/MEGAsdk/bindings/qt/QTMegaTransferListener.h
+/usr/share/MEGAsdk/bindings/qt/sdk.pri

@@ -1,0 +1,13 @@
+/usr/include/oping.h
+/usr/lib/liboping.a
+/usr/lib/liboping.so -> /usr/lib/liboping.so.0.3.0
+/usr/lib/pkgconfig/liboping.pc
+/usr/share/man/man3/liboping.3
+/usr/share/man/man3/ping_construct.3
+/usr/share/man/man3/ping_get_error.3
+/usr/share/man/man3/ping_host_add.3
+/usr/share/man/man3/ping_iterator_get.3
+/usr/share/man/man3/ping_iterator_get_context.3
+/usr/share/man/man3/ping_iterator_get_info.3
+/usr/share/man/man3/ping_send.3
+/usr/share/man/man3/ping_setopt.3

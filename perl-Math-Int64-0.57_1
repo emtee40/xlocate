@@ -1,0 +1,9 @@
+/usr/lib/perl5/vendor_perl/Math/Int64.pm
+/usr/lib/perl5/vendor_perl/Math/Int64/die_on_overflow.pm
+/usr/lib/perl5/vendor_perl/Math/Int64/native_if_available.pm
+/usr/lib/perl5/vendor_perl/Math/UInt64.pm
+/usr/lib/perl5/vendor_perl/auto/Math/Int64/Int64.so
+/usr/share/man/man3/Math::Int64.3p
+/usr/share/man/man3/Math::Int64::die_on_overflow.3p
+/usr/share/man/man3/Math::Int64::native_if_available.3p
+/usr/share/man/man3/Math::UInt64.3p

@@ -1,0 +1,57 @@
+/usr/bin/higan
+/usr/bin/icarus
+/usr/share/applications/higan.desktop
+/usr/share/applications/icarus.desktop
+/usr/share/higan/ColecoVision/Controller/Gamepad/.gitignore
+/usr/share/higan/Famicom/Controller/Gamepad/.gitignore
+/usr/share/higan/Game Boy Advance/.gitignore
+/usr/share/higan/Game Boy Color/boot.cgb-0.rom
+/usr/share/higan/Game Boy Color/boot.cgb-1.rom
+/usr/share/higan/Game Boy Player/.gitignore
+/usr/share/higan/Game Boy/boot.dmg-0.rom
+/usr/share/higan/Game Boy/boot.dmg-1.rom
+/usr/share/higan/Game Boy/boot.mgb.rom
+/usr/share/higan/Game Gear/.gitignore
+/usr/share/higan/MSX/Controller/Gamepad/.gitignore
+/usr/share/higan/MSX/Keyboard/Japanese/layout.bml
+/usr/share/higan/MSX/bios.rom
+/usr/share/higan/MSX2/Controller/Gamepad/.gitignore
+/usr/share/higan/MSX2/Keyboard/Japanese/layout.bml
+/usr/share/higan/MSX2/bios.rom
+/usr/share/higan/MSX2/sub.rom
+/usr/share/higan/Master System/Controller/Gamepad/.gitignore
+/usr/share/higan/Mega Drive/Controller/Control Pad/.gitignore
+/usr/share/higan/Mega Drive/Controller/Fighting Pad/.gitignore
+/usr/share/higan/Mega Drive/tmss.rom
+/usr/share/higan/Neo Geo Pocket Color/.gitignore
+/usr/share/higan/Neo Geo Pocket/.gitignore
+/usr/share/higan/PC Engine/Controller/Avenue Pad 6/.gitignore
+/usr/share/higan/PC Engine/Controller/Gamepad/.gitignore
+/usr/share/higan/Pocket Challenge V2/boot.rom
+/usr/share/higan/SC-3000/Controller/Gamepad/.gitignore
+/usr/share/higan/SG-1000/Controller/Gamepad/.gitignore
+/usr/share/higan/Super Famicom/Controller/Gamepad/.gitignore
+/usr/share/higan/Super Famicom/Controller/Justifier/.gitignore
+/usr/share/higan/Super Famicom/Controller/Justifiers/.gitignore
+/usr/share/higan/Super Famicom/Controller/Mouse/.gitignore
+/usr/share/higan/Super Famicom/Controller/NTT Data Keypad/.gitignore
+/usr/share/higan/Super Famicom/Controller/Super Multitap/.gitignore
+/usr/share/higan/Super Famicom/Controller/Super Scope/.gitignore
+/usr/share/higan/Super Famicom/Controller/Twin Tap/.gitignore
+/usr/share/higan/Super Famicom/Expansion/21fx/.gitignore
+/usr/share/higan/Super Famicom/Expansion/Satellaview/.gitignore
+/usr/share/higan/Super Famicom/boards.bml
+/usr/share/higan/Super Famicom/ipl.rom
+/usr/share/higan/SuperGrafx/Controller/Gamepad/.gitignore
+/usr/share/higan/SwanCrystal/boot.rom
+/usr/share/higan/WonderSwan Color/boot.rom
+/usr/share/higan/WonderSwan/boot.rom
+/usr/share/icarus/Database/BS Memory.bml
+/usr/share/icarus/Database/Sufami Turbo.bml
+/usr/share/icarus/Database/Super Famicom.bml
+/usr/share/icarus/Firmware/cx4.data.rom
+/usr/share/icarus/Firmware/sgb1.boot.rom
+/usr/share/icarus/Firmware/sgb2.boot.rom
+/usr/share/icons/higan.png
+/usr/share/icons/icarus.png
+/usr/share/licenses/higan/LICENSE.txt

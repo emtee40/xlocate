@@ -1,0 +1,5 @@
+/usr/lib32/ocaml/ocamlbuild/ocamlbuild.o
+/usr/lib32/ocaml/ocamlbuild/ocamlbuild_executor.o
+/usr/lib32/ocaml/ocamlbuild/ocamlbuild_plugin.o
+/usr/lib32/ocaml/ocamlbuild/ocamlbuild_unix_plugin.o
+/usr/lib32/ocaml/ocamlbuild/ocamlbuildlib.a

@@ -1,0 +1,3 @@
+/usr/include/rw.h
+/usr/lib/librw.a
+/usr/lib/librw.so -> /usr/lib/librw.so.0.0.0

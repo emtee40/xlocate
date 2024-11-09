@@ -1,0 +1,8 @@
+/usr/lib32/libpe.so -> /usr/lib32/libpe.so.1.0
+/usr/lib32/libpe.so.1 -> /usr/lib32/libpe.so.1.0
+/usr/lib32/libpe.so.1.0
+/usr/lib32/pev/plugins/csv_plugin.so
+/usr/lib32/pev/plugins/html_plugin.so
+/usr/lib32/pev/plugins/json_plugin.so
+/usr/lib32/pev/plugins/text_plugin.so
+/usr/lib32/pev/plugins/xml_plugin.so

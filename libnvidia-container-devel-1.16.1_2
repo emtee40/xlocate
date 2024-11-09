@@ -1,0 +1,5 @@
+/usr/include/nvc.h
+/usr/lib/libnvidia-container-devel-go.so -> /usr/lib/libnvidia-container-devel-go.so.1.16.1
+/usr/lib/libnvidia-container-devel.so -> /usr/lib/libnvidia-container-devel.so.1.16.1
+/usr/lib/libnvidia-container.a
+/usr/lib/pkgconfig/libnvidia-container.pc

@@ -1,0 +1,14 @@
+/etc/default/scpio -> /etc/default/star
+/etc/default/spax -> /etc/default/star
+/etc/default/star
+/etc/default/suntar -> /etc/default/star
+/usr/bin/scpio -> /usr/bin/star
+/usr/bin/spax -> /usr/bin/star
+/usr/bin/star
+/usr/bin/suntar -> /usr/bin/star
+/usr/share/licenses/star/CDDL.Schily.txt
+/usr/share/man/man1/scpio.1
+/usr/share/man/man1/spax.1
+/usr/share/man/man1/star.1
+/usr/share/man/man1/suntar.1
+/usr/share/man/man5/star.5

@@ -1,0 +1,4 @@
+/usr/include/wv/wv.h
+/usr/lib/libwv.a
+/usr/lib/libwv.so -> /usr/lib/libwv-1.2.so.4.0.5
+/usr/lib/pkgconfig/wv-1.0.pc

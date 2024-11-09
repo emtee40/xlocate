@@ -1,0 +1,9 @@
+/etc/profile.d/lesspipe.csh
+/etc/profile.d/lesspipe.sh
+/usr/bin/archive_color
+/usr/bin/code2color
+/usr/bin/lesspipe.sh
+/usr/bin/sxw2txt
+/usr/bin/vimcolor
+/usr/share/doc/lesspipe/README.md
+/usr/share/man/man1/lesspipe.1

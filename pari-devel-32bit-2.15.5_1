@@ -1,0 +1,2 @@
+/usr/lib32/libpari.a
+/usr/lib32/libpari.so -> /usr/lib32/libpari-gmp-tls.so.2.15.5

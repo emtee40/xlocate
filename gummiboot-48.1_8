@@ -1,0 +1,6 @@
+/etc/default/gummiboot
+/etc/kernel.d/post-install/50-gummiboot
+/etc/kernel.d/post-remove/50-gummiboot
+/usr/bin/gummiboot
+/usr/lib/gummiboot/gummibootx64.efi
+/usr/share/man/man8/gummiboot.8

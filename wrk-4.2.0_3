@@ -1,0 +1,13 @@
+/usr/bin/wrk
+/usr/share/doc/wrk/CHANGES
+/usr/share/doc/wrk/README.md
+/usr/share/doc/wrk/SCRIPTING
+/usr/share/examples/wrk/addr.lua
+/usr/share/examples/wrk/auth.lua
+/usr/share/examples/wrk/counter.lua
+/usr/share/examples/wrk/delay.lua
+/usr/share/examples/wrk/pipeline.lua
+/usr/share/examples/wrk/post.lua
+/usr/share/examples/wrk/report.lua
+/usr/share/examples/wrk/setup.lua
+/usr/share/examples/wrk/stop.lua

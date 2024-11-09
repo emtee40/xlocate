@@ -1,0 +1,16 @@
+/usr/bin/chardet-config
+/usr/include/chardet/chardet-config.h
+/usr/include/chardet/chardet.h
+/usr/include/chardet/nsUniversalDetector.h
+/usr/include/chardet/nscore.h
+/usr/include/chardet/version.h
+/usr/lib/libchardet.a
+/usr/lib/libchardet.so -> /usr/lib/libchardet.so.1.0.0
+/usr/lib/pkgconfig/chardet.pc
+/usr/share/man/man3/detect.3
+/usr/share/man/man3/detect_destroy.3
+/usr/share/man/man3/detect_handledata.3
+/usr/share/man/man3/detect_init.3
+/usr/share/man/man3/detect_obj_free.3
+/usr/share/man/man3/detect_obj_init.3
+/usr/share/man/man3/detect_reset.3

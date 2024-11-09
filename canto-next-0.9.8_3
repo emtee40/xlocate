@@ -1,0 +1,35 @@
+/etc/sv/canto-daemon/finish
+/etc/sv/canto-daemon/log/run
+/etc/sv/canto-daemon/log/supervise -> /run/runit/supervise.canto-daemon-log
+/etc/sv/canto-daemon/run
+/etc/sv/canto-daemon/supervise -> /run/runit/supervise.canto-daemon
+/usr/bin/canto-daemon
+/usr/bin/canto-remote
+/usr/lib/canto/plugins/reddit.py
+/usr/lib/canto/plugins/script.py
+/usr/lib/canto/plugins/sync-inoreader.py
+/usr/lib/canto/plugins/sync-rsync.py
+/usr/lib/python3.12/site-packages/Canto-0.9.8-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/Canto-0.9.8-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/Canto-0.9.8-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/Canto-0.9.8-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/canto_next/__init__.py
+/usr/lib/python3.12/site-packages/canto_next/canto_backend.py
+/usr/lib/python3.12/site-packages/canto_next/client.py
+/usr/lib/python3.12/site-packages/canto_next/config.py
+/usr/lib/python3.12/site-packages/canto_next/encoding.py
+/usr/lib/python3.12/site-packages/canto_next/feed.py
+/usr/lib/python3.12/site-packages/canto_next/fetch.py
+/usr/lib/python3.12/site-packages/canto_next/format.py
+/usr/lib/python3.12/site-packages/canto_next/hooks.py
+/usr/lib/python3.12/site-packages/canto_next/locks.py
+/usr/lib/python3.12/site-packages/canto_next/plugins.py
+/usr/lib/python3.12/site-packages/canto_next/protocol.py
+/usr/lib/python3.12/site-packages/canto_next/remote.py
+/usr/lib/python3.12/site-packages/canto_next/rwlock.py
+/usr/lib/python3.12/site-packages/canto_next/server.py
+/usr/lib/python3.12/site-packages/canto_next/storage.py
+/usr/lib/python3.12/site-packages/canto_next/tag.py
+/usr/lib/python3.12/site-packages/canto_next/transform.py
+/usr/share/man/man1/canto-daemon.1
+/usr/share/man/man1/canto-remote.1

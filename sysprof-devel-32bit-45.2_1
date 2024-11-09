@@ -1,0 +1,4 @@
+/usr/lib32/libsysprof-6.so -> /usr/lib32/libsysprof-6.so.6
+/usr/lib32/libsysprof-capture-4.a
+/usr/lib32/pkgconfig/sysprof-6.pc
+/usr/lib32/pkgconfig/sysprof-capture-4.pc

@@ -1,0 +1,4 @@
+/usr/bin/zabbix_get
+/usr/bin/zabbix_sender
+/usr/share/man/man1/zabbix_get.1
+/usr/share/man/man1/zabbix_sender.1

@@ -1,0 +1,158 @@
+/usr/lib32/gnunet/libgnunet_plugin_ats_proportional.so
+/usr/lib32/gnunet/libgnunet_plugin_block_consensus.so
+/usr/lib32/gnunet/libgnunet_plugin_block_dht.so
+/usr/lib32/gnunet/libgnunet_plugin_block_dns.so
+/usr/lib32/gnunet/libgnunet_plugin_block_fs.so
+/usr/lib32/gnunet/libgnunet_plugin_block_gns.so
+/usr/lib32/gnunet/libgnunet_plugin_block_regex.so
+/usr/lib32/gnunet/libgnunet_plugin_block_revocation.so
+/usr/lib32/gnunet/libgnunet_plugin_block_set_test.so
+/usr/lib32/gnunet/libgnunet_plugin_block_test.so
+/usr/lib32/gnunet/libgnunet_plugin_datacache_heap.so
+/usr/lib32/gnunet/libgnunet_plugin_datacache_postgres.so
+/usr/lib32/gnunet/libgnunet_plugin_datacache_sqlite.so
+/usr/lib32/gnunet/libgnunet_plugin_datastore_heap.so
+/usr/lib32/gnunet/libgnunet_plugin_datastore_mysql.so
+/usr/lib32/gnunet/libgnunet_plugin_datastore_postgres.so
+/usr/lib32/gnunet/libgnunet_plugin_datastore_sqlite.so
+/usr/lib32/gnunet/libgnunet_plugin_gnsrecord_conversation.so
+/usr/lib32/gnunet/libgnunet_plugin_gnsrecord_dns.so
+/usr/lib32/gnunet/libgnunet_plugin_gnsrecord_gns.so
+/usr/lib32/gnunet/libgnunet_plugin_gnsrecord_reclaim.so
+/usr/lib32/gnunet/libgnunet_plugin_namecache_postgres.so
+/usr/lib32/gnunet/libgnunet_plugin_namecache_sqlite.so
+/usr/lib32/gnunet/libgnunet_plugin_namestore_flat.so
+/usr/lib32/gnunet/libgnunet_plugin_namestore_postgres.so
+/usr/lib32/gnunet/libgnunet_plugin_namestore_sqlite.so
+/usr/lib32/gnunet/libgnunet_plugin_peerstore_sqlite.so
+/usr/lib32/gnunet/libgnunet_plugin_reclaim_attribute_gnuid.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_config.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_copying.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_gns.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_identity.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_namestore.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_openid_connect.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_peerinfo.so
+/usr/lib32/gnunet/libgnunet_plugin_rest_reclaim.so
+/usr/lib32/gnunet/libgnunet_plugin_test.so
+/usr/lib32/gnunet/libgnunet_plugin_transport_http_server.so
+/usr/lib32/gnunet/libgnunet_plugin_transport_https_server.so
+/usr/lib32/gnunet/libgnunet_plugin_transport_tcp.so
+/usr/lib32/gnunet/libgnunet_plugin_transport_unix.so
+/usr/lib32/gnunet/nss/libnss_gns.so.2
+/usr/lib32/gnunet/nss/libnss_gns4.so.2
+/usr/lib32/gnunet/nss/libnss_gns6.so.2
+/usr/lib32/libgnunetarm.so.2 -> /usr/lib32/libgnunetarm.so.2.0.0
+/usr/lib32/libgnunetarm.so.2.0.0
+/usr/lib32/libgnunetats.so.4 -> /usr/lib32/libgnunetats.so.4.0.0
+/usr/lib32/libgnunetats.so.4.0.0
+/usr/lib32/libgnunetatstesting.so.0 -> /usr/lib32/libgnunetatstesting.so.0.0.0
+/usr/lib32/libgnunetatstesting.so.0.0.0
+/usr/lib32/libgnunetblock.so.0 -> /usr/lib32/libgnunetblock.so.0.0.0
+/usr/lib32/libgnunetblock.so.0.0.0
+/usr/lib32/libgnunetblockgroup.so.0 -> /usr/lib32/libgnunetblockgroup.so.0.0.0
+/usr/lib32/libgnunetblockgroup.so.0.0.0
+/usr/lib32/libgnunetcadet.so.7 -> /usr/lib32/libgnunetcadet.so.7.0.0
+/usr/lib32/libgnunetcadet.so.7.0.0
+/usr/lib32/libgnunetconsensus.so.0 -> /usr/lib32/libgnunetconsensus.so.0.0.0
+/usr/lib32/libgnunetconsensus.so.0.0.0
+/usr/lib32/libgnunetconversation.so.0 -> /usr/lib32/libgnunetconversation.so.0.0.0
+/usr/lib32/libgnunetconversation.so.0.0.0
+/usr/lib32/libgnunetcore.so.0 -> /usr/lib32/libgnunetcore.so.0.0.1
+/usr/lib32/libgnunetcore.so.0.0.1
+/usr/lib32/libgnunetdatacache.so.0 -> /usr/lib32/libgnunetdatacache.so.0.0.1
+/usr/lib32/libgnunetdatacache.so.0.0.1
+/usr/lib32/libgnunetdatastore.so.1 -> /usr/lib32/libgnunetdatastore.so.1.0.0
+/usr/lib32/libgnunetdatastore.so.1.0.0
+/usr/lib32/libgnunetdht.so.3 -> /usr/lib32/libgnunetdht.so.3.0.0
+/usr/lib32/libgnunetdht.so.3.0.0
+/usr/lib32/libgnunetdns.so.0 -> /usr/lib32/libgnunetdns.so.0.0.0
+/usr/lib32/libgnunetdns.so.0.0.0
+/usr/lib32/libgnunetfragmentation.so.2 -> /usr/lib32/libgnunetfragmentation.so.2.0.0
+/usr/lib32/libgnunetfragmentation.so.2.0.0
+/usr/lib32/libgnunetfriends.so.0 -> /usr/lib32/libgnunetfriends.so.0.0.0
+/usr/lib32/libgnunetfriends.so.0.0.0
+/usr/lib32/libgnunetfs.so.2 -> /usr/lib32/libgnunetfs.so.2.1.1
+/usr/lib32/libgnunetfs.so.2.1.1
+/usr/lib32/libgnunetgns.so.0 -> /usr/lib32/libgnunetgns.so.0.0.0
+/usr/lib32/libgnunetgns.so.0.0.0
+/usr/lib32/libgnunetgnsrecord.so.0 -> /usr/lib32/libgnunetgnsrecord.so.0.0.0
+/usr/lib32/libgnunetgnsrecord.so.0.0.0
+/usr/lib32/libgnunethello.so.0 -> /usr/lib32/libgnunethello.so.0.1.0
+/usr/lib32/libgnunethello.so.0.1.0
+/usr/lib32/libgnunetidentity.so.1 -> /usr/lib32/libgnunetidentity.so.1.0.0
+/usr/lib32/libgnunetidentity.so.1.0.0
+/usr/lib32/libgnunetjson.so.0 -> /usr/lib32/libgnunetjson.so.0.0.0
+/usr/lib32/libgnunetjson.so.0.0.0
+/usr/lib32/libgnunetmicrophone.so.0 -> /usr/lib32/libgnunetmicrophone.so.0.0.0
+/usr/lib32/libgnunetmicrophone.so.0.0.0
+/usr/lib32/libgnunetmy.so.0 -> /usr/lib32/libgnunetmy.so.0.0.0
+/usr/lib32/libgnunetmy.so.0.0.0
+/usr/lib32/libgnunetmysql.so.0 -> /usr/lib32/libgnunetmysql.so.0.0.0
+/usr/lib32/libgnunetmysql.so.0.0.0
+/usr/lib32/libgnunetnamecache.so.0 -> /usr/lib32/libgnunetnamecache.so.0.0.0
+/usr/lib32/libgnunetnamecache.so.0.0.0
+/usr/lib32/libgnunetnamestore.so.0 -> /usr/lib32/libgnunetnamestore.so.0.0.1
+/usr/lib32/libgnunetnamestore.so.0.0.1
+/usr/lib32/libgnunetnatauto.so.0 -> /usr/lib32/libgnunetnatauto.so.0.0.0
+/usr/lib32/libgnunetnatauto.so.0.0.0
+/usr/lib32/libgnunetnatnew.so.2 -> /usr/lib32/libgnunetnatnew.so.2.0.0
+/usr/lib32/libgnunetnatnew.so.2.0.0
+/usr/lib32/libgnunetnse.so.0 -> /usr/lib32/libgnunetnse.so.0.0.0
+/usr/lib32/libgnunetnse.so.0.0.0
+/usr/lib32/libgnunetnt.so.0 -> /usr/lib32/libgnunetnt.so.0.0.0
+/usr/lib32/libgnunetnt.so.0.0.0
+/usr/lib32/libgnunetpeerinfo.so.0 -> /usr/lib32/libgnunetpeerinfo.so.0.0.0
+/usr/lib32/libgnunetpeerinfo.so.0.0.0
+/usr/lib32/libgnunetpeerstore.so.0 -> /usr/lib32/libgnunetpeerstore.so.0.0.0
+/usr/lib32/libgnunetpeerstore.so.0.0.0
+/usr/lib32/libgnunetpq.so.1 -> /usr/lib32/libgnunetpq.so.1.0.0
+/usr/lib32/libgnunetpq.so.1.0.0
+/usr/lib32/libgnunetreclaim.so.0 -> /usr/lib32/libgnunetreclaim.so.0.0.0
+/usr/lib32/libgnunetreclaim.so.0.0.0
+/usr/lib32/libgnunetreclaimattribute.so.0 -> /usr/lib32/libgnunetreclaimattribute.so.0.0.0
+/usr/lib32/libgnunetreclaimattribute.so.0.0.0
+/usr/lib32/libgnunetregex.so.3 -> /usr/lib32/libgnunetregex.so.3.0.1
+/usr/lib32/libgnunetregex.so.3.0.1
+/usr/lib32/libgnunetregexblock.so.1 -> /usr/lib32/libgnunetregexblock.so.1.0.0
+/usr/lib32/libgnunetregexblock.so.1.0.0
+/usr/lib32/libgnunetrest.so.0 -> /usr/lib32/libgnunetrest.so.0.0.0
+/usr/lib32/libgnunetrest.so.0.0.0
+/usr/lib32/libgnunetrevocation.so.0 -> /usr/lib32/libgnunetrevocation.so.0.0.0
+/usr/lib32/libgnunetrevocation.so.0.0.0
+/usr/lib32/libgnunetscalarproduct.so.0 -> /usr/lib32/libgnunetscalarproduct.so.0.0.0
+/usr/lib32/libgnunetscalarproduct.so.0.0.0
+/usr/lib32/libgnunetsecretsharing.so.0 -> /usr/lib32/libgnunetsecretsharing.so.0.0.0
+/usr/lib32/libgnunetsecretsharing.so.0.0.0
+/usr/lib32/libgnunetset.so.0 -> /usr/lib32/libgnunetset.so.0.0.0
+/usr/lib32/libgnunetset.so.0.0.0
+/usr/lib32/libgnunetspeaker.so.0 -> /usr/lib32/libgnunetspeaker.so.0.0.0
+/usr/lib32/libgnunetspeaker.so.0.0.0
+/usr/lib32/libgnunetsq.so.0 -> /usr/lib32/libgnunetsq.so.0.0.0
+/usr/lib32/libgnunetsq.so.0.0.0
+/usr/lib32/libgnunetstatistics.so.2 -> /usr/lib32/libgnunetstatistics.so.2.0.0
+/usr/lib32/libgnunetstatistics.so.2.0.0
+/usr/lib32/libgnunettestbed.so.0 -> /usr/lib32/libgnunettestbed.so.0.0.0
+/usr/lib32/libgnunettestbed.so.0.0.0
+/usr/lib32/libgnunettestbedlogger.so.0 -> /usr/lib32/libgnunettestbedlogger.so.0.0.0
+/usr/lib32/libgnunettestbedlogger.so.0.0.0
+/usr/lib32/libgnunettesting.so.1 -> /usr/lib32/libgnunettesting.so.1.1.0
+/usr/lib32/libgnunettesting.so.1.1.0
+/usr/lib32/libgnunettransport.so.2 -> /usr/lib32/libgnunettransport.so.2.2.0
+/usr/lib32/libgnunettransport.so.2.2.0
+/usr/lib32/libgnunettransportapplication.so.0 -> /usr/lib32/libgnunettransportapplication.so.0.0.0
+/usr/lib32/libgnunettransportapplication.so.0.0.0
+/usr/lib32/libgnunettransportcommunicator.so.0 -> /usr/lib32/libgnunettransportcommunicator.so.0.0.0
+/usr/lib32/libgnunettransportcommunicator.so.0.0.0
+/usr/lib32/libgnunettransportcore.so.0 -> /usr/lib32/libgnunettransportcore.so.0.0.0
+/usr/lib32/libgnunettransportcore.so.0.0.0
+/usr/lib32/libgnunettransportmonitor.so.0 -> /usr/lib32/libgnunettransportmonitor.so.0.0.0
+/usr/lib32/libgnunettransportmonitor.so.0.0.0
+/usr/lib32/libgnunettransporttesting.so.0 -> /usr/lib32/libgnunettransporttesting.so.0.0.0
+/usr/lib32/libgnunettransporttesting.so.0.0.0
+/usr/lib32/libgnunettransporttesting2.so.0 -> /usr/lib32/libgnunettransporttesting2.so.0.0.0
+/usr/lib32/libgnunettransporttesting2.so.0.0.0
+/usr/lib32/libgnunetutil.so.13 -> /usr/lib32/libgnunetutil.so.13.0.2
+/usr/lib32/libgnunetutil.so.13.0.2
+/usr/lib32/libgnunetvpn.so.0 -> /usr/lib32/libgnunetvpn.so.0.0.0
+/usr/lib32/libgnunetvpn.so.0.0.0

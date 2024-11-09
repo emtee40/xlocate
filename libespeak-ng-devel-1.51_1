@@ -1,0 +1,7 @@
+/usr/include/espeak-ng/encoding.h
+/usr/include/espeak-ng/espeak_ng.h
+/usr/include/espeak-ng/speak_lib.h
+/usr/include/espeak/speak_lib.h
+/usr/lib/libespeak-ng.a
+/usr/lib/libespeak-ng.so -> /usr/lib/libespeak-ng.so.1.1.51
+/usr/lib/pkgconfig/espeak-ng.pc

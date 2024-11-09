@@ -1,0 +1,3 @@
+/usr/lib32/libXrandr.a
+/usr/lib32/libXrandr.so -> /usr/lib32/libXrandr.so.2.2.0
+/usr/lib32/pkgconfig/xrandr.pc

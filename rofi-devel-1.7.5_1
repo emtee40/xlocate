@@ -1,0 +1,6 @@
+/usr/include/rofi/helper.h
+/usr/include/rofi/mode-private.h
+/usr/include/rofi/mode.h
+/usr/include/rofi/rofi-icon-fetcher.h
+/usr/include/rofi/rofi-types.h
+/usr/lib/pkgconfig/rofi.pc

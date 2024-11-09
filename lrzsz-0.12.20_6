@@ -1,0 +1,8 @@
+/usr/bin/rb -> /usr/bin/rz
+/usr/bin/rx -> /usr/bin/rz
+/usr/bin/rz
+/usr/bin/sb -> /usr/bin/sz
+/usr/bin/sx -> /usr/bin/sz
+/usr/bin/sz
+/usr/share/man/man1/rz.1
+/usr/share/man/man1/sz.1

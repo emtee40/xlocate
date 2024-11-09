@@ -1,0 +1,12 @@
+/usr/bin/bcache
+/usr/bin/bcache-super-show
+/usr/bin/make-bcache
+/usr/lib/dracut/modules.d/90bcache/module-setup.sh
+/usr/lib/initcpio/install/bcache
+/usr/lib/udev/bcache-register
+/usr/lib/udev/probe-bcache
+/usr/lib/udev/rules.d/69-bcache.rules
+/usr/share/initramfs-tools/hooks/bcache
+/usr/share/man/man8/bcache-super-show.8
+/usr/share/man/man8/make-bcache.8
+/usr/share/man/man8/probe-bcache.8

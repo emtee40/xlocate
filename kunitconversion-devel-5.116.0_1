@@ -1,0 +1,16 @@
+/usr/include/KF5/KUnitConversion/KUnitConversion/Converter
+/usr/include/KF5/KUnitConversion/KUnitConversion/Unit
+/usr/include/KF5/KUnitConversion/KUnitConversion/UnitCategory
+/usr/include/KF5/KUnitConversion/KUnitConversion/Value
+/usr/include/KF5/KUnitConversion/kunitconversion/converter.h
+/usr/include/KF5/KUnitConversion/kunitconversion/kunitconversion_export.h
+/usr/include/KF5/KUnitConversion/kunitconversion/unit.h
+/usr/include/KF5/KUnitConversion/kunitconversion/unitcategory.h
+/usr/include/KF5/KUnitConversion/kunitconversion/value.h
+/usr/include/KF5/KUnitConversion/kunitconversion_version.h
+/usr/lib/cmake/KF5UnitConversion/KF5UnitConversionConfig.cmake
+/usr/lib/cmake/KF5UnitConversion/KF5UnitConversionConfigVersion.cmake
+/usr/lib/cmake/KF5UnitConversion/KF5UnitConversionTargets-none.cmake
+/usr/lib/cmake/KF5UnitConversion/KF5UnitConversionTargets.cmake
+/usr/lib/libKF5UnitConversion.so -> /usr/lib/libKF5UnitConversion.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KUnitConversion.pri

@@ -1,0 +1,16 @@
+/usr/bin/pprof
+/usr/bin/pprof-symbolize
+/usr/lib/libprofiler.so.0 -> /usr/lib/libprofiler.so.0.5.0
+/usr/lib/libprofiler.so.0.5.0
+/usr/lib/libtcmalloc.so.4 -> /usr/lib/libtcmalloc.so.4.5.5
+/usr/lib/libtcmalloc.so.4.5.5
+/usr/lib/libtcmalloc_and_profiler.so.4 -> /usr/lib/libtcmalloc_and_profiler.so.4.6.0
+/usr/lib/libtcmalloc_and_profiler.so.4.6.0
+/usr/lib/libtcmalloc_debug.so.4 -> /usr/lib/libtcmalloc_debug.so.4.5.5
+/usr/lib/libtcmalloc_debug.so.4.5.5
+/usr/lib/libtcmalloc_minimal.so.4 -> /usr/lib/libtcmalloc_minimal.so.4.5.5
+/usr/lib/libtcmalloc_minimal.so.4.5.5
+/usr/lib/libtcmalloc_minimal_debug.so.4 -> /usr/lib/libtcmalloc_minimal_debug.so.4.5.5
+/usr/lib/libtcmalloc_minimal_debug.so.4.5.5
+/usr/share/licenses/gperftools/COPYING
+/usr/share/man/man1/pprof.1

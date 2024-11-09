@@ -1,0 +1,11 @@
+/etc/sv/hitch/log/run
+/etc/sv/hitch/log/supervise -> /run/runit/supervise.hitch-log
+/etc/sv/hitch/run
+/etc/sv/hitch/supervise -> /run/runit/supervise.hitch
+/usr/bin/hitch
+/usr/share/doc/hitch/CHANGES.rst
+/usr/share/doc/hitch/README.md
+/usr/share/doc/hitch/hitch.conf.example
+/usr/share/licenses/hitch/LICENSE
+/usr/share/man/man5/hitch.conf.5
+/usr/share/man/man8/hitch.8

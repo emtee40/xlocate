@@ -1,0 +1,6 @@
+/usr/bin/lbunzip2 -> /usr/bin/lbzip2
+/usr/bin/lbzcat -> /usr/bin/lbzip2
+/usr/bin/lbzip2
+/usr/share/man/man1/lbunzip2.1
+/usr/share/man/man1/lbzcat.1
+/usr/share/man/man1/lbzip2.1

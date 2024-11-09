@@ -1,0 +1,3 @@
+/usr/lib32/libdeflate.a
+/usr/lib32/libdeflate.so -> /usr/lib32/libdeflate.so.0
+/usr/lib32/pkgconfig/libdeflate.pc

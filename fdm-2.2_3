@@ -1,0 +1,11 @@
+/usr/bin/fdm
+/usr/share/doc/fdm/MANUAL
+/usr/share/doc/fdm/examples/example_imap_folder.conf
+/usr/share/doc/fdm/examples/f-terbeck.conf
+/usr/share/doc/fdm/examples/g-lando.conf
+/usr/share/doc/fdm/examples/n-marriott.conf
+/usr/share/doc/fdm/examples/t-ulmer.conf
+/usr/share/doc/fdm/examples/w-maier.conf
+/usr/share/licenses/fdm/LICENSE
+/usr/share/man/man1/fdm.1
+/usr/share/man/man5/fdm.conf.5

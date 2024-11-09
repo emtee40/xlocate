@@ -1,0 +1,6 @@
+/usr/share/doc/hunspell-pt_PT-preao/README_pt_PT.txt
+/usr/share/hunspell-bdic/pt_PT.bdic
+/usr/share/hunspell/pt_PT-preao.aff
+/usr/share/hunspell/pt_PT-preao.dic
+/usr/share/hunspell/pt_PT.aff -> /usr/share/hunspell/pt_PT-preao.aff
+/usr/share/hunspell/pt_PT.dic -> /usr/share/hunspell/pt_PT-preao.dic

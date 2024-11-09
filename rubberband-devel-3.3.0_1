@@ -1,0 +1,5 @@
+/usr/include/rubberband/RubberBandStretcher.h
+/usr/include/rubberband/rubberband-c.h
+/usr/lib/librubberband.a
+/usr/lib/librubberband.so -> /usr/lib/librubberband.so.2
+/usr/lib/pkgconfig/rubberband.pc

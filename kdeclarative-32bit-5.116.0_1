@@ -1,0 +1,14 @@
+/usr/lib32/libKF5CalendarEvents.so.5 -> /usr/lib32/libKF5CalendarEvents.so.5.116.0
+/usr/lib32/libKF5CalendarEvents.so.5.116.0
+/usr/lib32/libKF5Declarative.so.5 -> /usr/lib32/libKF5Declarative.so.5.116.0
+/usr/lib32/libKF5Declarative.so.5.116.0
+/usr/lib32/libKF5QuickAddons.so.5 -> /usr/lib32/libKF5QuickAddons.so.5.116.0
+/usr/lib32/libKF5QuickAddons.so.5.116.0
+/usr/lib32/qt5/qml/org/kde/draganddrop/libdraganddropplugin.so
+/usr/lib32/qt5/qml/org/kde/kcm/libkcmcontrolsplugin.so
+/usr/lib32/qt5/qml/org/kde/kconfig/libkconfigplugin.so
+/usr/lib32/qt5/qml/org/kde/kcoreaddons/libkcoreaddonsplugin.so
+/usr/lib32/qt5/qml/org/kde/kio/libkio.so
+/usr/lib32/qt5/qml/org/kde/kquickcontrolsaddons/libkquickcontrolsaddonsplugin.so
+/usr/lib32/qt5/qml/org/kde/kwindowsystem/libkwindowsystem.so
+/usr/lib32/qt5/qml/org/kde/private/kquickcontrols/libkquickcontrolsprivateplugin.so

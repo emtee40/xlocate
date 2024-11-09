@@ -1,0 +1,4 @@
+/usr/lib32/libosdCPU.a
+/usr/lib32/libosdCPU.so -> /usr/lib32/libosdCPU.so.3.4.3
+/usr/lib32/libosdGPU.a
+/usr/lib32/libosdGPU.so -> /usr/lib32/libosdGPU.so.3.4.3

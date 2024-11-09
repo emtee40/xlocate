@@ -1,0 +1,10 @@
+/usr/include/m_pd.h
+/usr/include/pd/g_all_guis.h
+/usr/include/pd/g_canvas.h
+/usr/include/pd/g_undo.h
+/usr/include/pd/m_imp.h
+/usr/include/pd/m_pd.h
+/usr/include/pd/s_net.h
+/usr/include/pd/s_stuff.h
+/usr/include/pd/x_vexp.h
+/usr/lib/pkgconfig/pd.pc

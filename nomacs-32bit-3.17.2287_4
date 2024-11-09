@@ -1,0 +1,18 @@
+/usr/lib32/libnomacsCore.so -> /usr/lib32/libnomacsCore.so.3
+/usr/lib32/libnomacsCore.so.3 -> /usr/lib32/libnomacsCore.so.3.17.0
+/usr/lib32/libnomacsCore.so.3.17.0
+/usr/lib32/nomacs-plugins/libCompositePlugin.so -> /usr/lib32/nomacs-plugins/libCompositePlugin.so.3
+/usr/lib32/nomacs-plugins/libCompositePlugin.so.3 -> /usr/lib32/nomacs-plugins/libCompositePlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libCompositePlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libaffineTransformPlugin.so -> /usr/lib32/nomacs-plugins/libaffineTransformPlugin.so.3
+/usr/lib32/nomacs-plugins/libaffineTransformPlugin.so.3 -> /usr/lib32/nomacs-plugins/libaffineTransformPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libaffineTransformPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libfakeMiniaturesPlugin.so -> /usr/lib32/nomacs-plugins/libfakeMiniaturesPlugin.so.3
+/usr/lib32/nomacs-plugins/libfakeMiniaturesPlugin.so.3 -> /usr/lib32/nomacs-plugins/libfakeMiniaturesPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libfakeMiniaturesPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libpageExtractionPlugin.so -> /usr/lib32/nomacs-plugins/libpageExtractionPlugin.so.3
+/usr/lib32/nomacs-plugins/libpageExtractionPlugin.so.3 -> /usr/lib32/nomacs-plugins/libpageExtractionPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libpageExtractionPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libpaintPlugin.so -> /usr/lib32/nomacs-plugins/libpaintPlugin.so.3
+/usr/lib32/nomacs-plugins/libpaintPlugin.so.3 -> /usr/lib32/nomacs-plugins/libpaintPlugin.so.3.17.0
+/usr/lib32/nomacs-plugins/libpaintPlugin.so.3.17.0

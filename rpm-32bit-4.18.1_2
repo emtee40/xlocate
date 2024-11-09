@@ -1,0 +1,4 @@
+/usr/lib32/rpm-plugins/fsverity.so
+/usr/lib32/rpm-plugins/ima.so
+/usr/lib32/rpm-plugins/prioreset.so
+/usr/lib32/rpm-plugins/syslog.so

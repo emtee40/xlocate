@@ -1,0 +1,31 @@
+/etc/xdg/autostart/beid-update-nssdb.desktop
+/usr/bin/about-eid-mw
+/usr/bin/beid-update-nssdb
+/usr/bin/eid-viewer
+/usr/lib/libbeidpkcs11.so.0 -> /usr/lib/libbeidpkcs11.so.0.0.0
+/usr/lib/libbeidpkcs11.so.0.0.0
+/usr/lib/libeidviewer.so.0 -> /usr/lib/libeidviewer.so.0.1.0
+/usr/lib/libeidviewer.so.0.1.0
+/usr/lib/mozilla/pkcs11-modules/beidpkcs11.json
+/usr/lib/mozilla/pkcs11-modules/beidpkcs11_alt.json
+/usr/share/applications/eid-viewer.desktop
+/usr/share/eid-mw/eidv4.xsd
+/usr/share/eid-mw/trustdir/143b8e8e.0 -> /usr/share/eid-mw/trustdir/belgiumrca4.pem
+/usr/share/eid-mw/trustdir/9ef4b1e1.0 -> /usr/share/eid-mw/trustdir/belgiumrca3.pem
+/usr/share/eid-mw/trustdir/belgiumrca2.pem
+/usr/share/eid-mw/trustdir/belgiumrca3.pem
+/usr/share/eid-mw/trustdir/belgiumrca4.pem
+/usr/share/eid-mw/trustdir/c7e71426.0 -> /usr/share/eid-mw/trustdir/belgiumrca2.pem
+/usr/share/glib-2.0/schemas/eid-viewer.gschema.xml
+/usr/share/icons/hicolor/128x128/apps/eid-viewer.png
+/usr/share/icons/hicolor/16x16/apps/eid-viewer.png
+/usr/share/icons/hicolor/256x256/apps/eid-viewer.png
+/usr/share/icons/hicolor/32x32/apps/eid-viewer.png
+/usr/share/icons/hicolor/48x48/apps/eid-viewer.png
+/usr/share/icons/hicolor/512x512/apps/eid-viewer.png
+/usr/share/locale/de/LC_MESSAGES/eid-viewer.mo
+/usr/share/locale/fr/LC_MESSAGES/eid-viewer.mo
+/usr/share/locale/nl/LC_MESSAGES/eid-viewer.mo
+/usr/share/metainfo/be.belgium.eid.eidmw.metainfo.xml
+/usr/share/metainfo/eid-viewer.appdata.xml
+/usr/share/mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/belgiumeid@eid.belgium.be.xpi

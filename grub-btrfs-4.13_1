@@ -1,0 +1,8 @@
+/etc/default/grub-btrfs/config
+/etc/grub.d/41_snapshots-btrfs
+/usr/bin/grub-btrfsd
+/usr/share/doc/grub-btrfs/README.md
+/usr/share/doc/grub-btrfs/initramfs-overlayfs.md
+/usr/share/licenses/grub-btrfs/LICENSE
+/usr/share/man/man8/grub-btrfs.8
+/usr/share/man/man8/grub-btrfsd.8

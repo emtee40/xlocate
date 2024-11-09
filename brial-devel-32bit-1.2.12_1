@@ -1,0 +1,4 @@
+/usr/lib32/libbrial.a
+/usr/lib32/libbrial.so -> /usr/lib32/libbrial.so.3.0.7
+/usr/lib32/libbrial_groebner.a
+/usr/lib32/libbrial_groebner.so -> /usr/lib32/libbrial_groebner.so.3.0.7

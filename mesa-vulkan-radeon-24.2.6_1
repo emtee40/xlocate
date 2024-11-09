@@ -1,0 +1,4 @@
+/usr/lib/libvulkan_radeon.so
+/usr/share/drirc.d/00-radv-defaults.conf
+/usr/share/vulkan/icd.d/radeon_icd.i686.json
+/usr/share/vulkan/icd.d/radeon_icd.x86_64.json

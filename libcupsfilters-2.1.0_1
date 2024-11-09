@@ -1,0 +1,37 @@
+/usr/lib/libcupsfilters.so.2 -> /usr/lib/libcupsfilters.so.2.0.0
+/usr/lib/libcupsfilters.so.2.0.0
+/usr/share/cups/banners/classified
+/usr/share/cups/banners/confidential
+/usr/share/cups/banners/form
+/usr/share/cups/banners/secret
+/usr/share/cups/banners/standard
+/usr/share/cups/banners/topsecret
+/usr/share/cups/banners/unclassified
+/usr/share/cups/charsets/pdf.utf-8 -> /usr/share/cups/charsets/pdf.utf-8.simple
+/usr/share/cups/charsets/pdf.utf-8.heavy
+/usr/share/cups/charsets/pdf.utf-8.simple
+/usr/share/cups/data/classified.pdf
+/usr/share/cups/data/confidential.pdf
+/usr/share/cups/data/default-testpage.pdf
+/usr/share/cups/data/default.pdf
+/usr/share/cups/data/form_english.pdf
+/usr/share/cups/data/form_english_in.odt
+/usr/share/cups/data/form_russian.pdf
+/usr/share/cups/data/form_russian_in.odt
+/usr/share/cups/data/secret.pdf
+/usr/share/cups/data/standard.pdf
+/usr/share/cups/data/testprint
+/usr/share/cups/data/topsecret.pdf
+/usr/share/cups/data/unclassified.pdf
+/usr/share/doc/libcupsfilters/ABOUT-NLS
+/usr/share/doc/libcupsfilters/AUTHORS
+/usr/share/doc/libcupsfilters/CHANGES-1.x.md
+/usr/share/doc/libcupsfilters/CHANGES.md
+/usr/share/doc/libcupsfilters/CONTRIBUTING.md
+/usr/share/doc/libcupsfilters/COPYING
+/usr/share/doc/libcupsfilters/DEVELOPING.md
+/usr/share/doc/libcupsfilters/INSTALL.md
+/usr/share/doc/libcupsfilters/LICENSE
+/usr/share/doc/libcupsfilters/NOTICE
+/usr/share/doc/libcupsfilters/README.md
+/usr/share/licenses/libcupsfilters/COPYING

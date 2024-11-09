@@ -1,0 +1,8 @@
+/etc/dnsdist/dnsdist.conf
+/etc/dnsdist/dnsdist.conf-dist
+/etc/sv/dnsdist/log/run
+/etc/sv/dnsdist/log/supervise -> /run/runit/supervise.dnsdist-log
+/etc/sv/dnsdist/run
+/etc/sv/dnsdist/supervise -> /run/runit/supervise.dnsdist
+/usr/bin/dnsdist
+/usr/share/man/man1/dnsdist.1

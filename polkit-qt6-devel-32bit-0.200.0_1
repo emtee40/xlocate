@@ -1,0 +1,7 @@
+/usr/lib32/libpolkit-qt6-agent-1.so -> /usr/lib32/libpolkit-qt6-agent-1.so.1
+/usr/lib32/libpolkit-qt6-core-1.so -> /usr/lib32/libpolkit-qt6-core-1.so.1
+/usr/lib32/libpolkit-qt6-gui-1.so -> /usr/lib32/libpolkit-qt6-gui-1.so.1
+/usr/lib32/pkgconfig/polkit-qt6-1.pc
+/usr/lib32/pkgconfig/polkit-qt6-agent-1.pc
+/usr/lib32/pkgconfig/polkit-qt6-core-1.pc
+/usr/lib32/pkgconfig/polkit-qt6-gui-1.pc

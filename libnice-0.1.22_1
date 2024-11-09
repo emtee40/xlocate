@@ -1,0 +1,6 @@
+/usr/bin/stunbdc
+/usr/bin/stund
+/usr/lib/girepository-1.0/Nice-0.1.typelib
+/usr/lib/gstreamer-1.0/libgstnice.so
+/usr/lib/libnice.so.10 -> /usr/lib/libnice.so.10.14.0
+/usr/lib/libnice.so.10.14.0

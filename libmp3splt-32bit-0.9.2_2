@@ -1,0 +1,14 @@
+/usr/lib32/libmp3splt.so.0 -> /usr/lib32/libmp3splt.so.0.0.9
+/usr/lib32/libmp3splt.so.0.0.9
+/usr/lib32/libmp3splt0/libsplt_flac.a
+/usr/lib32/libmp3splt0/libsplt_flac.so -> /usr/lib32/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_flac.so.0 -> /usr/lib32/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_flac.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_mp3.a
+/usr/lib32/libmp3splt0/libsplt_mp3.so -> /usr/lib32/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_mp3.so.0 -> /usr/lib32/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_mp3.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_ogg.a
+/usr/lib32/libmp3splt0/libsplt_ogg.so -> /usr/lib32/libmp3splt0/libsplt_ogg.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_ogg.so.0 -> /usr/lib32/libmp3splt0/libsplt_ogg.so.0.0.0
+/usr/lib32/libmp3splt0/libsplt_ogg.so.0.0.0

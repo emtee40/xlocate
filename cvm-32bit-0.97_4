@@ -1,0 +1,18 @@
+/usr/lib32/libcvm-command.so.1 -> /usr/lib32/libcvm-command.so.1.1.0
+/usr/lib32/libcvm-command.so.1.1.0
+/usr/lib32/libcvm-local.so.1 -> /usr/lib32/libcvm-local.so.1.1.0
+/usr/lib32/libcvm-local.so.1.1.0
+/usr/lib32/libcvm-module.so.1 -> /usr/lib32/libcvm-module.so.1.1.0
+/usr/lib32/libcvm-module.so.1.1.0
+/usr/lib32/libcvm-qmail.so.1 -> /usr/lib32/libcvm-qmail.so.1.1.0
+/usr/lib32/libcvm-qmail.so.1.1.0
+/usr/lib32/libcvm-sasl.so.1 -> /usr/lib32/libcvm-sasl.so.1.1.0
+/usr/lib32/libcvm-sasl.so.1.1.0
+/usr/lib32/libcvm-sql.so.1 -> /usr/lib32/libcvm-sql.so.1.1.0
+/usr/lib32/libcvm-sql.so.1.1.0
+/usr/lib32/libcvm-udp.so.1 -> /usr/lib32/libcvm-udp.so.1.1.0
+/usr/lib32/libcvm-udp.so.1.1.0
+/usr/lib32/libcvm-v1client.so.1 -> /usr/lib32/libcvm-v1client.so.1.1.0
+/usr/lib32/libcvm-v1client.so.1.1.0
+/usr/lib32/libcvm-v2client.so.1 -> /usr/lib32/libcvm-v2client.so.1.1.0
+/usr/lib32/libcvm-v2client.so.1.1.0

@@ -1,0 +1,8 @@
+/usr/include/arpack/arpackdef.h
+/usr/include/arpack/debug.h
+/usr/include/arpack/debugF90.h
+/usr/include/arpack/stat.h
+/usr/include/arpack/statF90.h
+/usr/lib/libarpack.so -> /usr/lib/libarpack.so.2.1.0
+/usr/lib/pkgconfig/arpack.pc
+/usr/lib/pkgconfig/parpack.pc

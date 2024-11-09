@@ -1,0 +1,9 @@
+/usr/lib32/libalsatoss.a
+/usr/lib32/libalsatoss.so -> /usr/lib32/libalsatoss.so.0.0.0
+/usr/lib32/libalsatoss.so.0 -> /usr/lib32/libalsatoss.so.0.0.0
+/usr/lib32/libalsatoss.so.0.0.0
+/usr/lib32/libaoss.a
+/usr/lib32/libaoss.so -> /usr/lib32/libaoss.so.0.0.0
+/usr/lib32/libaoss.so.0 -> /usr/lib32/libaoss.so.0.0.0
+/usr/lib32/libaoss.so.0.0.0
+/usr/lib32/libossredir.a

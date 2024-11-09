@@ -1,0 +1,7 @@
+/etc/emptty/conf
+/etc/pam.d/emptty
+/etc/sv/emptty/run
+/etc/sv/emptty/supervise -> /run/runit/supervise.emptty
+/usr/bin/emptty
+/usr/share/licenses/emptty/LICENSE
+/usr/share/man/man1/emptty.1

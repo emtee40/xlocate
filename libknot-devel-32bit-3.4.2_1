@@ -1,0 +1,10 @@
+/usr/lib32/libdnssec.a
+/usr/lib32/libdnssec.so -> /usr/lib32/libdnssec.so.9.0.0
+/usr/lib32/libknot.a
+/usr/lib32/libknot.so -> /usr/lib32/libknot.so.15.0.0
+/usr/lib32/libzscanner.a
+/usr/lib32/libzscanner.so -> /usr/lib32/libzscanner.so.4.0.0
+/usr/lib32/pkgconfig/knotd.pc
+/usr/lib32/pkgconfig/libdnssec.pc
+/usr/lib32/pkgconfig/libknot.pc
+/usr/lib32/pkgconfig/libzscanner.pc

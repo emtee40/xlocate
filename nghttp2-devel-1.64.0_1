@@ -1,0 +1,5 @@
+/usr/include/nghttp2/nghttp2.h
+/usr/include/nghttp2/nghttp2ver.h
+/usr/lib/libnghttp2.a
+/usr/lib/libnghttp2.so -> /usr/lib/libnghttp2.so.14.28.3
+/usr/lib/pkgconfig/libnghttp2.pc

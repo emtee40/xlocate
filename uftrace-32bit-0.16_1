@@ -1,0 +1,5 @@
+/usr/lib32/libmcount-fast-single.so
+/usr/lib32/libmcount-fast.so
+/usr/lib32/libmcount-nop.so
+/usr/lib32/libmcount-single.so
+/usr/lib32/libmcount.so

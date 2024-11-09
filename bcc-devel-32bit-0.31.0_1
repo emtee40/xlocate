@@ -1,0 +1,6 @@
+/usr/lib32/libbcc-loader-static.a
+/usr/lib32/libbcc.a
+/usr/lib32/libbcc.so -> /usr/lib32/libbcc.so.0
+/usr/lib32/libbcc_bpf.a
+/usr/lib32/libbcc_bpf.so -> /usr/lib32/libbcc_bpf.so.0
+/usr/lib32/pkgconfig/libbcc.pc

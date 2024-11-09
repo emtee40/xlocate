@@ -1,0 +1,11 @@
+/etc/olsrd.conf
+/etc/sv/olsrd/run
+/etc/sv/olsrd/supervise -> /run/runit/supervise.olsrd
+/usr/bin/olsrd
+/usr/share/examples/olsrd/olsrd.conf.commotion
+/usr/share/examples/olsrd/olsrd.conf.default.lq
+/usr/share/examples/olsrd/olsrd.conf.default.rfc
+/usr/share/examples/olsrd/olsrd.conf.funkfeuer
+/usr/share/licenses/olsrd/license.txt
+/usr/share/man/man5/olsrd.conf.5
+/usr/share/man/man8/olsrd.8

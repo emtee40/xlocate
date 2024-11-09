@@ -1,0 +1,4 @@
+/usr/libexec/gvfs-afc-volume-monitor
+/usr/libexec/gvfsd-afc
+/usr/share/dbus-1/services/org.gtk.vfs.AfcVolumeMonitor.service
+/usr/share/gvfs/remote-volume-monitors/afc.monitor

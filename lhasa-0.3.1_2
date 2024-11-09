@@ -1,0 +1,5 @@
+/usr/bin/lha
+/usr/lib/liblhasa.so.0 -> /usr/lib/liblhasa.so.0.0.0
+/usr/lib/liblhasa.so.0.0.0
+/usr/share/licenses/lhasa/COPYING
+/usr/share/man/man1/lha.1

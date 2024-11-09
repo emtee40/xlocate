@@ -1,0 +1,2 @@
+/usr/lib32/libnetfilter_conntrack.so -> /usr/lib32/libnetfilter_conntrack.so.3.8.0
+/usr/lib32/pkgconfig/libnetfilter_conntrack.pc

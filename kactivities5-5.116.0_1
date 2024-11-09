@@ -1,0 +1,7 @@
+/usr/bin/kactivities-cli
+/usr/lib/libKF5Activities.so.5 -> /usr/lib/libKF5Activities.so.5.116.0
+/usr/lib/libKF5Activities.so.5.116.0
+/usr/lib/qt5/qml/org/kde/activities/libkactivitiesextensionplugin.so
+/usr/lib/qt5/qml/org/kde/activities/qmldir
+/usr/share/qlogging-categories5/kactivities.categories
+/usr/share/qlogging-categories5/kactivities.renamecategories

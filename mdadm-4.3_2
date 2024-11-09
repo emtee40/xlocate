@@ -1,0 +1,15 @@
+/etc/sv/mdadm/log/run
+/etc/sv/mdadm/log/supervise -> /run/runit/supervise.mdadm-log
+/etc/sv/mdadm/run
+/etc/sv/mdadm/supervise -> /run/runit/supervise.mdadm
+/usr/bin/mdadm
+/usr/bin/mdmon
+/usr/lib/udev/rules.d/01-md-raid-creating.rules
+/usr/lib/udev/rules.d/63-md-raid-arrays.rules
+/usr/lib/udev/rules.d/64-md-raid-assembly.rules
+/usr/lib/udev/rules.d/69-md-clustered-confirm-device.rules
+/usr/share/examples/mdadm/mdadm.conf
+/usr/share/man/man4/md.4
+/usr/share/man/man5/mdadm.conf.5
+/usr/share/man/man8/mdadm.8
+/usr/share/man/man8/mdmon.8

@@ -1,0 +1,6 @@
+/usr/include/extractor.h
+/usr/lib/libextractor.so -> /usr/lib/libextractor.so.3.1.8
+/usr/lib/libextractor_common.so -> /usr/lib/libextractor_common.so.1.0.0
+/usr/lib/pkgconfig/libextractor.pc
+/usr/share/info/libextractor.info
+/usr/share/man/man3/libextractor.3

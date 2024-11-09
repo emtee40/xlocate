@@ -1,0 +1,27 @@
+/usr/lib32/libKF5Purpose.so.5 -> /usr/lib32/libKF5Purpose.so.5.116.0
+/usr/lib32/libKF5Purpose.so.5.116.0
+/usr/lib32/libKF5PurposeWidgets.so.5 -> /usr/lib32/libKF5PurposeWidgets.so.5.116.0
+/usr/lib32/libKF5PurposeWidgets.so.5.116.0
+/usr/lib32/libPhabricatorHelpers.so.5 -> /usr/lib32/libPhabricatorHelpers.so.5.116.0
+/usr/lib32/libPhabricatorHelpers.so.5.116.0
+/usr/lib32/libReviewboardHelpers.so.5 -> /usr/lib32/libReviewboardHelpers.so.5.116.0
+/usr/lib32/libReviewboardHelpers.so.5.116.0
+/usr/lib32/qt5/plugins/kf5/kfileitemaction/sharefileitemaction.so
+/usr/lib32/qt5/plugins/kf5/purpose/barcodeplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/bluetoothplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/emailplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/imgurplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/kdeconnectplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/kdeconnectsmsplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/ktpsendfileplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/nextcloudplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/pastebinplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/phabricatorplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/reviewboardplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/saveasplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/telegramplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/twitterplugin.so
+/usr/lib32/qt5/plugins/kf5/purpose/youtubeplugin.so
+/usr/lib32/qt5/qml/org/kde/purpose/libpurposequickplugin.so
+/usr/lib32/qt5/qml/org/kde/purpose/phabricator/libphabricatorquickplugin.so
+/usr/lib32/qt5/qml/org/kde/purpose/reviewboard/librbpurposequickplugin.so

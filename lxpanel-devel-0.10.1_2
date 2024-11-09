@@ -1,0 +1,6 @@
+/usr/include/lxpanel/conf.h
+/usr/include/lxpanel/icon-grid.h
+/usr/include/lxpanel/misc.h
+/usr/include/lxpanel/panel.h
+/usr/include/lxpanel/plugin.h
+/usr/lib/pkgconfig/lxpanel.pc

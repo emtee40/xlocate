@@ -1,0 +1,6 @@
+/usr/lib32/libtbb.so.12 -> /usr/lib32/libtbb.so.12.14
+/usr/lib32/libtbb.so.12.14
+/usr/lib32/libtbbmalloc.so.2 -> /usr/lib32/libtbbmalloc.so.2.14
+/usr/lib32/libtbbmalloc.so.2.14
+/usr/lib32/libtbbmalloc_proxy.so.2 -> /usr/lib32/libtbbmalloc_proxy.so.2.14
+/usr/lib32/libtbbmalloc_proxy.so.2.14

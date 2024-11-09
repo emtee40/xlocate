@@ -1,0 +1,4 @@
+/usr/bin/mcp-rs -> /usr/bin/mmv-rs
+/usr/bin/mmv-rs
+/usr/share/man/man1/mcp-rs.1 -> /usr/share/man/man1/mmv-rs.1
+/usr/share/man/man1/mmv-rs.1

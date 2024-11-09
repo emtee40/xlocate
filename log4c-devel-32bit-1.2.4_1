@@ -1,0 +1,3 @@
+/usr/lib32/liblog4c.a
+/usr/lib32/liblog4c.so -> /usr/lib32/liblog4c.so.3.3.1
+/usr/lib32/pkgconfig/log4c.pc

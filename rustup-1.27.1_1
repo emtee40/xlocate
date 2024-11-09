@@ -1,0 +1,7 @@
+/usr/bin/rustup-init
+/usr/share/bash-completion/completions/rustup
+/usr/share/doc/rustup/README.md
+/usr/share/fish/vendor_completions.d/rustup.fish
+/usr/share/licenses/rustup/LICENSE-APACHE
+/usr/share/licenses/rustup/LICENSE-MIT
+/usr/share/zsh/site-functions/_rustup

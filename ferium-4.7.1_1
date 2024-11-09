@@ -1,0 +1,4 @@
+/usr/bin/ferium
+/usr/share/bash-completion/completions/ferium
+/usr/share/fish/vendor_completions.d/ferium.fish
+/usr/share/zsh/site-functions/_ferium

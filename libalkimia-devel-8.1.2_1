@@ -1,0 +1,17 @@
+/usr/include/alkimia/Qt5/alkimia/alk_export.h
+/usr/include/alkimia/Qt5/alkimia/alkcompany.h
+/usr/include/alkimia/Qt5/alkimia/alkonlinequote.h
+/usr/include/alkimia/Qt5/alkimia/alkonlinequotesource.h
+/usr/include/alkimia/Qt5/alkimia/alkonlinequotesprofile.h
+/usr/include/alkimia/Qt5/alkimia/alkonlinequotesprofilemanager.h
+/usr/include/alkimia/Qt5/alkimia/alkonlinequoteswidget.h
+/usr/include/alkimia/Qt5/alkimia/alkvalue.h
+/usr/include/alkimia/Qt5/alkimia/alkversion.h
+/usr/include/alkimia/Qt5/alkimia/alkwebpage.h
+/usr/lib/cmake/LibAlkimia5-8.1/FindGMP.cmake
+/usr/lib/cmake/LibAlkimia5-8.1/LibAlkimia5Config.cmake
+/usr/lib/cmake/LibAlkimia5-8.1/LibAlkimia5ConfigVersion.cmake
+/usr/lib/cmake/LibAlkimia5-8.1/LibAlkimia5Targets-none.cmake
+/usr/lib/cmake/LibAlkimia5-8.1/LibAlkimia5Targets.cmake
+/usr/lib/libalkimia5.so -> /usr/lib/libalkimia5.so.8
+/usr/lib/pkgconfig/libalkimia5.pc

@@ -1,0 +1,5 @@
+/usr/lib/gnome-pass-search-provider/gnome-pass-search-provider.py
+/usr/lib/systemd/user/org.gnome.Pass.SearchProvider.service
+/usr/share/applications/org.gnome.Pass.SearchProvider.desktop
+/usr/share/dbus-1/services/org.gnome.Pass.SearchProvider.service
+/usr/share/gnome-shell/search-providers/org.gnome.Pass.SearchProvider.ini

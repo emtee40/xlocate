@@ -1,0 +1,12 @@
+/usr/lib/libnetsnmp.so.40 -> /usr/lib/libnetsnmp.so.40.1.0
+/usr/lib/libnetsnmp.so.40.1.0
+/usr/lib/libnetsnmpagent.so.40 -> /usr/lib/libnetsnmpagent.so.40.1.0
+/usr/lib/libnetsnmpagent.so.40.1.0
+/usr/lib/libnetsnmphelpers.so.40 -> /usr/lib/libnetsnmphelpers.so.40.1.0
+/usr/lib/libnetsnmphelpers.so.40.1.0
+/usr/lib/libnetsnmpmibs.so.40 -> /usr/lib/libnetsnmpmibs.so.40.1.0
+/usr/lib/libnetsnmpmibs.so.40.1.0
+/usr/lib/libnetsnmptrapd.so.40 -> /usr/lib/libnetsnmptrapd.so.40.1.0
+/usr/lib/libnetsnmptrapd.so.40.1.0
+/usr/lib/libsnmp.so.40 -> /usr/lib/libsnmp.so.40.1.0
+/usr/lib/libsnmp.so.40.1.0

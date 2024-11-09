@@ -1,0 +1,5 @@
+/usr/bin/libxls2csv
+/usr/lib/libxlsreader.so.8 -> /usr/lib/libxlsreader.so.8.0.2
+/usr/lib/libxlsreader.so.8.0.2
+/usr/share/licenses/libxls/LICENSE
+/usr/share/man/man1/libxls2csv.1

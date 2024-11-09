@@ -1,0 +1,4 @@
+/usr/lib32/NetworkManager/libnm-gtk4-vpn-plugin-l2tp-editor.so
+/usr/lib32/NetworkManager/libnm-vpn-plugin-l2tp-editor.so
+/usr/lib32/NetworkManager/libnm-vpn-plugin-l2tp.so
+/usr/lib32/pppd/2.5.0/nm-l2tp-pppd-plugin.so

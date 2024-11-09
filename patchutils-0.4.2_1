@@ -1,0 +1,34 @@
+/usr/bin/combinediff -> /usr/bin/interdiff
+/usr/bin/dehtmldiff
+/usr/bin/editdiff
+/usr/bin/espdiff
+/usr/bin/filterdiff
+/usr/bin/fixcvsdiff
+/usr/bin/flipdiff -> /usr/bin/interdiff
+/usr/bin/gitdiff
+/usr/bin/gitdiffview
+/usr/bin/grepdiff -> /usr/bin/filterdiff
+/usr/bin/interdiff
+/usr/bin/lsdiff -> /usr/bin/filterdiff
+/usr/bin/patchview -> /usr/bin/filterdiff
+/usr/bin/recountdiff
+/usr/bin/rediff
+/usr/bin/splitdiff
+/usr/bin/svndiff
+/usr/bin/svndiffview
+/usr/bin/unwrapdiff
+/usr/share/man/man1/combinediff.1
+/usr/share/man/man1/dehtmldiff.1
+/usr/share/man/man1/editdiff.1
+/usr/share/man/man1/espdiff.1
+/usr/share/man/man1/filterdiff.1
+/usr/share/man/man1/fixcvsdiff.1
+/usr/share/man/man1/flipdiff.1
+/usr/share/man/man1/grepdiff.1
+/usr/share/man/man1/interdiff.1
+/usr/share/man/man1/lsdiff.1
+/usr/share/man/man1/patchview.1
+/usr/share/man/man1/recountdiff.1
+/usr/share/man/man1/rediff.1
+/usr/share/man/man1/splitdiff.1
+/usr/share/man/man1/unwrapdiff.1

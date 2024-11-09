@@ -1,0 +1,12 @@
+/usr/include/keystone/arm.h
+/usr/include/keystone/arm64.h
+/usr/include/keystone/evm.h
+/usr/include/keystone/hexagon.h
+/usr/include/keystone/keystone.h
+/usr/include/keystone/mips.h
+/usr/include/keystone/ppc.h
+/usr/include/keystone/sparc.h
+/usr/include/keystone/systemz.h
+/usr/include/keystone/x86.h
+/usr/lib/libkeystone.so -> /usr/lib/libkeystone.so.0
+/usr/lib/pkgconfig/keystone.pc

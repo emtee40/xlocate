@@ -1,0 +1,10 @@
+/usr/lib32/liballeg.so -> /usr/lib32/liballeg.so.4.4
+/usr/lib32/liballeggl.so -> /usr/lib32/liballeggl.so.4.4
+/usr/lib32/libjpgalleg.so -> /usr/lib32/libjpgalleg.so.4.4
+/usr/lib32/libloadpng.so -> /usr/lib32/libloadpng.so.4.4
+/usr/lib32/liblogg.so -> /usr/lib32/liblogg.so.4.4
+/usr/lib32/pkgconfig/allegro.pc
+/usr/lib32/pkgconfig/allegrogl.pc
+/usr/lib32/pkgconfig/jpgalleg.pc
+/usr/lib32/pkgconfig/loadpng.pc
+/usr/lib32/pkgconfig/logg.pc

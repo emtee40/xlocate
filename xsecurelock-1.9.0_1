@@ -1,0 +1,16 @@
+/usr/bin/xsecurelock
+/usr/libexec/xsecurelock/auth_x11
+/usr/libexec/xsecurelock/authproto_htpasswd
+/usr/libexec/xsecurelock/authproto_pam
+/usr/libexec/xsecurelock/dimmer
+/usr/libexec/xsecurelock/pgrp_placeholder
+/usr/libexec/xsecurelock/saver_blank
+/usr/libexec/xsecurelock/saver_mplayer
+/usr/libexec/xsecurelock/saver_mpv
+/usr/libexec/xsecurelock/saver_multiplex
+/usr/libexec/xsecurelock/saver_xscreensaver
+/usr/libexec/xsecurelock/until_nonidle
+/usr/share/doc/xsecurelock/CONTRIBUTING
+/usr/share/doc/xsecurelock/LICENSE
+/usr/share/doc/xsecurelock/README.md
+/usr/share/doc/xsecurelock/examples/saver_livestreams

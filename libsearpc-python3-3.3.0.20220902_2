@@ -1,0 +1,8 @@
+/usr/lib/python3.12/site-packages/pysearpc/__init__.py
+/usr/lib/python3.12/site-packages/pysearpc/client.py
+/usr/lib/python3.12/site-packages/pysearpc/common.py
+/usr/lib/python3.12/site-packages/pysearpc/errors.py
+/usr/lib/python3.12/site-packages/pysearpc/named_pipe.py
+/usr/lib/python3.12/site-packages/pysearpc/server.py
+/usr/lib/python3.12/site-packages/pysearpc/transport.py
+/usr/lib/python3.12/site-packages/pysearpc/utils.py

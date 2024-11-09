@@ -1,0 +1,5 @@
+/usr/bin/lein
+/usr/share/bash-completion/completions/lein
+/usr/share/java/leiningen-2.11.2-standalone.jar
+/usr/share/man/man1/lein.1
+/usr/share/zsh/site-functions/_lein

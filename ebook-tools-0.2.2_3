@@ -1,0 +1,5 @@
+/usr/bin/einfo
+/usr/bin/lit2epub
+/usr/lib/libepub.so.0 -> /usr/lib/libepub.so.0.2.1
+/usr/lib/libepub.so.0.2.1
+/usr/share/licenses/ebook-tools/LICENSE

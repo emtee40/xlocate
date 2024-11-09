@@ -1,0 +1,7 @@
+/usr/lib32/libORBit-2.so -> /usr/lib32/libORBit-2.so.0.1.0
+/usr/lib32/libORBit-imodule-2.so -> /usr/lib32/libORBit-imodule-2.so.0.0.0
+/usr/lib32/libORBitCosNaming-2.so -> /usr/lib32/libORBitCosNaming-2.so.0.1.0
+/usr/lib32/pkgconfig/ORBit-2.0.pc
+/usr/lib32/pkgconfig/ORBit-CosNaming-2.0.pc
+/usr/lib32/pkgconfig/ORBit-idl-2.0.pc
+/usr/lib32/pkgconfig/ORBit-imodule-2.0.pc

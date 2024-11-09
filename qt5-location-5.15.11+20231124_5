@@ -1,0 +1,28 @@
+/usr/lib/libQt5Location.so.5 -> /usr/lib/libQt5Location.so.5.15.11
+/usr/lib/libQt5Location.so.5.15 -> /usr/lib/libQt5Location.so.5.15.11
+/usr/lib/libQt5Location.so.5.15.11
+/usr/lib/libQt5Positioning.so.5 -> /usr/lib/libQt5Positioning.so.5.15.11
+/usr/lib/libQt5Positioning.so.5.15 -> /usr/lib/libQt5Positioning.so.5.15.11
+/usr/lib/libQt5Positioning.so.5.15.11
+/usr/lib/libQt5PositioningQuick.so.5 -> /usr/lib/libQt5PositioningQuick.so.5.15.11
+/usr/lib/libQt5PositioningQuick.so.5.15 -> /usr/lib/libQt5PositioningQuick.so.5.15.11
+/usr/lib/libQt5PositioningQuick.so.5.15.11
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_esri.so
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_itemsoverlay.so
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_mapbox.so
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_mapboxgl.so
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_nokia.so
+/usr/lib/qt5/plugins/geoservices/libqtgeoservices_osm.so
+/usr/lib/qt5/plugins/position/libqtposition_geoclue.so
+/usr/lib/qt5/plugins/position/libqtposition_geoclue2.so
+/usr/lib/qt5/plugins/position/libqtposition_positionpoll.so
+/usr/lib/qt5/plugins/position/libqtposition_serialnmea.so
+/usr/lib/qt5/qml/Qt/labs/location/liblocationlabsplugin.so
+/usr/lib/qt5/qml/Qt/labs/location/plugins.qmltypes
+/usr/lib/qt5/qml/Qt/labs/location/qmldir
+/usr/lib/qt5/qml/QtLocation/libdeclarative_location.so
+/usr/lib/qt5/qml/QtLocation/plugins.qmltypes
+/usr/lib/qt5/qml/QtLocation/qmldir
+/usr/lib/qt5/qml/QtPositioning/libdeclarative_positioning.so
+/usr/lib/qt5/qml/QtPositioning/plugins.qmltypes
+/usr/lib/qt5/qml/QtPositioning/qmldir

@@ -1,0 +1,5 @@
+/usr/lib32/libvdpau.so.1 -> /usr/lib32/libvdpau.so.1.0.0
+/usr/lib32/libvdpau.so.1.0.0
+/usr/lib32/vdpau/libvdpau_trace.so -> /usr/lib32/vdpau/libvdpau_trace.so.1
+/usr/lib32/vdpau/libvdpau_trace.so.1 -> /usr/lib32/vdpau/libvdpau_trace.so.1.0.0
+/usr/lib32/vdpau/libvdpau_trace.so.1.0.0

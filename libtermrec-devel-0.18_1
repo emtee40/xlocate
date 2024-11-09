@@ -1,0 +1,6 @@
+/usr/include/tty.h
+/usr/include/ttyrec.h
+/usr/lib/libtty.a
+/usr/lib/libtty.so -> /usr/lib/libtty.so.1.0.0
+/usr/share/man/man3/libtty.3
+/usr/share/man/man3/libttyrec.3

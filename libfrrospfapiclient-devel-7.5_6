@@ -1,0 +1,3 @@
+/usr/include/frr/ospfapi/ospf_apiclient.h
+/usr/lib/libfrrospfapiclient.a
+/usr/lib/libfrrospfapiclient.so -> /usr/lib/libfrrospfapiclient.so.0.0.0

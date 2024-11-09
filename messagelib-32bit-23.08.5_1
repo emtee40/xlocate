@@ -1,0 +1,16 @@
+/usr/lib32/libKPim5MessageComposer.so.5 -> /usr/lib32/libKPim5MessageComposer.so.5.24.5
+/usr/lib32/libKPim5MessageComposer.so.5.24.5
+/usr/lib32/libKPim5MessageCore.so.5 -> /usr/lib32/libKPim5MessageCore.so.5.24.5
+/usr/lib32/libKPim5MessageCore.so.5.24.5
+/usr/lib32/libKPim5MessageList.so.5 -> /usr/lib32/libKPim5MessageList.so.5.24.5
+/usr/lib32/libKPim5MessageList.so.5.24.5
+/usr/lib32/libKPim5MessageViewer.so.5 -> /usr/lib32/libKPim5MessageViewer.so.5.24.5
+/usr/lib32/libKPim5MessageViewer.so.5.24.5
+/usr/lib32/libKPim5MimeTreeParser.so.5 -> /usr/lib32/libKPim5MimeTreeParser.so.5.24.5
+/usr/lib32/libKPim5MimeTreeParser.so.5.24.5
+/usr/lib32/libKPim5TemplateParser.so.5 -> /usr/lib32/libKPim5TemplateParser.so.5.24.5
+/usr/lib32/libKPim5TemplateParser.so.5.24.5
+/usr/lib32/libKPim5WebEngineViewer.so.5 -> /usr/lib32/libKPim5WebEngineViewer.so.5.24.5
+/usr/lib32/libKPim5WebEngineViewer.so.5.24.5
+/usr/lib32/qt5/plugins/pim5/messageviewer/grantlee/5.0/messageviewer_grantlee_extension.so
+/usr/lib32/qt5/plugins/pim5/messageviewer/headerstyle/messageviewer_defaultgrantleeheaderstyleplugin.so

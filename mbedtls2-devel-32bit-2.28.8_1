@@ -1,0 +1,9 @@
+/usr/lib32/libmbedcrypto.a
+/usr/lib32/libmbedcrypto.so -> /usr/lib32/libmbedcrypto.so.7
+/usr/lib32/libmbedtls.a
+/usr/lib32/libmbedtls.so -> /usr/lib32/libmbedtls.so.14
+/usr/lib32/libmbedx509.a
+/usr/lib32/libmbedx509.so -> /usr/lib32/libmbedx509.so.1
+/usr/lib32/pkgconfig/mbedcrypto.pc
+/usr/lib32/pkgconfig/mbedtls.pc
+/usr/lib32/pkgconfig/mbedx509.pc

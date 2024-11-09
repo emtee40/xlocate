@@ -1,0 +1,4 @@
+/usr/include/dotconf.h
+/usr/lib/libdotconf.a
+/usr/lib/libdotconf.so -> /usr/lib/libdotconf.so.0.0.1
+/usr/lib/pkgconfig/dotconf.pc

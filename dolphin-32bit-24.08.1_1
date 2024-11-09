@@ -1,0 +1,9 @@
+/usr/lib32/libdolphinprivate.so.24.08.1
+/usr/lib32/libdolphinprivate.so.6 -> /usr/lib32/libdolphinprivate.so.24.08.1
+/usr/lib32/libdolphinvcs.so -> /usr/lib32/libdolphinvcs.so.6
+/usr/lib32/libdolphinvcs.so.24.08.1
+/usr/lib32/libdolphinvcs.so.6 -> /usr/lib32/libdolphinvcs.so.24.08.1
+/usr/lib32/qt6/plugins/dolphin/kcms/kcm_dolphingeneral.so
+/usr/lib32/qt6/plugins/dolphin/kcms/kcm_dolphinviewmodes.so
+/usr/lib32/qt6/plugins/kf6/kfileitemaction/movetonewfolderitemaction.so
+/usr/lib32/qt6/plugins/kf6/parts/dolphinpart.so

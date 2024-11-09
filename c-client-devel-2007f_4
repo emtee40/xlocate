@@ -1,0 +1,21 @@
+/usr/include/imap/c-client.h
+/usr/include/imap/env.h
+/usr/include/imap/env_unix.h
+/usr/include/imap/fs.h
+/usr/include/imap/ftl.h
+/usr/include/imap/imap4r1.h
+/usr/include/imap/linkage.h
+/usr/include/imap/mail.h
+/usr/include/imap/misc.h
+/usr/include/imap/nl.h
+/usr/include/imap/nntp.h
+/usr/include/imap/osdep.h
+/usr/include/imap/rfc822.h
+/usr/include/imap/smtp.h
+/usr/include/imap/sslio.h
+/usr/include/imap/tcp.h
+/usr/include/imap/utf8.h
+/usr/include/imap/utf8aux.h
+/usr/lib/c-client.a
+/usr/lib/libc-client.a -> /usr/lib/c-client.a
+/usr/lib/libc-client.so -> /usr/lib/libc-client.so.1.0.0

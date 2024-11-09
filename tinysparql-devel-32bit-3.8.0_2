@@ -1,0 +1,4 @@
+/usr/lib32/libtinysparql-3.0.so -> /usr/lib32/libtinysparql-3.0.so.0
+/usr/lib32/libtracker-sparql-3.0.so -> /usr/lib32/libtinysparql-3.0.so
+/usr/lib32/pkgconfig/tinysparql-3.0.pc
+/usr/lib32/pkgconfig/tracker-sparql-3.0.pc

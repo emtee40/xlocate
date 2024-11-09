@@ -1,0 +1,5 @@
+/usr/bin/ykclient
+/usr/lib/libykclient.so.3 -> /usr/lib/libykclient.so.3.6.0
+/usr/lib/libykclient.so.3.6.0
+/usr/share/licenses/ykclient/LICENSE
+/usr/share/man/man1/ykclient.1

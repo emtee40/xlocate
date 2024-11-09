@@ -1,0 +1,22 @@
+/usr/bin/chpst
+/usr/bin/runit
+/usr/bin/runit-init
+/usr/bin/runsv
+/usr/bin/runsvchdir
+/usr/bin/runsvdir
+/usr/bin/sv
+/usr/bin/svlogd
+/usr/bin/utmpset
+/usr/share/bash-completion/completions/sv
+/usr/share/licenses/runit/COPYING
+/usr/share/man/man8/chpst.8
+/usr/share/man/man8/runit-init.8
+/usr/share/man/man8/runit.8
+/usr/share/man/man8/runsv.8
+/usr/share/man/man8/runsvchdir.8
+/usr/share/man/man8/runsvdir.8
+/usr/share/man/man8/sv.8
+/usr/share/man/man8/svlogd.8
+/usr/share/man/man8/utmpset.8
+/usr/share/zsh/site-functions/_sv
+/var/service -> ../run/runit/runsvdir/current

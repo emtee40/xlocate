@@ -1,0 +1,4 @@
+/usr/lib32/libscmssc.so
+/usr/lib32/sane/libsane-smfp.so -> /usr/lib32/sane/libsane-smfp.so.1
+/usr/lib32/sane/libsane-smfp.so.1 -> /usr/lib32/sane/libsane-smfp.so.1.0.1
+/usr/lib32/sane/libsane-smfp.so.1.0.1

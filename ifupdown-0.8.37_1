@@ -1,0 +1,18 @@
+/etc/network/interfaces
+/etc/runit/core-services/15-ifupdown.sh
+/usr/bin/ifdown -> ../../../../usr/bin/ifup
+/usr/bin/ifquery -> ../../../../usr/bin/ifup
+/usr/bin/ifup
+/usr/lib/ifupdown/settle-dad.sh
+/usr/lib/ifupdown/wait-for-ll6.sh
+/usr/lib/ifupdown/wait-online.sh
+/usr/share/examples/ifupdown/bridge
+/usr/share/examples/ifupdown/check-mac-address.sh
+/usr/share/examples/ifupdown/generate-interfaces.pl
+/usr/share/examples/ifupdown/get-mac-address.sh
+/usr/share/examples/ifupdown/network-interfaces
+/usr/share/examples/ifupdown/pattern-matching
+/usr/share/examples/ifupdown/pcmcia-compat.sh
+/usr/share/examples/ifupdown/ping-places.sh
+/usr/share/man/man5/interfaces.5
+/usr/share/man/man8/ifup.8

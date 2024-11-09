@@ -1,0 +1,12 @@
+/etc/pm/sleep.d/40autorandr
+/etc/xdg/autostart/autorandr-kde.desktop
+/etc/xdg/autostart/autorandr.desktop
+/usr/bin/autorandr
+/usr/lib/python3.12/site-packages/autorandr-1.15.post1-py3.12.egg-info/PKG-INFO
+/usr/lib/python3.12/site-packages/autorandr-1.15.post1-py3.12.egg-info/SOURCES.txt
+/usr/lib/python3.12/site-packages/autorandr-1.15.post1-py3.12.egg-info/dependency_links.txt
+/usr/lib/python3.12/site-packages/autorandr-1.15.post1-py3.12.egg-info/entry_points.txt
+/usr/lib/python3.12/site-packages/autorandr-1.15.post1-py3.12.egg-info/top_level.txt
+/usr/lib/python3.12/site-packages/autorandr.py
+/usr/lib/udev/rules.d/40-monitor-hotplug.rules
+/usr/share/bash-completion/completions/autorandr

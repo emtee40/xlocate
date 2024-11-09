@@ -1,0 +1,4 @@
+/usr/lib32/libjalali.a
+/usr/lib32/libjalali.so -> /usr/lib32/libjalali.so.0.0.5
+/usr/lib32/libjalali.so.0 -> /usr/lib32/libjalali.so.0.0.5
+/usr/lib32/libjalali.so.0.0.5

@@ -1,0 +1,4 @@
+/usr/lib32/libtotem-plparser-mini.so -> /usr/lib32/libtotem-plparser-mini.so.18
+/usr/lib32/libtotem-plparser.so -> /usr/lib32/libtotem-plparser.so.18
+/usr/lib32/pkgconfig/totem-plparser-mini.pc
+/usr/lib32/pkgconfig/totem-plparser.pc

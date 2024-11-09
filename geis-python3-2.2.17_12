@@ -1,0 +1,11 @@
+/usr/bin/pygeis
+/usr/lib/python3.12/site-packages/_geis_bindings.so
+/usr/lib/python3.12/site-packages/geis/__init__.py
+/usr/lib/python3.12/site-packages/geis/geis_v2.py
+/usr/lib/python3.12/site-packages/geisview/__init__.py
+/usr/lib/python3.12/site-packages/geisview/classview.py
+/usr/lib/python3.12/site-packages/geisview/defaults.py
+/usr/lib/python3.12/site-packages/geisview/deviceview.py
+/usr/lib/python3.12/site-packages/geisview/filter_definition.py
+/usr/lib/python3.12/site-packages/geisview/filter_list.py
+/usr/share/man/man1/pygeis.1

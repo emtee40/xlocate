@@ -1,0 +1,8 @@
+/usr/include/libversion/config.h
+/usr/include/libversion/export.h
+/usr/include/libversion/version.h
+/usr/lib/cmake/libversion/libversionConfig-release.cmake
+/usr/lib/cmake/libversion/libversionConfig.cmake
+/usr/lib/libversion.a
+/usr/lib/libversion.so -> /usr/lib/libversion.so.1
+/usr/lib/pkgconfig/libversion.pc

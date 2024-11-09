@@ -1,0 +1,4 @@
+/usr/lib32/libzuluCrypt-exe.so -> /usr/lib32/libzuluCrypt-exe.so.1.2.0
+/usr/lib32/libzuluCrypt.so -> /usr/lib32/libzuluCrypt.so.1.2.0
+/usr/lib32/libzuluCryptPluginManager.so -> /usr/lib32/libzuluCryptPluginManager.so.1.0.0
+/usr/lib32/pkgconfig/libzuluCrypt.pc

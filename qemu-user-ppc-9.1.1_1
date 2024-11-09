@@ -1,0 +1,3 @@
+/usr/bin/qemu-ppc
+/usr/bin/qemu-ppc-static -> /usr/bin/qemu-ppc
+/usr/share/binfmts/qemu-ppc

@@ -1,0 +1,7 @@
+/etc/burp/burp.conf
+/usr/bin/burp
+/usr/bin/burp_ca
+/usr/share/doc/burp2-client/README
+/usr/share/licenses/burp2-client/LICENSE
+/usr/share/man/man8/burp.8
+/usr/share/man/man8/burp_ca.8

@@ -1,0 +1,15 @@
+/usr/bin/imdl
+/usr/share/bash-completion/completions/imdl
+/usr/share/fish/vendor_completions.d/imdl.fish
+/usr/share/man/man1/imdl-completions.1
+/usr/share/man/man1/imdl-torrent-announce.1
+/usr/share/man/man1/imdl-torrent-create.1
+/usr/share/man/man1/imdl-torrent-from-link.1
+/usr/share/man/man1/imdl-torrent-link.1
+/usr/share/man/man1/imdl-torrent-piece-length.1
+/usr/share/man/man1/imdl-torrent-show.1
+/usr/share/man/man1/imdl-torrent-stats.1
+/usr/share/man/man1/imdl-torrent-verify.1
+/usr/share/man/man1/imdl-torrent.1
+/usr/share/man/man1/imdl.1
+/usr/share/zsh/site-functions/_imdl

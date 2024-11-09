@@ -1,0 +1,4 @@
+/usr/include/libdjvu/ddjvuapi.h
+/usr/include/libdjvu/miniexp.h
+/usr/lib/libdjvulibre.so -> /usr/lib/libdjvulibre.so.21.7.0
+/usr/lib/pkgconfig/ddjvuapi.pc

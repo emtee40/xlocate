@@ -1,0 +1,18 @@
+/usr/lib32/libbasicobjects.a
+/usr/lib32/libbasicobjects.so -> /usr/lib32/libbasicobjects.so.0.1.0
+/usr/lib32/libcollection.a
+/usr/lib32/libcollection.so -> /usr/lib32/libcollection.so.4.1.1
+/usr/lib32/libdhash.a
+/usr/lib32/libdhash.so -> /usr/lib32/libdhash.so.1.1.0
+/usr/lib32/libini_config.a
+/usr/lib32/libini_config.so -> /usr/lib32/libini_config.so.5.2.1
+/usr/lib32/libpath_utils.a
+/usr/lib32/libpath_utils.so -> /usr/lib32/libpath_utils.so.1.0.1
+/usr/lib32/libref_array.a
+/usr/lib32/libref_array.so -> /usr/lib32/libref_array.so.1.2.1
+/usr/lib32/pkgconfig/basicobjects.pc
+/usr/lib32/pkgconfig/collection.pc
+/usr/lib32/pkgconfig/dhash.pc
+/usr/lib32/pkgconfig/ini_config.pc
+/usr/lib32/pkgconfig/path_utils.pc
+/usr/lib32/pkgconfig/ref_array.pc

@@ -1,0 +1,6 @@
+/usr/bin/faked
+/usr/bin/fakeroot
+/usr/lib/libfakeroot-0.so
+/usr/lib/libfakeroot.so -> /usr/lib/libfakeroot-0.so
+/usr/share/man/man1/faked.1
+/usr/share/man/man1/fakeroot.1

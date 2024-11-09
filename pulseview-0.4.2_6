@@ -1,0 +1,6 @@
+/usr/bin/pulseview
+/usr/share/applications/org.sigrok.PulseView.desktop
+/usr/share/icons/hicolor/48x48/apps/pulseview.png
+/usr/share/icons/hicolor/scalable/apps/pulseview.svg
+/usr/share/man/man1/pulseview.1
+/usr/share/metainfo/org.sigrok.PulseView.appdata.xml

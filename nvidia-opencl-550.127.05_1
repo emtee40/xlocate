@@ -1,0 +1,4 @@
+/etc/OpenCL/vendors/nvidia.icd
+/usr/lib/libnvidia-opencl.so -> /usr/lib/libnvidia-opencl.so.550.127.05
+/usr/lib/libnvidia-opencl.so.1 -> /usr/lib/libnvidia-opencl.so.550.127.05
+/usr/lib/libnvidia-opencl.so.550.127.05

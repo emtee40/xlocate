@@ -1,0 +1,53 @@
+/etc/sv/kadmind/log/run
+/etc/sv/kadmind/log/supervise -> /run/runit/supervise.kadmind-log
+/etc/sv/kadmind/run
+/etc/sv/kadmind/supervise -> /run/runit/supervise.kadmind
+/etc/sv/krb5kdc/log/run
+/etc/sv/krb5kdc/log/supervise -> /run/runit/supervise.krb5kdc-log
+/etc/sv/krb5kdc/run
+/etc/sv/krb5kdc/supervise -> /run/runit/supervise.krb5kdc
+/usr/bin/gss-server
+/usr/bin/kadmin.local
+/usr/bin/kadmind
+/usr/bin/kdb5_ldap_util
+/usr/bin/kdb5_util
+/usr/bin/kprop
+/usr/bin/kpropd
+/usr/bin/kproplog
+/usr/bin/krb5-send-pr
+/usr/bin/krb5kdc
+/usr/bin/sim_server
+/usr/bin/sserver
+/usr/bin/uuserver
+/usr/lib/krb5/plugins/kdb/db2.so
+/usr/lib/krb5/plugins/kdb/kldap.so
+/usr/lib/krb5/plugins/preauth/otp.so
+/usr/lib/krb5/plugins/preauth/pkinit.so
+/usr/lib/krb5/plugins/preauth/spake.so
+/usr/lib/krb5/plugins/preauth/test.so
+/usr/lib/krb5/plugins/tls/k5tls.so
+/usr/share/doc/mit-krb5/kerberos.ldif
+/usr/share/doc/mit-krb5/kerberos.openldap.ldif
+/usr/share/doc/mit-krb5/kerberos.schema
+/usr/share/examples/krb5/kdc.conf
+/usr/share/examples/krb5/krb5.conf
+/usr/share/examples/krb5/services.append
+/usr/share/licenses/mit-krb5/NOTICE
+/usr/share/man/man1/krb5-config.1
+/usr/share/man/man5/.k5identity.5
+/usr/share/man/man5/.k5login.5
+/usr/share/man/man5/k5identity.5
+/usr/share/man/man5/k5login.5
+/usr/share/man/man5/kadm5.acl.5
+/usr/share/man/man5/kdc.conf.5
+/usr/share/man/man5/krb5.conf.5
+/usr/share/man/man7/kerberos.7
+/usr/share/man/man8/kadmin.local.8
+/usr/share/man/man8/kadmind.8
+/usr/share/man/man8/kdb5_ldap_util.8
+/usr/share/man/man8/kdb5_util.8
+/usr/share/man/man8/kprop.8
+/usr/share/man/man8/kpropd.8
+/usr/share/man/man8/kproplog.8
+/usr/share/man/man8/krb5kdc.8
+/usr/share/man/man8/sserver.8

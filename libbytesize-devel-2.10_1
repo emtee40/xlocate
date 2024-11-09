@@ -1,0 +1,3 @@
+/usr/include/bytesize/bs_size.h
+/usr/lib/libbytesize.so -> /usr/lib/libbytesize.so.1.0.0
+/usr/lib/pkgconfig/bytesize.pc

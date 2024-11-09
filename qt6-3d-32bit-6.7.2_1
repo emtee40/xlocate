@@ -1,0 +1,52 @@
+/usr/lib32/libQt63DAnimation.so.6 -> /usr/lib32/libQt63DAnimation.so.6.7.2
+/usr/lib32/libQt63DAnimation.so.6.7.2
+/usr/lib32/libQt63DCore.so.6 -> /usr/lib32/libQt63DCore.so.6.7.2
+/usr/lib32/libQt63DCore.so.6.7.2
+/usr/lib32/libQt63DExtras.so.6 -> /usr/lib32/libQt63DExtras.so.6.7.2
+/usr/lib32/libQt63DExtras.so.6.7.2
+/usr/lib32/libQt63DInput.so.6 -> /usr/lib32/libQt63DInput.so.6.7.2
+/usr/lib32/libQt63DInput.so.6.7.2
+/usr/lib32/libQt63DLogic.so.6 -> /usr/lib32/libQt63DLogic.so.6.7.2
+/usr/lib32/libQt63DLogic.so.6.7.2
+/usr/lib32/libQt63DQuick.so.6 -> /usr/lib32/libQt63DQuick.so.6.7.2
+/usr/lib32/libQt63DQuick.so.6.7.2
+/usr/lib32/libQt63DQuickAnimation.so.6 -> /usr/lib32/libQt63DQuickAnimation.so.6.7.2
+/usr/lib32/libQt63DQuickAnimation.so.6.7.2
+/usr/lib32/libQt63DQuickExtras.so.6 -> /usr/lib32/libQt63DQuickExtras.so.6.7.2
+/usr/lib32/libQt63DQuickExtras.so.6.7.2
+/usr/lib32/libQt63DQuickInput.so.6 -> /usr/lib32/libQt63DQuickInput.so.6.7.2
+/usr/lib32/libQt63DQuickInput.so.6.7.2
+/usr/lib32/libQt63DQuickRender.so.6 -> /usr/lib32/libQt63DQuickRender.so.6.7.2
+/usr/lib32/libQt63DQuickRender.so.6.7.2
+/usr/lib32/libQt63DQuickScene2D.so.6 -> /usr/lib32/libQt63DQuickScene2D.so.6.7.2
+/usr/lib32/libQt63DQuickScene2D.so.6.7.2
+/usr/lib32/libQt63DRender.so.6 -> /usr/lib32/libQt63DRender.so.6.7.2
+/usr/lib32/libQt63DRender.so.6.7.2
+/usr/lib32/pkgconfig/Qt63DAnimation.pc
+/usr/lib32/pkgconfig/Qt63DCore.pc
+/usr/lib32/pkgconfig/Qt63DExtras.pc
+/usr/lib32/pkgconfig/Qt63DInput.pc
+/usr/lib32/pkgconfig/Qt63DLogic.pc
+/usr/lib32/pkgconfig/Qt63DQuick.pc
+/usr/lib32/pkgconfig/Qt63DQuickAnimation.pc
+/usr/lib32/pkgconfig/Qt63DQuickExtras.pc
+/usr/lib32/pkgconfig/Qt63DQuickInput.pc
+/usr/lib32/pkgconfig/Qt63DQuickRender.pc
+/usr/lib32/pkgconfig/Qt63DQuickScene2D.pc
+/usr/lib32/pkgconfig/Qt63DRender.pc
+/usr/lib32/qt6/plugins/geometryloaders/libdefaultgeometryloader.so
+/usr/lib32/qt6/plugins/geometryloaders/libgltfgeometryloader.so
+/usr/lib32/qt6/plugins/renderers/libopenglrenderer.so
+/usr/lib32/qt6/plugins/renderers/librhirenderer.so
+/usr/lib32/qt6/plugins/renderplugins/libscene2d.so
+/usr/lib32/qt6/plugins/sceneparsers/libassimpsceneimport.so
+/usr/lib32/qt6/plugins/sceneparsers/libgltfsceneexport.so
+/usr/lib32/qt6/plugins/sceneparsers/libgltfsceneimport.so
+/usr/lib32/qt6/qml/Qt3D/Animation/libquick3danimationplugin.so
+/usr/lib32/qt6/qml/Qt3D/Core/libquick3dcoreplugin.so
+/usr/lib32/qt6/qml/Qt3D/Extras/libquick3dextrasplugin.so
+/usr/lib32/qt6/qml/Qt3D/Input/libquick3dinputplugin.so
+/usr/lib32/qt6/qml/Qt3D/Logic/libquick3dlogicplugin.so
+/usr/lib32/qt6/qml/Qt3D/Render/libquick3drenderplugin.so
+/usr/lib32/qt6/qml/QtQuick/Scene2D/libqtquickscene2dplugin.so
+/usr/lib32/qt6/qml/QtQuick/Scene3D/libqtquickscene3dplugin.so

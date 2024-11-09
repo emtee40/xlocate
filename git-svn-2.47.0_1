@@ -1,0 +1,12 @@
+/usr/libexec/git-core/git-svn
+/usr/share/man/man1/git-svn.1
+/usr/share/perl5/vendor_perl/Git/SVN.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Editor.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Fetcher.pm
+/usr/share/perl5/vendor_perl/Git/SVN/GlobSpec.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Log.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Memoize/YAML.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Migration.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Prompt.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Ra.pm
+/usr/share/perl5/vendor_perl/Git/SVN/Utils.pm

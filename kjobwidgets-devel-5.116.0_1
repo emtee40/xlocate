@@ -1,0 +1,22 @@
+/usr/include/KF5/KJobWidgets/KAbstractWidgetJobTracker
+/usr/include/KF5/KJobWidgets/KDialogJobUiDelegate
+/usr/include/KF5/KJobWidgets/KJobWidgets
+/usr/include/KF5/KJobWidgets/KStatusBarJobTracker
+/usr/include/KF5/KJobWidgets/KUiServerJobTracker
+/usr/include/KF5/KJobWidgets/KUiServerV2JobTracker
+/usr/include/KF5/KJobWidgets/KWidgetJobTracker
+/usr/include/KF5/KJobWidgets/kabstractwidgetjobtracker.h
+/usr/include/KF5/KJobWidgets/kdialogjobuidelegate.h
+/usr/include/KF5/KJobWidgets/kjobwidgets.h
+/usr/include/KF5/KJobWidgets/kjobwidgets_export.h
+/usr/include/KF5/KJobWidgets/kjobwidgets_version.h
+/usr/include/KF5/KJobWidgets/kstatusbarjobtracker.h
+/usr/include/KF5/KJobWidgets/kuiserverjobtracker.h
+/usr/include/KF5/KJobWidgets/kuiserverv2jobtracker.h
+/usr/include/KF5/KJobWidgets/kwidgetjobtracker.h
+/usr/lib/cmake/KF5JobWidgets/KF5JobWidgetsConfig.cmake
+/usr/lib/cmake/KF5JobWidgets/KF5JobWidgetsConfigVersion.cmake
+/usr/lib/cmake/KF5JobWidgets/KF5JobWidgetsTargets-none.cmake
+/usr/lib/cmake/KF5JobWidgets/KF5JobWidgetsTargets.cmake
+/usr/lib/libKF5JobWidgets.so -> /usr/lib/libKF5JobWidgets.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KJobWidgets.pri

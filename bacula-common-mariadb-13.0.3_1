@@ -1,0 +1,8 @@
+/etc/bacula/scripts/create_mysql_database
+/etc/bacula/scripts/drop_mysql_database
+/etc/bacula/scripts/drop_mysql_tables
+/etc/bacula/scripts/grant_mysql_privileges
+/etc/bacula/scripts/make_mysql_tables
+/etc/bacula/scripts/update_mysql_tables
+/usr/lib/libbaccats-mysql-13.0.3.so
+/usr/lib/libbaccats-mysql.so -> /usr/lib/libbaccats-mysql-13.0.3.so

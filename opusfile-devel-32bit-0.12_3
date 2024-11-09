@@ -1,0 +1,6 @@
+/usr/lib32/libopusfile.a
+/usr/lib32/libopusfile.so -> /usr/lib32/libopusfile.so.0.4.5
+/usr/lib32/libopusurl.a
+/usr/lib32/libopusurl.so -> /usr/lib32/libopusurl.so.0.4.5
+/usr/lib32/pkgconfig/opusfile.pc
+/usr/lib32/pkgconfig/opusurl.pc

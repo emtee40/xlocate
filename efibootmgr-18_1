@@ -1,0 +1,8 @@
+/etc/default/efibootmgr-kernel-hook
+/etc/kernel.d/post-install/50-efibootmgr
+/etc/kernel.d/post-remove/50-efibootmgr
+/usr/bin/efibootdump
+/usr/bin/efibootmgr
+/usr/share/doc/efibootmgr/README.voidlinux
+/usr/share/man/man8/efibootdump.8
+/usr/share/man/man8/efibootmgr.8

@@ -1,0 +1,14 @@
+/usr/lib32/libcsirocsa.so -> /usr/lib32/libcsirocsa.so.0
+/usr/lib32/libcsironn.so -> /usr/lib32/libcsironn.so.0
+/usr/lib32/libplfortrandemolib.a
+/usr/lib32/libplplot.so -> /usr/lib32/libplplot.so.17
+/usr/lib32/libplplotcxx.so -> /usr/lib32/libplplotcxx.so.15
+/usr/lib32/libplplottcltk.so -> /usr/lib32/libplplottcltk.so.14
+/usr/lib32/libplplottcltk_Main.so -> /usr/lib32/libplplottcltk_Main.so.1
+/usr/lib32/libqsastime.so -> /usr/lib32/libqsastime.so.0
+/usr/lib32/libtclmatrix.so -> /usr/lib32/libtclmatrix.so.10
+/usr/lib32/pkgconfig/plplot-c++.pc
+/usr/lib32/pkgconfig/plplot-fortran.pc
+/usr/lib32/pkgconfig/plplot-tcl.pc
+/usr/lib32/pkgconfig/plplot-tcl_Main.pc
+/usr/lib32/pkgconfig/plplot.pc

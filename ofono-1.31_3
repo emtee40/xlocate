@@ -1,0 +1,6 @@
+/etc/dbus-1/system.d/ofono.conf
+/etc/ofono/phonesim.conf
+/etc/sv/ofonod/run
+/etc/sv/ofonod/supervise -> /run/runit/supervise.ofonod
+/usr/bin/ofonod
+/usr/share/man/man8/ofonod.8

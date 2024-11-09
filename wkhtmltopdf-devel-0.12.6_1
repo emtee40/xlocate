@@ -1,0 +1,5 @@
+/usr/include/wkhtmltox/dllbegin.inc
+/usr/include/wkhtmltox/dllend.inc
+/usr/include/wkhtmltox/image.h
+/usr/include/wkhtmltox/pdf.h
+/usr/lib/libwkhtmltox.so -> /usr/lib/libwkhtmltox.so.0.12.6

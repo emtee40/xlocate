@@ -1,0 +1,14 @@
+/etc/miniupnpd/ip6tables_init.sh
+/etc/miniupnpd/ip6tables_removeall.sh
+/etc/miniupnpd/iptables_init.sh
+/etc/miniupnpd/iptables_removeall.sh
+/etc/miniupnpd/miniupnpd.conf
+/etc/miniupnpd/miniupnpd_functions.sh
+/etc/sv/miniupnpd/log/run
+/etc/sv/miniupnpd/log/supervise -> /run/runit/supervise.miniupnpd-log
+/etc/sv/miniupnpd/run
+/etc/sv/miniupnpd/supervise -> /run/runit/supervise.miniupnpd
+/usr/bin/miniupnpd
+/usr/share/doc/miniupnpd/README.voidlinux
+/usr/share/licenses/miniupnpd/LICENSE
+/usr/share/man/man8/miniupnpd.8

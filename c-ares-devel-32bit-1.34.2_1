@@ -1,0 +1,3 @@
+/usr/lib32/libcares.a
+/usr/lib32/libcares.so -> /usr/lib32/libcares.so.2.19.1
+/usr/lib32/pkgconfig/libcares.pc

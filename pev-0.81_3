@@ -1,0 +1,33 @@
+/usr/bin/ofs2rva
+/usr/bin/pedis
+/usr/bin/pehash
+/usr/bin/peldd
+/usr/bin/pepack
+/usr/bin/peres
+/usr/bin/pescan
+/usr/bin/pesec
+/usr/bin/pestr
+/usr/bin/readpe
+/usr/bin/rva2ofs
+/usr/lib/libpe.so -> /usr/lib/libpe.so.1.0
+/usr/lib/libpe.so.1 -> /usr/lib/libpe.so.1.0
+/usr/lib/libpe.so.1.0
+/usr/lib/pev/plugins/csv_plugin.so
+/usr/lib/pev/plugins/html_plugin.so
+/usr/lib/pev/plugins/json_plugin.so
+/usr/lib/pev/plugins/text_plugin.so
+/usr/lib/pev/plugins/xml_plugin.so
+/usr/share/licenses/pev/libudis86.LICENSE
+/usr/share/licenses/pev/stack-dylib.LICENSE
+/usr/share/man/man1/ofs2rva.1
+/usr/share/man/man1/pedis.1
+/usr/share/man/man1/pehash.1
+/usr/share/man/man1/peldd.1
+/usr/share/man/man1/pepack.1
+/usr/share/man/man1/peres.1
+/usr/share/man/man1/pescan.1
+/usr/share/man/man1/pesec.1
+/usr/share/man/man1/pestr.1
+/usr/share/man/man1/readpe.1
+/usr/share/man/man1/rva2ofs.1
+/usr/share/pev/userdb.txt

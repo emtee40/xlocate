@@ -1,0 +1,12 @@
+/usr/bin/svsh
+/usr/share/man/man1/svsh.1p
+/usr/share/man/man3/Svsh.3p
+/usr/share/man/man3/Svsh::Daemontools.3p
+/usr/share/man/man3/Svsh::Perp.3p
+/usr/share/man/man3/Svsh::Runit.3p
+/usr/share/man/man3/Svsh::S6.3p
+/usr/share/perl5/vendor_perl/Svsh.pm
+/usr/share/perl5/vendor_perl/Svsh/Daemontools.pm
+/usr/share/perl5/vendor_perl/Svsh/Perp.pm
+/usr/share/perl5/vendor_perl/Svsh/Runit.pm
+/usr/share/perl5/vendor_perl/Svsh/S6.pm

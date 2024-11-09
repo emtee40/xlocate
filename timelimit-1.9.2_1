@@ -1,0 +1,7 @@
+/usr/bin/timelimit
+/usr/share/doc/timelimit/examples/tests/01-simple.t
+/usr/share/doc/timelimit/examples/tests/02-subsecond.t
+/usr/share/doc/timelimit/examples/tests/03-output.t
+/usr/share/doc/timelimit/examples/tests/04-signames.t
+/usr/share/licenses/timelimit/LICENSE
+/usr/share/man1/timelimit.1.gz

@@ -1,0 +1,2 @@
+/usr/include/SDL/SDL_sound.h
+/usr/lib/libSDL_sound.so -> /usr/lib/libSDL_sound-1.0.so.1.0.2

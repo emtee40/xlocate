@@ -1,0 +1,5 @@
+/usr/include/fetch.h
+/usr/lib/libfetch.a
+/usr/lib/libfetch.so -> /usr/lib/libfetch.so.2.34
+/usr/share/licenses/libfetch/LICENSE
+/usr/share/man/man3/fetch.3

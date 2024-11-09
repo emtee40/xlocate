@@ -1,0 +1,7 @@
+/usr/lib32/libprotobuf-lite.so -> /usr/lib32/libprotobuf-lite.so.25.2.0
+/usr/lib32/libprotobuf.so -> /usr/lib32/libprotobuf.so.25.2.0
+/usr/lib32/libutf8_range.a
+/usr/lib32/libutf8_validity.a
+/usr/lib32/pkgconfig/protobuf-lite.pc
+/usr/lib32/pkgconfig/protobuf.pc
+/usr/lib32/pkgconfig/utf8_range.pc

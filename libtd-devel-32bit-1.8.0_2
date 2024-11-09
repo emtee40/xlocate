@@ -1,0 +1,22 @@
+/usr/lib32/libtdactor.a
+/usr/lib32/libtdapi.a
+/usr/lib32/libtdclient.a
+/usr/lib32/libtdcore.a
+/usr/lib32/libtddb.a
+/usr/lib32/libtdjson.so -> /usr/lib32/libtdjson.so.1.8.0
+/usr/lib32/libtdjson_private.a
+/usr/lib32/libtdjson_static.a
+/usr/lib32/libtdnet.a
+/usr/lib32/libtdsqlite.a
+/usr/lib32/libtdutils.a
+/usr/lib32/pkgconfig/tdactor.pc
+/usr/lib32/pkgconfig/tdapi.pc
+/usr/lib32/pkgconfig/tdclient.pc
+/usr/lib32/pkgconfig/tdcore.pc
+/usr/lib32/pkgconfig/tddb.pc
+/usr/lib32/pkgconfig/tdjson.pc
+/usr/lib32/pkgconfig/tdjson_private.pc
+/usr/lib32/pkgconfig/tdjson_static.pc
+/usr/lib32/pkgconfig/tdnet.pc
+/usr/lib32/pkgconfig/tdsqlite.pc
+/usr/lib32/pkgconfig/tdutils.pc

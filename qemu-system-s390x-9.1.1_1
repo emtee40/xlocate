@@ -1,0 +1,3 @@
+/usr/bin/qemu-system-s390x
+/usr/share/qemu/s390-ccw.img
+/usr/share/qemu/s390-netboot.img

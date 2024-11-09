@@ -1,0 +1,23 @@
+/usr/include/KF5/KDESu/KDESu/Client
+/usr/include/KF5/KDESu/KDESu/PtyProcess
+/usr/include/KF5/KDESu/KDESu/SshProcess
+/usr/include/KF5/KDESu/KDESu/StubProcess
+/usr/include/KF5/KDESu/KDESu/SuProcess
+/usr/include/KF5/KDESu/kdesu/client.h
+/usr/include/KF5/KDESu/kdesu/defaults.h
+/usr/include/KF5/KDESu/kdesu/kdesu_export.h
+/usr/include/KF5/KDESu/kdesu/process.h
+/usr/include/KF5/KDESu/kdesu/ptyprocess.h
+/usr/include/KF5/KDESu/kdesu/ssh.h
+/usr/include/KF5/KDESu/kdesu/sshprocess.h
+/usr/include/KF5/KDESu/kdesu/stub.h
+/usr/include/KF5/KDESu/kdesu/stubprocess.h
+/usr/include/KF5/KDESu/kdesu/su.h
+/usr/include/KF5/KDESu/kdesu/suprocess.h
+/usr/include/KF5/KDESu/kdesu_version.h
+/usr/lib/cmake/KF5Su/KF5SuConfig.cmake
+/usr/lib/cmake/KF5Su/KF5SuConfigVersion.cmake
+/usr/lib/cmake/KF5Su/KF5SuTargets-none.cmake
+/usr/lib/cmake/KF5Su/KF5SuTargets.cmake
+/usr/lib/libKF5Su.so -> /usr/lib/libKF5Su.so.5
+/usr/lib/qt5/mkspecs/modules/qt_KDESu.pri
